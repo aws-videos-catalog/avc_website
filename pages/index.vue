@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <listing :items="services"></listing>
-  
+      
   </div>
 </template>
 
