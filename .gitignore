@@ -50,6 +50,9 @@ typings/
 # Optional npm cache directory
 .npm
 
+# Ignore python scripts
+*.py
+
 # Optional eslint cache
 .eslintcache
 

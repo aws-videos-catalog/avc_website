@@ -1,6 +1,6 @@
 <template>
   <div>
-    <ad :adObject="ads[random_ad_order[0]]"></ad>
+    <ad :adOrder="random_ad_order[0]"></ad>
     <div v-for="(sub_items,parent) in items" :key="parent">
       <p class="title">{{parent}}</p>
       <ul>
@@ -9,12 +9,12 @@
               {{sub.name}}
             </nuxt-link>
             <div v-if="names_to_links[sub.name].ad">
-              <ad :adObject="ads[random_ad_order[1]]"></ad>
+              <ad :adOrder="random_ad_order[1]"></ad>
             </div>
           </li>
       </ul>
     </div>
-    <ad :adObject="ads[random_ad_order[ads.length-1]]"></ad>
+    <ad :adOrder="random_ad_order[ads.length-1]"></ad>
   </div>
 </template>
 
