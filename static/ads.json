@@ -3,19 +3,19 @@
     "img": "",
     "title": "Ad 1",
     "description": "Description for Ad 1",
-    "url": "example1.com"
+    "url": "https://google.com"
   },
   {
     "img": "",
     "title": "Ad 2",
     "description": "Description for Ad 2",
-    "url": "example2.com"
+    "url": "https://google.com"
   },
   {
     "img": "",
     "title": "Ad 3",
     "description": "Description for Ad 3",
-    "url": "example3.com"
+    "url": "https://google.com"
   }
 
 ]
