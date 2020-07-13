@@ -1,27 +1,43 @@
 <template>
-  <div class="container">
+  <b-container>
     <listing :items="services"></listing>
-      
-  </div>
+  </b-container>
 </template>
 
 <script>
+
 import Listing from '~/components/Listing.vue'
+import Ad from '~/components/Ad.vue'
 // import services.json file from static folder
 import services from '~/static/services.json'
+import ads from '~/static/ads.json'
 export default {
   components: {
-    Listing
+    Listing,
+    Ad
   },
   data(){
     return{
       services:services
     }
+  },
+  computed:{
+    //
+    //  1.  A function to randomize the ad order.
+    //
+    random_ad_order: function(){
+      //
+      //  1.  Create an array with the same length of ads
+      //      starting from 0.
+      //
+      const arr = [...Array(ads.length).keys()];
+      return arr.shuffle()
+    }
   }
 }
 </script>
 
-<style>
+<style scoped>
 .container {
   min-height: 100vh;
   min-width: 100vw;

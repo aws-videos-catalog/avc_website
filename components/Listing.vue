@@ -1,20 +1,16 @@
 <template>
   <div>
-    <ad :adObject="ads[random_ad_order[0]]"></ad>
+    <ad :adOrder="random_ad_order[0]"></ad>
     <div v-for="(sub_items,parent) in items" :key="parent">
       <p class="title">{{parent}}</p>
       <ul>
           <li v-for="sub in sub_items" :key="sub.name">
-            <nuxt-link :to="'services/'+names_to_links[sub.name].link">
+            <nuxt-link :to="'/'+names_to_links[sub.name].link">
               {{sub.name}}
             </nuxt-link>
-            <div v-if="names_to_links[sub.name].ad">
-              <ad :adObject="ads[random_ad_order[1]]"></ad>
-            </div>
           </li>
       </ul>
     </div>
-    <ad :adObject="ads[random_ad_order[ads.length-1]]"></ad>
   </div>
 </template>
 
@@ -96,7 +92,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 
 .title {
   font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,

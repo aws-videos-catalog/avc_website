@@ -1,0 +1,241 @@
+ <template>
+  <div>
+  <b-container class="video-container">
+    <h2>{{title}}</h2>
+    <bread-crumb/>
+    <b-row>
+      <b-col md="8" class="placeholder" id="main-video" align-self="stretch">
+        <main-video
+          :title="main_video.title"
+          :url="main_video.url"
+          :date="main_video.date"></main-video>
+      </b-col>
+      <b-col class="placeholder" align-self="stretch">
+        <Ad style="margin-top:40px" :random="true"></Ad>
+      </b-col>
+    </b-row>
+    <hr/>
+    <ul v-for="data in data_by_years" :key="data.year">
+      <h3>{{data.year}}</h3>
+      <b-row>
+        <b-col v-for="(video,i) in data.videos" :key="'video_'+i" md="2">
+          <small-video
+            :title="video.title"
+            :url="'?video_id='+video.url.split('?v=')[1]"/>
+        </b-col>
+      </b-row>
+    </ul>
+  </b-container>
+  </div>
+</template>
+
+<script>
+//
+//  Importing necessary components
+//
+import getService from '~/static/service_server.js'
+import MainVideo from '~/components/MainVideo.vue'
+import SmallVideo from '~/components/SmallVideo.vue'
+import Ad from '~/components/Ad.vue'
+import BreadCrumb from '~/components/BreadCrumb.vue'
+
+// HELPER FUNCTIONS
+
+let capitalize_reducer = (current_val,prev_val)=>{
+  // 
+  //  Capitalize both current and previous value,
+  //  return a string which adds them both.
+  //
+  let capitalized_prev_val = String(prev_val[0]).toUpperCase() + prev_val.slice(1)
+  let capitalized_val = String(current_val[0]).toUpperCase() + current_val.slice(1)
+  return capitalized_val + ' ' + capitalized_prev_val
+}
+
+//
+//  A function to remove given element from array
+//
+function remove(array, element) {
+  return array.filter(el => el !== element);
+}
+
+export default {
+  layout: "default",
+  components:{
+    MainVideo,
+    SmallVideo,
+    Ad,
+    BreadCrumb
+  },
+  data(){
+
+    //
+    //  1.  Create an array of nested routes by splitting current path by '/'
+    //
+    let current_service = this.$route.params.name
+    let text = '';
+    let temporary = current_service.split('_')
+    let main_video;
+    //
+    //  2.  If value can be splitted via '_' that means it has spaces
+    //      so we revert that value back to it's original string.
+    //      e.g. tolga_oguz --> Tolga Oğuz
+    //  
+    if(temporary.length>0)
+    {
+      //
+      //  1.  Create a string by capitalizing each word in the temporary array
+      //      which would give us the original string
+      //
+      text = temporary.reduce(capitalize_reducer)
+    }  
+    //
+    //  3.  Instead of using asyncData, sorting data before passing it to data()
+    //      so it's easy to pick the main video which would be the first in the sorted list.
+    //
+    let service_data = getService(this.$route.params.name)
+    let sorted_data = service_data.sort(function(a,b){
+      //
+      //  1.  Turn your strings into dates, and then subtract them
+      //      to get a value that is either negative, positive, or zero.
+      //
+      return new Date(b.date) - new Date(a.date);
+    });
+    
+    //
+    //  4.  Get the main video id from URL if it's given,
+    //      else return the first video from sorted dataset
+    //
+    console.log(this.$route.query.video_id)
+    if(this.$route.query.video_id){
+      //
+      //  1.  Get video id from query params
+      //
+      let video_id = this.$route.query.video_id
+
+      //
+      //  2.  Split the query with '-'
+      //
+      let separated = video_id.split('-')
+      //
+      //  3.  Last element of splitted array will be the order of video
+      //
+      let id = separated[separated.length-1]
+      //
+      //  4.  Create an array of all video_ids so it's easier to find the index
+      //
+      let all_video_ids = sorted_data.map((val,idx)=>{
+        return val.url.split('?v=')[1]
+      })
+      //
+      //  5.  Find the index of current video, given its id
+      //
+      let index = all_video_ids.indexOf(video_id)
+      
+      //
+      //  6.  Return the main_video if index is found
+      //
+      if(index===-1)
+      {
+        console.log(index)
+        //
+        //  TODO: Return 404 here.
+        //
+        main_video = null
+      }
+
+      main_video = sorted_data[index]
+
+      console.log(main_video)
+
+    }
+    else
+    {
+      //
+      //  1.  If there isn't a video id given in query params, return the first
+      //      video from sorted dataset.
+      //
+      main_video = sorted_data[0]
+      console.log(main_video)
+    }
+    return{
+      name: this.$route.params.name,
+      service_data: sorted_data,
+      title: text,
+      main_video: main_video
+    }
+  },
+  computed:{
+    data_by_years: function(){
+      //
+      //  1.  Create an empty array to hold our objects
+      //
+      let array = []
+      //
+      //  2.  Create a separate copy of sorted service data.
+      //
+      let sorted_data = this.service_data.slice()
+      //
+      //  3.  We don't want the current video to be displayed in 
+      //      suggested videos.
+      //
+      console.log(sorted_data)
+      sorted_data = remove(sorted_data,this.main_video)
+      console.log(sorted_data)
+      //
+      //  4.  Find year values inside videos data, store it inside dates array.
+      //
+      let dates = sorted_data.map((val,idx)=>{
+        return new Date(val.date).getFullYear()
+      })
+      //
+      //  5.  Make the year value array a HashSet so it's unique.
+      //
+      let years = [...new Set(dates)]
+      //
+      //  6.  For each year value
+      //
+      years.forEach((year,year_idx)=>{
+        //
+        //  1.  We create an empty array first
+        //
+        let temp_dct = {}
+        //
+        //  2.  Set the year key to corresponding year value
+        //
+        temp_dct['year'] = year
+        //
+        //  3.  Then create videos key as an empty array
+        //
+        temp_dct['videos'] = []
+        //
+        //  4. For each video data in sorted_data,
+        //
+        sorted_data.forEach((service,service_idx)=>{
+          //
+          //  1.  If current year value is equal to the current service's year value,
+          //      push it to videos array of current dictionary.
+          //
+          if(year===new Date(service.date).getFullYear())
+            temp_dct['videos'].push(service)
+        })
+        //
+        //  5.  Push the created dictionary to array. 
+        //
+        array.push(temp_dct)
+      })
+      return array
+    }
+  }
+
+}
+</script>
+
+<style scoped>
+.video-container{
+margin-top: 50px;
+}
+
+ul{
+  padding:0px
+}
+</style>

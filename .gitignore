@@ -50,6 +50,9 @@ typings/
 # Optional npm cache directory
 .npm
 
+# Ignore python scripts
+*.py
+
 # Optional eslint cache
 .eslintcache
 
@@ -102,3 +105,4 @@ dist
 
 # TernJS port file
 .tern-port
+david_notes.txt
