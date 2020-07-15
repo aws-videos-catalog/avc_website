@@ -6,7 +6,7 @@
 
 <style>
 .body{
-  min-height:100vh;
+  min-height:100%;
   min-width:100vw
 }
 </style>

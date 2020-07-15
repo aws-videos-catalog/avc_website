@@ -12,6 +12,7 @@ import Ad from '~/components/Ad.vue'
 import services from '~/static/services.json'
 import ads from '~/static/ads.json'
 export default {
+  layout: "default",
   components: {
     Listing,
     Ad
