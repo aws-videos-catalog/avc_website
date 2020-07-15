@@ -10,8 +10,8 @@
           :url="main_video.url"
           :date="main_video.date"></main-video>
       </b-col>
-      <b-col class="placeholder" align-self="stretch">
-        <Ad style="margin-top:40px" :random="true"></Ad>
+      <b-col md="4" class="placeholder" align-self="stretch">
+        <Ad :random="true"></Ad>
       </b-col>
     </b-row>
     <hr/>
@@ -144,7 +144,7 @@ export default {
       }
 
       main_video = sorted_data[index]
-
+      
       console.log(main_video)
 
     }
