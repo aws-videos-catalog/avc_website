@@ -2,8 +2,8 @@
   <div class="my-2 small-video">
     <a :href="url">
       <img src="/ad300x300.png">
-      <p>{{title}}</p>
     </a>
+    <p>{{title}}</p>
   </div>
 </template>
 
@@ -21,19 +21,12 @@ export default {
 }
 </script>
 
-<style scoped>
+<style scoped>  
 .small-video{
-  height:100px;
-  text-align:center;
-}
-.small-video a{
-  text-decoration: none;
-}
-.small-video p{
-  margin-top:10px
+  min-width:100%
 }
 .small-video img{
   width:100%;
-  height: 100%;
+  height:100%
 }
 </style>
