@@ -34,6 +34,7 @@
 //  Importing necessary components
 //
 import getService from '~/static/service_server.js'
+import service from '~/static/services.json'
 import MainVideo from '~/components/MainVideo.vue'
 import SmallVideo from '~/components/SmallVideo.vue'
 import Ad from '~/components/Ad.vue'
@@ -67,10 +68,11 @@ export default {
     BreadCrumb
   },
   data(){
-
+    
     //
     //  1.  Create an array of nested routes by splitting current path by '/'
     //
+    
     let current_service = this.$route.params.name
     let text = '';
     let temporary = current_service.split('_')
@@ -105,7 +107,7 @@ export default {
     //  4.  Get the main video id from URL if it's given,
     //      else return the first video from sorted dataset
     //
-    console.log(this.$route.query.video_id)
+    
     if(this.$route.query.video_id){
       //
       //  1.  Get video id from query params
@@ -136,7 +138,7 @@ export default {
       //
       if(index===-1)
       {
-        console.log(index)
+        
         //
         //  TODO: Return 404 here.
         //
@@ -145,7 +147,7 @@ export default {
 
       main_video = sorted_data[index]
       
-      console.log(main_video)
+
 
     }
     else
@@ -155,7 +157,6 @@ export default {
       //      video from sorted dataset.
       //
       main_video = sorted_data[0]
-      console.log(main_video)
     }
     return{
       name: this.$route.params.name,
@@ -178,9 +179,7 @@ export default {
       //  3.  We don't want the current video to be displayed in 
       //      suggested videos.
       //
-      console.log(sorted_data)
       sorted_data = remove(sorted_data,this.main_video)
-      console.log(sorted_data)
       //
       //  4.  Find year values inside videos data, store it inside dates array.
       //
