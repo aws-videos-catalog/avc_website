@@ -77,30 +77,41 @@ export default {
     let text = '';
     let temporary = current_service.split('_')
     let main_video;
+
     //
     //  2.  If value can be splitted via '_' that means it has spaces
     //      so we revert that value back to it's original string.
     //      e.g. tolga_oguz --> Tolga Oğuz
     //  
-    if(temporary.length>0)
+    if(temporary.length>1)
     {
       //
       //  1.  Create a string by capitalizing each word in the temporary array
       //      which would give us the original string
       //
       text = temporary.reduce(capitalize_reducer)
-    }  
+    }else{
+
+      //
+      //  1.  If service name is only one word, then we just want to capitalize it
+      //
+      text = text.charAt(0).toUpperCase() + text.substring(1)
+
+    }
+
     //
     //  3.  Instead of using asyncData, sorting data before passing it to data()
     //      so it's easy to pick the main video which would be the first in the sorted list.
     //
     let service_data = getService(this.$route.params.name)
     let sorted_data = service_data.sort(function(a,b){
+
       //
       //  1.  Turn your strings into dates, and then subtract them
       //      to get a value that is either negative, positive, or zero.
       //
       return new Date(b.date) - new Date(a.date);
+
     });
     
     //
@@ -118,16 +129,19 @@ export default {
       //  2.  Split the query with '-'
       //
       let separated = video_id.split('-')
+
       //
       //  3.  Last element of splitted array will be the order of video
       //
       let id = separated[separated.length-1]
+
       //
       //  4.  Create an array of all video_ids so it's easier to find the index
       //
       let all_video_ids = sorted_data.map((val,idx)=>{
         return val.url.split('?v=')[1]
       })
+
       //
       //  5.  Find the index of current video, given its id
       //
@@ -138,7 +152,6 @@ export default {
       //
       if(index===-1)
       {
-        
         //
         //  TODO: Return 404 here.
         //
@@ -146,8 +159,6 @@ export default {
       }
 
       main_video = sorted_data[index]
-      
-
 
     }
     else
