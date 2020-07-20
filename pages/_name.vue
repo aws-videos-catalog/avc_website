@@ -15,16 +15,14 @@
       </b-col>
     </b-row>
     <hr/>
-    <ul v-for="data in data_by_years" :key="data.year">
-      <h3>{{data.year}}</h3>
-      <b-row>
-        <b-col v-for="(video,i) in data.videos" :key="'video_'+i" md="2">
-          <small-video
-            :title="video.title"
-            :url="'?video_id='+video.url.split('?v=')[1]"/>
-        </b-col>
-      </b-row>
-    </ul>
+    <b-row v-for="data in data_by_years" :key="data.year">
+      <h3 style="width:100vw;margin-left:15px">{{data.year}}</h3>
+      <b-col v-for="(video,i) in data.videos" :key="'video_'+i" md="2">
+        <small-video
+          :title="video.title"
+          :url="'?video_id='+video.url.split('?v=')[1]"/>
+      </b-col>
+    </b-row>
   </b-container>
   </div>
 </template>
@@ -91,14 +89,13 @@ export default {
       //
       text = temporary.reduce(capitalize_reducer)
     }else{
-
+      console.log(text)
       //
       //  1.  If service name is only one word, then we just want to capitalize it
       //
-      text = text.charAt(0).toUpperCase() + text.substring(1)
-
+      text = current_service.charAt(0).toUpperCase() + current_service.substring(1)
     }
-
+    console.log(text)
     //
     //  3.  Instead of using asyncData, sorting data before passing it to data()
     //      so it's easy to pick the main video which would be the first in the sorted list.
