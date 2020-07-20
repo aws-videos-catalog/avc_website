@@ -3,7 +3,7 @@
   <b-container class="video-container">
     <h2>{{title}}</h2>
     <bread-crumb/>
-    <b-row>
+    <b-row class="px-3">
       <b-col md="8" class="placeholder" id="main-video" align-self="stretch">
         <main-video
           :title="main_video.title"
@@ -73,7 +73,7 @@ export default {
     //  1.  Create an array of nested routes by splitting current path by '/'
     //
     
-    let current_service = this.$route.params.name
+    let current_service = this.$route.params.name 
     let text = '';
     let temporary = current_service.split('_')
     let main_video;
