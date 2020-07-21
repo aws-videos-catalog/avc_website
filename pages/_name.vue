@@ -4,24 +4,24 @@
     <h2>{{title}}</h2>
     <bread-crumb/>
     <b-row class="px-3">
-      <b-col md="8" class="placeholder" id="main-video" align-self="stretch">
+      <b-col md="9" class="placeholder" id="main-video" align-self="stretch">
         <main-video
           :title="main_video.title"
           :url="main_video.url"
           :date="main_video.date"></main-video>
       </b-col>
-      <b-col md="4" class="placeholder" align-self="stretch">
-        <Ad :random="true"></Ad>
+      <b-col md="3" class="placeholder pl-0" align-self="stretch">
+        <Ad width="100%" :random="true"></Ad>
       </b-col>
     </b-row>
     <hr/>
-    <b-row v-for="data in data_by_years" :key="data.year">
-      <h3 style="width:100vw;margin-left:15px">{{data.year}}</h3>
-      <b-col v-for="(video,i) in data.videos" :key="'video_'+i" md="2">
+    <b-row class="px-3" v-for="data in data_by_years" :key="data.year">
+      <h3 style="padding-left:15px;width:100vw;">{{data.year}}</h3>
+      <div style="padding-left:15px" v-for="(video,i) in data.videos" :key="'video_'+i">
         <small-video
           :title="video.title"
           :url="'?video_id='+video.url.split('?v=')[1]"/>
-      </b-col>
+      </div>
     </b-row>
   </b-container>
   </div>

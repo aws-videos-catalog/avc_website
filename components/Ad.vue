@@ -1,8 +1,7 @@
 <template>
   <div>
     <a :href="adObject.url">
-      <img width="300px" height="400
-    px" :src="adObject.img.length>0 ? adObject.img : '/ad300x300.png'"/>
+      <img :width="width ? width : '300px'"  height="400px" :src="adObject.img.length>0 ? adObject.img : '/ad300x300.png'"/>
     </a>
     <p> {{adObject.description}} </p>
   </div>

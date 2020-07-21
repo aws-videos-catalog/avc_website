@@ -26,7 +26,17 @@ export default {
   min-width:100%
 }
 .small-video img{
-  width:100%;
-  height:100%
+  width:200px;
+  height:120px;
 }
-</style>
+@media (max-width : 462px) {
+.small-video img{
+  display:inline-block;
+}
+
+.small-video p{
+  display:inline;
+}
+
+}
+</style>  
