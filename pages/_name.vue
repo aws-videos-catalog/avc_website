@@ -3,28 +3,26 @@
   <b-container class="video-container">
     <h2>{{title}}</h2>
     <bread-crumb/>
-    <b-row>
-      <b-col md="8" class="placeholder" id="main-video" align-self="stretch">
+    <b-row class="px-3">
+      <b-col md="9" class="placeholder" id="main-video" align-self="stretch">
         <main-video
           :title="main_video.title"
           :url="main_video.url"
           :date="main_video.date"></main-video>
       </b-col>
-      <b-col class="placeholder" align-self="stretch">
-        <Ad style="margin-top:40px" :random="true"></Ad>
+      <b-col md="3" class="placeholder pl-0" align-self="stretch">
+        <Ad width="100%" :random="true"></Ad>
       </b-col>
     </b-row>
     <hr/>
-    <ul v-for="data in data_by_years" :key="data.year">
-      <h3>{{data.year}}</h3>
-      <b-row>
-        <b-col v-for="(video,i) in data.videos" :key="'video_'+i" md="2">
-          <small-video
-            :title="video.title"
-            :url="'?video_id='+video.url.split('?v=')[1]"/>
-        </b-col>
-      </b-row>
-    </ul>
+    <b-row class="px-3" v-for="data in data_by_years" :key="data.year">
+      <h3 style="padding-left:15px;width:100vw;">{{data.year}}</h3>
+      <div style="padding-left:15px" v-for="(video,i) in data.videos" :key="'video_'+i">
+        <small-video
+          :title="video.title"
+          :url="'?video_id='+video.url.split('?v=')[1]"/>
+      </div>
+    </b-row>
   </b-container>
   </div>
 </template>
@@ -34,6 +32,7 @@
 //  Importing necessary components
 //
 import getService from '~/static/service_server.js'
+import service from '~/static/services.json'
 import MainVideo from '~/components/MainVideo.vue'
 import SmallVideo from '~/components/SmallVideo.vue'
 import Ad from '~/components/Ad.vue'
@@ -67,45 +66,56 @@ export default {
     BreadCrumb
   },
   data(){
-
+    
     //
     //  1.  Create an array of nested routes by splitting current path by '/'
     //
-    let current_service = this.$route.params.name
+    
+    let current_service = this.$route.params.name 
     let text = '';
     let temporary = current_service.split('_')
     let main_video;
+
     //
     //  2.  If value can be splitted via '_' that means it has spaces
     //      so we revert that value back to it's original string.
     //      e.g. tolga_oguz --> Tolga Oğuz
     //  
-    if(temporary.length>0)
+    if(temporary.length>1)
     {
       //
       //  1.  Create a string by capitalizing each word in the temporary array
       //      which would give us the original string
       //
       text = temporary.reduce(capitalize_reducer)
-    }  
+    }else{
+      console.log(text)
+      //
+      //  1.  If service name is only one word, then we just want to capitalize it
+      //
+      text = current_service.charAt(0).toUpperCase() + current_service.substring(1)
+    }
+    console.log(text)
     //
     //  3.  Instead of using asyncData, sorting data before passing it to data()
     //      so it's easy to pick the main video which would be the first in the sorted list.
     //
     let service_data = getService(this.$route.params.name)
     let sorted_data = service_data.sort(function(a,b){
+
       //
       //  1.  Turn your strings into dates, and then subtract them
       //      to get a value that is either negative, positive, or zero.
       //
       return new Date(b.date) - new Date(a.date);
+
     });
     
     //
     //  4.  Get the main video id from URL if it's given,
     //      else return the first video from sorted dataset
     //
-    console.log(this.$route.query.video_id)
+    
     if(this.$route.query.video_id){
       //
       //  1.  Get video id from query params
@@ -116,16 +126,19 @@ export default {
       //  2.  Split the query with '-'
       //
       let separated = video_id.split('-')
+
       //
       //  3.  Last element of splitted array will be the order of video
       //
       let id = separated[separated.length-1]
+
       //
       //  4.  Create an array of all video_ids so it's easier to find the index
       //
       let all_video_ids = sorted_data.map((val,idx)=>{
         return val.url.split('?v=')[1]
       })
+
       //
       //  5.  Find the index of current video, given its id
       //
@@ -136,7 +149,6 @@ export default {
       //
       if(index===-1)
       {
-        console.log(index)
         //
         //  TODO: Return 404 here.
         //
@@ -144,8 +156,6 @@ export default {
       }
 
       main_video = sorted_data[index]
-
-      console.log(main_video)
 
     }
     else
@@ -155,7 +165,6 @@ export default {
       //      video from sorted dataset.
       //
       main_video = sorted_data[0]
-      console.log(main_video)
     }
     return{
       name: this.$route.params.name,
@@ -178,9 +187,7 @@ export default {
       //  3.  We don't want the current video to be displayed in 
       //      suggested videos.
       //
-      console.log(sorted_data)
       sorted_data = remove(sorted_data,this.main_video)
-      console.log(sorted_data)
       //
       //  4.  Find year values inside videos data, store it inside dates array.
       //

@@ -34,6 +34,7 @@
 
 .footer p{
   margin:15px;
+  min-width:100%
 }
 
 .footer a{
