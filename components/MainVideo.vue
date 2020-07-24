@@ -1,8 +1,8 @@
 <template>
 <div style="height:100%">
-  <h3>{{title}}</h3>
-  <p> Posted at, {{posted_date}} </p>
   <iframe width="100%" height="400px" style="display:block;position:relative" :src="embedded_url" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <h3 style="margin-top:10px"> {{title}} </h3>
+  <p> Posted at, {{posted_date}} </p>
 </div>
 </template>
 
