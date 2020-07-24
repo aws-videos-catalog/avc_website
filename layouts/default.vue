@@ -25,7 +25,6 @@
 .footer{
   display:flex;
   flex-direction:row;
-  width:100%; 
   justify-content: center;
   padding-top:50px;
   padding-bottom:30px;
@@ -34,7 +33,6 @@
 
 .footer p{
   margin:15px;
-  min-width:100%
 }
 
 .footer a{
