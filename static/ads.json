@@ -1,0 +1,21 @@
+[
+  {
+    "img": "",
+    "title": "Ad 1",
+    "description": "Description for Ad 1",
+    "url": "https://google.com"
+  },
+  {
+    "img": "",
+    "title": "Ad 2",
+    "description": "Description for Ad 2",
+    "url": "https://google.com"
+  },
+  {
+    "img": "",
+    "title": "Ad 3",
+    "description": "Description for Ad 3",
+    "url": "https://google.com"
+  }
+
+]
