@@ -1,7 +1,7 @@
 <template>
-  <b-container>
+  <div class="container">
     <listing :items="services"></listing>
-  </b-container>
+  </div>
 </template>
 
 <script>
@@ -11,6 +11,7 @@ import Ad from '~/components/Ad.vue'
 // import services.json file from static folder
 import services from '~/static/services.json'
 import ads from '~/static/ads.json'
+
 export default {
   components: {
     Listing,
@@ -39,9 +40,7 @@ export default {
 
 <style scoped>
 .container {
-  min-height: 100vh;
-  min-width: 100vw;
-  display: flex;
+  margin:2rem;
 }
 
 .subtitle {
