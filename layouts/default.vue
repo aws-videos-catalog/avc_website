@@ -19,7 +19,7 @@
 <style>
 .body{
   min-height:100%;
-  min-width:100%;
+  min-width:100vw;
 }
 
 .footer{
@@ -40,7 +40,6 @@
   color:inherit;
   font-weight:600;
 }
-
 
 </style>
   
