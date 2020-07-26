@@ -106,3 +106,4 @@ dist
 # TernJS port file
 .tern-port
 david_notes.txt
+*.DS_Store
