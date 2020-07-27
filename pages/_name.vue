@@ -89,17 +89,16 @@ export default {
       //
       text = temporary.reduce(capitalize_reducer)
     }else{
-      console.log(text)
       //
       //  1.  If service name is only one word, then we just want to capitalize it
       //
       text = current_service.charAt(0).toUpperCase() + current_service.substring(1)
     }
-    console.log(text)
     //
     //  3.  Instead of using asyncData, sorting data before passing it to data()
     //      so it's easy to pick the main video which would be the first in the sorted list.
     //
+    console.log(this.$route.params.name)
     let service_data = getService(this.$route.params.name)
     let sorted_data = service_data.sort(function(a,b){
 
