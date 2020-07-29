@@ -1,15 +1,12 @@
 <template>
   <div>
     <ad :adOrder="random_ad_order[0]"></ad>
-    <div v-for="(sub_items,parent) in items" :key="parent">
-      <p class="title">{{parent}}</p>
-      <ul>
-          <li v-for="sub in sub_items" :key="sub.name">
-            <nuxt-link :to="'/'+names_to_links[sub.name].link">
-              {{sub.name}}
-            </nuxt-link>
-          </li>
-      </ul>
+    <div v-for="(item,idx) in items" :key="`item_${idx}`">
+      <p class="title">
+      <nuxt-link :to="'/'+names_to_links[idx]">
+        {{item}}
+      </nuxt-link>
+      </p>
     </div>
   </div>
 </template>
@@ -51,7 +48,7 @@ export default {
   },
   props:{
     items:{
-      type:Object,
+      type:Array,
       required:true,
     }
   },
@@ -64,16 +61,10 @@ export default {
     names_to_links: function(){
       let dct = {}
       let i = 0;
-      for (const [parent, value] of Object.entries(this.$props.items)) {
-        value.forEach((item,idx)=>{
-          let link = item.name.split(' ').join('_').toLowerCase()
-          dct[item.name] = {link:link,ad:false}
-          // Stupid way to find halfway of the dictionary, avoiding further steps for now
-          if(i===86){
-            dct[item.name].ad=true
-          }
-          i+=1
-        })
+      for (const value of this.$props.items) {
+        let link = value.split(' ').join('_').toLowerCase()
+        console.log(link)
+        
       }
       return dct
     },
