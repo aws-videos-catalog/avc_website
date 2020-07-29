@@ -1,5 +1,6 @@
 <template>
   <div>
+    <h3>{{adObject.title}}</h3>
     <a :href="adObject.url">
       <img :width="width ? width : '300px'"  height="400px" :src="adObject.img.length>0 ? adObject.img : '/ad300x300.png'"/>
     </a>
@@ -21,7 +22,7 @@ export default {
       required:false
     },
     width:{
-      type:Number,
+      type:String,
       required:false
     },
     random:{
