@@ -90,8 +90,12 @@ export default {
   display: inline-block;
   font-weight: 700;
   font-size: 30px;
-  color: #35495e;
   letter-spacing: 1px;
+}
+
+.title a{
+  text-decoration: none;
+  color:inherit;
 }
 
 </style>

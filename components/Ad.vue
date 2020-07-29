@@ -21,7 +21,7 @@ export default {
       required:false
     },
     width:{
-      type:Number,
+      type:String,
       required:false
     },
     random:{
