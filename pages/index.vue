@@ -34,7 +34,7 @@ export default {
       //
       const arr = [...Array(ads.length).keys()];
       return arr.shuffle()
-    }
+   }
   }
 }
 </script>
