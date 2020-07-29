@@ -19,6 +19,12 @@ let capitalize_reducer = (current_val,prev_val)=>{
   return capitalized_val + ' ' + capitalized_prev_val
 }
 
+//
+//  This function returns a percentage of similarity between two given strings using Levenshtein Distance
+//  https://stackoverflow.com/questions/10473745/compare-strings-javascript-return-of-likely,
+//  https://en.wikipedia.org/wiki/Levenshtein_distance
+//
+
 function similarity(s1, s2) {
   var longer = s1;
   var shorter = s2;
@@ -65,27 +71,6 @@ function editDistance(s1, s2) {
 //
 
 export default {
-  data(){
-    let name = this.$route.params.name
-    let category;
-    if(name){
-       Object.entries(services).forEach((val,idx)=>{
-          //
-          //  1.  val variable is an array which first element is the key name,
-          //      and the second is an array of values that key holds.
-          //
-          val[1].forEach((arr,index)=>{
-            if(name && similarity(name,arr.name) > 0.8)
-            {
-              category = val[0]
-            }
-          })
-        })
-    }
-    return{
-      category: category
-    }
-  },
   computed:{
     items: function(){
       //

@@ -3,7 +3,7 @@
     <ad :adOrder="random_ad_order[0]"></ad>
     <div v-for="(item,idx) in items" :key="`item_${idx}`">
       <p class="title">
-      <nuxt-link :to="'/'+links[idx]">
+      <nuxt-link :to="links[idx]" append>
         {{item}}
       </nuxt-link>
       </p>
