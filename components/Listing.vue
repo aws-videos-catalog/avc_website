@@ -3,7 +3,7 @@
     <ad :adOrder="random_ad_order[0]"></ad>
     <div v-for="(item,idx) in items" :key="`item_${idx}`">
       <p class="title">
-      <nuxt-link :to="'/'+names_to_links[idx]">
+      <nuxt-link :to="'/'+links[idx]">
         {{item}}
       </nuxt-link>
       </p>
@@ -58,15 +58,14 @@ export default {
     }
   },
   computed:{
-    names_to_links: function(){
-      let dct = {}
+    links: function(){
+      let links = []
       let i = 0;
       for (const value of this.$props.items) {
         let link = value.split(' ').join('_').toLowerCase()
-        console.log(link)
-        
+        links.push(link)
       }
-      return dct
+      return links
     },
     //
     //  2.  A function to randomize the ad order.
