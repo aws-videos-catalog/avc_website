@@ -6,7 +6,7 @@
     </b-container>
   </b-jumbotron>
   <div class="container">
-    <listing :items="services"></listing>
+    <listing :items="categories"></listing>
   </div>
 </div>
 </template>
@@ -14,35 +14,22 @@
 <script>
 
 import Listing from '~/components/Listing.vue'
-import Ad from '~/components/Ad.vue'
 // import services.json file from static folder
 import services from '~/static/services.json'
-import ads from '~/static/ads.json'
 
 export default {
   layout: "default",
   components: {
-    Listing,
-    Ad
+    Listing
   },
   data(){
+    let category_names = Object.entries(services).map(([category,category_data])=>{
+      return category
+    })
     return{
-      services:services
+      categories:category_names
     }
   },
-  computed:{
-    //
-    //  1.  A function to randomize the ad order.
-    //
-    random_ad_order: function(){
-      //
-      //  1.  Create an array with the same length of ads
-      //      starting from 0.
-      //
-      const arr = [...Array(ads.length).keys()];
-      return arr.shuffle()
-   }
-  }
 }
 </script>
 

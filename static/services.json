@@ -567,7 +567,7 @@
         }
 
     ],
-    "Security, Identity, & Compliance": [
+    "Security Identity & Compliance": [
         {
             "name": "IAM",
             "description": "Securely manage access to AWS services and resources",

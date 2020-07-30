@@ -236,7 +236,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 .video-container{
 margin-top: 50px;
 }
