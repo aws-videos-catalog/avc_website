@@ -1,6 +1,5 @@
  <template>
-  <div>
-  <b-container class="video-container">
+  <b-container class="listing-container">
     <h2>{{title}}</h2>
     <bread-crumb/>
     <b-row class="px-3">
@@ -24,7 +23,6 @@
       </div>
     </b-row>
   </b-container>
-  </div>
 </template>
 
 <script>
@@ -236,10 +234,7 @@ export default {
 }
 </script>
 
-<style scoped>
-.video-container{
-margin-top: 50px;
-}
+<style>
 
 ul{
   padding:0px
