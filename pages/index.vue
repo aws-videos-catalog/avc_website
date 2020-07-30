@@ -1,7 +1,14 @@
 <template>
+<div>
+  <b-jumbotron class="text-center">
+    <b-container>
+      <h1>AVC Website</h1>
+    </b-container>
+  </b-jumbotron>
   <div class="container">
     <listing :items="services"></listing>
   </div>
+</div>
 </template>
 
 <script>
@@ -40,9 +47,6 @@ export default {
 </script>
 
 <style scoped>
-.container {
-  margin:2rem;
-}
 
 .subtitle {
   font-weight: 300;
