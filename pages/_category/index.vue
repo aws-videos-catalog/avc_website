@@ -1,9 +1,9 @@
 <template>
-  <div class="container">
+  <b-container class="video-container">
+    <h2>{{category_name}}</h2>
     <bread-crumb/>
-    <h1>{{category_name}}</h1>
     <listing :items="service_names"></listing>
-  </div>
+  </b-container>
 </template>
 
 <script>
@@ -71,9 +71,6 @@ export default {
 </script>
 
 <style scoped>
-.container {
-  margin:2rem;
-}
 
 .subtitle {
   font-weight: 300;
