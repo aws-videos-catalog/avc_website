@@ -1,5 +1,5 @@
 <template>
-  <b-container class="video-container">
+  <b-container class="listing-container">
     <h2>{{category_name}}</h2>
     <bread-crumb/>
     <listing :items="service_names"></listing>
@@ -43,8 +43,6 @@ export default {
     let service_names = services[category_actual_name].map((service_data,idx)=>{
       return service_data.name
     })
-    console.log(category_actual_name)
-    console.log(service_names)
     return{
       service_names: service_names,
       category_name: category_actual_name

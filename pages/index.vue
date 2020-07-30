@@ -27,9 +27,6 @@ export default {
 </script>
 
 <style scoped>
-.container {
-  margin:2rem;
-}
 
 .subtitle {
   font-weight: 300;

@@ -19,7 +19,11 @@
 <style>
 .body{
   min-height:100%;
-  min-width:100vw;
+  min-width:100%;
+}
+
+.listing-container{
+  margin-top:50px;
 }
 
 .footer{
