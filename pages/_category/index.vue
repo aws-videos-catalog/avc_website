@@ -1,9 +1,9 @@
 <template>
-  <b-container class="video-container">
+  <div class="listing-container mx-5">
     <h2>{{category_name}}</h2>
     <bread-crumb/>
     <listing :items="service_names"></listing>
-  </b-container>
+  </div>
 </template>
 
 <script>

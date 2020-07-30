@@ -22,6 +22,10 @@
   min-width:100%;
 }
 
+.listing-container{
+  margin-top:2rem;
+}
+
 .footer{
   display:flex;
   flex-direction:row;

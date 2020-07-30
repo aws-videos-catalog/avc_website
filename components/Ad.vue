@@ -1,10 +1,18 @@
 <template>
   <div>
-    <h3>{{adObject.title}}</h3>
-    <a :href="adObject.url">
-      <img :width="width ? width : '300px'"  height="400px" :src="adObject.img.length>0 ? adObject.img : '/ad300x300.png'"/>
-    </a>
-    <p> {{adObject.description}} </p>
+  <b-card
+    :title="adObject.title"
+    :img-src="adObject.img.length>0 ? adObject.img : '/ad300x300.png'"
+    img-alt="Image"
+    class="text-reset text-decoration-none"
+    tag="a"
+    href="https://google.com"
+    img-top
+  >
+    <b-card-text>
+      {{adObject.description}}
+    </b-card-text>
+  </b-card>
   </div>
     
 </template>

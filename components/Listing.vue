@@ -1,13 +1,25 @@
 <template>
   <div>
-    <ad :adOrder="random_ad_order[0]"></ad>
-    <div v-for="(item,idx) in items" :key="`item_${idx}`">
-      <p class="title">
-      <nuxt-link :to="links[idx]" append>
-        {{item}}
-      </nuxt-link>
-      </p>
-    </div>
+    <b-row>
+      <b-col lg="2" md="3">
+        <ad :adOrder="random_ad_order[0]"/>
+      </b-col>
+      <b-col md="3" lg="2" v-for="(item,idx) in items" :key="`item_${idx}`">
+        <nuxt-link class="service my-2" :to="links[idx]" append component="div">
+          <b-card
+            :title="item"
+            img-src="https://placekitten.com/g/400/450"
+            img-alt="Image"
+            img-top
+            style="max-height:500px;overflow:hidden"
+          >
+            <b-card-text>
+              Consequat cupidatat veniam minim non mollit ullamco proident.Culpa esse adipisicing aliquip excepteur ad aute veniam adipisicing et ipsum.
+            </b-card-text>
+          </b-card>
+        </nuxt-link>
+      </b-col>
+    </b-row>
   </div>
 </template>
 
@@ -84,18 +96,20 @@ export default {
 
 <style scoped>
 
-.title {
-  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  display: inline-block;
-  font-weight: 700;
-  font-size: 30px;
-  letter-spacing: 1px;
+.service{
+  text-decoration: none;
+  color: inherit;
+  display:block;
+  height:100%;
 }
 
-.title a{
-  text-decoration: none;
-  color:inherit;
+.card-columns {
+  @include media-breakpoint-only(lg) {
+    column-count: 4;
+  }
+  @include media-breakpoint-only(xl) {
+    column-count: 5;
+  }
 }
 
 </style>
