@@ -1,18 +1,18 @@
 <template>
   <div>
-  <b-card
-    :title="adObject.title"
-    :img-src="adObject.img.length>0 ? adObject.img : '/ad300x300.png'"
-    img-alt="Image"
-    class="text-reset text-decoration-none"
-    tag="a"
-    href="https://google.com"
-    img-top
-  >
-    <b-card-text>
-      {{adObject.description}}
-    </b-card-text>
-  </b-card>
+    <b-card
+      :title="adObject.title"
+      :img-src="adObject.img.length>0 ? adObject.img : '/ad300x300.png'"
+      img-alt="Image"
+      :class="classes"
+      tag="a"
+      href="https://google.com"
+      img-top
+    >
+      <b-card-text>
+        {{adObject.description}}
+      </b-card-text>
+    </b-card>
   </div>
     
 </template>
@@ -56,7 +56,16 @@ export default {
       {
         return ads[this.$props.adOrder]
       }
-        
+    },
+
+    classes: function(){
+      return {
+        width: this.$props.width ? this.$props.width : '100%',
+        height: this.$props.height ? this.$props.height : '100%',
+        "text-reset": true,
+        "text-decoration-none": true,
+        ad: true,
+      }
     }
   }
 

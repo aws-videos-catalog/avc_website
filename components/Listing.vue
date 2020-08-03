@@ -2,7 +2,7 @@
   <div>
     <b-row>
       <b-col lg="2" md="3">
-        <ad :adOrder="random_ad_order[0]"/>
+        <ad :adOrder="random_ad_order[0]" class="my-2"/>
       </b-col>
       <b-col md="3" lg="2" v-for="(item,idx) in items" :key="`item_${idx}`">
         <nuxt-link class="service my-2" :to="links[idx]" append component="div">
@@ -11,10 +11,10 @@
             img-src="https://placekitten.com/g/400/450"
             img-alt="Image"
             img-top
-            style="max-height:500px;overflow:hidden"
+            class="card"
           >
             <b-card-text>
-              Consequat cupidatat veniam minim non mollit ullamco proident.Culpa esse adipisicing aliquip excepteur ad aute veniam adipisicing et ipsum.
+              Consequat cupidatat veniam minim non
             </b-card-text>
           </b-card>
         </nuxt-link>
@@ -101,15 +101,6 @@ export default {
   color: inherit;
   display:block;
   height:100%;
-}
-
-.card-columns {
-  @include media-breakpoint-only(lg) {
-    column-count: 4;
-  }
-  @include media-breakpoint-only(xl) {
-    column-count: 5;
-  }
 }
 
 </style>
