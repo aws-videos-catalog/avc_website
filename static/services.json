@@ -1,6 +1,8 @@
 {
     "Compute": {
         "info": {
+            "name": "Compute",
+            "description": "Services that crounch data.",
             "img": "/Compute/Compute.svg"
         },
         "data": [
