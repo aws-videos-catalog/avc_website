@@ -22,8 +22,18 @@
   min-width:100%;
 }
 
+.card{
+  height:400px;
+  width:100%;
+  overflow: hidden;
+}
+
+.ad{
+  height:auto;
+}
+
 .listing-container{
-  margin-top:50px;
+  margin-top:2rem;
 }
 
 .footer{

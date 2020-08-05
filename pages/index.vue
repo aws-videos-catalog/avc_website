@@ -1,7 +1,15 @@
 <template>
-  <div class="container">
+<div>
+  <b-jumbotron class="text-center listing-container" style="background-color:white">
+    <b-container>
+      <h1>AVC Website</h1>
+      <p>Labore aute est minim tempor ea ipsum et enim nisi in pariatur. Do culpa consectetur eu ut esse esse minim exercitation cillum Lorem laborum reprehenderit occaecat. Dolore est aliquip irure officia nulla dolor et ea laborum veniam.</p>
+    </b-container>
+  </b-jumbotron>
+  <div class="mx-5">
     <listing :items="categories"></listing>
   </div>
+</div>
 </template>
 
 <script>
@@ -16,11 +24,14 @@ export default {
     Listing
   },
   data(){
-    let category_names = Object.entries(services).map(([category,category_data])=>{
-      return category
+    let category_data = Object.entries(services).map(([category, category_data])=>{
+      return {
+        name: category,
+        img: category_data.info.img
+      }
     })
     return{
-      categories:category_names
+      categories:category_data
     }
   },
 }

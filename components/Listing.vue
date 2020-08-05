@@ -1,13 +1,25 @@
 <template>
   <div>
-    <ad :adOrder="random_ad_order[0]"></ad>
-    <div v-for="(item,idx) in items" :key="`item_${idx}`">
-      <p class="title">
-      <nuxt-link :to="links[idx]" append>
-        {{item}}
-      </nuxt-link>
-      </p>
-    </div>
+    <b-row>
+      <b-col lg="2" md="3">
+        <ad :adOrder="random_ad_order[0]" class="my-2"/>
+      </b-col>
+      <b-col md="3" lg="2" v-for="(item,idx) in items" :key="`item_${idx}`">
+        <nuxt-link class="service my-2" :to="links[idx]" append component="div">
+          <b-card
+            :title="item.name"
+            :img-src="'/aws/SVG Light'+item.img"
+            img-alt="Image"
+            img-top
+            class="card"
+          >
+            <b-card-text>
+              Consequat cupidatat veniam minim non
+            </b-card-text>
+          </b-card>
+        </nuxt-link>
+      </b-col>
+    </b-row>
   </div>
 </template>
 
@@ -48,7 +60,7 @@ export default {
   },
   props:{
     items:{
-      type:Array,
+      type:Object,
       required:true,
     }
   },
@@ -62,13 +74,13 @@ export default {
       let links = []
       let i = 0;
       for (const value of this.$props.items) {
-        let link = value.split(' ').join('_').toLowerCase()
+        let link = value.name.split(' ').join('_').toLowerCase()
         links.push(link)
       }
       return links
     },
     //
-    //  2.  A function to randomize the ad order.
+    //  1.  A function to randomize the ad order.
     //
     random_ad_order: function(){
       //
@@ -84,18 +96,11 @@ export default {
 
 <style scoped>
 
-.title {
-  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  display: inline-block;
-  font-weight: 700;
-  font-size: 30px;
-  letter-spacing: 1px;
-}
-
-.title a{
+.service{
   text-decoration: none;
-  color:inherit;
+  color: inherit;
+  display:block;
+  height:100%;
 }
 
 </style>
