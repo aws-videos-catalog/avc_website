@@ -51,12 +51,30 @@
                 "description": "EC2 Image Builder.",
                 "url": "https://aws.amazon.com/image-builder/",
                 "img": "/Compute/EC2-Image-Builder.svg"
+            },
+            {
+                "name": "Elastic Container Registry",
+                "description": "Easily store, manage, and deploy container images",
+                "url": "https://aws.amazon.com/ecr/",
+                "img": "/Compute/Amazon-EC2-Container-Registry.svg"
+            },
+            {
+                "name": "Elastic Container Service",
+                "description": "Highly secure, reliable, and scalable way to run containers",
+                "url": "https://aws.amazon.com/ecs/",
+                "img": "/Compute/Amazon-Elastic-Container-Service.svg"
+            },
+            {
+                "name": "Elastic Kubernetes Service",
+                "description": "The most trusted way to run Kubernetes",
+                "url": "https://aws.amazon.com/eks/",
+                "img": "/Compute/Amazon-Elastic-Kubernetes-Service.svg"
             }
         ]
     },
     "Storage": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/Storage/Storage.svg"
         },
         "data": [
             {
@@ -99,7 +117,7 @@
     },
     "Database": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/Database/Database.svg"
         },
         "data": [
             {
@@ -166,7 +184,7 @@
     },
     "Migration & Transfer": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/Migration & Transfer/Migration-and-Transfer.svg"
         },
         "data": [
             {
@@ -221,7 +239,7 @@
     },
     "Networking & Content Delivery": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/Networking & Content Delivery/Networking-and-Content-Delivery.svg"
         },
         "data": [
             {
@@ -276,7 +294,7 @@
     },
     "Developer Tools": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/Developer Tools/Developer-Tools.svg"
         },
         "data": [
             {
@@ -325,7 +343,7 @@
     },
     "Robotics": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/Robotics/Robotics.svg"
         },
         "data": [
             {
@@ -338,7 +356,7 @@
     },
     "Customer Enablement": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/Customer Enablement/Customer-Enablement.svg"
         },
         "data": [
             {
@@ -363,7 +381,7 @@
     },
     "Blockchain": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/Blockchain/Blockchain.svg"
         },
         "data": [
             {
@@ -376,7 +394,7 @@
     },
     "Satellite": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/Satellite/Satellite.svg"
         },
         "data": [
             {
@@ -389,7 +407,7 @@
     },
     "Quantum Technologies": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/Quantum Technologies/Quantum-Technologies.svg"
         },
         "data": [
             {
@@ -402,7 +420,7 @@
     },
     "Management & Governance": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/Management & Governance/Management-and-Governance.svg"
         },
         "data": [
             {
@@ -517,7 +535,7 @@
     },
     "Media Services": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/Media Services/Media-Services.svg"
         },
         "data": [
             {
@@ -572,7 +590,7 @@
     },
     "Machine Learning": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/Machine Learning/Machine-Learning.svg"
         },
         "data": [
             {
@@ -681,7 +699,7 @@
     },
     "Analytics": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/Analytics/Analytics.svg"
         },
         "data": [
             {
@@ -754,7 +772,7 @@
     },
     "Security Identity & Compliance": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/Security, Identity, & Compliance/Security-Identity-and-Compliance.svg"
         },
         "data": [
             {
@@ -863,7 +881,7 @@
     },
     "Mobile": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/Mobile/Mobile.svg"
         },
         "data": [
             {
@@ -894,7 +912,7 @@
     },
     "AR & VR": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/AR & VR/AR-VR.svg"
         },
         "data": [
             {
@@ -907,7 +925,7 @@
     },
     "Application Integration": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/Application Integration/Application-Integration.svg"
         },
         "data": [
             {
@@ -956,7 +974,7 @@
     },
     "AWS Cost Management": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/AWS Cost Management/AWS-Cost-Management.svg"
         },
         "data": [
             {
@@ -981,7 +999,7 @@
     },
     "Customer Engagement": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/Customer Engagement/Customer-Engagement.svg"
         },
         "data": [
             {
@@ -1006,7 +1024,7 @@
     },
     "Business Applications": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/Business Applications/Business-Applications.svg"
         },
         "data": [
             {
@@ -1031,7 +1049,7 @@
     },
     "End User Computing": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/End User Computing/End-User-Computing.svg"
         },
         "data": [
             {
@@ -1062,7 +1080,7 @@
     },
     "Internet Of Things": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/Internet Of Things/Internet-of-Things.svg"
         },
         "data": [
             {
@@ -1129,7 +1147,7 @@
     },
     "Game Development": {
         "info": {
-            "img": "/Compute/Compute.svg"
+            "img": "/Game Tech/Game-Tech.svg"
         },
         "data": [
             {
@@ -1137,31 +1155,6 @@
                 "description": "Dedication makes all the difference. Get best in-class dedicated game server hosting with Amazon GameLift.",
                 "url": "https://aws.amazon.com/gamelift/",
                 "img": "/Game Tech/Amazon-GameLift.svg"
-            }
-        ]
-    },
-    "Containers": {
-        "info": {
-            "img": "/Compute/Compute.svg"
-        },
-        "data": [
-            {
-                "name": "Elastic Container Registry",
-                "description": "Easily store, manage, and deploy container images",
-                "url": "https://aws.amazon.com/ecr/",
-                "img": "/Compute/Amazon-EC2-Container-Registry.svg"
-            },
-            {
-                "name": "Elastic Container Service",
-                "description": "Highly secure, reliable, and scalable way to run containers",
-                "url": "https://aws.amazon.com/ecs/",
-                "img": "/Compute/Amazon-Elastic-Container-Service.svg"
-            },
-            {
-                "name": "Elastic Kubernetes Service",
-                "description": "The most trusted way to run Kubernetes",
-                "url": "https://aws.amazon.com/eks/",
-                "img": "/Compute/Amazon-Elastic-Kubernetes-Service.svg"
             }
         ]
     }
