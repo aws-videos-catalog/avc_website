@@ -68,50 +68,28 @@ export default {
     Listing,
     BreadCrumb
   },
-  data(){
-    /*
-    if(process.server){
-      const fs = require('fs')
-      let category_names = Object.keys(services)
-      let category_actual_name;
-      category_names.forEach((val,idx)=>{
-        let category_link_name = val.split(' ').join('_').toLowerCase()
-        if(category_link_name === this.$route.params.category){
-          category_actual_name = category_names[idx]
-        }
-      })
-      let files = fs.readdirSync('./static/aws/SVG Dark/'+category_actual_name+'/')
-      let service_names = services[category_actual_name].map((service_data,idx)=>{
-        return service_data.name
-      })
-      let image_file_names = {}
-      files.forEach((file_name,idx)=>{
-        let file_name_actual = file_name.substring(file_name.indexOf('-')+1,file_name.length).replace('.svg','')
-        service_names.forEach((service_name,i)=>{
-          let service_name_actual = service_name.replace('Amazon','').replace('AWS','').trim().split(' ').join('-')
-          if(!file_name_actual.includes('dark') && similarity(file_name_actual,service_name_actual)>0.5){
-            image_file_names[service_name] = file_name_actual
-          }
-        })
-      })
-    }
-    */
-    let category_names = Object.keys(services)
+  data() {
+    
     let category_actual_name;
-    category_names.forEach((val,idx)=>{
-      let category_link_name = val.split(' ').join('_').toLowerCase()
-      if(category_link_name === this.$route.params.category){
-        category_actual_name = category_names[idx]
-      }
-    })
-    let service_data = services[category_actual_name].map((service_data,idx)=>{
-      return service_data
-    })
-    return{
+    let service_data;
+
+    for(let key in services)
+    {
+        let category_link_name = key.split(' ').join('_').toLowerCase();
+
+        if(category_link_name === this.$route.params.category)
+        {
+          category_actual_name = key;
+          service_data = services[key].data;
+        }
+    }
+    
+    return {
       service_data: service_data,
       category_name: category_actual_name
     }
-  },
+    
+  }
 }
 </script>
 
