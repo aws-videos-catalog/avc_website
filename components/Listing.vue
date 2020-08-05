@@ -7,8 +7,8 @@
       <b-col md="3" lg="2" v-for="(item,idx) in items" :key="`item_${idx}`">
         <nuxt-link class="service my-2" :to="links[idx]" append component="div">
           <b-card
-            :title="item"
-            img-src="https://placekitten.com/g/400/450"
+            :title="item.name"
+            :img-src="'/aws/SVG Light'+item.img"
             img-alt="Image"
             img-top
             class="card"
@@ -60,7 +60,7 @@ export default {
   },
   props:{
     items:{
-      type:Array,
+      type:Object,
       required:true,
     }
   },
@@ -74,13 +74,13 @@ export default {
       let links = []
       let i = 0;
       for (const value of this.$props.items) {
-        let link = value.split(' ').join('_').toLowerCase()
+        let link = value.name.split(' ').join('_').toLowerCase()
         links.push(link)
       }
       return links
     },
     //
-    //  2.  A function to randomize the ad order.
+    //  1.  A function to randomize the ad order.
     //
     random_ad_order: function(){
       //

@@ -3,42 +3,50 @@
         {
             "name": "EC2",
             "description": "Secure and resizable compute capacity in the cloud. Launch applications when needed without upfront commitments.",
-            "url": "https://aws.amazon.com/ec2/"
+            "url": "https://aws.amazon.com/ec2/",
+            "img": "/Compute/Amazon-EC2.svg"
         },
         {
             "name": "Lightsail",
             "description": "Virtual servers, storage, databases, and networking for a low, predictable price.",
-            "url": "https://aws.amazon.com/lightsail/"
+            "url": "https://aws.amazon.com/lightsail/",
+            "img": "/Compute/Amazon-Lightsail.svg"
         },
         {
             "name": "Lambda",
             "description": "Run code without thinking about servers. Pay only for the compute time you consume.",
-            "url": "https://aws.amazon.com/lambda/"
+            "url": "https://aws.amazon.com/lambda/",
+            "img":"/Compute/AWS-Lambda.svg"
         },
         {
             "name": "Batch",
             "description": "Fully managed batch processing at any scale.",
-            "url": "https://aws.amazon.com/batch/"
+            "url": "https://aws.amazon.com/batch/",
+            "img":"/Compute/AWS-Batch.svg"
         },
         {
             "name": "Elastic Beanstalk",
             "description": "Easy to begin, Impossible to outgrow.",
-            "url": "https://aws.amazon.com/elasticbeanstalk/"
+            "url": "https://aws.amazon.com/elasticbeanstalk/",
+            "img":"/Compute/AWS-Elastic-Beanstalk.svg"
         },
         {
             "name": "Serverless Application Repository",
             "description": "Discover, deploy, and publish serverless applications.",
-            "url": "https://aws.amazon.com/serverless/serverlessrepo/"
+            "url": "https://aws.amazon.com/serverless/serverlessrepo/",
+            "img":"/Compute/AWS-Serverless-Application-Repository.svg"
         },
         {
             "name": "AWS Outposts",
             "description": "Run AWS infrastructure and services on premises for a truly consistent hybrid experience",
-            "url": "https://aws.amazon.com/outposts/"
+            "url": "https://aws.amazon.com/outposts/",
+            "img":"/Compute/AWS-Outposts.svg"
         },
         {
             "name": "EC2 Image Builder",
             "description": "EC2 Image Builder.",
-            "url": "https://aws.amazon.com/image-builder/"
+            "url": "https://aws.amazon.com/image-builder/",
+            "img":"/Compute/EC2-Image-Builder.svg"
         }
     ],
     "Storage": [

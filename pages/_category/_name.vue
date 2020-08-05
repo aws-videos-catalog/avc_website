@@ -30,7 +30,7 @@
 //  Importing necessary components
 //
 import getService from '~/static/service_server.js'
-import service from '~/static/services.json'
+import services from '~/static/services.json'
 import MainVideo from '~/components/MainVideo.vue'
 import SmallVideo from '~/components/SmallVideo.vue'
 import Ad from '~/components/Ad.vue'
@@ -69,7 +69,7 @@ export default {
     //  1.  Create an array of nested routes by splitting current path by '/'
     //
     
-    let current_service = this.$route.params.name 
+    let current_service = this.$route.params.name
     let text = '';
     let temporary = current_service.split('_')
     let main_video;
