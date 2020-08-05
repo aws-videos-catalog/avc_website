@@ -24,10 +24,10 @@ export default {
     Listing
   },
   data(){
-    let category_data = Object.entries(services).map(([category,category_data])=>{
+    let category_data = Object.entries(services).map(([category, category_data])=>{
       return {
         name: category,
-        img: '/Compute/Compute.svg'
+        img: category_data.info.img
       }
     })
     return{
