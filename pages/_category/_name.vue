@@ -1,5 +1,5 @@
  <template>
-  <b-container class="listing-container">
+  <div class="listing-container mx-5">
     <bread-crumb/>
     <b-row class="px-3">
       <b-col md="9" class="placeholder" id="main-video" align-self="stretch">
@@ -21,7 +21,7 @@
           :url="'?video_id='+video.url.split('?v=')[1]"/>
       </div>
     </b-row>
-  </b-container>
+  </div>
 </template>
 
 <script>
