@@ -1,5 +1,8 @@
 <template>
-  <b-breadcrumb :items="items"></b-breadcrumb>
+  <div class="nav">
+    <h2>AVC Website</h2>
+    <b-breadcrumb style="flex-grow:1;margin-left:1rem" :items="items"></b-breadcrumb>
+  </div>
 </template>
 
 <script>
@@ -133,5 +136,10 @@ export default {
 </script>
 
 <style>
+
+.nav{
+  display:flex;
+  flex-direction: row;
+}
 
 </style>

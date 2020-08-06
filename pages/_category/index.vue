@@ -1,6 +1,5 @@
 <template>
   <div class="listing-container mx-5">
-    <h2>{{category_name}}</h2>
     <bread-crumb/>
     <listing 
     :items="service_data"></listing>

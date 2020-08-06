@@ -1,6 +1,5 @@
  <template>
   <b-container class="listing-container">
-    <h2>{{title}}</h2>
     <bread-crumb/>
     <b-row class="px-3">
       <b-col md="9" class="placeholder" id="main-video" align-self="stretch">
