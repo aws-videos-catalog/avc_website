@@ -3,8 +3,8 @@
     <b-card
       :title="adObject.title"
       :img-src="adObject.img.length>0 ? adObject.img : '/ad300x300.png'"
-      img-alt="Image"
       :class="classes"
+      img-alt="Image"
       tag="a"
       href="https://google.com"
       img-top
@@ -26,7 +26,7 @@ export default {
       required:false
     },
     height:{
-      type:Number,
+      type:String,
       required:false
     },
     width:{
@@ -63,8 +63,7 @@ export default {
         width: this.$props.width ? this.$props.width : '100%',
         height: this.$props.height ? this.$props.height : '100%',
         "text-reset": true,
-        "text-decoration-none": true,
-        ad: true,
+        "text-decoration-none": true
       }
     }
   }

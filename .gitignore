@@ -107,3 +107,4 @@ dist
 .tern-port
 david_notes.txt
 *.DS_Store
+.DS_Store
