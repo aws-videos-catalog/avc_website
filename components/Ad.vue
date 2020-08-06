@@ -6,7 +6,7 @@
       :class="classes"
       img-alt="Image"
       tag="a"
-      href="https://google.com"
+      :href="adObject.url"
       img-top
     >
       <b-card-text>
