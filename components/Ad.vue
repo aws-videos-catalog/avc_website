@@ -59,7 +59,6 @@ export default {
     },
 
     classes: function(){
-      console.log(this.$props.height)
       return {
         width: this.$props.width ? this.$props.width : '100%',
         height: this.$props.height ? this.$props.height : '100%',
