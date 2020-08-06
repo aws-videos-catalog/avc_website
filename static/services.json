@@ -76,6 +76,8 @@
     },
     "Storage": {
         "info": {
+            "name": "Storage",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
             "img": "/Storage/Storage.svg"
         },
         "data": [
@@ -119,6 +121,8 @@
     },
     "Database": {
         "info": {
+            "name": "Database",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
             "img": "/Database/Database.svg"
         },
         "data": [
@@ -186,6 +190,8 @@
     },
     "Migration & Transfer": {
         "info": {
+            "name": "Migration & Transfer",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
             "img": "/Migration & Transfer/Migration-and-Transfer.svg"
         },
         "data": [
@@ -241,6 +247,8 @@
     },
     "Networking & Content Delivery": {
         "info": {
+            "name": "Networking & Content Delivery",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
             "img": "/Networking & Content Delivery/Networking-and-Content-Delivery.svg"
         },
         "data": [
@@ -296,6 +304,8 @@
     },
     "Developer Tools": {
         "info": {
+            "name": "Developer Tools",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
             "img": "/Developer Tools/Developer-Tools.svg"
         },
         "data": [
@@ -345,6 +355,8 @@
     },
     "Robotics": {
         "info": {
+            "name": "Robotics",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
             "img": "/Robotics/Robotics.svg"
         },
         "data": [
@@ -358,6 +370,8 @@
     },
     "Customer Enablement": {
         "info": {
+            "name": "Customer Enablement",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
             "img": "/Customer Enablement/Customer-Enablement.svg"
         },
         "data": [
@@ -383,6 +397,8 @@
     },
     "Blockchain": {
         "info": {
+            "name": "Blockchain",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
             "img": "/Blockchain/Blockchain.svg"
         },
         "data": [
@@ -396,7 +412,9 @@
     },
     "Satellite": {
         "info": {
-            "img": "/Satellite/Satellite.svg"
+            "name": "Satelitte",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "img": "/Satelitte/Satelitte.svg"
         },
         "data": [
             {
@@ -409,6 +427,8 @@
     },
     "Quantum Technologies": {
         "info": {
+            "name": "Quantum Technologies",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
             "img": "/Quantum Technologies/Quantum-Technologies.svg"
         },
         "data": [
@@ -422,6 +442,8 @@
     },
     "Management & Governance": {
         "info": {
+            "name": "Management & Governance",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
             "img": "/Management & Governance/Management-and-Governance.svg"
         },
         "data": [
@@ -537,6 +559,8 @@
     },
     "Media Services": {
         "info": {
+            "name": "Media Services",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
             "img": "/Media Services/Media-Services.svg"
         },
         "data": [
@@ -592,6 +616,8 @@
     },
     "Machine Learning": {
         "info": {
+            "name": "Machine Learning",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
             "img": "/Machine Learning/Machine-Learning.svg"
         },
         "data": [
@@ -701,6 +727,8 @@
     },
     "Analytics": {
         "info": {
+            "name": "Analytics",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
             "img": "/Analytics/Analytics.svg"
         },
         "data": [
@@ -774,6 +802,8 @@
     },
     "Security Identity & Compliance": {
         "info": {
+            "name": "Security Identity & Compliance",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
             "img": "/Security, Identity, & Compliance/Security-Identity-and-Compliance.svg"
         },
         "data": [
@@ -883,6 +913,8 @@
     },
     "Mobile": {
         "info": {
+            "name": "Mobile",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
             "img": "/Mobile/Mobile.svg"
         },
         "data": [
@@ -927,6 +959,8 @@
     },
     "Application Integration": {
         "info": {
+            "name": "Analytics",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
             "img": "/Application Integration/Application-Integration.svg"
         },
         "data": [
@@ -976,6 +1010,8 @@
     },
     "AWS Cost Management": {
         "info": {
+            "name": "AWS Cost Management",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
             "img": "/AWS Cost Management/AWS-Cost-Management.svg"
         },
         "data": [
@@ -1001,6 +1037,8 @@
     },
     "Customer Engagement": {
         "info": {
+            "name": "Customer Engagement",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
             "img": "/Customer Engagement/Customer-Engagement.svg"
         },
         "data": [
@@ -1026,6 +1064,8 @@
     },
     "Business Applications": {
         "info": {
+            "name": "Business Applications",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
             "img": "/Business Applications/Business-Applications.svg"
         },
         "data": [
@@ -1051,6 +1091,8 @@
     },
     "End User Computing": {
         "info": {
+            "name": "End User Computing",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
             "img": "/End User Computing/End-User-Computing.svg"
         },
         "data": [
@@ -1082,6 +1124,8 @@
     },
     "Internet Of Things": {
         "info": {
+            "name": "Internet Of Things",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
             "img": "/Internet Of Things/Internet-of-Things.svg"
         },
         "data": [
@@ -1149,6 +1193,8 @@
     },
     "Game Development": {
         "info": {
+            "name": "Game Development",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
             "img": "/Game Tech/Game-Tech.svg"
         },
         "data": [
