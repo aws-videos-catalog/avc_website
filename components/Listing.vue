@@ -2,7 +2,8 @@
   <div>
     <b-row>
       <b-col lg="2" md="3">
-        <ad :adOrder="random_ad_order[0]" class="my-2"/>
+        <ad :adOrder="random_ad_order[0]" class="my-2 service"
+        :height="'400px'"/>
       </b-col>
       <b-col md="3" lg="2" v-for="(item,idx) in items" :key="`item_${idx}`">
         <nuxt-link class="service my-2" :to="links[idx]" append component="div">
@@ -60,7 +61,7 @@ export default {
   },
   props:{
     items:{
-      type:Object,
+      type:Array,
       required:true,
     }
   },

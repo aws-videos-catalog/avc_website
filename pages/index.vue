@@ -30,6 +30,7 @@ export default {
         img: category_data.info.img
       }
     })
+    console.log(category_data)
     return{
       categories:category_data
     }
