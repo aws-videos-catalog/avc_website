@@ -8,7 +8,7 @@
         <nuxt-link class="service my-2" :to="links[idx]" append component="div">
           <b-card
             :title="item.name"
-            :img-src="'/aws/SVG Light'+item.img"
+            :img-src="item.img ? '/aws/SVG Light'+item.img : '/aws/SVG Light/_Group Icons/AWS-Cloud-alt_light-bg.svg'"
             img-alt="Image"
             img-top
             class="card"

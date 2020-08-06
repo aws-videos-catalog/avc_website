@@ -168,7 +168,7 @@
                 "name": "Amazon Keyspaces",
                 "description": "A scalable, highly available, and managed Apache Cassandra–compatible database service.",
                 "url": "https://aws.amazon.com/keyspaces/",
-                "img": "/Database/"
+                "img": ""
             },
             {
                 "name": "Amazon Aurora",
@@ -519,19 +519,19 @@
                 "name": "AWS Chatbot",
                 "description": "ChatOps for AWS",
                 "url": "https://aws.amazon.com/chatbot/",
-                "img": "/Management & Governance/"
+                "img": ""
             },
             {
                 "name": "Launch Wizard",
                 "description": "Easily size, configure, and deploy third party applications on AWS.",
                 "url": "https://aws.amazon.com/launchwizard/",
-                "img": "/Management & Governance/"
+                "img": ""
             },
             {
                 "name": "AWS Compute Optimizer",
                 "description": "Recommends optimal AWS Compute resources to reduce costs and improve performance for your workloads",
                 "url": "https://aws.amazon.com/compute-optimizer/",
-                "img": "/Management & Governance/"
+                "img": ""
             }
         ]
     },
@@ -562,7 +562,7 @@
                 "name": "MediaConvert",
                 "description": "Process video files and clips to prepare on-demand content for distribution or archiving",
                 "url": "https://aws.amazon.com/mediaconvert/",
-                "img": "/Media Services/"
+                "img": ""
             },
             {
                 "name": "MediaLive",
@@ -750,7 +750,7 @@
                 "name": "AWS Data Exchange",
                 "description": "Easily find and subscribe to third-party data in the cloud",
                 "url": "https://aws.amazon.com/data-exchange/",
-                "img": "/Analytics/"
+                "img": ""
             },
             {
                 "name": "AWS Glue",
@@ -896,7 +896,7 @@
                 "name": "Mobile Hub",
                 "description": "AWS Mobile Hub is a service that enables even a novice to easily deploy and configure mobile app backend features using a range of powerful AWS services.",
                 "url": "https://docs.aws.amazon.com/aws-mobile/latest/developerguide/mobile-hub-features.html",
-                "img": "/Mobile/"
+                "img": ""
             },
             {
                 "name": "AWS AppSync",
@@ -940,7 +940,7 @@
                 "name": "Amazon AppFlow",
                 "description": "Securely integrate apps and automate data flows at any scale, without code",
                 "url": "https://aws.amazon.com/appflow/",
-                "img": "/Application Integration/"
+                "img": ""
             },
             {
                 "name": "Amazon EventBridge",
@@ -970,7 +970,7 @@
                 "name": "SWF",
                 "description": "Amazon SWF helps developers build, run, and scale background jobs that have parallel or sequential steps. You can think of Amazon SWF as a fully-managed state tracker and task coordinator in the Cloud.",
                 "url": "https://aws.amazon.com/swf/",
-                "img": "/Application Integration/"
+                "img": ""
             }
         ]
     },
