@@ -1,5 +1,8 @@
 <template>
-  <b-breadcrumb :items="items"></b-breadcrumb>
+  <div class="nav">
+    <h2>{{title}}</h2>
+    <b-breadcrumb style="flex-grow:1;margin-left:1rem" :items="items"></b-breadcrumb>
+  </div>
 </template>
 
 <script>
@@ -71,6 +74,12 @@ function editDistance(s1, s2) {
 //
 
 export default {
+  props:{
+    title:{
+      required:false,
+      type:String
+    }
+  },
   computed:{
     items: function(){
       //
@@ -133,5 +142,10 @@ export default {
 </script>
 
 <style>
+
+.nav{
+  display:flex;
+  flex-direction: row;
+}
 
 </style>
