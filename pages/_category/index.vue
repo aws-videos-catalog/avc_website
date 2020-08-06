@@ -1,6 +1,6 @@
 <template>
   <div class="listing-container mx-5">
-    <bread-crumb :title="category_name"/>
+    <bread-crumb/>
     <listing 
     :items="service_data"></listing>
   </div>
