@@ -13,7 +13,7 @@
       </b-col>
     </b-row>
     <hr/>
-    <b-row class="px-3" v-for="data in data_by_years" :key="data.year">
+    <b-row v-for="data in data_by_years" :key="data.year">
       <h3 style="padding-left:15px;width:100vw;">{{data.year}}</h3>
       <div style="padding-left:15px" v-for="(video,i) in data.videos" :key="'video_'+i">
         <small-video
