@@ -1,7 +1,7 @@
 <template>
   <div>
     <b-card
-      :title="adObject.title"
+      :title="'Ad: '+adObject.title"
       :img-src="adObject.img.length>0 ? adObject.img : '/ad300x300.png'"
       :class="classes"
       img-alt="Image"
