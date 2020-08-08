@@ -6,6 +6,7 @@
       :class="classes"
       img-alt="Image"
       tag="a"
+      target="_blank"
       :href="adObject.url"
       img-top
     >
