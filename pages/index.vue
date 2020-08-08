@@ -25,12 +25,13 @@ export default {
   },
   data(){
     let category_data = Object.entries(services).map(([category, category_data])=>{
+      console.log(category_data.info.name)
       return {
-        name: category,
+        name: category_data.info.name,
+        description: category_data.info.description,
         img: category_data.info.img
       }
     })
-    console.log(category_data)
     return{
       categories:category_data
     }

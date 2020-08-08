@@ -412,9 +412,9 @@
     },
     "Satellite": {
         "info": {
-            "name": "Satelitte",
+            "name": "Satellite",
             "description": "Lorem ipsum dolor amet bla bla bla.",
-            "img": "/Satelitte/Satelitte.svg"
+            "img": "/Satellite/Satellite.svg"
         },
         "data": [
             {
@@ -946,6 +946,8 @@
     },
     "AR & VR": {
         "info": {
+            "name": "AR & VR",
+            "description": "Lorem ipsum dolor amet bla bla bla.",
             "img": "/AR & VR/AR-VR.svg"
         },
         "data": [
