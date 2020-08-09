@@ -1,1 +1,44 @@
-[{"url": "https://www.youtube.com/watch?v=-rv78DsrpNY", "thumbnail": "", "title": "Example title1", "date": "2020/06/19"}, {"url": "https://www.youtube.com/watch?v=8RNRssCiR_E", "thumbnail": "", "title": "Example title2", "date": "2020/06/17"}, {"url": "https://www.youtube.com/watch?v=k8O9KJKSswM", "thumbnail": "", "title": "Example title3", "date": "2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=hAftP5QqppQ",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: [NEW LAUNCH!] Deep Dive on Amazon FSx for Windows File Server (STG322-R1)",
+        "date": "2018/12/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=FSO9r0UbH2E",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: [NEW LAUNCH!] Amazon FSx for Lustre: A new fully managed file system (STG317)",
+        "date": "2018/12/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=mMDrUuZFm8M",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: [NEW LAUNCH!] Scale out file system performance using Amazon FSx (STG318)",
+        "date": "2018/12/13"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=s482kj_xMeE",
+        "thumbnail": "",
+        "title": "Using DFS Namespaces with Amazon FSx for Windows File Server",
+        "date": "2020/03/12"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=_x_Geur93oc",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: [REPEAT 1] Deep dive on Amazon FSx for Windows File Server (STG306-R1)",
+        "date": "2019/12/10"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ZADHiZa3Hjo",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Amazon S3 & FSx for Lustre: Dive on high-performance file storage (STG307-R1)",
+        "date": "2019/12/06"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ttCAqwnN_Qo",
+        "thumbnail": "",
+        "title": "Amazon FSx for Lustre: Persistent Storage Overview",
+        "date": "2020/04/23"
+    }   
+]
