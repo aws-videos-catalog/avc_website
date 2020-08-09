@@ -77,7 +77,7 @@
     "Storage": {
         "info": {
             "name": "Storage",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "Store data in mutliple ways",
             "img": "/Storage/Storage.svg"
         },
         "data": [
@@ -122,7 +122,7 @@
     "Database": {
         "info": {
             "name": "Database",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "SQL type databases for all your needs",
             "img": "/Database/Database.svg"
         },
         "data": [
@@ -191,7 +191,7 @@
     "Migration & Transfer": {
         "info": {
             "name": "Migration & Transfer",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "Tools to help you move data around.",
             "img": "/Migration & Transfer/Migration-and-Transfer.svg"
         },
         "data": [
@@ -248,7 +248,7 @@
     "Networking & Content Delivery": {
         "info": {
             "name": "Networking & Content Delivery",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "Pipes, trucks and network high ways.",
             "img": "/Networking & Content Delivery/Networking-and-Content-Delivery.svg"
         },
         "data": [
@@ -305,7 +305,7 @@
     "Developer Tools": {
         "info": {
             "name": "Developer Tools",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "Tools to manage code.",
             "img": "/Developer Tools/Developer-Tools.svg"
         },
         "data": [
@@ -356,7 +356,7 @@
     "Robotics": {
         "info": {
             "name": "Robotics",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "Make robots, but nice ones.",
             "img": "/Robotics/Robotics.svg"
         },
         "data": [
@@ -371,7 +371,7 @@
     "Customer Enablement": {
         "info": {
             "name": "Customer Enablement",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "Find help for your problems",
             "img": "/Customer Enablement/Customer-Enablement.svg"
         },
         "data": [
@@ -398,7 +398,7 @@
     "Blockchain": {
         "info": {
             "name": "Blockchain",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "Create scalable leggers.",
             "img": "/Blockchain/Blockchain.svg"
         },
         "data": [
@@ -413,7 +413,7 @@
     "Satellite": {
         "info": {
             "name": "Satellite",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "Manage all your space inventory.",
             "img": "/Satellite/Satellite.svg"
         },
         "data": [
@@ -428,7 +428,7 @@
     "Quantum Technologies": {
         "info": {
             "name": "Quantum Technologies",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "The future of computing.",
             "img": "/Quantum Technologies/Quantum-Technologies.svg"
         },
         "data": [
@@ -443,7 +443,7 @@
     "Management & Governance": {
         "info": {
             "name": "Management & Governance",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "Collect, analize and understand your data.",
             "img": "/Management & Governance/Management-and-Governance.svg"
         },
         "data": [
@@ -560,7 +560,7 @@
     "Media Services": {
         "info": {
             "name": "Media Services",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "Manage and deliver videos.",
             "img": "/Media Services/Media-Services.svg"
         },
         "data": [
@@ -617,7 +617,7 @@
     "Machine Learning": {
         "info": {
             "name": "Machine Learning",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "Let the data speak for itself.",
             "img": "/Machine Learning/Machine-Learning.svg"
         },
         "data": [
@@ -728,7 +728,7 @@
     "Analytics": {
         "info": {
             "name": "Analytics",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "Analize infinate ammount of data.",
             "img": "/Analytics/Analytics.svg"
         },
         "data": [
@@ -803,7 +803,7 @@
     "Security Identity & Compliance": {
         "info": {
             "name": "Security Identity & Compliance",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "Manage access to all your resources.",
             "img": "/Security, Identity, & Compliance/Security-Identity-and-Compliance.svg"
         },
         "data": [
@@ -914,7 +914,7 @@
     "Mobile": {
         "info": {
             "name": "Mobile",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "Everything you need for mobile development.",
             "img": "/Mobile/Mobile.svg"
         },
         "data": [
@@ -947,7 +947,7 @@
     "AR & VR": {
         "info": {
             "name": "AR & VR",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "Create new immersive worlds",
             "img": "/AR & VR/AR-VR.svg"
         },
         "data": [
@@ -962,7 +962,7 @@
     "Application Integration": {
         "info": {
             "name": "Analytics",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "Analize on the fly all your data.",
             "img": "/Application Integration/Application-Integration.svg"
         },
         "data": [
@@ -1013,7 +1013,7 @@
     "AWS Cost Management": {
         "info": {
             "name": "AWS Cost Management",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "Understand where you moeny goes.",
             "img": "/AWS Cost Management/AWS-Cost-Management.svg"
         },
         "data": [
@@ -1040,7 +1040,7 @@
     "Customer Engagement": {
         "info": {
             "name": "Customer Engagement",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "Manage how customers interact with your products.",
             "img": "/Customer Engagement/Customer-Engagement.svg"
         },
         "data": [
@@ -1067,7 +1067,7 @@
     "Business Applications": {
         "info": {
             "name": "Business Applications",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "Improve Office communication.",
             "img": "/Business Applications/Business-Applications.svg"
         },
         "data": [
@@ -1094,7 +1094,7 @@
     "End User Computing": {
         "info": {
             "name": "End User Computing",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "Virtual Clients in the cloud.",
             "img": "/End User Computing/End-User-Computing.svg"
         },
         "data": [
@@ -1127,7 +1127,7 @@
     "Internet Of Things": {
         "info": {
             "name": "Internet Of Things",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "All your hardware maanged in one place.",
             "img": "/Internet Of Things/Internet-of-Things.svg"
         },
         "data": [
@@ -1196,7 +1196,7 @@
     "Game Development": {
         "info": {
             "name": "Game Development",
-            "description": "Lorem ipsum dolor amet bla bla bla.",
+            "description": "Develop games using the cloud.",
             "img": "/Game Tech/Game-Tech.svg"
         },
         "data": [
