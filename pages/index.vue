@@ -8,6 +8,7 @@
   </b-jumbotron>
   <div class="mx-5">
     <listing :items="categories"></listing>
+    <hr></hr>
   </div>
 </div>
 </template>

@@ -3,7 +3,6 @@
   <div class="body">
     <nuxt />
   </div>
-  <hr></hr>
   <div class="footer container">
     <div class="footer">
       <!-- <img src="/company_logo_rectangle.svg" width="200px"> -->
