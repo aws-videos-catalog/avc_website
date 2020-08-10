@@ -15,7 +15,7 @@
             class="card"
           >
             <b-card-text>
-              Consequat cupidatat veniam minim non
+              {{item.description}}
             </b-card-text>
           </b-card>
         </nuxt-link>

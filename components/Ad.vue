@@ -6,7 +6,8 @@
       :class="classes"
       img-alt="Image"
       tag="a"
-      href="https://google.com"
+      target="_blank"
+      :href="adObject.url"
       img-top
     >
       <b-card-text>

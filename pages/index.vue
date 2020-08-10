@@ -2,8 +2,8 @@
 <div>
   <b-jumbotron class="text-center listing-container" style="background-color:white">
     <b-container>
-      <h1>AWS Video Catalog</h1>
-      <p>Labore aute est minim tempor ea ipsum et enim nisi in pariatur. Do culpa consectetur eu ut esse esse minim exercitation cillum Lorem laborum reprehenderit occaecat. Dolore est aliquip irure officia nulla dolor et ea laborum veniam.</p>
+      <h1>AVC Website</h1>
+      <p>AWS Video Catalog is a website that collects all the official Amazon videos related each individual AWS Service, and categorizes them in a way that makes it easy to find what you are looking for. No more fighting YouTube search or rely on an algorithm to surface what you are looking for. Everything is in one place.</p>
     </b-container>
   </b-jumbotron>
   <div class="mx-5">
@@ -25,8 +25,10 @@ export default {
   },
   data(){
     let category_data = Object.entries(services).map(([category, category_data])=>{
+      console.log(category_data.info.name)
       return {
-        name: category,
+        name: category_data.info.name,
+        description: category_data.info.description,
         img: category_data.info.img
       }
     })
