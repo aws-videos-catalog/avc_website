@@ -1,6 +1,6 @@
 <template>
   <div class="listing-container mx-5">
-    <bread-crumb/>
+    <bread-crumb :title="category_name+' - AWS Video Catalog'"/>
     <listing 
     :items="service_data"></listing>
   </div>

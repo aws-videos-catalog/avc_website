@@ -2,7 +2,7 @@
 <div>
   <b-jumbotron class="text-center listing-container" style="background-color:white">
     <b-container>
-      <h1>AVC Website</h1>
+      <h1>AWS Video Catalog</h1>
       <p>Labore aute est minim tempor ea ipsum et enim nisi in pariatur. Do culpa consectetur eu ut esse esse minim exercitation cillum Lorem laborum reprehenderit occaecat. Dolore est aliquip irure officia nulla dolor et ea laborum veniam.</p>
     </b-container>
   </b-jumbotron>
@@ -30,7 +30,6 @@ export default {
         img: category_data.info.img
       }
     })
-    console.log(category_data)
     return{
       categories:category_data
     }
