@@ -179,11 +179,7 @@ export default {
       //  2.  Create a separate copy of sorted service data.
       //
       let sorted_data = this.service_data.slice()
-      //
-      //  3.  We don't want the current video to be displayed in 
-      //      suggested videos.
-      //
-      sorted_data = remove(sorted_data,this.main_video)
+      
       //
       //  4.  Find year values inside videos data, store it inside dates array.
       //
