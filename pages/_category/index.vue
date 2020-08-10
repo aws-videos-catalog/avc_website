@@ -3,6 +3,7 @@
     <bread-crumb/>
     <listing 
     :items="service_data"></listing>
+    <hr></hr>
   </div>
 </template>
 
