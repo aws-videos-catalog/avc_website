@@ -181,17 +181,17 @@ export default {
       let sorted_data = this.service_data.slice()
       
       //
-      //  4.  Find year values inside videos data, store it inside dates array.
+      //  3.  Find year values inside videos data, store it inside dates array.
       //
       let dates = sorted_data.map((val,idx)=>{
         return new Date(val.date).getFullYear()
       })
       //
-      //  5.  Make the year value array a HashSet so it's unique.
+      //  4.  Make the year value array a HashSet so it's unique.
       //
       let years = [...new Set(dates)]
       //
-      //  6.  For each year value
+      //  5.  For each year value
       //
       years.forEach((year,year_idx)=>{
         //
@@ -218,7 +218,7 @@ export default {
             temp_dct['videos'].push(service)
         })
         //
-        //  5.  Push the created dictionary to array. 
+        //  6.  Push the created dictionary to array. 
         //
         array.push(temp_dct)
       })
