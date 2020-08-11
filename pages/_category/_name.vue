@@ -21,6 +21,7 @@
           :url="'?video_id='+video.url.split('?v=')[1]"/>
       </div>
     </b-row>
+    <hr></hr>
   </div>
 </template>
 

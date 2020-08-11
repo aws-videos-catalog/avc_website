@@ -3,7 +3,6 @@
   <div class="body">
     <nuxt />
   </div>
-  
   <div class="footer container">
     <div class="footer">
       <!-- <img src="/company_logo_rectangle.svg" width="200px"> -->
@@ -40,13 +39,14 @@
   display:flex;
   flex-direction:row;
   justify-content: center;
-  padding-top:50px;
+  padding-top:30px;
   padding-bottom:30px;
   color:#888888
 }
 
 .footer p{
   margin:15px;
+  margin-top:0px;
 }
 
 .footer a{
