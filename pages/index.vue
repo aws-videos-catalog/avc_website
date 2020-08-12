@@ -19,13 +19,17 @@ import Listing from '~/components/Listing.vue'
 import services from '~/static/services.json'
 
 export default {
+  head(){
+    return{
+      title: 'AWS Video Catalog'
+    }
+  },
   layout: "default",
   components: {
     Listing
   },
   data(){
     let category_data = Object.entries(services).map(([category, category_data])=>{
-      console.log(category_data.info.name)
       return {
         name: category_data.info.name,
         description: category_data.info.description,

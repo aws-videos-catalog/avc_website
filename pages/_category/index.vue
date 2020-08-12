@@ -1,6 +1,6 @@
 <template>
   <div class="listing-container mx-5">
-    <bread-crumb :title="category_name+' - AWS Video Catalog'"/>
+    <bread-crumb/>
     <listing 
     :items="service_data"></listing>
   </div>
@@ -13,6 +13,11 @@ import BreadCrumb from '~/components/BreadCrumb.vue'
 import services from '~/static/services.json'
 
 export default {
+  head(){
+    return {
+      title: this.$data.category_name + ' - AWS Video Catalog'
+    }
+  },
   layout: "default",
   components: {
     Listing,

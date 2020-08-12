@@ -1,6 +1,6 @@
 <template>
   <div class="nav">
-    <h2>{{title}}</h2>
+    <h2>AVC Website</h2>
     <b-breadcrumb style="flex-grow:1;margin-left:1rem" :items="items"></b-breadcrumb>
   </div>
 </template>
@@ -74,12 +74,6 @@ function editDistance(s1, s2) {
 //
 
 export default {
-  props:{
-    title:{
-      required:true,
-      type:String
-    }
-  },
   computed:{
     items: function(){
       //

@@ -1,6 +1,6 @@
  <template>
   <div class="listing-container mx-5">
-    <bread-crumb :title="title+' - '+category_name+' - AWS Video Catalog'"/>
+    <bread-crumb/>
     <b-row>
       <b-col md="7" class="placeholder" id="main-video" align-self="stretch">
         <main-video
@@ -55,6 +55,11 @@ function remove(array, element) {
 }
 
 export default {
+  head(){
+    return{
+      title: this.$data.title + ' - ' + this.$data.category_name + ' - AWS Video Catalog'
+    }
+  },
   layout: "default",
   components:{
     MainVideo,
