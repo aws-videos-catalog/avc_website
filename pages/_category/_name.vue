@@ -2,13 +2,14 @@
   <div class="listing-container mx-5">
     <bread-crumb/>
     <b-row>
-      <b-col md="7" class="placeholder" id="main-video" align-self="stretch">
+      <b-col xs="12" md="7" class="placeholder" id="main-video" align-self="stretch">
         <main-video
           :title="main_video.title"
           :url="main_video.url"
-          :date="main_video.date"></main-video>
+          :date="main_video.date">
+        </main-video>
       </b-col>
-      <b-col md="2" class="placeholder pl-0" align-self="stretch">
+      <b-col xs="12" md="2" class="placeholder pl-0" align-self="stretch">
         <Ad :random="true"></Ad>
       </b-col>
     </b-row>
