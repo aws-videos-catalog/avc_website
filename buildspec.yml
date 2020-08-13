@@ -1,0 +1,23 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      ruby: 2.6
+    commands:
+      - echo AWS_REGION=$AWS_REGION >> .env
+      - echo IDENTITY_POOL_ID=$IDENTITY_POOL_ID >> .env
+      - echo S3_BUCKET_EMAIL=$S3_BUCKET_EMAIL >> .env
+      - cat .env
+      - gem install bundler
+  pre_build:
+    commands:
+      - bundle install
+  build:
+    commands:
+      - bundle exec jekyll build
+  post_build:
+    commands:
+      - aws s3 rm --recursive s3://$S3_BUCKET_SITE
+      - aws s3 cp ./_site s3://$S3_BUCKET_SITE --recursive
+      - aws cloudfront create-invalidation --distribution-id $DISTRIBUTION_ID --paths "/*"
