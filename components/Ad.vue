@@ -1,9 +1,19 @@
 <template>
   <div>
-    <a :href="adObject.url">
-      <img :width="width ? width : '300px'"  height="400px" :src="adObject.img.length>0 ? adObject.img : '/ad300x300.png'"/>
-    </a>
-    <p> {{adObject.description}} </p>
+    <b-card
+      :title="'Ad: '+adObject.title"
+      :img-src="adObject.img.length>0 ? adObject.img : '/ad300x300.png'"
+      :class="classes"
+      img-alt="Image"
+      tag="a"
+      target="_blank"
+      :href="adObject.url"
+      img-top
+    >
+      <b-card-text>
+        {{adObject.description}}
+      </b-card-text>
+    </b-card>
   </div>
     
 </template>
@@ -17,11 +27,11 @@ export default {
       required:false
     },
     height:{
-      type:Number,
+      type:String,
       required:false
     },
     width:{
-      type:Number,
+      type:String,
       required:false
     },
     random:{
@@ -47,7 +57,15 @@ export default {
       {
         return ads[this.$props.adOrder]
       }
-        
+    },
+
+    classes: function(){
+      return {
+        width: this.$props.width ? this.$props.width : '100%',
+        height: this.$props.height ? this.$props.height : '100%',
+        "text-reset": true,
+        "text-decoration-none": true
+      }
     }
   }
 

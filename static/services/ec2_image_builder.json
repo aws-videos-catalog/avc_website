@@ -1,1 +1,8 @@
-[{"url": "https://www.youtube.com/watch?v=-rv78DsrpNY", "thumbnail": "", "title": "Example title1", "date": "2020/06/19"}, {"url": "https://www.youtube.com/watch?v=8RNRssCiR_E", "thumbnail": "", "title": "Example title2", "date": "2020/06/17"}, {"url": "https://www.youtube.com/watch?v=k8O9KJKSswM", "thumbnail": "", "title": "Example title3", "date": "2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=9XFuRq0R8nk",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: [NEW LAUNCH!] EC2 Image Builder: Virtual machine images made easy (CMP214-R1)",
+        "date": "2019/12/12"
+    }
+]

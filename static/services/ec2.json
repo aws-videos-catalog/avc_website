@@ -1,74 +1,128 @@
 [
   {
-    "url": "https://www.youtube.com/watch?v=-rv78DsrpNY",
+    "url": "https://www.youtube.com/watch?v=vXBeO9vQAI8",
     "thumbnail": "",
-    "title": "Example title1",
-    "date": "2020/06/19"
+    "title": "AWS re:Invent 2018: [REPEAT 1] Amazon EC2 Foundations (CMP208-R1)",
+    "date": "2018/12/01"
   },
   {
-    "url": "https://www.youtube.com/watch?v=8RNRssCiR_E",
+    "url": "https://www.youtube.com/watch?v=W0PKclqP3U0",
     "thumbnail": "",
-    "title": "Example title2",
-    "date": "2020/06/17"
+    "title": "AWS re:Invent 2018: Amazon EC2 Instances & Performance Optimization Best Practices (CMP307-R1)",
+    "date": "2018/11/29"
   },
   {
-    "url": "https://www.youtube.com/watch?v=k8O9KJKSswM",
+    "url": "https://www.youtube.com/watch?v=e8DVmwj3OEs",
     "thumbnail": "",
-    "title": "Example title3",
-    "date": "2020/06/18"
+    "title": "AWS re:Invent 2018: Powering Next-Gen EC2 Instances: Deep Dive into the Nitro System (CMP303-R1)",
+    "date": "2018/11/29"
   },
   {
-    "url": "https://www.youtube.com/watch?v=k8O9KJKSswM",
+    "url": "https://www.youtube.com/watch?v=DWiwuYtIgu0",
     "thumbnail": "",
-    "title": "Example title10",
-    "date": "2020/06/18"
+    "title": "AWS re:Invent 2018: [REPEAT 1] Optimizing Network Performance for Amazon EC2 Instances (CMP308-R1)",
+    "date": "2018/11/28"
   },
   {
-    "url": "https://www.youtube.com/watch?v=k8O9KJKSswM",
+    "url": "https://www.youtube.com/watch?v=97Wi7V1wLYA",
     "thumbnail": "",
-    "title": "Example title11",
-    "date": "2020/06/18"
+    "title": "AWS re:Invent 2017: Amazon EC2 Foundations (CMP203)",
+    "date": "2017/12/01"
   },
   {
-    "url": "https://www.youtube.com/watch?v=k8O9KJKSswM",
+    "url": "https://www.youtube.com/watch?v=Jnl29J3RJQ4",
     "thumbnail": "",
-    "title": "Example title12",
-    "date": "2020/06/18"
+    "title": "AWS re:Invent 2018: [REPEAT 1] Advanced Continuous Delivery Best Practices (DEV317-R1)",
+    "date": "2018/11/28"
   },
   {
-    "url": "https://www.youtube.com/watch?v=k8O9KJKSswM",
+    "url": "https://www.youtube.com/watch?v=89fYOo1V2pA",
     "thumbnail": "",
-    "title": "Example title13",
-    "date": "2019/06/18"
+    "title": "AWS re:Invent 2017: How Netflix Tunes Amazon EC2 Instances for Performance (CMP325)",
+    "date": "2017/12/13"
   },
   {
-    "url": "https://www.youtube.com/watch?v=k8O9KJKSswM",
+    "url": "https://www.youtube.com/watch?v=OzVpynd_2GM",
     "thumbnail": "",
-    "title": "Example title14",
-    "date": "2019/03/18"
+    "title": "AWS re:Invent 2018: Amazon EC2 T Instances – Burstable, Cost-Effective Performance (CMP209)",
+    "date": "2018/11/27"
   },
   {
-    "url": "https://www.youtube.com/watch?v=k8O9KJKSswM",
+    "url": "https://www.youtube.com/watch?v=02EbskIXCOc",
     "thumbnail": "",
-    "title": "Example title6",
-    "date": "2019/04/12"
+    "title": "AWS re:Invent 2017 - The Amazon EC2 Nitro System Architecture",
+    "date": "2017/11/30"
   },
   {
-    "url": "https://www.youtube.com/watch?v=k8O9KJKSswM",
+    "url": "https://www.youtube.com/watch?v=o9_4uGvbvnk",
     "thumbnail": "",
-    "title": "Example title7",
-    "date": "2018/06/18"
+    "title": "AWS re:Invent 2017: NEW LAUNCH! Amazon EC2 Bare Metal Instances (CMP330)",
+    "date": "2017/11/30"
   },
   {
-    "url": "https://www.youtube.com/watch?v=k8O9KJKSswM",
+    "url": "https://www.youtube.com/watch?v=MjzbY74WNeI",
     "thumbnail": "",
-    "title": "Example title8",
-    "date": "2018/02/18"
+    "title": "AWS re:Invent 2018: [NEW LAUNCH!] Scaling HPC Applications on EC2 w/ Elastic Fabric Adapter (ENT360)",
+    "date": "2018/12/01"
   },
   {
-    "url": "https://www.youtube.com/watch?v=k8O9KJKSswM",
+    "url": "https://www.youtube.com/watch?v=PideBMIcwBQ",
     "thumbnail": "",
-    "title": "Example title9",
-    "date": "2018/03/18"
+    "title": "AWS re:Invent 2018: Capacity Management Made Easy with Amazon EC2 Auto Scaling (CMP377)",
+    "date": "2018/11/28"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=8xJm_wndu28",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2018: [NEW LAUNCH!] Amazon EC2 A1 Instances Based on the Arm Architecture (CMP391)",
+    "date": "2018/12/01"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=agQMFIWr2h4",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2016: Deep Dive on Amazon EC2 Instances, Featuring Performance Optimization (CMP301)",
+    "date": "2016/12/01"
+  },
+    {
+    "url": "https://www.youtube.com/watch?v=LabltEXk0VQ",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2017: C5 Instances and the Evolution of Amazon EC2 Virtualization (CMP332)",
+    "date": "2017/11/30"
+  },
+    {
+    "url": "https://www.youtube.com/watch?v=ztEDdKn5hm0",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2018: [REPEAT 1] Backing Up Amazon EC2 with Amazon EBS Snapshots (CMP301-R1)",
+    "date": "2018/11/29"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=agQMFIWr2h4",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2016: Deep Dive on Amazon EC2 Instances, Featuring Performance Optimization (CMP301)",
+    "date": "2016/12/01"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=LabltEXk0VQ",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2017: C5 Instances and the Evolution of Amazon EC2 Virtualization (CMP332)",
+    "date": "2017/11/30"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=CBmSl3O-AhI",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2016: Optimizing Network Performance for Amazon EC2 Instances (CMP315)",
+    "date": "2016/12/01"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=mZy6E2I5Rek",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2017: Deep Dive on Amazon EC2 Instances, Featuring Performance Optimiz (CMP301)",
+    "date": "2017/11/29"
+  },
+    {
+    "url": "https://www.youtube.com/watch?v=JUw8y_pqD_Y",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2014 | (SDD419) Amazon EC2 Networking Deep Dive and Best Practices",
+    "date": "2014/11/14"
   }
 ]

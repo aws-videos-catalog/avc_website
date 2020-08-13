@@ -1,48 +1,50 @@
 <template>
-  <div class="container">
-    <listing :items="services"></listing>
+<div>
+  <b-jumbotron class="text-center listing-container" style="background-color:white">
+    <b-container>
+      <h1>AVC Website</h1>
+      <p>AWS Video Catalog is a website that collects all the official Amazon videos related each individual AWS Service, and categorizes them in a way that makes it easy to find what you are looking for. No more fighting YouTube search or rely on an algorithm to surface what you are looking for. Everything is in one place.</p>
+    </b-container>
+  </b-jumbotron>
+  <div class="mx-5">
+    <listing :items="categories"></listing>
+    <hr></hr>
   </div>
+</div>
 </template>
 
 <script>
 
 import Listing from '~/components/Listing.vue'
-import Ad from '~/components/Ad.vue'
 // import services.json file from static folder
 import services from '~/static/services.json'
-import ads from '~/static/ads.json'
 
 export default {
+  head(){
+    return{
+      title: 'AWS Video Catalog'
+    }
+  },
   layout: "default",
   components: {
-    Listing,
-    Ad
+    Listing
   },
   data(){
+    let category_data = Object.entries(services).map(([category, category_data])=>{
+      return {
+        name: category_data.info.name,
+        description: category_data.info.description,
+        img: category_data.info.img
+      }
+    })
     return{
-      services:services
+      categories:category_data
     }
   },
-  computed:{
-    //
-    //  1.  A function to randomize the ad order.
-    //
-    random_ad_order: function(){
-      //
-      //  1.  Create an array with the same length of ads
-      //      starting from 0.
-      //
-      const arr = [...Array(ads.length).keys()];
-      return arr.shuffle()
-    }
-  }
 }
 </script>
 
 <style scoped>
-.container {
-  margin:2rem;
-}
 
 .subtitle {
   font-weight: 300;

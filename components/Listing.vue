@@ -1,16 +1,26 @@
 <template>
   <div>
-    <ad :adOrder="random_ad_order[0]"></ad>
-    <div v-for="(sub_items,parent) in items" :key="parent">
-      <p class="title">{{parent}}</p>
-      <ul>
-          <li v-for="sub in sub_items" :key="sub.name">
-            <nuxt-link :to="'/'+names_to_links[sub.name].link">
-              {{sub.name}}
-            </nuxt-link>
-          </li>
-      </ul>
-    </div>
+    <b-row>
+      <b-col lg="2" md="3">
+        <ad :adOrder="random_ad_order[0]" class="my-2 service"
+        :height="'400px'"/>
+      </b-col>
+      <b-col md="3" lg="2" v-for="(item,idx) in items" :key="`item_${idx}`">
+        <nuxt-link class="service my-2" :to="links[idx]" append component="div">
+          <b-card
+            :title="item.name"
+            :img-src="item.img ? '/aws/SVG Light'+item.img : '/aws/SVG Light/_Group Icons/AWS-Cloud-alt_light-bg.svg'"
+            img-alt="Image"
+            img-top
+            class="card"
+          >
+            <b-card-text>
+              {{item.description}}
+            </b-card-text>
+          </b-card>
+        </nuxt-link>
+      </b-col>
+    </b-row>
   </div>
 </template>
 
@@ -51,7 +61,7 @@ export default {
   },
   props:{
     items:{
-      type:Object,
+      type:Array,
       required:true,
     }
   },
@@ -61,24 +71,17 @@ export default {
     }
   },
   computed:{
-    names_to_links: function(){
-      let dct = {}
+    links: function(){
+      let links = []
       let i = 0;
-      for (const [parent, value] of Object.entries(this.$props.items)) {
-        value.forEach((item,idx)=>{
-          let link = item.name.split(' ').join('_').toLowerCase()
-          dct[item.name] = {link:link,ad:false}
-          // Stupid way to find halfway of the dictionary, avoiding further steps for now
-          if(i===86){
-            dct[item.name].ad=true
-          }
-          i+=1
-        })
+      for (const value of this.$props.items) {
+        let link = value.name.split(' ').join('_').toLowerCase()
+        links.push(link)
       }
-      return dct
+      return links
     },
     //
-    //  2.  A function to randomize the ad order.
+    //  1.  A function to randomize the ad order.
     //
     random_ad_order: function(){
       //
@@ -94,14 +97,11 @@ export default {
 
 <style scoped>
 
-.title {
-  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  display: inline-block;
-  font-weight: 700;
-  font-size: 30px;
-  color: #35495e;
-  letter-spacing: 1px;
+.service{
+  text-decoration: none;
+  color: inherit;
+  display:block;
+  height:100%;
 }
 
 </style>
