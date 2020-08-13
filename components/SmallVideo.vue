@@ -3,7 +3,7 @@
     <a :href="url">
       <img src="/ad300x300.png">
     </a>
-    <p>{{title}}</p>
+    <p>{{truncateTitle}}</p>
   </div>
 </template>
 
@@ -16,6 +16,14 @@ export default {
     url: {
       type:String
     }
+  },
+  computed:{
+    truncateTitle: function(){
+      if (this.$props.title.length <= 65) {
+        return this.$props.title
+      }
+      return this.$props.title.slice(0, 65) + '...'
+    }
   }
 
 }
@@ -23,7 +31,8 @@ export default {
 
 <style scoped>  
 .small-video{
-  min-width:100%
+  min-width:100%;
+  max-width: 200px;
 }
 .small-video img{
   width:200px;
