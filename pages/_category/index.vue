@@ -14,6 +14,11 @@ import BreadCrumb from '~/components/BreadCrumb.vue'
 import services from '~/static/services.json'
 
 export default {
+  head(){
+    return {
+      title: this.$data.category_name + ' - AWS Video Catalog'
+    }
+  },
   layout: "default",
   components: {
     Listing,
