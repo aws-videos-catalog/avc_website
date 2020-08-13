@@ -56,6 +56,11 @@ function remove(array, element) {
 }
 
 export default {
+  head(){
+    return{
+      title: this.$data.title + ' - ' + this.$data.category_name + ' - AWS Video Catalog'
+    }
+  },
   layout: "default",
   components:{
     MainVideo,
@@ -73,6 +78,18 @@ export default {
     let text = '';
     let temporary = current_service.split('_')
     let main_video;
+
+    let category_actual_name;
+
+    for(let key in services)
+    {
+        let category_link_name = key.split(' ').join('_').toLowerCase();
+
+        if(category_link_name === this.$route.params.category)
+        {
+          category_actual_name = key;
+        }
+    }
 
     //
     //  2.  If value can be splitted via '_' that means it has spaces
@@ -167,7 +184,8 @@ export default {
       name: this.$route.params.name,
       service_data: sorted_data,
       title: text,
-      main_video: main_video
+      main_video: main_video,
+      category_name:category_actual_name
     }
   },
   computed:{
