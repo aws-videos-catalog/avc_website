@@ -76,11 +76,22 @@ function editDistance(s1, s2) {
 export default {
   computed:{
     items: function(){
+
+      let path = this.$route.path
+
       //
-      //  1.  Create an array of nested routes by splitting current path by '/'
+      //  1.  Sometimes a slash is added to url while hosting on web, we want to ignore that
+      //      slash, thus checking for the last character is a slash in url. If so, ignoring it.
       //
-      let current_path = this.$route.path.split('/')
-      return current_path.map((val,idx)=>{
+      if(path.charAt(path.length-1)==='/'){
+        path = path.substring(0,path.length-1)
+      }
+
+      //
+      //  2.  Create an array of nested routes by splitting current path by '/'
+      //
+      let splitted_path = path.split('/')
+      return splitted_path.map((val,idx)=>{
         //
         //  1.  Capitalize the first word of the text that will be shown in breadcrumb.
         //
@@ -105,28 +116,37 @@ export default {
           text = temporary.reduce(capitalize_reducer)
 
         }
+        //
+        //  3.  If current value is '' that means it is the Home Directory.
+        //
         if(val==='')
         {
           text = 'Home'
           return {
             href:'/',
             text:text,
-            active: val===current_path[current_path.length-1]
+            active: val===splitted_path[splitted_path.length-1]
           }
         }
+        //
+        //  4.  If a category is given 
+        //
         if(this.$data.category)
         {
           return {
-            href:current_path.slice(0,idx+1).join('/'),
+            href:splitted_path.slice(0,idx+1).join('/'),
             text:this.$data.category + ' - ' + text,
-            active: val===current_path[current_path.length-1]
+            active: val===splitted_path[splitted_path.length-1]
           }
         }
-        
+
+        //
+        //  5.  Slice the splitted path and join them to a string.
+        //
         return {
-          href:current_path.slice(0,idx+1).join('/'),
+          href:splitted_path.slice(0,idx+1).join('/'),
           text:text,
-          active: val===current_path[current_path.length-1]
+          active: val===splitted_path[splitted_path.length-1]
         }
       })
       
