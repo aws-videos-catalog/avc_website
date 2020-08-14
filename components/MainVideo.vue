@@ -1,6 +1,8 @@
 <template>
-<div style="height:100%">
-  <iframe width="100%" height="400px" style="display:block;position:relative" :src="embedded_url" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" :src="embedded_url" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
   <h3 style="margin-top:10px"> {{title}} </h3>
   <p> Posted at, {{posted_date}} </p>
 </div>
