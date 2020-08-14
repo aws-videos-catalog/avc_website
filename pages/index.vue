@@ -22,26 +22,8 @@ import services from '~/static/services.json'
 export default {
   head(){
     return{
-      title: 'AWS Video Catalog'
-    }
-  },
-  layout: "default",
-  components: {
-    Listing
-  },
-  data(){
-    let category_data = Object.entries(services).map(([category, category_data])=>{
-      return {
-        name: category_data.info.name,
-        description: category_data.info.description,
-        img: category_data.info.img
-      }
-    })
-    return{
-      categories:category_data
-    }
-  },
-  meta:[
+      title: 'AWS Video Catalog',
+      meta:[
     {
       'property': 'og:title',
       'content': 'Home'
@@ -52,13 +34,31 @@ export default {
     },
     {
       'property':'og:image',
-      'content': '~/static/SVG Dark/Compute/Compute.svg'
+      'content': 'https://awsvideocatalog.com/aws/SVG Dark/Compute/Compute.svg'
     },
     {
       'property':'og:url',
       'content': 'https://awsvideocatalog.com/'
     }
   ]
+    }
+  },
+  layout: "default",
+  components: {
+    Listing
+  },
+  asyncData(){
+    let category_data = Object.entries(services).map(([category, category_data])=>{
+      return {
+        name: category_data.info.name,
+        description: category_data.info.description,
+        img: category_data.info.img
+      }
+    })
+    return{
+      categories:category_data
+    }
+  }
 }
 </script>
 
