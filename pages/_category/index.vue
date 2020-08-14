@@ -20,7 +20,7 @@ export default {
       meta:[
           {
             'property': 'og:title',
-            'content': this.category_name
+            'content': this.category_name + ' - AWS Video Catalog'
           },
           {
             'property': 'og:description',

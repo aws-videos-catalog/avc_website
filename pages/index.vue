@@ -24,23 +24,23 @@ export default {
     return{
       title: 'AWS Video Catalog',
       meta:[
-    {
-      'property': 'og:title',
-      'content': 'Home'
-    },
-    {
-      'property': 'og:description',
-      'content': 'AWS Video Catalog is a website that collects all the official Amazon videos related each individual AWS Service, and categorizes them in a way that makes it easy to find what you are looking for. No more fighting YouTube search or rely on an algorithm to surface what you are looking for. Everything is in one place.'
-    },
-    {
-      'property':'og:image',
-      'content': 'https://awsvideocatalog.com/aws/SVG Dark/Compute/Compute.svg'
-    },
-    {
-      'property':'og:url',
-      'content': 'https://awsvideocatalog.com/'
-    }
-  ]
+          {
+            'property': 'og:title',
+            'content': 'Home'
+          },
+          {
+            'property': 'og:description',
+            'content': 'AWS Video Catalog is a website that collects all the official Amazon videos related each individual AWS Service, and categorizes them in a way that makes it easy to find what you are looking for. No more fighting YouTube search or rely on an algorithm to surface what you are looking for. Everything is in one place.'
+          },
+          {
+            'property':'og:image',
+            'content': 'https://awsvideocatalog.com/aws/SVG Dark/Compute/Compute.svg'
+          },
+          {
+            'property':'og:url',
+            'content': 'https://awsvideocatalog.com/'
+          }
+        ]
     }
   },
   layout: "default",

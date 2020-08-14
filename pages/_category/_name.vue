@@ -59,11 +59,11 @@ function remove(array, element) {
 export default {
   head(){
     return{
-      title: this.title + ' - ' + this.category_name + ' - AWS Video Catalog',
+      title: this.service_name + ' - ' + this.category_name + ' - AWS Video Catalog',
       meta:[
           {
             'property': 'og:title',
-            'content': this.category_name
+            'content': this.title + ' - ' + this.category_name + ' - AWS Video Catalog'
           },
           {
             'property': 'og:description',
@@ -114,7 +114,7 @@ export default {
             let service_link_name = services[key].data[service_key].name.split(' ').join('_').toLowerCase();
             if(service_link_name === route.params.name)
             {
-              service_name = service_link_name
+              service_name = services[key].data[service_key].name
               img = services[key].data[service_key].img
               description = services[key].data[service_key].description
             }
