@@ -71,6 +71,12 @@
                 "description": "The most trusted way to run Kubernetes",
                 "url": "https://aws.amazon.com/eks/",
                 "img": "/Compute/Amazon-Elastic-Kubernetes-Service.svg"
+            },
+            {
+                "name": "Fargate",
+                "description": "Serverless compute for containers",
+                "url": "https://aws.amazon.com/fargate/",
+                "img": "/Compute/AWS-Fargate.svg"
             }
         ]
     },
