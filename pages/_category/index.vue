@@ -16,7 +16,25 @@ import services from '~/static/services.json'
 export default {
   head(){
     return {
-      title: this.$data.category_name + ' - AWS Video Catalog'
+      title: this.$data.category_name + ' - AWS Video Catalog',
+      meta:[
+          {
+            'property': 'og:title',
+            'content': this.category_name + ' - AWS Video Catalog'
+          },
+          {
+            'property': 'og:description',
+            'content': this.description
+          },
+          {
+            'property':'og:image',
+            'content': 'https://awsvideocatalog.com/aws/SVG Light'+this.img
+          },
+          {
+            'property':'og:url',
+            'content': 'https://awsvideocatalog.com/'+this.$route.params.category
+          }
+        ],
     }
   },
   layout: "default",
@@ -24,27 +42,31 @@ export default {
     Listing,
     BreadCrumb
   },
-  data() {
-    
+  asyncData({route}){
     let category_actual_name;
     let service_data;
+    let description;
+    let img;
 
     for(let key in services)
     {
         let category_link_name = key.split(' ').join('_').toLowerCase();
 
-        if(category_link_name === this.$route.params.category)
+        if(category_link_name === route.params.category)
         {
           category_actual_name = key;
           service_data = services[key].data;
+          description = services[key].info.description;
+          img = services[key].info.img
         }
     }
     
     return {
       service_data: service_data,
-      category_name: category_actual_name
+      category_name: category_actual_name,
+      description,
+      img
     }
-    
   }
 }
 </script>
