@@ -1,4 +1,4 @@
-
+const get_routes = require("./route_server.js")
 export default {
   mode: 'universal',
   /*
@@ -47,8 +47,16 @@ export default {
   ** Nuxt.js modules
   */
   modules: [
-    ['bootstrap-vue/nuxt']
+    'bootstrap-vue/nuxt',
+    '@nuxtjs/sitemap'
   ],
+  sitemap:{
+    path: 'sitemap.xml',
+    hostname: 'https://awsvideocatalog.com',
+    routes(){
+      return get_routes();
+    }
+  },
   /*
   ** Build configuration
   */

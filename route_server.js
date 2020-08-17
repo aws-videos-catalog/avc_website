@@ -1,3 +1,4 @@
+
 //
 //  1.  Helper function to return all the dynamic pages.
 //
@@ -19,9 +20,17 @@ let routes = [];
 //  4.  Same function that is used while creating urls for category and service
 //      names.
 //
+const fs = require('fs');
+
+let raw  = fs.readFileSync('./static/services.json');
+let services = JSON.parse(raw)
+
+let routes = [];
+
 const convert_name_to_link = (value)=>{
   return value.split(' ').join('_').toLowerCase()
 }
+
 
 //
 //  5.  For every category name in services.json,
@@ -51,11 +60,21 @@ for(let category in services){
     //  2. Append each of these to route as well, don't forget adding category url before it,
     //      since these routes are only accessible through category prefix.
     //
+    
+    
+for(let category in services){
+  let category_url = convert_name_to_link(category)
+  let category_route = '/'+category_url
+  routes.push(category_route)
+
+  for(let idx in services[category].data){
+    let service_url = convert_name_to_link(services[category].data[idx].name)
     let service_route = category_route+'/'+service_url
     routes.push(service_route)
   }
 }
 
+    
 //
 //  6.  Export the routes object with a function. 
 //

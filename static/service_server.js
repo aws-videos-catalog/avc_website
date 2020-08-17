@@ -161,8 +161,10 @@ import amazon_gamelift from "./services/amazon_gamelift.json"
 import elastic_container_registry from "./services/elastic_container_registry.json"
 import elastic_container_service from "./services/elastic_container_service.json"
 import elastic_kubernetes_service from "./services/elastic_kubernetes_service.json"
+import fargate from "./services/aws_fargate.json"
 
 const templates = {
+  fargate,
   ec2,
   lightsail,
   lambda,
