@@ -1,7 +1,7 @@
 <template>
   <div class="my-2 small-video">
     <a :href="url">
-      <img src="/ad300x300.png">
+      <img :src="thumbnail.length>0 ? thumbnail : '/ad300x300.png' ">
     </a>
     <p>{{truncateTitle}}</p>
   </div>
@@ -14,6 +14,9 @@ export default {
       type:String
     },
     url: {
+      type:String
+    },
+    thumbnail: {
       type:String
     }
   },

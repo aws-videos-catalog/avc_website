@@ -1,4 +1,4 @@
-const get_routes = require("./route_server.js")
+const get_routes = require("./custom_modules/route_server.js")
 export default {
   mode: 'universal',
   /*
@@ -42,6 +42,7 @@ export default {
   ** Nuxt.js dev-modules
   */
   buildModules: [
+    '~/custom_modules/create_thumbs.js'
   ],
   /*
   ** Nuxt.js modules

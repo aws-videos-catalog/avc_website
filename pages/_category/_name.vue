@@ -19,7 +19,8 @@
       <div style="padding-left:15px" v-for="(video,i) in data.videos" :key="'video_'+i">
         <small-video
           :title="video.title"
-          :url="'?video_id='+video.url.split('?v=')[1]"/>
+          :url="'?video_id='+video.url.split('?v=')[1]"
+          :thumbnail="video.thumbnail"/>
       </div>
     </b-row>
     <hr></hr>
