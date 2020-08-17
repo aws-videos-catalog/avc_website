@@ -40,8 +40,14 @@ export default {
   */
   modules: [
     'bootstrap-vue/nuxt',
+    '@nuxtjs/robots',
     '@nuxtjs/sitemap'
   ],
+  robots: {
+    UserAgent: '*',
+    Disallow: '/',
+    Sitemap: 'https://awsvideocatalog.com/sitemap.xml'
+  },
   sitemap:{
     path: 'sitemap.xml',
     hostname: 'https://awsvideocatalog.com',
