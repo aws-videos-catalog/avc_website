@@ -9,7 +9,15 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
+      { hid: 'description', name: 'description', content: process.env.npm_package_description || '' },
+      {
+        'propery':'og:site_name',
+        'content':'AVC Website'
+      },
+      {
+        'propery':'og:locale',
+        'content':'en_US'
+      }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
@@ -40,8 +48,14 @@ export default {
   */
   modules: [
     'bootstrap-vue/nuxt',
+    '@nuxtjs/robots',
     '@nuxtjs/sitemap'
   ],
+  robots: {
+    UserAgent: '*',
+    Disallow: '/',
+    Sitemap: 'https://awsvideocatalog.com/sitemap.xml'
+  },
   sitemap:{
     path: 'sitemap.xml',
     hostname: 'https://awsvideocatalog.com',

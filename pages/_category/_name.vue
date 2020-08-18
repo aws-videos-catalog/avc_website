@@ -59,7 +59,25 @@ function remove(array, element) {
 export default {
   head(){
     return{
-      title: this.$data.title + ' - ' + this.$data.category_name + ' - AWS Video Catalog'
+      title: this.service_name + ' - ' + this.category_name + ' - AWS Video Catalog',
+      meta:[
+          {
+            'property': 'og:title',
+            'content': this.title + ' - ' + this.category_name + ' - AWS Video Catalog'
+          },
+          {
+            'property': 'og:description',
+            'content': this.description
+          },
+          {
+            'property':'og:image',
+            'content': 'https://awsvideocatalog.com/aws/SVG Light'+this.img
+          },
+          {
+            'property':'og:url',
+            'content': 'https://awsvideocatalog.com/'+this.$route.params.category+'/'+this.$route.params.name
+          }
+        ],
     }
   },
   layout: "default",
@@ -69,16 +87,19 @@ export default {
     Ad,
     BreadCrumb
   },
-  data(){
+  asyncData({route}){
     
     //
     //  1.  Create an array of nested routes by splitting current path by '/'
     //
     
-    let current_service = this.$route.params.name
+    let current_service = route.params.name
     let text = '';
     let temporary = current_service.split('_')
     let main_video;
+    let description;
+    let img;
+    let service_name;
 
     let category_actual_name;
 
@@ -86,9 +107,18 @@ export default {
     {
         let category_link_name = key.split(' ').join('_').toLowerCase();
 
-        if(category_link_name === this.$route.params.category)
+        if(category_link_name === route.params.category)
         {
           category_actual_name = key;
+          for(let service_key in services[key].data){
+            let service_link_name = services[key].data[service_key].name.split(' ').join('_').toLowerCase();
+            if(service_link_name === route.params.name)
+            {
+              service_name = services[key].data[service_key].name
+              img = services[key].data[service_key].img
+              description = services[key].data[service_key].description
+            }
+          }
         }
     }
 
@@ -114,8 +144,7 @@ export default {
     //  3.  Instead of using asyncData, sorting data before passing it to data()
     //      so it's easy to pick the main video which would be the first in the sorted list.
     //
-    console.log(this.$route.params.name)
-    let service_data = getService(this.$route.params.name)
+    let service_data = getService(route.params.name)
     let sorted_data = service_data.sort(function(a,b){
 
       //
@@ -131,11 +160,11 @@ export default {
     //      else return the first video from sorted dataset
     //
     
-    if(this.$route.query.video_id){
+    if(route.query.video_id){
       //
       //  1.  Get video id from query params
       //
-      let video_id = this.$route.query.video_id
+      let video_id = route.query.video_id
 
       //
       //  2.  Split the query with '-'
@@ -182,11 +211,14 @@ export default {
       main_video = sorted_data[0]
     }
     return{
-      name: this.$route.params.name,
+      name: route.params.name,
       service_data: sorted_data,
       title: text,
       main_video: main_video,
-      category_name:category_actual_name
+      category_name:category_actual_name,
+      img,
+      description,
+      service_name
     }
   },
   computed:{
