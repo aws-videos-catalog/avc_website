@@ -1,1 +1,68 @@
-[{"url": "https://www.youtube.com/watch?v=-rv78DsrpNY", "thumbnail": "", "title": "Example title1", "date": "2020/06/19"}, {"url": "https://www.youtube.com/watch?v=8RNRssCiR_E", "thumbnail": "", "title": "Example title2", "date": "2020/06/17"}, {"url": "https://www.youtube.com/watch?v=k8O9KJKSswM", "thumbnail": "", "title": "Example title3", "date": "2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=BiEbMJ86dGQ",
+        "thumbnail": "",
+        "title": "What is Amazon Quantum Ledger Database (QLDB)",
+        "date": "2019/01/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=jcZ_rsLJrqk",
+        "thumbnail": "",
+        "title": "AWS QLDB Overview: Animated Explainer Video",
+        "date": "2019/10/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=blIku5CWYzU",
+        "thumbnail": "",
+        "title": "How Do I Know I Need a Ledger Database? An Introduction to Amazon QLDB",
+        "date": "2019/01/31"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=7Hlux1cpeDE",
+        "thumbnail": "",
+        "title": "Dev Bytes Recap: QLDB/Blockchain Talk",
+        "date": "2019/05/24"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=q002jbUuuSY",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018 - Announcement of Amazon QLDB",
+        "date": "2018/12/13"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=7G9epn3BfqE",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: [NEW LAUNCH!] Do I need a ledger database? An intro to Amazon QLDB (DAT370)",
+        "date": "2018/12/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=bpUKtxa9sKA",
+        "thumbnail": "",
+        "title": "What is Ledger Technology: Database or Blockchain?",
+        "date": "2019/04/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ZfYDl4kaVCo",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Amazon QLDB: An engineer’s deep dive on why this is a game changer (DAT380)",
+        "date": "2019/12/05"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=bmNBD_q38XU",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Managed Blockchain & Amazon QLDB in your solutions portfolio (GPSTEC339)",
+        "date": "2019/12/05"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Ur0z0P7STlY",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019 Launchpad | An Engineer's Perspective on Why we Built Amazon QLDB",
+        "date": "2020/03/17"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=TMQuN0eqPck",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Why you need a ledger database: BMW, DVLA, & Sage discuss use cases (BLC203)",
+        "date": "2019/12/05"
+    }
+]
