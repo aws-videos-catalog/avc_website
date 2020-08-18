@@ -2,15 +2,22 @@
   <div class="listing-container mx-5">
     <bread-crumb/>
     <b-row>
-      <b-col xs="12" md="7" class="placeholder" id="main-video" align-self="stretch">
+      <b-col sm="12" md="7" class="placeholder" id="main-video" align-self="stretch">
         <main-video
           :title="main_video.title"
           :url="main_video.url"
           :date="main_video.date">
         </main-video>
+        <p>{{description}}</p>
       </b-col>
-      <b-col xs="12" md="2" class="placeholder pl-0" align-self="stretch">
-        <Ad :random="true"></Ad>
+      <b-col sm="12" md="2" class="placeholder pl-0" align-self="stretch">
+        <div class="my-xs-4" style="display:flex;flex-direction:column">
+          <Ad :random="true"></Ad>
+          <img style="height:190px" class="mt-2" src="/ad300x300.png">
+        </div>
+      </b-col>
+      <b-col md="3">
+        <img class="placeholder my-xs-4" height="100%" width="100%" src="/ad300x300.png">
       </b-col>
     </b-row>
     <hr/>
