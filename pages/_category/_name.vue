@@ -87,7 +87,7 @@ export default {
     Ad,
     BreadCrumb
   },
-  asyncData({route}){
+  asyncData({route,error}){
     
     //
     //  1.  Create an array of nested routes by splitting current path by '/'
@@ -145,6 +145,11 @@ export default {
     //      so it's easy to pick the main video which would be the first in the sorted list.
     //
     let service_data = getService(route.params.name)
+    
+    if(!service_data){
+      return error({statusCode:404,message:'Page not Found'})
+    }
+
     let sorted_data = service_data.sort(function(a,b){
 
       //
