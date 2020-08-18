@@ -1,4 +1,4 @@
- <template>
+<template>
   <div class="listing-container mx-5">
     <bread-crumb/>
     <b-row>
@@ -8,6 +8,7 @@
           :url="main_video.url"
           :date="main_video.date">
         </main-video>
+      <p>{{description}}</p>
       </b-col>
       <b-col xs="12" md="2" class="placeholder pl-0" align-self="stretch">
         <Ad :random="true"></Ad>
