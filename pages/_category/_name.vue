@@ -9,7 +9,7 @@
           :date="main_video.date">
         </main-video>
       </b-col>
-      <b-col xs="12" md="2" class="placeholder pl-0" align-self="stretch">
+      <b-col xs="12" md="2" class="placeholder px-3" align-self="stretch">
         <Ad :random="true"></Ad>
       </b-col>
     </b-row>
