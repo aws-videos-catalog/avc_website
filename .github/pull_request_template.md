@@ -2,8 +2,8 @@
 
 🚨 Make sure you adhered to our guidelines.
 
-- [ ] **DO** keep pull requests small so they can be easily reviewed.
-- [ ] **DO** assigne a reviewer if you are not the mantainer.
+- **DO** keep pull requests small so they can be easily reviewed.
+- **DO** assigne a reviewer if you are not the mantainer.
 
 ## Pull request type
 <!-- Please try to limit your pull request to one type, submit multiple pull requests if needed. -->

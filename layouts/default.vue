@@ -16,8 +16,8 @@
       <!-- <img src="/company_logo_rectangle.svg" width="200px"> -->
       <p>Est.2016, Copr. <a href="https://0x4447.com">0x4447™</a> LLC.</p>
       <p>|</p>
-      <p><a href="#">Terms of Service</a></p>
-      <p><a href="#">Privacy Policy</a> </p>
+      <p><a href="https://legal.0x4447.com/avc/terms_of_service.pdf">Terms of Service</a></p>
+      <p><a href="https://legal.0x4447.com/avc/privacy_policy.pdf">Privacy Policy</a> </p>
     </div>
   </div>
 </div>
