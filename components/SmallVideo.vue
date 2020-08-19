@@ -1,7 +1,7 @@
 <template>
   <div class="my-2 small-video">
     <a :href="url">
-      <img src="/ad300x300.png">
+      <img :src="thumbnail">
     </a>
     <p>{{truncateTitle}}</p>
   </div>
@@ -23,6 +23,25 @@ export default {
         return this.$props.title
       }
       return this.$props.title.slice(0, 65) + '...'
+    },
+    thumbnail: function(){
+
+      //
+      //  1. Example URL string passed in the props is like this: 
+      //     '?video_id=-rv78DsrpNY' and the id here is the youtube
+      //      video id itself.
+      //
+      let video_id = this.$props.url.split('=')[1]
+
+      //
+      //  2.  Construct the thumbnail url
+      //
+      let thumb_url = 'https://i.ytimg.com/vi/' + video_id + '/hqdefault.jpg'
+
+      //
+      //  3.  Return it
+      //
+      return thumb_url
     }
   }
 
@@ -37,6 +56,7 @@ export default {
 .small-video img{
   width:200px;
   height:120px;
+  border-radius: 0.25rem;
 }
 @media (max-width : 462px) {
 .small-video img{
