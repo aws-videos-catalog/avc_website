@@ -1,1 +1,524 @@
-[{"url":"https://www.youtube.com/watch?v=-rv78DsrpNY","thumbnail":"https://i.ytimg.com/vi/-rv78DsrpNY/hqdefault.jpg","title":"Example title1","date":"2020/06/19"},{"url":"https://www.youtube.com/watch?v=8RNRssCiR_E","thumbnail":"https://i.ytimg.com/vi/8RNRssCiR_E/hqdefault.jpg","title":"Example title2","date":"2020/06/17"},{"url":"https://www.youtube.com/watch?v=k8O9KJKSswM","thumbnail":"https://i.ytimg.com/vi/k8O9KJKSswM/hqdefault.jpg","title":"Example title3","date":"2020/06/18"}]
+[
+  {
+    "url": "https://www.youtube.com/watch?v=4DqNk7ZTYjA",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2018: Aurora Serverless: Scalable, Cost-Effective Application Deployment (DAT336)",
+    "date": "2018/11/27"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=bPUVq_1Knm8",
+    "thumbnail": "",
+    "title": "Aurora PostgreSQL University: Intro to Amazon Aurora with PostgreSQL Compatibility",
+    "date": "2019/08/21"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=cMJV2vvNsts",
+    "thumbnail": "",
+    "title": "Deep Dive on Amazon Aurora with PostgreSQL Compatibility",
+    "date": "2019/04/01"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=XKPHbYe-fHQ",
+    "thumbnail": "",
+    "title": "Deep Dive on Amazon Aurora PostgreSQL Performance Tuning",
+    "date": "2019/04/01"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=DAJhvRMniqo",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2017: Getting Started with Amazon Aurora (DAT202)",
+    "date": "2017/11/28"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=U42mC_iKSBg",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2018: [REPEAT 1] Deep Dive on Amazon Aurora with MySQL Compatibility (DAT304-R1)",
+    "date": "2018/11/28"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=SnCWucCEFLw",
+    "thumbnail": "",
+    "title": "How To Create Your First Database Cluster on Amazon Aurora",
+    "date": "2017/04/17"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=--jED3W8Qy4",
+    "thumbnail": "",
+    "title": "PostgreSQL In-Depth Training: Aurora Part 1",
+    "date": "2019/06/17"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=cN_R5JteUgA",
+    "thumbnail": "",
+    "title": "What's New in Amazon Aurora",
+    "date": "2018/11/30"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ERMHycDc8ck",
+    "thumbnail": "",
+    "title": "High Availability and Failover in Amazon Aurora",
+    "date": "2020/05/18"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=kDBcoCUn7LI",
+    "thumbnail": "",
+    "title": "PayU: Scaling E-commerce Flash Sales using Amazon Aurora",
+    "date": "2018/10/11"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=HAITkZr9pUk",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2014 | (SDD415) NEW LAUNCH: Amazon Aurora: Amazon’s New Relational Database Engine",
+    "date": "2014/11/17"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3PshvYmTv9M",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2018: [REPEAT 1] Deep Dive on Amazon Aurora with PostgreSQL Compatibility (DAT305-R1)",
+    "date": "2018/11/28"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=JVBbqkVEbXY",
+    "thumbnail": "",
+    "title": "How can I change the VPC of an Amazon Aurora Cluster?",
+    "date": "2020/06/08"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=tAHqBmaOguo",
+    "thumbnail": "",
+    "title": "How do I enable the binlog file in an Amazon Aurora cluster to use for external replication?",
+    "date": "2017/05/04"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Q0cqKl6ktIg",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2017 - Amazon Aurora Serverless",
+    "date": "2017/11/29"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=gdhSG25gSZA",
+    "thumbnail": "",
+    "title": "Fast Database Cloning in Amazon Aurora",
+    "date": "2017/08/30"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Dv_8r7w6k0E",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2018: Accelerate Oracle to Aurora PostgreSQL Migration (GPSTEC313)",
+    "date": "2018/11/30"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=H2AwyOkTq6w",
+    "thumbnail": "",
+    "title": "Dream11: Scaling Fantasy Sports Platform with Amazon ElastiCache and Amazon Aurora",
+    "date": "2018/08/23"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=CwWFrZGMDds",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2015 | (DAT405) Amazon Aurora Deep Dive",
+    "date": "2015/10/09"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=IwyOyGs69N4",
+    "thumbnail": "",
+    "title": "Amazon Aurora Serverless Brings Serverless Computing to Your Database",
+    "date": "2018/11/30"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=erEBSsEXGBU",
+    "thumbnail": "",
+    "title": "How to Configure Your Amazon Aurora Database Cluster for Failover",
+    "date": "2017/09/11"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=GzrMMjzK_nY",
+    "thumbnail": "",
+    "title": "Migrating Databases to Amazon Aurora (Level 200)",
+    "date": "2017/12/21"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=-9_Gat9cJn4",
+    "thumbnail": "",
+    "title": "How do I publish RDS MySQL and Aurora MySQL logs to Amazon CloudWatch?",
+    "date": "2019/09/10"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=FzxqIdIZ9wc",
+    "thumbnail": "",
+    "title": "Introduction to Amazon Aurora - Relational Database Built for the Cloud - AWS",
+    "date": "2019/07/19"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=2WG01wJIGSQ",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2018: [REPEAT 1] What's New in Amazon Aurora (DAT204-R1)",
+    "date": "2018/11/28"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=lmEtkt-z1y0",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2018: Migrating Your Oracle & SQL Server Databases to Amazon Aurora (DAT318)",
+    "date": "2018/11/27"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=4462hcfkApM",
+    "thumbnail": "",
+    "title": "Using Performance Insights to Analyze Performance of Amazon Aurora PostgreSQL",
+    "date": "2017/09/05"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=rPmKo2g9znA",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2017: Deep Dive on the Amazon Aurora MySQL-compatible Edition (DAT301)",
+    "date": "2017/11/30"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=I37e0Xzzp5Q",
+    "thumbnail": "",
+    "title": "AWS Summit Tel Aviv 2015 | Amazon Aurora Demo",
+    "date": "2015/07/27"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=-ychuATbqPY",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2018: Building Your Application with an Amazon Aurora Database (DEM113)",
+    "date": "2018/11/30"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3PshvYmTv9M",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2018: [REPEAT 1] Deep Dive on Amazon Aurora with PostgreSQL Compatibility (DAT305-R1)",
+    "date": "2018/11/28"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=RYiQSvqjab0",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2017: Airbnb Runs on Amazon Aurora (DAT331)",
+    "date": "2017/11/30"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=IwyOyGs69N4",
+    "thumbnail": "",
+    "title": "Amazon Aurora Serverless Brings Serverless Computing to Your Database",
+    "date": "2018/11/30"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=GRm1fA42Z58",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2014 | Announcing Amazon Aurora for RDS",
+    "date": "2014/11/12"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=y2QsuwZGZ54",
+    "thumbnail": "",
+    "title": "IAM Authentication with Amazon Aurora MySQL",
+    "date": "2020/07/29"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=qvMKKDbzaxo",
+    "thumbnail": "",
+    "title": "AWS Summit Series 2016 | Chicago - Getting Started with Amazon Aurora",
+    "date": "2016/04/22"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=DZFPYzp1JJA",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2016: Amazon Aurora Best Practices: Getting the Best Out of Your Databases (DAT301)",
+    "date": "2016/12/01"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=gdhSG25gSZA",
+    "thumbnail": "",
+    "title": "Fast Database Cloning in Amazon Aurora",
+    "date": "2017/08/30"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=0hXXmcmSqHw",
+    "thumbnail": "",
+    "title": "Amazon Aurora – AWS Lambda Integration",
+    "date": "2016/10/18"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=g5N_kFRqCh8",
+    "thumbnail": "",
+    "title": "Amazon Aurora: Amazon’s New Relational Database Engine",
+    "date": "2015/04/10"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Q0cqKl6ktIg",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2017 - Amazon Aurora Serverless",
+    "date": "2017/11/29"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=tJ0TWdIocz0",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2018: Accelerate Database Development and Testing with Amazon Aurora (DAT313)",
+    "date": "2018/11/29"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=gYDggcrinjE",
+    "thumbnail": "",
+    "title": "How do I enable Audit logging for Amazon Aurora MySQL and publish the logs to Amazon CloudWatch?",
+    "date": "2019/11/17"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=EcS9PC_TnG0",
+    "thumbnail": "",
+    "title": "Migrating Oracle to Aurora PostgreSQL Utilizing AWS Database Migration Service (DMS)",
+    "date": "2018/07/02"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=wqXD8WxOBYA",
+    "thumbnail": "",
+    "title": "Database Deep Dive | S1 E3 – Amazon Aurora: Architect a Relational Database for the Cloud",
+    "date": "2019/05/16"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=vjvUt3_NCsM",
+    "thumbnail": "",
+    "title": "AWS Summit - London | twitch.tv/aws | Introducing Amazon Aurora Backtrack",
+    "date": "2018/05/18"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=_3iolNvnmOE",
+    "thumbnail": "",
+    "title": "AWS Summit Series 2016 | Chicago - Deep Dive on Amazon Aurora",
+    "date": "2016/05/22"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=tAHqBmaOguo",
+    "thumbnail": "",
+    "title": "How do I enable the binlog file in an Amazon Aurora cluster to use for external replication?",
+    "date": "2017/05/04"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=yaqrTBgHk-k",
+    "thumbnail": "",
+    "title": "How do I find actual Amazon Aurora storage usage in an Aurora cluster?",
+    "date": "2019/05/29"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=f3hOKNIZvRU",
+    "thumbnail": "",
+    "title": "PostgreSQL In-Depth Training: Aurora Part 2",
+    "date": "2019/06/17"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=mAS5buLRQ1s",
+    "thumbnail": "",
+    "title": "AWS Summit London 2018: Amazon Aurora Backtrack",
+    "date": "2018/05/11"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=43ArVne9Qa4",
+    "thumbnail": "",
+    "title": "Database Deep Dive | S1 E5 - Aurora Storage: Scalability & Reliability for Relational Data",
+    "date": "2019/06/05"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=uNAmsoLed1E",
+    "thumbnail": "",
+    "title": "Bajaj Housing Finance Limited: Serverless Data Pipelines with AWS Glue and Amazon Aurora PGSQL",
+    "date": "2019/11/09"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=JZnd74HAmq0",
+    "thumbnail": "",
+    "title": "Amazon RDS Performance Insights for Amazon Aurora",
+    "date": "2017/10/24"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=K9N59jiMYvU",
+    "thumbnail": "",
+    "title": "WonderLend Hubs: Migrating an ISV Solution from MS SQL Server to Aurora Postgres with AWS DMS & SCT",
+    "date": "2018/07/27"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=-9_Gat9cJn4",
+    "thumbnail": "",
+    "title": "How do I publish RDS MySQL and Aurora MySQL logs to Amazon CloudWatch?",
+    "date": "2019/09/10"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=hpWpBVdY8Ss",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2015 | (DAT207) Amazon Aurora: The New Amazon Relational Database Engine",
+    "date": "2015/10/09"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=yHfplfbkJRI",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2015 | (DAT312) Using Amazon Aurora for Enterprise Workloads",
+    "date": "2015/10/09"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=tAHqBmaOguo",
+    "thumbnail": "",
+    "title": "How do I enable the binlog file in an Amazon Aurora cluster to use for external replication?",
+    "date": "2017/05/04"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=f3hOKNIZvRU",
+    "thumbnail": "",
+    "title": "PostgreSQL In-Depth Training: Aurora Part 2",
+    "date": "2019/06/17"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=qDRS_vGFjsw",
+    "thumbnail": "",
+    "title": "Sentiment Analysis using Aurora ML integration",
+    "date": "2020/05/18"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=wy1LCtTo4ns",
+    "thumbnail": "",
+    "title": "Lucidchart - Database Migration from EC2 to Aurora",
+    "date": "2018/04/27"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=eq-9_1XMR1o",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2016: Practices for Migrating from Commercial Engines to Aurora or PostgreSQL (DAT302)",
+    "date": "2016/12/03"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=BZcdDN5RJWw",
+    "thumbnail": "",
+    "title": "AWS NY Summit - Develop Database Applications Faster with Amazon Aurora",
+    "date": "2018/07/26"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ztmtJJTC8_Y",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2016: NEW LAUNCH! Introducing Amazon Aurora PostgreSQL-Compatible Edition (DAT206)",
+    "date": "2016/12/05"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=8vpu3HWkMDw",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2015 | (DAT309) Scaling Massive Content Stores with Amazon Aurora",
+    "date": "2015/10/09"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=OFsYLOqVJmA",
+    "thumbnail": "",
+    "title": "AWS Summit Series 2016 | New York - Getting Started with Amazon Aurora",
+    "date": "2016/08/16"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=HhBCdiF3vvo",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2016: Announcing PostgreSQL compatibility for Amazon Aurora",
+    "date": "2016/12/01"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=8JyQCOb-Tqk",
+    "thumbnail": "",
+    "title": "How to troubleshoot binary logging errors when using AWS DMS with Aurora MySQL as the source?",
+    "date": "2020/06/29"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=rUyHYlng3Xk",
+    "thumbnail": "",
+    "title": "How do I migrate MySQL data to an Amazon Aurora cluster using Amazon S3?",
+    "date": "2020/06/10"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=18bkspeypf8",
+    "thumbnail": "",
+    "title": "Amazon Aurora Now Supports T2.Medium Instances",
+    "date": "2016/11/23"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=O9P1lfQkF78",
+    "thumbnail": "",
+    "title": "How do I troubleshoot problems connecting to an RDS cluster or instance running Amazon Aurora?",
+    "date": "2019/05/20"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=fydTVOdDV70",
+    "thumbnail": "",
+    "title": "Amazon RDS with Amazon Aurora | AWS Public Sector Summit 2016",
+    "date": "2016/07/13"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=rGzqL2-dIyI",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2015 | (ISM304) From Oracle to Amazon RDS MySQL and Amazon Aurora",
+    "date": "2015/10/09"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=rGzqL2-dIyI",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2015 | (ISM304) From Oracle to Amazon RDS MySQL and Amazon Aurora",
+    "date": "2015/10/09"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=DrtwAOND1Pc",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2019: [REPEAT 1] Amazon Aurora storage demystified: How it all works (DAT309-R1)",
+    "date": "2019/12/08"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=uaQEGLKtw54",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2019: [REPEAT] Amazon Aurora storage demystified: How it all works (DAT309-R)",
+    "date": "2019/12/04"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Ul-j5fKfv2k",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2019: [REPEAT 1] Deep dive on Amazon Aurora with PostgreSQL compatibility (DAT328-R1)",
+    "date": "2019/12/10"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=GwEtiRZR4g4",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2019: [REPEAT 1] Deep Dive on Amazon Aurora with MySQL Compatibility (DAT321-R1)",
+    "date": "2019/12/06"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=9mTwxghXvlE",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2019: Aurora Serverless: Scalable, cost-effective application deployment (DAT382)",
+    "date": "2019/12/03"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=QJB1vUlkmWQ",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2019: [REPEAT 1] What's new in Amazon Aurora (DAT202-R1)",
+    "date": "2019/12/10"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=2eEKuK5eOC4",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2019: Migrating the live Pokémon database to Aurora PostgreSQL (GAM304)",
+    "date": "2019/12/05"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=p0C0jakzYuc",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2019: Amazon Aurora Multi-Master: Scaling out database write performance (DAT404-R1)",
+    "date": "2019/12/09"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=UsNmIo4ymUo",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2019: Operational excellence with Amazon Aurora PostgreSQL (GPSTEC345)",
+    "date": "2019/12/04"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=hUQdY8BERf8",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2019: Accelerate application development with Amazon Aurora (DEM154)",
+    "date": "2019/12/05"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Kc3rpV-rhZc",
+    "thumbnail": "",
+    "title": "AWS re:Invent 2019 Launchpad | Amazon Aurora Supports Machine Learning",
+    "date": "2020/03/17"
+  }
+]
