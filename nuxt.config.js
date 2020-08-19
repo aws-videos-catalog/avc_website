@@ -42,7 +42,6 @@ export default {
   ** Nuxt.js dev-modules
   */
   buildModules: [
-    '~/custom_modules/create_thumbs.js'
   ],
   /*
   ** Nuxt.js modules
