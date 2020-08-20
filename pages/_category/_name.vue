@@ -29,7 +29,7 @@
           :url="'?video_id='+video.url.split('?v=')[1]"/>
       </div>
     </b-row>
-    <hr></hr>
+    <hr class="height:1px"></hr>
   </div>
 </template>
 
@@ -295,7 +295,7 @@ ul{
 }
 
 .grey-box{
-  background-color:grey;
+  background-color:#e9ecef;
   border-radius:0.25rem;
 }
 </style>
