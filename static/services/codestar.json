@@ -1,1 +1,44 @@
-[{"url":"https://www.youtube.com/watch?v=-rv78DsrpNY","thumbnail":"https://i.ytimg.com/vi/-rv78DsrpNY/hqdefault.jpg","title":"Example title1","date":"2020/06/19"},{"url":"https://www.youtube.com/watch?v=8RNRssCiR_E","thumbnail":"https://i.ytimg.com/vi/8RNRssCiR_E/hqdefault.jpg","title":"Example title2","date":"2020/06/17"},{"url":"https://www.youtube.com/watch?v=k8O9KJKSswM","thumbnail":"https://i.ytimg.com/vi/k8O9KJKSswM/hqdefault.jpg","title":"Example title3","date":"2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=fpBzrRH66Dc",
+        "thumbnail": "",
+        "title": "AWS CodeStar - Unified Interface to Accelerate Your Software Delivery (Level 300)",
+        "date": "2017/12/21"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=B-nbl0qYsQg",
+        "thumbnail": "",
+        "title": "AWS Sydney Summit 2018: AWS Cloud9 and Codestar",
+        "date": "2018/05/21"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=vm1mhsykKLc",
+        "thumbnail": "",
+        "title": "AWS Summit Tel Aviv 2017: Introducing CodeStar and the AWS CI/CD workflow",
+        "date": "2017/07/31"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=pIaB7wSSReU",
+        "thumbnail": "",
+        "title": "NEW LAUNCH! AWS CodeStar: The Central Experience to Quickly Start Developing Applications on AWS",
+        "date": "2017/04/24"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ldcIskfVzW4",
+        "thumbnail": "",
+        "title": "AWS for Microsoft Workloads: CD/CI for .NET applications in AWS CodeStar",
+        "date": "2018/06/18"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=98ZgwshEMXA",
+        "thumbnail": "",
+        "title": "AWS Summit Series 2017 - San Francisco: Announcing AWS CodeStar",
+        "date": "2017/04/24"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=dE-3QkNryKg",
+        "thumbnail": "",
+        "title": "Alexa Skills Workshop : Advanced Hands-On Learning (Codestar)",
+        "date": "2019/05/24"
+    }
+]
