@@ -5,6 +5,7 @@
       :img-src="adObject.img.length>0 ? adObject.img : '/ad300x300.png'"
       :class="classes"
       img-alt="Image"
+      rel="noopener"
       tag="a"
       target="_blank"
       :href="adObject.url"

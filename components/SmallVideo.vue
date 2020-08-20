@@ -1,7 +1,7 @@
 <template>
   <div class="my-2 small-video">
     <a :href="url">
-      <img src="/ad300x300.png">
+      <img :alt="title" src="/ad300x300.png">
     </a>
     <p>{{truncateTitle}}</p>
   </div>
