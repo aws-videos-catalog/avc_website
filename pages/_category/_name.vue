@@ -166,7 +166,6 @@ export default {
     //  4.  Get the main video id from URL if it's given,
     //      else return the first video from sorted dataset
     //
-    
     if(route.query.video_id){
       //
       //  1.  Get video id from query params
@@ -174,9 +173,9 @@ export default {
       let video_id = route.query.video_id
 
       //
-      //  2.  Split the query with '-'
+      //  2.  Split the query with '='
       //
-      let separated = video_id.split('-')
+      let separated = video_id.split('=')
 
       //
       //  3.  Last element of splitted array will be the order of video
