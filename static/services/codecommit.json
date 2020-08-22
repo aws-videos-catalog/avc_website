@@ -1,1 +1,38 @@
-[{"url": "https://www.youtube.com/watch?v=-rv78DsrpNY", "thumbnail": "", "title": "Example title1", "date": "2020/06/19"}, {"url": "https://www.youtube.com/watch?v=8RNRssCiR_E", "thumbnail": "", "title": "Example title2", "date": "2020/06/17"}, {"url": "https://www.youtube.com/watch?v=k8O9KJKSswM", "thumbnail": "", "title": "Example title3", "date": "2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=SWqh7LvxKqI",
+        "thumbnail": "",
+        "title": "Introduction to AWS CodeCommit: Creating a Repo",
+        "date": "2019/01/22"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=W-SM4m19JMA",
+        "thumbnail": "",
+        "title": "Introduction to AWS CodeCommit: Setting Up Permissions",
+        "date": "2019/01/22"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=46PRLMW8otg",
+        "thumbnail": "",
+        "title": "Introduction to AWS CodeCommit",
+        "date": "2016/05/13"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=NeCFWnSp2H4",
+        "thumbnail": "",
+        "title": "Integrate AWS CodeCommit with Visual Studio",
+        "date": "2019/10/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=aLz_aKFvQTo",
+        "thumbnail": "",
+        "title": "How do I deploy code from a CodeCommit repository to an Elastic Beanstalk environment?",
+        "date": "2020/02/20"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=VNPWovr10uQ",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2014 | Announcing AWS CodeCommit",
+        "date": "2014/11/12"
+    }
+]

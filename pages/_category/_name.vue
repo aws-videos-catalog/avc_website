@@ -1,4 +1,4 @@
- <template>
+<template>
   <div class="listing-container mx-5">
     <bread-crumb/>
     <b-row>
@@ -26,7 +26,8 @@
       <div style="padding-left:15px" v-for="(video,i) in data.videos" :key="'video_'+i">
         <small-video
           :title="video.title"
-          :url="'?video_id='+video.url.split('?v=')[1]"/>
+          :url="'?video_id='+video.url.split('?v=')[1]"
+          :thumbnail="video.thumbnail"/>
       </div>
     </b-row>
     <hr class="height:1px"></hr>
@@ -94,7 +95,7 @@ export default {
     Ad,
     BreadCrumb
   },
-  asyncData({route}){
+  asyncData({route,error}){
     
     //
     //  1.  Create an array of nested routes by splitting current path by '/'
@@ -152,6 +153,11 @@ export default {
     //      so it's easy to pick the main video which would be the first in the sorted list.
     //
     let service_data = getService(route.params.name)
+    
+    if(!service_data){
+      return error({statusCode:404,message:'Page not Found'})
+    }
+
     let sorted_data = service_data.sort(function(a,b){
 
       //
@@ -166,7 +172,6 @@ export default {
     //  4.  Get the main video id from URL if it's given,
     //      else return the first video from sorted dataset
     //
-    
     if(route.query.video_id){
       //
       //  1.  Get video id from query params
@@ -174,9 +179,9 @@ export default {
       let video_id = route.query.video_id
 
       //
-      //  2.  Split the query with '-'
+      //  2.  Split the query with '='
       //
-      let separated = video_id.split('-')
+      let separated = video_id.split('=')
 
       //
       //  3.  Last element of splitted array will be the order of video

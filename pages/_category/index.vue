@@ -42,7 +42,7 @@ export default {
     Listing,
     BreadCrumb
   },
-  asyncData({route}){
+  asyncData({route,error}){
     let category_actual_name;
     let service_data;
     let description;
@@ -59,6 +59,10 @@ export default {
           description = services[key].info.description;
           img = services[key].info.img
         }
+    }
+
+    if(!service_data){
+      error({statusCode:404,message:'Page not Found'})
     }
     
     return {
