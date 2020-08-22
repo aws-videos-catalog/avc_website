@@ -2,16 +2,22 @@
   <div class="listing-container mx-5">
     <bread-crumb/>
     <b-row>
-      <b-col xs="12" md="7" class="placeholder" id="main-video" align-self="stretch">
+      <b-col sm="12" md="7" class="placeholder" id="main-video" align-self="stretch">
         <main-video
           :title="main_video.title"
           :url="main_video.url"
           :date="main_video.date">
         </main-video>
-      <p>{{description}}</p>
+        <p>{{description}}</p>
       </b-col>
-      <b-col xs="12" md="2" class="placeholder px-3" align-self="stretch">
-        <Ad :random="true"></Ad>
+      <b-col sm="12" md="2" class="placeholder pl-0" align-self="stretch">
+        <div class="my-xs-4" style="display:flex;flex-direction:column">
+          <Ad :random="true"></Ad>
+          <div style="height:190px" class="mt-2 grey-box"></div>
+        </div>
+      </b-col>
+      <b-col md="3">
+        <div style="width:100%;height:100%" class="my-xs-4 grey-box"></div>
       </b-col>
     </b-row>
     <hr/>
@@ -20,10 +26,11 @@
       <div style="padding-left:15px" v-for="(video,i) in data.videos" :key="'video_'+i">
         <small-video
           :title="video.title"
-          :url="'?video_id='+video.url.split('?v=')[1]"/>
+          :url="'?video_id='+video.url.split('?v=')[1]"
+          :thumbnail="video.thumbnail"/>
       </div>
     </b-row>
-    <hr></hr>
+    <hr class="height:1px"></hr>
   </div>
 </template>
 
@@ -165,7 +172,6 @@ export default {
     //  4.  Get the main video id from URL if it's given,
     //      else return the first video from sorted dataset
     //
-    
     if(route.query.video_id){
       //
       //  1.  Get video id from query params
@@ -173,9 +179,9 @@ export default {
       let video_id = route.query.video_id
 
       //
-      //  2.  Split the query with '-'
+      //  2.  Split the query with '='
       //
-      let separated = video_id.split('-')
+      let separated = video_id.split('=')
 
       //
       //  3.  Last element of splitted array will be the order of video
@@ -291,5 +297,10 @@ export default {
 
 ul{
   padding:0px
+}
+
+.grey-box{
+  background-color:#e9ecef;
+  border-radius:0.25rem;
 }
 </style>

@@ -1,1 +1,134 @@
-[{"url": "https://www.youtube.com/watch?v=-rv78DsrpNY", "thumbnail": "", "title": "Example title1", "date": "2020/06/19"}, {"url": "https://www.youtube.com/watch?v=8RNRssCiR_E", "thumbnail": "", "title": "Example title2", "date": "2020/06/17"}, {"url": "https://www.youtube.com/watch?v=k8O9KJKSswM", "thumbnail": "", "title": "Example title3", "date": "2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=uP68iqyuqTg",
+        "thumbnail": "",
+        "title": "AWS SA Whiteboarding | AWS Direct Connect",
+        "date": "2016/08/29"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=DXFooR95BYc",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: AWS Direct Connect: Deep Dive (NET403)",
+        "date": "2018/11/28"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=dhpTTT6V1So",
+        "thumbnail": "",
+        "title": "How do I configure a VPN over AWS Direct Connect?",
+        "date": "2018/09/10"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=eNxPhHTN8gY",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017: Deep Dive: AWS Direct Connect and VPNs (NET403)",
+        "date": "2017/12/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=SMvom9QjkPk",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2015: Deep Dive in AWS Direct Connect and VPNs (NET406)",
+        "date": "2015/10/09"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=r7zamTFGxcM",
+        "thumbnail": "",
+        "title": "What is the difference between a hosted VIF and hosted connection when using AWS Direct Connect?",
+        "date": "2016/09/06"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=JhfG2y4SUtk",
+        "thumbnail": "",
+        "title": "Getting Started with AWS Direct Connect in Canberra",
+        "date": "2019/10/17"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=_JgNnmOfxLE",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2015 | (ARC402) Double Redundancy with AWS Direct Connect",
+        "date": "2015/10/09"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=m6NyVJrXUjo",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2014 | (ENT307) AWS Direct Connect Solutions and Network Automation",
+        "date": "2014/11/21"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=i6Zf9lwXRcY",
+        "thumbnail": "",
+        "title": "AWS Summit Series 2015 | Tel Aviv: Amazon VPC and AWS Direct Connect",
+        "date": "2015/07/31"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Qep11X1r1QA",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2016: Deep Dive: AWS Direct Connect and VPNs (NET402)",
+        "date": "2016/12/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=h8FLEkrckUY",
+        "thumbnail": "",
+        "title": "How do I migrate my existing virtual interfaces between AWS Direct Connect connections or LAGs?",
+        "date": "2017/09/25"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=5qidn3BqZ6Y",
+        "thumbnail": "",
+        "title": "How do I increase bandwidth for active traffic on AWS Direct Connect using a link aggregation group?",
+        "date": "2017/08/21"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=iJeiWU9Ud7w",
+        "thumbnail": "",
+        "title": "Cloud Architectures with AWS Direct Connect (ARC304) | AWS re:Invent 2013",
+        "date": "2013/11/26"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=iUq3IeRr6K0",
+        "thumbnail": "",
+        "title": "AWS Symposium - Washington, DC | AWS Direct Connect",
+        "date": "2015/08/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=LNYY3bMSiHM",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: Extending Data Centers to Cloud: Connectivity Options & Best Practices NET302",
+        "date": "2018/11/28"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=XvDuuTIysXA",
+        "thumbnail": "",
+        "title": "What should I do if my Direct Connect connection state is down in the Direct Connect console?",
+        "date": "2017/07/10"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=zSZgye3kYvg",
+        "thumbnail": "",
+        "title": "Announcement | AWS Direct Connect & Elastic Load Balancing Updates",
+        "date": "2019/04/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=-WvAOblKBFI",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2015 | (ISM211) How More Organizations Can Now Directly Connect to AWS",
+        "date": "2015/10/09"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=bpreo8mbKog",
+        "thumbnail": "",
+        "title": "AWS Webinar: Expand your Enterprise Cloud Strategy with AWS Direct Connect and Equinix",
+        "date": "2012/07/17"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=YwpfeOwDlko",
+        "thumbnail": "",
+        "title": "Getting Started with Amazon Connect",
+        "date": "2019/11/19"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=eqW6CPb58gs",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: [REPEAT 1] Connectivity to AWS and hybrid AWS network architectures (NET317-R1)",
+        "date": "2019/12/05"
+    }
+]

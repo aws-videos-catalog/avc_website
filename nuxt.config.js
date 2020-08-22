@@ -1,4 +1,4 @@
-const get_routes = require("./route_server.js")
+const get_routes = require("./custom_modules/route_server.js")
 export default {
   mode: 'universal',
   /*

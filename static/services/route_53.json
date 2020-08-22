@@ -1,1 +1,194 @@
-[{"url": "https://www.youtube.com/watch?v=-rv78DsrpNY", "thumbnail": "", "title": "Example title1", "date": "2020/06/19"}, {"url": "https://www.youtube.com/watch?v=8RNRssCiR_E", "thumbnail": "", "title": "Example title2", "date": "2020/06/17"}, {"url": "https://www.youtube.com/watch?v=k8O9KJKSswM", "thumbnail": "", "title": "Example title3", "date": "2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=PVBC1gb78r8",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017: DNS Demystified: Global Traffic Management with Amazon Route 53 (NET302)",
+        "date": "2017/11/29"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=e2xLV7pCOLI",
+        "thumbnail": "",
+        "title": "What is DNS? - Introduction to Domain Name System",
+        "date": "2016/12/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=D1n5kDTWidQ",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: Introduction to Amazon Route 53 Resolver for Hybrid Cloud (NET215)",
+        "date": "2018/12/05"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=AAq-DDbFiIE",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2016: DNS Demystified: Amazon Route 53, featuring Warner Bros. (NET202)",
+        "date": "2016/12/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=QU7FQBgL0Po",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2016: Global Traffic Management with Amazon Route 53 Traffic Flow (NET302)",
+        "date": "2016/12/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=YPNzeuNd-lA",
+        "thumbnail": "",
+        "title": "Why is the Route 53 Alias record for an Elastic Load Balancer not working or resolving?",
+        "date": "2020/04/07"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=qsUKki0TUuc",
+        "thumbnail": "",
+        "title": "Using the Route 53 Management Console",
+        "date": "2011/11/15"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=FFv_6t3jE78",
+        "thumbnail": "",
+        "title": "AWS Knowledge Center Videos: How do I set up a Route 53 health check?",
+        "date": "2017/06/28"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=PnOFP4EZ6hs",
+        "thumbnail": "",
+        "title": "How do I create an Amazon Route 53 Health Check?",
+        "date": "2019/11/18"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=zxSDRPQRd50",
+        "thumbnail": "",
+        "title": "How do I configure geoproximity routing using the Route 53 console?",
+        "date": "2019/05/23"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=W4FPZ29Trpw",
+        "thumbnail": "",
+        "title": "AWS KC Videos: How do I migrate my DNS service for an existing domain to Amazon Route 53?",
+        "date": "2017/05/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=6TwqSw_IUjM",
+        "thumbnail": "",
+        "title": "How do I delete a Route 53 hosted zone?",
+        "date": "2018/11/19"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=VxhBxSaN8ss",
+        "thumbnail": "",
+        "title": "How do I delete a Route 53 Hosted Zone created by ECS Service Discovery via AWS Cloud Map service?",
+        "date": "2019/06/11"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=qRMu1ZOfbhs",
+        "thumbnail": "",
+        "title": "Warner Bros. on Amazon Route 53 - Customer Success Story",
+        "date": "2016/10/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=mHJA4Jijm6Q",
+        "thumbnail": "",
+        "title": "How do I enable reverse DNS lookup in Amazon Route 53?",
+        "date": "2019/03/21"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=GTwajBL0uzU",
+        "thumbnail": "",
+        "title": "How to configure Route 53 Resolver inbound endpoints to resolve DNS records in private hosted zones?",
+        "date": "2020/08/17"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=8PQw3FgRGxo",
+        "thumbnail": "",
+        "title": "SimilarWeb: Route 53 Calculated Health Checks for an Active/Active Multi-Region Architecture",
+        "date": "2018/11/08"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=f9y-T7mQVxs",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2014 | (SDD408) Amazon Route 53 Deep Dive: Delivering Resiliency, Minimizing Latency",
+        "date": "2014/11/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=xfCKXuofY60",
+        "thumbnail": "",
+        "title": "Getting Started with Amazon Route53",
+        "date": "2011/12/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=WDDkLOT8SCk",
+        "thumbnail": "",
+        "title": "Netflix: Multi-Regional Resiliency and Amazon Route 53",
+        "date": "2017/01/05"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=9k6FNy_HB40",
+        "thumbnail": "",
+        "title": "My server cannot receive email after creating an MX record for my SMTP server in Amazon Route 53",
+        "date": "2018/07/17"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=UiXRVHgQ_Gg",
+        "thumbnail": "",
+        "title": "Dynamic Content Acceleration: Amazon CloudFront and Amazon Route 53 (ARC309) | AWS re:Invent 2013",
+        "date": "2013/11/26"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=DCy40ZRwMmo",
+        "thumbnail": "",
+        "title": "What can I check when I'm unable to access my website when using the Amazon Route 53 DNS service?",
+        "date": "2016/06/10"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=l5HSED9FiPI",
+        "thumbnail": "",
+        "title": "Availability & Scalability with Elastic Load Balancing & Route 53 (CPN204) | AWS re:Invent 2013",
+        "date": "2013/11/27"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=3OK6VG7gqiw",
+        "thumbnail": "",
+        "title": "AWS Webcast - High Availability with Route 53 DNS Failover",
+        "date": "2013/07/12"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ahnhoFgd5K4",
+        "thumbnail": "",
+        "title": "AWS KC Videos: How do I configure a white label name server using Route 53?",
+        "date": "2017/05/08"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=MkYSiNTE-0U",
+        "thumbnail": "",
+        "title": "Slack: Real-Time Communication with HAProxy and Route53 on AWS",
+        "date": "2017/09/25"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=XXUYbdbCb6Q",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2015 | (NET308) Consolidating DNS Data in the Cloud with Amazon Route 53",
+        "date": "2015/10/12"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=zsitzG6Qiag",
+        "thumbnail": "",
+        "title": "Simplify the DNS for your Hybrid Cloud and Easily Scale Across VPCs",
+        "date": "2018/11/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=_A4084pNCTc",
+        "thumbnail": "",
+        "title": "Why can't I select my preferred alias target when creating a Route 53 alias resource record set?",
+        "date": "2020/08/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=_Z5jAs2gvPA",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Deep dive on DNS in the hybrid cloud (NET410)",
+        "date": "2019/12/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=abOFqytVqBU",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: AWS PrivateLink deployments: DNS mechanisms for routing & resiliency (NET321)",
+        "date": "2019/12/09"
+    }
+]
