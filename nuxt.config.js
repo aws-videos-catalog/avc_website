@@ -47,13 +47,14 @@ export default {
   ** Nuxt.js modules
   */
   modules: [
+    ['@nuxtjs/component-cache', { maxAge: 1000 * 60 * 5 }],
     'bootstrap-vue/nuxt',
     '@nuxtjs/robots',
     '@nuxtjs/sitemap'
   ],
   robots: {
     UserAgent: '*',
-    Disallow: '/',
+    Allow: '/',
     Sitemap: 'https://awsvideocatalog.com/sitemap.xml'
   },
   sitemap:{
