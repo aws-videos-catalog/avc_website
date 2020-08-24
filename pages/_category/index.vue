@@ -44,6 +44,7 @@ export default {
     BreadCrumb
   },
   asyncData({route,error}){
+    
 
     let actual_details = get_actual_details(route.params.category)
     
