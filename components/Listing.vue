@@ -72,10 +72,19 @@ export default {
   },
   computed:{
     links: function(){
+      //
+      //  1.  Create an empty array called links, which we will populate with links only.
+      //
       let links = []
       let i = 0;
       for (const value of this.$props.items) {
+        //
+        //  2.  Create converted link name to put in url.
+        //
         let link = value.name.split(' ').join('_').toLowerCase()
+        //
+        //  3.  Push it to links array.
+        //
         links.push(link)
       }
       return links

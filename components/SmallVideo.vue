@@ -1,7 +1,7 @@
 <template>
   <div class="my-2 small-video">
     <a :href="url">
-      <img :alt="title" src="/ad300x300.png">
+      <img :alt="title" :src="thumbnail">
     </a>
     <p>{{truncateTitle}}</p>
   </div>
@@ -17,7 +17,10 @@ export default {
       type:String
     }
   },
-  computed:{
+  computed:{ 
+    //
+    //  1.  Truncate the title if length is higher than 65 characters.
+    //
     truncateTitle: function(){
       if (this.$props.title.length <= 65) {
         return this.$props.title
@@ -49,15 +52,18 @@ export default {
 </script>
 
 <style scoped>  
+
 .small-video{
   min-width:100%;
   max-width: 200px;
 }
+
 .small-video img{
   width:200px;
   height:120px;
   border-radius: 0.25rem;
 }
+
 @media (max-width : 462px) {
 .small-video img{
   display:inline-block;
