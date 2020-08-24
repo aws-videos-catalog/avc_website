@@ -45,13 +45,22 @@ export default {
   },
   asyncData({route,error}){
     
-
+    //
+    //  1.  Retrieve actual details given the category name
+    //
     let actual_details = get_actual_details(route.params.category)
     
+    //
+    //  2.  If category details index can not be found, that means a wrong url
+    //      is given.
+    //
     if(!actual_details.category_details){
       error({statusCode:404,message:'Page not Found'})
     }
 
+    //
+    //  3.  Return the service data given the category name.
+    //
     let service_data = services[actual_details.category_details.name].data
     
     return {
