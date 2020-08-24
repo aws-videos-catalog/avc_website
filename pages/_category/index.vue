@@ -12,6 +12,7 @@
 import Listing from '~/components/Listing.vue'
 import BreadCrumb from '~/components/BreadCrumb.vue'
 import services from '~/static/services.json'
+import get_actual_details from '~/custom_modules/get_actual_details'
 
 export default {
   head(){
@@ -43,33 +44,20 @@ export default {
     BreadCrumb
   },
   asyncData({route,error}){
-    let category_actual_name;
-    let service_data;
-    let description;
-    let img;
 
-    for(let key in services)
-    {
-        let category_link_name = key.split(' ').join('_').toLowerCase();
-
-        if(category_link_name === route.params.category)
-        {
-          category_actual_name = key;
-          service_data = services[key].data;
-          description = services[key].info.description;
-          img = services[key].info.img
-        }
-    }
-
-    if(!service_data){
+    let actual_details = get_actual_details(route.params.category)
+    
+    if(!actual_details.category_details){
       error({statusCode:404,message:'Page not Found'})
     }
+
+    let service_data = services[actual_details.category_details.name].data
     
     return {
       service_data: service_data,
-      category_name: category_actual_name,
-      description,
-      img
+      category_name: actual_details.category_details.name,
+      description: actual_details.category_details.description,
+      img: actual_details.category_details.img
     }
   }
 }
