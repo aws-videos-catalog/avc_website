@@ -26,7 +26,7 @@
       <div style="padding-left:15px" v-for="(video,i) in data.videos" :key="'video_'+i">
         <small-video
           :title="video.title"
-          :url="'?video_id='+video.url.split('?v=')[1]"
+          :url="video.url.split('?v=')[1]"
           :thumbnail="video.thumbnail"/>
       </div>
     </b-row>
@@ -98,11 +98,15 @@ export default {
     let actual_details = get_actual_details(route.params.category,route.params.name)
 
     //
-    //  3.  Instead of using asyncData, sorting data before passing it to data()
+    //  2.  Instead of using asyncData, sorting data before passing it to data()
     //      so it's easy to pick the main video which would be the first in the sorted list.
     //
     let service_data = getService(route.params.name)
     
+    //
+    //  3.  If no service_data can be found, that means a wrong service_name was given,
+    //      return error.
+    //
     if(!service_data){
       return error({statusCode:404,message:'Page not Found'})
     }
@@ -116,61 +120,13 @@ export default {
       return new Date(b.date) - new Date(a.date);
 
     });
+  
+    //
+    //  4.  If there isn't a video id given in query params, return the first
+    //      video from sorted dataset.
+    //
+    main_video = sorted_data[0]
     
-    //
-    //  4.  Get the main video id from URL if it's given,
-    //      else return the first video from sorted dataset
-    //
-    if(route.query.video_id){
-      //
-      //  1.  Get video id from query params
-      //
-      let video_id = route.query.video_id
-
-      //
-      //  2.  Split the query with '='
-      //
-      let separated = video_id.split('=')
-
-      //
-      //  3.  Last element of splitted array will be the order of video
-      //
-      let id = separated[separated.length-1]
-
-      //
-      //  4.  Create an array of all video_ids so it's easier to find the index
-      //
-      let all_video_ids = sorted_data.map((val,idx)=>{
-        return val.url.split('?v=')[1]
-      })
-
-      //
-      //  5.  Find the index of current video, given its id
-      //
-      let index = all_video_ids.indexOf(video_id)
-      
-      //
-      //  6.  Return the main_video if index is found
-      //
-      if(index===-1)
-      {
-        //
-        //  TODO: Return 404 here.
-        //
-        main_video = null
-      }
-
-      main_video = sorted_data[index]
-
-    }
-    else
-    {
-      //
-      //  1.  If there isn't a video id given in query params, return the first
-      //      video from sorted dataset.
-      //
-      main_video = sorted_data[0]
-    }
     return{
       name: route.params.name,
       service_data: sorted_data,
