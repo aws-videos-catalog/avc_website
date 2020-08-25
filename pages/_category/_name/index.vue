@@ -57,7 +57,7 @@ function remove(array, element) {
 export default {
   head(){
     return{
-      title: this.service_name + ' - ' + this.category_name + ' - AWS Video Catalog',
+      title: this.main_video.title,
       meta:[
           {
             'property': 'og:title',
