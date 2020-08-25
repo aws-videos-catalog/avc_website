@@ -6,7 +6,7 @@
         :height="'400px'"/>
       </b-col>
       <b-col md="3" lg="2" v-for="(item,idx) in items" :key="`item_${idx}`">
-        <nuxt-link class="service my-2" :to="links[idx]" append component="div">
+        <nuxt-link class="service my-2" :to="links[idx]+'/'" append component="div">
           <b-card
             :title="item.name"
             :img-src="item.img ? '/aws/SVG Light'+item.img : '/aws/SVG Light/_Group Icons/AWS-Cloud-alt_light-bg.svg'"
@@ -72,10 +72,19 @@ export default {
   },
   computed:{
     links: function(){
+      //
+      //  1.  Create an empty array called links, which we will populate with links only.
+      //
       let links = []
       let i = 0;
       for (const value of this.$props.items) {
+        //
+        //  2.  Create converted link name to put in url.
+        //
         let link = value.name.split(' ').join('_').toLowerCase()
+        //
+        //  3.  Push it to links array.
+        //
         links.push(link)
       }
       return links

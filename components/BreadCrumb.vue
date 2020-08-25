@@ -116,21 +116,10 @@ export default {
           }
         }
         //
-        //  4.  If a category is given 
-        //
-        if(this.$data.category)
-        {
-          return {
-            href:splitted_path.slice(0,idx+1).join('/'),
-            text:this.$data.category + ' - ' + text,
-            active: val===splitted_path[splitted_path.length-1]
-          }
-        }
-        //
-        //  5.  Slice the splitted path and join them to a string.
+        //  4.  Slice the splitted path and join them to a string.
         //
         return {
-          href:splitted_path.slice(0,idx+1).join('/'),
+          href:splitted_path.slice(0,idx+1).join('/')+'/',
           text:text,
           active: val===splitted_path[splitted_path.length-1]
         }

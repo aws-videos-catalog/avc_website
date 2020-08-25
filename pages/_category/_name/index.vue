@@ -26,7 +26,7 @@
       <div style="padding-left:15px" v-for="(video,i) in data.videos" :key="'video_'+i">
         <small-video
           :title="video.title"
-          :url="'?video_id='+video.url.split('?v=')[1]"
+          :url="video.url.split('?v=')[1]"
           :thumbnail="video.thumbnail"/>
       </div>
     </b-row>
@@ -39,23 +39,13 @@
 //  Importing necessary components
 //
 import getService from '~/static/service_server.js'
-import services from '~/static/services.json'
+import get_actual_details from '~/custom_modules/get_actual_details'
 import MainVideo from '~/components/MainVideo.vue'
 import SmallVideo from '~/components/SmallVideo.vue'
 import Ad from '~/components/Ad.vue'
 import BreadCrumb from '~/components/BreadCrumb.vue'
 
 // HELPER FUNCTIONS
-
-let capitalize_reducer = (current_val,prev_val)=>{
-  // 
-  //  Capitalize both current and previous value,
-  //  return a string which adds them both.
-  //
-  let capitalized_prev_val = String(prev_val[0]).toUpperCase() + prev_val.slice(1)
-  let capitalized_val = String(current_val[0]).toUpperCase() + current_val.slice(1)
-  return capitalized_val + ' ' + capitalized_prev_val
-}
 
 //
 //  A function to remove given element from array
@@ -105,55 +95,18 @@ export default {
     let text = '';
     let temporary = current_service.split('_')
     let main_video;
-    let description;
-    let img;
-    let service_name;
-
-    let category_actual_name;
-
-    for(let key in services)
-    {
-        let category_link_name = key.split(' ').join('_').toLowerCase();
-
-        if(category_link_name === route.params.category)
-        {
-          category_actual_name = key;
-          for(let service_key in services[key].data){
-            let service_link_name = services[key].data[service_key].name.split(' ').join('_').toLowerCase();
-            if(service_link_name === route.params.name)
-            {
-              service_name = services[key].data[service_key].name
-              img = services[key].data[service_key].img
-              description = services[key].data[service_key].description
-            }
-          }
-        }
-    }
+    let actual_details = get_actual_details(route.params.category,route.params.name)
 
     //
-    //  2.  If value can be splitted via '_' that means it has spaces
-    //      so we revert that value back to it's original string.
-    //      e.g. tolga_oguz --> Tolga Oğuz
-    //  
-    if(temporary.length>1)
-    {
-      //
-      //  1.  Create a string by capitalizing each word in the temporary array
-      //      which would give us the original string
-      //
-      text = temporary.reduce(capitalize_reducer)
-    }else{
-      //
-      //  1.  If service name is only one word, then we just want to capitalize it
-      //
-      text = current_service.charAt(0).toUpperCase() + current_service.substring(1)
-    }
-    //
-    //  3.  Instead of using asyncData, sorting data before passing it to data()
+    //  2.  Instead of using asyncData, sorting data before passing it to data()
     //      so it's easy to pick the main video which would be the first in the sorted list.
     //
     let service_data = getService(route.params.name)
     
+    //
+    //  3.  If no service_data can be found, that means a wrong service_name was given,
+    //      return error.
+    //
     if(!service_data){
       return error({statusCode:404,message:'Page not Found'})
     }
@@ -167,70 +120,22 @@ export default {
       return new Date(b.date) - new Date(a.date);
 
     });
+  
+    //
+    //  4.  If there isn't a video id given in query params, return the first
+    //      video from sorted dataset.
+    //
+    main_video = sorted_data[0]
     
-    //
-    //  4.  Get the main video id from URL if it's given,
-    //      else return the first video from sorted dataset
-    //
-    if(route.query.video_id){
-      //
-      //  1.  Get video id from query params
-      //
-      let video_id = route.query.video_id
-
-      //
-      //  2.  Split the query with '='
-      //
-      let separated = video_id.split('=')
-
-      //
-      //  3.  Last element of splitted array will be the order of video
-      //
-      let id = separated[separated.length-1]
-
-      //
-      //  4.  Create an array of all video_ids so it's easier to find the index
-      //
-      let all_video_ids = sorted_data.map((val,idx)=>{
-        return val.url.split('?v=')[1]
-      })
-
-      //
-      //  5.  Find the index of current video, given its id
-      //
-      let index = all_video_ids.indexOf(video_id)
-      
-      //
-      //  6.  Return the main_video if index is found
-      //
-      if(index===-1)
-      {
-        //
-        //  TODO: Return 404 here.
-        //
-        main_video = null
-      }
-
-      main_video = sorted_data[index]
-
-    }
-    else
-    {
-      //
-      //  1.  If there isn't a video id given in query params, return the first
-      //      video from sorted dataset.
-      //
-      main_video = sorted_data[0]
-    }
     return{
       name: route.params.name,
       service_data: sorted_data,
       title: text,
       main_video: main_video,
-      category_name:category_actual_name,
-      img,
-      description,
-      service_name
+      category_name: actual_details.category_details.name,
+      description: actual_details.service_details.description,
+      img: actual_details.service_details.img,
+      service_name: actual_details.service_details.name
     }
   },
   computed:{
@@ -240,7 +145,7 @@ export default {
       //
       let array = []
       //
-      //  2.  Create a separate copy of sorted service data.
+      //  2.  Create a  separate copy of sorted service data.
       //
       let sorted_data = this.service_data.slice()
       
