@@ -34,7 +34,7 @@ export default {
       //     '?video_id=-rv78DsrpNY' and the id here is the youtube
       //      video id itself.
       //
-      let video_id = this.$props.url.split('=')[1]
+      let video_id = this.$props.url
 
       //
       //  2.  Construct the thumbnail url
