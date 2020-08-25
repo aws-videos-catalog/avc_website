@@ -1,1 +1,296 @@
-[{"url":"https://www.youtube.com/watch?v=-rv78DsrpNY","thumbnail":"https://i.ytimg.com/vi/-rv78DsrpNY/hqdefault.jpg","title":"Example title1","date":"2020/06/19"},{"url":"https://www.youtube.com/watch?v=8RNRssCiR_E","thumbnail":"https://i.ytimg.com/vi/8RNRssCiR_E/hqdefault.jpg","title":"Example title2","date":"2020/06/17"},{"url":"https://www.youtube.com/watch?v=k8O9KJKSswM","thumbnail":"https://i.ytimg.com/vi/k8O9KJKSswM/hqdefault.jpg","title":"Example title3","date":"2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=Omppm_YUG2g",
+        "thumbnail": "",
+        "title": "Introduction to AWS CloudFormation",
+        "date": "2015/05/21"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=01hy48R9Kr8",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017: Deep Dive on AWS CloudFormation (DEV317)",
+        "date": "2017/11/29"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=KXUsyApAI3Y",
+        "thumbnail": "",
+        "title": "Deep Dive on AWS CloudFormation",
+        "date": "2018/07/02"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=qKljYgi2lQ0",
+        "thumbnail": "",
+        "title": "Getting Started with AWS CloudFormation",
+        "date": "2011/12/12"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=1h-GPXQrLZw",
+        "thumbnail": "",
+        "title": "Simplify Your Infrastructure Management Using AWS CloudFormation",
+        "date": "2020/05/06"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=X31kA1ANBVw",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: Deployment Scenarios with AWS CloudFormation (DEV308-R1)",
+        "date": "2018/11/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=d6SJPMdBShI",
+        "thumbnail": "",
+        "title": "AWS CloudFormation Deep Dive and Recent Enhancements",
+        "date": "2019/06/21"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=VdwZ3IhvYYE",
+        "thumbnail": "",
+        "title": "How do I refer to a resource in another AWS CloudFormation stack during template creation?",
+        "date": "2018/03/12"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=mujSmlfK7CQ",
+        "thumbnail": "",
+        "title": "What are some best practices for implementing Lambda-backed custom CloudFormation resources?",
+        "date": "2018/10/18"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=2ha5fpj6X1o",
+        "thumbnail": "",
+        "title": "Why is my AWS CloudFormation stack stuck in progress?",
+        "date": "2020/06/17"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=33oxPUvdR-Y",
+        "thumbnail": "",
+        "title": "How to Launch a Website in 10 Minutes with AWS CloudFormation",
+        "date": "2011/08/23"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=WioS12_j5e0",
+        "thumbnail": "",
+        "title": "How do I attach an IAM managed policy to an IAM role in AWS CloudFormation?",
+        "date": "2002/02/06"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ZzD9I8ur6lg",
+        "thumbnail": "",
+        "title": "Manage Compliance Across Accounts with AWS CloudFormation StackSets",
+        "date": "2019/11/26"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=U7EoMrDOkHM",
+        "thumbnail": "",
+        "title": "Live Coding with AWS: Building Better CloudFormation Templates",
+        "date": "2017/07/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=-0ELfN-kb7g",
+        "thumbnail": "",
+        "title": "Zero to Sixty: AWS CloudFormation (DMG201) | AWS re:Invent 2013",
+        "date": "2013/11/26"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=fVMlxJJNmyA",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2015: AWS CloudFormation Best Practices (DVO304)",
+        "date": "2015/10/09"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=qBtCF4mg1E8",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: [REPEAT 1] What's New with AWS CloudFormation (DEV321-R1",
+        "date": "2018/12/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=O9Sq9plyTxY",
+        "thumbnail": "",
+        "title": "Deploying Q&A Chatbot Using Cloudformation",
+        "date": "2020/03/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=pTnTibzjnlg",
+        "thumbnail": "",
+        "title": "How do I protect resources in a CloudFormation Stack from being deleted?",
+        "date": "2019/05/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=zQvkVLotCqs",
+        "thumbnail": "",
+        "title": "Provision Resources on AWS Using a CloudFormation Resource Type Provider for Terraform",
+        "date": "2020/04/21"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=g0AQWT9J88A",
+        "thumbnail": "",
+        "title": "Cloudreach: Build Better Infrastructure with Sceptre and CloudFormation on AWS",
+        "date": "2017/07/26"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=3QydWLiCqWk",
+        "thumbnail": "",
+        "title": "Introduction to the AWS CloudFormation Editor for Visual Studio",
+        "date": "2013/02/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ZhGMaw67Yu0",
+        "thumbnail": "",
+        "title": "AWS CloudFormation under the Hood (DMG303) | AWS re:Invent 2013",
+        "date": "2013/11/26"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=bVmsS8rjuwk",
+        "thumbnail": "",
+        "title": "How do I delete a CloudFormation stack but retain some or all of the provisioned resources?",
+        "date": "2017/12/22"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=oXEfgo9AInY",
+        "thumbnail": "",
+        "title": "How do I import and export parameters from one AWS CloudFormation stack to another?",
+        "date": "2020/04/29"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=AgL6x1Qnq_c",
+        "thumbnail": "",
+        "title": "How to Use AWS CloudFormation to Configure Auto Scaling for Amazon DynamoDB Tables and Indexes",
+        "date": "2018/03/28"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=MFF4EDQHaPw",
+        "thumbnail": "",
+        "title": "AWS re: Invent RMG 207: Introduction to AWS CloudFormation",
+        "date": "2012/12/05"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=sAqkN0vIhAY",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2014 | (APP304) AWS CloudFormation Best Practices",
+        "date": "2014/11/17"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=TDalsML3QqY",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2016: Infrastructure Continuous Delivery Using AWS CloudFormation (DEV313)",
+        "date": "2016/12/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=tgAc0E_35ag",
+        "thumbnail": "",
+        "title": "How can I install the AWS CloudFormation helper scripts on Ubuntu or RHEL?",
+        "date": "2020/05/07"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=i0v3lQENN68",
+        "thumbnail": "",
+        "title": "Wave on Moving RDS data to S3 at Scale Using Lambda, Cloudformation, and DMS",
+        "date": "2018/10/08"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=bhfMiWMGyH8",
+        "thumbnail": "",
+        "title": "How do I trigger rolling updates to an unchanged launch configuration in AWS CloudFormation?",
+        "date": "2020/03/26"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=V3EKJsdGAUM",
+        "thumbnail": "",
+        "title": "FileMaker: Scaling in the Wild with AWS CloudFormation",
+        "date": "2017/04/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=zxrxHcbn9GY",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: Aetion’s Journey to AWS CodePipeline, AWS CloudFormation, & Amazon ECS (STP04)",
+        "date": "2018/11/28"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=WU93NJT0_3s",
+        "thumbnail": "",
+        "title": "How to Integrate AWS Cloudformation with Microsoft Team Foundation Server (TFS)",
+        "date": "2018/01/22"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=iIoAxyIUcVw",
+        "thumbnail": "",
+        "title": "FanDuel: AWS CloudFormation at Scale",
+        "date": "2017/04/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Wk-tOPicq78",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2014 | (APP306) Using AWS CloudFormation for Deployment and Management at Scale",
+        "date": "2014/11/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=t9yj3VRoj8U",
+        "thumbnail": "",
+        "title": "How can I receive an email alert when my CloudFormation stack is in ROLLBACK_IN_PROGRESS state?",
+        "date": "2020/05/27"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=B2Ra7X8rymw",
+        "thumbnail": "",
+        "title": "How do I resolve the validation error from Amazon S3 event notifications in AWS CloudFormation?",
+        "date": "2019/12/31"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=PZMiYUpUJp4",
+        "thumbnail": "",
+        "title": "Web Applications on AWS: Launching Identical Environments [Amazon CloudFormation]",
+        "date": "2012/06/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=39BP_vImxlU",
+        "thumbnail": "",
+        "title": "AWS CloudFormation: Infrastructure as Code | AWS Public Sector Summit 2016",
+        "date": "2016/07/13"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=hlJkMoCxR-I",
+        "thumbnail": "",
+        "title": "How do I delete an AWS Lambda-backed custom resource that’s stuck deleting in AWS CloudFormation?",
+        "date": "2020/04/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=cTusmFntybM",
+        "thumbnail": "",
+        "title": "AWS re:Invent Launchpad 2017 - How CloudFormation Builds re:Invent",
+        "date": "2017/12/08"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=XU40FTvTQWg",
+        "thumbnail": "",
+        "title": "How do I 'Disable Rollback on Failure' for a stack to continue troubleshooting?",
+        "date": "2019/10/10"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=3ZUEjX4YRZI",
+        "thumbnail": "",
+        "title": "How can I stop my Amazon ECS service from failing to stabilize in AWS CloudFormation?",
+        "date": "2020/05/19"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=al5UhZfqPVw",
+        "thumbnail": "",
+        "title": "AWS Sydney Summit 2018: CloudFormation Ninjitsu",
+        "date": "2018/05/21"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=bJHHQM7GGro",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: [REPEAT 1] Best practices for authoring AWS CloudFormation (DOP302-R1)",
+        "date": "2019/12/05"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=pRGF7TidkNM",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: [REPEAT 2] What's new in AWS CloudFormation (DOP408-R2)",
+        "date": "2019/12/10"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=MhHxEgCpCws",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Developing resource providers with new AWS CloudFormation tools (MGT222-P)",
+        "date": "2019/12/05"
+    }   
+]
