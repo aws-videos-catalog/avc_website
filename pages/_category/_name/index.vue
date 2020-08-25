@@ -10,7 +10,7 @@
         </main-video>
         <p>{{description}}</p>
       </b-col>
-      <b-col sm="12" md="2" class="placeholder pl-0" align-self="stretch">
+      <b-col sm="12" md="2" class="placeholder px-3" align-self="stretch">
         <div class="my-xs-4" style="display:flex;flex-direction:column">
           <Ad :random="true"></Ad>
           <div style="height:190px" class="mt-2 grey-box"></div>
