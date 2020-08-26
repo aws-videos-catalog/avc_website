@@ -17,7 +17,10 @@ export default {
       type:String
     }
   },
-  computed:{
+  computed:{ 
+    //
+    //  1.  Truncate the title if length is higher than 65 characters.
+    //
     truncateTitle: function(){
       if (this.$props.title.length <= 65) {
         return this.$props.title
@@ -31,7 +34,7 @@ export default {
       //     '?video_id=-rv78DsrpNY' and the id here is the youtube
       //      video id itself.
       //
-      let video_id = this.$props.url.split('=')[1]
+      let video_id = this.$props.url
 
       //
       //  2.  Construct the thumbnail url
@@ -49,15 +52,18 @@ export default {
 </script>
 
 <style scoped>  
+
 .small-video{
   min-width:100%;
   max-width: 200px;
 }
+
 .small-video img{
   width:200px;
   height:120px;
   border-radius: 0.25rem;
 }
+
 @media (max-width : 462px) {
 .small-video img{
   display:inline-block;
