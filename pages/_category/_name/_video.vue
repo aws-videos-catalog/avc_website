@@ -1,8 +1,14 @@
 <template>
   <div class="listing-container mx-5">
     <bread-crumb/>
-    <b-row>
-      <b-col sm="12" md="7" class="placeholder" id="main-video" align-self="stretch">
+    <b-row no-gutters>
+      <b-col
+          sm="12"
+          lg="auto"
+          class="placeholder"
+          id="main-video"
+          align-self="stretch"
+      >
         <main-video
           :title="main_video.title"
           :url="main_video.url"
@@ -10,8 +16,13 @@
         </main-video>
         <p>{{description}}</p>
       </b-col>
-      <b-col sm="12" md="2" class="placeholder px-3" align-self="stretch">
-        <div class="my-xs-4" style="display:flex;flex-direction:column">
+      <b-col
+          sm="12"
+          lg="auto"
+          class="placeholder px-3"
+          align-self="stretch"
+      >
+        <div class="my-xs-4 my-xs-4 d-flex flex-column v-category-video__column-ad">
           <Ad :random="true"></Ad>
           <div style="height:190px" class="mt-2 grey-box"></div>
         </div>
@@ -86,11 +97,11 @@ export default {
     BreadCrumb
   },
   asyncData({route,error}){
-    
+
     //
     //  1.  Create an array of nested routes by splitting current path by '/'
     //
-    
+
     let current_service = route.params.name
     let text = '';
     let temporary = current_service.split('_')
@@ -102,7 +113,7 @@ export default {
     //      so it's easy to pick the main video which would be the first in the sorted list.
     //
     let service_data = getService(route.params.name)
-    
+
     if(!service_data){
       return error({statusCode:404,message:'Page not Found'})
     }
@@ -116,7 +127,7 @@ export default {
       return new Date(b.date) - new Date(a.date);
 
     });
-    
+
     //
     //  4.  Get the main video id from URL if it's given,
     //      else return the first video from sorted dataset
@@ -138,7 +149,7 @@ export default {
       //  3.  Find the index of current video, given its id
       //
       let index = all_video_ids.indexOf(video_id)
-      
+
       //
       //  4.  Return the main_video if index is found
       //
@@ -171,7 +182,7 @@ export default {
       //  2.  Create a  separate copy of sorted service data.
       //
       let sorted_data = this.service_data.slice()
-      
+
       //
       //  3.  Find year values inside videos data, store it inside dates array.
       //
@@ -210,7 +221,7 @@ export default {
             temp_dct['videos'].push(service)
         })
         //
-        //  6.  Push the created dictionary to array. 
+        //  6.  Push the created dictionary to array.
         //
         array.push(temp_dct)
       })
@@ -230,5 +241,11 @@ ul{
 .grey-box{
   background-color:#e9ecef;
   border-radius:0.25rem;
+}
+
+@media all and (min-width: 992px) {
+  .v-category-video__column-ad {
+    max-width: 290px;
+  }
 }
 </style>
