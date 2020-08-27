@@ -253,7 +253,7 @@ ul{
 
 @media all and (min-width: 1440px) {
   .v-category-video__video {
-    width: 1280px;
+    width: 1024px;
   }
 }
 </style>
