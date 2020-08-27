@@ -12,8 +12,10 @@
         <main-video
           :title="main_video.title"
           :url="main_video.url"
-          :date="main_video.date">
-        </main-video>
+          :date="main_video.date"
+          class="v-category-video__video"
+        />
+
         <p>{{description}}</p>
       </b-col>
       <b-col
@@ -246,6 +248,12 @@ ul{
 @media all and (min-width: 992px) {
   .v-category-video__column-ad {
     max-width: 290px;
+  }
+}
+
+@media all and (min-width: 1440px) {
+  .v-category-video__video {
+    width: 1280px;
   }
 }
 </style>
