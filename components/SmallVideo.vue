@@ -1,6 +1,6 @@
 <template>
   <div class="my-2 small-video">
-    <a :href="url">
+    <a :href="videoLink">
       <img :alt="title" :src="thumbnail">
     </a>
     <p>{{truncateTitle}}</p>
@@ -17,7 +17,16 @@ export default {
       type:String
     }
   },
-  computed:{ 
+  computed:{
+    videoLink () {
+      return this.$router.resolve({
+        name: this.$route.name,
+        params: {
+          ...this.$route.params,
+          video: this.url
+        }
+      }).href
+    },
     //
     //  1.  Truncate the title if length is higher than 65 characters.
     //
@@ -30,7 +39,7 @@ export default {
     thumbnail: function(){
 
       //
-      //  1. Example URL string passed in the props is like this: 
+      //  1. Example URL string passed in the props is like this:
       //     '?video_id=-rv78DsrpNY' and the id here is the youtube
       //      video id itself.
       //
@@ -51,7 +60,7 @@ export default {
 }
 </script>
 
-<style scoped>  
+<style scoped>
 
 .small-video{
   min-width:100%;
@@ -74,4 +83,4 @@ export default {
 }
 
 }
-</style>  
+</style>
