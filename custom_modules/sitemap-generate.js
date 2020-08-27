@@ -73,10 +73,10 @@ function generateCategoryServicesPaths (servicesData, categoryPath) {
 }
 
 /**
- * Generate full sitemap for categories, services, videos
+ * Generate all page urls for categories, services, videos
  * @returns {*[]}
  */
-export function sitemapGenerate () {
+export function routesGenerate () {
   const services = loadServicesSettings('./static/services.json')
 
   return Object.keys(services).reduce((result, categoryName) => {

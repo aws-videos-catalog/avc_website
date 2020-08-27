@@ -1,7 +1,16 @@
-import { sitemapGenerate } from './custom_modules/sitemap-generate'
+import { routesGenerate } from './custom_modules/sitemap-generate'
+
+const appPagesUrls = routesGenerate()
 
 export default {
   mode: 'universal',
+
+  generate: {
+    routes () {
+      return appPagesUrls
+    }
+  },
+
   /*
   ** Headers of the page
   */
@@ -61,8 +70,8 @@ export default {
   sitemap:{
     path: 'sitemap.xml',
     hostname: 'https://awsvideocatalog.com',
-    routes(){
-      return sitemapGenerate()
+    routes (){
+      return appPagesUrls
     }
   },
   /*
