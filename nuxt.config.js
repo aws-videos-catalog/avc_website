@@ -1,4 +1,5 @@
-const get_routes = require("./custom_modules/route_server.js")
+import { sitemapGenerate } from './custom_modules/sitemap-generate'
+
 export default {
   mode: 'universal',
   /*
@@ -61,7 +62,7 @@ export default {
     path: 'sitemap.xml',
     hostname: 'https://awsvideocatalog.com',
     routes(){
-      return get_routes();
+      return sitemapGenerate()
     }
   },
   /*
