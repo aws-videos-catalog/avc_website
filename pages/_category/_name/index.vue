@@ -86,7 +86,7 @@ export default {
           },
           {
             'property':'og:image',
-            'content': 'https://awsvideocatalog.com/aws/SVG Light'+this.img
+            'content': 'https://awsvideocatalog.com/aws/SVG Light'+this.imgPng
           },
           {
             'property':'og:url',
@@ -108,9 +108,7 @@ export default {
     //  1.  Create an array of nested routes by splitting current path by '/'
     //
 
-    let current_service = route.params.name
     let text = '';
-    let temporary = current_service.split('_')
     let main_video;
     let actual_details = get_actual_details(route.params.category,route.params.name)
 
@@ -152,6 +150,7 @@ export default {
       category_name: actual_details.category_details.name,
       description: actual_details.service_details.description,
       img: actual_details.service_details.img,
+      imgPng: actual_details.service_details.imgPng,
       service_name: actual_details.service_details.name
     }
   },

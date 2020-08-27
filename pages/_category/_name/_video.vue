@@ -118,33 +118,7 @@ export default {
     let text = '';
     let temporary = current_service.split('_')
     let main_video;
-    let description;
-    let img;
-    let imgPng;
-    let service_name;
-
-    let category_actual_name;
     let actual_details = get_actual_details(route.params.category,route.params.name)
-
-    for(let key in services)
-    {
-        let category_link_name = key.split(' ').join('_').toLowerCase();
-
-        if(category_link_name === route.params.category)
-        {
-          category_actual_name = key;
-          for(let service_key in services[key].data){
-            let service_link_name = services[key].data[service_key].name.split(' ').join('_').toLowerCase();
-            if(service_link_name === route.params.name)
-            {
-              service_name = services[key].data[service_key].name
-              img = services[key].data[service_key].img
-              description = services[key].data[service_key].description
-              imgPng = services[key].data[service_key].imgPng
-            }
-          }
-        }
-    }
 
     //
     //  2.  If value can be splitted via '_' that means it has spaces
@@ -222,14 +196,10 @@ export default {
       service_data: sorted_data,
       title: text,
       main_video: main_video,
-      category_name:category_actual_name,
-      img,
-      imgPng,
-      description,
-      service_name
       category_name: actual_details.category_details.name,
       description: actual_details.service_details.description,
       img: actual_details.service_details.img,
+      imgPng: actual_details.service_details.imgPng,
       service_name: actual_details.service_details.name
     }
   },
