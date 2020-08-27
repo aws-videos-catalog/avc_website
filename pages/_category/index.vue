@@ -1,7 +1,7 @@
 <template>
   <div class="listing-container mx-5">
     <bread-crumb/>
-    <listing 
+    <listing
     :items="service_data"></listing>
     <hr></hr>
   </div>
@@ -28,7 +28,7 @@ export default {
           },
           {
             'property':'og:image',
-            'content': 'https://awsvideocatalog.com/aws/SVG Light'+this.img
+            'content': 'https://awsvideocatalog.com/aws/png/PNG Light'+this.imgPng
           },
           {
             'property':'og:url',
@@ -47,6 +47,7 @@ export default {
     let service_data;
     let description;
     let img;
+    let imgPng;
 
     for(let key in services)
     {
@@ -58,18 +59,20 @@ export default {
           service_data = services[key].data;
           description = services[key].info.description;
           img = services[key].info.img
+          imgPng = services[key].info.imgPng
         }
     }
 
     if(!service_data){
       error({statusCode:404,message:'Page not Found'})
     }
-    
+
     return {
       service_data: service_data,
       category_name: category_actual_name,
       description,
-      img
+      img,
+      imgPng,
     }
   }
 }

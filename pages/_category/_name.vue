@@ -41,7 +41,7 @@ import BreadCrumb from '~/components/BreadCrumb.vue'
 // HELPER FUNCTIONS
 
 let capitalize_reducer = (current_val,prev_val)=>{
-  // 
+  //
   //  Capitalize both current and previous value,
   //  return a string which adds them both.
   //
@@ -72,7 +72,7 @@ export default {
           },
           {
             'property':'og:image',
-            'content': 'https://awsvideocatalog.com/aws/SVG Light'+this.img
+            'content': 'https://awsvideocatalog.com/aws/png/PNG Light' + this.imgPng
           },
           {
             'property':'og:url',
@@ -89,17 +89,18 @@ export default {
     BreadCrumb
   },
   asyncData({route,error}){
-    
+
     //
     //  1.  Create an array of nested routes by splitting current path by '/'
     //
-    
+
     let current_service = route.params.name
     let text = '';
     let temporary = current_service.split('_')
     let main_video;
     let description;
     let img;
+    let imgPng;
     let service_name;
 
     let category_actual_name;
@@ -118,6 +119,7 @@ export default {
               service_name = services[key].data[service_key].name
               img = services[key].data[service_key].img
               description = services[key].data[service_key].description
+              imgPng = services[key].data[service_key].imgPng
             }
           }
         }
@@ -127,7 +129,7 @@ export default {
     //  2.  If value can be splitted via '_' that means it has spaces
     //      so we revert that value back to it's original string.
     //      e.g. tolga_oguz --> Tolga Oğuz
-    //  
+    //
     if(temporary.length>1)
     {
       //
@@ -146,7 +148,7 @@ export default {
     //      so it's easy to pick the main video which would be the first in the sorted list.
     //
     let service_data = getService(route.params.name)
-    
+
     if(!service_data){
       return error({statusCode:404,message:'Page not Found'})
     }
@@ -160,12 +162,12 @@ export default {
       return new Date(b.date) - new Date(a.date);
 
     });
-    
+
     //
     //  4.  Get the main video id from URL if it's given,
     //      else return the first video from sorted dataset
     //
-    
+
     if(route.query.video_id){
       //
       //  1.  Get video id from query params
@@ -193,7 +195,7 @@ export default {
       //  5.  Find the index of current video, given its id
       //
       let index = all_video_ids.indexOf(video_id)
-      
+
       //
       //  6.  Return the main_video if index is found
       //
@@ -223,6 +225,7 @@ export default {
       main_video: main_video,
       category_name:category_actual_name,
       img,
+      imgPng,
       description,
       service_name
     }
@@ -237,7 +240,7 @@ export default {
       //  2.  Create a separate copy of sorted service data.
       //
       let sorted_data = this.service_data.slice()
-      
+
       //
       //  3.  Find year values inside videos data, store it inside dates array.
       //
@@ -276,7 +279,7 @@ export default {
             temp_dct['videos'].push(service)
         })
         //
-        //  6.  Push the created dictionary to array. 
+        //  6.  Push the created dictionary to array.
         //
         array.push(temp_dct)
       })

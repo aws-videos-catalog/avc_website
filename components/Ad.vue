@@ -15,7 +15,7 @@
       </b-card-text>
     </b-card>
   </div>
-    
+
 </template>
 
 <script>
