@@ -1,1 +1,86 @@
-[{"url": "https://www.youtube.com/watch?v=-rv78DsrpNY", "thumbnail": "", "title": "Example title1", "date": "2020/06/19"}, {"url": "https://www.youtube.com/watch?v=8RNRssCiR_E", "thumbnail": "", "title": "Example title2", "date": "2020/06/17"}, {"url": "https://www.youtube.com/watch?v=k8O9KJKSswM", "thumbnail": "", "title": "Example title3", "date": "2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=jcR9iIWdU7E",
+        "thumbnail": "",
+        "title": "Deploying AWS CodeDeploy - Automated Software Deployment on AWS",
+        "date": "2015/02/05"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=N3saR9D7hq8",
+        "thumbnail": "",
+        "title": "AWS CodeDeploy & GitHub Integration - Automated Software Deployment on AWS",
+        "date": "2014/12/10"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Wx-ain8UryM",
+        "thumbnail": "",
+        "title": "Introduction to AWS CodeDeploy - Automated Software Deployment with Amazon Web Services",
+        "date": "2014/11/12"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=A4NSyUbAEkw",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2015 | (DVO306) AWS CodeDeploy: Automating Your Software Deployments",
+        "date": "2015/10/09"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=KzziRHOa5X4",
+        "thumbnail": "",
+        "title": "AWS CodeDeploy: Manage Deployment Complexity",
+        "date": "2015/04/10"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=P4K3HB8TNJo",
+        "thumbnail": "",
+        "title": "How do I install the CodeDeploy agent on my EC2 Windows instance?",
+        "date": "2018/08/06"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Y7s3SHMweC0",
+        "thumbnail": "",
+        "title": "How can I use launch configurations to automatically install the CodeDeploy agent?",
+        "date": "2020/02/20"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=0fNWlYbwAfg",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2014 | Announcing AWS CodeDeploy",
+        "date": "2014/11/12"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=3E1rieNas_M",
+        "thumbnail": "",
+        "title": "AWS Summit Series 2015 | Tel Aviv: Amazon CodeDeploy Demo",
+        "date": "2015/07/29"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=MIE0P3m9eEY",
+        "thumbnail": "",
+        "title": "How to Build a CI/CD Pipeline Using AWS CodeDeploy and Microsoft Team Foundation Server (TFS)",
+        "date": "2017/08/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=PV52g2ANNrc",
+        "thumbnail": "",
+        "title": "AWS Knowledge Center Videos: Is it possible to run the CodeDeploy agent as a non-root user?",
+        "date": "2017/09/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=wbHXH8dzgyI",
+        "thumbnail": "",
+        "title": "Announcement: API Gateway Canary Release Deployments, CodeDeploy Serverless & Lambda",
+        "date": "2017/12/08"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=3I6fYCxmurw",
+        "thumbnail": "",
+        "title": "AWS Knowledge Center Videos: How do I configure a service role and instance profile for CodeDeploy?",
+        "date": "2017/03/10"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=VWk9UjDmLZw",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2015 | (DEV302) Hosting ASP.NET 5 Apps in AWS with Docker & AWS CodeDeploy",
+        "date": "2015/10/09"
+    }   
+]

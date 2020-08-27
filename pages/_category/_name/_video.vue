@@ -1,17 +1,36 @@
 <template>
   <div class="listing-container mx-5">
     <bread-crumb/>
-    <b-row>
-      <b-col xs="12" md="7" class="placeholder" id="main-video" align-self="stretch">
+    <b-row no-gutters>
+      <b-col
+          sm="12"
+          lg="auto"
+          class="placeholder"
+          id="main-video"
+          align-self="stretch"
+      >
         <main-video
           :title="main_video.title"
           :url="main_video.url"
-          :date="main_video.date">
-        </main-video>
-      <p>{{description}}</p>
+          :date="main_video.date"
+          class="v-category-video__video"
+        />
+
+        <p>{{description}}</p>
       </b-col>
-      <b-col xs="12" md="2" class="placeholder px-3" align-self="stretch">
-        <Ad :random="true"></Ad>
+      <b-col
+          sm="12"
+          lg="auto"
+          class="placeholder px-3"
+          align-self="stretch"
+      >
+        <div class="my-xs-4 my-xs-4 d-flex flex-column v-category-video__column-ad">
+          <Ad :random="true"></Ad>
+          <div style="height:190px" class="mt-2 grey-box"></div>
+        </div>
+      </b-col>
+      <b-col md="3">
+        <div style="width:100%;height:100%" class="my-xs-4 grey-box"></div>
       </b-col>
     </b-row>
     <hr/>
@@ -20,10 +39,11 @@
       <div style="padding-left:15px" v-for="(video,i) in data.videos" :key="'video_'+i">
         <small-video
           :title="video.title"
-          :url="'?video_id='+video.url.split('?v=')[1]"/>
+          :url="video.url.split('?v=')[1]"
+          :thumbnail="video.thumbnail"/>
       </div>
     </b-row>
-    <hr></hr>
+    <hr class="height:1px"></hr>
   </div>
 </template>
 
@@ -32,7 +52,7 @@
 //  Importing necessary components
 //
 import getService from '~/static/service_server.js'
-import services from '~/static/services.json'
+import get_actual_details from '~/custom_modules/get_actual_details'
 import MainVideo from '~/components/MainVideo.vue'
 import SmallVideo from '~/components/SmallVideo.vue'
 import Ad from '~/components/Ad.vue'
@@ -60,7 +80,7 @@ function remove(array, element) {
 export default {
   head(){
     return{
-      title: this.service_name + ' - ' + this.category_name + ' - AWS Video Catalog',
+      title: this.main_video.title + ' - ' + this.service_name + ' - ' + this.category_name + ' - AWS Video Catalog',
       meta:[
           {
             'property': 'og:title',
@@ -104,6 +124,7 @@ export default {
     let service_name;
 
     let category_actual_name;
+    let actual_details = get_actual_details(route.params.category,route.params.name)
 
     for(let key in services)
     {
@@ -167,56 +188,34 @@ export default {
     //  4.  Get the main video id from URL if it's given,
     //      else return the first video from sorted dataset
     //
-
-    if(route.query.video_id){
+    if(route.params.video){
       //
       //  1.  Get video id from query params
       //
-      let video_id = route.query.video_id
+      let video_id = route.params.video
 
       //
-      //  2.  Split the query with '-'
-      //
-      let separated = video_id.split('-')
-
-      //
-      //  3.  Last element of splitted array will be the order of video
-      //
-      let id = separated[separated.length-1]
-
-      //
-      //  4.  Create an array of all video_ids so it's easier to find the index
+      //  2.  Create an array of all video_ids so it's easier to find the index
       //
       let all_video_ids = sorted_data.map((val,idx)=>{
         return val.url.split('?v=')[1]
       })
 
       //
-      //  5.  Find the index of current video, given its id
+      //  3.  Find the index of current video, given its id
       //
       let index = all_video_ids.indexOf(video_id)
 
       //
-      //  6.  Return the main_video if index is found
+      //  4.  Return the main_video if index is found
       //
       if(index===-1)
       {
-        //
-        //  TODO: Return 404 here.
-        //
-        main_video = null
+        error({statusCode:404,message:'Page not Found'})
       }
 
       main_video = sorted_data[index]
 
-    }
-    else
-    {
-      //
-      //  1.  If there isn't a video id given in query params, return the first
-      //      video from sorted dataset.
-      //
-      main_video = sorted_data[0]
     }
     return{
       name: route.params.name,
@@ -228,6 +227,10 @@ export default {
       imgPng,
       description,
       service_name
+      category_name: actual_details.category_details.name,
+      description: actual_details.service_details.description,
+      img: actual_details.service_details.img,
+      service_name: actual_details.service_details.name
     }
   },
   computed:{
@@ -237,7 +240,7 @@ export default {
       //
       let array = []
       //
-      //  2.  Create a separate copy of sorted service data.
+      //  2.  Create a  separate copy of sorted service data.
       //
       let sorted_data = this.service_data.slice()
 
@@ -294,5 +297,22 @@ export default {
 
 ul{
   padding:0px
+}
+
+.grey-box{
+  background-color:#e9ecef;
+  border-radius:0.25rem;
+}
+
+@media all and (min-width: 992px) {
+  .v-category-video__column-ad {
+    max-width: 290px;
+  }
+}
+
+@media all and (min-width: 1440px) {
+  .v-category-video__video {
+    width: 1024px;
+  }
 }
 </style>

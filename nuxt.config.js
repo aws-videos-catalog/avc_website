@@ -1,6 +1,16 @@
-const get_routes = require("./route_server.js")
+import { routesGenerate } from './custom_modules/sitemap-generate'
+
+const appPagesUrls = routesGenerate()
+
 export default {
   mode: 'universal',
+
+  generate: {
+    routes () {
+      return appPagesUrls
+    }
+  },
+
   /*
   ** Headers of the page
   */
@@ -47,20 +57,21 @@ export default {
   ** Nuxt.js modules
   */
   modules: [
+    ['@nuxtjs/component-cache', { maxAge: 1000 * 60 * 5 }],
     'bootstrap-vue/nuxt',
     '@nuxtjs/robots',
     '@nuxtjs/sitemap'
   ],
   robots: {
     UserAgent: '*',
-    Disallow: '/',
+    Allow: '/',
     Sitemap: 'https://awsvideocatalog.com/sitemap.xml'
   },
   sitemap:{
     path: 'sitemap.xml',
     hostname: 'https://awsvideocatalog.com',
-    routes(){
-      return get_routes();
+    routes (){
+      return appPagesUrls
     }
   },
   /*

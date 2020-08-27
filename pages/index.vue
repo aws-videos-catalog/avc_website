@@ -48,6 +48,9 @@ export default {
     Listing
   },
   asyncData(){
+    //
+    //  1.  Retrieve category details by mapping all the objects in services JSON.
+    //
     let category_data = Object.entries(services).map(([category, category_data])=>{
       return {
         name: category_data.info.name,

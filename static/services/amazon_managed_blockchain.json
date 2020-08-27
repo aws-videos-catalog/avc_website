@@ -1,1 +1,74 @@
-[{"url": "https://www.youtube.com/watch?v=-rv78DsrpNY", "thumbnail": "", "title": "Example title1", "date": "2020/06/19"}, {"url": "https://www.youtube.com/watch?v=8RNRssCiR_E", "thumbnail": "", "title": "Example title2", "date": "2020/06/17"}, {"url": "https://www.youtube.com/watch?v=k8O9KJKSswM", "thumbnail": "", "title": "Example title3", "date": "2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=B9tlH8lzKI4",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: [NEW LAUNCH!] Deep Dive on Amazon Managed Blockchain (DAT381)",
+        "date": "2018/12/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=CaEi4C48lhg",
+        "thumbnail": "",
+        "title": "Deep Dive on Amazon Managed Blockchain",
+        "date": "2019/06/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=5j5rhCXw8fE",
+        "thumbnail": "",
+        "title": "Deep Dive on Amazon Managed Blockchain",
+        "date": "2019/01/31"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=gCZfJWkfqLo",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018 - Announcement of Amazon Managed Blockchain",
+        "date": "2018/12/13"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=0WBXkhgKpoE",
+        "thumbnail": "",
+        "title": "Nestle’s Chain of Origin Coffee Brings Supply Chain Transparency With Amazon Managed Blockchain",
+        "date": "2019/12/13"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=nUre2ELySdo",
+        "thumbnail": "",
+        "title": "Singapore Exchange: Clearing Financial Transactions on Amazon Managed Blockchain",
+        "date": "2019/09/11"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=WAIOBeQA2QQ",
+        "thumbnail": "",
+        "title": "An Overview on Blockchain Services from AWS",
+        "date": "2019/04/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=3Lu5kVPjhRg",
+        "thumbnail": "",
+        "title": "How Sony Music is Innovating on Digital Rights Management with Amazon Managed Blockchain",
+        "date": "2020/07/29"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=zI_sZ8sNaUc",
+        "thumbnail": "",
+        "title": "TrustSquare Swiss Blockchain Hackathon - AWS Sizzle Reel",
+        "date": "2019/07/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=bmNBD_q38XU",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Managed Blockchain & Amazon QLDB in your solutions portfolio (GPSTEC339)",
+        "date": "2019/12/05"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=oCqEtoL_-J0",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: [REPEAT] Dive deep into Managed Blockchain (BLC301-R)",
+        "date": "2019/12/06"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=WndmiQOAoXk",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: [REPEAT 1] Dive deep into Managed Blockchain (BLC301-R1)",
+        "date": "2019/12/09"
+    }   
+]

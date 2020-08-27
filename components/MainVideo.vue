@@ -1,7 +1,7 @@
 <template>
 <div>
 <div class="embed-responsive embed-responsive-16by9" style="border-radius:0.25rem">
-  <iframe class="embed-responsive-item" :src="embedded_url" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" :src="embedded_url" frameborder="0" title="yt-video" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
   <h3 style="margin-top:10px"> {{title}} </h3>
   <p> Posted at, {{posted_date}} </p>

@@ -2,7 +2,8 @@
   <div class="listing-container mx-5">
     <bread-crumb/>
     <listing
-    :items="service_data"></listing>
+    :items="service_data"
+    />
     <hr></hr>
   </div>
 </template>
@@ -12,6 +13,7 @@
 import Listing from '~/components/Listing.vue'
 import BreadCrumb from '~/components/BreadCrumb.vue'
 import services from '~/static/services.json'
+import get_actual_details from '~/custom_modules/get_actual_details'
 
 export default {
   head(){

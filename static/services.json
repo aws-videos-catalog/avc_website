@@ -4,7 +4,7 @@
       "name": "Compute",
       "description": "Services that crounch data.",
       "img": "/Compute/Compute.svg",
-      "imgAlt": "/Compute/Compute.png"
+      "imgPng": "/Compute/Compute.png"
     },
     "data": [
       {
