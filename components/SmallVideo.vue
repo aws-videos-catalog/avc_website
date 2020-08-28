@@ -1,6 +1,6 @@
 <template>
   <div class="my-2 small-video">
-    <a :href="url">
+    <a :href="videoLink">
       <img :alt="title" :src="thumbnail">
     </a>
     <p>{{truncateTitle}}</p>
@@ -18,6 +18,15 @@ export default {
     }
   },
   computed:{
+    videoLink () {
+      return this.$router.resolve({
+        name: this.$route.name,
+        params: {
+          ...this.$route.params,
+          video: this.url
+        }
+      }).href
+    },
     //
     //  1.  Truncate the title if length is higher than 65 characters.
     //
