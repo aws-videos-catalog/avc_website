@@ -20,7 +20,7 @@ export default {
   computed:{
     videoLink () {
       return this.$router.resolve({
-        name: this.$route.name,
+        name: 'category-name-video',
         params: {
           ...this.$route.params,
           video: this.url
