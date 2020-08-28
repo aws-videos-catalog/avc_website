@@ -60,6 +60,16 @@ import BreadCrumb from '~/components/BreadCrumb.vue'
 
 // HELPER FUNCTIONS
 
+let capitalize_reducer = (current_val,prev_val)=>{
+  //
+  //  Capitalize both current and previous value,
+  //  return a string which adds them both.
+  //
+  let capitalized_prev_val = String(prev_val[0]).toUpperCase() + prev_val.slice(1)
+  let capitalized_val = String(current_val[0]).toUpperCase() + current_val.slice(1)
+  return capitalized_val + ' ' + capitalized_prev_val
+}
+
 //
 //  A function to remove given element from array
 //
@@ -82,7 +92,7 @@ export default {
           },
           {
             'property':'og:image',
-            'content': 'https://awsvideocatalog.com/aws/SVG Light'+this.img
+            'content': 'https://awsvideocatalog.com/aws/png/PNG Light' + this.imgPng
           },
           {
             'property':'og:url',
@@ -110,6 +120,24 @@ export default {
     let main_video;
     let actual_details = get_actual_details(route.params.category,route.params.name)
 
+    //
+    //  2.  If value can be splitted via '_' that means it has spaces
+    //      so we revert that value back to it's original string.
+    //      e.g. tolga_oguz --> Tolga Oğuz
+    //
+    if(temporary.length>1)
+    {
+      //
+      //  1.  Create a string by capitalizing each word in the temporary array
+      //      which would give us the original string
+      //
+      text = temporary.reduce(capitalize_reducer)
+    }else{
+      //
+      //  1.  If service name is only one word, then we just want to capitalize it
+      //
+      text = current_service.charAt(0).toUpperCase() + current_service.substring(1)
+    }
     //
     //  3.  Instead of using asyncData, sorting data before passing it to data()
     //      so it's easy to pick the main video which would be the first in the sorted list.
@@ -171,6 +199,7 @@ export default {
       category_name: actual_details.category_details.name,
       description: actual_details.service_details.description,
       img: actual_details.service_details.img,
+      imgPng: actual_details.service_details.imgPng,
       service_name: actual_details.service_details.name
     }
   },

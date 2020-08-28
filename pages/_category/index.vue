@@ -1,8 +1,9 @@
 <template>
   <div class="listing-container mx-5">
     <bread-crumb/>
-    <listing 
-    :items="service_data"></listing>
+    <listing
+    :items="service_data"
+    />
     <hr></hr>
   </div>
 </template>
@@ -29,7 +30,7 @@ export default {
           },
           {
             'property':'og:image',
-            'content': 'https://awsvideocatalog.com/aws/SVG Light'+this.img
+            'content': 'https://awsvideocatalog.com/aws/png/PNG Light'+this.imgPng
           },
           {
             'property':'og:url',
@@ -44,30 +45,36 @@ export default {
     BreadCrumb
   },
   asyncData({route,error}){
-    
-    //
-    //  1.  Retrieve actual details given the category name
-    //
-    let actual_details = get_actual_details(route.params.category)
-    
-    //
-    //  2.  If category details index can not be found, that means a wrong url
-    //      is given.
-    //
-    if(!actual_details.category_details){
+    let category_actual_name;
+    let service_data;
+    let description;
+    let img;
+    let imgPng;
+
+    for(let key in services)
+    {
+        let category_link_name = key.split(' ').join('_').toLowerCase();
+
+        if(category_link_name === route.params.category)
+        {
+          category_actual_name = key;
+          service_data = services[key].data;
+          description = services[key].info.description;
+          img = services[key].info.img
+          imgPng = services[key].info.imgPng
+        }
+    }
+
+    if(!service_data){
       error({statusCode:404,message:'Page not Found'})
     }
 
-    //
-    //  3.  Return the service data given the category name.
-    //
-    let service_data = services[actual_details.category_details.name].data
-    
     return {
       service_data: service_data,
-      category_name: actual_details.category_details.name,
-      description: actual_details.category_details.description,
-      img: actual_details.category_details.img
+      category_name: category_actual_name,
+      description,
+      img,
+      imgPng,
     }
   }
 }

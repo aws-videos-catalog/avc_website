@@ -3,7 +3,7 @@
   <b-jumbotron class="text-center listing-container" style="background-color:white">
     <b-container>
       <h1>AVC Website</h1>
-      <p>AWS Video Catalog is a website that collects all the official Amazon videos related to each individual AWS Service and categorizes them in a way that makes it easy to find what you are looking for. No more fighting YouTube search or relying on an algorithm to find what you are looking for. Everything is in one place. – This means that AWS Video Catalog will allow you to discover older videos that are still invaluable.</p> 
+      <p>AWS Video Catalog is a website that collects all the official Amazon videos related to each individual AWS Service and categorizes them in a way that makes it easy to find what you are looking for. No more fighting YouTube search or relying on an algorithm to find what you are looking for. Everything is in one place. – This means that AWS Video Catalog will allow you to discover older videos that are still invaluable.</p>
     </b-container>
   </b-jumbotron>
   <div class="mx-5">
@@ -34,7 +34,7 @@ export default {
           },
           {
             'property':'og:image',
-            'content': 'https://awsvideocatalog.com/aws/SVG Dark/Compute/Compute.svg'
+            'content': 'https://awsvideocatalog.com/aws/png/PNG Dark/Compute/Compute.png'
           },
           {
             'property':'og:url',
@@ -55,7 +55,8 @@ export default {
       return {
         name: category_data.info.name,
         description: category_data.info.description,
-        img: category_data.info.img
+        img: category_data.info.img,
+        imgPng: category_data.info.imgPng
       }
     })
     return{

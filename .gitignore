@@ -107,3 +107,6 @@ dist
 # TernJS port file
 .tern-port
 david_notes.txt
+
+# IDE settings
+.idea
