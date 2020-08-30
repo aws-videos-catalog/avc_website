@@ -1,1 +1,128 @@
-[{"url":"https://www.youtube.com/watch?v=-rv78DsrpNY","thumbnail":"https://i.ytimg.com/vi/-rv78DsrpNY/hqdefault.jpg","title":"Example title1","date":"2020/06/19"},{"url":"https://www.youtube.com/watch?v=8RNRssCiR_E","thumbnail":"https://i.ytimg.com/vi/8RNRssCiR_E/hqdefault.jpg","title":"Example title2","date":"2020/06/17"},{"url":"https://www.youtube.com/watch?v=k8O9KJKSswM","thumbnail":"https://i.ytimg.com/vi/k8O9KJKSswM/hqdefault.jpg","title":"Example title3","date":"2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=CeceqWuZ0Cg",
+        "thumbnail": "",
+        "title": "AWS ANZ Webinar Series - An Introduction to the Well Architected Framework",
+        "date": "2018/09/28"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=gjNPpjYNiow",
+        "thumbnail": "",
+        "title": "Are you Well Architected?",
+        "date": "2019/06/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=u6BCVkXkPnM",
+        "thumbnail": "",
+        "title": "AWS re:Inforce 2019: Security Best Practices the Well-Architected Way (SDD318)",
+        "date": "2019/06/26"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ujRf2BzgGGg",
+        "thumbnail": "",
+        "title": "Well-Architected for Security: Advanced Session",
+        "date": "2017/09/11"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=GH0VOFzamjI",
+        "thumbnail": "",
+        "title": "So You Want to be Well-Architected?",
+        "date": "2018/11/12"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=kN27aptcdig",
+        "thumbnail": "",
+        "title": "Live Coding with AWS | Well Architected Reliability",
+        "date": "2017/09/26"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=2SpmQKsgcOU",
+        "thumbnail": "",
+        "title": "AWS Well-Architected Framework | Serverless Application Lens",
+        "date": "2018/03/13"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=LDq1ZMTvqEo",
+        "thumbnail": "",
+        "title": "Building Well-Architected Applications - Framework Review",
+        "date": "2018/09/12"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Lg0nQYMoKjs",
+        "thumbnail": "",
+        "title": "Building Well-Architected Applications | Reliability Pillar",
+        "date": "2018/08/16"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=NJnixsUHf5E",
+        "thumbnail": "",
+        "title": "Live Coding with AWS | Well-Architected Applications",
+        "date": "2017/09/05"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=8e2zCHx-K3M",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2016: Achieving Agility by Following Well-Architected Framework Principles (ARC203)",
+        "date": "2016/12/02"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=E2nekilSH_U",
+        "thumbnail": "",
+        "title": "Well-Architected Solutions - Building Continuous Delivery",
+        "date": "2018/11/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=WP0LE-1UvSw",
+        "thumbnail": "",
+        "title": "Well-Architected Solutions - Load Testing 101",
+        "date": "2018/09/10"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=n6OLwrFlZNc",
+        "thumbnail": "",
+        "title": "Well-Architected Solutions - Load Testing for Serverless Applications",
+        "date": "2018/09/06"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=wwTEexr1FzE",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: Developing Well-Architected Android Apps with AWS (MOB302)",
+        "date": "2018/11/27"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=txSgZPU8DtA",
+        "thumbnail": "",
+        "title": "Well-Architected Solutions - Load Testing for Containers",
+        "date": "2018/09/26"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=i54bphtzrAM",
+        "thumbnail": "",
+        "title": "Well-Architected Solutions - Load Testing for Databases",
+        "date": "2018/10/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=HC8sRYgUGYA",
+        "thumbnail": "",
+        "title": "A Well-Architected Journey",
+        "date": "2019/12/26"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=rX-DjsfkWzc",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Cox Automotive: AWS Well-Architected Results on 200+ platforms (ARC212-R1)",
+        "date": "2019/12/05"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=XFbd1qexBUE",
+        "thumbnail": "",
+        "title": "Optimizing Your Cloud With a Well-Architected Review",
+        "date": "2020/05/20"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=rhKRjA4aziE",
+        "thumbnail": "",
+        "title": "AWS Summit Online ASEAN 2020 | Security Best Practices: The Well-architected Way",
+        "date": "2020/08/28"
+    }
+]

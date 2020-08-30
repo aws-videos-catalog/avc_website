@@ -1,1 +1,44 @@
-[{"url":"https://www.youtube.com/watch?v=-rv78DsrpNY","thumbnail":"https://i.ytimg.com/vi/-rv78DsrpNY/hqdefault.jpg","title":"Example title1","date":"2020/06/19"},{"url":"https://www.youtube.com/watch?v=8RNRssCiR_E","thumbnail":"https://i.ytimg.com/vi/8RNRssCiR_E/hqdefault.jpg","title":"Example title2","date":"2020/06/17"},{"url":"https://www.youtube.com/watch?v=k8O9KJKSswM","thumbnail":"https://i.ytimg.com/vi/k8O9KJKSswM/hqdefault.jpg","title":"Example title3","date":"2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=ikL5Axehutk",
+        "thumbnail": "",
+        "title": "Manage Software Licenses with AWS License Manager",
+        "date": "2019/10/16"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=bmyizvdYYsQ",
+        "thumbnail": "",
+        "title": "Introduction to AWS License Manager",
+        "date": "2019/02/25"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=XXld4atfQ-0",
+        "thumbnail": "",
+        "title": "Enforce License Rules with AWS License Manager",
+        "date": "2019/11/26"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=kukiDf9Ilcc",
+        "thumbnail": "",
+        "title": "Simplify your BYOL Experience with Dedicated Host Management Capabilities in AWS License Manager",
+        "date": "2020/05/06"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=r7pdaM3OAAQ",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: [NEW LAUNCH!] AWS License Manager Deep Dive (CMP393)",
+        "date": "2018/12/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=BjiX41VKZ_c",
+        "thumbnail": "",
+        "title": "Manage Licenses Across Multiple AWS Accounts with AWS License Manager",
+        "date": "2019/11/26"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ENj8Utp_3xY",
+        "thumbnail": "",
+        "title": "Microsoft Licensing on AWS",
+        "date": "2020/04/06"
+    }
+]
