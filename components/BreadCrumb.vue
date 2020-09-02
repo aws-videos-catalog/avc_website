@@ -1,138 +1,69 @@
 <template>
   <div class="nav">
-    <h2>AVC Website</h2>
-    <b-breadcrumb style="flex-grow:1;margin-left:1rem" :items="items"></b-breadcrumb>
+    <h2>
+      AVC Website
+    </h2>
+
+    <b-breadcrumb
+        :items="breadcrumbs"
+        style="flex-grow:1;margin-left:1rem"
+    />
   </div>
 </template>
 
 <script>
-import services from '~/static/services.json'
-//
-//  HELPER FUNCTIONS
-//  
-let capitalize_reducer = (current_val,prev_val)=>{
-  // 
-  //  Capitalize both current and previous value,
-  //  return a string which adds them both.
-  //
-  let capitalized_prev_val = String(prev_val[0]).toUpperCase() + prev_val.slice(1)
-  let capitalized_val = String(current_val[0]).toUpperCase() + current_val.slice(1)
-  return capitalized_val + ' ' + capitalized_prev_val
-}
-//
-//  This function returns a percentage of similarity between two given strings using Levenshtein Distance
-//  https://stackoverflow.com/questions/10473745/compare-strings-javascript-return-of-likely,
-//  https://en.wikipedia.org/wiki/Levenshtein_distance
-//
-function similarity(s1, s2) {
-  var longer = s1;
-  var shorter = s2;
-  if (s1.length < s2.length) {
-    longer = s2;
-    shorter = s1;
-  }
-  var longerLength = longer.length;
-  if (longerLength == 0) {
-    return 1.0;
-  }
-  return (longerLength - editDistance(longer, shorter)) / parseFloat(longerLength);
-}
-function editDistance(s1, s2) {
-  s1 = s1.toLowerCase();
-  s2 = s2.toLowerCase();
-  var costs = new Array();
-  for (var i = 0; i <= s1.length; i++) {
-    var lastValue = i;
-    for (var j = 0; j <= s2.length; j++) {
-      if (i == 0)
-        costs[j] = j;
-      else {
-        if (j > 0) {
-          var newValue = costs[j - 1];
-          if (s1.charAt(i - 1) != s2.charAt(j - 1))
-            newValue = Math.min(Math.min(newValue, lastValue),
-              costs[j]) + 1;
-          costs[j - 1] = lastValue;
-          lastValue = newValue;
-        }
-      }
-    }
-    if (i > 0)
-      costs[s2.length] = lastValue;
-  }
-  return costs[s2.length];
-}
-//
-//  END HELPER FUNCTIONS
-//
+import { caseSnakeToTitle } from '~/utils/text'
+
 export default {
-  computed:{
-    items: function(){
-      let path = this.$route.path
-      //
-      //  1.  Sometimes a slash is added to url while hosting on web, we want to ignore that
-      //      slash, thus checking for the last character is a slash in url. If so, ignoring it.
-      //
-      if(path.charAt(path.length-1)==='/'){
-        path = path.substring(0,path.length-1)
+  computed: {
+    /**
+     * Collect breadcrumbs from route params with branching-like structure based on routes nesting
+     * @returns {[{href: string, text: string}]}
+     */
+    breadcrumbs () {
+      const params = this.$route.params
+
+      const crumbs = [
+        {
+          href: '/',
+          text: 'Home'
+        }
+      ]
+
+      if (params.category) {
+        crumbs.push({
+          text: caseSnakeToTitle(params.category), //capitalize words
+          href: this.$router.resolve({
+            name: 'category',
+            params: {
+              category: params.category
+            }
+          }).href
+        })
+
+        if (params.name) {
+          crumbs.push({
+            text: caseSnakeToTitle(params.name),
+            href: this.$router.resolve({
+              name: 'category-name',
+              params: {
+                category: params.category,
+                name: params.name
+              }
+            }).href
+          })
+        }
       }
-      //
-      //  2.  Create an array of nested routes by splitting current path by '/'
-      //
-      let splitted_path = path.split('/')
-      return splitted_path.map((val,idx)=>{
-        //
-        //  1.  Capitalize the first word of the text that will be shown in breadcrumb.
-        //
-        let text = String(val[0]).toUpperCase() + val.slice(1)
-        //
-        //  2.  If value can be splitted via '_' that means it has spaces
-        //      so we revert that value back to it's original string.
-        //      e.g. tolga_oguz --> Tolga Oğuz
-        //  
-        if(val.split('_').length>1)
-        {
-          //
-          //  1.  Create a temporary value to hold an array of words
-          //  
-          let temporary = val.split('_')
-          
-          //
-          //  2.  Create a string by capitalizing each word in the temporary array
-          //      which would give us the original string
-          //
-          text = temporary.reduce(capitalize_reducer)
-        }
-        //
-        //  3.  If current value is '' that means it is the Home Directory.
-        //
-        if(val==='')
-        {
-          text = 'Home'
-          return {
-            href:'/',
-            text:text,
-            active: val===splitted_path[splitted_path.length-1]
-          }
-        }
-        //
-        //  4.  Slice the splitted path and join them to a string.
-        //
-        return {
-          href:splitted_path.slice(0,idx+1).join('/')+'/',
-          text:text,
-          active: val===splitted_path[splitted_path.length-1]
-        }
-      })
-      
+
+      return crumbs
     }
   }
 }
 </script>
 
 <style>
-.nav{
-  display:flex;
+.nav {
+  display: flex;
   flex-direction: row;
 }
 </style>
