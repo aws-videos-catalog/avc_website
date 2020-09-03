@@ -544,5 +544,179 @@
         "thumbnail": "",
         "title": "Amazon SageMaker’s Built-in Algorithm Webinar Series: XGBoost",
         "date": "2018/11/19"
-    }   
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Ac5m4-xWtCU",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Amazon SageMaker deep dive: A modular solution for machine learning (AIM307)",
+        "date": "2019/12/06"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=E04JXdnPN0w",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Natural language modeling with Amazon SageMaker BlazingText algorithm (AIM375-P)",
+        "date": "2019/12/05"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=kou1gQmSmCU",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: [NEW LAUNCH!] Introducing Amazon SageMaker Studio, full IDE for ML (AIM214-R1)",
+        "date": "2019/12/10"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=4B3AhgVjMzk",
+        "thumbnail": "",
+        "title": "Automatically Build Models With Amazon Sagemaker (Level 400)",
+        "date": "2020/09/01"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=A04TT68Bd8A",
+        "thumbnail": "",
+        "title": "Deep Demand Forecasting with Amazon SageMaker",
+        "date": "2020/07/21"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=b0oU8d85Tck",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Build predictive models using Amazon SageMaker (DEM148)",
+        "date": "2019/12/08"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=Nlwz4cU68T8",
+        "thumbnail": "",
+        "title": "Explaining Credit Decisions with Amazon SageMaker - Webinar",
+        "date": "2020/07/20"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=asuYSd5OmAE",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Security for ML environments w/ Amazon SageMaker, featuring Vanguard (AIM327-R1)",
+        "date": "2019/12/05"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=mKVZukgtkcA",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: [NEW LAUNCH!] Amazon SageMaker Autopilot: Auto-generate ML models (AIM215-R)",
+        "date": "2019/12/10"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=74EeQ2WRTNY",
+        "thumbnail": "",
+        "title": "Amazon AI Conclave 2019 - Amazon SageMaker: Building and Managing Ml Pipelines at Scale",
+        "date": "2020/02/11"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=RcvmX_BCLUk",
+        "thumbnail": "",
+        "title": "How Amazon SageMaker Helped NerdWallet Build an Ml Platform",
+        "date": "2020/01/21"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=NRMs0_Eu-98",
+        "thumbnail": "",
+        "title": "Build NLP Models with Amazon SageMaker (Level 300)",
+        "date": "2020/09/01"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=G-wzIQQJKaE",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Implement ML workflows with Kubernetes and Amazon SageMaker (AIM326-R1)",
+        "date": "2019/12/09"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=6WJxzKsIFKA",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Build accurate training datasets with Amazon SageMaker Ground Truth (AIM308)",
+        "date": "2019/12/05"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=K59N25u4zak",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: [NEW LAUNCH!] New Amazon SageMaker notebook experience (AIM230-R1)",
+        "date": "2019/12/10"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=P_oCAbSYRwY",
+        "thumbnail": "",
+        "title": "Fraud Detection in Financial Transaction Networks with Amazon SageMaker - Webinar",
+        "date": "2020/07/21"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=whPKYfXTtw4",
+        "thumbnail": "",
+        "title": "Fraud Detection with Amazon SageMaker",
+        "date": "2020/07/28"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=vRB9Uncsia8",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: The right instance type in Amazon SageMaker, ft. Texas Instruments (AIM311-R1)",
+        "date": "2019/12/08"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=BvXtbtKkFQE",
+        "thumbnail": "",
+        "title": "AWS Summit Online ASEAN 2020 | Amazon SageMaker Features to Accelerate Your Machine Learning Journey",
+        "date": "2020/08/28"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=4hPWEcXbhHI",
+        "thumbnail": "",
+        "title": "Fraud Detection in Financial Transaction Networks with Amazon SageMaker",
+        "date": "2020/07/28"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=fgLlEnhFZQA",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: [REPEAT] Implement ML workflows with Kubernetes and Amazon SageMaker (AIM326-R)",
+        "date": "2019/12/03"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=elRQPCHDBPE",
+        "thumbnail": "",
+        "title": "Fraud Detection with Amazon SageMaker - Webinar",
+        "date": "2020/07/21"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=l75sikQOvzs",
+        "thumbnail": "",
+        "title": "Amazon AI Conclave 2019 - Amazon SageMaker: Rapid Model Development",
+        "date": "2020/03/02"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=FKgivdwzO5g",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: End-to-end machine learning using Spark and Amazon SageMaker (ADM302-R1)",
+        "date": "2019/12/08"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=9uNlSANqvSQ",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Drive transformation through machine learning with Amazon SageMaker (DEM27-S)",
+        "date": "2019/12/04"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=S8907xvgGso",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: [NEW LAUNCH!] Amazon SageMaker Debugger: Insights into ML model (AIM216-R1)",
+        "date": "2019/12/10"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=x-HoZLdUOyU",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: [NEW LAUNCH!] Amazon SageMaker Debugger: Insights into ML model (AIM216-R)",
+        "date": "2019/12/10"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=TdWn1YZggLw",
+        "thumbnail": "",
+        "title": "Safer Driving Using Amazon SageMaker and AWS Messaging Services",
+        "date": "2020/01/21"
+    }, 
+    {
+        "url": "https://www.youtube.com/watch?v=Lfp2OJFLkzw",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019 Launchpad | Amazon SageMaker Operators for Kubernetes",
+        "date": "2020/03/17"
+    }
 ]
