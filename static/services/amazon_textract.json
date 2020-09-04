@@ -1,1 +1,68 @@
-[{"url":"https://www.youtube.com/watch?v=-rv78DsrpNY","thumbnail":"https://i.ytimg.com/vi/-rv78DsrpNY/hqdefault.jpg","title":"Example title1","date":"2020/06/19"},{"url":"https://www.youtube.com/watch?v=8RNRssCiR_E","thumbnail":"https://i.ytimg.com/vi/8RNRssCiR_E/hqdefault.jpg","title":"Example title2","date":"2020/06/17"},{"url":"https://www.youtube.com/watch?v=k8O9KJKSswM","thumbnail":"https://i.ytimg.com/vi/k8O9KJKSswM/hqdefault.jpg","title":"Example title3","date":"2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=5Cs4_e2CJRo",
+        "thumbnail": "",
+        "title": "What is Amazon Textract?",
+        "date": "2020/06/15"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=PHX7q4pMGbo",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018 – Announcing Amazon Textract",
+        "date": "2018/11/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=bjSqMhR0U1o",
+        "thumbnail": "",
+        "title": "AWS Partner Webinar: Building Integrations with Amazon Textract",
+        "date": "2019/08/12"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=FnZFK_2oqKk",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing Amazon Textract: Now in Preview (AIM363)",
+        "date": "2018/12/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=hagvdqofRU4",
+        "thumbnail": "",
+        "title": "Introducing Amazon Textract: Now in Preview",
+        "date": "2018/11/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=6RhKWpkbOdU",
+        "thumbnail": "",
+        "title": "How to Automatically Extract Text with a Sample ASP.NET Core Application and Amazon Textract",
+        "date": "2020/08/28"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=TEX9ka1CAwA",
+        "thumbnail": "",
+        "title": "Get Started with Machine Learning | AWS Power Hour: Machine Learning | Episode 2: Amazon Textract",
+        "date": "2020/08/28"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Hth17MmxwtQ",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Using Amazon Textract for automated document processing (DEM147)",
+        "date": "2019/12/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=f0kn-CMLHyg",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Automatically scale a serverless app with Amazon Textract & MongoDB (SVS210-S)",
+        "date": "2019/12/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=JzYctR1tIb0",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: [REPEAT] AI document processing for business automation (AIM211-R)",
+        "date": "2019/12/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=u1K-PUadfO8",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: [REPEAT 1] AI document processing for business automation (AIM211-R1)",
+        "date": "2019/12/05"
+    }   
+]

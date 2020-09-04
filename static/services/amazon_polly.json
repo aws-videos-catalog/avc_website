@@ -1,1 +1,98 @@
-[{"url":"https://www.youtube.com/watch?v=-rv78DsrpNY","thumbnail":"https://i.ytimg.com/vi/-rv78DsrpNY/hqdefault.jpg","title":"Example title1","date":"2020/06/19"},{"url":"https://www.youtube.com/watch?v=8RNRssCiR_E","thumbnail":"https://i.ytimg.com/vi/8RNRssCiR_E/hqdefault.jpg","title":"Example title2","date":"2020/06/17"},{"url":"https://www.youtube.com/watch?v=k8O9KJKSswM","thumbnail":"https://i.ytimg.com/vi/k8O9KJKSswM/hqdefault.jpg","title":"Example title3","date":"2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=jXPN12ReUJg",
+        "thumbnail": "",
+        "title": "Text-to-Speech with Amazon Polly",
+        "date": "2017/08/07"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=PLnRzHNmcao",
+        "thumbnail": "",
+        "title": "Building Intelligent Chatbots with Amazon Lex & Amazon Polly",
+        "date": "2018/04/12"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=b1dyAOh3NeE",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017: Amazon Polly Tips and Tricks: How to Bring Your Text-to-Speech V (MCL307)",
+        "date": "2017/12/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=MKxE8_qQTFQ",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2016: Introducing Amazon Polly",
+        "date": "2016/12/06"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=9cXjTQ3Af5M",
+        "thumbnail": "",
+        "title": "AWS Educate - Bring Your Site to Life with Amazon Polly",
+        "date": "2018/10/24"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=5HYR0_FXSYc",
+        "thumbnail": "",
+        "title": "Live Coding with AWS | Reading Web Pages with Amazon Polly & Chrome Extensions",
+        "date": "2018/02/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=OhLrxGw-zJA",
+        "thumbnail": "",
+        "title": "Scaling FICO Customer Communication Services with Amazon Polly Text-to-Speech",
+        "date": "2018/04/17"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=RkTgi6O58xo",
+        "thumbnail": "",
+        "title": "How Policybazaar Uses Amazon Polly to Personalize the Customer Experience",
+        "date": "2019/02/19"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=UO0hGTvqLUs",
+        "thumbnail": "",
+        "title": "Using Amazon Translate, Amazon Polly, and Amazon Rekognition with .NET",
+        "date": "2019/10/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=lYGl5qE6q7s",
+        "thumbnail": "",
+        "title": "AWS Summit Series 2017 - San Francisco: Amazon Polly Introduces a Whispered Voice Tag",
+        "date": "2017/04/20"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=-tC55viYFQo",
+        "thumbnail": "",
+        "title": "Amazon Polly Adds New Whispered Voice Tag, and Speech Marks for Synchronization w/Visual Animation",
+        "date": "2017/04/19"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=zjMqimHis3U",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2016: NEW LAUNCH! Introducing Amazon Polly (MAC204)",
+        "date": "2016/12/06"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Yj513sy2rCw",
+        "thumbnail": "",
+        "title": "Live from the London Loft | Introducing Amazon Rekognition and Amazon Polly",
+        "date": "2017/10/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=HTjkjMr8vzQ",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017: Creating Next Generation Speech-Enabled Applications with Amazon (MCL206)",
+        "date": "2017/11/28"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=TeLvFqLW_0A",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017: Building a Voice-Enabled Customer Service Chatbot Using Amazon L (MCL301)",
+        "date": "2017/11/29"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=84qIFomfnLk",
+        "thumbnail": "",
+        "title": "AWS Summit Online ASEAN 2020 | Turn Text Into Lifelike Speech Using Deep Learning",
+        "date": "2020/08/28"
+    }
+]

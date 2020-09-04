@@ -1,1 +1,80 @@
-[{"url":"https://www.youtube.com/watch?v=-rv78DsrpNY","thumbnail":"https://i.ytimg.com/vi/-rv78DsrpNY/hqdefault.jpg","title":"Example title1","date":"2020/06/19"},{"url":"https://www.youtube.com/watch?v=8RNRssCiR_E","thumbnail":"https://i.ytimg.com/vi/8RNRssCiR_E/hqdefault.jpg","title":"Example title2","date":"2020/06/17"},{"url":"https://www.youtube.com/watch?v=k8O9KJKSswM","thumbnail":"https://i.ytimg.com/vi/k8O9KJKSswM/hqdefault.jpg","title":"Example title3","date":"2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=ALKz1eKj4n0",
+        "thumbnail": "",
+        "title": "AWS DeepLens Powered Cat Flap",
+        "date": "2019/08/09"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=cTsCMTxEPHs",
+        "thumbnail": "",
+        "title": "How to Build an AWS DeepLens Project Using Amazon SageMaker",
+        "date": "2018/06/06"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=RhEVld4GwzU",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017 - Announcing AWS DeepLens",
+        "date": "2017/11/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=-JDLpSsO45A",
+        "thumbnail": "",
+        "title": "How to Create and Deploy a Deep Learning Project With AWS DeepLens",
+        "date": "2018/06/29"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Ut1VGG6TOOw",
+        "thumbnail": "",
+        "title": "AWS DeepLens Challenge #4: Sustainability",
+        "date": "2018/09/25"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=PbQO3-jYkGo",
+        "thumbnail": "",
+        "title": "How to Extend a Deep Leaning Project with AWS DeepLens",
+        "date": "2018/06/06"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=tw0wCpdIlPw",
+        "thumbnail": "",
+        "title": "AWS DeepLens Challenge #2: Health",
+        "date": "2018/09/25"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ks1726cU24c",
+        "thumbnail": "",
+        "title": "AWS DeepLens Challenge #3: Games",
+        "date": "2018/09/25"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=qRJwvo94-Ko",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017 - AWS DeepLens Demo by Dr. Matt Wood",
+        "date": "2017/11/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=WSwG5OLWbIM",
+        "thumbnail": "",
+        "title": "AWS Dev Day Australia 2018 - Intelligence of things: IoT, AWS DeepLens and Amazon SageMaker",
+        "date": "2018/08/22"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=QF0QjRjBwFs",
+        "thumbnail": "",
+        "title": "Demonstration: Automating Recycling",
+        "date": "2019/09/10"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=3ly1A8x9XiQ",
+        "thumbnail": "",
+        "title": "AWS DeepLens Challenge #1: Inclusivity",
+        "date": "2018/07/10"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=bTLMU9z_hes",
+        "thumbnail": "",
+        "title": "AWS Builders' Day | Machine Learning at the Edge with Amazon Greengrass ML and AWS DeepLens",
+        "date": "2018/02/14"
+    }   
+]
