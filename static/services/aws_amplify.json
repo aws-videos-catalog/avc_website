@@ -1,1 +1,170 @@
-[{"url":"https://www.youtube.com/watch?v=-rv78DsrpNY","thumbnail":"https://i.ytimg.com/vi/-rv78DsrpNY/hqdefault.jpg","title":"Example title1","date":"2020/06/19"},{"url":"https://www.youtube.com/watch?v=8RNRssCiR_E","thumbnail":"https://i.ytimg.com/vi/8RNRssCiR_E/hqdefault.jpg","title":"Example title2","date":"2020/06/17"},{"url":"https://www.youtube.com/watch?v=k8O9KJKSswM","thumbnail":"https://i.ytimg.com/vi/k8O9KJKSswM/hqdefault.jpg","title":"Example title3","date":"2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=SnqABG8e9Zk",
+        "thumbnail": "",
+        "title": "Create Modern Serverless Web Applications in Minutes using the AWS Amplify Framework",
+        "date": "2019/10/17"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ZBroe4z66Zg",
+        "thumbnail": "",
+        "title": "Accelerating App Development with AWS Amplify",
+        "date": "2019/06/20"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=DHLZAzdT44Y",
+        "thumbnail": "",
+        "title": "Deploy a ReactJS app to the AWS Amplify Console",
+        "date": "2019/04/24"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=CAueVfEYn6s",
+        "thumbnail": "",
+        "title": "Building Full Stack Cloud Apps with Vue and AWS Amplify",
+        "date": "2020/09/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=wSHnmtnzbfs",
+        "thumbnail": "",
+        "title": "AWS Amplify Authentication Flow for iOS SwiftUI",
+        "date": "2020/08/05"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=kxuKS_MIFCE",
+        "thumbnail": "",
+        "title": "AWS Amplify Web Hosting - How to Deploy a React Application From the AWS Amplify CLI",
+        "date": "2020/06/12"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=HSJNK8aTpgU",
+        "thumbnail": "",
+        "title": "AWS Amplify Console and New Features in AWS AppSync",
+        "date": "2018/11/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=5YkGYB0qdzc",
+        "thumbnail": "",
+        "title": "Store & Retrieve Data in Amazon S3 with React & AWS Amplify",
+        "date": "2018/11/08"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=n4DuYTzpvdE",
+        "thumbnail": "",
+        "title": "Installing & Configuring the AWS Amplify CLI",
+        "date": "2018/11/08"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=vAjf3lyjf8c",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017: Analytics, Authentication and Data with JavaScript: AWS Amplify (MBL403)",
+        "date": "2017/11/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=PuD33WoNnaU",
+        "thumbnail": "",
+        "title": "Using the withAuthenticator HOC to Implement a User Authentication Flow",
+        "date": "2018/11/08"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=KZHgmhTa8iw",
+        "thumbnail": "",
+        "title": "Deploying Your React Application to AWS Using the AWS Amplify CLI",
+        "date": "2018/11/08"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=1CzuKblf2DQ",
+        "thumbnail": "",
+        "title": "Creating & Configuring a New AWS Amplify Project with a React Application",
+        "date": "2018/11/08"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=TxTnLLpSRq0",
+        "thumbnail": "",
+        "title": "Creating & Interacting with a Serverless AWS Lambda REST API with React & AWS Amplify",
+        "date": "2018/11/08"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=hSMFtJLI3Uo",
+        "thumbnail": "",
+        "title": "Take Mobile and Web Apps to the Next Level with AWS AppSync and AWS Amplify",
+        "date": "2019/06/20"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=6vFVyb2T3b4",
+        "thumbnail": "",
+        "title": "AWS Mobile Week - San Francisco: Introduction to AWS Amplify Toolchain",
+        "date": "2018/10/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=a_klcMRUfaM",
+        "thumbnail": "",
+        "title": "Building AWS AppSync APIs Using the AWS Amplify CLI",
+        "date": "2018/12/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=pZ61oDwrCK0",
+        "thumbnail": "",
+        "title": "Creating & Interacting with an AWS AppSync GraphQL API with React & AWS Amplif",
+        "date": "2018/11/08"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=TPyLJLOrHlE",
+        "thumbnail": "",
+        "title": "Developing Mobile Apps on AWS",
+        "date": "2018/11/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=pFvnSqVvj4E",
+        "thumbnail": "",
+        "title": "Build High Quality Mobile Apps in Minutes with AWS (Level 200)",
+        "date": "2018/08/24"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ttKXTtnxlIg",
+        "thumbnail": "",
+        "title": "AWS Summit Tel Aviv 2019 | Frontend and Mobile with AWS Amplify",
+        "date": "2019/03/27"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Xl240CVmoQU",
+        "thumbnail": "",
+        "title": "Costruisci e distribuisci applicazioni web moderne con AWS Amplify Console",
+        "date": "2019/02/07"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=egXBcNNUvDA",
+        "thumbnail": "",
+        "title": "Building Serverless Applications with AWS Amplify - Level 400 (United States)",
+        "date": "2020/07/24"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=DcrtvgaVdCU",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: [REPEAT 1] Production-grade full-stack apps with AWS Amplify (MOB308-R1)",
+        "date": "2019/12/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=NUuB8QGze6w",
+        "thumbnail": "",
+        "title": "Live Coding on AWS Amplify (Level 400)",
+        "date": "2020/09/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=EqlVIz4-oWc",
+        "thumbnail": "",
+        "title": "Full-stack Mobile and Web Development With AWS Amplify (Level 300)",
+        "date": "2020/09/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=K3hLlHNCjbQ",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Speed up native mobile development with AWS Amplify (MOB317)",
+        "date": "2019/12/05"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=fzZ9-h6OCkk",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Upgrade your APIs from REST to GraphQL with AWS AppSync & AWS Amplify (SVS364-P)",
+        "date": "2019/12/05"
+    }   
+]

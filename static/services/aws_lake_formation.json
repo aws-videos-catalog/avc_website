@@ -1,1 +1,62 @@
-[{"url":"https://www.youtube.com/watch?v=-rv78DsrpNY","thumbnail":"https://i.ytimg.com/vi/-rv78DsrpNY/hqdefault.jpg","title":"Example title1","date":"2020/06/19"},{"url":"https://www.youtube.com/watch?v=8RNRssCiR_E","thumbnail":"https://i.ytimg.com/vi/8RNRssCiR_E/hqdefault.jpg","title":"Example title2","date":"2020/06/17"},{"url":"https://www.youtube.com/watch?v=k8O9KJKSswM","thumbnail":"https://i.ytimg.com/vi/k8O9KJKSswM/hqdefault.jpg","title":"Example title3","date":"2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=hJ8Hdt7y0qw",
+        "thumbnail": "",
+        "title": "Build Your Data Lake Easily with AWS Lake Formation (Level 200)",
+        "date": "2019/04/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=uVF73MXYay8",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018 - Announcing AWS Lake Formation",
+        "date": "2018/11/29"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=nsiLMqg654s",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: [NEW LAUNCH!] Intro to AWS Lake Formation - Build a secure data lake (ANT396)",
+        "date": "2018/12/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=KvGsyKtNEAk",
+        "thumbnail": "",
+        "title": "The Zen of DataOps - AWS Lake Formation and the Data Supply Chain Pipeline",
+        "date": "2019/06/21"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=HrYstc_aXx8",
+        "thumbnail": "",
+        "title": "AWS Summit Singapore 2019 | Zero to Data Lake in 40 Minutes",
+        "date": "2019/05/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=SeZ78yX8SC8",
+        "thumbnail": "",
+        "title": "Introducing AWS Lake Formation and Managed Streaming for Kafka",
+        "date": "2018/11/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Wk9Hf4cwUFM",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: [REPEAT 1] Data lakes and data integration with AWS Lake Formation (ANT218-R1)",
+        "date": "2019/12/08"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Aj5T5fcZZr0",
+        "thumbnail": "",
+        "title": "Deep Dive Into AWS Lake Formation - Level 300 (United States)",
+        "date": "2020/07/24"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=4iPx8IWvJhU",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Upgrading AWS Glue to use AWS Lake Formation permissions (ANT281-P)",
+        "date": "2019/12/13"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=_ZULZxJLCQA",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Upgrading AWS Glue to use AWS Lake Formation permissions (DEM149)",
+        "date": "2019/12/06"
+    }   
+]

@@ -1,1 +1,176 @@
-[{"url":"https://www.youtube.com/watch?v=-rv78DsrpNY","thumbnail":"https://i.ytimg.com/vi/-rv78DsrpNY/hqdefault.jpg","title":"Example title1","date":"2020/06/19"},{"url":"https://www.youtube.com/watch?v=8RNRssCiR_E","thumbnail":"https://i.ytimg.com/vi/8RNRssCiR_E/hqdefault.jpg","title":"Example title2","date":"2020/06/17"},{"url":"https://www.youtube.com/watch?v=k8O9KJKSswM","thumbnail":"https://i.ytimg.com/vi/k8O9KJKSswM/hqdefault.jpg","title":"Example title3","date":"2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=qgWMfNSN9f4",
+        "thumbnail": "",
+        "title": "What is AWS Glue?",
+        "date": "2017/08/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=z3HeHlWg88M",
+        "thumbnail": "",
+        "title": "Getting Started with AWS Glue ETL",
+        "date": "2018/03/26"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=PHYWI4Y9mzs",
+        "thumbnail": "",
+        "title": "Building Serverless ETL Pipelines with AWS Glue",
+        "date": "2018/11/26"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=S_xeHvP7uMo",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: Building Serverless Analytics Pipelines with AWS Glue (ANT308)",
+        "date": "2018/11/27"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=qNojanBn1NY",
+        "thumbnail": "",
+        "title": "Getting Started with AWS Glue Data Catalog",
+        "date": "2018/05/23"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=6tBp2JuYmSg",
+        "thumbnail": "",
+        "title": "Data Pipelines with AWS Glue (Level 200)",
+        "date": "2018/08/24"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=CMjycQ_3M14",
+        "thumbnail": "",
+        "title": "Live from the London Loft | Introduction to AWS Glue",
+        "date": "2017/09/29"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=qO4Z1k2dLrw",
+        "thumbnail": "",
+        "title": "Introducing AWS Glue",
+        "date": "2017/08/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=HYydZ5JLtQo",
+        "thumbnail": "",
+        "title": "How can I automatically start an AWS Glue job when a crawler run completes?",
+        "date": "2019/07/16"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=JsNR8uBVSiA",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: Build and Govern Your Data Lakes with AWS Glue (ANT309)",
+        "date": "2018/11/28"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=eQBHIINW8VY",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017: Building Serverless ETL Pipelines with AWS Glue (ABD315)",
+        "date": "2017/11/28"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=okYytBTIk4A",
+        "thumbnail": "",
+        "title": "AWS Summit - London | twitch.tv/aws | AWS Glue: Easily Prepare Your Data for Analytics",
+        "date": "2018/05/17"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=8LsYsrNMJZc",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2016: AWS Glue Data Catalog",
+        "date": "2017/08/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=GObs0r6yOPo",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017: How to Build a Data Lake with AWS Glue Data Catalog (ABD213-R)",
+        "date": "2017/12/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=4N_ktE4NFIk",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2016: NEW LAUNCH! Introduction to AWS Glue: A Fully Managed ETL Service (BDA209)",
+        "date": "2016/12/16"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=PbjDZh6EY9w",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2016 - Introduction to AWS Glue – Fully Managed ETL Service on AWS",
+        "date": "2016/12/21"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=IEw7HAwrkdw",
+        "thumbnail": "",
+        "title": "Analytics Week | Build and Govern Your Own Data Lakes with AWS Glue",
+        "date": "2019/04/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=uNAmsoLed1E",
+        "thumbnail": "",
+        "title": "Bajaj Housing Finance Limited: Serverless Data Pipelines with AWS Glue and Amazon Aurora PGSQL",
+        "date": "2019/11/09"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=sMQHxYTK_hE",
+        "thumbnail": "",
+        "title": "AWS Re:Invent 2016: Orchestration and Resource Management in AWS Glue",
+        "date": "2017/08/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=2WkxDdVkBNg",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: How Bill.com Uses Amazon SageMaker & AWS Glue to Enable Machine Learning -STP10",
+        "date": "2018/11/29"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=g27832lsrbg",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2016: Job Authoring Using AWS Glue",
+        "date": "2017/08/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=kWe0LB0yMMw",
+        "thumbnail": "",
+        "title": "Live from the NY Summit | AWS Glue Launch",
+        "date": "2017/08/21"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=yClHAALFXRk",
+        "thumbnail": "",
+        "title": "How can I create Amazon Redshift Spectrum cross-account access to AWS Glue and Amazon S3?",
+        "date": "2019/09/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=5m9YN1-Wf3w",
+        "thumbnail": "",
+        "title": "AWS Summit Series 2017 - New York: Introducing AWS Glue",
+        "date": "2017/10/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=U74vOMzUBoI",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Five data lake considerations w/ Amazon Redshift, Amazon S3 & AWS Glue (DEM19-S)",
+        "date": "2019/12/06"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=4iPx8IWvJhU",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Upgrading AWS Glue to use AWS Lake Formation permissions (ANT281-P)",
+        "date": "2019/12/13"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=V9P7KGfbfFI",
+        "thumbnail": "",
+        "title": "Log Data Analysis on Amazon Redshift & AWS Glue",
+        "date": "2020/01/21"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=_ZULZxJLCQA",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Upgrading AWS Glue to use AWS Lake Formation permissions (DEM149)",
+        "date": "2019/12/06"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Wk9Hf4cwUFM",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: [REPEAT 1] Data lakes and data integration with AWS Lake Formation (ANT218-R1)",
+        "date": "2019/12/08"
+    }   
+]

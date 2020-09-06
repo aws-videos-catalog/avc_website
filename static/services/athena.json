@@ -1,1 +1,134 @@
-[{"url":"https://www.youtube.com/watch?v=-rv78DsrpNY","thumbnail":"https://i.ytimg.com/vi/-rv78DsrpNY/hqdefault.jpg","title":"Example title1","date":"2020/06/19"},{"url":"https://www.youtube.com/watch?v=8RNRssCiR_E","thumbnail":"https://i.ytimg.com/vi/8RNRssCiR_E/hqdefault.jpg","title":"Example title2","date":"2020/06/17"},{"url":"https://www.youtube.com/watch?v=k8O9KJKSswM","thumbnail":"https://i.ytimg.com/vi/k8O9KJKSswM/hqdefault.jpg","title":"Example title3","date":"2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=DxAuj_Ky5aw",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2016: NEW LAUNCH! Intro to Amazon Athena - Analyze data in S3, using SQL (BDA303)",
+        "date": "2016/12/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=JIviltfpul0",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017: Deep Dive and Best Practices for Amazon Athena (ABD339)",
+        "date": "2017/11/29"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=U968FoLmwms",
+        "thumbnail": "",
+        "title": "How do I search CloudTrail logs using Amazon Athena?",
+        "date": "2018/08/29"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=uoLsrKZha0E",
+        "thumbnail": "",
+        "title": "AWS Knowledge Center Videos: How do I analyze my S3 logs using Athena?",
+        "date": "2018/11/07"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=afhG5l6GG4w",
+        "thumbnail": "",
+        "title": "When I query an Amazon Athena table that has defined partitions, zero records are returned",
+        "date": "2020/07/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=gGJ4zxeG9PI",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: Amazon Athena: What's New and How SendGrid Innovates (ANT324)",
+        "date": "2018/11/27"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=iedrCKE9NNk",
+        "thumbnail": "",
+        "title": "How do I use the results of my Amazon Athena query in another query?",
+        "date": "2019/07/29"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=wEOm6aiN4ww",
+        "thumbnail": "",
+        "title": "Appnext: Kinesis, EMR, Athena, Redshift - Choosing the Right Tool for Your Analytics Jobs",
+        "date": "2018/10/25"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=-nnidKX_LMk",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2016 - Announcing Amazon Athena",
+        "date": "2016/12/06"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=7sNUOFYWaOg",
+        "thumbnail": "",
+        "title": "Amazon Athena Adds Support for Querying Encrypted Data in Amazon S3",
+        "date": "2017/04/05"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=tZia_5qxPkY",
+        "thumbnail": "",
+        "title": "Amazon Athena Federated Query",
+        "date": "2019/11/26"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=st85EJa-kCY",
+        "thumbnail": "",
+        "title": "Business Intelligence in Minutes with Amazon Athena and Amazon QuickSight",
+        "date": "2018/11/12"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=mbDHbotrvWA",
+        "thumbnail": "",
+        "title": "Interactive Genomic Data Analysis Using Amazon Athena",
+        "date": "2018/07/10"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=cfojAdWoMWo",
+        "thumbnail": "",
+        "title": "Querying AWS CloudTrail logs with Amazon Athena",
+        "date": "2017/07/05"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ME7Pv1qPFLM",
+        "thumbnail": "",
+        "title": "What do I do if I receive errors when I try to read JSON data in Amazon Athena?",
+        "date": "2019/05/07"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=0j6U4gv2Os8",
+        "thumbnail": "",
+        "title": "I get a 403 Access Denied error in Athena when I query an S3 bucket in another account.",
+        "date": "2020/04/22"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ATCXCcrA0oE",
+        "thumbnail": "",
+        "title": "Course Hero uses Amazon Athena for big data processing, Amazon SageMaker to personalize searches",
+        "date": "2019/11/06"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=5c5Lgy0TTy0",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: Data Quakes: Seismic Analysis with Athena and Amazon Redshift (DEM22)",
+        "date": "2018/12/13"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=OLDILtIqI_M",
+        "thumbnail": "",
+        "title": "Unravel: Migrating and Scaling Data Pipelines with AI on Amazon EMR, Redshift & Athena",
+        "date": "2019/04/05"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=L61cs9Qrp18",
+        "thumbnail": "",
+        "title": "AWS Summit Madrid 2018 - Analítica de datos en segundos con Amazon Athena [Spanish]",
+        "date": "2018/06/18"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=lyNGeDg6EII",
+        "thumbnail": "",
+        "title": "Amazon RDS Snapshot Export to S3",
+        "date": "2020/04/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=tzoXRRCVmIQ",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: [REPEAT 1] Deep dive into Amazon Athena (ANT307-R1)",
+        "date": "2019/12/05"
+    }   
+]
