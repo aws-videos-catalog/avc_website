@@ -16,7 +16,7 @@
           class="v-category-video__video"
         />
 
-        <p>{{description}}</p>
+        <p>{{ description }}</p>
       </b-col>
       <b-col
           sm="12"
@@ -26,10 +26,13 @@
       >
         <div class="my-xs-4 my-xs-4 d-flex flex-column v-category-video__column-ad">
           <Ad :random="true"></Ad>
-          <div style="height:190px" class="mt-2 grey-box"></div>
+          <div
+              class="mt-2 grey-box v-category-video__column-ad__bottom"
+          />
         </div>
       </b-col>
-      <b-col md="3">
+
+      <b-col>
         <div style="width:100%;height:100%" class="my-xs-4 grey-box"></div>
       </b-col>
     </b-row>
@@ -269,14 +272,23 @@ ul{
   padding:0px
 }
 
-.grey-box{
-  background-color:#e9ecef;
-  border-radius:0.25rem;
+.grey-box {
+  background-color: #e9ecef;
+  border-radius: 0.25rem;
+}
+
+.v-category-video__column-ad__bottom {
+  height: 190px;
 }
 
 @media all and (min-width: 992px) {
   .v-category-video__column-ad {
-    max-width: 290px;
+    max-width: 270px;
+    height: 100%;
+  }
+
+  .v-category-video__column-ad__bottom {
+    height: 100%;
   }
 }
 
