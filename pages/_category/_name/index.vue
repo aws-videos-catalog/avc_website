@@ -89,7 +89,6 @@ export default {
     let text = '';
     let main_video;
     let actual_details = get_actual_details(route.params.category,route.params.name)
-
     //
     //  2.  Instead of using asyncData, sorting data before passing it to data()
     //      so it's easy to pick the main video which would be the first in the sorted list.
@@ -191,7 +190,7 @@ export default {
 
   head () {
     return this.$generateHead.generate({
-      title: this.main_video.title + ' - ' + this.service_name + ' - ' + this.category_name,
+      title: this.service_name + ' - ' + this.category_name,
       description: this.description,
       image: `https://awsvideocatalog.com/aws/png/PNG Light${this.imgPng}`,
       route: this.$route
