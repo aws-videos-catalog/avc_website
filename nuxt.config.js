@@ -70,6 +70,7 @@ export default {
   sitemap:{
     path: 'sitemap.xml',
     hostname: 'https://awsvideocatalog.com',
+    trailingSlash: true,
     routes (){
       return appPagesUrls
     }
