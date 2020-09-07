@@ -20,29 +20,6 @@ import Listing from '~/components/Listing.vue'
 import services from '~/static/services.json'
 
 export default {
-  head(){
-    return{
-      title: 'AWS Video Catalog',
-      meta:[
-          {
-            'property': 'og:title',
-            'content': 'Home'
-          },
-          {
-            'property': 'og:description',
-            'content': 'AWS Video Catalog is a website that collects all the official Amazon videos related each individual AWS Service, and categorizes them in a way that makes it easy to find what you are looking for. No more fighting YouTube search or relying on an algorithm to find what you are looking for. Everything is in one place.'
-          },
-          {
-            'property':'og:image',
-            'content': 'https://awsvideocatalog.com/aws/png/PNG Dark/Compute/Compute.png'
-          },
-          {
-            'property':'og:url',
-            'content': 'https://awsvideocatalog.com/'
-          }
-        ]
-    }
-  },
   layout: "default",
   components: {
     Listing
@@ -62,6 +39,13 @@ export default {
     return{
       categories:category_data
     }
+  },
+
+  head () {
+    return this.$generateHead.generate({
+      title: 'Home',
+      route: this.$route
+    })
   }
 }
 </script>

@@ -16,29 +16,6 @@ import services from '~/static/services.json'
 import get_actual_details from '~/custom_modules/get_actual_details'
 
 export default {
-  head(){
-    return {
-      title: this.$data.category_name + ' - AWS Video Catalog',
-      meta:[
-          {
-            'property': 'og:title',
-            'content': this.category_name + ' - AWS Video Catalog'
-          },
-          {
-            'property': 'og:description',
-            'content': this.description
-          },
-          {
-            'property':'og:image',
-            'content': 'https://awsvideocatalog.com/aws/png/PNG Light'+this.imgPng
-          },
-          {
-            'property':'og:url',
-            'content': 'https://awsvideocatalog.com/'+this.$route.params.category
-          }
-        ],
-    }
-  },
   layout: "default",
   components: {
     Listing,
@@ -76,6 +53,15 @@ export default {
       img,
       imgPng,
     }
+  },
+
+  head () {
+    return this.$generateHead.generate({
+      title: this.category_name,
+      description: this.description,
+      image: `https://awsvideocatalog.com/aws/png/PNG Light${this.imgPng}`,
+      route: this.$route
+    })
   }
 }
 </script>
