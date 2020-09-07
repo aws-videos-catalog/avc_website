@@ -73,29 +73,6 @@ function remove(array, element) {
 }
 
 export default {
-  head(){
-    return{
-      title: this.main_video.title + ' - ' + this.service_name + ' - ' + this.category_name + ' - AWS Video Catalog',
-      meta:[
-          {
-            'property': 'og:title',
-            'content': this.title + ' - ' + this.category_name + ' - AWS Video Catalog'
-          },
-          {
-            'property': 'og:description',
-            'content': this.description
-          },
-          {
-            'property':'og:image',
-            'content': 'https://awsvideocatalog.com/aws/SVG Light'+this.imgPng
-          },
-          {
-            'property':'og:url',
-            'content': 'https://awsvideocatalog.com/'+this.$route.params.category+'/'+this.$route.params.name
-          }
-        ],
-    }
-  },
   layout: "default",
   components:{
     MainVideo,
@@ -210,8 +187,16 @@ export default {
       })
       return array
     }
-  }
+  },
 
+  head () {
+    return this.$generateHead.generate({
+      title: this.main_video.title + ' - ' + this.service_name + ' - ' + this.category_name,
+      description: this.description,
+      image: `https://awsvideocatalog.com/aws/png/PNG Light${this.imgPng}`,
+      route: this.$route
+    })
+  }
 }
 </script>
 
