@@ -1,7 +1,11 @@
 <template>
   <div class="my-2 small-video">
     <a :href="videoLink">
-      <img :alt="title" :src="thumbnail">
+      <img
+        :src="thumbnail"
+        :alt="title"
+        :title="title"
+      >
     </a>
     <p>{{truncateTitle}}</p>
   </div>
