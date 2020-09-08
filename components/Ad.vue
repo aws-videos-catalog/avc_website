@@ -10,6 +10,7 @@
       target="_blank"
       :href="adObject.url"
       img-top
+      class="widget-ad__card"
     >
       <b-card-text>
         {{adObject.description}}
@@ -74,5 +75,7 @@ export default {
 </script>
 
 <style>
-
+.widget-ad__card {
+  height: 100%;
+}
 </style>
