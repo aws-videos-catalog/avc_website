@@ -1,1 +1,116 @@
-[{"url":"https://www.youtube.com/watch?v=-rv78DsrpNY","thumbnail":"https://i.ytimg.com/vi/-rv78DsrpNY/hqdefault.jpg","title":"Example title1","date":"2020/06/19"},{"url":"https://www.youtube.com/watch?v=8RNRssCiR_E","thumbnail":"https://i.ytimg.com/vi/8RNRssCiR_E/hqdefault.jpg","title":"Example title2","date":"2020/06/17"},{"url":"https://www.youtube.com/watch?v=k8O9KJKSswM","thumbnail":"https://i.ytimg.com/vi/k8O9KJKSswM/hqdefault.jpg","title":"Example title3","date":"2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=nxXIpPZzMd0",
+        "thumbnail": "",
+        "title": "How can I use SES to receive emails and store them?",
+        "date": "2018/12/19"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=EKnK54TAKWg",
+        "thumbnail": "",
+        "title": "Getting Started with Amazon SES - Simple Email Service on AWS",
+        "date": "2011/12/19"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=1jEmL0UYQ5M",
+        "thumbnail": "",
+        "title": "Webinar 2012: Using SMTP with Amazon Simple Email Service (SES)",
+        "date": "2012/01/19"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=JWiL00pcOl4",
+        "thumbnail": "",
+        "title": "Introduction to Amazon Simple Email Service",
+        "date": "2011/10/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=qePJIXUpiBo",
+        "thumbnail": "",
+        "title": "Chris Wheeler, Amazon Simple Email Service",
+        "date": "2012/08/27"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ezpMM1dzN68",
+        "thumbnail": "",
+        "title": "Webinar: Using Domain Verification with Amazon Simple Email Service",
+        "date": "2012/06/12"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=5PT5e8iQyBc",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2014 | (SDD412) Amazon Simple Email Service Deep Dive and Best Practices",
+        "date": "2014/11/17"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=6tfGHzlbHxc",
+        "thumbnail": "",
+        "title": "How do I track an email I sent using Amazon SES?",
+        "date": "2019/04/11"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=7_vnMUMWtd8",
+        "thumbnail": "",
+        "title": "Amazon Simple Email Service Management Console",
+        "date": "2011/11/17"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=C9HqvzwHp9s",
+        "thumbnail": "",
+        "title": "Can I verify my Domain in multiple AWS Simple Email Service Accounts or Regions?",
+        "date": "2020/08/18"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=V6jfjlyc7J4",
+        "thumbnail": "",
+        "title": "How do I verify an email address or domain in SES?",
+        "date": "2018/10/18"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=n3Fr0bCsIvo",
+        "thumbnail": "",
+        "title": "Webinar: Handling Bounces and Complaints with Amazon Simple Email Service",
+        "date": "2012/07/27"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=vLcUz11rzT8",
+        "thumbnail": "",
+        "title": "AWS for Microsoft Workloads: Integrate Amazon Simple Email Service into your .NET Application",
+        "date": "2018/06/18"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=f3xncKCdI_0",
+        "thumbnail": "",
+        "title": "AWS re: Invent SVC 103: Using Amazon Simple Email Service",
+        "date": "2012/12/06"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=BpuqLT1UGVM",
+        "thumbnail": "",
+        "title": "From 0 to 100M+ Emails Per Day: Sending Email with Amazon SES (SVC301) | AWS re:Invent 2013",
+        "date": "2013/11/23"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=-kVhzt7X5Kw",
+        "thumbnail": "",
+        "title": "How do I configure SES and SNS to receive domain validation emails?",
+        "date": "2019/10/29"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=U3STb1Zz7Jc",
+        "thumbnail": "",
+        "title": "Webinar: Email Best Practices from the Amazon SES Team",
+        "date": "2012/09/19"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=s3MwrakuFA4",
+        "thumbnail": "",
+        "title": "NewsLeopard: How to Build an eDM Service with a High Delivery Rate on AWS (Mandarin)",
+        "date": "2019/11/25"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=wrR-iC7UTic",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017: Building Scalable Multitenant Email Sending Programs with Amazon (ARC210)",
+        "date": "2017/11/28"
+    }   
+]

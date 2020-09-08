@@ -1,1 +1,68 @@
-[{"url":"https://www.youtube.com/watch?v=-rv78DsrpNY","thumbnail":"https://i.ytimg.com/vi/-rv78DsrpNY/hqdefault.jpg","title":"Example title1","date":"2020/06/19"},{"url":"https://www.youtube.com/watch?v=8RNRssCiR_E","thumbnail":"https://i.ytimg.com/vi/8RNRssCiR_E/hqdefault.jpg","title":"Example title2","date":"2020/06/17"},{"url":"https://www.youtube.com/watch?v=k8O9KJKSswM","thumbnail":"https://i.ytimg.com/vi/k8O9KJKSswM/hqdefault.jpg","title":"Example title3","date":"2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=MK98YQ0pcts",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Build immersive experiences with Amazon Pinpoint Journeys (EUC230-P)",
+        "date": "2019/12/05"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=S8zcgBLCm-E",
+        "thumbnail": "",
+        "title": "SMS Chatbot with Amazon Pinpoint, Amazon Lex, and AWS Lambda",
+        "date": "2020/02/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=qJF1pErxqKQ",
+        "thumbnail": "",
+        "title": "Introducing Amazon Pinpoint Journeys | Build the Experiences Your Customers Want",
+        "date": "2019/11/05"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=sdyBfHmLztE",
+        "thumbnail": "",
+        "title": "AWS Pinpoint SMS and Email Campaigns Support",
+        "date": "2017/06/09"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=3id6srjB5A8",
+        "thumbnail": "",
+        "title": "Solving with AWS Solutions: Predictive Segmentation using Amazon Pinpoint and Amazon SageMaker",
+        "date": "2020/04/27"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=eq3hKt0XxQE",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2016: NEW LAUNCH! Enable Real-Time Mobile App Engagement with Amazon Pinpoint (MBL304)",
+        "date": "2016/12/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=nPVkewp8-vo",
+        "thumbnail": "",
+        "title": "snaq.me: Snack Time's Subscription Service Sends Attractive Notifications Using Amazon Pinpoint (JP)",
+        "date": "2020/04/17"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=9y1hDKJQIRE",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: Building Hulu’s Real-Time Platform for Live TV with Amazon Pinpoint (MOB304)",
+        "date": "2018/11/29"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=9Qz15ifiL3g",
+        "thumbnail": "",
+        "title": "Customer Spotlight: Disney Streaming Services uses Amazon Pinpoint for powerful user engagement",
+        "date": "2018/11/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=lLSVXVGzh_U",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017: Learn How Amazon Leverages Amazon Pinpoint to Drive Growth and E (MBL303)",
+        "date": "2017/11/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=RVMHlFlzABI",
+        "thumbnail": "",
+        "title": "AWS Mobile Week - San Francisco: Mobile Messaging from Analytics to Engagement",
+        "date": "2018/10/30"
+    }   
+]

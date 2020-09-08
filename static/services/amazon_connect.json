@@ -1,1 +1,362 @@
-[{"url":"https://www.youtube.com/watch?v=-rv78DsrpNY","thumbnail":"https://i.ytimg.com/vi/-rv78DsrpNY/hqdefault.jpg","title":"Example title1","date":"2020/06/19"},{"url":"https://www.youtube.com/watch?v=8RNRssCiR_E","thumbnail":"https://i.ytimg.com/vi/8RNRssCiR_E/hqdefault.jpg","title":"Example title2","date":"2020/06/17"},{"url":"https://www.youtube.com/watch?v=k8O9KJKSswM","thumbnail":"https://i.ytimg.com/vi/k8O9KJKSswM/hqdefault.jpg","title":"Example title3","date":"2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=nfftUQGVx2s",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Omnichannel cloud contact center with Amazon Connect (DEM155)",
+        "date": "2019/12/05"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=9OwwJp53oIE",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Contact Lens for Amazon Connect: new speech analytics powered by ML (EUC214-R1)",
+        "date": "2019/12/06"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=5MgWpT4bZJ8",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Accolade speeds health answers to customers with Amazon Connect (EUC337)",
+        "date": "2019/12/05"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=dAxs7595WD4",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Amazon Connect: Omnichannel cloud contact centers w Intuit & Salesforce (EUC209)",
+        "date": "2019/12/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=GJv4XkQrGos",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: Modern service desk with Amazon Connect and News Corp (EUC211)",
+        "date": "2019/12/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=GVQtp8WaGFY",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: The New York Times: Improving customer care with Amazon Connect (EUC213)",
+        "date": "2019/12/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=zSIXp0OAFrg",
+        "thumbnail": "",
+        "title": "AWS Summit Online ASEAN 2020 | The Art of the Possible: Amazon Connect Customer Service Experience",
+        "date": "2020/08/28"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=XeVkV4_YnMA",
+        "thumbnail": "",
+        "title": "Amazon Connect Customer Service Experience: The Art of the Possible",
+        "date": "2018/03/12"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=YwpfeOwDlko",
+        "thumbnail": "",
+        "title": "Getting Started with Amazon Connect",
+        "date": "2019/11/19"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=syF1CEiWAto",
+        "thumbnail": "",
+        "title": "What is Amazon Connect",
+        "date": "2020/03/27"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=xOkcpF_4ZvI",
+        "thumbnail": "",
+        "title": "Amazon Connect Webinar - Create an Exceptional Contact Center Experience on AWS",
+        "date": "2017/08/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=BVa6QZyAVsA",
+        "thumbnail": "",
+        "title": "Agent Training for the Amazon Connect Contact Control Panel (CCP)",
+        "date": "2020/06/10"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=WESBp_Sg7cg",
+        "thumbnail": "",
+        "title": "Live Coding with AWS: Building Call Centers with Amazon Connect",
+        "date": "2017/07/20"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=TEiDEFFZjNw",
+        "thumbnail": "",
+        "title": "Salesforce and Amazon Connect - Building Innovative Customer Experiences",
+        "date": "2018/06/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=s_queaqyzHs",
+        "thumbnail": "",
+        "title": "How do I enable Quick Connects on Amazon Connect?",
+        "date": "2019/10/29"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=6LcSv9XocTY",
+        "thumbnail": "",
+        "title": "Intuit: Serving 7 Million Customers Using Amazon Connect",
+        "date": "2019/06/19"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=oMAnsRECYyo",
+        "thumbnail": "",
+        "title": "Amazon Connect Customer Purchase Experience: The Art of the Possible",
+        "date": "2018/03/12"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=dQ3Y6FWk7q8",
+        "thumbnail": "",
+        "title": "Getting Started with Amazon Connect chat",
+        "date": "2019/11/19"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ezdSLJi1kC4",
+        "thumbnail": "",
+        "title": "Introducing Amazon Connect",
+        "date": "2017/03/28"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=vdUtbOAplZA",
+        "thumbnail": "",
+        "title": "Introduction to Contact Lens for Amazon Connect",
+        "date": "2020/08/12"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=PvnbGpRcV64",
+        "thumbnail": "",
+        "title": "AI Powered Speech Analytics for Amazon Connect Solution",
+        "date": "2019/03/18"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=vFG1FBsUGD0",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: Moving Large Scale Contact Centers to Amazon Connect (BAP324)",
+        "date": "2018/11/27"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=a1zbJgZnxT8",
+        "thumbnail": "",
+        "title": "Introduction to Amazon Connect chat",
+        "date": "2019/11/19"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=fW7aiwJehqA",
+        "thumbnail": "",
+        "title": "How do I display contact attributes in a screenpop using the Amazon Connect Streams API?",
+        "date": "2020/05/06"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=kD57QUn5myc",
+        "thumbnail": "",
+        "title": "AWS Solutions: AI Powered Speech Analytics for Amazon Connect",
+        "date": "2020/01/16"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=pARyuIZpXz4",
+        "thumbnail": "",
+        "title": "CCW 2020: Rethink Your Contact Center With Amazon Connect",
+        "date": "2020/09/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Oqh32dYavwU",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: Implementation of Amazon Connect, Powered by Accenture (FSV306-S)",
+        "date": "2018/11/28"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=V5P0mOWADLE",
+        "thumbnail": "",
+        "title": "Introducing Amazon Connect Dashboard - Monitoring Contact Center Performance on AWS",
+        "date": "2017/06/27"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=pJ0WcOPRwEM",
+        "thumbnail": "",
+        "title": "Learn about Amazon Connect with Jeff Barr",
+        "date": "2019/04/15"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=9qky_E39-_I",
+        "thumbnail": "",
+        "title": "AWS Demo: How to Use an Amazon Lex Chatbot with an Amazon Connect Contact Center",
+        "date": "2017/09/06"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=bjb3uG9yrtI",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: Customizing Your Amazon Connect Contact Center (BAP309)",
+        "date": "2018/11/28"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=SwbGkd53HN4",
+        "thumbnail": "",
+        "title": "Amazon Connect Delivers Personalized Customer Experience for Your Contact Center",
+        "date": "2019/06/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=kCtYEQkxT6g",
+        "thumbnail": "",
+        "title": "Amazon Connect CTI Adapter for Salesforce",
+        "date": "2019/01/22"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=fwgahXuNldw",
+        "thumbnail": "",
+        "title": "How do I integrate Amazon Connect with Zendesk?",
+        "date": "2020/08/20"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Gn6h1vOFygc",
+        "thumbnail": "",
+        "title": "Next Gen Innovation: Enhancing Your Contact Center with Amazon Connect for the Public Sector",
+        "date": "2018/08/28"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=jihc4nAWy14",
+        "thumbnail": "",
+        "title": "Modernize Your Contact Center with AI: Gain Valuable Insights by Transcribing Recordings",
+        "date": "2019/01/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=kSYdKxZkkRw",
+        "thumbnail": "",
+        "title": "Hear How Intuit Innovates The Contact Center With Amazon Connect & Service Cloud",
+        "date": "2018/10/22"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=VOIL8S75z6s",
+        "thumbnail": "",
+        "title": "Larry Augustin Announces the General Availability of Contact Lens for Amazon Connect",
+        "date": "2020/07/23"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=bH7midAciaw",
+        "thumbnail": "",
+        "title": "Amazon Connect CTI Adapter for Salesforce - Amazon Web Services",
+        "date": "2017/08/24"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=3S6zIJGIMEk",
+        "thumbnail": "",
+        "title": "Capital One Contact Centers Innovate Faster Using Amazon Connect",
+        "date": "2018/08/24"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=pg12x440mMw",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: Bring the Power of AI to Your Amazon Connect Contact Center (BAP322-R1)",
+        "date": "2018/11/28"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=C4KzP8vsGOc",
+        "thumbnail": "",
+        "title": "Evolving Customer Experience with Amazon Connect, An AI-Based Contact Centre Solution",
+        "date": "2019/10/17"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=erayXNsBT0Y",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: Customer-Centric Contact Centers w/ Amazon Connect & Machine Learning (FSV301)",
+        "date": "2018/11/28"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Z2_gsQYglyE",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017: GPS: Amazon Connect: Powerful, Proven Cloud Contact Center Solut (GPSBUS205)",
+        "date": "2017/11/28"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=i9ISkHPMTXw",
+        "thumbnail": "",
+        "title": "Build an Omni-Channel Experience with Amazon Connect and Amazon Lex (Level 200)",
+        "date": "2018/08/24"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Jq-sCoaYXW4",
+        "thumbnail": "",
+        "title": "AWS New York Summit 2019: Amazon Connect for IT Support: Johnson & Johnson Case Study (SVC201)",
+        "date": "2019/07/23"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=4vV7A46IcHk",
+        "thumbnail": "",
+        "title": "Customer and Constituent Engagement with Amazon Connect",
+        "date": "2019/06/20"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=JBFT18lYUDY",
+        "thumbnail": "",
+        "title": "Empowering Customer Service with Amazon Connect and Machine Learning (Level 300)",
+        "date": "2019/04/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=rSzDFJGw5vg",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017: Amazon Connect Delivers Personalized Customer Experiences (BAP202)",
+        "date": "2017/11/28"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=DDARPuwoyiI",
+        "thumbnail": "",
+        "title": "DXC Transforms Service Desks and Improves Customer Experience with AWS",
+        "date": "2020/03/12"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=cmlhEbm1kPk",
+        "thumbnail": "",
+        "title": "DXC + Munich Re: Amazon Connect with AWS Machine Learning Services",
+        "date": "2019/08/02"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=HHtxiQKBmGI",
+        "thumbnail": "",
+        "title": "Enterprise Connect 2020 : ML-Powered Analytics with Contact Lens for Amazon Connect",
+        "date": "2020/09/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=uRxCk8_JzEk",
+        "thumbnail": "",
+        "title": "Solving with AWS Solutions: AI Powered Speech Analytics for Amazon Connect",
+        "date": "2020/05/02"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=-Fbso6LiWkU",
+        "thumbnail": "",
+        "title": "Salesforce Service Cloud and Amazon Connect Transform Customer Service in the Cloud",
+        "date": "2017/11/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=CUwL23VTzng",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017: How To Use AWS IoT and Amazon Connect to Drive Proactive Custome (BAP304)",
+        "date": "2017/12/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Idg8c9rf4u4",
+        "thumbnail": "",
+        "title": "Wag: CX Automation with AWS Connect, Lex and Lambda",
+        "date": "2019/04/05"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=uqmIet8GMaE",
+        "thumbnail": "",
+        "title": "Enterprise Connect 2017 | Tom Weiland of AWS Announces Amazon Connect",
+        "date": "2017/04/07"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=wLCABAcgH-M",
+        "thumbnail": "",
+        "title": "AWS What’s Next ft. Contact Lens for Amazon Connect",
+        "date": "2020/08/31"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=tJLKJiSKBqY",
+        "thumbnail": "",
+        "title": "AWS NY Summit - Improving Patient Transportation & Appt. Attendance Using Amazon Connect & Polly",
+        "date": "2018/07/26"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=M-ElnfVm3og",
+        "thumbnail": "",
+        "title": "NHS Business Services Authority: Building an Automated Call Centre and Learning from the Results",
+        "date": "2019/01/25"
+    }   
+]
