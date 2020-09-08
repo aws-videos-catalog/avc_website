@@ -27,7 +27,7 @@
           align-self="stretch"
       >
         <div
-            class="my-xs-4 d-flex flex-column v-category-name__column-ad"
+            class="my-xs-4 d-flex v-category-name__column-ad"
         >
           <Ad :random="true"></Ad>
           <div class="mt-3 grey-box v-category-name__column-ad__bottom" />
@@ -226,6 +226,10 @@ ul{
 }
 
 @media all and (min-width: 1440px) {
+  .v-category-name__column-ad {
+    flex-flow: column;
+  }
+
   .v-category-name__video {
     width: 1024px;
   }

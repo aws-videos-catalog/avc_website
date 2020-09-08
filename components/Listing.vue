@@ -1,18 +1,33 @@
 <template>
   <div>
     <b-row>
-      <b-col lg="2" md="3">
-        <ad :adOrder="random_ad_order[0]" class="my-2 service"
-        :height="'400px'"/>
+      <b-col
+        sm="6"
+        md="4"
+        lg="3"
+        xl="2"
+      >
+        <ad
+          :ad-order="random_ad_order[0]"
+          class="my-2 service-listings__card"
+          :height="'400px'"
+        />
       </b-col>
-      <b-col md="3" lg="2" v-for="(item,idx) in items" :key="`item_${idx}`">
+      <b-col
+        v-for="(item,idx) in items"
+        :key="`item_${idx}`"
+        sm="6"
+        md="4"
+        lg="3"
+        xl="2"
+      >
         <nuxt-link class="service my-2" :to="links[idx]+'/'" append component="div">
           <b-card
             :title="item.name"
             :img-src="item.img ? '/aws/svg/SVG Light'+item.img : '/aws/svg/SVG Light/_Group Icons/AWS-Cloud-alt_light-bg.svg'"
             img-alt="Image"
             img-top
-            class="card"
+            class="service-listings__card"
           >
             <b-card-text>
               {{item.description}}
@@ -113,4 +128,15 @@ export default {
   height:100%;
 }
 
+.service-listings__card {
+  height: auto;
+  width: 100%;
+  overflow: hidden;
+}
+
+@media (min-width: 576px) {
+  .service-listings__card {
+    height: 400px;
+  }
+}
 </style>
