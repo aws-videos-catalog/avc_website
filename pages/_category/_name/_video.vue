@@ -1,41 +1,12 @@
 <template>
   <div class="listing-container mx-5">
     <bread-crumb/>
-    <b-row no-gutters>
-      <b-col
-          sm="12"
-          lg="auto"
-          class="placeholder"
-          id="main-video"
-          align-self="stretch"
-      >
-        <main-video
-          :title="main_video.title"
-          :url="main_video.url"
-          :date="main_video.date"
-          class="v-category-video__video"
-        />
 
-        <p>{{ description }}</p>
-      </b-col>
-      <b-col
-          sm="12"
-          lg="auto"
-          class="placeholder px-3"
-          align-self="stretch"
-      >
-        <div class="my-xs-4 my-xs-4 d-flex flex-column v-category-video__column-ad">
-          <Ad :random="true"></Ad>
-          <div
-              class="mt-2 grey-box v-category-video__column-ad__bottom"
-          />
-        </div>
-      </b-col>
+    <section-video-player
+      :video="main_video"
+      :description="description"
+    />
 
-      <b-col>
-        <div style="width:100%;height:100%" class="my-xs-4 grey-box"></div>
-      </b-col>
-    </b-row>
     <hr/>
     <b-row v-for="data in data_by_years" :key="data.year">
       <h3 style="padding-left:15px;width:100vw;">{{data.year}}</h3>
@@ -56,10 +27,9 @@
 //
 import getService from '~/static/service_server.js'
 import get_actual_details from '~/custom_modules/get_actual_details'
-import MainVideo from '~/components/MainVideo.vue'
 import SmallVideo from '~/components/SmallVideo.vue'
-import Ad from '~/components/Ad.vue'
 import BreadCrumb from '~/components/BreadCrumb.vue'
+import SectionVideoPlayer from '~/components/sections/video/SectionVideoPlayer'
 
 // HELPER FUNCTIONS
 
@@ -83,9 +53,8 @@ function remove(array, element) {
 export default {
   layout: "default",
   components:{
-    MainVideo,
+    SectionVideoPlayer,
     SmallVideo,
-    Ad,
     BreadCrumb
   },
   asyncData({route,error}){
@@ -252,36 +221,3 @@ export default {
   },
 }
 </script>
-
-<style>
-
-ul{
-  padding:0px
-}
-
-.grey-box {
-  background-color: #e9ecef;
-  border-radius: 0.25rem;
-}
-
-.v-category-video__column-ad__bottom {
-  height: 190px;
-}
-
-@media all and (min-width: 992px) {
-  .v-category-video__column-ad {
-    max-width: 270px;
-    height: 100%;
-  }
-
-  .v-category-video__column-ad__bottom {
-    height: 100%;
-  }
-}
-
-@media all and (min-width: 1440px) {
-  .v-category-video__video {
-    width: 1024px;
-  }
-}
-</style>
