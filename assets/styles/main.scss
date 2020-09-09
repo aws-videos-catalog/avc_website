@@ -1,0 +1,21 @@
+/*
+* Application styles entrypoint.
+
+  It is strongly encouraged to write styles with BEM methodology in mind.
+  The reason is to provide a single style of writing CSS that is popular
+  among developers and plays very well with components splitting in Vue.js applications.
+
+  More info: http://getbem.com
+
+  Please, note that Boostrap CSS framework is used in the project and should be considered
+  a go-to solution when approaching tasks.
+  Custom styling should be done inside components and revolve around the component itself.
+  There should be very few cases when child/parent components are accessed.
+
+  It is highly recommended to avoid usage of "scoped" attribute of Vue.js component's style tag.
+  Main reasons for such decision:
+  - Scoped styles are often used as an escape solution to avoid solving
+  the problem of conflicting styles;
+  - Scoped styles eventually downgrade CSS performance due to the nature of attribute selectors;
+
+*/
