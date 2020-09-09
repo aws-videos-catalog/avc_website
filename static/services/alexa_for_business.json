@@ -1,1 +1,140 @@
-[{"url":"https://www.youtube.com/watch?v=-rv78DsrpNY","thumbnail":"https://i.ytimg.com/vi/-rv78DsrpNY/hqdefault.jpg","title":"Example title1","date":"2020/06/19"},{"url":"https://www.youtube.com/watch?v=8RNRssCiR_E","thumbnail":"https://i.ytimg.com/vi/8RNRssCiR_E/hqdefault.jpg","title":"Example title2","date":"2020/06/17"},{"url":"https://www.youtube.com/watch?v=k8O9KJKSswM","thumbnail":"https://i.ytimg.com/vi/k8O9KJKSswM/hqdefault.jpg","title":"Example title3","date":"2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=ViB3XhsTLuo",
+        "thumbnail": "",
+        "title": "Alexa for Business: Empower Your Organization to Use Alexa",
+        "date": "2017/12/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=JJFDQ7rXxvc",
+        "thumbnail": "",
+        "title": "Alexa for Business: How to Enable Skills",
+        "date": "2017/12/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=HOMbzO7eRIU",
+        "thumbnail": "",
+        "title": "Using Alexa for Business to Get More Work Done with Your Personal Alexa Devices.",
+        "date": "2019/12/11"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=FrunIqAcpjg",
+        "thumbnail": "",
+        "title": "Alexa for Business: How to Set Up Echo Devices",
+        "date": "2017/12/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=UTOYK_SQi-Y",
+        "thumbnail": "",
+        "title": "Using Alexa for Business to Simplify and Optimize Your Workplace Meeting Rooms",
+        "date": "2019/12/11"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=u9NMQllvT3M",
+        "thumbnail": "",
+        "title": "Empower Your Organization with Alexa for Business",
+        "date": "2018/04/12"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=I-KEn6gKm7E",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017 - Introducing Alexa for Business",
+        "date": "2017/12/12"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=geppGJeWwcM",
+        "thumbnail": "",
+        "title": "Alexa for Business: How to Configure Conferencing and Calendaring",
+        "date": "2017/12/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=9YqudlLMDHw",
+        "thumbnail": "",
+        "title": "Alexa for Business: How to Configure Rooms and Room Profiles",
+        "date": "2017/12/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=BgxepELv6xM",
+        "thumbnail": "",
+        "title": "Alexa for Business: How to Invite Your Users to Join",
+        "date": "2017/12/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=x_nQekbcNUI",
+        "thumbnail": "",
+        "title": "Alexa for Business: This Is My Skill",
+        "date": "2018/10/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=dD2dESgxbfM",
+        "thumbnail": "",
+        "title": "Build Alexa Skills For Your Business - No Coding Required",
+        "date": "2019/04/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=DTSIW4LebaE",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: Leadership Session: Alexa for Business (BAP203-L)",
+        "date": "2018/11/29"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Wur1GWB03hk",
+        "thumbnail": "",
+        "title": "Lockheed Martin: Using Alexa for Business to Securely Access Program Management Status",
+        "date": "2020/07/27"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=4LBuZGdQoCk",
+        "thumbnail": "",
+        "title": "Voice Enable Salesforce Apps - Getting Started With Amazon’s Alexa For Business",
+        "date": "2018/10/22"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=IEipfjh_Ge8",
+        "thumbnail": "",
+        "title": "AWS re:Invent Launchpad 2017 - Alexa for Business",
+        "date": "2017/12/08"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=5XLjhLVLxsQ",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: Build the Next-Gen Meeting Room Experience Using Alexa for Business (BAP303-R1)",
+        "date": "2018/11/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=NMVeBgZ6kXM",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017: NEW LAUNCH! Building Alexa Skills for Businesses (ALX204)",
+        "date": "2017/12/15"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ER7OYXHnhZQ",
+        "thumbnail": "",
+        "title": "Enterprise Connect 2018 | Collin Davis and Dave Isbitski Talk About Alexa for Business",
+        "date": "2018/06/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=rby3Lce5bWo",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017: NEW LAUNCH! Building Smart Conference Rooms with Alexa for Busin (BAP309)",
+        "date": "2017/12/02"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=0M-gUMWQX_E",
+        "thumbnail": "",
+        "title": "Amazon Alexa, Empower Your Business with Voice",
+        "date": "2018/05/31"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=RbfoOIwmu6E",
+        "thumbnail": "",
+        "title": "AWS Summit SF 2018: Can I Bring Alexa to Work? (ENT306)",
+        "date": "2018/04/11"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=XgJUsBDQILQ",
+        "thumbnail": "",
+        "title": "Klika Tech and Stonehenge: Smart Apartments with Alexa & AWS IoT (Special Episode)",
+        "date": "2019/01/15"
+    }   
+]

@@ -1,1 +1,74 @@
-[{"url":"https://www.youtube.com/watch?v=-rv78DsrpNY","thumbnail":"https://i.ytimg.com/vi/-rv78DsrpNY/hqdefault.jpg","title":"Example title1","date":"2020/06/19"},{"url":"https://www.youtube.com/watch?v=8RNRssCiR_E","thumbnail":"https://i.ytimg.com/vi/8RNRssCiR_E/hqdefault.jpg","title":"Example title2","date":"2020/06/17"},{"url":"https://www.youtube.com/watch?v=k8O9KJKSswM","thumbnail":"https://i.ytimg.com/vi/k8O9KJKSswM/hqdefault.jpg","title":"Example title3","date":"2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=9sj2UqKMKGI",
+        "thumbnail": "",
+        "title": "Amazon Workmail for Your Everyday Communication",
+        "date": "2018/11/05"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Ha-5K5cDY6E",
+        "thumbnail": "",
+        "title": "AWS Knowledge Center Videos: How do I set up WorkMail domain verification?",
+        "date": "2017/12/11"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=3Wq-ghtB0XQ",
+        "thumbnail": "",
+        "title": "Amazon WorkMail – Fully Managed Business Email & Calendar Service",
+        "date": "2016/01/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=A6iST0dAaqo",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2015 | (ISM317) Amazon WorkMail: Corporate Email in Less Than 10 Minutes",
+        "date": "2015/10/09"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ci2KxwhYIW0",
+        "thumbnail": "",
+        "title": "How do I set up an email redirecting rule in Amazon WorkMail?",
+        "date": "2019/09/26"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=tpj6zFpyYb4",
+        "thumbnail": "",
+        "title": "How do I set up an email forwarding rule in Amazon WorkMail?",
+        "date": "2019/06/18"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=anuFhaL-oyA",
+        "thumbnail": "",
+        "title": "Amazon Directory Services, Amazon WorkSpaces, Amazon WorkMail, and Amazon WorkDocs",
+        "date": "2015/08/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=KCeG1CCnzM8",
+        "thumbnail": "",
+        "title": "Amazon WorkMail Untuk Komunikasi Anda Sehari-hari",
+        "date": "2018/11/05"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=H1U1X_LWyn8",
+        "thumbnail": "",
+        "title": "How do I delete users and groups in Amazon WorkMail using CLI?",
+        "date": "2020/05/28"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ViGdElGV6nk",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2016: Stop Managing Email Infrastructure: Move to Amazon WorkMail (BAP205)",
+        "date": "2016/12/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=waTgLDsM5_s",
+        "thumbnail": "",
+        "title": "How do I grant Full Access permissions to another user in Amazon WorkMail?",
+        "date": "2020/02/11"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=KoxR3T2L-AU",
+        "thumbnail": "",
+        "title": "Enterprise Collaboration with the AWS Work Suite (119666)",
+        "date": "2017/06/19"
+    }   
+]
