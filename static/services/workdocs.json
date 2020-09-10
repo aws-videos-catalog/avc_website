@@ -1,1 +1,50 @@
-[{"url":"https://www.youtube.com/watch?v=-rv78DsrpNY","thumbnail":"https://i.ytimg.com/vi/-rv78DsrpNY/hqdefault.jpg","title":"Example title1","date":"2020/06/19"},{"url":"https://www.youtube.com/watch?v=8RNRssCiR_E","thumbnail":"https://i.ytimg.com/vi/8RNRssCiR_E/hqdefault.jpg","title":"Example title2","date":"2020/06/17"},{"url":"https://www.youtube.com/watch?v=k8O9KJKSswM","thumbnail":"https://i.ytimg.com/vi/k8O9KJKSswM/hqdefault.jpg","title":"Example title3","date":"2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=DGQGYgiYdnA",
+        "thumbnail": "",
+        "title": "Secure, Fully Managed, Content Creation, File Collaboration and Management with Amazon WorkDocs",
+        "date": "2018/09/13"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=vIdw0_AzzDA",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: Say Goodbye to Legacy Network File Shares with Amazon WorkDocs Drive (BAP208)",
+        "date": "2018/11/27"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=-YGoMEycSaQ",
+        "thumbnail": "",
+        "title": "How do I share a file or folder in WorkDocs?",
+        "date": "2018/10/09"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=CrksS9-HITM",
+        "thumbnail": "",
+        "title": "How do I fix an Amazon WorkDocs Drive stuck at Authenticating user phase after logging in?",
+        "date": "2019/05/02"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=wmZ0cMZpehI",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2016: Store and collaborate on content with WorkDocs (BAP206)",
+        "date": "2016/12/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=pmmDm_yRxu4",
+        "thumbnail": "",
+        "title": "Amazon WorkDocs: How to Lock and Unlock Files",
+        "date": "2017/07/20"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=anuFhaL-oyA",
+        "thumbnail": "",
+        "title": "Amazon Directory Services, Amazon WorkSpaces, Amazon WorkMail, and Amazon WorkDocs",
+        "date": "2015/08/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=KoxR3T2L-AU",
+        "thumbnail": "",
+        "title": "Enterprise Collaboration with the AWS Work Suite (119666)",
+        "date": "2017/06/19"
+    }   
+]
