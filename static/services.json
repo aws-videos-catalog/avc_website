@@ -1112,7 +1112,7 @@
   },
   "Application Integration": {
     "info": {
-      "name": "Analytics",
+      "name": "Application Integration",
       "description": "Analize on the fly all your data.",
       "img": "/Application Integration/Application-Integration.svg",
       "imgPng": "/Application Integration/Application-Integration.png"
