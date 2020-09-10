@@ -12,9 +12,8 @@
       <h3 style="padding-left:15px;width:100vw;">{{data.year}}</h3>
       <div style="padding-left:15px" v-for="(video,i) in data.videos" :key="'video_'+i">
         <small-video
-          :title="video.title"
-          :url="video.url.split('?v=')[1]"
-          :thumbnail="video.thumbnail"/>
+          :video="video"
+        />
       </div>
     </b-row>
     <hr class="height:1px"></hr>
@@ -30,6 +29,7 @@ import get_actual_details from '~/custom_modules/get_actual_details'
 import SmallVideo from '~/components/SmallVideo.vue'
 import BreadCrumb from '~/components/BreadCrumb.vue'
 import SectionVideoPlayer from '~/components/sections/video/SectionVideoPlayer'
+import { formatVideo } from '~/utils/videos'
 
 // HELPER FUNCTIONS
 
@@ -78,7 +78,7 @@ export default {
       //
       return new Date(b.date) - new Date(a.date);
 
-    });
+    }).map(formatVideo);
 
     //
     //  4.  If there isn't a video id given in query params, return the first

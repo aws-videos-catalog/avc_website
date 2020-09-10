@@ -1,4 +1,5 @@
 import fs from 'fs'
+import { getYoutubeIdFromVideoLink } from '../utils/videos'
 import getService from '../static/service_server'
 
 function nameToSnakeCase (name) {
@@ -24,15 +25,6 @@ function loadServicesSettings (path) {
 }
 
 /**
- * Get Video ID from video URL. Currently handles only full Youtube URL
- * @param videoUrl
- * @returns {*}
- */
-function videoIdFromUrl (videoUrl) {
-  return videoUrl.split('?v=')[1]
-}
-
-/**
  * Get URL path of every video for provided service
  * @param videosData
  * @param servicePath
@@ -40,7 +32,7 @@ function videoIdFromUrl (videoUrl) {
  */
 function generateServiceVideosPaths (videosData, servicePath) {
   return videosData.reduce((result, videoData) => {
-    const videoId = videoIdFromUrl(videoData.url)
+    const videoId = getYoutubeIdFromVideoLink(videoData.url)
 
     result.push(`${servicePath}/${videoId}`)
 
