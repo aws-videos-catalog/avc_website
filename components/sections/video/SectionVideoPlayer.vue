@@ -1,37 +1,25 @@
 <template>
-  <b-row no-gutters>
-    <b-col
-      sm="12"
-      lg="auto"
-      class="placeholder"
-      id="main-video"
-      align-self="stretch"
-    >
-      <main-video
-        :video="video"
-        class="video-player__video"
-      />
-
-      <p>{{ description }}</p>
-    </b-col>
-    <b-col
-      sm="12"
-      lg="auto"
-      class="placeholder px-3"
-      align-self="stretch"
-    >
-      <div class="my-xs-4 my-xs-4 d-flex flex-column video-player__column-ad">
-        <Ad :random="true"></Ad>
-        <div
-          class="mt-2 grey-box video-player__column-ad__bottom"
+  <div class="s-video-player__container">
+    <div class="s-video-player__inner">
+      <div class="s-video-player__video">
+        <main-video
+          :video="video"
         />
-      </div>
-    </b-col>
 
-    <b-col>
-      <div style="width:100%;height:100%" class="my-xs-4 grey-box"></div>
-    </b-col>
-  </b-row>
+        <p>
+          {{ description }}
+        </p>
+      </div>
+
+      <div class="s-video-player__ad-fixed">
+        <Ad :random="true"></Ad>
+
+        <div class="s-video-player__ad-fixed__box"/>
+      </div>
+
+      <div class="s-video-player__ad-fluid" />
+    </div>
+  </div>
 </template>
 
 <script>
@@ -61,34 +49,103 @@ export default {
 }
 </script>
 
-<style>
-.grey-box {
-  background-color: #e9ecef;
-  border-radius: 0.25rem;
-}
-
-.video-player__column-ad__bottom {
-  height: 190px;
-}
-
-@media all and (min-width: 992px) {
-  .video-player__column-ad {
-    max-width: 270px;
-    height: 100%;
+<style lang="scss">
+.s-video-player {
+  &__container {
   }
 
-  .video-player__column-ad__bottom {
-    height: 100%;
+  &__inner {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-column-gap: 1rem;
+    grid-row-gap: 1rem;
   }
-}
 
-@media all and (min-width: 1440px) {
-  .video-player__column-ad {
+  &__ad-fixed {
+    display: flex;
     flex-flow: column;
   }
 
-  .video-player__video {
-    width: 1024px;
+  &__ad-fixed__box {
+    display: none;
+  }
+
+  &__ad-fluid {
+    min-height: 5rem;
+    padding: 1rem;
+    background-color: #e9ecef;
+    border-radius: 0.25rem;
+  }
+
+  @media (min-width: 576px) {
+    &__inner {
+      grid-template-columns: 270px 1fr;
+    }
+
+    &__video {
+      grid-column: span 2;
+    }
+  }
+
+  @media (min-width: 768px) {
+    &__inner {
+      grid-template-columns: 1fr 200px;
+    }
+
+    &__video {
+      grid-column: span 1;
+    }
+
+    &__ad-fluid {
+      grid-column: span 2;
+    }
+
+    &__ad-fixed__box {
+      display: block;
+      height: 100%;
+      width: 100%;
+      margin-top: 1rem;
+      background-color: #e9ecef;
+      border-radius: 0.25rem;
+    }
+  }
+
+  @media (min-width: 768px) {
+    &__inner {
+      grid-template-columns: 1fr 200px;
+    }
+
+    &__video {
+      grid-column: span 1;
+    }
+
+    &__ad-fluid {
+      grid-column: span 2;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    &__inner {
+      grid-template-columns: 1fr 270px;
+    }
+
+    &__video {
+      grid-column: span 1;
+    }
+
+    &__ad-fluid {
+      grid-column: span 2;
+    }
+  }
+
+  @media (min-width: 1440px) {
+    &__inner {
+      grid-template-columns: 1024px 270px 1fr;
+    }
+
+    &__ad-fluid {
+      grid-column: span 1;
+    }
   }
 }
 </style>
