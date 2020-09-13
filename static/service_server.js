@@ -22,7 +22,6 @@ import amazon_documentdb from "./services/amazon_documentdb.json"
 import amazon_aurora from "./services/amazon_aurora.json"
 import amazon_timestream from "./services/amazon_timestream.json"
 import cloudendure_migration from "./services/cloudendure_migration.json"
-import amazon_keyspaces from "./services/amazon_keyspaces.json"
 import aws_migration_hub from "./services/aws_migration_hub.json"
 import application_discovery_service from "./services/application_discovery_service.json"
 import database_migration_service from "./services/database_migration_service.json"
@@ -189,7 +188,6 @@ const templates = {
   amazon_redshift,
   amazon_qldb,
   amazon_documentdb,
-  amazon_keyspaces,
   amazon_aurora,
   amazon_timestream,
   cloudendure_migration,

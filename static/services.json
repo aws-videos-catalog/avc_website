@@ -203,12 +203,6 @@
         "imgPng": "/Database/Amazon-DocumentDB-with-MongoDB-compatibility.png"
       },
       {
-        "name": "Amazon Keyspaces",
-        "description": "A scalable, highly available, and managed Apache Cassandra–compatible database service.",
-        "url": "https://aws.amazon.com/keyspaces/",
-        "img": ""
-      },
-      {
         "name": "Amazon Aurora",
         "description": "A scalable, highly available, and managed Apache Cassandra–compatible database service.",
         "url": "https://aws.amazon.com/keyspaces/",
