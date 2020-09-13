@@ -1,1 +1,128 @@
-[{"url":"https://www.youtube.com/watch?v=-rv78DsrpNY","thumbnail":"https://i.ytimg.com/vi/-rv78DsrpNY/hqdefault.jpg","title":"Example title1","date":"2020/06/19"},{"url":"https://www.youtube.com/watch?v=8RNRssCiR_E","thumbnail":"https://i.ytimg.com/vi/8RNRssCiR_E/hqdefault.jpg","title":"Example title2","date":"2020/06/17"},{"url":"https://www.youtube.com/watch?v=k8O9KJKSswM","thumbnail":"https://i.ytimg.com/vi/k8O9KJKSswM/hqdefault.jpg","title":"Example title3","date":"2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=abTy-Yyo6lI",
+        "thumbnail": "",
+        "title": "Introduction to Amazon Cognito - User Authentication and Mobile Data Service on AWS",
+        "date": "2014/07/10"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=bj3yVT6j3XU",
+        "thumbnail": "",
+        "title": "How do I authorize access to API Gateway APIs using custom scopes in Amazon Cognito?",
+        "date": "2019/10/29"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=BN3SBeqaq0g",
+        "thumbnail": "",
+        "title": "How do I set up Cognito's hosted UI?",
+        "date": "2019/01/10"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=TowcW1aTDqE",
+        "thumbnail": "",
+        "title": "Live Coding with AWS: API Authentication with Amazon Cognito",
+        "date": "2017/04/21"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=M6qTrI7kmZk",
+        "thumbnail": "",
+        "title": "Authenticating Serverless ASP.NET Core Web APP Using Amazon Cognito",
+        "date": "2018/11/21"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=g_6XP0AsBb0",
+        "thumbnail": "",
+        "title": "Amazon Cognito isn't delivering SMS messages to my app's users",
+        "date": "2020/02/21"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=LcD_-p1gCww",
+        "thumbnail": "",
+        "title": "Using AWS Cognito in your .Net Core App",
+        "date": "2018/11/21"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=GDkkDUnICrs",
+        "thumbnail": "",
+        "title": "How do I allow API users to run AWS Lambda with their Amazon Cognito permissions?",
+        "date": "2019/02/26"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=FKU3Ai1AzNM",
+        "thumbnail": "",
+        "title": "How do I set up OneLogin as a SAML identity provider with Amazon Cognito user pool?",
+        "date": "2020/06/24"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=E3VDZvPuS44",
+        "thumbnail": "",
+        "title": "How do I set up Okta as a SAML identity provider with an Amazon Cognito user pool?",
+        "date": "2020/07/07"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ruo-1XT9xVU",
+        "thumbnail": "",
+        "title": "Managing Identity and Securing Your Mobile and Web Applications with Amazon Cognito",
+        "date": "2017/09/11"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=G4cuZmDXRks",
+        "thumbnail": "",
+        "title": "Tech Bytes | Build a .NET Chatbot | Adding Authentication with Amazon Cognito",
+        "date": "2018/04/02"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=tTQ36qQF_vA",
+        "thumbnail": "",
+        "title": "AWS Solutions: Multi-Region Availability with Amazon DynamoDB, Amazon S3, and Amazon Cognito (LIVE)",
+        "date": "2020/01/13"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=NVKUQctvpUE",
+        "thumbnail": "",
+        "title": "How do I set up Auth0 as SAML identity provider with an Amazon Cognito user pool?",
+        "date": "2020/08/18"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=wpafE1hLvB8",
+        "thumbnail": "",
+        "title": "How to Build a .NET Chatbot with Amazon Lex, AWS Lambda, and Amazon Cognito Identity",
+        "date": "2018/11/21"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=yOQmpfRxJ00",
+        "thumbnail": "",
+        "title": "AWS re:Invent Launchpad 2017 - Cognito Frontline & Adaptive Authentication",
+        "date": "2017/12/08"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=JT2xOYOdUvM",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2015 | (GAM401) Build a Serverless Mobile Game with Amazon Cognito, Lambda & DynamoDB",
+        "date": "2015/10/09"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=jX6pEWf344I",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2015 | (MBL402) Mobile Identity Management & Data Sync Using Amazon Cognito",
+        "date": "2015/10/21"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=vcDExCBHDP8",
+        "thumbnail": "",
+        "title": "Live with AM & Nicki - Secure Your API with Amazon Cognito",
+        "date": "2018/10/24"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=EB226VmI2vQ",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017: Implement User Onboarding, Sign-Up, and Sign-In for Mobile and W (MBL305)",
+        "date": "2017/11/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=uoZ3l0CG4uw",
+        "thumbnail": "",
+        "title": "How do I modify the attributes of a User Pool after creation?",
+        "date": "2019/08/12"
+    }   
+]
