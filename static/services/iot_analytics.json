@@ -1,1 +1,80 @@
-[{"url":"https://www.youtube.com/watch?v=-rv78DsrpNY","thumbnail":"https://i.ytimg.com/vi/-rv78DsrpNY/hqdefault.jpg","title":"Example title1","date":"2020/06/19"},{"url":"https://www.youtube.com/watch?v=8RNRssCiR_E","thumbnail":"https://i.ytimg.com/vi/8RNRssCiR_E/hqdefault.jpg","title":"Example title2","date":"2020/06/17"},{"url":"https://www.youtube.com/watch?v=k8O9KJKSswM","thumbnail":"https://i.ytimg.com/vi/k8O9KJKSswM/hqdefault.jpg","title":"Example title3","date":"2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=cYD0OU8Jdws",
+        "thumbnail": "",
+        "title": "AWS IoT Analytics - How It Works",
+        "date": "2018/04/24"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=FH_CP-sffp8",
+        "thumbnail": "",
+        "title": "Automating AWS IoT Analytics",
+        "date": "2018/04/10"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Ky3cgNluM0c",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2016: IoT Analytics: Insights for a Connected World (IOT205)",
+        "date": "2016/12/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Wq79P_06JkI",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: Customer Showcase for AWS IoT Analytics (IOT219)",
+        "date": "2018/11/28"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=P0L3HC58Uko",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017: How EuroLeague Basketball Uses IoT Analytics to Engage Fans (ABD218)",
+        "date": "2017/11/29"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=zHSEnKb69go",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017 - AGT Uses Amazon Kinesis for IoT Analytics",
+        "date": "2017/12/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=xzqXahqAjiM",
+        "thumbnail": "",
+        "title": "AWS at 2018 SINGAPORE FINTECH FESTIVAL - Cloud computing IOT Analytics",
+        "date": "2018/11/26"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=XTUNOqjqnUU",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017: NEW LAUNCH! Introducing AWS IoT Analytics (IOT214)",
+        "date": "2017/12/02"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=DWLCP2nBG2Y",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017: NEW LAUNCH! AWS IoT Analytics from Consumer IoT to Industrial Io (IOT211)",
+        "date": "2017/12/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=I-tynkaNg9Y",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2018: [REPEAT 1] Operationalizing Your Analysis with AWS IoT Analytics (IOT358-R1)",
+        "date": "2018/11/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=uc2RAvyrRCE",
+        "thumbnail": "",
+        "title": "AWS re:Invent Launchpad 2017 - AWS IoT Analytics",
+        "date": "2017/12/08"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=vataVq9gY_o",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017 - Mati Kochavi Showcases How AWS Powers HEED’s IoT Analytics Capabilities",
+        "date": "2017/12/05"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=k-h62-L2bns",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: What's new with AWS IoT analytics services? (IOT208)",
+        "date": "2019/12/04"
+    }
+]
