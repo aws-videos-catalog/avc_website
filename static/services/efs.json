@@ -1,1 +1,92 @@
-[{"url":"https://www.youtube.com/watch?v=4FQvJ2q6_oA","thumbnail":"https://i.ytimg.com/vi/4FQvJ2q6_oA/hqdefault.jpg","title":"AWS re:Invent 2018: [REPEAT 1] Deep Dive on Amazon Elastic File System (Amazon EFS) (STG301-R1)","date":"2018/11/30"},{"url":"https://www.youtube.com/watch?v=k8Udnqlp9iQ","thumbnail":"https://i.ytimg.com/vi/k8Udnqlp9iQ/hqdefault.jpg","title":"AWS re:Invent 2018: How Amazon EFS Infrequent Access Optimizes File System Costs (STG327)","date":"2018/12/12"},{"url":"https://www.youtube.com/watch?v=lMRVg2f380Y","thumbnail":"https://i.ytimg.com/vi/lMRVg2f380Y/hqdefault.jpg","title":"AWS re:Invent 2015 | (STG306) EFS Update","date":"2015/10/12"},{"url":"https://www.youtube.com/watch?v=VffbHp34UzQ","thumbnail":"https://i.ytimg.com/vi/VffbHp34UzQ/hqdefault.jpg","title":"AWS re:Invent 2017: Deep Dive on Amazon Elastic File System (Amazon EFS) (STG307)","date":"2017/11/29"},{"url":"https://www.youtube.com/watch?v=gidUa4lJd9Y","thumbnail":"https://i.ytimg.com/vi/gidUa4lJd9Y/hqdefault.jpg","title":"AWS re:Invent 2018: What's New in Amazon S3, Amazon EFS, Amazon EBS, & more (STG213-L)","date":"2018/11/30"},{"url":"https://www.youtube.com/watch?v=N-4d5Su9s74","thumbnail":"https://i.ytimg.com/vi/N-4d5Su9s74/hqdefault.jpg","title":"AWS re:Invent 2016: Case Study: How Monsanto Uses Amazon EFS with Geospatial Data Sets (STG208)","date":"2016/12/03"},{"url":"https://www.youtube.com/watch?v=IbB-3-kP2_M","thumbnail":"https://i.ytimg.com/vi/IbB-3-kP2_M/hqdefault.jpg","title":"AWS re:Invent 2017: Case Study: Learn How Thomson Reuters Uses Amazon EFS to Deliver (STG315)","date":"2017/12/01"},{"url":"https://www.youtube.com/watch?v=s4ptjYf22fA","thumbnail":"https://i.ytimg.com/vi/s4ptjYf22fA/hqdefault.jpg","title":"AWS re:Invent 2017: Live Demo: Accelerating Data Movement into Amazon EFS (DEM78)","date":"2017/11/30"},{"url":"https://www.youtube.com/watch?v=slQsYL2ar1c","thumbnail":"https://i.ytimg.com/vi/slQsYL2ar1c/hqdefault.jpg","title":"AWS re:Invent 2016: Case Study: How Atlassian Uses Amazon EFS with JIRA to Cut Costs (STG207)","date":"2016/12/03"},{"url":"https://www.youtube.com/watch?v=_Fgxl52OZes","thumbnail":"https://i.ytimg.com/vi/_Fgxl52OZes/hqdefault.jpg","title":"Amazon EFS","date":"2018/11/30"},{"url":"https://www.youtube.com/watch?v=hzialJerb5o","thumbnail":"https://i.ytimg.com/vi/hzialJerb5o/hqdefault.jpg","title":"AWS re:Invent 2016: Case Study: Spokeo Improved Web Application Response Times with EFS (STG206)","date":"2016/12/02"},{"url":"https://www.youtube.com/watch?v=PlTuJx4VnGw","thumbnail":"https://i.ytimg.com/vi/PlTuJx4VnGw/hqdefault.jpg","title":"AWS re:Invent 2016: Deep Dive on Amazon Elastic File System (STG202)","date":"2016/12/02"},{"url":"https://www.youtube.com/watch?v=FJlHXBcDJiw","thumbnail":"https://i.ytimg.com/vi/FJlHXBcDJiw/hqdefault.jpg","title":"Amazon EFS: Secure data persistence with Amazon ECS and AWS Fargate","date":"2020/05/20"},{"url":"https://www.youtube.com/watch?v=pCbDfTKry-c","thumbnail":"https://i.ytimg.com/vi/pCbDfTKry-c/hqdefault.jpg","title":"AWS re:Invent 2019: [REPEAT] Network file system (NFS) evolved: Deep dive on Amazon EFS (STG304-R)","date":"2019/12/13"},{"url":"https://www.youtube.com/watch?v=cc_me0l0PfA","thumbnail":"https://i.ytimg.com/vi/cc_me0l0PfA/hqdefault.jpg","title":"AWS re:Invent 2019: Securing Amazon EFS for container and data science applications (STG364)","date":"2019/12/04"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=4FQvJ2q6_oA",
+        "thumbnail": "https://i.ytimg.com/vi/4FQvJ2q6_oA/hqdefault.jpg",
+        "title": "AWS re:Invent 2018: [REPEAT 1] Deep Dive on Amazon Elastic File System (Amazon EFS) (STG301-R1)",
+        "date": "2018/11/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=k8Udnqlp9iQ",
+        "thumbnail": "https://i.ytimg.com/vi/k8Udnqlp9iQ/hqdefault.jpg",
+        "title": "AWS re:Invent 2018: How Amazon EFS Infrequent Access Optimizes File System Costs (STG327)",
+        "date": "2018/12/12"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=lMRVg2f380Y",
+        "thumbnail": "https://i.ytimg.com/vi/lMRVg2f380Y/hqdefault.jpg",
+        "title": "AWS re:Invent 2015 | (STG306) EFS Update",
+        "date": "2015/10/12"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=VffbHp34UzQ",
+        "thumbnail": "https://i.ytimg.com/vi/VffbHp34UzQ/hqdefault.jpg",
+        "title": "AWS re:Invent 2017: Deep Dive on Amazon Elastic File System (Amazon EFS) (STG307)",
+        "date": "2017/11/29"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=gidUa4lJd9Y",
+        "thumbnail": "https://i.ytimg.com/vi/gidUa4lJd9Y/hqdefault.jpg",
+        "title": "AWS re:Invent 2018: What's New in Amazon S3, Amazon EFS, Amazon EBS, & more (STG213-L)",
+        "date": "2018/11/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=N-4d5Su9s74",
+        "thumbnail": "https://i.ytimg.com/vi/N-4d5Su9s74/hqdefault.jpg",
+        "title": "AWS re:Invent 2016: Case Study: How Monsanto Uses Amazon EFS with Geospatial Data Sets (STG208)",
+        "date": "2016/12/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=IbB-3-kP2_M",
+        "thumbnail": "https://i.ytimg.com/vi/IbB-3-kP2_M/hqdefault.jpg",
+        "title": "AWS re:Invent 2017: Case Study: Learn How Thomson Reuters Uses Amazon EFS to Deliver (STG315)",
+        "date": "2017/12/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=s4ptjYf22fA",
+        "thumbnail": "https://i.ytimg.com/vi/s4ptjYf22fA/hqdefault.jpg",
+        "title": "AWS re:Invent 2017: Live Demo: Accelerating Data Movement into Amazon EFS (DEM78)",
+        "date": "2017/11/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=slQsYL2ar1c",
+        "thumbnail": "https://i.ytimg.com/vi/slQsYL2ar1c/hqdefault.jpg",
+        "title": "AWS re:Invent 2016: Case Study: How Atlassian Uses Amazon EFS with JIRA to Cut Costs (STG207)",
+        "date": "2016/12/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=_Fgxl52OZes",
+        "thumbnail": "https://i.ytimg.com/vi/_Fgxl52OZes/hqdefault.jpg",
+        "title": "Amazon EFS",
+        "date": "2018/11/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=hzialJerb5o",
+        "thumbnail": "https://i.ytimg.com/vi/hzialJerb5o/hqdefault.jpg",
+        "title": "AWS re:Invent 2016: Case Study: Spokeo Improved Web Application Response Times with EFS (STG206)",
+        "date": "2016/12/02"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=PlTuJx4VnGw",
+        "thumbnail": "https://i.ytimg.com/vi/PlTuJx4VnGw/hqdefault.jpg",
+        "title": "AWS re:Invent 2016: Deep Dive on Amazon Elastic File System (STG202)",
+        "date": "2016/12/02"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=FJlHXBcDJiw",
+        "thumbnail": "https://i.ytimg.com/vi/FJlHXBcDJiw/hqdefault.jpg",
+        "title": "Amazon EFS: Secure data persistence with Amazon ECS and AWS Fargate",
+        "date": "2020/05/20"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=pCbDfTKry-c",
+        "thumbnail": "https://i.ytimg.com/vi/pCbDfTKry-c/hqdefault.jpg",
+        "title": "AWS re:Invent 2019: [REPEAT] Network file system (NFS) evolved: Deep dive on Amazon EFS (STG304-R)",
+        "date": "2019/12/13"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=cc_me0l0PfA",
+        "thumbnail": "https://i.ytimg.com/vi/cc_me0l0PfA/hqdefault.jpg",
+        "title": "AWS re:Invent 2019: Securing Amazon EFS for container and data science applications (STG364)",
+        "date": "2019/12/04"
+    }
+]
