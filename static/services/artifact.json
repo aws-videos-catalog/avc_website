@@ -1,1 +1,50 @@
-[{"url":"https://www.youtube.com/watch?v=-rv78DsrpNY","thumbnail":"https://i.ytimg.com/vi/-rv78DsrpNY/hqdefault.jpg","title":"Example title1","date":"2020/06/19"},{"url":"https://www.youtube.com/watch?v=8RNRssCiR_E","thumbnail":"https://i.ytimg.com/vi/8RNRssCiR_E/hqdefault.jpg","title":"Example title2","date":"2020/06/17"},{"url":"https://www.youtube.com/watch?v=k8O9KJKSswM","thumbnail":"https://i.ytimg.com/vi/k8O9KJKSswM/hqdefault.jpg","title":"Example title3","date":"2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=ILEoLqpbfXM",
+        "thumbnail": "",
+        "title": "Get to know AWS Artifact",
+        "date": "2018/11/23"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=O307zdIOmWo",
+        "thumbnail": "",
+        "title": "Learn How to Use AWS Artifact to Retrieve Your Compliance Reports",
+        "date": "2016/12/20"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=qXFWmuexKNo",
+        "thumbnail": "",
+        "title": "How can I download and share AWS Artifact documents?",
+        "date": "2020/07/06"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=qcU4c5REkTI",
+        "thumbnail": "",
+        "title": "How to Use AWS Artifact to Accept an Agreement for Your Account",
+        "date": "2018/07/17"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=RGbRF3sN2wQ",
+        "thumbnail": "",
+        "title": "Using Binary Repository Management",
+        "date": "2019/02/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=rss0CJ0bw40",
+        "thumbnail": "",
+        "title": "Step-by-Step: Use AWS Artifact to Accept Agreements for Multiple Accounts in Your Org",
+        "date": "2018/07/17"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=5WdSkA39pv4",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2016: Encoding Artifacts to Emmy Awards: Taking on 4K Video Processing (ARC406)",
+        "date": "2016/12/03"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=heMpwts3Rdk",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2017: Encoding Artifacts to the Oscars: Taking on Terabyte-Scale, 1-Gb (ARC403)",
+        "date": "2017/12/01"
+    }   
+]
