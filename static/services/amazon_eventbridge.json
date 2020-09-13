@@ -1,1 +1,62 @@
-[{"url":"https://www.youtube.com/watch?v=-rv78DsrpNY","thumbnail":"https://i.ytimg.com/vi/-rv78DsrpNY/hqdefault.jpg","title":"Example title1","date":"2020/06/19"},{"url":"https://www.youtube.com/watch?v=8RNRssCiR_E","thumbnail":"https://i.ytimg.com/vi/8RNRssCiR_E/hqdefault.jpg","title":"Example title2","date":"2020/06/17"},{"url":"https://www.youtube.com/watch?v=k8O9KJKSswM","thumbnail":"https://i.ytimg.com/vi/k8O9KJKSswM/hqdefault.jpg","title":"Example title3","date":"2020/06/18"}]
+[
+    {
+        "url": "https://www.youtube.com/watch?v=TXh5oU_yo9M",
+        "thumbnail": "",
+        "title": "Intro to Amazon EventBridge",
+        "date": "2020/02/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ea9SCYDJIm4",
+        "thumbnail": "",
+        "title": "How To Get Started With Amazon EventBridge",
+        "date": "2020/02/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=tvELVa9D9qU",
+        "thumbnail": "",
+        "title": "AWS New York Summit 2019: Intro to Event-driven Architectures and Amazon EventBridge (MAD205)",
+        "date": "2019/07/23"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=-Nv-Gejpkhc",
+        "thumbnail": "",
+        "title": "How To Set Up A Custom Event Bus With Amazon EventBridge",
+        "date": "2020/02/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=54VU9x7qGhQ",
+        "thumbnail": "",
+        "title": "How to Use Amazon EventBridge Schema Registry",
+        "date": "2020/02/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=3-cR1Ga-7zQ",
+        "thumbnail": "",
+        "title": "Introducing Amazon EventBridge",
+        "date": "2019/07/29"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=NakNmzsN6LI",
+        "thumbnail": "",
+        "title": "Amazon EventBridge: Integrating with Zendesk",
+        "date": "2020/02/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=KAlSXOjsRg8",
+        "thumbnail": "",
+        "title": "Amazon EventBridge: Integrating with PagerDuty",
+        "date": "2020/02/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=2kVHoB8V0U8",
+        "thumbnail": "",
+        "title": "Amazon EventBridge: Integrating with Auth0",
+        "date": "2020/02/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Hih-bF8qYgU",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2019: [NEW LAUNCH!] Building event-driven architectures w/ Amazon EventBridge (API320)",
+        "date": "2019/12/12"
+    }
+]
