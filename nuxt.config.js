@@ -63,7 +63,8 @@ export default {
     ['@nuxtjs/component-cache', { maxAge: 1000 * 60 * 5 }],
     'bootstrap-vue/nuxt',
     '@nuxtjs/robots',
-    '@nuxtjs/sitemap'
+    '@nuxtjs/sitemap',
+    '@nuxtjs/pwa'
   ],
   robots: {
     UserAgent: '*',
@@ -78,6 +79,13 @@ export default {
       return appPagesUrls
     }
   },
+
+  manifest: {
+    name: 'AWS Video Catalog',
+    short_name: 'AVC Website',
+    lang: 'en',
+  },
+
   /*
   ** Build configuration
   */
