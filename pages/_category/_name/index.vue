@@ -23,24 +23,13 @@
 </template>
 
 <script>
-//
-//  Importing necessary components
-//
-import getService from '~/static/service_server.js'
-import get_actual_details from '~/custom_modules/get_actual_details'
 import SmallVideo from '~/components/SmallVideo.vue'
 import BreadCrumb from '~/components/BreadCrumb.vue'
 import { formatVideo } from '~/utils/videos'
 import VideoPreview from '@/components/general/VideoPreview/index'
-
-// HELPER FUNCTIONS
-
-//
-//  A function to remove given element from array
-//
-function remove(array, element) {
-  return array.filter(el => el !== element);
-}
+import categories from '~/static/database/categories/index.json'
+import services from '~/static/database/categories/services/index.json'
+import { caseTitleToSnake } from '~/utils/text'
 
 export default {
   layout: "default",
@@ -50,52 +39,48 @@ export default {
     BreadCrumb
   },
   asyncData({route,error}){
+    const categorySlug = route.params.category
+    const category = categories[categorySlug]
+    const categoryServices = services[route.params.category]
 
-    //
-    //  1.  Create an array of nested routes by splitting current path by '/'
-    //
-
-    let text = '';
-    let main_video;
-    let actual_details = get_actual_details(route.params.category,route.params.name)
-    //
-    //  2.  Instead of using asyncData, sorting data before passing it to data()
-    //      so it's easy to pick the main video which would be the first in the sorted list.
-    //
-    let service_data = getService(route.params.name)
-
-    //
-    //  3.  If no service_data can be found, that means a wrong service_name was given,
-    //      return error.
-    //
-    if(!service_data){
-      return error({statusCode:404,message:'Page not Found'})
+    if (!category || !categoryServices) {
+      return error({
+        statusCode: 404,
+        message: 'Page not Found'
+      })
     }
 
-    let sorted_data = service_data.sort(function(a,b){
+    const serviceSlug = route.params.name
+    const service = categoryServices.find((service) => caseTitleToSnake(service.name) === serviceSlug)
 
-      //
-      //  1.  Turn your strings into dates, and then subtract them
-      //      to get a value that is either negative, positive, or zero.
-      //
+    if (!service) {
+      return error({
+        statusCode: 404,
+        message: 'Page not Found'
+      })
+    }
+
+    const videos = require(`~/static/database/categories/services/videos/${route.params.name}`)
+
+    if (!videos) {
+      return error({
+        statusCode: 404,
+        message: 'Page not Found'
+      })
+    }
+
+    const sortedVideos = videos.sort(function sortVideosByDate (a, b){
       return new Date(b.date) - new Date(a.date);
+    }).map(formatVideo)
 
-    }).map(formatVideo);
-
-    //
-    //  4.  If there isn't a video id given in query params, return the first
-    //      video from sorted dataset.
-    //
-
-    return{
+    return {
       name: route.params.name,
-      service_data: sorted_data,
-      title: text,
-      category_name: actual_details.category_details.name,
-      description: actual_details.service_details.description,
-      img: actual_details.service_details.img,
-      imgPng: actual_details.service_details.imgPng,
-      service_name: actual_details.service_details.name
+      service_data: sortedVideos,
+      category_name: category.name,
+      description: service.description,
+      img: service.img,
+      imgPng: service.imgPng,
+      service_name: service.name
     }
   },
   computed:{

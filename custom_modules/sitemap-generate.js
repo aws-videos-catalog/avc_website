@@ -1,26 +1,23 @@
 import fs from 'fs'
 import { getYoutubeIdFromVideoLink } from '../utils/videos'
-import getService from '../static/service_server'
-
-function nameToSnakeCase (name) {
-  return name.split(' ').join('_').toLowerCase()
-}
+import services from '../static/database/categories/services/index.json'
+import { caseTitleToSnake } from '../utils/text'
 
 /**
  * Read & parse services list
  * @param path
  * @returns {{}|any}
  */
-function loadServicesSettings (path) {
+function loadStaticJson (path) {
   try {
-    const servicesJson = fs.readFileSync(path)
+    const jsonFile = fs.readFileSync(path)
 
-    const services = JSON.parse(servicesJson)
+    const parsed = JSON.parse(jsonFile)
 
-    return services
+    return parsed
   } catch (err) {
     console.error(err)
-    return {}
+    return null
   }
 }
 
@@ -43,17 +40,17 @@ function generateServiceVideosPaths (videosData, servicePath) {
 /**
  * Get URL path for every service for provided category
  * @param servicesData
- * @param categoryPath
+ * @param categoryName
  * @returns {*}
  */
-function generateCategoryServicesPaths (servicesData, categoryPath) {
+function generateCategoryServicesPaths (servicesData, categoryName) {
   return servicesData.reduce(
     (result, service
     ) => {
-      const serviceName = nameToSnakeCase(service.name)
-      const servicePath = `${categoryPath}/${serviceName}`
+      const serviceSlug = caseTitleToSnake(service.name)
+      const servicePath = `/${categoryName}/${serviceSlug}`
+      const serviceVideosData = loadStaticJson(`./static/database/categories/services/videos/${serviceSlug}.json`)
 
-      const serviceVideosData = getService(serviceName)
       const serviceVideosPaths = serviceVideosData ? generateServiceVideosPaths(serviceVideosData, servicePath) : []
 
       return [
@@ -69,14 +66,13 @@ function generateCategoryServicesPaths (servicesData, categoryPath) {
  * @returns {*[]}
  */
 export function routesGenerate () {
-  const services = loadServicesSettings('./static/services.json')
+  const categories = loadStaticJson('./static/database/categories/index.json')
 
-  return Object.keys(services).reduce((result, categoryName) => {
-    const categoryPath = `/${nameToSnakeCase(categoryName)}`
+  return Object.keys(categories).reduce((result, categorySlug) => {
+    const categoryPath = `/${categorySlug}`
 
-    const categoryServicesData = services[categoryName].data || []
-
-    const categoryServicesPaths = generateCategoryServicesPaths(categoryServicesData, categoryPath)
+    const categoryServices = services[categorySlug]
+    const categoryServicesPaths = generateCategoryServicesPaths(categoryServices, categorySlug)
 
     return [
       ...result,
