@@ -80,10 +80,12 @@ export default {
     }
   },
 
-  manifest: {
-    name: 'AWS Video Catalog',
-    short_name: 'AVC Website',
-    lang: 'en',
+  pwa: {
+    manifest: {
+      name: 'AWS Video Catalog',
+      short_name: 'AVC Website',
+      lang: 'en',
+    }
   },
 
   /*
