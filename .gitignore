@@ -110,3 +110,6 @@ david_notes.txt
 
 # IDE settings
 .idea
+
+# Service workers generated files
+sw.*
