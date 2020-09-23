@@ -29,9 +29,6 @@ export default {
         'propery':'og:locale',
         'content':'en_US'
       }
-    ],
-    link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
   /*
@@ -78,6 +75,12 @@ export default {
     routes (){
       return appPagesUrls
     }
+  },
+
+  pwa: {
+    icon: {
+      source: './static/logo.jpg',
+    },
   },
 
   manifest: {
