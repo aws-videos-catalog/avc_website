@@ -81,12 +81,12 @@ export default {
     icon: {
       source: './static/logo.jpg',
     },
-  },
 
-  manifest: {
-    name: 'AWS Video Catalog',
-    short_name: 'AVC Website',
-    lang: 'en',
+    manifest: {
+      name: 'AWS Video Catalog',
+      short_name: 'AVC Website',
+      lang: 'en',
+    }
   },
 
   /*

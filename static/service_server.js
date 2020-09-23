@@ -315,7 +315,7 @@ const templates = {
   amazon_chime,
   workmail,
   workspaces,
-  appstream_2,
+  'appstream_2.0': appstream_2,
   workdocs,
   worklink,
   iot_core,
