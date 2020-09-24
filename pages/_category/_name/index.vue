@@ -2,19 +2,21 @@
   <div class="listing-container mx-5">
     <bread-crumb/>
 
-    <section-video-player
-      :video="main_video"
-      :description="description"
-    />
-
     <hr/>
     <b-row v-for="data in data_by_years" :key="data.year">
       <h3 style="padding-left:15px;width:100vw;">{{data.year}}</h3>
-      <div style="padding-left:15px" v-for="(video,i) in data.videos" :key="'video_'+i">
-        <small-video
+      <b-col
+        sm="6"
+        md="4"
+        lg="3"
+        xl="2"
+        v-for="(video,i) in data.videos"
+        :key="'video_'+i"
+      >
+        <video-preview
           :video="video"
         />
-      </div>
+      </b-col>
     </b-row>
     <hr class="height:1px"></hr>
   </div>
@@ -28,8 +30,8 @@ import getService from '~/static/service_server.js'
 import get_actual_details from '~/custom_modules/get_actual_details'
 import SmallVideo from '~/components/SmallVideo.vue'
 import BreadCrumb from '~/components/BreadCrumb.vue'
-import SectionVideoPlayer from '~/components/sections/video/SectionVideoPlayer'
 import { formatVideo } from '~/utils/videos'
+import VideoPreview from '@/components/general/VideoPreview/index'
 
 // HELPER FUNCTIONS
 
@@ -43,7 +45,7 @@ function remove(array, element) {
 export default {
   layout: "default",
   components:{
-    SectionVideoPlayer,
+    VideoPreview,
     SmallVideo,
     BreadCrumb
   },
@@ -84,13 +86,11 @@ export default {
     //  4.  If there isn't a video id given in query params, return the first
     //      video from sorted dataset.
     //
-    main_video = sorted_data[0]
 
     return{
       name: route.params.name,
       service_data: sorted_data,
       title: text,
-      main_video: main_video,
       category_name: actual_details.category_details.name,
       description: actual_details.service_details.description,
       img: actual_details.service_details.img,
