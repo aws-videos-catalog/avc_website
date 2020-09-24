@@ -53,6 +53,12 @@ export default {
             }).href
           })
         }
+
+        if (params.video) {
+          crumbs.push({
+            text: params.video
+          })
+        }
       }
 
       return crumbs
