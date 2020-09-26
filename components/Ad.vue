@@ -21,7 +21,7 @@
 </template>
 
 <script>
-import ads from '~/static/ads.json'
+import ads from '~/static/products/index.json'
 export default {
   props:{
     adOrder:{

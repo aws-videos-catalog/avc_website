@@ -7,3 +7,11 @@ export function caseSnakeToTitle (snakeCaseWords) {
 
   return capitalizeWords(words.join(' '))
 }
+
+export function caseTitleToSnake (titleCaseWords) {
+  if (!titleCaseWords) {
+    return ''
+  }
+
+  return titleCaseWords.split(' ').join('_').toLowerCase()
+}

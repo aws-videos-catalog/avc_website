@@ -21,34 +21,13 @@
 </template>
 
 <script>
-//
-//  Importing necessary components
-//
-import getService from '~/static/service_server.js'
-import get_actual_details from '~/custom_modules/get_actual_details'
 import SmallVideo from '~/components/SmallVideo.vue'
 import BreadCrumb from '~/components/BreadCrumb.vue'
 import SectionVideoPlayer from '~/components/sections/video/SectionVideoPlayer'
 import { formatVideo } from '~/utils/videos'
-
-// HELPER FUNCTIONS
-
-let capitalize_reducer = (current_val,prev_val)=>{
-  //
-  //  Capitalize both current and previous value,
-  //  return a string which adds them both.
-  //
-  let capitalized_prev_val = String(prev_val[0]).toUpperCase() + prev_val.slice(1)
-  let capitalized_val = String(current_val[0]).toUpperCase() + current_val.slice(1)
-  return capitalized_val + ' ' + capitalized_prev_val
-}
-
-//
-//  A function to remove given element from array
-//
-function remove(array, element) {
-  return array.filter(el => el !== element);
-}
+import categories from 'static/database/categories'
+import services from 'static/database/categories/services'
+import { caseTitleToSnake } from '@/utils/text'
 
 export default {
   layout: "default",
@@ -57,99 +36,62 @@ export default {
     SmallVideo,
     BreadCrumb
   },
-  asyncData({route,error}){
+  asyncData({ route, error }){
+    const categorySlug = route.params.category
+    const category = categories[categorySlug]
+    const categoryServices = services[route.params.category]
 
-    //
-    //  1.  Create an array of nested routes by splitting current path by '/'
-    //
-
-    let current_service = route.params.name
-    let text = '';
-    let temporary = current_service.split('_')
-    let main_video;
-    let actual_details = get_actual_details(route.params.category,route.params.name)
-
-    //
-    //  2.  If value can be splitted via '_' that means it has spaces
-    //      so we revert that value back to it's original string.
-    //      e.g. tolga_oguz --> Tolga Oğuz
-    //
-    if(temporary.length>1)
-    {
-      //
-      //  1.  Create a string by capitalizing each word in the temporary array
-      //      which would give us the original string
-      //
-      text = temporary.reduce(capitalize_reducer)
-    }else{
-      //
-      //  1.  If service name is only one word, then we just want to capitalize it
-      //
-      text = current_service.charAt(0).toUpperCase() + current_service.substring(1)
-    }
-    //
-    //  3.  Instead of using asyncData, sorting data before passing it to data()
-    //      so it's easy to pick the main video which would be the first in the sorted list.
-    //
-    let service_data = getService(route.params.name)
-
-    if(!service_data){
-      return error({statusCode:404,message:'Page not Found'})
+    if (!category || !categoryServices) {
+      return error({
+        statusCode: 404,
+        message: 'Page not Found'
+      })
     }
 
-    let sorted_data = service_data.sort(function(a,b){
+    const serviceSlug = route.params.name
+    const service = categoryServices.find((service) => caseTitleToSnake(service.name) === serviceSlug)
 
-      //
-      //  1.  Turn your strings into dates, and then subtract them
-      //      to get a value that is either negative, positive, or zero.
-      //
+    if (!service) {
+      return error({
+        statusCode: 404,
+        message: 'Page not Found'
+      })
+    }
+
+    const videos = require(`~/static/database/categories/services/videos/${route.params.name}`)
+
+    if (!videos) {
+      return error({
+        statusCode: 404,
+        message: 'Page not Found'
+      })
+    }
+
+    const sortedVideos = videos.sort(function sortVideosByDate (a, b){
       return new Date(b.date) - new Date(a.date);
+    }).map(formatVideo)
 
-    }).map(formatVideo);
+    const mainVideo = sortedVideos.find((video) => video.id === route.params.video)
 
-    //
-    //  4.  Get the main video id from URL if it's given,
-    //      else return the first video from sorted dataset
-    //
-    if(route.params.video){
-      //
-      //  1.  Get video id from query params
-      //
-      let video_id = route.params.video
-
-      //
-      //  2.  Create an array of all video_ids so it's easier to find the index
-      //
-      let all_video_ids = sorted_data.map(video => video.id)
-
-      //
-      //  3.  Find the index of current video, given its id
-      //
-      let index = all_video_ids.indexOf(video_id)
-
-      //
-      //  4.  Return the main_video if index is found
-      //
-      if(index===-1)
-      {
-        error({statusCode:404,message:'Page not Found'})
-      }
-
-      main_video = sorted_data[index]
-
+    if (!mainVideo) {
+      return error({
+        statusCode: 404,
+        message: 'Page not Found'
+      })
     }
-    return{
+
+    return {
       name: route.params.name,
-      service_data: sorted_data,
-      title: text,
-      main_video: main_video,
-      category_name: actual_details.category_details.name,
-      description: actual_details.service_details.description,
-      img: actual_details.service_details.img,
-      imgPng: actual_details.service_details.imgPng,
-      service_name: actual_details.service_details.name
+      service_data: sortedVideos,
+      main_video: mainVideo,
+      category_name: category.name,
+      description: service.description,
+      img: service.img,
+      imgPng: service.imgPng,
+      service_name: service.name
     }
   },
+
   computed:{
     data_by_years: function(){
       //

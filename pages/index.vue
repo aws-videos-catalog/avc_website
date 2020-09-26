@@ -16,28 +16,17 @@
 <script>
 
 import Listing from '~/components/Listing.vue'
-// import services.json file from static folder
-import services from '~/static/services.json'
+import services from '~/static/database/categories/index.json'
 
 export default {
   layout: "default",
   components: {
     Listing
   },
-  asyncData(){
-    //
-    //  1.  Retrieve category details by mapping all the objects in services JSON.
-    //
-    let category_data = Object.entries(services).map(([category, category_data])=>{
-      return {
-        name: category_data.info.name,
-        description: category_data.info.description,
-        img: category_data.info.img,
-        imgPng: category_data.info.imgPng
-      }
-    })
-    return{
-      categories:category_data
+
+  asyncData (){
+    return {
+      categories: Object.values(services)
     }
   },
 
