@@ -24,7 +24,7 @@
         <nuxt-link class="service my-2" :to="links[idx]+'/'" append component="div">
           <b-card
             :title="item.name"
-            :img-src="item.img ? '/aws/svg/SVG Light'+item.img : '/aws/svg/SVG Light/_Group Icons/AWS-Cloud-alt_light-bg.svg'"
+            :img-src="item.img ? '/images/aws/svg/SVG Light'+item.img : '/images/aws/svg/SVG Light/_Group Icons/AWS-Cloud-alt_light-bg.svg'"
             img-alt="Image"
             img-top
             class="service-listings__card"
@@ -41,7 +41,7 @@
 
 <script>
   import Ad from '~/components/Ad.vue'
-  import ads from '~/static/ads.json'
+  import ads from '~/static/products/index.json'
 
   //
   //  1.  Defining a new property which would shuffle an array

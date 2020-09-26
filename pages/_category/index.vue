@@ -53,7 +53,7 @@ export default {
     return this.$generateHead.generate({
       title: this.category.name,
       description: this.category.description,
-      image: `https://awsvideocatalog.com/aws/png/PNG Light${this.category.imgPng}`,
+      image: `https://awsvideocatalog.com/images/aws/png/PNG Light${this.category.imgPng}`,
       route: this.$route
     })
   }

@@ -144,7 +144,7 @@ export default {
     return this.$generateHead.generate({
       title: this.service_name + ' - ' + this.category_name,
       description: this.description,
-      image: `https://awsvideocatalog.com/aws/png/PNG Light${this.imgPng}`,
+      image: `https://awsvideocatalog.com/images/aws/png/PNG Light${this.imgPng}`,
       route: this.$route
     })
   }
