@@ -29,9 +29,6 @@ export default {
         'propery':'og:locale',
         'content':'en_US'
       }
-    ],
-    link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
   /*
@@ -81,6 +78,10 @@ export default {
   },
 
   pwa: {
+    icon: {
+      source: './assets/images/logo.jpg',
+    },
+
     manifest: {
       name: 'AWS Video Catalog',
       short_name: 'AVC Website',
