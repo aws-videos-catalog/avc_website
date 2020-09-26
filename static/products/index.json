@@ -1,18 +1,18 @@
 [
   {
-    "img": "/products/rsyslog.jpg",
+    "img": "/images/products/rsyslog.jpg",
     "title": "Rsyslog Server",
     "description": "Stream logs for remote debugging over HTTPS.",
     "url": "https://aws.amazon.com/marketplace/pp/B07YN9CCV4/?ref=_ptnr_avc"
   },
   {
-    "img": "/products/vpn.jpg",
+    "img": "/images/products/vpn.jpg",
     "title": "OpenVPN Server",
     "description": "Unlimited Connected Devices with no soft limits.",
     "url": "https://aws.amazon.com/marketplace/pp/B0839R5C7Z?ref=_ptnr_avc"
   },
   {
-    "img": "/products/samba.jpg",
+    "img": "/images/products/samba.jpg",
     "title": "Samba Server",
     "description": "Share up to 25 EBS drives in your VPC and office network.",
     "url": "https://aws.amazon.com/marketplace/pp/B084HF14KL?ref=_ptnr_avc"

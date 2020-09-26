@@ -1,0 +1,152 @@
+{
+  "compute": {
+    "name": "Compute",
+    "description": "Services that crounch data.",
+    "img": "/Compute/Compute.svg",
+    "imgPng": "/Compute/Compute.png"
+  },
+  "storage": {
+    "name": "Storage",
+    "description": "Store data in mutliple ways",
+    "img": "/Storage/Storage.svg",
+    "imgPng": "/Storage/Storage.png"
+  },
+  "database": {
+    "name": "Database",
+    "description": "SQL type databases for all your needs",
+    "img": "/Database/Database.svg",
+    "imgPng": "/Database/Database.png"
+  },
+  "migration_&_transfer": {
+    "name": "Migration & Transfer",
+    "description": "Tools to help you move data around.",
+    "img": "/Migration & Transfer/Migration-and-Transfer.svg",
+    "imgPng": "/Migration & Transfer/Migration-and-Transfer.png"
+  },
+  "networking_&_content_delivery": {
+    "name": "Networking & Content Delivery",
+    "description": "Pipes, trucks and network high ways.",
+    "img": "/Networking & Content Delivery/Networking-and-Content-Delivery.svg",
+    "imgPng": "/Networking & Content Delivery/Networking-and-Content-Delivery.png"
+  },
+  "developer_tools": {
+    "name": "Developer Tools",
+    "description": "Tools to manage code.",
+    "img": "/Developer Tools/Developer-Tools.svg",
+    "imgPng": "/Developer Tools/Developer-Tools.png"
+  },
+  "robotics": {
+    "name": "Robotics",
+    "description": "Make robots, but nice ones.",
+    "img": "/Robotics/Robotics.svg",
+    "imgPng": "/Robotics/Robotics.png"
+  },
+  "customer_enablement": {
+    "name": "Customer Enablement",
+    "description": "Find help for your problems",
+    "img": "/Customer Enablement/Customer-Enablement.svg",
+    "imgPng": "/Customer Enablement/Customer-Enablement.png"
+  },
+  "blockchain": {
+    "name": "Blockchain",
+    "description": "Create scalable leggers.",
+    "img": "/Blockchain/Blockchain.svg",
+    "imgPng": "/Blockchain/Blockchain.png"
+  },
+  "satellite": {
+    "name": "Satellite",
+    "description": "Manage all your space inventory.",
+    "img": "/Satellite/Satellite.svg",
+    "imgPng": "/Satellite/Satellite.png"
+  },
+  "quantum_technologies": {
+    "name": "Quantum Technologies",
+    "description": "The future of computing.",
+    "img": "/Quantum Technologies/Quantum-Technologies.svg",
+    "imgPng": "/Quantum Technologies/Quantum-Technologies.png"
+  },
+  "management_&_governance": {
+    "name": "Management & Governance",
+    "description": "Collect, analize and understand your data.",
+    "img": "/Management & Governance/Management-and-Governance.svg",
+    "imgPng": "/Management & Governance/Management-and-Governance.png"
+  },
+  "media_services": {
+    "name": "Media Services",
+    "description": "Manage and deliver videos.",
+    "img": "/Media Services/Media-Services.svg",
+    "imgPng": "/Media Services/Media-Services.png"
+  },
+  "machine_learning": {
+    "name": "Machine Learning",
+    "description": "Let the data speak for itself.",
+    "img": "/Machine Learning/Machine-Learning.svg",
+    "imgPng": "/Machine Learning/Machine-Learning.png"
+  },
+  "analytics": {
+    "name": "Analytics",
+    "description": "Analize infinate ammount of data.",
+    "img": "/Analytics/Analytics.svg",
+    "imgPng": "/Analytics/Analytics.png"
+  },
+  "security_identity_&_compliance": {
+    "name": "Security Identity & Compliance",
+    "description": "Manage access to all your resources.",
+    "img": "/Security, Identity, & Compliance/Security-Identity-and-Compliance.svg",
+    "imgPng": "/Security, Identity, & Compliance/Security-Identity-and-Compliance.png"
+  },
+  "mobile": {
+    "name": "Mobile",
+    "description": "Everything you need for mobile development.",
+    "img": "/Mobile/Mobile.svg",
+    "imgPng": "/Mobile/Mobile.png"
+  },
+  "ar_&_vr": {
+    "name": "AR & VR",
+    "description": "Create new immersive worlds",
+    "img": "/AR & VR/AR-VR.svg",
+    "imgPng": "/AR & VR/AR-VR.png"
+  },
+  "application_integration": {
+    "name": "Analytics",
+    "description": "Analize on the fly all your data.",
+    "img": "/Application Integration/Application-Integration.svg",
+    "imgPng": "/Application Integration/Application-Integration.png"
+  },
+  "aws_cost_management": {
+    "name": "AWS Cost Management",
+    "description": "Understand where you moeny goes.",
+    "img": "/AWS Cost Management/AWS-Cost-Management.svg",
+    "imgPng": "/AWS Cost Management/AWS-Cost-Management.png"
+  },
+  "customer_engagement": {
+    "name": "Customer Engagement",
+    "description": "Manage how customers interact with your products.",
+    "img": "/Customer Engagement/Customer-Engagement.svg",
+    "imgPng": "/Customer Engagement/Customer-Engagement.png"
+  },
+  "business_applications": {
+    "name": "Business Applications",
+    "description": "Improve Office communication.",
+    "img": "/Business Applications/Business-Applications.svg",
+    "imgPng": "/Business Applications/Business-Applications.png"
+  },
+  "end_user_computing": {
+    "name": "End User Computing",
+    "description": "Virtual Clients in the cloud.",
+    "img": "/End User Computing/End-User-Computing.svg",
+    "imgPng": "/End User Computing/End-User-Computing.png"
+  },
+  "internet_of_things": {
+    "name": "Internet Of Things",
+    "description": "All your hardware maanged in one place.",
+    "img": "/Internet of Things/Internet-of-Things.svg",
+    "imgPng": "/Internet of Things/Internet-of-Things.png"
+  },
+  "game_development": {
+    "name": "Game Development",
+    "description": "Develop games using the cloud.",
+    "img": "/Game Tech/Game-Tech.svg",
+    "imgPng": "/Game Tech/Game-Tech.png"
+  }
+}
