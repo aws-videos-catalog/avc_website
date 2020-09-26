@@ -9,39 +9,32 @@
       >
         <ad
           :ad-order="random_ad_order[0]"
-          class="my-2 service-listings__card"
+          class="service-listings__card"
           :height="'400px'"
         />
       </b-col>
+
       <b-col
-        v-for="(item,idx) in items"
-        :key="`item_${idx}`"
         sm="6"
         md="4"
         lg="3"
         xl="2"
+        v-for="(service, idx) in items"
+        :key="idx"
+        class="service-listings__card"
       >
-        <nuxt-link class="service my-2" :to="links[idx]+'/'" append component="div">
-          <b-card
-            :title="item.name"
-            :img-src="item.img ? '/images/aws/svg/SVG Light'+item.img : '/images/aws/svg/SVG Light/_Group Icons/AWS-Cloud-alt_light-bg.svg'"
-            img-alt="Image"
-            img-top
-            class="service-listings__card"
-          >
-            <b-card-text>
-              {{item.description}}
-            </b-card-text>
-          </b-card>
-        </nuxt-link>
+        <service-card
+          :service="service"
+        />
       </b-col>
     </b-row>
   </div>
 </template>
 
 <script>
-  import Ad from '~/components/Ad.vue'
-  import ads from '~/static/products/index.json'
+import Ad from '~/components/Ad.vue'
+import ads from '~/static/products/index.json'
+import ServiceCard from '~/components/sections/services/ServiceCard/index'
 
   //
   //  1.  Defining a new property which would shuffle an array
@@ -71,8 +64,11 @@
 //  This component will render a tree-like view when a JSON is given
 //
 export default {
+  name: 'Listing',
+
   components:{
-    Ad
+    Ad,
+    ServiceCard
   },
   props:{
     items:{
@@ -131,12 +127,18 @@ export default {
 .service-listings__card {
   height: auto;
   width: 100%;
-  overflow: hidden;
+  margin-bottom: 1rem;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 768px) {
   .service-listings__card {
     height: 400px;
+  }
+}
+
+@media (min-width: 1600px) {
+  .service-listings__card {
+    height: 420px;
   }
 }
 </style>
