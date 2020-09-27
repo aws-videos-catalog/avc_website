@@ -606,6 +606,12 @@
       "url": "https://aws.amazon.com/mediatailor/",
       "img": "/Media Services/AWS-Elemental-MediaTailor.svg",
       "imgPng": "/Media Services/AWS-Elemental-MediaTailor.png"
+    },
+    {
+      "name": "Amazon Interactive Video Service",
+      "description": "Build engaging live stream experiences",
+      "url": "https://aws.amazon.com/ivs/",
+      "img": ""
     }
   ],
   "machine_learning": [
