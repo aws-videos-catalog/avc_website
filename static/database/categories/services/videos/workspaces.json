@@ -316,5 +316,11 @@
         "thumbnail": "",
         "title": "AWS re:Invent 2019: Carnival Cruise Line moved from on-premises VDI to Amazon WorkSpaces (EUC338)",
         "date": "2019/12/06"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=IhPGkdalG-s",
+        "thumbnail": "",
+        "title": "AWS Summit 2015 | Singapore - Grow Your SMB Infrastructure on the AWS Cloud",
+        "date": "2015/05/29"
     }   
 ]
