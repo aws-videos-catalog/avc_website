@@ -25,7 +25,7 @@ _Note: Node.js v12+ is recommended to run and build the project_
  Project can be generated statically using npm command 
  
 ```
-npm generate
+npm run generate
 ```
 
 In order to improve default Nuxt.js generation performance we use [nuxt-generate-cluster](https://github.com/nuxt-community/nuxt-generate-cluster) package.  
