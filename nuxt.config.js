@@ -1,11 +1,17 @@
+import os from 'os'
 import { routesGenerate } from './custom_modules/sitemap-generate'
 
+const cpusCount = os.cpus().length
 const appPagesUrls = routesGenerate()
 
 export default {
   mode: 'universal',
 
   generate: {
+    workers: cpusCount,
+    workerConcurrency: 500,
+    concurrency: 500,
+
     routes () {
       return appPagesUrls
     }
