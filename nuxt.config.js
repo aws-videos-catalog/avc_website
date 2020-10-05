@@ -98,5 +98,7 @@ export default {
     */
     extend (config, ctx) {
     }
-  }
+  },
+
+  telemetry: false
 }
