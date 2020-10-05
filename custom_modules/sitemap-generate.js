@@ -29,9 +29,13 @@ function loadStaticJson (path) {
  */
 function generateServiceVideosPaths (videosData, servicePath) {
   return videosData.reduce((result, videoData) => {
-    const videoId = getYoutubeIdFromVideoLink(videoData.url)
+    if (videoData.url) {
+      const videoId = getYoutubeIdFromVideoLink(videoData.url)
 
-    result.push(`${servicePath}/${videoId}`)
+      if (videoId) {
+        result.push(`${servicePath}/${videoId}`)
+      }
+    }
 
     return result
   }, [])
