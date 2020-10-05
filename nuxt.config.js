@@ -92,6 +92,8 @@ export default {
       name: 'AWS Video Catalog',
       short_name: 'AVC Website',
       lang: 'en',
+      background_color: '#fff',
+      theme_color: '#fff'
     }
   },
 
