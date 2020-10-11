@@ -1,4 +1,10 @@
 {
+  "general": {
+    "name": "General",
+    "description": "The geenral videos of AWS.",
+    "img": "/_General/General.svg",
+    "imgPng": "/_General/General.png"
+  },
   "compute": {
     "name": "Compute",
     "description": "Services that crounch data.",

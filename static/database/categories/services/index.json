@@ -1,4 +1,11 @@
 {
+  "general": [
+    {
+      "name": "Legendary",
+      "description": "The most legendary keynotes of AWS.",
+      "url": "https://aws.amazon.com/"
+    }
+  ],
   "compute": [
     {
       "name": "EC2",
