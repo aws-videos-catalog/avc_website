@@ -16,5 +16,17 @@
         "thumbnail": "",
         "title": "GameStop/Pariveda: Building Smart Deployment Pipelines with Lambda and Codebuild on AWS",
         "date": "2017/09/19"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=N3pW4ZCeCxA",
+        "thumbnail": "",
+        "title": "Build Applications Locally Using AWS CodeBuild",
+        "date": "2020/10/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=neo9T95Sp3I",
+        "thumbnail": "",
+        "title": "Enable Amazon VPC Access for AWS CodeBuild",
+        "date": "2020/10/01"
     }
 ]

@@ -34,5 +34,11 @@
         "thumbnail": "",
         "title": "Building in an Automated Environment with Continuous Integration",
         "date": "2019/02/04"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=zMa5gTLrzmQ",
+        "thumbnail": "",
+        "title": "Streamline Your Software Release Process Using AWS CodePipeline",
+        "date": "2020/10/01"
     }   
 ]

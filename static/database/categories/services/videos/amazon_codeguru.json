@@ -34,5 +34,23 @@
         "thumbnail": "",
         "title": "Amazon AI Conclave 2019 - Amazon CodeGuru for Auto Code Reviews and App Performance Recommendations",
         "date": "2020/03/02"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=1pU4VddsBRw",
+        "thumbnail": "",
+        "title": "Improve Code Efficiency Using Amazon CodeGuru Profiler",
+        "date": "2020/10/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=m2w5UdBqZ7E",
+        "thumbnail": "",
+        "title": "Improve the Quality of Your Java Code Using Amazon CodeGuru Reviewer",
+        "date": "2020/10/01"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=X2MuaBylL2o",
+        "thumbnail": "",
+        "title": "Connect to GitHub Enterprise Server to Associate a Repository with CodeGuru",
+        "date": "2020/10/01"
     }
 ]
