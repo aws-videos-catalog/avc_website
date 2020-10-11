@@ -67,7 +67,7 @@
   },
   "management_&_governance": {
     "name": "Management & Governance",
-    "description": "Collect, analize and understand your data.",
+    "description": "Collect, analyze and understand your data.",
     "img": "/Management & Governance/Management-and-Governance.svg",
     "imgPng": "/Management & Governance/Management-and-Governance.png"
   },
@@ -85,7 +85,7 @@
   },
   "analytics": {
     "name": "Analytics",
-    "description": "Analize infinate ammount of data.",
+    "description": "Analyze infinite amount of data.",
     "img": "/Analytics/Analytics.svg",
     "imgPng": "/Analytics/Analytics.png"
   },
@@ -109,13 +109,13 @@
   },
   "application_integration": {
     "name": "Analytics",
-    "description": "Analize on the fly all your data.",
+    "description": "Analyze on the fly all your data.",
     "img": "/Application Integration/Application-Integration.svg",
     "imgPng": "/Application Integration/Application-Integration.png"
   },
   "aws_cost_management": {
     "name": "AWS Cost Management",
-    "description": "Understand where you moeny goes.",
+    "description": "Understand where you money goes.",
     "img": "/AWS Cost Management/AWS-Cost-Management.svg",
     "imgPng": "/AWS Cost Management/AWS-Cost-Management.png"
   },
@@ -139,7 +139,7 @@
   },
   "internet_of_things": {
     "name": "Internet Of Things",
-    "description": "All your hardware maanged in one place.",
+    "description": "All your hardware managed in one place.",
     "img": "/Internet of Things/Internet-of-Things.svg",
     "imgPng": "/Internet of Things/Internet-of-Things.png"
   },
