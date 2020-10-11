@@ -124,5 +124,11 @@
         "thumbnail": "https://i.ytimg.com/vi/JUw8y_pqD_Y/hqdefault.jpg",
         "title": "AWS re:Invent 2014 | (SDD419) Amazon EC2 Networking Deep Dive and Best Practices",
         "date": "2014/11/14"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=LNqRvP6Xvrw",
+        "thumbnail": "",
+        "title": "James Hamilton Announces New Amazon EC2, M6g, C6g, and R6g Instances Powered by AWS Graviton2",
+        "date": "2020/06/11"
     }
 ]
