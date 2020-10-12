@@ -10,5 +10,11 @@
         "thumbnail": "",
         "title": "AWS re:Invent 2016: Tuesday Night Live with James Hamilton",
         "date": "2016/11/30"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=8vQmTZTq7nw",
+        "thumbnail": "",
+        "title": "AWS re:Invent 2016: Move Exabyte-Scale Data Sets with AWS Snowmobile",
+        "date": "2016/11/30"
     }
 ]
