@@ -47,3 +47,20 @@ export default {
 Check [full list](https://github.com/nuxt-community/nuxt-generate-cluster#nuxt-config-options) of options.
 
 It is recommended to increase `generate.concurrency` option for measurable performance changes.
+
+#### Environment variables
+
+Project is using environment variables loaded from local `.env` file. Note, that `.env` file is added to `.gitignore` to prevent exposure of credentials in the repository. In order to setup environment variables for development and deployment create a copy of `.env.example` file with `.env` filename and make necessary changes with your credentials. 
+
+```dotenv
+# API key credential required by CLI 
+# to fetch data from Youtube DATA API v3
+CLI_YOUTUBE_DATA_API_KEY={YOUTUBE_API_KEY}
+```
+
+## Static database CLIs
+
+The project includes tools to manage static content via command line.  
+
+Available CLIs:
+- `cli:videos-update` - [Videos details update CLI](cli/videos-update/README.md). Fetch and update missing information for videos
