@@ -1,14 +1,14 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=_p81-WU1lQ0",
-        "thumbnail": "",
+        "service": "amazon_interactive_video_service",
+        "videoId": "_p81-WU1lQ0",
         "title": "Interactive Video Service",
         "date": "2020/07/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=bD_kpSNh50U",
-        "thumbnail": "",
+        "service": "amazon_interactive_video_service",
+        "videoId": "bD_kpSNh50U",
         "title": "AWS What's Next ft. Amazon IVS",
         "date": "2020/08/14"
-    }   
+    }
 ]

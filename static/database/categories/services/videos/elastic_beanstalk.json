@@ -1,109 +1,109 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=lmT7QI8IIiM",
-        "thumbnail": "https://i.ytimg.com/vi/lmT7QI8IIiM/hqdefault.jpg",
+        "service": "elastic_beanstalk",
+        "videoId": "lmT7QI8IIiM",
         "title": "AWS re:Invent 2018: PaaS – From Code to Running Application using AWS Elastic Beanstalk (DEV323)",
         "date": "2018/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=NhsELnv28NU",
-        "thumbnail": "https://i.ytimg.com/vi/NhsELnv28NU/hqdefault.jpg",
+        "service": "elastic_beanstalk",
+        "videoId": "NhsELnv28NU",
         "title": "AWS re:Invent 2017: Manage Your Applications with AWS Elastic Beanstalk (DEV305)",
         "date": "2017/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=U06-QLd4FL4",
-        "thumbnail": "https://i.ytimg.com/vi/U06-QLd4FL4/hqdefault.jpg",
+        "service": "elastic_beanstalk",
+        "videoId": "U06-QLd4FL4",
         "title": "AWS Elastic Beanstalk under the Hood (DMG301) | AWS re:Invent 2013",
         "date": "2013/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6SMAH7X7IC0",
-        "thumbnail": "https://i.ytimg.com/vi/6SMAH7X7IC0/hqdefault.jpg",
+        "service": "elastic_beanstalk",
+        "videoId": "6SMAH7X7IC0",
         "title": "AWS re: Invent RMG 206: Introduction to AWS Elastic Beanstalk",
         "date": "2012/12/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=nkj0GXgaRv8",
-        "thumbnail": "https://i.ytimg.com/vi/nkj0GXgaRv8/hqdefault.jpg",
+        "service": "elastic_beanstalk",
+        "videoId": "nkj0GXgaRv8",
         "title": "AWS re:Invent 2015 | (DVO201) Scaling Your Web Applications with AWS Elastic Beanstalk",
         "date": "2015/10/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=gA_m_4ikTgg",
-        "thumbnail": "https://i.ytimg.com/vi/gA_m_4ikTgg/hqdefault.jpg",
+        "service": "elastic_beanstalk",
+        "videoId": "gA_m_4ikTgg",
         "title": "AWS re:Invent 2015 | (DVO312) Sony: Building At-Scale Services with AWS Elastic Beanstalk",
         "date": "2015/10/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Fv0yG_wDgoo",
-        "thumbnail": "https://i.ytimg.com/vi/Fv0yG_wDgoo/hqdefault.jpg",
+        "service": "elastic_beanstalk",
+        "videoId": "Fv0yG_wDgoo",
         "title": "AWS re:Invent 2016: Scaling Your Web Applications with AWS Elastic Beanstalk (DEV206)",
         "date": "2016/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=HHS9_ZVxHVY",
-        "thumbnail": "https://i.ytimg.com/vi/HHS9_ZVxHVY/hqdefault.jpg",
+        "service": "elastic_beanstalk",
+        "videoId": "HHS9_ZVxHVY",
         "title": "AWS re:Invent 2014 | (APP402) Serving Billions of Web Requests Each Day with Elastic Beanstalk",
         "date": "2014/11/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=gymX8TAP6s4",
-        "thumbnail": "https://i.ytimg.com/vi/gymX8TAP6s4/hqdefault.jpg",
+        "service": "elastic_beanstalk",
+        "videoId": "gymX8TAP6s4",
         "title": "AWS re: Invent TLS 303: How to Deploy Applications on Elastic Beanstalk",
         "date": "2012/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=OJVLYPo2T4Y",
-        "thumbnail": "https://i.ytimg.com/vi/OJVLYPo2T4Y/hqdefault.jpg",
+        "service": "elastic_beanstalk",
+        "videoId": "OJVLYPo2T4Y",
         "title": "AWS re:Invent 2014 | (APP201) Going Zero to Sixty with AWS Elastic Beanstalk",
         "date": "2014/11/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Zb-lNr_TV2k",
-        "thumbnail": "https://i.ytimg.com/vi/Zb-lNr_TV2k/hqdefault.jpg",
+        "service": "elastic_beanstalk",
+        "videoId": "Zb-lNr_TV2k",
         "title": "Zero to Sixty: AWS Elastic Beanstalk (DMG204) | AWS re:Invent 2013",
         "date": "2013/11/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=BVJ7hTCc2RE",
-        "thumbnail": "https://i.ytimg.com/vi/BVJ7hTCc2RE/hqdefault.jpg",
+        "service": "elastic_beanstalk",
+        "videoId": "BVJ7hTCc2RE",
         "title": "AWS re:Invent 2016: Bleacher Report Gains Competitive Edge with Elastic Beanstalk (DEV315)",
         "date": "2016/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=JsqTSZo2qlQ",
-        "thumbnail": "https://i.ytimg.com/vi/JsqTSZo2qlQ/hqdefault.jpg",
+        "service": "elastic_beanstalk",
+        "videoId": "JsqTSZo2qlQ",
         "title": "How do I configure a load balancer in an Elastic Beanstalk environment to use an SSL certificate?",
         "date": "2019/01/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=GbkR9lFcFBY",
-        "thumbnail": "https://i.ytimg.com/vi/GbkR9lFcFBY/hqdefault.jpg",
+        "service": "elastic_beanstalk",
+        "videoId": "GbkR9lFcFBY",
         "title": "Getting Started With AWS Elastic Beanstalk",
         "date": "2013/11/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KZoTh3hZTyo",
-        "thumbnail": "https://i.ytimg.com/vi/KZoTh3hZTyo/hqdefault.jpg",
+        "service": "elastic_beanstalk",
+        "videoId": "KZoTh3hZTyo",
         "title": "AWS re:Invent 2014 | (APP202) Deploy, Manage, Scale Apps w/ AWS OpsWorks & AWS Elastic Beanstalk",
         "date": "2014/11/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=IuwfVX52PV8",
-        "thumbnail": "https://i.ytimg.com/vi/IuwfVX52PV8/hqdefault.jpg",
+        "service": "elastic_beanstalk",
+        "videoId": "IuwfVX52PV8",
         "title": "Running Your Startup's Sign Up Form on AWS Elastic Beanstalk: Part 2",
         "date": "2013/11/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=xhc1boyBkJw",
-        "thumbnail": "https://i.ytimg.com/vi/xhc1boyBkJw/hqdefault.jpg",
+        "service": "elastic_beanstalk",
+        "videoId": "xhc1boyBkJw",
         "title": "Deploying onto AWS Elastic Beanstalk - Deploy Web Applications on AWS",
         "date": "2015/11/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=DrRr-JgdgzE",
-        "thumbnail": "https://i.ytimg.com/vi/DrRr-JgdgzE/hqdefault.jpg",
+        "service": "elastic_beanstalk",
+        "videoId": "DrRr-JgdgzE",
         "title": "Running Your Startup's Sign Up Form on AWS Elastic Beanstalk: Part 3",
         "date": "2013/11/04"
     }

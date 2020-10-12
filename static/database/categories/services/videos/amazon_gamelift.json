@@ -1,14 +1,14 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=Ur2lKX_Slkw",
-        "thumbnail": "",
+        "service": "amazon_gamelift",
+        "videoId": "Ur2lKX_Slkw",
         "title": "AWS re:Invent 2017: Migrating Battleborn and the Spark Platform to Amazon GameLift f (GAM303)",
         "date": "2017/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=SGmcVdZzvnM",
-        "thumbnail": "",
+        "service": "amazon_gamelift",
+        "videoId": "SGmcVdZzvnM",
         "title": "AWS re:Invent 2016: Develop Using Lumberyard & Leverage AWS (GAM303)",
         "date": "2016/11/29"
-    }   
+    }
 ]

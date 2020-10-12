@@ -1,110 +1,110 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=4Zw1IOxW-oA",
-        "thumbnail": "",
+        "service": "elasticsearch_service",
+        "videoId": "4Zw1IOxW-oA",
         "title": "Amazon Elasticsearch Service",
         "date": "2018/11/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=WuonfW-zQJ8",
-        "thumbnail": "",
+        "service": "elasticsearch_service",
+        "videoId": "WuonfW-zQJ8",
         "title": "Amazon Elasticsearch Service",
         "date": "2018/07/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=u_7xMcZl3D0",
-        "thumbnail": "",
+        "service": "elasticsearch_service",
+        "videoId": "u_7xMcZl3D0",
         "title": "AWS re:Invent 2018: Search at Nike with Amazon Elasticsearch Service (ANT203)",
         "date": "2018/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=95kQkS51VnU",
-        "thumbnail": "",
+        "service": "elasticsearch_service",
+        "videoId": "95kQkS51VnU",
         "title": "AWS re:Invent 2018: Get the Most out of Your Amazon Elasticsearch Service Domain (ANT334-R1)",
         "date": "2018/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=QBwmVGlMOZU",
-        "thumbnail": "",
+        "service": "elasticsearch_service",
+        "videoId": "QBwmVGlMOZU",
         "title": "Elasticsearch 5 Now Available on Amazon Elasticsearch Service",
         "date": "2017/01/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Puwi_G3d4GQ",
-        "thumbnail": "",
+        "service": "elasticsearch_service",
+        "videoId": "Puwi_G3d4GQ",
         "title": "How can I migrate data from one Amazon Elasticsearch Service domain to another?",
         "date": "2020/06/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=3NE8rtSQUyY",
-        "thumbnail": "",
+        "service": "elasticsearch_service",
+        "videoId": "3NE8rtSQUyY",
         "title": "Webinar on Data to Insights using Amazon Elasticsearch Service",
         "date": "2018/10/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=oJUpUQ_yNVw",
-        "thumbnail": "",
+        "service": "elasticsearch_service",
+        "videoId": "oJUpUQ_yNVw",
         "title": "AWS re:Invent 2017: Log Analytics at Expedia Using Amazon Elasticsearch Service (ABD331)",
         "date": "2017/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Vt9TfgDRCXI",
-        "thumbnail": "",
+        "service": "elasticsearch_service",
+        "videoId": "Vt9TfgDRCXI",
         "title": "AWS Summit SF 2018: Deep Dive: Log Analytics with Amazon Elasticsearch Service (BDA308)",
         "date": "2018/04/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=s7dJESec_dY",
-        "thumbnail": "",
+        "service": "elasticsearch_service",
+        "videoId": "s7dJESec_dY",
         "title": "AWS re:Invent 2015 | (BDT209) New! Amazon Elasticsearch Service for Real-time Analytics",
         "date": "2015/10/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=uryHucNEZXk",
-        "thumbnail": "",
+        "service": "elasticsearch_service",
+        "videoId": "uryHucNEZXk",
         "title": "How many shards are too many shards?",
         "date": "2018/11/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=fTHdFJfG5G0",
-        "thumbnail": "",
+        "service": "elasticsearch_service",
+        "videoId": "fTHdFJfG5G0",
         "title": "AWS Summit Tel Aviv 2017: Deep Dive: Log Analytics with Amazon Elasticsearch Service",
         "date": "2017/07/31"
     },
     {
-        "url": "https://www.youtube.com/watch?v=3t-Xe8_wdRc",
-        "thumbnail": "",
+        "service": "elasticsearch_service",
+        "videoId": "3t-Xe8_wdRc",
         "title": "AWS Knowledge Center Videos: How Do I Process Amazon CloudFront logs with AWS Elasticsearch Service?",
         "date": "2019/04/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6fQo0tFgyOE",
-        "thumbnail": "",
+        "service": "elasticsearch_service",
+        "videoId": "6fQo0tFgyOE",
         "title": "Taking a Dip in the Muni Bond Data Lake: Amazon Elasticsearch",
         "date": "2019/06/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=iGBzO9-mt-A",
-        "thumbnail": "",
+        "service": "elasticsearch_service",
+        "videoId": "iGBzO9-mt-A",
         "title": "Support for Amazon Elasticsearch version 2.3",
         "date": "2016/07/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8OIbomasiN8",
-        "thumbnail": "",
+        "service": "elasticsearch_service",
+        "videoId": "8OIbomasiN8",
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Introducing UltraWarm for Amazon Elasticsearch Service (ANT229)",
         "date": "2019/12/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6VjyCt8UR5g",
-        "thumbnail": "",
+        "service": "elasticsearch_service",
+        "videoId": "6VjyCt8UR5g",
         "title": "AWS re:Invent 2019: Sophos: Build security solutions using Amazon Elasticsearch Service (ANT203)",
         "date": "2019/12/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=EqPxPJZD87M",
-        "thumbnail": "",
+        "service": "elasticsearch_service",
+        "videoId": "EqPxPJZD87M",
         "title": "AWS re:Invent 2019 Launchpad | UltraWarm for Amazon Elasticsearch Service",
         "date": "2020/03/17"
-    }   
+    }
 ]

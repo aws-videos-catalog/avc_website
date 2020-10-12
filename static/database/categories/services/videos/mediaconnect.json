@@ -1,32 +1,32 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=C2WcVBarriM",
-        "thumbnail": "",
+        "service": "mediaconnect",
+        "videoId": "C2WcVBarriM",
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing AWS Elemental MediaConnect (CTD325)",
         "date": "2018/12/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=om7Yk59mE5Q",
-        "thumbnail": "",
+        "service": "mediaconnect",
+        "videoId": "om7Yk59mE5Q",
         "title": "AWS re:Invent 2019: [REPEAT 1] Live broadcasting on AWS (MDS311-R1)",
         "date": "2019/12/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=XaDJHU4SJTI",
-        "thumbnail": "",
+        "service": "mediaconnect",
+        "videoId": "XaDJHU4SJTI",
         "title": "AWS re:Invent 2019: [REPEAT 1] Optimizing live video feeds to the cloud and the consumer (MDS202-R1)",
         "date": "2019/12/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=cd40-l-6EmI",
-        "thumbnail": "",
+        "service": "mediaconnect",
+        "videoId": "cd40-l-6EmI",
         "title": "AWS re:Invent 2019: [REPEAT 1] Hotstar: Live streaming at record scale (MDS313-R1)",
         "date": "2019/12/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=aZO1mgD9yJI",
-        "thumbnail": "",
+        "service": "mediaconnect",
+        "videoId": "aZO1mgD9yJI",
         "title": "AWS re:Invent 2019: WarnerMedia/HBO’s cloud-based linear playout system (MDS301)",
         "date": "2019/12/19"
-    }   
+    }
 ]

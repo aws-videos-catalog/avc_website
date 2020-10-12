@@ -1,128 +1,128 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=XNTsmRe8k7Q",
-        "thumbnail": "",
+        "service": "directory_service",
+        "videoId": "XNTsmRe8k7Q",
         "title": "Getting Started with AWS Directory Service",
         "date": "2015/09/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=4XeqotTYBtY",
-        "thumbnail": "",
+        "service": "directory_service",
+        "videoId": "4XeqotTYBtY",
         "title": "Introduction to AWS Directory Service (AWS Managed Microsoft AD)",
         "date": "2018/12/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=1p-waiW2xvQ",
-        "thumbnail": "",
+        "service": "directory_service",
+        "videoId": "1p-waiW2xvQ",
         "title": "AWS Directory Service: Configure and Administer Your AWS Managed Microsoft AD",
         "date": "2018/12/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=iLxc8XaMpno",
-        "thumbnail": "",
+        "service": "directory_service",
+        "videoId": "iLxc8XaMpno",
         "title": "AWS Directory Service Extend On-Premises Microsoft AD to AWS Cloud Using AWS Managed Microsoft AD",
         "date": "2018/12/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=CY-xvo8Cc54",
-        "thumbnail": "",
+        "service": "directory_service",
+        "videoId": "CY-xvo8Cc54",
         "title": "AWS re:Invent 2015 | (SEC315) AWS Directory Service Deep Dive",
         "date": "2015/10/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=buA9RYbrW_0",
-        "thumbnail": "",
+        "service": "directory_service",
+        "videoId": "buA9RYbrW_0",
         "title": "How do I create a trust relationship with my on-premises domain and the AWS Directory Service?",
         "date": "2020/01/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=aXlQSUTlFCs",
-        "thumbnail": "",
+        "service": "directory_service",
+        "videoId": "aXlQSUTlFCs",
         "title": "Identity, and Access Management and Directory Services",
         "date": "2019/06/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=OPC-wAgKomY",
-        "thumbnail": "",
+        "service": "directory_service",
+        "videoId": "OPC-wAgKomY",
         "title": "New AWS Directory Service for Microsoft Active Directory support for SharePoint & SQL Server",
         "date": "2017/05/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=1kfcZPK8U7Y",
-        "thumbnail": "",
+        "service": "directory_service",
+        "videoId": "1kfcZPK8U7Y",
         "title": "AWS Directory Service: Domain Join Amazon EC2 Instances to Single AWS Managed Microsoft AD",
         "date": "2018/12/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=SIBCi76wspQ",
-        "thumbnail": "",
+        "service": "directory_service",
+        "videoId": "SIBCi76wspQ",
         "title": "How to Create Trust Between AWS Managed Active Directory and On-Premises Active Directory",
         "date": "2017/08/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=dyspfGRF9Bw",
-        "thumbnail": "",
+        "service": "directory_service",
+        "videoId": "dyspfGRF9Bw",
         "title": "AWS re:Invent 2017: AWS Directory Service for Microsoft Active Directory Deep Dive (WIN403)",
         "date": "2017/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=9JiBfLJnmKM",
-        "thumbnail": "",
+        "service": "directory_service",
+        "videoId": "9JiBfLJnmKM",
         "title": "How to Configure Windows DFSR Service with AWS Directory Service",
         "date": "2018/06/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ytSjsEER-y0",
-        "thumbnail": "",
+        "service": "directory_service",
+        "videoId": "ytSjsEER-y0",
         "title": "AWS Directory Service and Hybrid Strategy | AWS Public Sector",
         "date": "2016/07/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=AO9f_WxC6mc",
-        "thumbnail": "",
+        "service": "directory_service",
+        "videoId": "AO9f_WxC6mc",
         "title": "Run More Types of .NET Workloads Using AWS Directory Service for Microsoft Active Directory",
         "date": "2017/05/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=WVZKbblvqXI",
-        "thumbnail": "",
+        "service": "directory_service",
+        "videoId": "WVZKbblvqXI",
         "title": "Integration of Amazon RDS Oracle with AWS Directory Service",
         "date": "2020/06/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=lOT3c-FDKqo",
-        "thumbnail": "",
+        "service": "directory_service",
+        "videoId": "lOT3c-FDKqo",
         "title": "AWS re:Invent 2014 | (SOV209) Introducing AWS Directory Service",
         "date": "2014/11/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=bLBlE3JBZSA",
-        "thumbnail": "",
+        "service": "directory_service",
+        "videoId": "bLBlE3JBZSA",
         "title": "AWS Directory Service for Microsoft Active Directory Now Supports Additional Domain Controllers",
         "date": "2017/07/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=49zPmiiCVTk",
-        "thumbnail": "",
+        "service": "directory_service",
+        "videoId": "49zPmiiCVTk",
         "title": "Microsoft Active Directory Deep Dive",
         "date": "2019/06/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=XFHoVdrWfbo",
-        "thumbnail": "",
+        "service": "directory_service",
+        "videoId": "XFHoVdrWfbo",
         "title": "How do I manage Microsoft AD?",
         "date": "2019/08/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=UfSrb3HOYPM",
-        "thumbnail": "",
+        "service": "directory_service",
+        "videoId": "UfSrb3HOYPM",
         "title": "How do I use EC2 Systems Manager to join an instance to my AWS Directory Service domain?",
         "date": "2018/10/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=anuFhaL-oyA",
-        "thumbnail": "",
+        "service": "directory_service",
+        "videoId": "anuFhaL-oyA",
         "title": "Amazon Directory Services, Amazon WorkSpaces, Amazon WorkMail, and Amazon WorkDocs",
         "date": "2015/08/14"
-    }   
+    }
 ]

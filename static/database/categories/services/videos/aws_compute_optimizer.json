@@ -1,7 +1,7 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=EHAYh-yvOg8",
-        "thumbnail": "",
+        "service": "aws_compute_optimizer",
+        "videoId": "EHAYh-yvOg8",
         "title": "AWS re:Invent 2019 Launchpad | AWS Compute Optimizer",
         "date": "2020/03/17"
     }

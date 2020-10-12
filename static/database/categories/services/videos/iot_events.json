@@ -1,19 +1,19 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=3MQoTIbFCJ8",
-        "thumbnail": "",
+        "service": "iot_events",
+        "videoId": "3MQoTIbFCJ8",
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing AWS IoT Events (IOT367)",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=WM0iZ7-96oQ",
-        "thumbnail": "",
+        "service": "iot_events",
+        "videoId": "WM0iZ7-96oQ",
         "title": "Announcing AWS IoT Events",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=k-h62-L2bns",
-        "thumbnail": "",
+        "service": "iot_events",
+        "videoId": "k-h62-L2bns",
         "title": "AWS re:Invent 2019: What's new with AWS IoT analytics services? (IOT208)",
         "date": "2019/12/04"
     }

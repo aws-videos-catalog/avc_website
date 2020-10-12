@@ -1,19 +1,19 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=gQtsZKI888s",
-        "thumbnail": "",
+        "service": "medialive",
+        "videoId": "gQtsZKI888s",
         "title": "AWS re:Invent 2017: AWS Elemental MediaLive (DEM86)",
         "date": "2017/12/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KW5NXWK8j0Q",
-        "thumbnail": "",
+        "service": "medialive",
+        "videoId": "KW5NXWK8j0Q",
         "title": "Solving with AWS Solutions: Live Streaming on AWS with Automated Multi-Language Subtitling",
         "date": "2020/03/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=GHZWrneWXx8",
-        "thumbnail": "",
+        "service": "medialive",
+        "videoId": "GHZWrneWXx8",
         "title": "WS re:Invent Launchpad 2017 - AWS Elemental: MediaPackage, MediaLive, MediaStore,....",
         "date": "2017/12/08"
     }

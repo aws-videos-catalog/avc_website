@@ -1,37 +1,37 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=ZFoGBUGRqUY",
-        "thumbnail": "",
+        "service": "amazon_codeguru",
+        "videoId": "ZFoGBUGRqUY",
         "title": "Jeff Barr Announces Amazon CodeGuru General Availability - Find Your Most Expensive Lines of Code",
         "date": "2020/06/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=NT9QChUWHVw",
-        "thumbnail": "",
+        "service": "amazon_codeguru",
+        "videoId": "NT9QChUWHVw",
         "title": "AWS What’s Next ft. Amazon CodeGuru Reviewer",
         "date": "2020/08/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=cI607fYFVto",
-        "thumbnail": "",
+        "service": "amazon_codeguru",
+        "videoId": "cI607fYFVto",
         "title": "AWS What's Next ft Amazon CodeGuru Profiler",
         "date": "2020/08/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=PVarNpPjvBM",
-        "thumbnail": "",
+        "service": "amazon_codeguru",
+        "videoId": "PVarNpPjvBM",
         "title": "Get Started with Machine Learning | AWS Power Hour: Machine Learning | Episode 4: Amazon CodeGuru",
         "date": "2020/08/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=WYuo0bIZre0",
-        "thumbnail": "",
+        "service": "amazon_codeguru",
+        "videoId": "WYuo0bIZre0",
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Introduction to Amazon CodeGuru (DOP211)",
         "date": "2019/12/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=EoNJ_u0In04",
-        "thumbnail": "",
+        "service": "amazon_codeguru",
+        "videoId": "EoNJ_u0In04",
         "title": "Amazon AI Conclave 2019 - Amazon CodeGuru for Auto Code Reviews and App Performance Recommendations",
         "date": "2020/03/02"
     }

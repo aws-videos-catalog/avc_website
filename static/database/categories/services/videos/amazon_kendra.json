@@ -1,7 +1,7 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=vtYyElPvyQI",
-        "thumbnail": "",
+        "service": "amazon_kendra",
+        "videoId": "vtYyElPvyQI",
         "title": "Amazon AI Conclave 2019 - Re-imagining Enterprise Search with Amazon Kendra",
         "date": "2020/03/02"
     }

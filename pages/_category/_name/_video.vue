@@ -71,7 +71,7 @@ export default {
       return new Date(b.date) - new Date(a.date);
     }).map(formatVideo)
 
-    const mainVideo = sortedVideos.find((video) => video.id === route.params.video)
+    const mainVideo = sortedVideos.find((video) => video.videoId === route.params.video)
 
     if (!mainVideo) {
       return error({

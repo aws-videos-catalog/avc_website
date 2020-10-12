@@ -1,49 +1,49 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=AQtTG2N_QCg",
-        "thumbnail": "",
+        "service": "aws_transfer_family",
+        "videoId": "AQtTG2N_QCg",
         "title": "AWS Transfer Family - Demo",
         "date": "2020/04/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=5BPnJRTXVIY",
-        "thumbnail": "",
+        "service": "aws_transfer_family",
+        "videoId": "5BPnJRTXVIY",
         "title": "AWS Transfer Family",
         "date": "2020/04/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=wcnGez5PP1E",
-        "thumbnail": "",
+        "service": "aws_transfer_family",
+        "videoId": "wcnGez5PP1E",
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] AWS Transfer for SFTP, a Fully Managed SFTP Service (STG326)",
         "date": "2019/04/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=VcLneOyvfVU",
-        "thumbnail": "",
+        "service": "aws_transfer_family",
+        "videoId": "VcLneOyvfVU",
         "title": "How do I configure my AWS SFTP server to use an Amazon S3 bucket in another AWS account?",
         "date": "2020/01/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=yHzFJ1Dq078",
-        "thumbnail": "",
+        "service": "aws_transfer_family",
+        "videoId": "yHzFJ1Dq078",
         "title": "AWS Transfer for SFTP",
         "date": "2019/08/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=BbswJWYqdNo",
-        "thumbnail": "",
+        "service": "aws_transfer_family",
+        "videoId": "BbswJWYqdNo",
         "title": "Announcement | New AWS Transfer for SFTP Security & Networking Features",
         "date": "2019/04/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=oqlLIl_AElI",
-        "thumbnail": "",
+        "service": "aws_transfer_family",
+        "videoId": "oqlLIl_AElI",
         "title": "AWS Transfer for SFTP (25 Seconds)",
         "date": "2019/09/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=rWuuFfjOqZQ",
-        "thumbnail": "",
+        "service": "aws_transfer_family",
+        "videoId": "rWuuFfjOqZQ",
         "title": "AWS re:Invent 2019: Migrate and modernize SFTP file transfer workflows with AWS (STG333)",
         "date": "2019/12/04"
     }

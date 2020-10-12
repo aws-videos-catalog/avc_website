@@ -1,307 +1,307 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=AT-nHW3_SVI",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "AT-nHW3_SVI",
         "title": "Introduction to Amazon CloudFront",
         "date": "2019/04/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=V8vR7rA0ubs",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "V8vR7rA0ubs",
         "title": "How to Setup Your CloudFront Distribution for EC2 Origin",
         "date": "2019/04/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KIltfPRpTi4",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "KIltfPRpTi4",
         "title": "How to Set up an Amazon CloudFront Distribution for Your Amazon S3 Origin",
         "date": "2018/07/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=DiIaoIcoKNY",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "DiIaoIcoKNY",
         "title": "How do I use Amazon CloudFront to serve a static website hosted on Amazon S3?",
         "date": "2019/03/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-EXS9M6yMcA",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "-EXS9M6yMcA",
         "title": "Setting up CloudFront with a WordPress Site",
         "date": "2019/10/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=wRaPw1tx6LA",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "wRaPw1tx6LA",
         "title": "AWS re:Invent 2017: Introduction to Amazon CloudFront and AWS Lambda@Edge (CTD201)",
         "date": "2017/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=x95vzaeEsRk",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "x95vzaeEsRk",
         "title": "How do I restrict S3 access only from CloudFront?",
         "date": "2018/10/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=h9o0N-QxFyc",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "h9o0N-QxFyc",
         "title": "Go Global: A Short Demo of Amazon CloudFront",
         "date": "2019/06/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=h2uN9VoAnz8",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "h2uN9VoAnz8",
         "title": "AWS re:Invent 2016: Introduction to Amazon CloudFront (CTD205)",
         "date": "2016/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=QcHoDO1z-Vk",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "QcHoDO1z-Vk",
         "title": "How can I serve multiple domains from a CloudFront distribution over HTTPS?",
         "date": "2019/02/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=vBJ4KnDzbqg",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "vBJ4KnDzbqg",
         "title": "Why isn't CloudFront serving my domain name over HTTPS?",
         "date": "2020/04/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Dq2m2ZoZ234",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "Dq2m2ZoZ234",
         "title": "How do I set up API Gateway with my own CloudFront distribution?",
         "date": "2019/11/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=k6iyLQYVOB4",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "k6iyLQYVOB4",
         "title": "How do I prevent CloudFront from caching certain files?",
         "date": "2019/06/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=01I1EH_kZl4",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "01I1EH_kZl4",
         "title": "Can I associate multiple SSL certificates with my Amazon CloudFront distribution?",
         "date": "2018/11/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=oVaTiRl9-v0",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "oVaTiRl9-v0",
         "title": "Slack Talks About Secure API Acceleration with Amazon CloudFront",
         "date": "2016/07/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8U3QdNSFJDU",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "8U3QdNSFJDU",
         "title": "AWS re:Invent 2017: Amazon CloudFront Flash Talks: Best Practices on Configuring, Se (CTD301)",
         "date": "2017/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=k-nCMrmxmgs",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "k-nCMrmxmgs",
         "title": "AWS re:Invent MED 101: Introduction to Amazon CloudFront",
         "date": "2012/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KvNopkxrDzs",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "KvNopkxrDzs",
         "title": "Getting Started with Amazon CloudFront Video Streaming",
         "date": "2011/11/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=pmtg-4rzCtQ",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "pmtg-4rzCtQ",
         "title": "Getting Started with Amazon CloudFront: Content Delivery Using the Edge",
         "date": "2011/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=AY0iJyCOkOc",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "AY0iJyCOkOc",
         "title": "How do I install a custom SSL/TLS certificates on Amazon CloudFront?",
         "date": "2020/08/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=JTOSzL8rLtk",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "JTOSzL8rLtk",
         "title": "Why is Amazon CloudFront serving outdated content from Amazon S3?",
         "date": "2019/11/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=yvCYTDkjMJw",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "yvCYTDkjMJw",
         "title": "Content Delivery using Amazon CloudFront",
         "date": "2011/12/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=3t-Xe8_wdRc",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "3t-Xe8_wdRc",
         "title": "AWS Knowledge Center Videos: How Do I Process Amazon CloudFront logs with AWS Elasticsearch Service?",
         "date": "2019/04/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=fgbJJ412qRE",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "fgbJJ412qRE",
         "title": "AWS re:Invent 2016: CloudFront Flash Talks: Best Practices (CTD301)",
         "date": "2016/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=M_V4R9Rn6cI",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "M_V4R9Rn6cI",
         "title": "Whole Site Delivery with Amazon CloudFront",
         "date": "2013/05/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Tv0LqtVjOXw",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "Tv0LqtVjOXw",
         "title": "How do I configure Amazon CloudFront to forward host headers to the origin?",
         "date": "2019/04/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=gUAuhdtHacI",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "gUAuhdtHacI",
         "title": "AWS re:Invent 2015 | (STG206) Using Amazon CloudFront For Your Websites & Apps",
         "date": "2015/10/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=n8qQGLJeUYA",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "n8qQGLJeUYA",
         "title": "AWS re:Invent 2016: Design Patterns for High Availability: Lessons from Amazon CloudFront (CTD303)",
         "date": "2016/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=MximNywzIng",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "MximNywzIng",
         "title": "AWS Knowledge Center Videos: How do I process Amazon CloudFront logs with AWS Elasticsearch Service?",
         "date": "2018/03/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=iOPjEkmV8hI",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "iOPjEkmV8hI",
         "title": "AWS Knowledge Center Videos: How do I mitigate DDos with the CloudFront Geo restriction?",
         "date": "2017/06/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=M_V4R9Rn6cI",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "M_V4R9Rn6cI",
         "title": "Whole Site Delivery with Amazon CloudFront",
         "date": "2013/05/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=DCjklZ8kHw4",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "DCjklZ8kHw4",
         "title": "Webinar: Delivering Static and Dynamic Content Using Amazon CloudFront",
         "date": "2013/01/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=kOk5esI6GHY",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "kOk5esI6GHY",
         "title": "Why is CloudFront returning HTTP response code 403 (Access Denied) from Amazon S3?",
         "date": "2019/06/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=UiXRVHgQ_Gg",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "UiXRVHgQ_Gg",
         "title": "Dynamic Content Acceleration: Amazon CloudFront and Amazon Route 53 (ARC309) | AWS re:Invent 2013",
         "date": "2013/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=n8qQGLJeUYA",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "n8qQGLJeUYA",
         "title": "AWS re:Invent 2016: Design Patterns for High Availability: Lessons from Amazon CloudFront (CTD303)",
         "date": "2016/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=qI1FF0rrePA",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "qI1FF0rrePA",
         "title": "AWS Webcast - Live Streaming using Amazon CloudFront and Wowza Media Server",
         "date": "2013/10/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-VoROfdjowg",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "-VoROfdjowg",
         "title": "On-demand & Live Streaming with Amazon CloudFront in the Post-PC World (MED305) | AWS re:Invent 2013",
         "date": "2013/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=vyV7Caa_kF0",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "vyV7Caa_kF0",
         "title": "Amazon CloudFront Launches in South Africa",
         "date": "2018/09/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=xDRWq7e0ero",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "xDRWq7e0ero",
         "title": "Webinar: Live Streaming for Amazon CloudFront using Adobe Flash Media Server 4.5",
         "date": "2012/05/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=3oIVMruGvpc",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "3oIVMruGvpc",
         "title": "AWS Webinar: Accelerate & Protect Your Content with Amazon CloudFront UAE Edge Locations",
         "date": "2018/11/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Bn4X_a50vHU",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "Bn4X_a50vHU",
         "title": "AWS Webcast - Using JW Player and Amazon CloudFront to Stream HLS Video",
         "date": "2013/10/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=iIn47wOQbmo",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "iIn47wOQbmo",
         "title": "Sentient - UX Optimization Platform with Lambda at the Edge, Amazon CloudFront and AI",
         "date": "2018/06/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=nBsZ2UkxYbY",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "nBsZ2UkxYbY",
         "title": "AWS Webcast - Whole Site Delivery with Amazon CloudFront",
         "date": "2013/05/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=qJqDAY9kIhQ",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "qJqDAY9kIhQ",
         "title": "AWS Media Summit 2011: Content Delivery with Amazon CloudFront",
         "date": "2011/11/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=sf-JWDDw2O4",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "sf-JWDDw2O4",
         "title": "How do I securely access my Amazon S3 static website?",
         "date": "2018/12/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=FjHBGjLnou0",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "FjHBGjLnou0",
         "title": "AWS re:Invent 2016: Introduction to Amazon Global Network and CloudFront PoPs with James Hamilton",
         "date": "2017/07/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=d-XCfp97pX0",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "d-XCfp97pX0",
         "title": "AWS Solutions: Video on Demand (VOD)",
         "date": "2019/09/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=t_f4Uwn6vYQ",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "t_f4Uwn6vYQ",
         "title": "Channel 7: Live Event Video Streaming of the Australian Open Using AWS Elemental, CloudFront & More!",
         "date": "2017/11/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=iUySElA_i-g",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "iUySElA_i-g",
         "title": "AWS Summit Series 2016 | Chicago - Secure Content Delivery Using Amazon CloudFront and AWS WAF",
         "date": "2016/04/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=DeygvViFlXQ",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "DeygvViFlXQ",
         "title": "AWS re:Invent 2019: Optimizing for performance in CloudFront: Every millisecond counts! (NET309-R1)",
         "date": "2019/12/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=llTu49RNXw0",
-        "thumbnail": "",
+        "service": "cloudfront",
+        "videoId": "llTu49RNXw0",
         "title": "AWS re:Invent 2019: Using Amazon CloudFront, AWS WAF, and Lambda@Edge to keep spammers out (CMY303)",
         "date": "2019/12/03"
     }

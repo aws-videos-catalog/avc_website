@@ -1,14 +1,14 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=E7fogZN3URs",
-        "thumbnail": "",
+        "service": "amazon_augmented_ai",
+        "videoId": "E7fogZN3URs",
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Amazon Augmented AI for human review of ML predictions (AIM325-R1)",
         "date": "2019/12/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=FzdeBDCd0kQ",
-        "thumbnail": "",
+        "service": "amazon_augmented_ai",
+        "videoId": "FzdeBDCd0kQ",
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Amazon Augmented AI for human review of ML predictions (AIM325-R)",
         "date": "2019/12/10"
-    }   
+    }
 ]

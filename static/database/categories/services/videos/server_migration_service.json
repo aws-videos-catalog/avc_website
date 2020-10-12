@@ -1,20 +1,20 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=H36DcgRnbP0",
-        "thumbnail": "",
+        "service": "server_migration_service",
+        "videoId": "H36DcgRnbP0",
         "title": "How to migrate Azure VM to AWS using AWS Server Migration Service (SMS) Connector on Azure?",
         "date": "2020/03/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=vrwy-G8h8SU",
-        "thumbnail": "",
+        "service": "server_migration_service",
+        "videoId": "vrwy-G8h8SU",
         "title": "Module 8: AWS Migration Methodology, Process, and Tools - AWS Server Migration Service Demo",
         "date": "2017/08/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=kxtcB21xXzM",
-        "thumbnail": "",
+        "service": "server_migration_service",
+        "videoId": "kxtcB21xXzM",
         "title": "AWS re:Invent 2016: Simplify Cloud Migration with AWS Server Migration Service (ENT218)",
         "date": "2016/12/03"
-    }   
+    }
 ]

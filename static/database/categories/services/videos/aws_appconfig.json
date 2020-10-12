@@ -1,7 +1,7 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=ztIxMY3IIu0",
-        "thumbnail": "",
+        "service": "aws_appconfig",
+        "videoId": "ztIxMY3IIu0",
         "title": "Manage and Deploy Application Configurations with AWS AppConfig",
         "date": "2020/06/15"
     }

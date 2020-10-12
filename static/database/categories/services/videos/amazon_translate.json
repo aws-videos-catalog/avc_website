@@ -1,74 +1,74 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=yBmxRdB--4Q",
-        "thumbnail": "",
+        "service": "amazon_translate",
+        "videoId": "yBmxRdB--4Q",
         "title": "How to Use Amazon Translate Service through .NET",
         "date": "2018/11/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=k9rBj6IP9-M",
-        "thumbnail": "",
+        "service": "amazon_translate",
+        "videoId": "k9rBj6IP9-M",
         "title": "AWS re:Invent 2017 - Introducing Amazon Translate",
         "date": "2017/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=yLKrTzFdPaE",
-        "thumbnail": "",
+        "service": "amazon_translate",
+        "videoId": "yLKrTzFdPaE",
         "title": "AWS San Francisco Summit 2018 - Amazon Translate is Now Generally Available",
         "date": "2018/04/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KQtVK2VzETk",
-        "thumbnail": "",
+        "service": "amazon_translate",
+        "videoId": "KQtVK2VzETk",
         "title": "Automate for Efficiency with Amazon Transcribe & Amazon Translate",
         "date": "2018/08/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KlnOCKn0ZGs",
-        "thumbnail": "",
+        "service": "amazon_translate",
+        "videoId": "KlnOCKn0ZGs",
         "title": "Amazon Translate - Now Generally Available",
         "date": "2018/04/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=YtDSTKiU1u8",
-        "thumbnail": "",
+        "service": "amazon_translate",
+        "videoId": "YtDSTKiU1u8",
         "title": "Announcing 8 new languages and a Custom Terminology for Amazon Translate",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=UO0hGTvqLUs",
-        "thumbnail": "",
+        "service": "amazon_translate",
+        "videoId": "UO0hGTvqLUs",
         "title": "Using Amazon Translate, Amazon Polly, and Amazon Rekognition with .NET",
         "date": "2019/10/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6ZK5uGc6-js",
-        "thumbnail": "",
+        "service": "amazon_translate",
+        "videoId": "6ZK5uGc6-js",
         "title": "Build Text Analytics Solutions with Amazon Comprehend & Amazon Translate",
         "date": "2018/08/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=bFyLMtdBItA",
-        "thumbnail": "",
+        "service": "amazon_translate",
+        "videoId": "bFyLMtdBItA",
         "title": "AWS re:Invent Launchpad 2017 - Amazon Translate",
         "date": "2017/12/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=oAHgyt8Gblg",
-        "thumbnail": "",
+        "service": "amazon_translate",
+        "videoId": "oAHgyt8Gblg",
         "title": "How to Translate Text into a Different Language in a .NET Core Application and Amazon Translate",
         "date": "2020/08/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=NyktzGwY7NE",
-        "thumbnail": "",
+        "service": "amazon_translate",
+        "videoId": "NyktzGwY7NE",
         "title": "AWS re:Invent 2017: NEW LAUNCH! Introducing Amazon Translate – Now in Preview (MCL209)",
         "date": "2017/12/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=C7fb4Dv_qNY",
-        "thumbnail": "",
+        "service": "amazon_translate",
+        "videoId": "C7fb4Dv_qNY",
         "title": "AWS Summit New York 2018 - Amazon Translate Adds Six New Languages",
         "date": "2018/07/20"
-    }   
+    }
 ]

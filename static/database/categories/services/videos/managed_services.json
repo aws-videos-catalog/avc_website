@@ -1,37 +1,37 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=OdumiJOFw9s",
-        "thumbnail": "",
+        "service": "managed_services",
+        "videoId": "OdumiJOFw9s",
         "title": "Getting Started with Managed Services | AWS Public sector Summit 2016",
         "date": "2016/07/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=MFQa4y4Xwt4",
-        "thumbnail": "",
+        "service": "managed_services",
+        "videoId": "MFQa4y4Xwt4",
         "title": "Best Practices for Building Partner Managed Services on AWS",
         "date": "2015/04/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=phN08pi3YzY",
-        "thumbnail": "",
+        "service": "managed_services",
+        "videoId": "phN08pi3YzY",
         "title": "Fiverr: Simplifying PCI DSS Compliance with Fully Managed Services",
         "date": "2020/06/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=bigApb5QbyE",
-        "thumbnail": "",
+        "service": "managed_services",
+        "videoId": "bigApb5QbyE",
         "title": "AWS Managed Services Helps National Australia Bank Accelerate its Cloud Migration",
         "date": "2019/05/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=dMHx1krnpzM",
-        "thumbnail": "",
+        "service": "managed_services",
+        "videoId": "dMHx1krnpzM",
         "title": "What's it like to work at Amazon Web Services? Meet our AWS Managed Services team.",
         "date": "2018/02/16"
     },
     {
-        "url": "https://www.youtube.com/watch?v=T64UQqD_BeE",
-        "thumbnail": "",
+        "service": "managed_services",
+        "videoId": "T64UQqD_BeE",
         "title": "AWS re:Invent 2019: Simple path to AWS Managed Services (AMS) (MGT203-S)",
         "date": "2019/12/05"
     }

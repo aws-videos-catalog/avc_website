@@ -1,49 +1,49 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=qk98rR08szU",
-        "thumbnail": "",
+        "service": "amazon_documentdb",
+        "videoId": "qk98rR08szU",
         "title": "Getting Started with Amazon DocumentDB",
         "date": "2019/03/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=pGNb5P--Cpw",
-        "thumbnail": "",
+        "service": "amazon_documentdb",
+        "videoId": "pGNb5P--Cpw",
         "title": "Five Ways to Optimize For Cost with Amazon DocumentDB (with MongoDB Compatibility)",
         "date": "2020/07/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=jqeQL92HOQ0",
-        "thumbnail": "",
+        "service": "amazon_documentdb",
+        "videoId": "jqeQL92HOQ0",
         "title": "Live migration to Amazon DocumentDB",
         "date": "2019/03/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=9ZrdllxR43Q",
-        "thumbnail": "",
+        "service": "amazon_documentdb",
+        "videoId": "9ZrdllxR43Q",
         "title": "AWS Summit Tel Aviv 2019 | No Hassle NoSQL - Amazon DynamoDB & Amazon DocumentDB",
         "date": "2019/03/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=B8I1pErLq14",
-        "thumbnail": "",
+        "service": "amazon_documentdb",
+        "videoId": "B8I1pErLq14",
         "title": "Database Deep Dive Office Hours | S1 E4 – Manage & Scale Semi-structured Data with Amazon DocumentDB",
         "date": "2019/06/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=D3_hWN9C9iE",
-        "thumbnail": "",
+        "service": "amazon_documentdb",
+        "videoId": "D3_hWN9C9iE",
         "title": "AWS re:Invent 2019: Amazon DocumentDB deep dive (DAT326)",
         "date": "2019/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=qmb7ssDH6Pg",
-        "thumbnail": "",
+        "service": "amazon_documentdb",
+        "videoId": "qmb7ssDH6Pg",
         "title": "AWS re:Invent 2019: Migrating your databases to Amazon DocumentDB (DAT372)",
         "date": "2019/12/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=gOhdISMNHBM",
-        "thumbnail": "",
+        "service": "amazon_documentdb",
+        "videoId": "gOhdISMNHBM",
         "title": "AWS re:Invent 2019 Launchpad | What's New in DocumentDB",
         "date": "2020/03/17"
     }

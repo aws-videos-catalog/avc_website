@@ -1,13 +1,13 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=fMGd9IUaotE",
-        "thumbnail": "",
+        "service": "aws_cloud_map",
+        "videoId": "fMGd9IUaotE",
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing AWS Cloud Map (CON366)",
         "date": "2018/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=VxhBxSaN8ss",
-        "thumbnail": "",
+        "service": "aws_cloud_map",
+        "videoId": "VxhBxSaN8ss",
         "title": "How do I delete a Route 53 Hosted Zone created by ECS Service Discovery via AWS Cloud Map service?",
         "date": "2019/06/11"
     }

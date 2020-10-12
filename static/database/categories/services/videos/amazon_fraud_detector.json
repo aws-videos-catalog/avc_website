@@ -1,19 +1,19 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=0mvrl6AXcb8",
-        "thumbnail": "",
+        "service": "amazon_fraud_detector",
+        "videoId": "0mvrl6AXcb8",
         "title": "Kurt Kufeld, VP of AWS Platforms, Announces Amazon Fraud Detector is Generally Available",
         "date": "2020/07/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=FnFckqGa7XE",
-        "thumbnail": "",
+        "service": "amazon_fraud_detector",
+        "videoId": "FnFckqGa7XE",
         "title": "AWS What's Next ft. Amazon Fraud Detector",
         "date": "2020/08/31"
     },
     {
-        "url": "https://www.youtube.com/watch?v=INO3TNT2ECk",
-        "thumbnail": "",
+        "service": "amazon_fraud_detector",
+        "videoId": "INO3TNT2ECk",
         "title": "Fraud Detection: Using ML to Identify and Manage Fraudulent Activities - L200 (United States)",
         "date": "2020/07/24"
     }

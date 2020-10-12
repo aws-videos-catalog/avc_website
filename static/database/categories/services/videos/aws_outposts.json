@@ -1,25 +1,25 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=hpz8mkwEa_Y",
-        "thumbnail": "https://i.ytimg.com/vi/hpz8mkwEa_Y/hqdefault.jpg",
+        "service": "aws_outposts",
+        "videoId": "hpz8mkwEa_Y",
         "title": "Introducing AWS Outposts",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Q6OgRawyjIQ",
-        "thumbnail": "https://i.ytimg.com/vi/Q6OgRawyjIQ/hqdefault.jpg",
+        "service": "aws_outposts",
+        "videoId": "Q6OgRawyjIQ",
         "title": "What is an AWS Outpost Rack?",
         "date": "2019/06/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=b0aZIc_YBs4",
-        "thumbnail": "https://i.ytimg.com/vi/b0aZIc_YBs4/hqdefault.jpg",
+        "service": "aws_outposts",
+        "videoId": "b0aZIc_YBs4",
         "title": "Delivering a Truly Consistent Hybrid Experience Using AWS Outposts",
         "date": "2019/06/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=H8sZT4O9in8",
-        "thumbnail": "https://i.ytimg.com/vi/H8sZT4O9in8/hqdefault.jpg",
+        "service": "aws_outposts",
+        "videoId": "H8sZT4O9in8",
         "title": "Philips: AWS Outposts Customer Testimonial",
         "date": "2019/12/03"
     }

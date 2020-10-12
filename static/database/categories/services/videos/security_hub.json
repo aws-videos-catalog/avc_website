@@ -1,56 +1,56 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=HsWtPG_rTak",
-        "thumbnail": "",
+        "service": "security_hub",
+        "videoId": "HsWtPG_rTak",
         "title": "AWS re:Inforce 2019: AWS Security Hub: Manage Security Alerts & Automate Compliance (DEM15)",
         "date": "2019/06/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=K7V5kNBjGCI",
-        "thumbnail": "",
+        "service": "security_hub",
+        "videoId": "K7V5kNBjGCI",
         "title": "AWS Security Hub: Centrally Manage Security Alerts & Automate Compliance Checks",
         "date": "2019/03/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=xaBIGQX8gog",
-        "thumbnail": "",
+        "service": "security_hub",
+        "videoId": "xaBIGQX8gog",
         "title": "AWS Security Hub - Introduction to Foundational Security Best Practices Standard",
         "date": "2020/08/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=TdT8ds_C8Gs",
-        "thumbnail": "",
+        "service": "security_hub",
+        "videoId": "TdT8ds_C8Gs",
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introduction to AWS Security Hub (SEC397)",
         "date": "2018/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=a4l1UCo3YHE",
-        "thumbnail": "",
+        "service": "security_hub",
+        "videoId": "a4l1UCo3YHE",
         "title": "AWS re:Invent 2018 – Introducing AWS Security Hub",
         "date": "2018/12/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=K3PPzf9ePko",
-        "thumbnail": "",
+        "service": "security_hub",
+        "videoId": "K3PPzf9ePko",
         "title": "Announcing AWS Security Hub",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=kD6JdUAKdV8",
-        "thumbnail": "",
+        "service": "security_hub",
+        "videoId": "kD6JdUAKdV8",
         "title": "AWS re:Inforce 2019: How to Act on Your Security & Compliance Alerts with AWS Security Hub (FND218)",
         "date": "2019/06/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=xFU8EdZpD2g",
-        "thumbnail": "",
+        "service": "security_hub",
+        "videoId": "xFU8EdZpD2g",
         "title": "AWS re:Invent 2019: Monitor security & automate compliance checks with AWS Security Hub (DEM157)",
         "date": "2019/12/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=vhYsm5gq9jE",
-        "thumbnail": "",
+        "service": "security_hub",
+        "videoId": "vhYsm5gq9jE",
         "title": "AWS re:Invent 2019: Threat management in the cloud: Amazon GuardDuty & AWS Security Hub (SEC206-R1)",
         "date": "2019/12/06"
-    }   
+    }
 ]

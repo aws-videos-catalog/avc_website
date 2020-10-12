@@ -1,7 +1,7 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=USzaWjjjOJI",
-        "thumbnail": "",
+        "service": "amazon_appflow",
+        "videoId": "USzaWjjjOJI",
         "title": "Intro to Amazon AppFlow",
         "date": "2020/04/22"
     }

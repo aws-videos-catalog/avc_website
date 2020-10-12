@@ -1,44 +1,44 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=6uMjZ1hYgQk",
-        "thumbnail": "",
+        "service": "mobile_hub",
+        "videoId": "6uMjZ1hYgQk",
         "title": "Introduction to AWS Mobile Hub",
         "date": "2017/11/16"
     },
     {
-        "url": "https://www.youtube.com/watch?v=MgpGROhgO8w",
-        "thumbnail": "",
+        "service": "mobile_hub",
+        "videoId": "MgpGROhgO8w",
         "title": "Introducing AWS Mobile Hub",
         "date": "2015/10/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=vWiJ6hOrfFE",
-        "thumbnail": "",
+        "service": "mobile_hub",
+        "videoId": "vWiJ6hOrfFE",
         "title": "Exploring AWS Mobile Hub Features",
         "date": "2017/11/16"
     },
     {
-        "url": "https://www.youtube.com/watch?v=MMz0XwRPY98",
-        "thumbnail": "",
+        "service": "mobile_hub",
+        "videoId": "MMz0XwRPY98",
         "title": "AWS re:Invent 2015 | (MBL317) NEW! Introducing AWS Mobile Hub",
         "date": "2015/10/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=aj0DXMOcYbk",
-        "thumbnail": "",
+        "service": "mobile_hub",
+        "videoId": "aj0DXMOcYbk",
         "title": "AWS Summit Series 2015 | Barcelona: AWS Mobile Hub Overview",
         "date": "2015/12/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=QG2Dl9Yscy4",
-        "thumbnail": "",
+        "service": "mobile_hub",
+        "videoId": "QG2Dl9Yscy4",
         "title": "Amazon AI and Mobile Hub Integration for Conversation Bot Interface",
         "date": "2017/09/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=mjcmYA_PZCY",
-        "thumbnail": "",
+        "service": "mobile_hub",
+        "videoId": "mjcmYA_PZCY",
         "title": "AWS re:Invent 2017: DevOps for a Mobile World: Building an iOS or Android Mobile App (MBL202)",
         "date": "2017/12/01"
-    }   
+    }
 ]

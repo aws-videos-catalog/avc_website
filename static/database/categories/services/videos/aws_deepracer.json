@@ -1,80 +1,80 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=-N7hXlv2JNA",
-        "thumbnail": "",
+        "service": "aws_deepracer",
+        "videoId": "-N7hXlv2JNA",
         "title": "What is AWS DeepRacer?",
         "date": "2020/04/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=9me296xhHYw",
-        "thumbnail": "",
+        "service": "aws_deepracer",
+        "videoId": "9me296xhHYw",
         "title": "AWS DeepRacer TV - Inside the DeepRacer",
         "date": "2020/02/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=43zqI0n4D7A",
-        "thumbnail": "",
+        "service": "aws_deepracer",
+        "videoId": "43zqI0n4D7A",
         "title": "Get hands on with AWS DeepRacer",
         "date": "2020/02/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=dwUJVYEhxGM",
-        "thumbnail": "",
+        "service": "aws_deepracer",
+        "videoId": "dwUJVYEhxGM",
         "title": "AWS re:Invent 2018 – Announcing AWS DeepRacer (Demo)",
         "date": "2018/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Z_L3EVTV6xQ",
-        "thumbnail": "",
+        "service": "aws_deepracer",
+        "videoId": "Z_L3EVTV6xQ",
         "title": "Reinforcement Learning with AWS DeepRacer and Amazon SageMaker RL (Level 300)",
         "date": "2019/04/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=X-6v4RZy-TE",
-        "thumbnail": "",
+        "service": "aws_deepracer",
+        "videoId": "X-6v4RZy-TE",
         "title": "Introducing AWS DeepRacer",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=C1iJYz7oijo",
-        "thumbnail": "",
+        "service": "aws_deepracer",
+        "videoId": "C1iJYz7oijo",
         "title": "AWS re:Invent 2018 – Announcing AWS DeepRacer",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=M1U_cyAUtU8",
-        "thumbnail": "",
+        "service": "aws_deepracer",
+        "videoId": "M1U_cyAUtU8",
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing AWS DeepRacer (AIM367)",
         "date": "2018/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=N2mktbl8EQk",
-        "thumbnail": "",
+        "service": "aws_deepracer",
+        "videoId": "N2mktbl8EQk",
         "title": "An Under the Hood Tune Up with AWS DeepRacer",
         "date": "2019/12/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=M712jJKDXQo",
-        "thumbnail": "",
+        "service": "aws_deepracer",
+        "videoId": "M712jJKDXQo",
         "title": "AWS Deepracer: Train, Evaluate, and Tune Your Reinforcement Learning Model (Level 300)",
         "date": "2020/09/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Zl3qcbpLtnY",
-        "thumbnail": "",
+        "service": "aws_deepracer",
+        "videoId": "Zl3qcbpLtnY",
         "title": "AWS DeepRacer: Train, Evaluate, and Tune - Level 300 (United States)",
         "date": "2020/07/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=jRUVVwvkCUA",
-        "thumbnail": "",
+        "service": "aws_deepracer",
+        "videoId": "jRUVVwvkCUA",
         "title": "AWS Summit Online ASEAN 2020 | AWS DeepRacer: Train, Evaluate & Tune Reinforcement Learning Models",
         "date": "2020/08/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=OravO9t_L9I",
-        "thumbnail": "",
+        "service": "aws_deepracer",
+        "videoId": "OravO9t_L9I",
         "title": "AWS re:Invent 2019 Launchpad | What's New with DeepRacer",
         "date": "2020/03/17"
-    }   
+    }
 ]

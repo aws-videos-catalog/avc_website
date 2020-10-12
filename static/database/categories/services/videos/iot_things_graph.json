@@ -1,7 +1,7 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=0WQhklWTHuM",
-        "thumbnail": "",
+        "service": "iot_things_graph",
+        "videoId": "0WQhklWTHuM",
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing AWS IoT Things Graph (IOT366)",
         "date": "2018/11/30"
     }

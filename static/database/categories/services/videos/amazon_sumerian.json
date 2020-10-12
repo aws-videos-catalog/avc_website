@@ -1,572 +1,572 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=KaW9D_rHhIc",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "KaW9D_rHhIc",
         "title": "Creating AR/VR Experiences | Ep 1: Intro to Amazon Sumerian",
         "date": "2018/05/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=4EfQ5wH5tTY",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "4EfQ5wH5tTY",
         "title": "Amazon Sumerian - Getting Started 02: Sumerian Basics - Creating a TV Room",
         "date": "2018/05/31"
     },
     {
-        "url": "https://www.youtube.com/watch?v=5n3arQSzo6g",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "5n3arQSzo6g",
         "title": "Build with Amazon Sumerian: Using the Sumerian Product Configurator",
         "date": "2019/07/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=dnZbtPNeZTo",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "dnZbtPNeZTo",
         "title": "Build with Amazon Sumerian | S3 E17 – Virtual Banking Assistant using Amazon Sumerian and Amazon Lex",
         "date": "2019/06/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=LxPo9zerrQI",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "LxPo9zerrQI",
         "title": "Build with Amazon Sumerian | S3 E8 – Integrating AWS Services - Lex, Lambda, & DynamoDB",
         "date": "2019/02/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=oIrSCXswUBg",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "oIrSCXswUBg",
         "title": "Amazon Sumerian: Building a Chatbot Using A Sumerian Host and Amazon Lex",
         "date": "2018/06/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=P7xF-5jbK9Y",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "P7xF-5jbK9Y",
         "title": "Amazon Sumerian | Ep 5: Creating an Interactive Digital Signage Experience",
         "date": "2018/05/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ao2x3sLdXOs",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "ao2x3sLdXOs",
         "title": "Build with Amazon Sumerian | S3 E12 – Educational Escape Room",
         "date": "2019/04/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Tqm8Ge-Md9U",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "Tqm8Ge-Md9U",
         "title": "Amazon Sumerian - Getting Started 03: Add Streaming Video",
         "date": "2018/05/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=CMIXNu66fxs",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "CMIXNu66fxs",
         "title": "Introducing Amazon Sumerian Hosts",
         "date": "2017/11/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=D8OTzUZzq7s",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "D8OTzUZzq7s",
         "title": "Amazon Sumerian: Creating AR Experiences Using Amazon Sumerian",
         "date": "2018/06/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=J3zsG0ejgO8",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "J3zsG0ejgO8",
         "title": "Amazon Sumerian - Getting Started 01: User Interface Overview",
         "date": "2018/05/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=a5qkFcZs4Ro",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "a5qkFcZs4Ro",
         "title": "Amazon Sumerian: How to Add Assets",
         "date": "2018/06/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=lSnqxsRMe20",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "lSnqxsRMe20",
         "title": "Amazon Sumerian",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=_J41HbnoiVM",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "_J41HbnoiVM",
         "title": "Developing AR/VR Experiences with Amazon Sumerian | Ep 2: Creating an Interactive Scene",
         "date": "2018/05/16"
     },
     {
-        "url": "https://www.youtube.com/watch?v=IZcrPAPaGp0",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "IZcrPAPaGp0",
         "title": "Build with Amazon Sumerian | S3 E1 – Creating a Multiplayer Video Game",
         "date": "2019/01/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=PEO0TpaBbPw",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "PEO0TpaBbPw",
         "title": "Build with Amazon Sumerian | S3 E18 – Using Dynamic Content for Virtual Host Presentations",
         "date": "2019/06/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=xTeFBLf_lJg",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "xTeFBLf_lJg",
         "title": "Build with Amazon Sumerian | S3 E5 – Creating a Multiplayer XR Web Application",
         "date": "2019/02/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=4uVLe491uKg",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "4uVLe491uKg",
         "title": "Amazon Sumerian: Using Sumerian to Create a Digital Concierge",
         "date": "2018/06/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=0eWg_jF27Kc",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "0eWg_jF27Kc",
         "title": "Amazon Sumerian - Getting Started 05: Cameras & Lights Basics",
         "date": "2018/05/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-Ha54ph5dAI",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "-Ha54ph5dAI",
         "title": "Engaging Customers with Virtual Hosts Using Amazon Sumerian",
         "date": "2018/11/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=oVSVvnu3deI",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "oVSVvnu3deI",
         "title": "Amazon Sumerian Showcase: Virtual Classroom",
         "date": "2018/06/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=gy7Z5aoixbY",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "gy7Z5aoixbY",
         "title": "Build with Amazon Sumerian | S3 E6 – Pro Tips: Importing 3D Objects",
         "date": "2019/02/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=B-t79bDNQ-4",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "B-t79bDNQ-4",
         "title": "Amazon Sumerian - Getting Started 08: State Machine Basics",
         "date": "2018/06/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=njoYiyIvthA",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "njoYiyIvthA",
         "title": "Build with Amazon Sumerian | S3 E16 – Sumerian: Using Alexa Skills with Amazon Sumerian",
         "date": "2019/05/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Ou323YA1_V0",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "Ou323YA1_V0",
         "title": "Amazon Sumerian - Deep Dive into Real World Applications",
         "date": "2018/09/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=d2H5AmZaoCQ",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "d2H5AmZaoCQ",
         "title": "Build with Amazon Sumerian | S3 E2 – Year in Review and Updates to VR Capabilities",
         "date": "2019/01/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7BwIPFRFHjY",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "7BwIPFRFHjY",
         "title": "Developing AR/VR Experiences with Amazon Sumerian | Ep 6: Foundations - Customizing Your Environment",
         "date": "2018/06/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=QKeCDZWkExQ",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "QKeCDZWkExQ",
         "title": "Developing AR/VR Experiences with Amazon Sumerian | Ep 9: Creating an Augmented Reality Application",
         "date": "2018/07/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=4uVLe491uKg",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "4uVLe491uKg",
         "title": "Amazon Sumerian: Using Sumerian to Create a Digital Concierge",
         "date": "2018/06/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ZJUpLsamhzU",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "ZJUpLsamhzU",
         "title": "Amazon Sumerian: How to Control the Camera",
         "date": "2018/06/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=QKeCDZWkExQ",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "QKeCDZWkExQ",
         "title": "Developing AR/VR Experiences with Amazon Sumerian | Ep 9: Creating an Augmented Reality Application",
         "date": "2018/07/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=UxMmxBe-Bls",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "UxMmxBe-Bls",
         "title": "AWS re:Invent Launchpad 2017 - Amazon Sumerian",
         "date": "2017/12/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=u5jn3V1euFI",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "u5jn3V1euFI",
         "title": "Amazon Sumerian - Getting Started 09: Event Basics",
         "date": "2018/06/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=JsfeY_3-G58",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "JsfeY_3-G58",
         "title": "Build with Amazon Sumerian | S3 E4 – Integrating Amazon SageMaker for Reinforcement Learning",
         "date": "2019/01/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=gy7Z5aoixbY",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "gy7Z5aoixbY",
         "title": "Build with Amazon Sumerian | S3 E6 – Pro Tips: Importing 3D Objects",
         "date": "2019/02/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=3Wtq5PucXsI",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "3Wtq5PucXsI",
         "title": "Amazon Sumerian Showcase: Movie Theater",
         "date": "2018/06/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Snf4lexN8fg",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "Snf4lexN8fg",
         "title": "Amazon Sumerian Showcase: Virtual Newsroom",
         "date": "2018/06/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=wmnyKvOXEo0",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "wmnyKvOXEo0",
         "title": "Build with Amazon Sumerian: Understanding Physically Based Rending (PBR) & Amazon Sumerian",
         "date": "2019/07/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=uLz46loJaE0",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "uLz46loJaE0",
         "title": "Build with Amazon Sumerian | S3 E13 – Create a Digital Asset with Sumerian & AWS IoT",
         "date": "2019/04/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Hrb2H5Op_4E",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "Hrb2H5Op_4E",
         "title": "Building AR/VR Applications on AWS",
         "date": "2019/06/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=_WWO2TVXG44",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "_WWO2TVXG44",
         "title": "Build with Amazon Sumerian | S3 E10 – Virtual Barista",
         "date": "2019/03/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=aFNa6DTrfKc",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "aFNa6DTrfKc",
         "title": "Amazon Sumerian Showcase: Space Station",
         "date": "2018/06/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=e6Ff7eMM0Kk",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "e6Ff7eMM0Kk",
         "title": "Amazon Sumerian: How to Change Background",
         "date": "2018/06/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=SIUd6ig3650",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "SIUd6ig3650",
         "title": "AWS re:Invent 2017: NEW LAUNCH! Amazon Sumerian – A Deep Dive Behind the Scenes (MCL340)",
         "date": "2017/12/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=1rudxWxfV6g",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "1rudxWxfV6g",
         "title": "Amazon Sumerian Showcase: Riding a Train",
         "date": "2018/06/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=2aIXWdW6POY",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "2aIXWdW6POY",
         "title": "Amazon Sumerian | S3 E7 – Integrating Amazon SageMaker for Reinforcement Learning, Pt II",
         "date": "2019/02/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Z4jADiVMPMI",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "Z4jADiVMPMI",
         "title": "Build with Amazon Sumerian | S3 E11 – Interview Simulation",
         "date": "2019/04/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=njoYiyIvthA",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "njoYiyIvthA",
         "title": "Build with Amazon Sumerian | S3 E16 – Sumerian: Using Alexa Skills with Amazon Sumerian",
         "date": "2019/05/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=zY-9JwwAt2M",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "zY-9JwwAt2M",
         "title": "Build with Amazon Sumerian | S3 E9 – Reviewing the Sumerian Hackathon!",
         "date": "2019/03/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7BwIPFRFHjY",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "7BwIPFRFHjY",
         "title": "Developing AR/VR Experiences with Amazon Sumerian | Ep 6: Foundations - Customizing Your Environment",
         "date": "2018/06/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=_84sKJhHhFI",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "_84sKJhHhFI",
         "title": "Amazon Sumerian - Getting Started 04: Flying a Drone",
         "date": "2018/05/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=FJadyQCLTFQ",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "FJadyQCLTFQ",
         "title": "Amazon Sumerian: How to Add a Component",
         "date": "2018/06/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=aP2MXvYjIgM",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "aP2MXvYjIgM",
         "title": "AWS NY Summit - Redefining Customer Engagement with Virtual Hosts using Amazon Sumerian",
         "date": "2018/07/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=IoHs_mTBo-U",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "IoHs_mTBo-U",
         "title": "Amazon Sumerian: How to Add a Camera",
         "date": "2018/06/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=UtPyq7Oi8gk",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "UtPyq7Oi8gk",
         "title": "AWS re:Invent 2017: NEW LAUNCH! Introducing Amazon Sumerian – Build VR/AR and 3D App (MCL211)",
         "date": "2017/12/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=9GXncsWJ9fM",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "9GXncsWJ9fM",
         "title": "Developing AR/VR Apps with Amazon Sumerian | Ep: 8 Foundations - Entering VR",
         "date": "2018/06/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=5TdhpOJmwdA",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "5TdhpOJmwdA",
         "title": "Build with Amazon Sumerian | S3 E15 – Button: A VR Escape Room",
         "date": "2019/05/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KDX6bKLKF7c",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "KDX6bKLKF7c",
         "title": "Amazon Sumerian: How to Add a Light",
         "date": "2018/06/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=CYAtEJAJkUA",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "CYAtEJAJkUA",
         "title": "Amazon Sumerian: How to Edit Entity Rotation",
         "date": "2018/06/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Cg6O47DnC5c",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "Cg6O47DnC5c",
         "title": "WeatherBug: Virtual Weatherperson in Augmented Reality, Powered by Amazon Sumerian",
         "date": "2019/05/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=eB6sciqS60Q",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "eB6sciqS60Q",
         "title": "Build with Amazon Sumerian | S3 E14 – Interview Simulation",
         "date": "2019/04/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ILS7mwdAHzI",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "ILS7mwdAHzI",
         "title": "Developing AR/VR Apps with Amazon Sumerian | Foundations - Creating an Immersive 3D Scene",
         "date": "2018/06/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=0qM-5vJGf5E",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "0qM-5vJGf5E",
         "title": "Amazon Sumerian at AWS Loft | Getting Started: Orientation to AWS Sumerian",
         "date": "2019/02/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=EqDJRdrjb8s",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "EqDJRdrjb8s",
         "title": "AWS Summit - London | twitch.tv/aws | Introduction to Amazon Sumerian",
         "date": "2018/05/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ygsyEtRRH0w",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "ygsyEtRRH0w",
         "title": "Amazon Sumerian at AWS Loft | Creating Your Scene + State Machine 101",
         "date": "2019/02/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Li4M21v25cQ",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "Li4M21v25cQ",
         "title": "Amazon Sumerian - Getting Started 06: Environment Basics",
         "date": "2018/05/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=70T0Z1Mvflw",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "70T0Z1Mvflw",
         "title": "AWS re:Invent 2018: [REPEAT 1] Create Immersive Experiences Using Amazon Sumerian (ARV204-R1)",
         "date": "2018/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=GU8FSNXCrDc",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "GU8FSNXCrDc",
         "title": "Amazon Sumerian: How to Toggle the Grid",
         "date": "2018/06/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=70ZJB0I2ENs",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "70ZJB0I2ENs",
         "title": "Developing AR/VR Apps with Amazon Sumerian | Ep 4 Foundations - Creating Chatbots",
         "date": "2018/05/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=lAzejAcF0rs",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "lAzejAcF0rs",
         "title": "Amazon Sumerian: How to Change Entity Color",
         "date": "2018/06/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=vxCDGWLOpWc",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "vxCDGWLOpWc",
         "title": "Amazon Sumerian: How to Customize the User Interface",
         "date": "2018/06/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-hySpCFaLbo",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "-hySpCFaLbo",
         "title": "Amazon Sumerian: How to Edit Entity Translation",
         "date": "2018/06/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=En18vo3Gl9M",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "En18vo3Gl9M",
         "title": "Amazon Sumerian: How to Edit Entity Scale",
         "date": "2018/06/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ksNBxMkjvag",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "ksNBxMkjvag",
         "title": "Amazon Sumerian: How to Change Adjust Camera Limits",
         "date": "2018/06/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=EcoMeMn2i0k",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "EcoMeMn2i0k",
         "title": "Amazon Sumerian at AWS Loft | Q&A + Special Guest, Mike Jones Founder/CEO BrainFizz VR",
         "date": "2019/02/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=nnIutgONYf0",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "nnIutgONYf0",
         "title": "Amazon AI Conclave 2018 - Building an 3D Amazon Sumerian VR Bot by Atanu Roy & Girish Nair",
         "date": "2019/02/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Tcaf2feGvvY",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "Tcaf2feGvvY",
         "title": "Amazon Sumerian: How to Hide Entities",
         "date": "2018/06/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=sA0Wm7yOJRg",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "sA0Wm7yOJRg",
         "title": "Amazon Sumerian: How to Add an Empty Entity",
         "date": "2018/06/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=UH5r1rEz9Gg",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "UH5r1rEz9Gg",
         "title": "AWS re:Invent 2018: Meet Preston, and Explore Your Digital Twin in Virtual Reality (GPSTEC321)",
         "date": "2018/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=VCSdHC034og",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "VCSdHC034og",
         "title": "Amazon Sumerian: How to Duplicate Entities",
         "date": "2018/06/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=zquuUiGfpQE",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "zquuUiGfpQE",
         "title": "Amazon Sumerian: How to Nest and Group Entities",
         "date": "2018/06/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=inpwxdu5tDE",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "inpwxdu5tDE",
         "title": "Using Virtual Reality to Bring Your ChatBot to Life",
         "date": "2018/11/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=9kpprE0wxpw",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "9kpprE0wxpw",
         "title": "Developing AR & VR Apps - Building Enterprise Applications - Virtual Tour of the Amazon Spheres",
         "date": "2018/10/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=1N-JZf-hEx4",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "1N-JZf-hEx4",
         "title": "Amazon Sumerian: How to Undo and Redo Actions",
         "date": "2018/06/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=eleIMDzWdK4",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "eleIMDzWdK4",
         "title": "Amazon Sumerian: How to Change Entity Names",
         "date": "2018/06/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=91VXDCdlqsg",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "91VXDCdlqsg",
         "title": "Build On AWS: The Virtual Reality Shopping Experience",
         "date": "2018/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=1gA6OIX7f-c",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "1gA6OIX7f-c",
         "title": "Developing AR & VR Apps | Building Enterprise Applications with ThingLogix",
         "date": "2018/09/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=stir2DZqKwU",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "stir2DZqKwU",
         "title": "Getting Started with AR and VR",
         "date": "2018/12/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=c35KBrQg2Ls",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "c35KBrQg2Ls",
         "title": "Developing AR & VR Experiences - New Features & $100,000 Hackathon Challenge",
         "date": "2018/10/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=MIAK9_PCxn0",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "MIAK9_PCxn0",
         "title": "Now You See It, Now You Don't: Augmented Reality (AR) and Virtual Reality (VR) in Public Sector",
         "date": "2018/07/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=JC3YitPgl7E",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "JC3YitPgl7E",
         "title": "AWS re:Invent 2019: Create digital twins using AWS IoT Core and Amazon Sumerian (ARV203)",
         "date": "2019/12/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=pS0lvm6Aky0",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "pS0lvm6Aky0",
         "title": "AWS re:Invent 2019: [REPEAT 1] Create augmented reality experiences with AWS (ARV204-R1)",
         "date": "2019/12/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=y_Fjw9V3Cm8",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "y_Fjw9V3Cm8",
         "title": "AWS Summit Online ASEAN 2020 | Easily Create and Run Browser-based 3d AR Applications",
         "date": "2020/08/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=zSIXp0OAFrg",
-        "thumbnail": "",
+        "service": "amazon_sumerian",
+        "videoId": "zSIXp0OAFrg",
         "title": "AWS Summit Online ASEAN 2020 | The Art of the Possible: Amazon Connect Customer Service Experience",
         "date": "2020/08/28"
-    }   
+    }
 ]

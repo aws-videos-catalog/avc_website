@@ -1,163 +1,177 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=yl25W7LZAMU",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "yl25W7LZAMU",
         "title": "AWS Snowball | Introducing a new 80TB appliance and four new regions",
         "date": "2016/04/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=bxSD1Nha2k8",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "bxSD1Nha2k8",
         "title": "AWS Snowball Edge Overview",
         "date": "2018/07/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=g0GvriwXoe0",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "g0GvriwXoe0",
         "title": "AWS re:Invent 2016: New AWS Snowball Edge, Petabyte-Scale Data Transport with On-Board Storage",
         "date": "2016/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-PqOwc3KURw",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "-PqOwc3KURw",
         "title": "Introducing AWS Import/Export Snowball",
         "date": "2015/10/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=9uc2DSZ1wL8",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "9uc2DSZ1wL8",
         "title": "Introduction to the AWS Snowball - Large-Scale Data Transfers‎ on AWS",
         "date": "2016/02/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=TyH4y3YT8Io",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "TyH4y3YT8Io",
         "title": "AWS Snowball - New Features",
         "date": "2016/08/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6Hw--HE8ILg",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "6Hw--HE8ILg",
         "title": "Using AWS Snowball Edge and AWS DMS for Database Migration",
         "date": "2018/04/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=86ogJHFSJRo",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "86ogJHFSJRo",
         "title": "AWS re:Invent 2015 | (STG202) AWS Import/Export Snowball: Large-Scale Data Ingest into AWS",
         "date": "2015/10/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Cq2qsTr6-7M",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "Cq2qsTr6-7M",
         "title": "AWS Snowball | 80TB Snowball Device",
         "date": "2016/04/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=4eMMEu1W8Rk",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "4eMMEu1W8Rk",
         "title": "Snowball Edge Bringing Disconnected Cloud Capabilities to the Edge",
         "date": "2019/10/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=GrO71qcvM9w",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "GrO71qcvM9w",
         "title": "AWS Snowball: Accelerating Large-Scale Data Ingest Into the AWS Cloud",
         "date": "2016/07/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=tR_qSFEEnmA",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "tR_qSFEEnmA",
         "title": "What can I check if my AWS Snowball appliance isn't able to establish a connection with the network?",
         "date": "2016/06/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=NlxTT-d_MPA",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "NlxTT-d_MPA",
         "title": "Easily Capture, Analyze, and Move Your Data with AWS Snowball v2",
         "date": "2016/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=hxIiEjmVFu0",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "hxIiEjmVFu0",
         "title": "AWS Knowledge Center Videos: How do I unlock an AWS Snowball Edge?",
         "date": "2017/08/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=__ooXhq5gZ4",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "__ooXhq5gZ4",
         "title": "Pushing Physical Limits with AWS Snowball Edge",
         "date": "2017/03/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=cQfxchz-yNI",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "cQfxchz-yNI",
         "title": "Insomniac Supports the EDC (Electric Daisy Carnival) with Snowball Edge",
         "date": "2017/11/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=z8-DeSuKf9I",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "z8-DeSuKf9I",
         "title": "AWS re:Invent 2016: NEW LAUNCH! Introducing AWS Snowball Edge and AWS Snowmobile (STG214)",
         "date": "2016/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=kbQVGW9_TyI",
-        "thumbnail": "",
-        "title": "",
-        "date": "2017/05/10"
+        "service": "snowball",
+        "videoId": "kbQVGW9_TyI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Snowball",
+            "appliance",
+            "device",
+            "ship",
+            "send",
+            "aws knowledge center videos"
+        ],
+        "title": "AWS Knowledge Center Videos: \"How do I prepare to send a Snowball back to AWS?\"",
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/ship-snowball-aws/\n\nJeff Barr, AWS Chief Evangelist, shows how you can get a Snowball appliance ready to ship back to AWS.",
+        "date": "2017-05-10T22:41:25Z"
     },
     {
-        "url": "https://www.youtube.com/watch?v=3yjTG9GafhQ",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "3yjTG9GafhQ",
         "title": "AWS Summit New York 2018 - AWS Announces the C2 AMI Support on the Snowball Edge",
         "date": "2018/07/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=DHnR0kFin80",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "DHnR0kFin80",
         "title": "OSU Hatfield Marine Science Center Uses AWS Snowball Edge",
         "date": "2017/03/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=plpc5U2VgbY",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "plpc5U2VgbY",
         "title": "Photobox Migrates to Amazon S3 with AWS Snowball Edge to Reduce Costs & Accelerate Innovation",
         "date": "2018/07/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=E_xHnfsvl2w",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "E_xHnfsvl2w",
         "title": "Improving Information and Communications in a Disaster Scenario with AWS Snowball Edge",
         "date": "2019/06/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=3Fc5M0JN0SM",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "3Fc5M0JN0SM",
         "title": "AWS Summit New York 2018 - AWS Announces the C2 AMI Support on the Snowball Edge",
         "date": "2018/07/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ZXf64YpiSY8",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "ZXf64YpiSY8",
         "title": "AWS re:Invent 2019: Data migration and edge computing with the AWS Snow family (STG214)",
         "date": "2019/12/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=0gfkyrAUDS4",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "0gfkyrAUDS4",
         "title": "Data Migration and Edge Computing with the AWS Snow Family (STG214) - Novetta",
         "date": "2020/02/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=QVdbFMiJCac",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "QVdbFMiJCac",
         "title": "Data Migration and Edge Computing with the AWS Snow Family (STG214) - Novetta's Benefits",
         "date": "2020/02/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Ejx6rEZeO2E",
-        "thumbnail": "",
+        "service": "snowball",
+        "videoId": "Ejx6rEZeO2E",
         "title": "AWS re:Invent 2019: Machine learning at the edge for industrial applications (IOT356-P)",
         "date": "2019/12/05"
     }

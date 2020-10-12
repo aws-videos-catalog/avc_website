@@ -1,97 +1,97 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=jXPN12ReUJg",
-        "thumbnail": "",
+        "service": "amazon_polly",
+        "videoId": "jXPN12ReUJg",
         "title": "Text-to-Speech with Amazon Polly",
         "date": "2017/08/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=PLnRzHNmcao",
-        "thumbnail": "",
+        "service": "amazon_polly",
+        "videoId": "PLnRzHNmcao",
         "title": "Building Intelligent Chatbots with Amazon Lex & Amazon Polly",
         "date": "2018/04/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=b1dyAOh3NeE",
-        "thumbnail": "",
+        "service": "amazon_polly",
+        "videoId": "b1dyAOh3NeE",
         "title": "AWS re:Invent 2017: Amazon Polly Tips and Tricks: How to Bring Your Text-to-Speech V (MCL307)",
         "date": "2017/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=MKxE8_qQTFQ",
-        "thumbnail": "",
+        "service": "amazon_polly",
+        "videoId": "MKxE8_qQTFQ",
         "title": "AWS re:Invent 2016: Introducing Amazon Polly",
         "date": "2016/12/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=9cXjTQ3Af5M",
-        "thumbnail": "",
+        "service": "amazon_polly",
+        "videoId": "9cXjTQ3Af5M",
         "title": "AWS Educate - Bring Your Site to Life with Amazon Polly",
         "date": "2018/10/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=5HYR0_FXSYc",
-        "thumbnail": "",
+        "service": "amazon_polly",
+        "videoId": "5HYR0_FXSYc",
         "title": "Live Coding with AWS | Reading Web Pages with Amazon Polly & Chrome Extensions",
         "date": "2018/02/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=OhLrxGw-zJA",
-        "thumbnail": "",
+        "service": "amazon_polly",
+        "videoId": "OhLrxGw-zJA",
         "title": "Scaling FICO Customer Communication Services with Amazon Polly Text-to-Speech",
         "date": "2018/04/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=RkTgi6O58xo",
-        "thumbnail": "",
+        "service": "amazon_polly",
+        "videoId": "RkTgi6O58xo",
         "title": "How Policybazaar Uses Amazon Polly to Personalize the Customer Experience",
         "date": "2019/02/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=UO0hGTvqLUs",
-        "thumbnail": "",
+        "service": "amazon_polly",
+        "videoId": "UO0hGTvqLUs",
         "title": "Using Amazon Translate, Amazon Polly, and Amazon Rekognition with .NET",
         "date": "2019/10/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=lYGl5qE6q7s",
-        "thumbnail": "",
+        "service": "amazon_polly",
+        "videoId": "lYGl5qE6q7s",
         "title": "AWS Summit Series 2017 - San Francisco: Amazon Polly Introduces a Whispered Voice Tag",
         "date": "2017/04/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-tC55viYFQo",
-        "thumbnail": "",
+        "service": "amazon_polly",
+        "videoId": "-tC55viYFQo",
         "title": "Amazon Polly Adds New Whispered Voice Tag, and Speech Marks for Synchronization w/Visual Animation",
         "date": "2017/04/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=zjMqimHis3U",
-        "thumbnail": "",
+        "service": "amazon_polly",
+        "videoId": "zjMqimHis3U",
         "title": "AWS re:Invent 2016: NEW LAUNCH! Introducing Amazon Polly (MAC204)",
         "date": "2016/12/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Yj513sy2rCw",
-        "thumbnail": "",
+        "service": "amazon_polly",
+        "videoId": "Yj513sy2rCw",
         "title": "Live from the London Loft | Introducing Amazon Rekognition and Amazon Polly",
         "date": "2017/10/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=HTjkjMr8vzQ",
-        "thumbnail": "",
+        "service": "amazon_polly",
+        "videoId": "HTjkjMr8vzQ",
         "title": "AWS re:Invent 2017: Creating Next Generation Speech-Enabled Applications with Amazon (MCL206)",
         "date": "2017/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=TeLvFqLW_0A",
-        "thumbnail": "",
+        "service": "amazon_polly",
+        "videoId": "TeLvFqLW_0A",
         "title": "AWS re:Invent 2017: Building a Voice-Enabled Customer Service Chatbot Using Amazon L (MCL301)",
         "date": "2017/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=84qIFomfnLk",
-        "thumbnail": "",
+        "service": "amazon_polly",
+        "videoId": "84qIFomfnLk",
         "title": "AWS Summit Online ASEAN 2020 | Turn Text Into Lifelike Speech Using Deep Learning",
         "date": "2020/08/28"
     }

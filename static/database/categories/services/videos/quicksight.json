@@ -1,218 +1,218 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=2V1bHRLRG-w",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "2V1bHRLRG-w",
         "title": "Introducing Amazon QuickSight",
         "date": "2019/04/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=VHAjFa5Tdmg",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "VHAjFa5Tdmg",
         "title": "Amazon QuickSight Embedded Analytics Demo",
         "date": "202007/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=2JnfuAA-TiU",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "2JnfuAA-TiU",
         "title": "Analyzing AWS Billing Data Using Amazon Quicksight",
         "date": "2017/05/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Tj0gW4XI6vU",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "Tj0gW4XI6vU",
         "title": "Introducing Amazon QuickSight",
         "date": "2015/10/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=C_eT0xRNjCs",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "C_eT0xRNjCs",
         "title": "Amazon QuickSight - Overview",
         "date": "2016/11/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=UKxkPi5mJno",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "UKxkPi5mJno",
         "title": "Customizing Your Visuals in Amazon Quicksight",
         "date": "2017/05/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=x9RUtTzqpr0",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "x9RUtTzqpr0",
         "title": "Using SQL to Import Data into Amazon Quicksight",
         "date": "2017/05/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=EmnCpgSdy8U",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "EmnCpgSdy8U",
         "title": "Creating Your First Visual with Amazon Quicksight",
         "date": "2017/05/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=xusKVM5NiCE",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "xusKVM5NiCE",
         "title": "Sharing Your Analysis and Insights Using Amazon Quicksight",
         "date": "2017/05/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=dprtSTSbCEE",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "dprtSTSbCEE",
         "title": "AWS re:Invent 2017: Building Visualizations and Dashboards with Amazon QuickSight (ABD206)",
         "date": "2017/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8ZzS48whR78",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "8ZzS48whR78",
         "title": "AWS re:Invent 2018: Embedding Amazon QuickSight dashboards in your applications (DEM128)",
         "date": "2018/12/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=GATR05jEvMo",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "GATR05jEvMo",
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing ML Insights with Amazon QuickSight - Demo (DEM127)",
         "date": "2018/12/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=FhI1kVABMF0",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "FhI1kVABMF0",
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing ML Insights with Amazon QuickSight (ANT379)",
         "date": "2018/12/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=st85EJa-kCY",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "st85EJa-kCY",
         "title": "Business Intelligence in Minutes with Amazon Athena and Amazon QuickSight",
         "date": "2018/11/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=wag45xRSNBo",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "wag45xRSNBo",
         "title": "How can I create an AWS Managed Microsoft AD to authenticate users in Amazon QuickSight?",
         "date": "2018/08/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=teyfv9r_d6c",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "teyfv9r_d6c",
         "title": "Accessing Amazon S3 Data from Amazon Quicksight",
         "date": "2017/05/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=W5BDD3cpTEQ",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "W5BDD3cpTEQ",
         "title": "Amazon QuickSight - Sales Pipeline Analysis",
         "date": "2016/11/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=_4Sfd14NckU",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "_4Sfd14NckU",
         "title": "Data Preparation in Amazon Quicksight",
         "date": "2017/05/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=AhPYfMUqdQY",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "AhPYfMUqdQY",
         "title": "How do I troubleshoot AWS resource permission errors in Amazon QuickSight?",
         "date": "2019/10/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=rJaijdRf7KI",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "rJaijdRf7KI",
         "title": "AWS re:Invent 2018: NFL & Forwood Safety Deploy Analytics at Scale w/ Amazon QuickSight (ANT311)",
         "date": "2018/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Ul3J8VX7zmM",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "Ul3J8VX7zmM",
         "title": "AWS re:Invent 2017: Data Visualization with Amazon QuickSight (DEM74)",
         "date": "2017/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=B6kmBLDck8w",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "B6kmBLDck8w",
         "title": "Introducing Dashboard Embedding and ML Insights with Amazon QuickSight",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=CRcRS3qos-A",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "CRcRS3qos-A",
         "title": "Accessing Amazon Redshift Data from Amazon Quicksight",
         "date": "2017/05/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=vm1y8yu-4xY",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "vm1y8yu-4xY",
         "title": "Amazon QuickSight - HR Operations",
         "date": "2016/11/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=0KKFG1_eIP4",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "0KKFG1_eIP4",
         "title": "Amazon QuickSight - Revenue Analysis",
         "date": "2016/11/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=3oESjUgpt18",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "3oESjUgpt18",
         "title": "Amazon QuickSight - ML Insights",
         "date": "2019/04/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=im4pENONU90",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "im4pENONU90",
         "title": "Amazon QuickSight - Marketing Sample",
         "date": "2016/11/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=tGrQ8oi3xxM",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "tGrQ8oi3xxM",
         "title": "AWS re:Invent 2016: Visualizing Big Data Insights with Amazon QuickSight (BDM204 )",
         "date": "2016/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=X7mN_59OBcw",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "X7mN_59OBcw",
         "title": "AWS Summit Series 2016 | Chicago - Getting Started with Amazon QuickSight",
         "date": "2016/04/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Slv6KUFuiQ4",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "Slv6KUFuiQ4",
         "title": "AWS re:Invent 2015 | (BDT319) New! Amazon QuickSight: Cloud-native Business Intelligence",
         "date": "2015/10/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=hIr_1VCSdoU",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "hIr_1VCSdoU",
         "title": "How do I ingest and visualize the AWS Cost and Usage Report (CUR) into QuickSight?",
         "date": "2020/08/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=4s_Pwk-2Z78",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "4s_Pwk-2Z78",
         "title": "AWS Summit Tel Aviv 2016: Explore Your Data Using Amazon QuickSight",
         "date": "2016/07/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=YBHRWfOzrTA",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "YBHRWfOzrTA",
         "title": "Easy Analytics on AWS with Amazon Redshift, Amazon QuickSight, and Amazon Machine Learning",
         "date": "2016/07/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-Moswm1qo-M",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "-Moswm1qo-M",
         "title": "AWS Summit Series 2015 | Barcelona: Amazon Quicksight, Business",
         "date": "2015/12/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8m3iJayTpxI",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "8m3iJayTpxI",
         "title": "AWS re:Invent 2019: Embedding analytics into applications with Amazon QuickSight (ANT217)",
         "date": "2019/12/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=O80ghnkxag4",
-        "thumbnail": "",
+        "service": "quicksight",
+        "videoId": "O80ghnkxag4",
         "title": "AWS re:Invent 2019 Launchpad | QuickSight Features Launch",
         "date": "2020/03/16"
-    }  
+    }
 ]

@@ -1,50 +1,50 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=_gezaWmwzYY",
-        "thumbnail": "",
+        "service": "cloudhsm",
+        "videoId": "_gezaWmwzYY",
         "title": "AWS re:Inforce 2019: Achieving Security Goals with AWS CloudHSM (SDD333)",
         "date": "2019/06/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=0fpPESoFCew",
-        "thumbnail": "",
+        "service": "cloudhsm",
+        "videoId": "0fpPESoFCew",
         "title": "Live from the NY Summit | AWS CloudHSM Launch",
         "date": "2017/08/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=IMxImFoVpmI",
-        "thumbnail": "",
+        "service": "cloudhsm",
+        "videoId": "IMxImFoVpmI",
         "title": "Staying Armed with AWS Cloud HSM and AWS WAF",
         "date": "2017/10/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=t15Ijwzs48k",
-        "thumbnail": "",
+        "service": "cloudhsm",
+        "videoId": "t15Ijwzs48k",
         "title": "How do I view my AWS CloudHSM Audit logs?",
         "date": "2019/12/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=AAitIKFeO6k",
-        "thumbnail": "",
+        "service": "cloudhsm",
+        "videoId": "AAitIKFeO6k",
         "title": "Announcing KMS Custom Key Stores using CloudHSM",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=qW9y5lBig_8",
-        "thumbnail": "",
+        "service": "cloudhsm",
+        "videoId": "qW9y5lBig_8",
         "title": "AWS Summit Series 2017 - New York: Introducing the New AWS CloudHSM",
         "date": "2017/08/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=hCxkWGAWJCM",
-        "thumbnail": "",
+        "service": "cloudhsm",
+        "videoId": "hCxkWGAWJCM",
         "title": "AWS Symposium - Washington, DC | Encryption Revolution: Protecting Your Data With KMS and CloudHSM",
         "date": "2015/08/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Vox-PDRHIUs",
-        "thumbnail": "",
+        "service": "cloudhsm",
+        "videoId": "Vox-PDRHIUs",
         "title": "AWS re:Invent 2019: [REPEAT 1] Achieving security goals with AWS CloudHSM (SEC305-R1)",
         "date": "2019/12/09"
-    }   
+    }
 ]

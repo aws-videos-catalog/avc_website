@@ -34,7 +34,7 @@ export default {
         name: 'category-name-video',
         params: {
           ...this.$route.params,
-          video: this.video.id
+          video: this.video.videoId
         }
       }
     },

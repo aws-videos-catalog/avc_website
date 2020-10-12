@@ -1,14 +1,14 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=9JP5zRRusrQ",
-        "thumbnail": "",
+        "service": "aws_marketplace_subscriptions",
+        "videoId": "9JP5zRRusrQ",
         "title": "Getting Started with AWS Marketplace for Buyers",
         "date": "2019/09/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KKKUR_5-Thg",
-        "thumbnail": "",
+        "service": "aws_marketplace_subscriptions",
+        "videoId": "KKKUR_5-Thg",
         "title": "How do I view and manage my software subscriptions on the AWS Marketplace?",
         "date": "2019/10/21"
-    }   
+    }
 ]

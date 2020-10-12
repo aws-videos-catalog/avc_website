@@ -1,170 +1,170 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=SnqABG8e9Zk",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "SnqABG8e9Zk",
         "title": "Create Modern Serverless Web Applications in Minutes using the AWS Amplify Framework",
         "date": "2019/10/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ZBroe4z66Zg",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "ZBroe4z66Zg",
         "title": "Accelerating App Development with AWS Amplify",
         "date": "2019/06/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=DHLZAzdT44Y",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "DHLZAzdT44Y",
         "title": "Deploy a ReactJS app to the AWS Amplify Console",
         "date": "2019/04/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=CAueVfEYn6s",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "CAueVfEYn6s",
         "title": "Building Full Stack Cloud Apps with Vue and AWS Amplify",
         "date": "2020/09/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=wSHnmtnzbfs",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "wSHnmtnzbfs",
         "title": "AWS Amplify Authentication Flow for iOS SwiftUI",
         "date": "2020/08/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=kxuKS_MIFCE",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "kxuKS_MIFCE",
         "title": "AWS Amplify Web Hosting - How to Deploy a React Application From the AWS Amplify CLI",
         "date": "2020/06/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=HSJNK8aTpgU",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "HSJNK8aTpgU",
         "title": "AWS Amplify Console and New Features in AWS AppSync",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=5YkGYB0qdzc",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "5YkGYB0qdzc",
         "title": "Store & Retrieve Data in Amazon S3 with React & AWS Amplify",
         "date": "2018/11/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=n4DuYTzpvdE",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "n4DuYTzpvdE",
         "title": "Installing & Configuring the AWS Amplify CLI",
         "date": "2018/11/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=vAjf3lyjf8c",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "vAjf3lyjf8c",
         "title": "AWS re:Invent 2017: Analytics, Authentication and Data with JavaScript: AWS Amplify (MBL403)",
         "date": "2017/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=PuD33WoNnaU",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "PuD33WoNnaU",
         "title": "Using the withAuthenticator HOC to Implement a User Authentication Flow",
         "date": "2018/11/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KZHgmhTa8iw",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "KZHgmhTa8iw",
         "title": "Deploying Your React Application to AWS Using the AWS Amplify CLI",
         "date": "2018/11/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=1CzuKblf2DQ",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "1CzuKblf2DQ",
         "title": "Creating & Configuring a New AWS Amplify Project with a React Application",
         "date": "2018/11/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=TxTnLLpSRq0",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "TxTnLLpSRq0",
         "title": "Creating & Interacting with a Serverless AWS Lambda REST API with React & AWS Amplify",
         "date": "2018/11/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=hSMFtJLI3Uo",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "hSMFtJLI3Uo",
         "title": "Take Mobile and Web Apps to the Next Level with AWS AppSync and AWS Amplify",
         "date": "2019/06/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6vFVyb2T3b4",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "6vFVyb2T3b4",
         "title": "AWS Mobile Week - San Francisco: Introduction to AWS Amplify Toolchain",
         "date": "2018/10/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=a_klcMRUfaM",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "a_klcMRUfaM",
         "title": "Building AWS AppSync APIs Using the AWS Amplify CLI",
         "date": "2018/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=pZ61oDwrCK0",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "pZ61oDwrCK0",
         "title": "Creating & Interacting with an AWS AppSync GraphQL API with React & AWS Amplif",
         "date": "2018/11/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=TPyLJLOrHlE",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "TPyLJLOrHlE",
         "title": "Developing Mobile Apps on AWS",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=pFvnSqVvj4E",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "pFvnSqVvj4E",
         "title": "Build High Quality Mobile Apps in Minutes with AWS (Level 200)",
         "date": "2018/08/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ttKXTtnxlIg",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "ttKXTtnxlIg",
         "title": "AWS Summit Tel Aviv 2019 | Frontend and Mobile with AWS Amplify",
         "date": "2019/03/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Xl240CVmoQU",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "Xl240CVmoQU",
         "title": "Costruisci e distribuisci applicazioni web moderne con AWS Amplify Console",
         "date": "2019/02/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=egXBcNNUvDA",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "egXBcNNUvDA",
         "title": "Building Serverless Applications with AWS Amplify - Level 400 (United States)",
         "date": "2020/07/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=DcrtvgaVdCU",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "DcrtvgaVdCU",
         "title": "AWS re:Invent 2019: [REPEAT 1] Production-grade full-stack apps with AWS Amplify (MOB308-R1)",
         "date": "2019/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=NUuB8QGze6w",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "NUuB8QGze6w",
         "title": "Live Coding on AWS Amplify (Level 400)",
         "date": "2020/09/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=EqlVIz4-oWc",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "EqlVIz4-oWc",
         "title": "Full-stack Mobile and Web Development With AWS Amplify (Level 300)",
         "date": "2020/09/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=K3hLlHNCjbQ",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "K3hLlHNCjbQ",
         "title": "AWS re:Invent 2019: Speed up native mobile development with AWS Amplify (MOB317)",
         "date": "2019/12/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=fzZ9-h6OCkk",
-        "thumbnail": "",
+        "service": "aws_amplify",
+        "videoId": "fzZ9-h6OCkk",
         "title": "AWS re:Invent 2019: Upgrade your APIs from REST to GraphQL with AWS AppSync & AWS Amplify (SVS364-P)",
         "date": "2019/12/05"
-    }   
+    }
 ]

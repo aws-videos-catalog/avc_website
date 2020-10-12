@@ -1,31 +1,31 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=y7Mff1ceypo",
-        "thumbnail": "",
+        "service": "swf",
+        "videoId": "y7Mff1ceypo",
         "title": "Amazon Simple Workflow",
         "date": "2020/10/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=rKeS3RpMEOw",
-        "thumbnail": "",
+        "service": "swf",
+        "videoId": "rKeS3RpMEOw",
         "title": "Infor: Serverless Application Testing with AWS Lambda, Amazon SWF and Amazon DynamoDB",
         "date": "2017/04/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=lBUQiek8Jqk",
-        "thumbnail": "",
+        "service": "swf",
+        "videoId": "lBUQiek8Jqk",
         "title": "Webinar: Introduction to Amazon SWF",
         "date": "2012/03/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Z_dvXy4AVEE",
-        "thumbnail": "",
+        "service": "swf",
+        "videoId": "Z_dvXy4AVEE",
         "title": "Getting Started with AWS Flow Framework for Ruby for Amazon SWF",
         "date": "2013/08/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=sXGlQruUrWE",
-        "thumbnail": "",
+        "service": "swf",
+        "videoId": "sXGlQruUrWE",
         "title": "7 Use Cases in 7 Minutes Each : The Power of Workflows and Automation (SVC101) | AWS re:Invent 2013",
         "date": "2013/11/26"
     }

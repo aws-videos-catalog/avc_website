@@ -1,115 +1,115 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=zb4GcjEdl8U",
-        "thumbnail": "",
+        "service": "database_migration_service",
+        "videoId": "zb4GcjEdl8U",
         "title": "AWS Database Migration Service (DMS)",
         "date": "2019/02/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ouia1Sc5QGo",
-        "thumbnail": "",
+        "service": "database_migration_service",
+        "videoId": "ouia1Sc5QGo",
         "title": "AWS Database Migration Service",
         "date": "2016/03/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=11IHvxjy4hw",
-        "thumbnail": "",
+        "service": "database_migration_service",
+        "videoId": "11IHvxjy4hw",
         "title": "AWS re:Invent 2018: Migrating Databases to the Cloud with AWS Database Migration Service (DAT207)",
         "date": "2018/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=wsHg1XRss8U",
-        "thumbnail": "",
+        "service": "database_migration_service",
+        "videoId": "wsHg1XRss8U",
         "title": "Introducing AWS Database Migration Service",
         "date": "2015/10/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=CfGy1n9HwRA",
-        "thumbnail": "",
+        "service": "database_migration_service",
+        "videoId": "CfGy1n9HwRA",
         "title": "How do I use Transformations in AWS Database Migration Service (DMS)?",
         "date": "2019/11/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=mb3nFZLY0vM",
-        "thumbnail": "",
+        "service": "database_migration_service",
+        "videoId": "mb3nFZLY0vM",
         "title": "How do I migrate databases from an RDS Oracle DB instance to an RDS MySQL DB instance using DMS?",
         "date": "2017/11/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=w-Fdc2efycE",
-        "thumbnail": "",
+        "service": "database_migration_service",
+        "videoId": "w-Fdc2efycE",
         "title": "How do I set up detailed debug logging for an AWS Database Migration Service task?",
         "date": "2018/07/31"
     },
     {
-        "url": "https://www.youtube.com/watch?v=nMTtQOtgp9g",
-        "thumbnail": "",
+        "service": "database_migration_service",
+        "videoId": "nMTtQOtgp9g",
         "title": "AWS Summit Series 2016 | Chicago - Getting Started with AWS Database Migration Service",
         "date": "2016/04/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=hh4nTyXfwWw",
-        "thumbnail": "",
+        "service": "database_migration_service",
+        "videoId": "hh4nTyXfwWw",
         "title": "Why is my AWS Database Migration Service (AWS DMS) replication instance in a storage-full status?",
         "date": "2020/05/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=pcYxB8ATtec",
-        "thumbnail": "",
+        "service": "database_migration_service",
+        "videoId": "pcYxB8ATtec",
         "title": "How do I use Source Filters in my AWS Database Migration Service (DMS) tasks?",
         "date": "2020/04/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=EcS9PC_TnG0",
-        "thumbnail": "",
+        "service": "database_migration_service",
+        "videoId": "EcS9PC_TnG0",
         "title": "Migrating Oracle to Aurora PostgreSQL Utilizing AWS Database Migration Service (DMS)",
         "date": "2018/07/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=VhXDa9SPDLw",
-        "thumbnail": "",
+        "service": "database_migration_service",
+        "videoId": "VhXDa9SPDLw",
         "title": "How do I create a Replication Instance in AWS Database Migration Service?",
         "date": "2020/01/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=PuYSPJc8hf0",
-        "thumbnail": "",
+        "service": "database_migration_service",
+        "videoId": "PuYSPJc8hf0",
         "title": "AWS Cloud Data Migration Services",
         "date": "2016/04/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=rOpIZyqrGlI",
-        "thumbnail": "",
+        "service": "database_migration_service",
+        "videoId": "rOpIZyqrGlI",
         "title": "How do I create Event Subscriptions in AWS Database Migration Service (AWS DMS)?",
         "date": "2020/01/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=RdR4V7LTN8A",
-        "thumbnail": "",
+        "service": "database_migration_service",
+        "videoId": "RdR4V7LTN8A",
         "title": "How do I create a Replication Instance in AWS DMS?",
         "date": "2019/11/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KAuS-ge_X7Y",
-        "thumbnail": "",
+        "service": "database_migration_service",
+        "videoId": "KAuS-ge_X7Y",
         "title": "AWS re:Invent 2019: Get your data to AWS: How to choose and use data migration services (STG204-R1)",
         "date": "2019/12/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Brhwab-qp1E",
-        "thumbnail": "",
+        "service": "database_migration_service",
+        "videoId": "Brhwab-qp1E",
         "title": "AWS re:Invent 2019: Analytical use cases with AWS Database Migration Service (AWS DMS) (DAT360-R1)",
         "date": "2019/12/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=kJs9U4ys5FE",
-        "thumbnail": "",
+        "service": "database_migration_service",
+        "videoId": "kJs9U4ys5FE",
         "title": "AWS re:Invent 2019: [REPEAT 1] Dive deep into AWS SCT and AWS DMS (DAT362-R1)",
         "date": "2020/01/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=N9XZ1VXEnp4",
-        "thumbnail": "",
+        "service": "database_migration_service",
+        "videoId": "N9XZ1VXEnp4",
         "title": "AWS re:Invent 2019: Amazon.com: Enterprise database migration at scale (AMZ301)",
         "date": "2019/12/06"
     }

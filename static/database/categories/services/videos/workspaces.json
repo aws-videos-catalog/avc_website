@@ -1,326 +1,326 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=NiPZgy1nIDs",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "NiPZgy1nIDs",
         "title": "How do I create a WorkSpace image in Amazon WorkSpaces?",
         "date": "2020/04/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=TGXQrk4dmI8",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "TGXQrk4dmI8",
         "title": "Intro to Amazon WorkSpaces",
         "date": "2019/02/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=vansN5WHHTY",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "vansN5WHHTY",
         "title": "Dive into Amazon WorkSpaces with Jeff Barr",
         "date": "2019/04/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Spko2ZQXjsE",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "Spko2ZQXjsE",
         "title": "AWS re:Invent 2018: Desktops & Applications to AWS with Amazon WorkSpaces & AppStream 2.0 (BAP323)",
         "date": "2018/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=bObeTwFN9yA",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "bObeTwFN9yA",
         "title": "Introduction to Amazon WorkSpaces Virtual Desktop Running on the Samsung Galaxy S8 with DeX Station",
         "date": "2017/04/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=9lYPIfh2lM4",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "9lYPIfh2lM4",
         "title": "Automating Amazon WorkSpaces Desktop and AppStream 2.0 Application Provisioning (119667)",
         "date": "2017/06/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=0dAWld31HWo",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "0dAWld31HWo",
         "title": "Amazon Workspaces Helps Improve Efficiency at Autodesk University",
         "date": "2017/12/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7bvVbouQhKg",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "7bvVbouQhKg",
         "title": "How do I configure WorkSpaces to be accessed from Android?",
         "date": "2018/12/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=76fHZC3iF8c",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "76fHZC3iF8c",
         "title": "Amazon IT uses Amazon WorkSpaces Globally to Enable Remote Work",
         "date": "2020/08/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6OXMgOKPhAc",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "6OXMgOKPhAc",
         "title": "AWS Knowledge Center Videos: How do I create a WorkSpace image in Amazon WorkSpaces?",
         "date": "2016/10/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=uE4x5kWVox4",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "uE4x5kWVox4",
         "title": "AWS Summit Series 2016 | Chicago - Amazon WorkSpaces and Amazon WorkSpaces Application Manager",
         "date": "2016/04/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=yfJb6Eoapsg",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "yfJb6Eoapsg",
         "title": "AWS re:Invent 2017: Migrate Your Desktops to Amazon WorkSpaces (BAP303)",
         "date": "2017/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=9Q-ahnw2Lsc",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "9Q-ahnw2Lsc",
         "title": "AWS re:Invent 2016: Best Practices from the Trenches: Deploy Amazon WorkSpaces Like a Pro (BAP402)",
         "date": "2016/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=XOJy6DBj-yQ",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "XOJy6DBj-yQ",
         "title": "Endemol Shine Group Streamlines Desktop Operations with Amazon WorkSpaces",
         "date": "2016/08/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=aCsrKqaO4OQ",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "aCsrKqaO4OQ",
         "title": "AWS Knowledge Center Videos: How do I enable hourly WorkSpaces?",
         "date": "2017/03/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ikCwILfdiCY",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "ikCwILfdiCY",
         "title": "Move Your Desktops to AWS with Amazon WorkSpaces",
         "date": "2018/11/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=cVk8HTGudeE",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "cVk8HTGudeE",
         "title": "AWS Knowledge Center Videos: How do I rebuild a WorkSpace in Amazon WorkSpaces?",
         "date": "2016/10/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ICdabdrC964",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "ICdabdrC964",
         "title": "Deploying Amazon WorkSpaces at Scale with Johnson & Johnson",
         "date": "2015/07/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=lOChwAEDIvQ",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "lOChwAEDIvQ",
         "title": "Set Up Amazon WorkSpaces as a Product in Your ServiceNow Portal",
         "date": "2020/03/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Q6r_QbYXFpg",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "Q6r_QbYXFpg",
         "title": "SynchroNet: Extending User Automation and Amazon WorkSpaces Provisioning with AWS Step Functions",
         "date": "2019/08/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6oNC-Vxekxo",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "6oNC-Vxekxo",
         "title": "AWS Symposium - Washington, DC | Amazon Workspaces Application Manager",
         "date": "2015/08/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=sLPZkDO_c4A",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "sLPZkDO_c4A",
         "title": "Amazon WorkSpaces - Web Access",
         "date": "2016/11/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Of9NAz0ze6Q",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "Of9NAz0ze6Q",
         "title": "AWS Knowledge Center Videos: How do I connect to my WorkSpace using RDP?",
         "date": "2016/10/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=1eotXYBko3U",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "1eotXYBko3U",
         "title": "AWS re:Invent 2017: Top 5 Tips and Tricks for Amazon WorkSpaces (DEM51)",
         "date": "2017/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=SmPro7FR-tQ",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "SmPro7FR-tQ",
         "title": "Introducing AWS Marketplace for Desktop Apps and Amazon WorkSpaces Application Manager",
         "date": "2015/04/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=fbYqaz2oTq4",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "fbYqaz2oTq4",
         "title": "AWS Knowledge Center Videos: How do I monitor Amazon WorkSpaces with Amazon CloudWatch?",
         "date": "2017/11/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=2VplSa54iWM",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "2VplSa54iWM",
         "title": "Amazon WorkSpaces: Advanced Topics and Application Delivery",
         "date": "2015/04/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8-UndQZWys0",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "8-UndQZWys0",
         "title": "How can I connect to my Amazon Linux WorkSpaces using SSH?",
         "date": "2019/11/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Zd2CWEdrN7o",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "Zd2CWEdrN7o",
         "title": "AWS re:Invent 2017: Building On-Demand Classrooms and Labs Using Amazon WorkSpaces a (WPS207)",
         "date": "2017/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ytYfYRj0E98",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "ytYfYRj0E98",
         "title": "Using Amazon WorkSpaces to Support Compute Intensive Curricula at a Distance",
         "date": "2019/06/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=bNyCC7fJ-uU",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "bNyCC7fJ-uU",
         "title": "Amazon WorkSpaces: Desktop Computing in the Cloud (ENT104) | AWS re:Invent 2013",
         "date": "2013/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=anuFhaL-oyA",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "anuFhaL-oyA",
         "title": "Amazon Directory Services, Amazon WorkSpaces, Amazon WorkMail, and Amazon WorkDocs",
         "date": "2015/08/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=gSairkcFJFI",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "gSairkcFJFI",
         "title": "Enable Self-Service Actions for Amazon WorkSpaces through ServiceNow",
         "date": "2020/03/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=eK-P1cv50N8",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "eK-P1cv50N8",
         "title": "AWS re:Invent 2018: How to Move to Amazon WorkSpaces and Replace Your Legacy VDI (BAP305)",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=iAkkuuUJVUk",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "iAkkuuUJVUk",
         "title": "Managing WorkSpaces at Scale | AWS Public Sector Summit 2016",
         "date": "2016/07/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=lEZsm4hx_C4",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "lEZsm4hx_C4",
         "title": "AWS Launchpad on twitch.tv/aws | AWS Introduces Amazon Linux WorkSpaces",
         "date": "2018/07/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=cfJLHqle80Y",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "cfJLHqle80Y",
         "title": "AWS re:Invent 2016: Hardware-Accelerating Graphics Desktop Workloads with Amazon WorkSpaces (BAP210)",
         "date": "2016/12/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=feeJ07QzAiY",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "feeJ07QzAiY",
         "title": "AWS re:Invent 2014 | (SDD420) Amazon WorkSpaces: Advanced Topics and Deep Dive",
         "date": "2014/11/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KPUDKjUcc5E",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "KPUDKjUcc5E",
         "title": "AWS re:Invent 2017: GPS: Image management Best Practices for Amazon WorkSpaces (GPSTEC316)",
         "date": "2017/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=mHfvz4UGifE",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "mHfvz4UGifE",
         "title": "Dropbox Innovates Smart Workspace, Analytics Platform on AWS",
         "date": "2020/06/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=kawZBGCLBJU",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "kawZBGCLBJU",
         "title": "AWS re:Invent 2015 | (ISM403) How Amazon.com is Moving to Amazon WorkSpaces",
         "date": "2015/10/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=zf7V3ezwnQQ",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "zf7V3ezwnQQ",
         "title": "AWS re:Invent 2014 | (SOV208) Amazon WorkSpaces and Amazon Zocalo",
         "date": "2014/11/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=mBPVA1RI5sg",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "mBPVA1RI5sg",
         "title": "Improve Enterprise Productivity with Secure Digital Workspaces",
         "date": "2018/04/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=N45klH3ojBI",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "N45klH3ojBI",
         "title": "AWS Knowledge Center Videos: How do I associate an Elastic IP address with a WorkSpace?",
         "date": "2017/10/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=dppP7rrkqc8",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "dppP7rrkqc8",
         "title": "AWS re:Invent 2016: Deploying Amazon WorkSpaces at Enterprise Scale (ENT201)",
         "date": "2016/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=nBG0sGe04kY",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "nBG0sGe04kY",
         "title": "AWS re:Invent 2017: End-User Computing on AWS with Amazon WorkSpaces and Amazon AppS (ENT329)",
         "date": "2017/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=BVxh3GfqrbM",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "BVxh3GfqrbM",
         "title": "AWS Knowledge Center Videos: How do I update directory details for a WorkSpace?",
         "date": "2017/06/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7wd8q5gMp98",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "7wd8q5gMp98",
         "title": "AWS Summit SF 2018: Move your Desktops & Apps to AWS with Amazon WorkSpaces & AppStream 2 (ENT307)",
         "date": "2018/04/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=OEUA3aSyEHs",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "OEUA3aSyEHs",
         "title": "AWS re:Invent 2016: Extra! News UK Saves Money with Hourly Amazon WorkSpaces (BAP202)",
         "date": "2016/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=r2Bh1hc-fak",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "r2Bh1hc-fak",
         "title": "AWS re:Invent 2016: Move your desktops to the cloud with Amazon WorkSpaces (BAP201)",
         "date": "2016/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=wYOHMQoYWIA",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "wYOHMQoYWIA",
         "title": "AWS re:Invent 2019: How Facebook deployed Amazon WorkSpaces globally (EUC404)",
         "date": "2019/12/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=kjTcfPoIYXk",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "kjTcfPoIYXk",
         "title": "AWS re:Invent 2019: How to use Amazon Linux WorkSpaces for agile development (EUC330-P)",
         "date": "2019/12/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=LSVi_b3DUUs",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "LSVi_b3DUUs",
         "title": "AWS re:Invent 2019: Carnival Cruise Line moved from on-premises VDI to Amazon WorkSpaces (EUC338)",
         "date": "2019/12/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=IhPGkdalG-s",
-        "thumbnail": "",
+        "service": "workspaces",
+        "videoId": "IhPGkdalG-s",
         "title": "AWS Summit 2015 | Singapore - Grow Your SMB Infrastructure on the AWS Cloud",
         "date": "2015/05/29"
-    }   
+    }
 ]

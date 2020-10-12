@@ -1,14 +1,14 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=GHZWrneWXx8",
-        "thumbnail": "",
+        "service": "mediastore",
+        "videoId": "GHZWrneWXx8",
         "title": "AWS re:Invent Launchpad 2017 - AWS Elemental: MediaPackage, MediaLive, MediaStore,....",
         "date": "2017/12/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=d-XCfp97pX0",
-        "thumbnail": "",
+        "service": "mediastore",
+        "videoId": "d-XCfp97pX0",
         "title": "AWS Solutions: Video on Demand (VOD)",
         "date": "2019/09/24"
-    }   
+    }
 ]

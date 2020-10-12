@@ -1,7 +1,7 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=KL9SICG52zY",
-        "thumbnail": "",
+        "service": "resource_access_manager",
+        "videoId": "KL9SICG52zY",
         "title": "AWS Resource Access Manager",
         "date": "2020/06/19"
     }

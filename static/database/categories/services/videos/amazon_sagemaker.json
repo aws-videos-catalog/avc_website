@@ -1,721 +1,721 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=jSrg1BgQzRo",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "jSrg1BgQzRo",
         "title": "Amazon SageMaker",
         "date": "2020/06/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=uQc8Itd4UTs",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "uQc8Itd4UTs",
         "title": "Fully-Managed Notebook Instances with Amazon SageMaker - a Deep Dive",
         "date": "2019/07/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=lO224Iec-uI",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "lO224Iec-uI",
         "title": "Live Coding with AWS | Training and Deploying AI with Amazon SageMaker",
         "date": "2018/02/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=lM4zhNO5Rbg",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "lM4zhNO5Rbg",
         "title": "AWS re:Invent 2017 - Introducing Amazon SageMaker",
         "date": "2017/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=gYXqv1UxW3Y",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "gYXqv1UxW3Y",
         "title": "Formula 1: Using Amazon SageMaker to Deliver Real-Time Insights to Fans (LIVE)",
         "date": "2020/01/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KFuc2KWrTHs",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "KFuc2KWrTHs",
         "title": "Deploy Your ML Models to Production at Scale with Amazon SageMaker",
         "date": "2019/07/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7QSsysGX14w",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "7QSsysGX14w",
         "title": "Amazon SageMaker Studio - A Fully Integrated Development Environment For Machine Learning",
         "date": "2020/05/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=wjNW5P7geDw",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "wjNW5P7geDw",
         "title": "Getting Started with AI/ML Using Amazon SageMaker",
         "date": "2018/10/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-t2NNaRZ_NE",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "-t2NNaRZ_NE",
         "title": "Predictive Analytics with Amazon SageMaker",
         "date": "2018/11/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=zLOMYKZGxK0",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "zLOMYKZGxK0",
         "title": "Organize, Track, and Evaluate ML Training Runs With Amazon SageMaker Experiments",
         "date": "2020/05/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Z9FtrRq0rc0",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "Z9FtrRq0rc0",
         "title": "Get Scheduled Predictions on Your ML Models with Amazon SageMaker Batch Transform",
         "date": "2019/09/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=yGc0qePSYig",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "yGc0qePSYig",
         "title": "Built-in Machine Learning Algorithms with Amazon SageMaker - a Deep Dive",
         "date": "2019/07/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=zTJTzKcNzMk",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "zTJTzKcNzMk",
         "title": "An Overview of Amazon SageMaker Security (Level 100)",
         "date": "2019/04/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Xph2ajPEDPQ",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "Xph2ajPEDPQ",
         "title": "Train Your ML Models Accurately with Amazon SageMaker",
         "date": "2019/07/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=d7BCQ4YYK7Q",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "d7BCQ4YYK7Q",
         "title": "Build and Train Machine Learning Models with Amazon Redshift and Amazon SageMaker",
         "date": "2020/05/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=u3oFpjq0ciY",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "u3oFpjq0ciY",
         "title": "Deploying TensorFlow Models on AWS Inferentia Based Inf1 Instances with Amazon SageMaker",
         "date": "2020/07/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6p6y67Zlbus",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "6p6y67Zlbus",
         "title": "How redBus Uses Amazon SageMaker to Reduce the Time-to-Market",
         "date": "2019/03/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=wzwkLV9gDXk",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "wzwkLV9gDXk",
         "title": "Amazon SageMaker for Fraud Detection",
         "date": "2018/05/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=GJ1So_pbZWk",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "GJ1So_pbZWk",
         "title": "Taysols: Next Best Offer Recommendation System using Amazon SageMaker",
         "date": "2019/07/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=OuQvFd44vw4",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "OuQvFd44vw4",
         "title": "econda GmbH: Building a Real-Time Personalization Engine with Amazon Sagemaker and AWS ECS",
         "date": "2019/05/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=E_nUM_ufKCA",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "E_nUM_ufKCA",
         "title": "Real-Time Machine Learning on Satellite Imagery: How DigitalGlobe Uses Amazon SageMaker",
         "date": "2018/07/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=N3Rl569ysrA",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "N3Rl569ysrA",
         "title": "Building Hyper-Personalized Customer Service Using Freshworks and Amazon Sagemaker",
         "date": "2019/11/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=iIM0iperqcE",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "iIM0iperqcE",
         "title": "Active Learning on Kubernetes and Amazon SageMaker",
         "date": "2019/08/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KCzgR7eQ3PY",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "KCzgR7eQ3PY",
         "title": "AWS Innovate | Intro to Deep Learning: Building an Image Classifier on Amazon SageMaker",
         "date": "2019/02/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=yx1vf3uapX8",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "yx1vf3uapX8",
         "title": "Detect Anomalies in Your Data with Amazon SageMaker (Level 300)",
         "date": "2018/08/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8J7y513oSsE",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "8J7y513oSsE",
         "title": "Accurately Automating Dataset Labelling Using Amazon SageMaker GroundTruth (Level 200)",
         "date": "2019/04/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=VeEGAeohe7c",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "VeEGAeohe7c",
         "title": "Use the Deep Learning Framework of Your Choice with Amazon SageMaker",
         "date": "2019/09/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Ra4pDxbIK2M",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "Ra4pDxbIK2M",
         "title": "Automatically Build, Train, and Tune ML Models With Amazon SageMaker Autopilot",
         "date": "2020/05/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=r79IRtHAhG8",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "r79IRtHAhG8",
         "title": "Browsi: Using ML to Predict Ad Viewability with Amazon SageMaker",
         "date": "2018/10/31"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Bus4ldBVgLM",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "Bus4ldBVgLM",
         "title": "Getting Started with Amazon SageMaker - Build, Train, and Deploy Machine Learning Models",
         "date": "2019/04/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=1kbWvlHBYLk",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "1kbWvlHBYLk",
         "title": "Inawisdom: Machine Learning and Automated Model Retraining with SageMaker",
         "date": "2019/01/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6skqe2IuI34",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "6skqe2IuI34",
         "title": "AWS re:Invent 2018 - Announcing Amazon SageMaker RL",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=YQyid2uLOvI",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "YQyid2uLOvI",
         "title": "Bring Your Own Custom ML Models with Amazon SageMaker",
         "date": "2019/07/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=cSYFqKRQ0j0",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "cSYFqKRQ0j0",
         "title": "AWS re:Inforce 2019: Amazon SageMaker Model Development in a Highly Regulated Environment (SDD315)",
         "date": "2019/06/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=RPInYpI9MjY",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "RPInYpI9MjY",
         "title": "Amazon SageMaker’s Built-in Algorithm Webinar Series: Clustering with K Means",
         "date": "2018/11/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=sy578M-7hd0",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "sy578M-7hd0",
         "title": "AWS and edX Bring You Amazon SageMaker: Simplifying Machine Learning Application Development",
         "date": "2018/12/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=UnBLNGjE2fo",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "UnBLNGjE2fo",
         "title": "Builders' Lab: Amazon SageMaker",
         "date": "2018/05/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=xpZFNIOaQns",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "xpZFNIOaQns",
         "title": "Tune Your ML Models to the Highest Accuracy with Amazon SageMaker Automatic Model Tuning",
         "date": "2019/09/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=jWWyKE5ApqI",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "jWWyKE5ApqI",
         "title": "AWS re:Invent 2018: Build & Deploy ML Models Quickly & Easily with Amazon SageMaker (AIM404-R)",
         "date": "2018/11/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=cTsCMTxEPHs",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "cTsCMTxEPHs",
         "title": "How to Build an AWS DeepLens Project Using Amazon SageMaker",
         "date": "2018/06/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=HSTK-9r2WVM",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "HSTK-9r2WVM",
         "title": "Build, Train and Deploy ML Models at Scale with Amazon SageMaker",
         "date": "2018/04/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=gjiozYXHKc8",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "gjiozYXHKc8",
         "title": "AWS re:Invent 2018 – Introducing Amazon SageMaker Ground Truth",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=naJtxNeA-4o",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "naJtxNeA-4o",
         "title": "Lithology Prediction in Oil & Gas with Amazon Sagemaker",
         "date": "2018/07/2018"
     },
     {
-        "url": "https://www.youtube.com/watch?v=CwX9mjupbJo",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "CwX9mjupbJo",
         "title": "AWS re:Invent 2018: How Peak.AI Uses Amazon SageMaker for Product Personalization (GPSTEC316)",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=zJTXbjgDtjU",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "zJTXbjgDtjU",
         "title": "ML Model Deployment Techniques using Amazon SageMaker Managed Deployment",
         "date": "2019/04/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=3id6srjB5A8",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "3id6srjB5A8",
         "title": "Solving with AWS Solutions: Predictive Segmentation using Amazon Pinpoint and Amazon SageMaker",
         "date": "2020/04/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=MuWe2INvIXw",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "MuWe2INvIXw",
         "title": "New Data Processing Capabilities in Amazon SageMaker for Training & Inference",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=RjhrugELYW8",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "RjhrugELYW8",
         "title": "AWS re:Invent 2018 - Announcing Amazon SageMaker Neo",
         "date": "2018/11/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=VdjhsDzpb_4",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "VdjhsDzpb_4",
         "title": "New Amazon SageMaker Feature Launches Announced at AWS San Francisco Summit 2018",
         "date": "2018/04/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=HlSEUvApDZE",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "HlSEUvApDZE",
         "title": "Secure and compliant machine learning workflows with Amazon SageMaker",
         "date": "2020/05/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=VKaJN3ylmUM",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "VKaJN3ylmUM",
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Machine Learning w/ Amazon SageMaker & AWS Marketplace (AIM371)",
         "date": "2018/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=syq92fnmIxg",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "syq92fnmIxg",
         "title": "SageMaker - Bring your Own Container",
         "date": "2019/05/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=4pbXdsjZx_k",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "4pbXdsjZx_k",
         "title": "AWS re:Invent 2017: NEW LAUNCH! Introducing Amazon SageMaker (MCL365)",
         "date": "2017/12/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-PWjI6Ri2aY",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "-PWjI6Ri2aY",
         "title": "AWS re:Invent 2018: ML Workflows with Amazon SageMaker and AWS Step Functions (API325)",
         "date": "2018/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=JsfeY_3-G58",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "JsfeY_3-G58",
         "title": "Build with Amazon Sumerian | S3 E4 – Integrating Amazon SageMaker for Reinforcement Learning",
         "date": "2019/01/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=yy-5xwCe04I",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "yy-5xwCe04I",
         "title": "Supercharge Your Machine Learning Model with Amazon SageMaker",
         "date": "2018/11/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7C1h3ttkRAQ",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "7C1h3ttkRAQ",
         "title": "Seismic Density Prediction in Oil & Gas with Amazon Sagemaker",
         "date": "2018/07/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=sLktFah2Xi4",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "sLktFah2Xi4",
         "title": "AWS Builders' Day | Machine Learning: From Notebook to Production with Amazon Sagemaker",
         "date": "2018/12/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=rd0Ze9Uq890",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "rd0Ze9Uq890",
         "title": "AWS re:Invent 2018: Smarter Event-Driven Edge with Amazon SageMaker & Project Flogo (AIM204-S)",
         "date": "2018/11/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=G2tX0YpNHfc",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "G2tX0YpNHfc",
         "title": "Amazon SageMaker’s Built-in Algorithm Webinar Series: Blazing Text",
         "date": "2018/11/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ggVWnnRXtYc",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "ggVWnnRXtYc",
         "title": "AWS Partner Webinar: Object2Vec on Amazon SageMaker",
         "date": "2019/08/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Q6i2d17PVYc",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "Q6i2d17PVYc",
         "title": "Machine Learning: From Notebook to Production with Amazon Sagemakers",
         "date": "2018/04/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=GKKa0crWVYo",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "GKKa0crWVYo",
         "title": "AWS Chicago Summit 2018 - Accelerate Machine Learning with Ease Using Amazon SageMaker",
         "date": "2018/08/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=WWYoCyva4ek",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "WWYoCyva4ek",
         "title": "AWS Innovate 2019 | Using Amazon SageMaker for Fraud Prediction on Credit Card Transactions",
         "date": "2019/02/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=LMfIYVFvjPI",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "LMfIYVFvjPI",
         "title": "Amazon SageMaker: Build, Train, and Deploy Machine Learning Models Quickly & Easily, at scale",
         "date": "2019/06/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=_TVKa-noVKE",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "_TVKa-noVKE",
         "title": "FogHorn: Real Time Inference at the Edge with FogHorn, Amazon IoT & Amazon SageMaker",
         "date": "2019/10/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=c_jv3llDKU0",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "c_jv3llDKU0",
         "title": "Improve model quality with Amazon SageMaker Automatic Model Tuning by Kumar Venkateswar",
         "date": "2019/02/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6EYEoAqihPg",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "6EYEoAqihPg",
         "title": "AWS re:Invent 2018: CI/CD for Your Machine Learning Pipeline with Amazon SageMaker (DVC303)",
         "date": "2018/11/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=nnob7a-JdZA",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "nnob7a-JdZA",
         "title": "Smaato Reduces Networking Costs by 75% With Amazon SageMaker",
         "date": "2020/02/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=2aIXWdW6POY",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "2aIXWdW6POY",
         "title": "Amazon Sumerian | S3 E7 – Integrating Amazon SageMaker for Reinforcement Learning, Pt II",
         "date": "2019/02/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=oBZFH5U6B4s",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "oBZFH5U6B4s",
         "title": "Earth-i Delivers Planetary Insights from Space with Amazon SageMaker",
         "date": "2019/10/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=sy5py5m55jw",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "sy5py5m55jw",
         "title": "How redBus Uses Amazon SageMaker to Reduce the Time-to-Market [PROMO]",
         "date": "2019/03/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=PQXvHjef2hY",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "PQXvHjef2hY",
         "title": "AWS Summit Tel Aviv 2019 | Using TensorFlow with Amazon SageMaker",
         "date": "2019/03/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=3tHUGmlclI4",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "3tHUGmlclI4",
         "title": "AWS re:Invent 2018: Integrate Amazon SageMaker with Apache Spark, ft. Moody's (AIM403-R1)",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Qv39_P4ONSg",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "Qv39_P4ONSg",
         "title": "Amazon SageMaker- Feature Launches",
         "date": "2018/04/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=DcPBCiFfDEs",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "DcPBCiFfDEs",
         "title": "AWS Builders' Day | Machine Learning: From Notebook to Production with Amazon Sagemaker",
         "date": "2018/02/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=75f7gKZOHXA",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "75f7gKZOHXA",
         "title": "AWS Partner Webinar: Amazon SageMaker: The 4 Components and Interoperability",
         "date": "2019/08/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ami2RFJBrsI",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "ami2RFJBrsI",
         "title": "Chicago Summit 2018 - Machine Learning with Amazon SageMaker - Algorithms and Frameworks",
         "date": "2018/08/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ae08a6Bp5lM",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "ae08a6Bp5lM",
         "title": "Amazon SageMaker’s Built-in Algorithm Webinar Series: Linear Learner",
         "date": "2018/11/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=xbB0thXcVAo",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "xbB0thXcVAo",
         "title": "AWS Builders' Day | An Introduction to Reinforcement Learning with Amazon SageMaker RL",
         "date": "2018/12/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=CDg55-GkIm4",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "CDg55-GkIm4",
         "title": "Scale up Training of Your ML Models with Distributed Training on Amazon SageMaker",
         "date": "2019/09/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ATCXCcrA0oE",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "ATCXCcrA0oE",
         "title": "Course Hero uses Amazon Athena for big data processing, Amazon SageMaker to personalize searches",
         "date": "2019/11/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=34cyqyLN6wU",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "34cyqyLN6wU",
         "title": "AWS Partner Webinar: Building Integrations with Amazon SageMaker Ground Truth",
         "date": "2019/08/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=oQOQ8nvgu1w",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "oQOQ8nvgu1w",
         "title": "Build Highly Accurate Training Datasets at Reduced Costs with Amazon SageMaker Ground Truth",
         "date": "2019/09/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=c2TGPlvAHLs",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "c2TGPlvAHLs",
         "title": "NuData Security: Identity Validation with Amazon SageMaker",
         "date": "2019/08/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=pZIV5NWfGIU",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "pZIV5NWfGIU",
         "title": "Amazon SageMaker’s Built-in Algorithm Webinar Series: Sequence2Sequence",
         "date": "2018/11/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=SDQZMSpvR8U",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "SDQZMSpvR8U",
         "title": "Manage Deep Learning Models at Scale with Amazon SageMaker (Level 300)",
         "date": "2018/08/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=9BWHR4JsTNU",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "9BWHR4JsTNU",
         "title": "AWS Partner Webinar: Random Cut Forest on Amazon SageMaker",
         "date": "2019/08/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=GcJ6uK_jur4",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "GcJ6uK_jur4",
         "title": "AWS Summit New York 2018 - Announcing Amazon SageMaker",
         "date": "2018/07/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=g8UYGh0tlK0",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "g8UYGh0tlK0",
         "title": "Amazon SageMaker’s Built-in Algorithm Webinar Series: DeepAR Forecasting",
         "date": "2018/11/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=THcH0tMdZ6o",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "THcH0tMdZ6o",
         "title": "Amazon SageMaker’s Built-in Algorithm Webinar Series: XGBoost",
         "date": "2018/11/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Ac5m4-xWtCU",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "Ac5m4-xWtCU",
         "title": "AWS re:Invent 2019: Amazon SageMaker deep dive: A modular solution for machine learning (AIM307)",
         "date": "2019/12/06"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=E04JXdnPN0w",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "E04JXdnPN0w",
         "title": "AWS re:Invent 2019: Natural language modeling with Amazon SageMaker BlazingText algorithm (AIM375-P)",
         "date": "2019/12/05"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=kou1gQmSmCU",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "kou1gQmSmCU",
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Introducing Amazon SageMaker Studio, full IDE for ML (AIM214-R1)",
         "date": "2019/12/10"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=4B3AhgVjMzk",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "4B3AhgVjMzk",
         "title": "Automatically Build Models With Amazon Sagemaker (Level 400)",
         "date": "2020/09/01"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=A04TT68Bd8A",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "A04TT68Bd8A",
         "title": "Deep Demand Forecasting with Amazon SageMaker",
         "date": "2020/07/21"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=b0oU8d85Tck",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "b0oU8d85Tck",
         "title": "AWS re:Invent 2019: Build predictive models using Amazon SageMaker (DEM148)",
         "date": "2019/12/08"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=Nlwz4cU68T8",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "Nlwz4cU68T8",
         "title": "Explaining Credit Decisions with Amazon SageMaker - Webinar",
         "date": "2020/07/20"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=asuYSd5OmAE",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "asuYSd5OmAE",
         "title": "AWS re:Invent 2019: Security for ML environments w/ Amazon SageMaker, featuring Vanguard (AIM327-R1)",
         "date": "2019/12/05"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=mKVZukgtkcA",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "mKVZukgtkcA",
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Amazon SageMaker Autopilot: Auto-generate ML models (AIM215-R)",
         "date": "2019/12/10"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=74EeQ2WRTNY",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "74EeQ2WRTNY",
         "title": "Amazon AI Conclave 2019 - Amazon SageMaker: Building and Managing Ml Pipelines at Scale",
         "date": "2020/02/11"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=RcvmX_BCLUk",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "RcvmX_BCLUk",
         "title": "How Amazon SageMaker Helped NerdWallet Build an Ml Platform",
         "date": "2020/01/21"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=NRMs0_Eu-98",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "NRMs0_Eu-98",
         "title": "Build NLP Models with Amazon SageMaker (Level 300)",
         "date": "2020/09/01"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=G-wzIQQJKaE",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "G-wzIQQJKaE",
         "title": "AWS re:Invent 2019: Implement ML workflows with Kubernetes and Amazon SageMaker (AIM326-R1)",
         "date": "2019/12/09"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=6WJxzKsIFKA",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "6WJxzKsIFKA",
         "title": "AWS re:Invent 2019: Build accurate training datasets with Amazon SageMaker Ground Truth (AIM308)",
         "date": "2019/12/05"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=K59N25u4zak",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "K59N25u4zak",
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] New Amazon SageMaker notebook experience (AIM230-R1)",
         "date": "2019/12/10"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=P_oCAbSYRwY",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "P_oCAbSYRwY",
         "title": "Fraud Detection in Financial Transaction Networks with Amazon SageMaker - Webinar",
         "date": "2020/07/21"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=whPKYfXTtw4",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "whPKYfXTtw4",
         "title": "Fraud Detection with Amazon SageMaker",
         "date": "2020/07/28"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=vRB9Uncsia8",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "vRB9Uncsia8",
         "title": "AWS re:Invent 2019: The right instance type in Amazon SageMaker, ft. Texas Instruments (AIM311-R1)",
         "date": "2019/12/08"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=BvXtbtKkFQE",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "BvXtbtKkFQE",
         "title": "AWS Summit Online ASEAN 2020 | Amazon SageMaker Features to Accelerate Your Machine Learning Journey",
         "date": "2020/08/28"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=4hPWEcXbhHI",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "4hPWEcXbhHI",
         "title": "Fraud Detection in Financial Transaction Networks with Amazon SageMaker",
         "date": "2020/07/28"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=fgLlEnhFZQA",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "fgLlEnhFZQA",
         "title": "AWS re:Invent 2019: [REPEAT] Implement ML workflows with Kubernetes and Amazon SageMaker (AIM326-R)",
         "date": "2019/12/03"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=elRQPCHDBPE",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "elRQPCHDBPE",
         "title": "Fraud Detection with Amazon SageMaker - Webinar",
         "date": "2020/07/21"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=l75sikQOvzs",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "l75sikQOvzs",
         "title": "Amazon AI Conclave 2019 - Amazon SageMaker: Rapid Model Development",
         "date": "2020/03/02"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=FKgivdwzO5g",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "FKgivdwzO5g",
         "title": "AWS re:Invent 2019: End-to-end machine learning using Spark and Amazon SageMaker (ADM302-R1)",
         "date": "2019/12/08"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=9uNlSANqvSQ",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "9uNlSANqvSQ",
         "title": "AWS re:Invent 2019: Drive transformation through machine learning with Amazon SageMaker (DEM27-S)",
         "date": "2019/12/04"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=S8907xvgGso",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "S8907xvgGso",
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Amazon SageMaker Debugger: Insights into ML model (AIM216-R1)",
         "date": "2019/12/10"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=x-HoZLdUOyU",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "x-HoZLdUOyU",
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Amazon SageMaker Debugger: Insights into ML model (AIM216-R)",
         "date": "2019/12/10"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=TdWn1YZggLw",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "TdWn1YZggLw",
         "title": "Safer Driving Using Amazon SageMaker and AWS Messaging Services",
         "date": "2020/01/21"
-    }, 
+    },
     {
-        "url": "https://www.youtube.com/watch?v=Lfp2OJFLkzw",
-        "thumbnail": "",
+        "service": "amazon_sagemaker",
+        "videoId": "Lfp2OJFLkzw",
         "title": "AWS re:Invent 2019 Launchpad | Amazon SageMaker Operators for Kubernetes",
         "date": "2020/03/17"
     }

@@ -1,91 +1,91 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=vge8RKkAI1Q",
-        "thumbnail": "",
+        "service": "freertos",
+        "videoId": "vge8RKkAI1Q",
         "title": "Opening the IoT with FreeRTOS",
         "date": "2019/10/31"
     },
     {
-        "url": "https://www.youtube.com/watch?v=aeP0A67eNEg",
-        "thumbnail": "",
+        "service": "freertos",
+        "videoId": "aeP0A67eNEg",
         "title": "What is Amazon FreeRTOS?",
         "date": "2017/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7fNFKYAuHls",
-        "thumbnail": "",
+        "service": "freertos",
+        "videoId": "7fNFKYAuHls",
         "title": "AWS re:Invent 2018: Amazon FreeRTOS: IoT Operating System for Microcontrollers (IOT208-R1)",
         "date": "2018/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=a0MQ0LQ7OrY",
-        "thumbnail": "",
+        "service": "freertos",
+        "videoId": "a0MQ0LQ7OrY",
         "title": "AWS re:Inforce 2019: Amazon FreeRTOS Security Best Practices (FND212)",
         "date": "2019/06/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=yYzOuyWH_ks",
-        "thumbnail": "",
+        "service": "freertos",
+        "videoId": "yYzOuyWH_ks",
         "title": "IoT All the Things | S2 Ep2 | Tiny Hardware, Big Cloud: Set Yourself Free[RTOS]",
         "date": "2020/05/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=RFP_1HoR4aU",
-        "thumbnail": "",
+        "service": "freertos",
+        "videoId": "RFP_1HoR4aU",
         "title": "AWS re:Invent 2017 - Introducing Amazon FreeRTOS",
         "date": "2017/12/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Omj324zSHko",
-        "thumbnail": "",
+        "service": "freertos",
+        "videoId": "Omj324zSHko",
         "title": "AWS re:Invent 2018: Use Bluetooth Low Energy (BLE) to Connect Amazon FreeRTOS devices (DEM125)",
         "date": "2018/12/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=iKXzcRnIvWA",
-        "thumbnail": "",
+        "service": "freertos",
+        "videoId": "iKXzcRnIvWA",
         "title": "AWS re:Invent 2018: Computing at the Edge with AWS Greengrass & Amazon FreeRTOS, ft. Enel (IOT213)",
         "date": "2018/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7lw9ySOsuzk",
-        "thumbnail": "",
+        "service": "freertos",
+        "videoId": "7lw9ySOsuzk",
         "title": "AWS re:Invent 2017: NEW LAUNCH! AWS Greengrass and Amazon FreeRTOS... Integrating th (IOT403)",
         "date": "2017/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=DF0PayBKhAQ",
-        "thumbnail": "",
+        "service": "freertos",
+        "videoId": "DF0PayBKhAQ",
         "title": "AWS re:Invent Launchpad 2017 - Amazon FreeRTOS",
         "date": "2017/12/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=PerMQkl1QkE",
-        "thumbnail": "",
+        "service": "freertos",
+        "videoId": "PerMQkl1QkE",
         "title": "AWS re:Invent 2017: NEW LAUNCH! Amazon FreeRTOS: IoT Operating System for Microcontr (IOT212)",
         "date": "2017/12/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=J8DIbV-I3fk",
-        "thumbnail": "",
+        "service": "freertos",
+        "videoId": "J8DIbV-I3fk",
         "title": "IoT All The Things | S1 E2 – Going to the Edge of the Edge with Amazon FreeRTOS",
         "date": "2019/04/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=MXEBjUZtT8Y",
-        "thumbnail": "",
+        "service": "freertos",
+        "videoId": "MXEBjUZtT8Y",
         "title": "AWS re:Invent 2018: Computing at the Edge with AWS Greengrass & Amazon FreeRTOS (IOT206)",
         "date": "2018/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=1Pxe5Gasta0",
-        "thumbnail": "",
+        "service": "freertos",
+        "videoId": "1Pxe5Gasta0",
         "title": "IoT All The Things | S1 E3 – Connecting Buildings to New Opportunities with IoT",
         "date": "2019/05/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=PI3ZwRo4_JU",
-        "thumbnail": "",
+        "service": "freertos",
+        "videoId": "PI3ZwRo4_JU",
         "title": "AWS re:Invent 2019: What's new with AWS IoT Device Software? (IOT214)",
         "date": "2020/01/15"
     }

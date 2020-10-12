@@ -1,32 +1,32 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=pTQrAZbHmRU",
-        "thumbnail": "",
+        "service": "certificate_manager",
+        "videoId": "pTQrAZbHmRU",
         "title": "How can I add certificates for websites to the ELB using AWS Certificate Manager?",
         "date": "2018/09/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=i15RMC8ntj0",
-        "thumbnail": "",
+        "service": "certificate_manager",
+        "videoId": "i15RMC8ntj0",
         "title": "How does ACM managed renewal work with certificates that have wildcards and sub-domains?",
         "date": "2019/05/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=zXoXavMNimo",
-        "thumbnail": "",
+        "service": "certificate_manager",
+        "videoId": "zXoXavMNimo",
         "title": "AWS re:Inforce 2019: Root CA Hierarchies for AWS Certificate Manager (ACM) Private CA (FND320)",
         "date": "2019/06/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=TgQJ2Xtue1A",
-        "thumbnail": "",
+        "service": "certificate_manager",
+        "videoId": "TgQJ2Xtue1A",
         "title": "AWS Summit San Francisco 2018 - AWS Certificate Manager Private Certificate Authority",
         "date": "2018/04/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7BfyEJFRNFg",
-        "thumbnail": "",
+        "service": "certificate_manager",
+        "videoId": "7BfyEJFRNFg",
         "title": "AWS Private Certificate Authority",
         "date": "2018/04/10"
-    }   
+    }
 ]

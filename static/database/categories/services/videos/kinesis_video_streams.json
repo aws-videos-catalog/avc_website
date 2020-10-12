@@ -1,31 +1,31 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=mrLsGq0HFVk",
-        "thumbnail": "",
+        "service": "kinesis_video_streams",
+        "videoId": "mrLsGq0HFVk",
         "title": "AWS re:Invent 2018: Serverless Video Ingestion & Analytics with Amazon Kinesis Video Streams ANT208",
         "date": "2018/11/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=STEMa3t5NOQ",
-        "thumbnail": "",
+        "service": "kinesis_video_streams",
+        "videoId": "STEMa3t5NOQ",
         "title": "AWS re:Invent 2017 - Introducing Amazon Kinesis Video Streams",
         "date": "2017/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=rjBXbktBxBg",
-        "thumbnail": "",
+        "service": "kinesis_video_streams",
+        "videoId": "rjBXbktBxBg",
         "title": "AWS re:Invent 2017: NEW LAUNCH! Introducing Amazon Kinesis Video Streams (ABD216)",
         "date": "2017/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=P0O3zBNbtk0",
-        "thumbnail": "",
+        "service": "kinesis_video_streams",
+        "videoId": "P0O3zBNbtk0",
         "title": "AWS re:Invent Launchpad 2017 - Amazon Kinesis Video Streams",
         "date": "2017/12/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=c9crp1vQ0lI",
-        "thumbnail": "",
+        "service": "kinesis_video_streams",
+        "videoId": "c9crp1vQ0lI",
         "title": "AWS re:Invent 2019: Simplify video streaming for millions of smart home cameras (ANT318-R1)",
         "date": "2019/12/10"
     }

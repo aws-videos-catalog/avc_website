@@ -1,145 +1,145 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=rHeTn9pHNKo",
-        "thumbnail": "https://i.ytimg.com/vi/rHeTn9pHNKo/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "rHeTn9pHNKo",
         "title": "AWS re:Invent 2018: [REPEAT 2] Best Practices for Amazon S3 and Amazon S3 Glacier (STG203-R2)",
         "date": "2018/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=SUWqDOnXeDw",
-        "thumbnail": "https://i.ytimg.com/vi/SUWqDOnXeDw/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "SUWqDOnXeDw",
         "title": "AWS re:Invent 2017: Deep Dive on Amazon S3 & Amazon Glacier Storage Management with (STG311)",
         "date": "2017/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=5l9Hw5UYskM",
-        "thumbnail": "https://i.ytimg.com/vi/5l9Hw5UYskM/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "5l9Hw5UYskM",
         "title": "AWS re:Invent 2017: Deep Dive on Amazon Glacier (STG303)",
         "date": "2017/11/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=9_vScxbIQLY",
-        "thumbnail": "https://i.ytimg.com/vi/9_vScxbIQLY/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "9_vScxbIQLY",
         "title": "AWS re:Invent 2017: Deep Dive on Amazon S3 & Amazon Glacier Infrastructure, with spe (STG301)",
         "date": "2017/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=OvoTPdm9cck",
-        "thumbnail": "https://i.ytimg.com/vi/OvoTPdm9cck/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "OvoTPdm9cck",
         "title": "AWS re:Invent 2015 | (STG203) Storage Management & Backup Using Amazon S3 & Amazon Glacier",
         "date": "2015/10/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=QZpLNgFEWBo",
-        "thumbnail": "https://i.ytimg.com/vi/QZpLNgFEWBo/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "QZpLNgFEWBo",
         "title": "AWS re:Invent 2017: Deep Dive on Data Archiving in Amazon S3 & Amazon Glacier, with (STG304)",
         "date": "2017/12/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=nLyppihvhpQ",
-        "thumbnail": "https://i.ytimg.com/vi/nLyppihvhpQ/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "nLyppihvhpQ",
         "title": "AWS re:Invent 2018 – Building for Durability in Amazon S3 and Glacier with Mai-Lan Tomsen Bukovec",
         "date": "2018/12/16"
     },
     {
-        "url": "https://www.youtube.com/watch?v=OT1Ggo4E2Xo",
-        "thumbnail": "https://i.ytimg.com/vi/OT1Ggo4E2Xo/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "OT1Ggo4E2Xo",
         "title": "AWS re:Invent 2015 | (STG312) Amazon Glacier Deep Dive: Cold Data Storage in AWS",
         "date": "2015/10/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=k32FaqM40rw",
-        "thumbnail": "https://i.ytimg.com/vi/k32FaqM40rw/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "k32FaqM40rw",
         "title": "Storage TCO using AWS Storage Gateway, Amazon S3 and Amazon Glacier (STG202) | AWS re:Invent 2013",
         "date": "2013/10/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=yUqe_r-fYaE",
-        "thumbnail": "https://i.ytimg.com/vi/yUqe_r-fYaE/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "yUqe_r-fYaE",
         "title": "Automating restores of Amazon S3 Glacier objects through AWS Storage Gateway",
         "date": "2019/10/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=swerCFSoXmw",
-        "thumbnail": "https://i.ytimg.com/vi/swerCFSoXmw/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "swerCFSoXmw",
         "title": "AWS Knowledge Center Videos: How do I restore Glacier objects with restore tiers in the S3 Console?",
         "date": "2017/09/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=aOMxvVpP76E",
-        "thumbnail": "https://i.ytimg.com/vi/aOMxvVpP76E/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "aOMxvVpP76E",
         "title": "AWS re:Invent 2016: Strategic Planning for Long-Term Data Archiving with Amazon Glacier (STG209)",
         "date": "2016/12/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=_cwpengIjkw",
-        "thumbnail": "https://i.ytimg.com/vi/_cwpengIjkw/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "_cwpengIjkw",
         "title": "Archiving Amazon S3 Data to Amazon Glacier",
         "date": "2012/10/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=dfr9mBcDJ-U",
-        "thumbnail": "https://i.ytimg.com/vi/dfr9mBcDJ-U/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "dfr9mBcDJ-U",
         "title": "AWS re:Invent 2016: Deep Dive on Amazon Glacier (STG302)",
         "date": "2016/12/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=WS2HbxjauIc",
-        "thumbnail": "https://i.ytimg.com/vi/WS2HbxjauIc/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "WS2HbxjauIc",
         "title": "AWS re:Invent 2014 | (BAC307) Cold Data Playbook: Build Ultimate Archive Solutions - Amazon Glacier",
         "date": "2014/10/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Xy_108rNaKs",
-        "thumbnail": "https://i.ytimg.com/vi/Xy_108rNaKs/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "Xy_108rNaKs",
         "title": "How do I retrieve my archive from Amazon Glacier vault using AWS CLI?",
         "date": "2018/10/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=DKSFRcM-XCc",
-        "thumbnail": "https://i.ytimg.com/vi/DKSFRcM-XCc/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "DKSFRcM-XCc",
         "title": "S3 Select and S3 Glacier for Query in Place",
         "date": "2019/03/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=bfDpK45Faa0",
-        "thumbnail": "https://i.ytimg.com/vi/bfDpK45Faa0/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "bfDpK45Faa0",
         "title": "Deep Dive on Object Storage: Amazon S3 and Amazon Glacier (126393)",
         "date": "2017/06/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=VZYYjVw9xnA",
-        "thumbnail": "https://i.ytimg.com/vi/VZYYjVw9xnA/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "VZYYjVw9xnA",
         "title": "System z Mainframe Data with Amazon S3 and Amazon Glacier (ENT107) | AWS re:Invent 2013",
         "date": "2013/11/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=HDbl4MZQhtw",
-        "thumbnail": "https://i.ytimg.com/vi/HDbl4MZQhtw/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "HDbl4MZQhtw",
         "title": "Deep Dive on S3 Glacier Deep Archive",
         "date": "2019/06/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=WXLxc2wRCwY",
-        "thumbnail": "https://i.ytimg.com/vi/WXLxc2wRCwY/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "WXLxc2wRCwY",
         "title": "AWS re: Invent STG 302: Archive in the Cloud with Amazon Glacier",
         "date": "2012/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=2_8ZK_64hBc",
-        "thumbnail": "https://i.ytimg.com/vi/2_8ZK_64hBc/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "2_8ZK_64hBc",
         "title": "AWS re:Invent Launchpad 2017 - Amazon Glacier Select & S3 Select",
         "date": "2017/12/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=OUTOEX4zbD4",
-        "thumbnail": "https://i.ytimg.com/vi/OUTOEX4zbD4/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "OUTOEX4zbD4",
         "title": "Webinar: Introduction to Amazon Glacier",
         "date": "2012/09/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=QEDxNocWh3M",
-        "thumbnail": "https://i.ytimg.com/vi/QEDxNocWh3M/hqdefault.jpg",
+        "service": "s3_glacier",
+        "videoId": "QEDxNocWh3M",
         "title": "AWS re:Invent 2014 | (SPOT209) State of the Union: AWS Simple Storage and Glacier Services",
         "date": "2014/11/17"
     }

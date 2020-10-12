@@ -1,194 +1,194 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=PLnRzHNmcao",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "PLnRzHNmcao",
         "title": "Building Intelligent Chatbots with Amazon Lex & Amazon Polly",
         "date": "2018/04/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=d3LYlNqfuzI",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "d3LYlNqfuzI",
         "title": "Amazon Lex - Quickly Build Conversational Interfaces",
         "date": "2017/06/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=9qky_E39-_I",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "9qky_E39-_I",
         "title": "AWS Demo: How to Use an Amazon Lex Chatbot with an Amazon Connect Contact Center",
         "date": "2017/09/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=VsvEyQSFfRc",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "VsvEyQSFfRc",
         "title": "Live from the London Loft | Deep Dive: Amazon Lex",
         "date": "2017/10/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=c2mTY9kM0Bs",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "c2mTY9kM0Bs",
         "title": "Chat Bots with Amazon Lex (Level 300)",
         "date": "2017/12/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=pKnOHtHcgVE",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "pKnOHtHcgVE",
         "title": "AWS re:Invent 2017: Demo: Use Amazon Lex to Build a Customer Service Chatbot in Your (DEM72)",
         "date": "2017/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Y1i39z-kfrk",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "Y1i39z-kfrk",
         "title": "AWS re:Invent 2017: Amazon Lex Integration with IVR (MCL207)",
         "date": "2017/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=LxeSC3-xMlk",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "LxeSC3-xMlk",
         "title": "St. Louis University: Using Amazon Lex to Answer Students' Questions Through Alexa and a Mobile App",
         "date": "2020/05/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=i9ISkHPMTXw",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "i9ISkHPMTXw",
         "title": "Build an Omni-Channel Experience with Amazon Connect and Amazon Lex (Level 200)",
         "date": "2018/08/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=wpafE1hLvB8",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "wpafE1hLvB8",
         "title": "How to Build a .NET Chatbot with Amazon Lex, AWS Lambda, and Amazon Cognito Identity",
         "date": "2018/11/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=dO6msbSswKQ",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "dO6msbSswKQ",
         "title": "AWS Summit Tel Aviv 2017: Building ChatBots with Amazon Lex",
         "date": "2017/07/31"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-XGqQP3A-PQ",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "-XGqQP3A-PQ",
         "title": "AWS re:Invent 2017: Building Multichannel Conversational Interfaces Using Amazon Lex (MCL312)",
         "date": "2017/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7keBPIx6L-k",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "7keBPIx6L-k",
         "title": "AWS Sydney Summit 2018: Multi Channel Service Delivery using Amazon Lex, Polly and Connect",
         "date": "2018/05/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=gGhtGWQLbmI",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "gGhtGWQLbmI",
         "title": "AWS re:Invent 2018: Quickly Build a Chatbot with Amazon Lex (DEM115)",
         "date": "2018/11/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=GCSPS9tpe80",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "GCSPS9tpe80",
         "title": "AWS re:Invent 2017: Leverage Amazon Lex for Custom Business Apps in Minutes! (DEM30)",
         "date": "2017/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=bbY5iM8YFVc",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "bbY5iM8YFVc",
         "title": "NEW LAUNCH! An Introduction to Amazon Lex, Your Service for Building Voice and Text Chatbots",
         "date": "2017/05/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=27kYKr3XZfc",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "27kYKr3XZfc",
         "title": "Amazon Lex Now Generally Available",
         "date": "2017/04/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=oIrSCXswUBg",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "oIrSCXswUBg",
         "title": "Amazon Sumerian: Building a Chatbot Using A Sumerian Host and Amazon Lex",
         "date": "2018/06/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8ZxnGqWNtbU",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "8ZxnGqWNtbU",
         "title": "AWS Builders' Day | Building ChatBots with Amazon Lex",
         "date": "2018/02/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=I5OlTMLinio",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "I5OlTMLinio",
         "title": "AWS re:Invent 2016: NEW LAUNCH! Introducing Amazon Lex (MAC304)",
         "date": "2016/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=i7n3ArbItvE",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "i7n3ArbItvE",
         "title": "AWS Summit Series 2017 - San Francisco: Amazon Lex is now Generally Available",
         "date": "2017/04/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ZdeK8HnhKQ8",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "ZdeK8HnhKQ8",
         "title": "AWS re:Invent 2016: Introducing Amazon Lex, now in Preview",
         "date": "2016/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=55iwsUrCoK4",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "55iwsUrCoK4",
         "title": "AWS re:Invent 2017: How I Made My Motorbike Talk, or How to Mix Amazon Lex, Amazon L (ARC331)",
         "date": "2017/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=iVmsEsBKnL8",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "iVmsEsBKnL8",
         "title": "AWS re:Invent 2016: NEW LAUNCH! Enhance Your Mobile Apps with AI Using Amazon Lex (MBL307)",
         "date": "2016/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=jigGyThcMMM",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "jigGyThcMMM",
         "title": "Live Coding with AWS | Building Chatbots with Lex",
         "date": "2017/06/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Idg8c9rf4u4",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "Idg8c9rf4u4",
         "title": "Wag: CX Automation with AWS Connect, Lex and Lambda",
         "date": "2019/04/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=TeLvFqLW_0A",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "TeLvFqLW_0A",
         "title": "AWS re:Invent 2017: Building a Voice-Enabled Customer Service Chatbot Using Amazon L (MCL301)",
         "date": "2017/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=XQW1WSKLo3E",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "XQW1WSKLo3E",
         "title": "Amazon Sumerian at AWS Loft | Creating a Chatbot",
         "date": "2019/02/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=vlrody2kQiw",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "vlrody2kQiw",
         "title": "Build and Deploy an Amazon Lex Chatbot and Convert it to an Alexa Skill (Level 200)",
         "date": "2020/09/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=S8zcgBLCm-E",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "S8zcgBLCm-E",
         "title": "SMS Chatbot with Amazon Pinpoint, Amazon Lex, and AWS Lambda",
         "date": "2020/02/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=YMO1NuEGXfk",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "YMO1NuEGXfk",
         "title": "AWS re:Invent 2019: How Amazon Lex uses Amazon ECS to process batches at scale (CON218)",
         "date": "2019/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=QpHM6DXxcDI",
-        "thumbnail": "",
+        "service": "amazon_lex",
+        "videoId": "QpHM6DXxcDI",
         "title": "AWS re:Invent 2019: How to create a location-aware chatbot, and why (DEM26-S)",
         "date": "2019/12/04"
-    }   
+    }
 ]

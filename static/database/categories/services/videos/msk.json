@@ -1,26 +1,26 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=zhsVfsykBHc",
-        "thumbnail": "",
+        "service": "msk",
+        "videoId": "zhsVfsykBHc",
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Amazon Managed Streaming for Kafka (Amazon MSK) (ANT398 )",
         "date": "2018/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Rr2TDLfvN1I",
-        "thumbnail": "",
+        "service": "msk",
+        "videoId": "Rr2TDLfvN1I",
         "title": "A Path to Event Sourcing With Amazon MSK - Level 300 (United States)",
         "date": "2020/07/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=78iBw1CrlsE",
-        "thumbnail": "",
+        "service": "msk",
+        "videoId": "78iBw1CrlsE",
         "title": "AWS re:Invent 2019: [REPEAT 1] Responding to customer needs in real time with Amazon MSK (ANT309-R1)",
         "date": "2019/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=BUGe0hLhd7Y",
-        "thumbnail": "",
+        "service": "msk",
+        "videoId": "BUGe0hLhd7Y",
         "title": "A Path to Event Sourcing With Amazon MSK (Level 200)",
         "date": "2020/09/01"
-    }   
+    }
 ]

@@ -1,31 +1,31 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=wSYHdt1TJVQ",
-        "thumbnail": "",
+        "service": "elastic_transcoder",
+        "videoId": "wSYHdt1TJVQ",
         "title": "Getting Started with Amazon Elastic Transcoder",
         "date": "2013/03/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=x20Qx7lWSLQ",
-        "thumbnail": "",
+        "service": "elastic_transcoder",
+        "videoId": "x20Qx7lWSLQ",
         "title": "Using Amazon Elastic Transcoder to create HLS outputs",
         "date": "2013/05/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=CdgsGlYSn38",
-        "thumbnail": "",
+        "service": "elastic_transcoder",
+        "videoId": "CdgsGlYSn38",
         "title": "GoPro: Editing Media on The Go with ECS, Elastic Transcoder, and Lifecycle Hooks on AWS",
         "date": "2017/09/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=OaxIh3N_dvw",
-        "thumbnail": "",
+        "service": "elastic_transcoder",
+        "videoId": "OaxIh3N_dvw",
         "title": "AWS Webcast - What's New with Amazon Elastic Transcoder",
         "date": "2013/06/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=dI2PMRULGaA",
-        "thumbnail": "",
+        "service": "elastic_transcoder",
+        "videoId": "dI2PMRULGaA",
         "title": "AWS Webcast - What's New with Amazon Elastic Transcoder",
         "date": "2013/07/26"
     }

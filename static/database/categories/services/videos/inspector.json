@@ -1,38 +1,38 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=nIcwiJ85EKU",
-        "thumbnail": "",
+        "service": "inspector",
+        "videoId": "nIcwiJ85EKU",
         "title": "Improving the security and compliance of Windows Workloads with Amazon Inspector",
         "date": "2019/10/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=xxvrmBPbNPs",
-        "thumbnail": "",
+        "service": "inspector",
+        "videoId": "xxvrmBPbNPs",
         "title": "Introducing Amazon Inspector",
         "date": "2016/12/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=HjuEtMrWc_w",
-        "thumbnail": "",
+        "service": "inspector",
+        "videoId": "HjuEtMrWc_w",
         "title": "AWS re:Invent 2015 | (SEC324) New! Introducing Amazon Inspector",
         "date": "2015/10/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=rrw_LVYiKvI",
-        "thumbnail": "",
+        "service": "inspector",
+        "videoId": "rrw_LVYiKvI",
         "title": "Introducing Amazon Inspector",
         "date": "2015/10/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=PMsMGoeuLG0",
-        "thumbnail": "",
+        "service": "inspector",
+        "videoId": "PMsMGoeuLG0",
         "title": "How do I set up Amazon Inspector to run security assessments on my Amazon EC2 instances?",
         "date": "2020/08/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=4zb17V6-PfQ",
-        "thumbnail": "",
+        "service": "inspector",
+        "videoId": "4zb17V6-PfQ",
         "title": "AWS Summit Series 2016 | Chicago - Getting Started with Amazon Inspector",
         "date": "2016/04/21"
-    }   
+    }
 ]

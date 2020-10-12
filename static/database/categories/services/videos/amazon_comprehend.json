@@ -1,73 +1,73 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=hdXvVyVjPLg",
-        "thumbnail": "",
+        "service": "amazon_comprehend",
+        "videoId": "hdXvVyVjPLg",
         "title": "AWS re:Invent 2017 - Introducing Amazon Comprehend",
         "date": "2018/01/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Q1RWpB2juKI",
-        "thumbnail": "",
+        "service": "amazon_comprehend",
+        "videoId": "Q1RWpB2juKI",
         "title": "How to Use AWS Comprehend to Perform Sentiment Analysis on a Text",
         "date": "2018/11/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6ZK5uGc6-js",
-        "thumbnail": "",
+        "service": "amazon_comprehend",
+        "videoId": "6ZK5uGc6-js",
         "title": "Build Text Analytics Solutions with Amazon Comprehend & Amazon Translate",
         "date": "2018/08/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=m1z6GOezK1E",
-        "thumbnail": "",
+        "service": "amazon_comprehend",
+        "videoId": "m1z6GOezK1E",
         "title": "AWS re:Invent Launchpad 2017 - Amazon Comprehend",
         "date": "2017/12/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=cJ3eUPOXV4Q",
-        "thumbnail": "",
+        "service": "amazon_comprehend",
+        "videoId": "cJ3eUPOXV4Q",
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing Amazon Comprehend Medical (AIM398)",
         "date": "2018/12/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Ku_CTsCWxFA",
-        "thumbnail": "",
+        "service": "amazon_comprehend",
+        "videoId": "Ku_CTsCWxFA",
         "title": "AWS re:Invent 2017: NEW LAUNCH! Natural Language Processing with Amazon Comprehend (MCL343)",
         "date": "2017/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=yMnDpUk36Z8",
-        "thumbnail": "",
+        "service": "amazon_comprehend",
+        "videoId": "yMnDpUk36Z8",
         "title": "Using Amazon Comprehend with .NET",
         "date": "2019/10/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=nnKXxFNiYQg",
-        "thumbnail": "",
+        "service": "amazon_comprehend",
+        "videoId": "nnKXxFNiYQg",
         "title": "Turn Your Words into Pictures with Amazon Transcribe & Amazon Comprehend",
         "date": "2019/05/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=jihc4nAWy14",
-        "thumbnail": "",
+        "service": "amazon_comprehend",
+        "videoId": "jihc4nAWy14",
         "title": "Modernize Your Contact Center with AI: Gain Valuable Insights by Transcribing Recordings",
         "date": "2019/01/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=AKDUZdvMLK8",
-        "thumbnail": "",
+        "service": "amazon_comprehend",
+        "videoId": "AKDUZdvMLK8",
         "title": "Get Started with Machine Learning | AWS Power Hour: Machine Learning | Episode 3: Amazon Comprehend",
         "date": "2020/08/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=0SVtt5wz_rE",
-        "thumbnail": "",
+        "service": "amazon_comprehend",
+        "videoId": "0SVtt5wz_rE",
         "title": "AWS re:Invent 2018: Listen to Your Customers Voice & Engage Them w/ Delightful Experiences (DIG301)",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=x9HD0tT6pDk",
-        "thumbnail": "",
+        "service": "amazon_comprehend",
+        "videoId": "x9HD0tT6pDk",
         "title": "AWS re:Invent 2019: Insights into patient health with Amazon Comprehend Medical (GPSTEC341)",
         "date": "2019/12/08"
     }

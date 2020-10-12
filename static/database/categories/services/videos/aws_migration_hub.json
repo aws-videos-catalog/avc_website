@@ -1,25 +1,25 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=2VF9Hs9q7HY",
-        "thumbnail": "",
+        "service": "aws_migration_hub",
+        "videoId": "2VF9Hs9q7HY",
         "title": "Introducing AWS Migration Hub",
         "date": "2017/08/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=sELhuj4bF84",
-        "thumbnail": "",
+        "service": "aws_migration_hub",
+        "videoId": "sELhuj4bF84",
         "title": "Live from the NY Summit | AWS Migration Hub Launch",
         "date": "2017/08/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=tuGu7HzVkC8",
-        "thumbnail": "",
+        "service": "aws_migration_hub",
+        "videoId": "tuGu7HzVkC8",
         "title": "AWS re:Invent 2018: Save Money and Migrate Faster with Rapid Discovery and Analysis (ENT331)",
         "date": "2018/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=qQU9RTFmA3M",
-        "thumbnail": "",
+        "service": "aws_migration_hub",
+        "videoId": "qQU9RTFmA3M",
         "title": "AWS re:Invent 2018: Eliminate Migration Confusion: Speed Migration with Automated Tracking (ENT319)",
         "date": "2018/11/30"
     }

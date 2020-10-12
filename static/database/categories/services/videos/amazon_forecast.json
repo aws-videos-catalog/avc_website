@@ -1,43 +1,43 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=Ed4j8Olf_E8",
-        "thumbnail": "",
+        "service": "amazon_forecast",
+        "videoId": "Ed4j8Olf_E8",
         "title": "Amazon Forecast Overview",
         "date": "2019/02/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=0vR8_SkWJHI",
-        "thumbnail": "",
+        "service": "amazon_forecast",
+        "videoId": "0vR8_SkWJHI",
         "title": "AWS Partner Webinar: Building Integrations with Amazon Forecast",
         "date": "2019/08/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=_-2E8iDEqFY",
-        "thumbnail": "",
+        "service": "amazon_forecast",
+        "videoId": "_-2E8iDEqFY",
         "title": "AWS re:Invent 2018 – Announcing Amazon Forecast",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=kU5cFdXjwOc",
-        "thumbnail": "",
+        "service": "amazon_forecast",
+        "videoId": "kU5cFdXjwOc",
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing Amazon Forecast  (AIM344)",
         "date": "2018/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=NCmHoHomP1A",
-        "thumbnail": "",
+        "service": "amazon_forecast",
+        "videoId": "NCmHoHomP1A",
         "title": "ML Days | Amazon Forecast",
         "date": "2019/04/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=uKPZtJBb6MM",
-        "thumbnail": "",
+        "service": "amazon_forecast",
+        "videoId": "uKPZtJBb6MM",
         "title": "AWS Builders' Day | re:Invent Deep Dive on Amazon SageMaker, Amazon Forecast and Amazon Personalize",
         "date": "2018/12/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=05QKFsD6qss",
-        "thumbnail": "",
+        "service": "amazon_forecast",
+        "videoId": "05QKFsD6qss",
         "title": "Introducing Amazon Personalize & Amazon Forecast",
         "date": "2018/11/30"
     }

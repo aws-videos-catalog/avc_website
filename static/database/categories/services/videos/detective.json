@@ -1,20 +1,20 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=VzDVkMwVcI0",
-        "thumbnail": "",
+        "service": "detective",
+        "videoId": "VzDVkMwVcI0",
         "title": "AWS Live re:Inforce - Detective Controls",
         "date": "2019/07/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=MPQe-4NvesM",
-        "thumbnail": "",
+        "service": "detective",
+        "videoId": "MPQe-4NvesM",
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Introducing Amazon Detective (SEC312)",
         "date": "2019/12/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8g51Z0h2Eb0",
-        "thumbnail": "",
+        "service": "detective",
+        "videoId": "8g51Z0h2Eb0",
         "title": "AWS re:Invent 2019 Launchpad | Amazon Detective",
         "date": "2020/03/16"
-    }   
+    }
 ]

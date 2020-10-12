@@ -1,20 +1,20 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=wocz0drq8-8",
-        "thumbnail": "",
+        "service": "aws_firewall_manager",
+        "videoId": "wocz0drq8-8",
         "title": "Enable AWS Firewall Manager in an AWS Control Tower Environment",
         "date": "2020/03/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=qUoyTumxcjk",
-        "thumbnail": "",
+        "service": "aws_firewall_manager",
+        "videoId": "qUoyTumxcjk",
         "title": "AWS Firewall Manager",
         "date": "2018/04/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KtwCYxIvink",
-        "thumbnail": "",
+        "service": "aws_firewall_manager",
+        "videoId": "KtwCYxIvink",
         "title": "AWS Summit San Francisco 2018 - Announcing AWS Firewall Manager",
         "date": "2018/04/10"
-    }   
+    }
 ]

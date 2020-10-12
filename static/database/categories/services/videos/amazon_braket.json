@@ -1,7 +1,7 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=BV9TZWuAwyk",
-        "thumbnail": "",
+        "service": "amazon_braket",
+        "videoId": "BV9TZWuAwyk",
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] [REPEAT] Introducing quantum computing with AWS (CMP213-R)",
         "date": "2019/12/10"
     }

@@ -1,49 +1,70 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=ebwfhSS4ZkY",
-        "thumbnail": "https://i.ytimg.com/vi/ebwfhSS4ZkY/hqdefault.jpg",
-        "title": "",
-        "date": "2016/12/03"
+        "service": "batch",
+        "videoId": "ebwfhSS4ZkY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Compute",
+            "CMP323",
+            "Dougal Ballantyne",
+            "Jamie Kinney",
+            "Advanced"
+        ],
+        "title": "AWS re:Invent 2016: NEW LAUNCH! Introducing AWS Batch: Easy and efficient batch computing (CMP323)",
+        "description": "AWS Batch is a fully-managed service that enables developers, scientists, and engineers to easily and efficiently run batch computing workloads of any scale on AWS. AWS Batch automatically provisions compute resources and optimizes the workload distribution based on the quantity and scale of the workloads. With AWS Batch, there is no need to install or manage batch computing software, allowing you to focus on analyzing results and solving problems. AWS Batch plans, schedules, and executes your batch computing workloads across the full range of AWS compute services and features, such as Amazon EC2, Spot Instances, and AWS Lambda. AWS Batch reduces operational complexities, saving time and reducing costs. In this session, Principal Product Managers Jamie Kinney and Dougal Ballantyne describe the core concepts behind AWS Batch and details of how the service functions.  The presentation concludes with relevant use cases and sample code.",
+        "date": "2016-12-03T19:33:22Z"
     },
     {
-        "url": "https://www.youtube.com/watch?v=tflZjGckK8c",
-        "thumbnail": "https://i.ytimg.com/vi/tflZjGckK8c/hqdefault.jpg",
+        "service": "batch",
+        "videoId": "tflZjGckK8c",
         "title": "AWS re:Invent 2018: AWS Batch & How AQR leverages AWS to Identify New Investment Signals (CMP372)",
         "date": "2018/12/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8dApnlJLY54",
-        "thumbnail": "https://i.ytimg.com/vi/8dApnlJLY54/hqdefault.jpg",
+        "service": "batch",
+        "videoId": "8dApnlJLY54",
         "title": "AWS re:Invent 2017: AWS Batch: Easy and Efficient Batch Computing on AWS (CMP323)",
         "date": "2017/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=2QYjrKsmoYI",
-        "thumbnail": "https://i.ytimg.com/vi/2QYjrKsmoYI/hqdefault.jpg",
+        "service": "batch",
+        "videoId": "2QYjrKsmoYI",
         "title": "AWS re:Invent 2018: Building Fraud Detection Systems with AWS Batch and Containers (DVC301)",
         "date": "2018/11/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ICzo9IYUO2U",
-        "thumbnail": "https://i.ytimg.com/vi/ICzo9IYUO2U/hqdefault.jpg",
+        "service": "batch",
+        "videoId": "ICzo9IYUO2U",
         "title": "AWS re:Invent 2017: From Batch to Streaming: How Amazon Flex Uses Real-time Analytic (ABD217)",
         "date": "2017/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Zgqrd0XQwTw",
-        "thumbnail": "https://i.ytimg.com/vi/Zgqrd0XQwTw/hqdefault.jpg",
+        "service": "batch",
+        "videoId": "Zgqrd0XQwTw",
         "title": "AWS re:Invent 2017: Batch Processing with Containers on AWS (CON304)",
         "date": "2017/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=r_arBdn5L7k",
-        "thumbnail": "https://i.ytimg.com/vi/r_arBdn5L7k/hqdefault.jpg",
+        "service": "batch",
+        "videoId": "r_arBdn5L7k",
         "title": "AWS re:Invent 2017: Combining Batch and Stream Processing to Get the Best of Both Wo (ABD330)",
         "date": "2017/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=FBALeXG8WTI",
-        "thumbnail": "https://i.ytimg.com/vi/FBALeXG8WTI/hqdefault.jpg",
+        "service": "batch",
+        "videoId": "FBALeXG8WTI",
         "title": "AWS re:Invent 2016: Running Batch Jobs on Amazon ECS (CON310)",
         "date": "2016/12/02"
     }

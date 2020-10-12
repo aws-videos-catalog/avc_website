@@ -1,49 +1,49 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=i0IkKN9NoPk",
-        "thumbnail": "",
+        "service": "trusted_advisor",
+        "videoId": "i0IkKN9NoPk",
         "title": "How do I start using Trusted Advisor?",
         "date": "2020/04/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=4XS9XR1E8dI",
-        "thumbnail": "",
+        "service": "trusted_advisor",
+        "videoId": "4XS9XR1E8dI",
         "title": "Trusted Advisor Demo",
         "date": "2013/03/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=eJRSWT_krNE",
-        "thumbnail": "",
+        "service": "trusted_advisor",
+        "videoId": "eJRSWT_krNE",
         "title": "Forest Johns AWS Trusted Advisor",
         "date": "2012/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=5vhSyy9gNZ4",
-        "thumbnail": "",
+        "service": "trusted_advisor",
+        "videoId": "5vhSyy9gNZ4",
         "title": "AWS Webcast - Understanding your Free Trusted Advisor Report",
         "date": "2013/04/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KBLsIgdE_Ts",
-        "thumbnail": "",
+        "service": "trusted_advisor",
+        "videoId": "KBLsIgdE_Ts",
         "title": "Trusted Advisor Demo",
         "date": "2012/11/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=sFS1hHbU_qM",
-        "thumbnail": "",
+        "service": "trusted_advisor",
+        "videoId": "sFS1hHbU_qM",
         "title": "AWS Startup Day - New York: Cost Optimization: Don’t Overspend",
         "date": "2017/11/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=2P2I7HlrFtA",
-        "thumbnail": "",
+        "service": "trusted_advisor",
+        "videoId": "2P2I7HlrFtA",
         "title": "AWS re:Invent 2016: Automated Governance of Your AWS Resources (DEV302)",
         "date": "2016/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=XHwFJDw9Mec",
-        "thumbnail": "",
+        "service": "trusted_advisor",
+        "videoId": "XHwFJDw9Mec",
         "title": "AWS Cost Optimization: Tools and Methods to Reduce Your Spend With Us",
         "date": "2020/04/12"
     }

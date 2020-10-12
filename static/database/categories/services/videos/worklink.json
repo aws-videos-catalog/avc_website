@@ -1,32 +1,32 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=Si2q7rhinMo",
-        "thumbnail": "",
+        "service": "worklink",
+        "videoId": "Si2q7rhinMo",
         "title": "Amazon WorkLink",
         "date": "2019/01/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6l6HaUNYSOI",
-        "thumbnail": "",
+        "service": "worklink",
+        "videoId": "6l6HaUNYSOI",
         "title": "Introducing Amazon WorkLink",
         "date": "2019/02/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=uTAwXHQU3gA",
-        "thumbnail": "",
+        "service": "worklink",
+        "videoId": "uTAwXHQU3gA",
         "title": "Learn about Amazon WorkLink with Jeff Barr",
         "date": "2019/04/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=vansN5WHHTY",
-        "thumbnail": "",
+        "service": "worklink",
+        "videoId": "vansN5WHHTY",
         "title": "Dive into Amazon WorkSpaces with Jeff Barr",
         "date": "2019/04/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=aLtfnK2XrXU",
-        "thumbnail": "",
+        "service": "worklink",
+        "videoId": "aLtfnK2XrXU",
         "title": "AWS re:Invent 2019: Leadership session: End-user computing (EUC210-L)",
         "date": "2019/12/04"
-    }   
+    }
 ]

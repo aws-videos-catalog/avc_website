@@ -1,344 +1,344 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=YQsK4MtsELU",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "YQsK4MtsELU",
         "title": "AWS re:Invent 2018: [REPEAT 1] Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1)",
         "date": "2018/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=WioS12_j5e0",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "WioS12_j5e0",
         "title": "How do I attach an IAM managed policy to an IAM role in AWS CloudFormation?",
         "date": "2020/02/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=2eAjaNo476o",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "2eAjaNo476o",
         "title": "IAM Roles for Amazon EC2",
         "date": "2014/03/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=y7-fAT3z8Lo",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "y7-fAT3z8Lo",
         "title": "AWS re:Invent 2016: Become an AWS IAM Policy Ninja in 60 Minutes or Less (SAC303)",
         "date": "2016/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=wRzzBb18qUw",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "wRzzBb18qUw",
         "title": "How do I set up an IAM user and sign in to the AWS Management Console using IAM credentials?",
         "date": "2020/03/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=2P3ajglqbKw",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "2P3ajglqbKw",
         "title": "Setting Up IAM Roles for Systems Manager",
         "date": "2017/09/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=hANDWau9NvE",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "hANDWau9NvE",
         "title": "Demo: AWS IAM Federation with Azure AD",
         "date": "2020/05/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=hETtXCqX_Zc",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "hETtXCqX_Zc",
         "title": "Becoming an AWS Policy Ninja using AWS IAM and AWS Organizations [SEC302]",
         "date": "2017/10/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Ragz-TekLBM",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "Ragz-TekLBM",
         "title": "Can I restrict the access of IAM users to specific EC2 resources?",
         "date": "2019/05/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=wY7FOFaPNuE",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "wY7FOFaPNuE",
         "title": "Secure Access to AWS Services Using AWS Identity and Access Management (IAM) Roles",
         "date": "2018/04/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=aq4y5B1jjMg",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "aq4y5B1jjMg",
         "title": "How can I use IAM policies to grant user-specific access to specific folders?",
         "date": "2019/05/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=C4AyfV3Z3xs",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "C4AyfV3Z3xs",
         "title": "Using IAM Roles with Amazon EC2 Instances",
         "date": "2013/03/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=4OpZmBp9S0k",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "4OpZmBp9S0k",
         "title": "Access Control for the Cloud: AWS Identity and Access Management (IAM) (SEC201) | AWS re:Invent 2013",
         "date": "2013/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Ul6FW4UANGc",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "Ul6FW4UANGc",
         "title": "Introduction to AWS IAM - Identity and Access Management on AWS",
         "date": "2014/03/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=JvtmmS9_tfU",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "JvtmmS9_tfU",
         "title": "How do I create an access key for an existing IAM user?",
         "date": "2018/12/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=suBsFAEJUIc",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "suBsFAEJUIc",
         "title": "AWS re:Invent 2017: GPS: IAM Best Practices and Becoming an IAM Ninja (GPSTEC310)",
         "date": "2017/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=qwMxh1x9UZQ",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "qwMxh1x9UZQ",
         "title": "How do I use IAM policy tags to restrict how an EC2 instance or EBS volume can be created?",
         "date": "2018/07/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=SGntDzEn30s",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "SGntDzEn30s",
         "title": "AWS re:Invent 2016: IAM Best Practices to Live By (SAC317)",
         "date": "2016/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-uogKFE1r60",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "-uogKFE1r60",
         "title": "How do I assume an IAM role using the AWS CLI?",
         "date": "2019/07/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=y2QsuwZGZ54",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "y2QsuwZGZ54",
         "title": "IAM Authentication with Amazon Aurora MySQL",
         "date": "2020/07/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=665RYobRJDY",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "665RYobRJDY",
         "title": "How do I create an access key ID for a new IAM user?",
         "date": "2018/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Ry_a_PvXmX8",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "Ry_a_PvXmX8",
         "title": "Create and Modify IAM Policies Using the AWS Identity and Access Management (IAM) Visual Editor",
         "date": "2018/04/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8qcmaMI_uYQ",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "8qcmaMI_uYQ",
         "title": "AWS Knowledge Center Videos: How can an IAM user access AWS billing information?",
         "date": "2016/06/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=NEQN7cm__dE",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "NEQN7cm__dE",
         "title": "How can I use IAM roles to restrict API calls from specific IP addresses?",
         "date": "2019/12/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=zxEgB_fIpCE",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "zxEgB_fIpCE",
         "title": "How can I upload and import an SSL certifcate to AWS IAM?",
         "date": "2019/04/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=aISWoPf_XNE",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "aISWoPf_XNE",
         "title": "AWS re:Invent 2017: IAM Policy Ninja (SID314)",
         "date": "2017/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=aISWoPf_XNE",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "aISWoPf_XNE",
         "title": "AWS re:Invent 2017: IAM Policy Ninja (SID314)",
         "date": "2017/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=OOi3c5wD4ug",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "OOi3c5wD4ug",
         "title": "AWS re:Invent 2018: How Vanguard Matured IAM Controls to Support Micro Accounts (SEC324)",
         "date": "2018/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KXyATZctkmQ",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "KXyATZctkmQ",
         "title": "How do I implement IAM authentication for APIs in API Gateway?",
         "date": "2019/06/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=o4Sf5Z6E2lk",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "o4Sf5Z6E2lk",
         "title": "How do I authenticate to an Amazon RDS DB instance using IAM credentials?",
         "date": "2019/11/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=eQ549RvQDeI",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "eQ549RvQDeI",
         "title": "AWS re:Invent 2018: How Nubank Automates Fine-Grained Security with IAM, AWS Lambda, & CI/CD FSV325",
         "date": "2018/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=_wiGpBQGCjU",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "_wiGpBQGCjU",
         "title": "AWS re:Invent 2015: IAM Best Practices to Live By (SEC302)",
         "date": "2015/10/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=MdBp3BC6NOs",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "MdBp3BC6NOs",
         "title": "How do I search for IAM access key activity using the CloudTrail console?",
         "date": "2019/06/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8KXo7Jph8eU",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "8KXo7Jph8eU",
         "title": "How do I create an IAM policy to control access to Amazon EC2 resources based on tags?",
         "date": "2019/04/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=XuRM4Id6uDY",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "XuRM4Id6uDY",
         "title": "Getting Started with IAM Roles for EC2 Instances",
         "date": "2012/06/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=eVNvjQ0wr84",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "eVNvjQ0wr84",
         "title": "AWS Live re:Inforce - Becky Sets Some IAM Permissions Boundaries",
         "date": "2019/07/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=1IIhVcXhvcE",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "1IIhVcXhvcE",
         "title": "Getting Started with the IAM Policy Simulator",
         "date": "2013/10/31"
     },
     {
-        "url": "https://www.youtube.com/watch?v=5ipJtR7uKUs",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "5ipJtR7uKUs",
         "title": "Demo: Using AWS IAM Access Analyzer with Amazon S3 Buckets",
         "date": "2020/09/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=P9cwxcruCC0",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "P9cwxcruCC0",
         "title": "AWS re:Invent 2017: IAM for Enterprises: How Vanguard Strikes the Balance Between Ag (SID201)",
         "date": "2017/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=srJ4jr6M9YQ",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "srJ4jr6M9YQ",
         "title": "AWS IAM Quotas Demo",
         "date": "2020/08/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Du478i9O_mc",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "Du478i9O_mc",
         "title": "AWS re:Invent 2015: How to Become an IAM Policy Ninja in 60 Minutes or Less (SEC305)",
         "date": "2015/10/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=jPHOpjSWJeM",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "jPHOpjSWJeM",
         "title": "AWS re:Invent 2017: Using the new visual editor for IAM policies (DEM75)",
         "date": "2017/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=c2Pwy1F2MYo",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "c2Pwy1F2MYo",
         "title": "AWS KC Videos: How do I authenticate to an Amazon RDS DB instance using IAM credentials?",
         "date": "2018/04/16"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ZhvXW-ILyPs",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "ZhvXW-ILyPs",
         "title": "AWS re:Invent 2014 | (SEC305) IAM Best Practices",
         "date": "2014/11/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-XARG9W2bGc",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "-XARG9W2bGc",
         "title": "AWS re:Invent 2015 | (SEC307) A Progressive Journey Through AWS IAM Federation Options",
         "date": "2015/10/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=4AZX8COgnmU",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "4AZX8COgnmU",
         "title": "Top 10 AWS Identity and Access Management (IAM) Best Practices (SEC301) | AWS re:Invent 2013",
         "date": "2013/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=dvDUzgoXAxo",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "dvDUzgoXAxo",
         "title": "Introducing AWS Identity and Access Management (IAM) Policy Summaries",
         "date": "2017/05/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=pks5c_S5Tk8",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "pks5c_S5Tk8",
         "title": "Coinbase: High Security IAM at Speed with AWS",
         "date": "2017/02/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=_URM_DwrxWo",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "_URM_DwrxWo",
         "title": "I created an IAM role but the role isn't appearing in the drop-down list when I launch an instance",
         "date": "2019/04/16"
     },
     {
-        "url": "https://www.youtube.com/watch?v=IP8Fgp3rrP0",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "IP8Fgp3rrP0",
         "title": "How can I create an IAM case for an issue with a specific service?",
         "date": "2020/08/31"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Uch-NngEb5E",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "Uch-NngEb5E",
         "title": "AWS Knowledge Center Videos: How can I assign an IAM role to a running EC2 instance?",
         "date": "2017/09/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=03pFL098T7M",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "03pFL098T7M",
         "title": "IAM Essentials",
         "date": "2019/05/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=fCPQZ-R1x8o",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "fCPQZ-R1x8o",
         "title": "Secure EC2 Environment with AWS IAM & Resource-Based Permissions (CPN205) | AWS re:Invent 2013",
         "date": "2013/11/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=vIs4A1epDuk",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "vIs4A1epDuk",
         "title": "AWS re:Invent 2019: Why IAM is the new perimeter, and how to govern it (SEC210-S)",
         "date": "2019/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=i5apYXya2m0",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "i5apYXya2m0",
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Dive Deep into IAM Access Analyzer (SEC309)",
         "date": "2019/12/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=EVd6odTGWIs",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "EVd6odTGWIs",
         "title": "AWS re:Invent 2019 Launchpad | AWS Identity and Access Management (IAM) Access Analyzer",
         "date": "2020/03/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=wVdIRCbcDt4",
-        "thumbnail": "",
+        "service": "iam",
+        "videoId": "wVdIRCbcDt4",
         "title": "AWS Summit Online ASEAN 2020 | IAM: Best Practices for Managing Identity With AWS",
         "date": "2020/08/28"
-    }   
+    }
 ]

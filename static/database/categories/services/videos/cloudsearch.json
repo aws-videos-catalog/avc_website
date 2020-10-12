@@ -1,110 +1,110 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=mdj8RQhqOEg",
-        "thumbnail": "",
+        "service": "cloudsearch",
+        "videoId": "mdj8RQhqOEg",
         "title": "Getting Started with Amazon CloudSearch",
         "date": "2012/07/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=gpG16MFnEH8",
-        "thumbnail": "",
+        "service": "cloudsearch",
+        "videoId": "gpG16MFnEH8",
         "title": "Getting Started with Amazon CloudSearch: Product Tour Screencast",
         "date": "2015/04/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=OeHaj1a66I4",
-        "thumbnail": "",
+        "service": "cloudsearch",
+        "videoId": "OeHaj1a66I4",
         "title": "AWS re:Invent 2014 | (SDD411) Amazon CloudSearch Deep Dive and Best Practices",
         "date": "2014/11/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=EQYy2hZnR38",
-        "thumbnail": "",
+        "service": "cloudsearch",
+        "videoId": "EQYy2hZnR38",
         "title": "Introduction to Amazon CloudSearch",
         "date": "2012/04/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=eOVRt46RwT8",
-        "thumbnail": "",
+        "service": "cloudsearch",
+        "videoId": "eOVRt46RwT8",
         "title": "Amazon CloudSearch Overview, a fully managed and highly scalable search service",
         "date": "2012/04/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=jYiNmoY088E",
-        "thumbnail": "",
+        "service": "cloudsearch",
+        "videoId": "jYiNmoY088E",
         "title": "Building a Search Application Using Amazon CloudSearch",
         "date": "2012/04/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=f0XkMKXknl4",
-        "thumbnail": "",
+        "service": "cloudsearch",
+        "videoId": "f0XkMKXknl4",
         "title": "Webinar: Introduction to Amazon CloudSearch",
         "date": "2012/05/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=eAecJKLnqRk",
-        "thumbnail": "",
+        "service": "cloudsearch",
+        "videoId": "eAecJKLnqRk",
         "title": "Getting Started with Amazon CloudSearch: Product tour screencast",
         "date": "2015/02/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=b5_bJCUffXg",
-        "thumbnail": "",
+        "service": "cloudsearch",
+        "videoId": "b5_bJCUffXg",
         "title": "AWS re: Invent SVC 101: Amazon CloudSearch",
         "date": "2012/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=DAr-9swjlcU",
-        "thumbnail": "",
+        "service": "cloudsearch",
+        "videoId": "DAr-9swjlcU",
         "title": "Webinar: Get The Most From Your Search Results with Amazon CloudSearch",
         "date": "2012/12/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ddq2uLlrJGE",
-        "thumbnail": "",
+        "service": "cloudsearch",
+        "videoId": "ddq2uLlrJGE",
         "title": "Building Better Search For Wikipedia: How We Did It Using Amazon CloudSearch",
         "date": "2012/08/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7iX35TaKFOs",
-        "thumbnail": "",
+        "service": "cloudsearch",
+        "videoId": "7iX35TaKFOs",
         "title": "Generating SDF for Amazon CloudSearch",
         "date": "2013/06/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=YlZsckQ7Flo",
-        "thumbnail": "",
+        "service": "cloudsearch",
+        "videoId": "YlZsckQ7Flo",
         "title": "AWS Webcast - Building Location-Based Search With Amazon CloudSearch",
         "date": "2013/06/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=cLB60zDqKMw",
-        "thumbnail": "",
+        "service": "cloudsearch",
+        "videoId": "cLB60zDqKMw",
         "title": "Enrich Search User Experience Using Amazon CloudSearch (SVC302) | AWS re:Invent 2013",
         "date": "2013/11/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=QEVpENfRlr0",
-        "thumbnail": "",
+        "service": "cloudsearch",
+        "videoId": "QEVpENfRlr0",
         "title": "AWS Webcast - Getting Started With CloudSearch: Add Powerful Search To Your Web Application",
         "date": "2013/04/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=sQyMS2vKi_E",
-        "thumbnail": "",
+        "service": "cloudsearch",
+        "videoId": "sQyMS2vKi_E",
         "title": "Improving Search Results By Comparing Rank Expressions",
         "date": "2012/12/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=w3HqmjCuats",
-        "thumbnail": "",
+        "service": "cloudsearch",
+        "videoId": "w3HqmjCuats",
         "title": "Delivering Search for Today's Local, Social, and Mobile Applications",
         "date": "2013/05/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=TQ96Rrys4Ks",
-        "thumbnail": "",
+        "service": "cloudsearch",
+        "videoId": "TQ96Rrys4Ks",
         "title": "AWS Webinar: Delivering Great Search For Your WordPress Content",
         "date": "2013/09/24"
-    }   
+    }
 ]

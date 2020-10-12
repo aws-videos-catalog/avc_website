@@ -1,368 +1,368 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=MELPeni0p04",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "MELPeni0p04",
         "title": "High Performance Data Streaming with Amazon Kinesis: Best Practices and Common Pitfalls",
         "date": "2019/06/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=MbEfiX4sMXc",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "MbEfiX4sMXc",
         "title": "Introduction to Amazon Kinesis",
         "date": "2013/11/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=uWUAcc68MWI",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "uWUAcc68MWI",
         "title": "AWS Solutions: Real-Time IoT Device Monitoring with Kinesis Data Analytics",
         "date": "2020/01/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8tsIqfvizpU",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "8tsIqfvizpU",
         "title": "How Netflix Uses Kinesis Streams to Monitor Applications and Analyze Billions of Traffic Flows",
         "date": "2017/08/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=jKPlGznbfZ0",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "jKPlGznbfZ0",
         "title": "AWS re:Invent 2018: High Performance Data Streaming with Amazon Kinesis: Best Practices (ANT322-R1)",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=hLLgkTUmwOU",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "hLLgkTUmwOU",
         "title": "Amazon Kinesis Data Streams Fundamentals",
         "date": "2020/07/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=i532XK6bcGo",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "i532XK6bcGo",
         "title": "Why Amazon Kinesis Data Streams?",
         "date": "2020/07/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=dNp1emFFGbU",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "dNp1emFFGbU",
         "title": "Analyzing Data Streams in Real Time with Amazon Kinesis: PNNL's Serverless Data Lake Ingestion",
         "date": "2018/06/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8L3lLSPPxpY",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "8L3lLSPPxpY",
         "title": "Introduction to Amazon Kinesis Firehose",
         "date": "2016/09/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=uIVOx6JOkto",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "uIVOx6JOkto",
         "title": "Okta: Scalable Event Processing with Kinesis, Storm, Lambda, and Redshift",
         "date": "2017/10/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=814aUb5n_Fk",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "814aUb5n_Fk",
         "title": "Introduction to Amazon Kinesis Firehose",
         "date": "2016/10/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8u9wIC1xNt8",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "8u9wIC1xNt8",
         "title": "AWS re:Invent 2014 | (SDD405) Amazon Kinesis Deep Dive",
         "date": "2014/11/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=YQR_5W4XC94",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "YQR_5W4XC94",
         "title": "Introducing Amazon Kinesis Firehose",
         "date": "2015/10/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=dTMlg5hY6Mk",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "dTMlg5hY6Mk",
         "title": "How do I push VPC flow logs to Splunk using Amazon Kinesis Firehose?",
         "date": "2018/12/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=SmcgiweeviY",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "SmcgiweeviY",
         "title": "AWS re:Invent 2016: Analyzing Streaming Data in Real-time with Amazon Kinesis Analytics (BDM304)",
         "date": "2016/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=WCes0ihQw3g",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "WCes0ihQw3g",
         "title": "Stream Data Analytics with Amazon Kinesis Firehose and Redshift",
         "date": "2016/09/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=mmb4q_RYlJY",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "mmb4q_RYlJY",
         "title": "AWS New York Summit 2016: Introduction to Amazon Kinesis Analytics - Process Streaming Data with SQL",
         "date": "2016/08/16"
     },
     {
-        "url": "https://www.youtube.com/watch?v=zHSEnKb69go",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "zHSEnKb69go",
         "title": "AWS re:Invent 2017 - AGT Uses Amazon Kinesis for IoT Analytics",
         "date": "2017/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=wEOm6aiN4ww",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "wEOm6aiN4ww",
         "title": "Appnext: Kinesis, EMR, Athena, Redshift - Choosing the Right Tool for Your Analytics Jobs",
         "date": "2018/10/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=X0SKArvV7oI",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "X0SKArvV7oI",
         "title": "Getting Started with Amazon Kinesis Data Streams",
         "date": "2020/06/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=O5qp1VP2eI0",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "O5qp1VP2eI0",
         "title": "GuiaBolso: Data Ingestion at Scale Using Kinesis Firehose and Kubernetes on AWS (Portuguese)",
         "date": "2018/09/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=mrLsGq0HFVk",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "mrLsGq0HFVk",
         "title": "AWS re:Invent 2018: Serverless Video Ingestion & Analytics with Amazon Kinesis Video Streams ANT208",
         "date": "2018/11/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=5b9xVgUr0Jk",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "5b9xVgUr0Jk",
         "title": "Yieldmo: Transforming User Events into Actionable Data with Amazon Kinesis",
         "date": "2018/12/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=jhYIxM2KiLs",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "jhYIxM2KiLs",
         "title": "AWS re:Invent 2018: Architecting for Real-Time Insights with Amazon Kinesis (ANT310)",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=M8jVTI0wHFM",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "M8jVTI0wHFM",
         "title": "Real-Time Machine Learning Using Amazon Kinesis",
         "date": "2018/04/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=0vzFapmVvv0",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "0vzFapmVvv0",
         "title": "AWS re:Invent 2014 | (BDT306) Mission-Critical Stream Processing with Amazon EMR and Amazon Kinesis",
         "date": "2014/11/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=mfmNVNroPdE",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "mfmNVNroPdE",
         "title": "Amazon Kinesis Analytics - General Availability",
         "date": "2016/08/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=STEMa3t5NOQ",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "STEMa3t5NOQ",
         "title": "AWS re:Invent 2017 - Introducing Amazon Kinesis Video Streams",
         "date": "2017/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=NMFvBeKFCHM",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "NMFvBeKFCHM",
         "title": "AWS re:Invent 2017: Real-Time Anomaly Detection Using Amazon Kinesis (ABD335)",
         "date": "2017/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Cb9mTI_F1F0",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "Cb9mTI_F1F0",
         "title": "Fluent bit plugins for Amazon Kinesis Firehose and Amazon CloudWatch",
         "date": "2019/09/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=nHU3AU3Ez1Y",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "nHU3AU3Ez1Y",
         "title": "Zocdoc: From Monolith, to Less Than 100 ms with Amazon ECS and Kinesis",
         "date": "2017/10/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=rjBXbktBxBg",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "rjBXbktBxBg",
         "title": "AWS re:Invent 2017: NEW LAUNCH! Introducing Amazon Kinesis Video Streams (ABD216)",
         "date": "2017/10/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=AXAaCG2QUkE",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "AXAaCG2QUkE",
         "title": "Amazon Kinesis: Real-time Streaming Big data Processing Applications (BDT311) | AWS re:Invent 2013",
         "date": "2013/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=uryHucNEZXk",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "uryHucNEZXk",
         "title": "How many shards are too many shards?",
         "date": "2018/11/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=NLTXBmrpuHQ",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "NLTXBmrpuHQ",
         "title": "Thomson Reuters Product Insight: Real Time Analytics with Kinesis, Lambda and S3",
         "date": "2017/05/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=bC0un7kzCnU",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "bC0un7kzCnU",
         "title": "Amazon Kinesis Firehose | Load Data into Amazon Elasticsearch Domains",
         "date": "2016/04/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=m9cZckGVQB0",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "m9cZckGVQB0",
         "title": "AWS re:Invent Launchpad 2017 - Kinesis Firehose to Splunk Integration",
         "date": "2017/12/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=lkRoQlhWDXA",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "lkRoQlhWDXA",
         "title": "AWS re:Invent 2015 | (BDT320) New! Streaming Data Flows with Amazon Kinesis Firehose",
         "date": "2015/10/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=IXcs_e0oTKE",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "IXcs_e0oTKE",
         "title": "AWS re:Invent 2017: Analyzing Streaming Data in Real Time with Amazon Kinesis (ABD301)",
         "date": "2017/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ZROcwFis7wI",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "ZROcwFis7wI",
         "title": "Introducing Amazon Kinesis: Real-time Processing of Streaming Big Data (BDT103) | AWS re:Invent 2013",
         "date": "2013/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Jhl2H7soW4Q",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "Jhl2H7soW4Q",
         "title": "AWS re:Invent 2014 | (GAM301) Real-Time Game Analytics with Amazon Kinesis, Redshift, and DynamoDB",
         "date": "2014/11/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=P0O3zBNbtk0",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "P0O3zBNbtk0",
         "title": "AWS re:Invent Launchpad 2017 - Amazon Kinesis Video Streams",
         "date": "2017/12/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=zgQwARFEFY4",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "zgQwARFEFY4",
         "title": "Amazon Kinesis Data Streams: Why Streaming Data?",
         "date": "2020/07/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7eENkamwY7c",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "7eENkamwY7c",
         "title": "AWS re:Invent 2014 | (ADV303) MediaMath’s Data Revolution with Amazon Kinesis and Amazon EMR",
         "date": "2014/11/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=PeintltcYtA",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "PeintltcYtA",
         "title": "AWS re:Invent 2018: Bridge OLTP & Stream Processing w/ Kinesis, AWS Lambda, MongoDB Atlas ARC330-S",
         "date": "2018/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=musnOve7kAQ",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "musnOve7kAQ",
         "title": "AWS re:Invent 2016: Understanding IoT Data: How to Leverage Amazon Kinesis (BDM206)",
         "date": "2016/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=cT1JxtacypM",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "cT1JxtacypM",
         "title": "Getting Started with Amazon Kinesis | AWS Public Sector Summit 2016",
         "date": "2016/07/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-70wNNrxf6Q",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "-70wNNrxf6Q",
         "title": "AWS re:Invent 2015 | (MBL314) How Sonos Leverages Amazon Kinesis",
         "date": "2015/10/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=0vdW1ORLWyk",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "0vdW1ORLWyk",
         "title": "AWS re:Invent 2017: Architecting a data lake with Amazon S3, Amazon Kinesis, and Ama (ABD318)",
         "date": "2017/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=gJLEenaPBTg",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "gJLEenaPBTg",
         "title": "AWS Tel Aviv Summit 2018: Amazon Kinesis – Building Serverless Real-Time Solution",
         "date": "2018/03/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7bhXafN9uNg",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "7bhXafN9uNg",
         "title": "AWS Summit Series 2016 | Chicago - Getting Started with Amazon Kinesis",
         "date": "2016/04/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=vb4hWLlRkb8",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "vb4hWLlRkb8",
         "title": "AWS Summit Series 2015 | Tel Aviv: Amazon Kinesis",
         "date": "2015/07/31"
     },
     {
-        "url": "https://www.youtube.com/watch?v=PvxlF3A-Res",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "PvxlF3A-Res",
         "title": "AWS Summit SF 2018: Analyzing Data Streams in Real Time with Amazon Kinesis (BDA307)",
         "date": "2018/04/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-6k-TFV3M8o",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "-6k-TFV3M8o",
         "title": "How to Create a .NET Based AWS Lambda to Receive Events from an IoT Button and Send Data to Kinesis",
         "date": "2018/11/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=YX7GCkMT0Pc",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "YX7GCkMT0Pc",
         "title": "AWS Summit Series 2016 | Santa Clara - Streaming Data Processing with Amazon Kinesis",
         "date": "2016/07/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=JFfvD2cw2IE",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "JFfvD2cw2IE",
         "title": "AWS re:Invent 2015 | (BDT403) Building Real-time Streaming Applications with Amazon Kineses",
         "date": "2015/10/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=c9crp1vQ0lI",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "c9crp1vQ0lI",
         "title": "AWS re:Invent 2019: Simplify video streaming for millions of smart home cameras (ANT318-R1)",
         "date": "2019/12/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=TAkcRD6OxPw",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "TAkcRD6OxPw",
         "title": "AWS re:Invent 2019: [REPEAT 1] Building a streaming data platform with Amazon Kinesis (ANT326-R1)",
         "date": "2019/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=41Hta5Fx6mU",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "41Hta5Fx6mU",
         "title": "AWS re:Invent 2019: Managing decisions with Amazon Kinesis for better outcomes (DEM25-S)",
         "date": "2019/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=2SGOyhwcbV4",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "2SGOyhwcbV4",
         "title": "AWS re:Invent 2019: [REPEAT 1] Serverless stream processing pipeline best practices (SVS317-R1)",
         "date": "2019/12/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=_7RwHpewD0s",
-        "thumbnail": "",
+        "service": "kinesis",
+        "videoId": "_7RwHpewD0s",
         "title": "AWS re:Invent 2019 Launchpad | What's New in Kinesis",
         "date": "2020/03/17"
-    }  
+    }
 ]

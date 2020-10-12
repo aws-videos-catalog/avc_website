@@ -1,62 +1,62 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=hJ8Hdt7y0qw",
-        "thumbnail": "",
+        "service": "aws_lake_formation",
+        "videoId": "hJ8Hdt7y0qw",
         "title": "Build Your Data Lake Easily with AWS Lake Formation (Level 200)",
         "date": "2019/04/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=uVF73MXYay8",
-        "thumbnail": "",
+        "service": "aws_lake_formation",
+        "videoId": "uVF73MXYay8",
         "title": "AWS re:Invent 2018 - Announcing AWS Lake Formation",
         "date": "2018/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=nsiLMqg654s",
-        "thumbnail": "",
+        "service": "aws_lake_formation",
+        "videoId": "nsiLMqg654s",
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Intro to AWS Lake Formation - Build a secure data lake (ANT396)",
         "date": "2018/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KvGsyKtNEAk",
-        "thumbnail": "",
+        "service": "aws_lake_formation",
+        "videoId": "KvGsyKtNEAk",
         "title": "The Zen of DataOps - AWS Lake Formation and the Data Supply Chain Pipeline",
         "date": "2019/06/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=HrYstc_aXx8",
-        "thumbnail": "",
+        "service": "aws_lake_formation",
+        "videoId": "HrYstc_aXx8",
         "title": "AWS Summit Singapore 2019 | Zero to Data Lake in 40 Minutes",
         "date": "2019/05/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=SeZ78yX8SC8",
-        "thumbnail": "",
+        "service": "aws_lake_formation",
+        "videoId": "SeZ78yX8SC8",
         "title": "Introducing AWS Lake Formation and Managed Streaming for Kafka",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Wk9Hf4cwUFM",
-        "thumbnail": "",
+        "service": "aws_lake_formation",
+        "videoId": "Wk9Hf4cwUFM",
         "title": "AWS re:Invent 2019: [REPEAT 1] Data lakes and data integration with AWS Lake Formation (ANT218-R1)",
         "date": "2019/12/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Aj5T5fcZZr0",
-        "thumbnail": "",
+        "service": "aws_lake_formation",
+        "videoId": "Aj5T5fcZZr0",
         "title": "Deep Dive Into AWS Lake Formation - Level 300 (United States)",
         "date": "2020/07/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=4iPx8IWvJhU",
-        "thumbnail": "",
+        "service": "aws_lake_formation",
+        "videoId": "4iPx8IWvJhU",
         "title": "AWS re:Invent 2019: Upgrading AWS Glue to use AWS Lake Formation permissions (ANT281-P)",
         "date": "2019/12/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=_ZULZxJLCQA",
-        "thumbnail": "",
+        "service": "aws_lake_formation",
+        "videoId": "_ZULZxJLCQA",
         "title": "AWS re:Invent 2019: Upgrading AWS Glue to use AWS Lake Formation permissions (DEM149)",
         "date": "2019/12/06"
-    }   
+    }
 ]

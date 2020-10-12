@@ -1,19 +1,19 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=mPNtgPioxis",
-        "thumbnail": "",
+        "service": "iot_sitewise",
+        "videoId": "mPNtgPioxis",
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing AWS IoT SiteWise (IOT368)",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=l0c4EvVrqmw",
-        "thumbnail": "",
+        "service": "iot_sitewise",
+        "videoId": "l0c4EvVrqmw",
         "title": "AWS IoT SiteWise Launched - Collect, Organize, and Analyze Data from Industrial Equipment at Scale",
         "date": "2020/07/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Gy-5LtX_yfY",
-        "thumbnail": "",
+        "service": "iot_sitewise",
+        "videoId": "Gy-5LtX_yfY",
         "title": "Announcing AWS IoT SiteWise",
         "date": "2018/11/30"
     }

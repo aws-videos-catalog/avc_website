@@ -1,7 +1,7 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=0kW2rkfQgvM",
-        "thumbnail": "",
+        "service": "personal_health_dashboard",
+        "videoId": "0kW2rkfQgvM",
         "title": "AWS re:Invent 2016: NEW LAUNCH! Transparency and control with AWS Personal Health Dashboard (ARC207)",
         "date": "2016/12/03"
     }

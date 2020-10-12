@@ -1,601 +1,601 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=lj8oaSpCFTc",
-        "thumbnail": "https://i.ytimg.com/vi/lj8oaSpCFTc/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "lj8oaSpCFTc",
         "title": "AWS re:Invent 2019: Deep dive and best practices for Amazon Redshift (ANT418)",
         "date": "2019/12/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=U74vOMzUBoI",
-        "thumbnail": "https://i.ytimg.com/vi/U74vOMzUBoI/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "U74vOMzUBoI",
         "title": "AWS re:Invent 2019: Five data lake considerations w/ Amazon Redshift, Amazon S3 & AWS Glue (DEM19-S)",
         "date": "2019/12/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=hi0Acr09ruE",
-        "thumbnail": "https://i.ytimg.com/vi/hi0Acr09ruE/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "hi0Acr09ruE",
         "title": "Easily Upgrade Your Node Type on Amazon Redshift",
         "date": "2020/04/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=SldtNAonxEk",
-        "thumbnail": "https://i.ytimg.com/vi/SldtNAonxEk/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "SldtNAonxEk",
         "title": "AWS re:Invent 2019: [REPEAT 1] Migrating your data warehouses to Amazon Redshift (DAT363-R1)",
         "date": "2019/12/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6pZrE_tveLI",
-        "thumbnail": "https://i.ytimg.com/vi/6pZrE_tveLI/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "6pZrE_tveLI",
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Amazon Redshift reimagined: RA3 and AQUA (ANT230)",
         "date": "2019/12/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=V9r_sP2-zzs",
-        "thumbnail": "https://i.ytimg.com/vi/V9r_sP2-zzs/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "V9r_sP2-zzs",
         "title": "AWS re:Invent 2019: How to scale data analytics w/ Amazon Redshift, ft. Warner Bros. (ANT335-R1)",
         "date": "2019/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=svj3srbhfUw",
-        "thumbnail": "https://i.ytimg.com/vi/svj3srbhfUw/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "svj3srbhfUw",
         "title": "AWS re:Invent 2019: How to build your data analytics stack at scale with Amazon Redshift (ANT335-R)",
         "date": "2019/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=lN6tfUX4CcE",
-        "thumbnail": "https://i.ytimg.com/vi/lN6tfUX4CcE/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "lN6tfUX4CcE",
         "title": "AWS re:Invent 2019: [REPEAT] What’s new with Amazon Redshift, featuring Workday (ANT320-R)",
         "date": "2019/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=sCEhmBnQ7M0",
-        "thumbnail": "https://i.ytimg.com/vi/sCEhmBnQ7M0/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "sCEhmBnQ7M0",
         "title": "AWS re:Invent 2019: [REPEAT 1] What’s new with Amazon Redshift, featuring Yelp (ANT320-R1)",
         "date": "2019/12/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=CsVoklIK7s4",
-        "thumbnail": "https://i.ytimg.com/vi/CsVoklIK7s4/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "CsVoklIK7s4",
         "title": "Amazon Redshift Lake House Architecture",
         "date": "2020/04/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=dyCR9HVUfPQ",
-        "thumbnail": "https://i.ytimg.com/vi/dyCR9HVUfPQ/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "dyCR9HVUfPQ",
         "title": "AWS re:Invent 2019 Launchpad | What's New with Redshift",
         "date": "2020/03/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Y_SzaS9VsZo",
-        "thumbnail": "https://i.ytimg.com/vi/Y_SzaS9VsZo/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "Y_SzaS9VsZo",
         "title": "AWS re:Invent 2019: [REPEAT 2] How to scale data analytics with Amazon Redshift (ANT335-R2)",
         "date": "2019/12/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=V9P7KGfbfFI",
-        "thumbnail": "https://i.ytimg.com/vi/V9P7KGfbfFI/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "V9P7KGfbfFI",
         "title": "Log Data Analysis on Amazon Redshift & AWS Glue",
         "date": "2020/01/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=_qKm6o1zK3U",
-        "thumbnail": "https://i.ytimg.com/vi/_qKm6o1zK3U/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "_qKm6o1zK3U",
         "title": "Introduction to Data Warehousing on AWS with Amazon Redshift",
         "date": "2019/03/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=TJDtQom7SAA",
-        "thumbnail": "https://i.ytimg.com/vi/TJDtQom7SAA/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "TJDtQom7SAA",
         "title": "AWS re:Invent 2018: [REPEAT 1] Deep Dive and Best Practices for Amazon Redshift (ANT401-R1)",
         "date": "2018/01/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=suhgBUeeZsE",
-        "thumbnail": "https://i.ytimg.com/vi/suhgBUeeZsE/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "suhgBUeeZsE",
         "title": "Modernize Your Data Warehouse with Amazon Redshift and Amazon Redshift Spectrum",
         "date": "2018/11/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=j5tocGq6pAM",
-        "thumbnail": "https://i.ytimg.com/vi/j5tocGq6pAM/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "j5tocGq6pAM",
         "title": "Optimizing Your Amazon Redshift Cluster for Peak Performance",
         "date": "2018/11/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=dSfB-zJRtJM",
-        "thumbnail": "https://i.ytimg.com/vi/dSfB-zJRtJM/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "dSfB-zJRtJM",
         "title": "Amazon Redshift RA3 Nodes: Overview and How to Upgrade",
         "date": "2020/05/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Tb6pwNrBt_Y",
-        "thumbnail": "https://i.ytimg.com/vi/Tb6pwNrBt_Y/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "Tb6pwNrBt_Y",
         "title": "Why can't I connect to my Amazon Redshift cluster?",
         "date": "2019/04/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8StvmVWCsgo",
-        "thumbnail": "https://i.ytimg.com/vi/8StvmVWCsgo/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "8StvmVWCsgo",
         "title": "Column Level Access Control in Amazon Redshift",
         "date": "2020/06/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=1eIaPmqWEOI",
-        "thumbnail": "https://i.ytimg.com/vi/1eIaPmqWEOI/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "1eIaPmqWEOI",
         "title": "AWS Summit Series 2016 | Chicago - Getting Started with Amazon Redshift",
         "date": "2016/04/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-2yQsI9xJKQ",
-        "thumbnail": "https://i.ytimg.com/vi/-2yQsI9xJKQ/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "-2yQsI9xJKQ",
         "title": "Amazon Redshift Concurrency Scaling",
         "date": "2020/06/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=GBuq4SIEjnY",
-        "thumbnail": "https://i.ytimg.com/vi/GBuq4SIEjnY/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "GBuq4SIEjnY",
         "title": "AWS KC VIdeos: How do I prioritize Redshift queries, or separate ETL queries into different queues?",
         "date": "2017/11/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=y0YHG95MI48",
-        "thumbnail": "https://i.ytimg.com/vi/y0YHG95MI48/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "y0YHG95MI48",
         "title": "Webinar on Deep Dive and Best Practices for Amazon Redshift",
         "date": "2018/10/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=R1m-fwzXMow",
-        "thumbnail": "https://i.ytimg.com/vi/R1m-fwzXMow/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "R1m-fwzXMow",
         "title": "AWS Webcast - Amazon Redshift Best Practices for Data Loading and Query Performance",
         "date": "2013/04/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Rt5ZjPBtFLo",
-        "thumbnail": "https://i.ytimg.com/vi/Rt5ZjPBtFLo/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "Rt5ZjPBtFLo",
         "title": "Amazon Redshift Federated Query",
         "date": "2020/04/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=TpCa3CYV7AE",
-        "thumbnail": "https://i.ytimg.com/vi/TpCa3CYV7AE/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "TpCa3CYV7AE",
         "title": "Create a .Net app to query Amazon Redshift",
         "date": "2018/11/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=oOIgMSv2rug",
-        "thumbnail": "https://i.ytimg.com/vi/oOIgMSv2rug/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "oOIgMSv2rug",
         "title": "AWS re:Invent 2014 | (BDT303) Construct ETL Pipeline w/ AWS Data Pipeline, Amazon EMR & Redshift",
         "date": "2014/11/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=yClHAALFXRk",
-        "thumbnail": "https://i.ytimg.com/vi/yClHAALFXRk/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "yClHAALFXRk",
         "title": "How can I create Amazon Redshift Spectrum cross-account access to AWS Glue and Amazon S3?",
         "date": "2019/09/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Q4VgB_KuDNo",
-        "thumbnail": "https://i.ytimg.com/vi/Q4VgB_KuDNo/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "Q4VgB_KuDNo",
         "title": "Best Practices for Migrating Legacy Data Warehouses into Amazon Redshift",
         "date": "2019/06/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=a4de6lFLsLw",
-        "thumbnail": "https://i.ytimg.com/vi/a4de6lFLsLw/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "a4de6lFLsLw",
         "title": "What's new with Amazon Redshift: Migrating your Redshift Data Warehouse to New RA3 Nodes",
         "date": "2020/02/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=fmy3jCxUliM",
-        "thumbnail": "https://i.ytimg.com/vi/fmy3jCxUliM/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "fmy3jCxUliM",
         "title": "AWS re:Invent 2015 | (BDT401) Amazon Redshift Deep Dive: Tuning and Best Practices",
         "date": "2015/10/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=jAnhY63sVhA",
-        "thumbnail": "https://i.ytimg.com/vi/jAnhY63sVhA/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "jAnhY63sVhA",
         "title": "Amazon Redshift: 10x Performance Increase & Concurrency Scaling GA",
         "date": "2019/03/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=DIj1bFjiqd8",
-        "thumbnail": "https://i.ytimg.com/vi/DIj1bFjiqd8/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "DIj1bFjiqd8",
         "title": "AWS re:Invent 2015 | (DAT201) Introduction to Amazon Redshift",
         "date": "2015/10/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=WCes0ihQw3g",
-        "thumbnail": "https://i.ytimg.com/vi/WCes0ihQw3g/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "WCes0ihQw3g",
         "title": "Stream Data Analytics with Amazon Kinesis Firehose and Redshift",
         "date": "2016/09/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=lv2vFO0bVIY",
-        "thumbnail": "https://i.ytimg.com/vi/lv2vFO0bVIY/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "lv2vFO0bVIY",
         "title": "AWS Summit Series 2017 - San Francisco: Introducing Amazon Redshift Spectrum",
         "date": "2017/04/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=5f3z1Z_9BJA",
-        "thumbnail": "https://i.ytimg.com/vi/5f3z1Z_9BJA/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "5f3z1Z_9BJA",
         "title": "Capgemini: Refactoring a Data Warehouse to Amazon Redshift",
         "date": "2019/10/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ZvAqJtZ5JRs",
-        "thumbnail": "https://i.ytimg.com/vi/ZvAqJtZ5JRs/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "ZvAqJtZ5JRs",
         "title": "Best Practices for Data Warehousing with Amazon Redshift",
         "date": "2017/09/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-6-4QVJuQGo",
-        "thumbnail": "https://i.ytimg.com/vi/-6-4QVJuQGo/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "-6-4QVJuQGo",
         "title": "How do I move my Redshift cluster from one VPC to another VPC?",
         "date": "2018/09/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=NsIxHjTAUwo",
-        "thumbnail": "https://i.ytimg.com/vi/NsIxHjTAUwo/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "NsIxHjTAUwo",
         "title": "Harness the Power of Data Using Amazon Redshift and Matillion",
         "date": "2019/06/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=wEOm6aiN4ww",
-        "thumbnail": "https://i.ytimg.com/vi/wEOm6aiN4ww/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "wEOm6aiN4ww",
         "title": "Appnext: Kinesis, EMR, Athena, Redshift - Choosing the Right Tool for Your Analytics Jobs",
         "date": "2018/10/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=vJY9X-kdd9Q",
-        "thumbnail": "https://i.ytimg.com/vi/vJY9X-kdd9Q/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "vJY9X-kdd9Q",
         "title": "Why isn't the VPC I want to launch my Amazon Redshift cluster listed in the drop-down list?",
         "date": "2018/07/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=lMhYF6YSvd8",
-        "thumbnail": "https://i.ytimg.com/vi/lMhYF6YSvd8/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "lMhYF6YSvd8",
         "title": "Why isn't the Amazon Redshift VACUUM operation reclaiming disk space?",
         "date": "2020/06/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7ySzRTOyK6o",
-        "thumbnail": "https://i.ytimg.com/vi/7ySzRTOyK6o/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "7ySzRTOyK6o",
         "title": "AWS Webcast - Amazon Redshift Best Practices Part 2 -- Performance",
         "date": "2013/05/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=XapdgF-ajdI",
-        "thumbnail": "https://i.ytimg.com/vi/XapdgF-ajdI/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "XapdgF-ajdI",
         "title": "Migrating your Data Warehouse to Amazon Redshift - AWS Loft Session",
         "date": "2017/01/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=TsHyT-BrSOI",
-        "thumbnail": "https://i.ytimg.com/vi/TsHyT-BrSOI/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "TsHyT-BrSOI",
         "title": "Managing Concurrent Workloads with Amazon Redshift",
         "date": "2020/06/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=CYVBHA_9_zM",
-        "thumbnail": "https://i.ytimg.com/vi/CYVBHA_9_zM/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "CYVBHA_9_zM",
         "title": "Cost and usage controls for Amazon Redshift",
         "date": "2020/05/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=uIVOx6JOkto",
-        "thumbnail": "https://i.ytimg.com/vi/uIVOx6JOkto/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "uIVOx6JOkto",
         "title": "Okta: Scalable Event Processing with Kinesis, Storm, Lambda, and Redshift",
         "date": "2017/10/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=aXs9hEgJCss",
-        "thumbnail": "https://i.ytimg.com/vi/aXs9hEgJCss/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "aXs9hEgJCss",
         "title": "Federating Amazon Redshift Access with Microsoft Azure AD",
         "date": "2020/05/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=AUgi8PvY5FY",
-        "thumbnail": "https://i.ytimg.com/vi/AUgi8PvY5FY/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "AUgi8PvY5FY",
         "title": "Making Every Redshift Query Valuable with Periscope Data",
         "date": "2017/12/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=J0Tw4MGnuws",
-        "thumbnail": "https://i.ytimg.com/vi/J0Tw4MGnuws/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "J0Tw4MGnuws",
         "title": "Get Started on Amazon Redshift",
         "date": "2020/03/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=CGbWEkszAlQ",
-        "thumbnail": "https://i.ytimg.com/vi/CGbWEkszAlQ/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "CGbWEkszAlQ",
         "title": "AWS re:Invent 2015 | (DAT311) Large-Scale Genomic Analysis with Amazon Redshift",
         "date": "2015/10/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=WlU3GusGqbE",
-        "thumbnail": "https://i.ytimg.com/vi/WlU3GusGqbE/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "WlU3GusGqbE",
         "title": "Converting Oracle DW and Teradata Schemas to Amazon Redshift",
         "date": "2016/07/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=K-Usisr0zwg",
-        "thumbnail": "https://i.ytimg.com/vi/K-Usisr0zwg/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "K-Usisr0zwg",
         "title": "AWS re:Invent 2014 | (SDD414) Amazon Redshift Deep Dive and What's Next",
         "date": "2014/11/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=VXeQ8KcumGE",
-        "thumbnail": "https://i.ytimg.com/vi/VXeQ8KcumGE/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "VXeQ8KcumGE",
         "title": "Amazon Redshift Data Lake Export",
         "date": "2020/03/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7uo0ANGXUfw",
-        "thumbnail": "https://i.ytimg.com/vi/7uo0ANGXUfw/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "7uo0ANGXUfw",
         "title": "Explore Big Data Analytics with Amazon Redshift and Tableau Software",
         "date": "2013/10/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8aKjgPeDn3A",
-        "thumbnail": "https://i.ytimg.com/vi/8aKjgPeDn3A/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "8aKjgPeDn3A",
         "title": "Siemens Power and Gas Use Matillion ETL for Redshift from AWS Marketplace to Speed Data Analytics",
         "date": "2018/02/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=d7BCQ4YYK7Q",
-        "thumbnail": "https://i.ytimg.com/vi/d7BCQ4YYK7Q/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "d7BCQ4YYK7Q",
         "title": "Build and Train Machine Learning Models with Amazon Redshift and Amazon SageMaker",
         "date": "2020/05/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=JxLpj_TnisM",
-        "thumbnail": "https://i.ytimg.com/vi/JxLpj_TnisM/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "JxLpj_TnisM",
         "title": "Introducing the Amazon Redshift data warehouse",
         "date": "2013/05/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=eh7eERvYhJ4",
-        "thumbnail": "https://i.ytimg.com/vi/eh7eERvYhJ4/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "eh7eERvYhJ4",
         "title": "AWS re:Invent 2016: Migrating Your Data Warehouse to Amazon Redshift (DAT202)",
         "date": "2016/12/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=O4wAH5FQjS8",
-        "thumbnail": "https://i.ytimg.com/vi/O4wAH5FQjS8/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "O4wAH5FQjS8",
         "title": "AWS re:Invent 2014 | (FIN401) Seismic Shift: Nasdaq's Migration to Amazon Redshift",
         "date": "2014/11/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=mQAs44MHmeY",
-        "thumbnail": "https://i.ytimg.com/vi/mQAs44MHmeY/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "mQAs44MHmeY",
         "title": "Amazon Redshift Materialized Views",
         "date": "2020/03/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=GhHXVVFju9Q",
-        "thumbnail": "https://i.ytimg.com/vi/GhHXVVFju9Q/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "GhHXVVFju9Q",
         "title": "AWS Summit 2015: Yelp - Building Your Data Warehouse with Amazon Redshift",
         "date": "2015/04/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6UEWFAtvmsY",
-        "thumbnail": "https://i.ytimg.com/vi/6UEWFAtvmsY/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "6UEWFAtvmsY",
         "title": "Best Practices for Data Warehousing with Amazon Redshift (119693)",
         "date": "2017/06/16"
     },
     {
-        "url": "https://www.youtube.com/watch?v=gchd2sDhSuY",
-        "thumbnail": "https://i.ytimg.com/vi/gchd2sDhSuY/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "gchd2sDhSuY",
         "title": "NEW LAUNCH! Intro to Amazon Redshift Spectrum: Now Query Exabytes of Data in S3",
         "date": "2017/04/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=RF-IywMyyMQ",
-        "thumbnail": "https://i.ytimg.com/vi/RF-IywMyyMQ/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "RF-IywMyyMQ",
         "title": "AWS Webcast - Data Integration into Amazon Redshift",
         "date": "2013/07/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=cU6Vvd3b94k",
-        "thumbnail": "https://i.ytimg.com/vi/cU6Vvd3b94k/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "cU6Vvd3b94k",
         "title": "AWS re:Invent 2014 | (BDT206) See How Amazon Redshift Powers Business Intelligence in the Enterprise",
         "date": "2014/11/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=gjBKYOw2Qoo",
-        "thumbnail": "https://i.ytimg.com/vi/gjBKYOw2Qoo/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "gjBKYOw2Qoo",
         "title": "NTT Docomo: Secure and Scalable Data Warehouse on Redshift",
         "date": "2018/02/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=o7atIw2ntgw",
-        "thumbnail": "https://i.ytimg.com/vi/o7atIw2ntgw/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "o7atIw2ntgw",
         "title": "AWS re:Invent 2016: Amazon Machine Learning, Redshift, and Storage Data Lake in Real Estate (MAC302)",
         "date": "2016/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=n1puzWLWS38",
-        "thumbnail": "https://i.ytimg.com/vi/n1puzWLWS38/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "n1puzWLWS38",
         "title": "AWS re:Invent 2016: Best Practices for Data Warehousing with Amazon Redshift (BDM402)",
         "date": "2016/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=taKRjPmZ2Zo",
-        "thumbnail": "https://i.ytimg.com/vi/taKRjPmZ2Zo/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "taKRjPmZ2Zo",
         "title": "A Better Way to Upgrade Your Warehouse, Migrate to Amazon Redshift",
         "date": "2018/08/31"
     },
     {
-        "url": "https://www.youtube.com/watch?v=bxfnWTiY7EM",
-        "thumbnail": "https://i.ytimg.com/vi/bxfnWTiY7EM/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "bxfnWTiY7EM",
         "title": "AWS re:Invent 2016: How EA Leveraged Redshift & 47Lining to Gather Player Insights (GAM301)",
         "date": "2016/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=CRcRS3qos-A",
-        "thumbnail": "https://i.ytimg.com/vi/CRcRS3qos-A/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "CRcRS3qos-A",
         "title": "Accessing Amazon Redshift Data from Amazon Quicksight",
         "date": "2017/05/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=c0OriHUOB_Q",
-        "thumbnail": "https://i.ytimg.com/vi/c0OriHUOB_Q/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "c0OriHUOB_Q",
         "title": "AWS re:Invent 2014 | (ADV403) Ad Performance Reporting w/ Redshift: Data Science, Queries at Scale",
         "date": "2014/11/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=H__luEqLdDE",
-        "thumbnail": "https://i.ytimg.com/vi/H__luEqLdDE/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "H__luEqLdDE",
         "title": "Building Big Data Applications with Amazon EMR and Amazon Redshift",
         "date": "2016/11/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Jb_bN4tkkZ0",
-        "thumbnail": "https://i.ytimg.com/vi/Jb_bN4tkkZ0/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "Jb_bN4tkkZ0",
         "title": "AWS re: Invent DAT 103: Amazon Redshift: Amazon's New Data Warehousing Service",
         "date": "2012/12/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6umOrJX4JS0",
-        "thumbnail": "https://i.ytimg.com/vi/6umOrJX4JS0/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "6umOrJX4JS0",
         "title": "Federating Amazon Redshift with PingOne Single Sign-On and Multi-Factor Authentication",
         "date": "2020/07/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=R-KS_sZRJ2w",
-        "thumbnail": "https://i.ytimg.com/vi/R-KS_sZRJ2w/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "R-KS_sZRJ2w",
         "title": "Designing for scale - three steps to optimal data performance using DynamoDB and Redshift",
         "date": "2013/09/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Wdvb5iYVnLg",
-        "thumbnail": "https://i.ytimg.com/vi/Wdvb5iYVnLg/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "Wdvb5iYVnLg",
         "title": "Query Monitoring with Amazon Redshift",
         "date": "2020/05/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=yu5w2zTZ7Lo",
-        "thumbnail": "https://i.ytimg.com/vi/yu5w2zTZ7Lo/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "yu5w2zTZ7Lo",
         "title": "Informatica: How to Get the Most out of Amazon Redshift",
         "date": "2017/11/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=jdCMS9UQxm0",
-        "thumbnail": "https://i.ytimg.com/vi/jdCMS9UQxm0/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "jdCMS9UQxm0",
         "title": "Easy Machine Learning with Amazon ML and Redshift",
         "date": "2016/05/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=xV2LwWK9kys",
-        "thumbnail": "https://i.ytimg.com/vi/xV2LwWK9kys/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "xV2LwWK9kys",
         "title": "AWS Webcast - Introducing Amazon Redshift",
         "date": "2013/06/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ae_oJ1m6NQM",
-        "thumbnail": "https://i.ytimg.com/vi/ae_oJ1m6NQM/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "ae_oJ1m6NQM",
         "title": "Coinsquare on Building a Data Team with Redshift",
         "date": "2018/10/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ddRqFtfkNuA",
-        "thumbnail": "https://i.ytimg.com/vi/ddRqFtfkNuA/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "ddRqFtfkNuA",
         "title": "All Your Redshift Are Belong to Us: 47Lining’s Redshift Overlord",
         "date": "2017/05/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Q_K3qH5OYaM",
-        "thumbnail": "https://i.ytimg.com/vi/Q_K3qH5OYaM/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "Q_K3qH5OYaM",
         "title": "AWS re:Invent 2017: Best Practices for Data Warehousing with Amazon Redshift & Redsh (ABD304)",
         "date": "2017/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6hk0Kvjrvfo",
-        "thumbnail": "https://i.ytimg.com/vi/6hk0Kvjrvfo/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "6hk0Kvjrvfo",
         "title": "AWS Webinar: Introduction to Amazon Redshift",
         "date": "2013/03/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=LUE8shv6HjY",
-        "thumbnail": "https://i.ytimg.com/vi/LUE8shv6HjY/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "LUE8shv6HjY",
         "title": "AWS Summit Series 2015 | Tel Aviv: Amazon Redshift",
         "date": "2015/07/31"
     },
     {
-        "url": "https://www.youtube.com/watch?v=P4KPPvEb_QI",
-        "thumbnail": "https://i.ytimg.com/vi/P4KPPvEb_QI/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "P4KPPvEb_QI",
         "title": "AWS re:Invent 2014 | (BDT309) Delivering Results with Amazon Redshift, One Petabyte at a Time",
         "date": "2014/11/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Fla9puBr4Mc",
-        "thumbnail": "https://i.ytimg.com/vi/Fla9puBr4Mc/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "Fla9puBr4Mc",
         "title": "Citrix Moves Data to Amazon Redshift Fast with Matillion ETL",
         "date": "2018/10/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=cuJ8GIN19Fk",
-        "thumbnail": "https://i.ytimg.com/vi/cuJ8GIN19Fk/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "cuJ8GIN19Fk",
         "title": "Citrix Moves Data to Amazon Redshift Fast with Matillion ETL",
         "date": "2018/06/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=MS1zleTPmA0",
-        "thumbnail": "https://i.ytimg.com/vi/MS1zleTPmA0/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "MS1zleTPmA0",
         "title": "AWS re:Invent 2018: [REPEAT 1] What's New with Amazon Redshift ft. McDonald's (ANT350-R1)",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=b77XTfQjEkA",
-        "thumbnail": "https://i.ytimg.com/vi/b77XTfQjEkA/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "b77XTfQjEkA",
         "title": "OLX Leverages Amazon Redshift's Performance and Innovation for Best in Class Customer Experiences",
         "date": "2020/02/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=GbuJRAvNWsg",
-        "thumbnail": "https://i.ytimg.com/vi/GbuJRAvNWsg/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "GbuJRAvNWsg",
         "title": "Introduction to Amazon Redshift and What's Next (DAT103) | AWS re:Invent 2013",
         "date": "2013/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=e2P7LG5mHv8",
-        "thumbnail": "https://i.ytimg.com/vi/e2P7LG5mHv8/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "e2P7LG5mHv8",
         "title": "How Amazon.com is Leveraging Amazon Redshift (DAT306) | AWS re:Invent 2013",
         "date": "2013/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=YBHRWfOzrTA",
-        "thumbnail": "https://i.ytimg.com/vi/YBHRWfOzrTA/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "YBHRWfOzrTA",
         "title": "Easy Analytics on AWS with Amazon Redshift, Amazon QuickSight, and Amazon Machine Learning",
         "date": "2016/07/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=58URZbp1voY",
-        "thumbnail": "https://i.ytimg.com/vi/58URZbp1voY/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "58URZbp1voY",
         "title": "AWS re:Invent 2015 | (ISM303) Migrating Your Enterprise Data Warehouse to Amazon Redshift",
         "date": "2015/10/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=3qmzwqnC67k",
-        "thumbnail": "https://i.ytimg.com/vi/3qmzwqnC67k/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "3qmzwqnC67k",
         "title": "AWS re:Invent 2015 | (DAT308) How Yahoo! Analyzes Billions of Events a Day on Amazon Redshift",
         "date": "2015/10/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=NTa2Hi1x6pk",
-        "thumbnail": "https://i.ytimg.com/vi/NTa2Hi1x6pk/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "NTa2Hi1x6pk",
         "title": "Etix Performs Complex Queries on Transactional Data Using Amazon Redshift",
         "date": "2014/03/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=OyHhYIUEPQ4",
-        "thumbnail": "https://i.ytimg.com/vi/OyHhYIUEPQ4/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "OyHhYIUEPQ4",
         "title": "AWS re:Invent 2016: What’s New with Amazon Redshift (BDA304)",
         "date": "2016/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=z2LxhuL54nM",
-        "thumbnail": "https://i.ytimg.com/vi/z2LxhuL54nM/hqdefault.jpg",
+        "service": "amazon_redshift",
+        "videoId": "z2LxhuL54nM",
         "title": "AWS re:Invent 2018: [REPEAT] What's New with Amazon Redshift ft. Dow Jones (ANT350-R)",
         "date": "2018/11/29"
     }

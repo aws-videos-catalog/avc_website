@@ -1,19 +1,19 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=iEhKcDaNYrs",
-        "thumbnail": "",
+        "service": "codebuild",
+        "videoId": "iEhKcDaNYrs",
         "title": "AWS CodeBuild Overview",
         "date": "2019/02/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6_6i8-XkoWk",
-        "thumbnail": "",
+        "service": "codebuild",
+        "videoId": "6_6i8-XkoWk",
         "title": "AWS for Microsoft Workloads: AWS CodeBuild and .NET Core Apps",
         "date": "2018/06/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=xShLxQ1t27I",
-        "thumbnail": "",
+        "service": "codebuild",
+        "videoId": "xShLxQ1t27I",
         "title": "GameStop/Pariveda: Building Smart Deployment Pipelines with Lambda and Codebuild on AWS",
         "date": "2017/09/19"
     }
