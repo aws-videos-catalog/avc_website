@@ -18,14 +18,14 @@
         "date": "2017/09/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=N3pW4ZCeCxA",
-        "thumbnail": "",
+        "service": "codebuild",
+        "videoId": "N3pW4ZCeCxA",
         "title": "Build Applications Locally Using AWS CodeBuild",
         "date": "2020/10/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=neo9T95Sp3I",
-        "thumbnail": "",
+        "service": "codebuild",
+        "videoId": "neo9T95Sp3I",
         "title": "Enable Amazon VPC Access for AWS CodeBuild",
         "date": "2020/10/01"
     }

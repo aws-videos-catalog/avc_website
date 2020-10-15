@@ -126,8 +126,8 @@
         "date": "2014/11/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=LNqRvP6Xvrw",
-        "thumbnail": "",
+        "service": "ec2",
+        "videoId": "LNqRvP6Xvrw",
         "title": "James Hamilton Announces New Amazon EC2, M6g, C6g, and R6g Instances Powered by AWS Graviton2",
         "date": "2020/06/11"
     }

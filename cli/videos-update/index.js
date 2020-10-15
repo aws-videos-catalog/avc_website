@@ -30,9 +30,14 @@ async function updateAllVideosDetails (categoryServices) {
  * @returns {Promise<unknown>}
  */
 async function fetchVideosDetails (unfilledVideos, serviceSlug) {
-  return async.mapLimit(unfilledVideos, 1, async (video, callback) => {
+  return async.map(unfilledVideos, async (video, callback) => {
+    if (!video.videoId) {
+      console.log(chalk.red(`Missing videoId in service ${serviceSlug}. Skipping video:`, video))
+      return callback()
+    }
+
     try {
-      const videoDetails = await YoutubeClient.getVideoDetails('3xzhW-2aD4s')
+      const videoDetails = await YoutubeClient.getVideoDetails(video.videoId)
 
       if (!videoDetails) {
         reportVideoNotFound()
@@ -55,7 +60,7 @@ async function fetchVideosDetails (unfilledVideos, serviceSlug) {
     }
 
     function reportVideoNotFound () {
-      console.log(chalk.red(`Unable to load video details. Video is private or doesn't exist. Skipping ${video.videoId}`))
+      console.log(chalk.red(`Unable to load video details. Video is private or doesn't exist. Skipping`), video.videoId)
     }
   })
 }
