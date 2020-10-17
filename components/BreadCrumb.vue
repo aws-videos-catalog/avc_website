@@ -1,12 +1,12 @@
 <template>
   <div class="nav">
-    <h2>
+    <h2 class="breadcrumbs__title">
       AVC Website
     </h2>
 
     <b-breadcrumb
-        :items="breadcrumbs"
-        style="flex-grow:1;margin-left:1rem"
+      :items="breadcrumbs"
+      class="breadcrumbs__list"
     />
   </div>
 </template>
@@ -67,9 +67,19 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss">
 .nav {
   display: flex;
   flex-direction: row;
+}
+
+.breadcrumbs {
+  &__title {
+    margin-right: 1rem;
+  }
+
+  &__list {
+    flex-grow: 1;
+  }
 }
 </style>
