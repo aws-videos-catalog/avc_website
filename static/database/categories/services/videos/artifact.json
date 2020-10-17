@@ -2,49 +2,167 @@
     {
         "service": "artifact",
         "videoId": "ILEoLqpbfXM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Artifact",
+            "AWS compliance",
+            "AWS compliance reports",
+            "SOC",
+            "HIPAA",
+            "ISO",
+            "PCI"
+        ],
         "title": "Get to know AWS Artifact",
-        "date": "2018/11/23"
+        "description": "AWS Artifact is your go-to, central resource for compliance-related information that matters to you. Watch the video to find out how Artifact simplifies verifying our security and compliance posture. Learn more at - https://amzn.to/2DSNzm9.",
+        "date": "2018-11-23T18:27:39Z",
+        "duration": 74
     },
     {
         "service": "artifact",
         "videoId": "O307zdIOmWo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Learn How to Use AWS Artifact to Retrieve Your Compliance Reports",
-        "date": "2016/12/20"
+        "description": "Learn more about AWS Artifact here: http://amzn.to/2gZiuNC\n\nThe AWS Artifact portal provides on-demand access to AWS’ security and compliance documents, also known as audit artifacts. Examples of audit artifacts include Service Organization Control (SOC) reports, Payment Card Industry (PCI) reports, and certifications from accreditation bodies across geographies and compliance verticals that validate the implementation and operating effectiveness of AWS security controls.",
+        "date": "2016-12-20T20:46:55Z",
+        "duration": 271
     },
     {
         "service": "artifact",
         "videoId": "qXFWmuexKNo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I download and share AWS Artifact documents?",
-        "date": "2020/07/06"
+        "description": "For more details see the Knowledge Center article with this video: (Article url.com). \n\nBrad shows you how to download and share AWS Artifact documents with regulators and auditors, or with others in your company.",
+        "date": "2020-07-07T03:27:15Z",
+        "duration": 174
     },
     {
         "service": "artifact",
         "videoId": "qcU4c5REkTI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Artifact",
+            "AWS HIPAA",
+            "AWS BAA",
+            "AWS Artifact Organizations",
+            "AWS Agreements"
+        ],
         "title": "How to Use AWS Artifact to Accept an Agreement for Your Account",
-        "date": "2018/07/17"
+        "description": "Watch this video to learn how to use AWS Artifact to accept agreements for your account. Get started with AWS Artifact at - https://amzn.to/2uevSXB.",
+        "date": "2018-07-17T15:13:47Z",
+        "duration": 100
     },
     {
         "service": "artifact",
         "videoId": "RGbRF3sN2wQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS containers",
+            "containers",
+            "kubernetes",
+            "serverless",
+            "EKS",
+            "Fargate",
+            "Application modernization",
+            "application platforms",
+            "modern application development",
+            "devops"
+        ],
         "title": "Using Binary Repository Management",
-        "date": "2019/02/04"
+        "description": "Learn how to spin up JFrog Artifactory as a container on Amazon Elastic Container Service (ECS) to provide centralized storage of artifacts and control environments that contain dependencies. Discover the easy set up and configuration to start caching safe resources for your application, and then incorporate it into your CI/CD pipeline. \n\nWatch the whole Application Modernization series at - https://www.youtube.com/playlist?list=PLhr1KZpdzukfWFTsOD_WynnY2-e8TY8fH.\n\nFollow along with our hands-on Application Modernization Workshop: https://modernize.awsworkshop.io",
+        "date": "2019-02-04T16:27:53Z",
+        "duration": 724
     },
     {
         "service": "artifact",
         "videoId": "rss0CJ0bw40",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws artifact",
+            "aws baa",
+            "aws artifact organizations",
+            "AWS HIPAA",
+            "AWS Agreements"
+        ],
         "title": "Step-by-Step: Use AWS Artifact to Accept Agreements for Multiple Accounts in Your Org",
-        "date": "2018/07/17"
+        "description": "Watch this video to learn how to use AWS Artifact to accept agreements for multiple accounts in your org. Get started with AWS Artifact at - https://amzn.to/2LaEUeN.",
+        "date": "2018-07-17T15:05:39Z",
+        "duration": 128
     },
     {
         "service": "artifact",
         "videoId": "5WdSkA39pv4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Architecture",
+            "ARC406",
+            "Callum Hughes",
+            "Amazon Studios",
+            "Alex Smith",
+            "Expert"
+        ],
         "title": "AWS re:Invent 2016: Encoding Artifacts to Emmy Awards: Taking on 4K Video Processing (ARC406)",
-        "date": "2016/12/03"
+        "description": "The advent of 4K video has resulted in a huge uptick in resource requirements, which is difficult to scale in a traditional environment. The cloud is a perfect environment for handling problems of this scale; however, there are many unanswered questions around best practices and suitable architectures for dealing with massive, high-quality assets. In this session, we will define problem cases and discuss practical architectural patterns for dealing with these challenges by using AWS services such as Amazon EC2 (graphical instances), Amazon EMR, Amazon S3, Amazon S3 Transfer Acceleration, Amazon Glacier, AWS Snowball, and the new magnetic EBS volumes. The best practices that we'll discuss will also be helpful to architects and engineers who are dealing with non-video data. Amazon Studios will present how, powered by AWS, they solved many of these problems and are able to create, manage, and distribute Emmy Award-winning content.",
+        "date": "2016-12-03T18:15:00Z",
+        "duration": 3465
     },
     {
         "service": "artifact",
         "videoId": "heMpwts3Rdk",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Architecture",
+            "ARC403",
+            "AI",
+            "EC2",
+            "EMR",
+            "Glacier",
+            "AWS Snowball"
+        ],
         "title": "AWS re:Invent 2017: Encoding Artifacts to the Oscars: Taking on Terabyte-Scale, 1-Gb (ARC403)",
-        "date": "2017/12/01"
+        "description": "4K video has resulted in a huge uptick in resource requirements, which is difficult to scale in a traditional environment. The cloud is perfect to handle problems of this scale. However, many unanswered questions remain around best practices and suitable architectures for dealing with massive, high-quality assets. We define problem cases and discuss practical architectural patterns to handle these challenges by using AWS services such as Amazon EC2 (graphical instances), Amazon EMR, Amazon S3, Amazon S3 Transfer Acceleration, Amazon Glacier, AWS Snowball, and magnetic Amazon EBS volumes. The best practices we discuss can also help architects and engineers dealing with non-video data. Also, Amazon Studios presents how, powered by AWS, they solved many of these problems and can create, manage, and distribute Emmy and Oscar Award-winning content.",
+        "date": "2017-12-01T16:15:52Z",
+        "duration": 3298
     }
 ]

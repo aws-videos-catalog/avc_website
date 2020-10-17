@@ -2,145 +2,422 @@
     {
         "service": "api_gateway",
         "videoId": "XwfpPEFHKtQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Building APIs with Amazon API Gateway",
-        "date": "2019/02/01"
+        "description": "API Gateways can simplify the work that a developer needs to do to build API based services by helping to standardize authentication and authorization, consumer interfaces, and management needs. With Amazon API Gateway you get all of this and more, including a completely serverless management of your APIs and the ability to host them at almost any scale. You also can get the benefits of the numerous types of APIs that are supported, from pubic to private, REST to Websockets, backed by almost any backend you can think of. Come and join expert guest Chris Munns, Principal Developer Advocate of Serverless Applications, and review the powerful capabilities of Amazon API Gateway and how you can get started building awesome APIs.\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-02-01T19:28:10Z",
+        "duration": 2583
     },
     {
         "service": "api_gateway",
         "videoId": "OOpysRU5TXQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I integrate an AWS service by using API Gateway as a proxy?",
-        "date": "2020/05/19"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/api-gateway-proxy-integrate-service/\nAkansha shows you how to integrate an AWS service by using API Gateway as a proxy.",
+        "date": "2020-05-19T19:36:52Z",
+        "duration": 528
     },
     {
         "service": "api_gateway",
         "videoId": "ZFl3Qm-DBrg",
-        "title": "AWS Summit San Francisco 2015: Introducing Amazon API Gatew",
-        "date": "2015/07/09"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "New Services launch",
+            "Amazon API Gateway",
+            "AWS Launch",
+            "NY Summit",
+            "AWS Summit series",
+            "AWS Summits 2015",
+            "2015 NY Summit",
+            "Amazon Product Advertising API",
+            "Application Programming Interface (Literature Subject)",
+            "cloud computing event",
+            "introduction to api gateway",
+            "api gateway"
+        ],
+        "title": "AWS Summit San Francisco 2015: Introducing Amazon API Gateway",
+        "description": "Amazon API Gateway is a fully managed service that makes it easy for AWS customers to create, publish, maintain, monitor, and secure Application Programming Interfaces (APIs) at any scale. Learn more: http://amzn.to/2jkAVls",
+        "date": "2015-07-10T02:02:20Z",
+        "duration": 364
     },
     {
         "service": "api_gateway",
         "videoId": "6KVYM7sKW7k",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I use models in the API Gateway?",
-        "date": "2020/05/06"
+        "description": "For more details see the Knowledge Center article with this video:\nhttps://aws.amazon.com/premiumsupport/knowledge-center/model-api-gateway/\nAkanksha shows you how to use models in the API Gateway.",
+        "date": "2020-05-06T14:07:09Z",
+        "duration": 251
     },
     {
         "service": "api_gateway",
         "videoId": "UnoVqaTGwzM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I access an API Gateway private REST API in another account using an interface VPC endpoint?",
-        "date": "2020/07/09"
+        "description": "For more details see the Knowledge Center article with this video: (https://aws.amazon.com/premiumsupport/knowledge-center/api-gateway-private-cross-account-vpce/). \n\nRuiling shows you how to access an API Gateway private REST API in another account using an interface VPC endpoint.",
+        "date": "2020-07-09T22:22:03Z",
+        "duration": 405
     },
     {
         "service": "api_gateway",
         "videoId": "KXyATZctkmQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowlege Center Videos"
+        ],
         "title": "How do I implement IAM authentication for APIs in API Gateway?",
-        "date": "2019/06/17"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2IshC6e\nJoely, an AWS Cloud Support Engineer, shows you how to implement IAM authentication for APIs in API Gateway.",
+        "date": "2019-06-17T20:11:46Z",
+        "duration": 293
     },
     {
         "service": "api_gateway",
         "videoId": "VUxCJR1UG-Y",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I restrict access to my API Gateway via API Gateway resource policies?",
-        "date": "2019/08/19"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/api-gateway-resource-policy-access/\nJoely, an AWS Cloud Support Engineer, shows you how to restrict access to your API Gateway via API Gateway resource policies.",
+        "date": "2019-08-19T21:32:39Z",
+        "duration": 182
     },
     {
         "service": "api_gateway",
         "videoId": "bj3yVT6j3XU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I authorize access to API Gateway APIs using custom scopes in Amazon Cognito?",
-        "date": "2019/10/29"
+        "description": "or more details see the Knowledge Center article with this video: https://amzn.to/2VqPwfv\nMuthu, an AWS Cloud Support Engineer, shows you how to authorize access to API Gateway APIs using custom scopes in Amazon Cognito.",
+        "date": "2019-10-29T18:19:04Z",
+        "duration": 375
     },
     {
         "service": "api_gateway",
         "videoId": "CEHC9crd2VU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Building Happy Little APIs | E1 – I Didn’t Know Amazon API Gateway Did That",
-        "date": "2019/04/10"
+        "description": "This episode is an introduction to Amazon API Gateway and the problems it can solve. We talk through the moving parts of API Gateway giving examples of possible use cases both common and not so common. While we are saving the “how” for later episodes, the user will come away with a solid understanding of “why” they should use API Gateway and “what” it can do.\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-04-10T19:30:18Z",
+        "duration": 3612
     },
     {
         "service": "api_gateway",
         "videoId": "Dq2m2ZoZ234",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I set up API Gateway with my own CloudFront distribution?",
-        "date": "2019/11/20"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2mmxoWR\nDan, an AWS Cloud Support Engineer, shows you how to set up API Gateway with my own CloudFront distribution.",
+        "date": "2019-11-20T18:23:20Z",
+        "duration": 229
     },
     {
         "service": "api_gateway",
         "videoId": "ZBxWZ9bgd44",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Developer Tools",
+            "DEV203",
+            "Stefano Buliani - Amazon Web Services",
+            "Introductory (200 level)",
+            "API Gateway",
+            "Lambda",
+            "Scalable API",
+            "Application program interface",
+            "cloud computing event"
+        ],
         "title": "AWS re:Invent 2015 | (DEV203) Amazon API Gateway & AWS Lambda to Build Secure and Scalable APIs",
-        "date": "2015/10/12"
+        "description": "Amazon API Gateway is a fully managed service that makes it easy for developers to create, deploy, secure, and monitor APIs at any scale.  In this presentation, you’ll find out how to quickly declare an API interface and connect it with code running on AWS Lambda.  Amazon API Gateway handles all of the tasks involved in accepting and processing up to hundreds of thousands of concurrent API calls, including traffic management, authorization and access control, monitoring, and API version management.  We will demonstrate how to build an API that uses AWS Identity and Access Management (IAM) for authorization and Amazon Cognito to retrieve temporary credentials for your API calls. We will write the AWS Lambda function code in Java and build an iOS sample application in Objective C.\n\nLearn more: http://amzn.to/2iNiAul",
+        "date": "2015-10-12T20:15:45Z",
+        "duration": 2671
     },
     {
         "service": "api_gateway",
         "videoId": "R67huNjk88w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "api",
+            "gateway",
+            "cloudwatch",
+            "logs"
+        ],
         "title": "How do I enable CloudWatch Logs while troubleshooting my API Gateway API?",
-        "date": "2019/10/15"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2MawJ5c\nDaniel, an AWS Cloud Support Engineer, shows you how to enable CloudWatch Logs while troubleshooting your API Gateway API.",
+        "date": "2019-10-16T05:37:16Z",
+        "duration": 323
     },
     {
         "service": "api_gateway",
         "videoId": "xjwIRaK6wcY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "PHP",
+            "Datacom",
+            "AWS Lambda",
+            "Amazon API Gateway",
+            "Amazon Simple Storage Service (S3)",
+            "AWS CloudFormation",
+            "Swagger",
+            "This is My Code",
+            "TMC"
+        ],
         "title": "Datacom: Cutting Code with API Gateway Validation",
-        "date": "2018/12/10"
+        "description": "Learn more about This Is My Architecture at - https://amzn.to/2C2wi7K.\nMigrating code from PHP web servers to Node.js Lambda. 50% of the PHP code was input validation. Input objects added to RestApi definition (CloudFormation). API Gateway takes care of validating objects (types and required objects). Only logic based validation code ported to Lambda simplifying code and reducing development effort. Once deployed we export Swagger without API Gateway extensions and upload to S3 for clients to consume (and view with Swagger-UI).\n\nHost: Marc Teichtahl, Manager Solutions Architecture ANZ\nCustomer: Christopher Coombs, Datacom, Cloud Architect\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2018-12-10T17:57:20Z",
+        "duration": 359
     },
     {
         "service": "api_gateway",
         "videoId": "wbHXH8dzgyI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Announcement: API Gateway Canary Release Deployments, CodeDeploy Serverless & Lambda",
-        "date": "2017/12/08"
+        "description": "For more information on the AWS Twitch Channel, visit http://amzn.to/2jv2RoG and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.\n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders.",
+        "date": "2017-12-08T23:20:14Z",
+        "duration": 1189
     },
     {
         "service": "api_gateway",
         "videoId": "eUCaJ3dHvnc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS New York Summit",
+            "AWS Launchpad",
+            "Twitch"
+        ],
         "title": "AWS NY Summit - API Gateway: New Releases, Features, and How to Create Private APIs",
-        "date": "2018/07/26"
+        "description": "The AWS Summit was a free event designed to bring together the cloud computing community to connect, collaborate, and learn about AWS.  AWS live streamed the event with the AWS Launchpad, featuring technical discussions, announcements, demos, customer interviews and live Q&A with the Twitch community. Learn more about the AWS Twitch Channel at https://aws.amazon.com/twitch.\n\nAWS technical evangelist Randall Hunt, AWS Developer Advocate Chris Munns, and Principal Product Manager for Amazon API Gateway, Dougal Ballantyne, discuss API Gateway's latest news and releases, with a special focus on the release of Private APIs which can only be accessed from within your Amazon Virtual Private Cloud (VPC) using VPC Endpoints. \n\nLearn more here:  https://aws.amazon.com/blogs/compute/introducing-amazon-api-gateway-private-endpoints/ \n\nHost\n- Ian Massingham, Sr. Technical Evangelist, AWS\nGuests: \n- Dougal Ballantyne, Principal Product Manager, Amazon API Gateway\n- Chris Munns, Senior Developer Advocate, AWS",
+        "date": "2018-07-26T20:10:28Z",
+        "duration": 1097
     },
     {
         "service": "api_gateway",
         "videoId": "2LT5mHqKL7g",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon API Gateway",
+            "dr matt wood",
+            "awslaunch",
+            "Swagger definitions",
+            "AWS Management Console",
+            "CLI",
+            "SDK"
+        ],
         "title": "Amazon API Gateway | Support for Importing Swagger Definitions",
-        "date": "2016/05/07"
+        "description": "Learn more about Amazon API Gateway at - http://amzn.to/26YevqH\nAmazon API Gateway now supports importing Swagger API definitions. Previously, you would use the Swagger importer tool to import Swagger definitions into API Gateway. Now, you can import your Swagger API definitions into API Gateway through the AWS Management Console, CLI, and SDK. This allows you to easily create and deploy new APIs as well as update existing APIs in Amazon API Gateway.",
+        "date": "2016-05-07T21:01:08Z",
+        "duration": 62
     },
     {
         "service": "api_gateway",
         "videoId": "BWAfW69RqR4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "Which HTTP method should I use to invoke Lambda in my API Gateway API with Lambda integration?",
-        "date": "2019/11/08"
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/2No9cNs\nShruti shows you which HTTP method you should use to invoke Lambda in your API Gateway API with Lambda integration.",
+        "date": "2019-11-08T20:57:44Z",
+        "duration": 230
     },
     {
         "service": "api_gateway",
         "videoId": "NM1UsOm1-Bc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon API Gateway"
+        ],
         "title": "Amazon API Gateway Usage Plans",
-        "date": "2016/08/11"
+        "description": "Learn more about Amazon API Gateway at - http://amzn.to/2bkafNZ.\nAmazon API Gateway now supports API usage plans. You can now easily define plans for 3rd party developers by associating them with individual API keys. This allows you to configure which APIs the caller can access as well as define throttling and request quota limits. You can also extract utilization data on a per-API key basis to analyze API usage and generate billing documents. Usage plans allows you to easily manage and monetize your APIs for your API-based business.",
+        "date": "2016-08-11T17:49:16Z",
+        "duration": 50
     },
     {
         "service": "api_gateway",
         "videoId": "-0EG17oVxV0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Sydney Summit 2018",
+            "Amazon Cognito",
+            "API Gateway",
+            "visual studio",
+            "SAM"
+        ],
         "title": "AWS Sydney Summit 2018: Creating an API Gateway Custom Authorizer in .NET Core 2.0",
-        "date": "2018/05/21"
+        "description": "The big bad wold keeps stealing Grandma's recipes! Let's show Grandma how to develop and deploy an API easily using the AWS Toolkit for Visual Studio, SAM and some simple authentication rules.\n\nVisit the following links to learn more: \n- Global signout using Amazon Cognito: https://docs.aws.amazon.com/cognito-user-identity-pools/latest/APIReference/API_GlobalSignOut.html\n- Lambda runtime now supporting Razor Pages: https://aws.amazon.com/blogs/developer/serverless-asp-net-core-2-0-applications/",
+        "date": "2018-05-21T18:55:40Z",
+        "duration": 1059
     },
     {
         "service": "api_gateway",
         "videoId": "UB7vH9ZyrBI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "I get an internal server error when I call a Lambda function via API Gateway using a stage variable.",
-        "date": "2020/05/27"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/500-error-lambda-api-gateway/\nShruti shows you why you get an internal server error when you call a Lambda function via API Gateway using a stage variable.",
+        "date": "2020-05-27T13:05:37Z",
+        "duration": 284
     },
     {
         "service": "api_gateway",
         "videoId": "-fjeIV4Fhrc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS Summit Series 2015 | Barcelona: Amazon API Gateway",
-        "date": "2015/12/14"
+        "description": "Ver aquí todos los videos del evento: http://amzn.to/1OTZWdT\n\nPresentación del AWS Summit Barcelona 2015: Amazon API Gateway",
+        "date": "2015-12-14T17:40:25Z",
+        "duration": 1752
     },
     {
         "service": "api_gateway",
         "videoId": "8UA6HQU-9NM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "London Innovation Series 2018"
+        ],
         "title": "How to Get Started with Serverless Using Amazon API Gateway and AWS Lambda",
-        "date": "2018/07/10"
+        "description": "Learn more about AWS at https://amzn.to/2NAVC8G\n\nLondon Innovation Series 2017\nThe session starts with an outline of the process for getting started with AWS Serverless Services. It further provides a deep dive of AWS serverless’ web application use case and an overview of other potential use cases. \n\n\nSpeaker: Martin Bishop, Solutions Architect, AWS",
+        "date": "2018-07-10T21:31:11Z",
+        "duration": 1875
     },
     {
         "service": "api_gateway",
         "videoId": "yfJZc3sJZ8E",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "SVS212-R2",
+            "Serverless",
+            "Amazon API Gateway"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 2] I didn’t know Amazon API Gateway did that (SVS212-R2)",
-        "date": "2019/12/09"
+        "description": "This session is an introduction to Amazon API Gateway and the problems it is solving. We walk through the moving parts of API Gateway, giving examples of possible use cases both common and not so common. You come away with a solid understanding of why you should use API Gateway and what it can do.",
+        "date": "2019-12-09T18:44:31Z",
+        "duration": 3385
     },
     {
         "service": "api_gateway",
         "videoId": "cc_pKfDOH2E",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "SVS402-R2",
+            "Serverless",
+            "Amazon API Gateway"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 2] Building APIs from front to back (SVS402-R2)",
-        "date": "2019/12/10"
+        "description": "APIs have become the norm for allowing applications to communicate with each other. On AWS, customers turn to Amazon API Gateway to build HTTP, REST, or WebSocket APIs, providing communication endpoints between services and clients. However, API Gateway can do much more. In this session, we demo setting up a REST API using API Gateway. We walk though configuring a simple Lambda-based backend and adding on capabilities around data modeling and validation, custom responses, and functionless integration with backend services. Learn about some of the advanced functionality that can be done at the API level before it ever hits your backend service.",
+        "date": "2019-12-10T18:46:01Z",
+        "duration": 3759
     }
 ]

@@ -2,61 +2,178 @@
     {
         "service": "aws_lake_formation",
         "videoId": "hJ8Hdt7y0qw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build Your Data Lake Easily with AWS Lake Formation (Level 200)",
-        "date": "2019/04/03"
+        "description": "Learn more about AWS Innovate Online Conference at – https://amzn.to/2YLXH7q \nSetting up and managing data lakes today involves a lot of complicated and time-consuming tasks. AWS Lake Formation is a new service that will makes it easy to set up a secure data lake in days. You will be able to ingest, catalog, clean, and secure your data. Explore how AWS Lake Formation makes it easier to combine analytic tools, like Amazon EMR, Amazon Redshift, Amazon Athena, Amazon SageMaker, and Amazon QuickSight with the data in your data lake.\n\nSpeaker: Unni Pillai, Specialist Solution Architect, Big Data and Analytics, AWS, ASEAN",
+        "date": "2019-04-03T17:43:57Z",
+        "duration": 1324
     },
     {
         "service": "aws_lake_formation",
         "videoId": "uVF73MXYay8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Lake Formation",
+            "reinvent 2018",
+            "re:Invent 2018"
+        ],
         "title": "AWS re:Invent 2018 - Announcing AWS Lake Formation",
-        "date": "2018/11/29"
+        "description": "Watch Andy Jassy, CEO of Amazon Web Services, announce AWS Lake Formation. AWS Lake Formation is a new service to help you build a secure data lake in days. Learn more at - https://amzn.to/2AxJ6kA.\n\nSetting up and managing data lakes today involves a lot of complicated and time-consuming tasks. AWS Lake Formation is a new service (preview coming soon) that will make it easy to set up a secure data lake in days. You will be able to ingest, catalog, cleanse, transform, and secure your data. Explore how AWS Lake Formation will make it easier to combine analytic tools, like Amazon EMR, Redshift, Athena, Sagemaker, and QuickSight, around data in your data lake.",
+        "date": "2018-11-29T18:23:05Z",
+        "duration": 165
     },
     {
         "service": "aws_lake_formation",
         "videoId": "nsiLMqg654s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Analytics",
+            "ANT396",
+            "Amazon EMR"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Intro to AWS Lake Formation - Build a secure data lake (ANT396)",
-        "date": "2018/12/01"
+        "description": "Setting up and managing data lakes today involves a lot of complicated and time-consuming tasks. AWS Lake Formation is a new service (coming soon) that will make it easy to set up a secure data lake in days. You will be able to ingest, catalog, cleanse, transform, and secure your data. Explore how AWS Lake Formation will make it easier to combine analytic tools, like Amazon EMR, Redshift, Athena, Sagemaker, and QuickSight, on data in your data lake.",
+        "date": "2018-12-01T22:15:11Z",
+        "duration": 3424
     },
     {
         "service": "aws_lake_formation",
         "videoId": "KvGsyKtNEAk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "The Zen of DataOps - AWS Lake Formation and the Data Supply Chain Pipeline",
-        "date": "2019/06/21"
+        "description": "Many organizations have adopted or are in the process of adopting DevOps methodologies in their quest to accelerate the delivery of software capabilities, features, and functionalities to support their organizational objectives. By applying the same practices, DataOps aims to provide the same level of agility in delivering data and information to the organization. AWS Lake Formation, in coordination with other AWS Services, enables DevOps methodologies to be realized through the Data Supply Chain Pipeline.",
+        "date": "2019-06-21T16:59:27Z",
+        "duration": 2600
     },
     {
         "service": "aws_lake_formation",
         "videoId": "HrYstc_aXx8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws summit singapore 2019",
+            "insights and analytics",
+            "Unni Pillai",
+            "data lake",
+            "aws quicksight",
+            "athena",
+            "data analytics",
+            "data pipelines"
+        ],
         "title": "AWS Summit Singapore 2019 | Zero to Data Lake in 40 Minutes",
-        "date": "2019/05/03"
+        "description": "Learn more about AWS at – https://amzn.to/2USJL8A \nSetting up and managing data lakes today involves a lot of complicated and time-consuming tasks. AWS Lake Formation is a new service that will make it easy to set up a secure data lake. We will demonstrate ingesting, cataloging, cleansing, transforming, and securing your data in this 40 minute session. Furthermore, we will combime analytic tools like Athena and QuickSight on the data in your data lake.\n\nSpeaker: Unni Pillai, Specialist Solutions Architect - Big Data & Analytics, ASEAN, AWS\n\nAccess the slide: https://www.slideshare.net/AWSSummits/aws-summit-singapore-2019-zero-to-data-lake-in-40-minutes",
+        "date": "2019-05-03T17:20:35Z",
+        "duration": 2174
     },
     {
         "service": "aws_lake_formation",
         "videoId": "SeZ78yX8SC8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Introducing AWS Lake Formation and Managed Streaming for Kafka",
-        "date": "2018/11/30"
+        "description": "Catch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch. Learn more | https://aws.amazon.com/lake-formation",
+        "date": "2018-11-30T20:31:09Z",
+        "duration": 1222
     },
     {
         "service": "aws_lake_formation",
         "videoId": "Wk9Hf4cwUFM",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ANT218-R1",
+            "Analytics",
+            "Nu Skin",
+            "AWS Glue",
+            "AWS Lake Formation"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Data lakes and data integration with AWS Lake Formation (ANT218-R1)",
-        "date": "2019/12/08"
+        "description": "Want to build and secure a data lake without all the hassle? Learn how AWS Lake Formation and AWS Glue consolidate and simplify the steps of ingesting, encrypting, cataloging, transforming, and provisioning data. Understand how to make data readily accessible to different analytics services and users, while enforcing granular access control policies and audit logging. Hear about how AWS customers have implemented Lake Formation and AWS Glue for their businesses. Hear how NU SKIN has recently completed an all-in migration to AWS and leveraged AWS Lake Formation to manage their data lake.",
+        "date": "2019-12-08T23:29:10Z",
+        "duration": 3516
     },
     {
         "service": "aws_lake_formation",
         "videoId": "Aj5T5fcZZr0",
+        "tags": [
+            "AWS",
+            "AWS Summit Online",
+            "May 13",
+            "2020",
+            "United States",
+            "Level 300",
+            "AWS Lake Formation",
+            "analyse",
+            "machine learning",
+            "security & storage",
+            "AWS Events"
+        ],
         "title": "Deep Dive Into AWS Lake Formation - Level 300 (United States)",
-        "date": "2020/07/24"
+        "description": "In this session, learn how to build a secure and automated data lake using AWS Lake Formation. Also learn how to set up periodic sales data and ingest into the data lake, build automated transformations, and generate sales forecasts from the transformed data using AI. If you're a developer, DBA, or a data engineer who works with data, this session is for you.\n\nLearn more about AWS at - https://amzn.to/2C6q0qN\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
+        "date": "2020-07-24T18:47:42Z",
+        "duration": 1707
     },
     {
         "service": "aws_lake_formation",
         "videoId": "4iPx8IWvJhU",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "Analytics",
+            "AWS Glue",
+            "AWS Lake Formation",
+            "ANT281-P"
+        ],
         "title": "AWS re:Invent 2019: Upgrading AWS Glue to use AWS Lake Formation permissions (ANT281-P)",
-        "date": "2019/12/13"
+        "description": "This presentation was recorded prior to re:Invent. Learn how to upgrade to use Lake Formation permissions. We start with a simple data lake that has fine-grained access control (FGAC) on the AWS Glue Data Catalog using IAM policies. We then upgrade to using Lake Formation permissions.",
+        "date": "2019-12-13T19:55:57Z",
+        "duration": 3375
     },
     {
         "service": "aws_lake_formation",
         "videoId": "_ZULZxJLCQA",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DEM149"
+        ],
         "title": "AWS re:Invent 2019: Upgrading AWS Glue to use AWS Lake Formation permissions (DEM149)",
-        "date": "2019/12/06"
+        "description": "In this demo, learn how to upgrade to use AWS Lake Formation permissions. We start with a simple data lake that has fine-grained access control on the AWS Glue Data Catalog using AWS Identity and Access Management policies. We then upgrade to using Lake Formation permissions.",
+        "date": "2019-12-07T05:59:37Z",
+        "duration": 1029
     }
 ]

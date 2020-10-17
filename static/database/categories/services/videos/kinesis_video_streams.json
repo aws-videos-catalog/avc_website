@@ -2,31 +2,94 @@
     {
         "service": "kinesis_video_streams",
         "videoId": "mrLsGq0HFVk",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Analytics",
+            "ANT208",
+            "Amazon Kinesis",
+            "Amazon Kinesis Video Streams"
+        ],
         "title": "AWS re:Invent 2018: Serverless Video Ingestion & Analytics with Amazon Kinesis Video Streams ANT208",
-        "date": "2018/11/27"
+        "description": "Amazon Kinesis Video Streams makes it easy to capture live video, play it back, and store it for real-time and batch-oriented ML-driven analytics. In this session, we first dive deep on the top five best practices for getting started and scaling with Amazon Kinesis Video Streams. Next, we demonstrate a streaming video from a standard USB camera connected to a laptop, and we perform a live playback on a standard browser within minutes. We also have on stage members of Amazon Go, who are building the next generation of physical retail store experiences powered by their \"just walk out\" technology. They walk through the technical details of their integration with Kinesis Video Streams and highlight their successes and difficulties along the way. Complete Title: AWS re:Invent 2018: Serverless Video Ingestion & Analytics with Amazon Kinesis Video Streams (ANT208)",
+        "date": "2018-11-27T19:10:26Z",
+        "duration": 3588
     },
     {
         "service": "kinesis_video_streams",
         "videoId": "STEMa3t5NOQ",
+        "tags": [
+            "re:Invent 2017",
+            "Andy Jassy",
+            "keynote",
+            "Amazon Kinesis Video Streams",
+            "cloud",
+            "cloud computing",
+            "AWS"
+        ],
         "title": "AWS re:Invent 2017 - Introducing Amazon Kinesis Video Streams",
-        "date": "2017/11/29"
+        "description": "Amazon Kinesis Video Streams is a fully managed video ingestion and storage service.  It enables you to securely ingest, process, and store video at any scale for applications that power robots, smart cities, industrial automation, security monitoring, machine learning (ML), and more. Learn more at - http://amzn.to/2zcwh1a.\n\nKinesis Video Streams also ingests other kinds of time-encoded data like audio, RADAR, and LIDAR signals. Kinesis Video Streams provides you SDKs to install on your devices to make it easy to securely stream video to AWS. Kinesis Video Streams automatically provisions and elastically scales all the infrastructure needed to ingest video streams from millions of devices. It also durably stores, encrypts, and indexes the video streams and provides easy-to-use APIs so that applications can access and retrieve indexed video fragments based on tags and timestamps. Kinesis Video Streams provides a library to integrate ML frameworks such as Apache MxNet, TensorFlow, and OpenCV with video streams to build machine learning applications. Kinesis Video Streams is integrated with Amazon Rekognition Video, enabling you to build computer vision applications that detect objects, events, and people.",
+        "date": "2017-11-29T22:00:38Z",
+        "duration": 144
     },
     {
         "service": "kinesis_video_streams",
         "videoId": "rjBXbktBxBg",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Analytics & Big Data",
+            "ABD216",
+            "AI",
+            "Connect",
+            "Kinesis",
+            "Machine Learning",
+            "Analytics",
+            "Artificial Intelligence",
+            "Compute",
+            "ML"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Introducing Amazon Kinesis Video Streams (ABD216)",
-        "date": "2017/12/01"
+        "description": "Amazon Kinesis Video Streams makes it easy to securely stream video from connected devices to AWS for analytics, machine learning (ML), and other processing. In this session, we introduce Kinesis Video Streams and its key features, and review common use cases including smart home, smart city, industrial automation, and computer vision. We also discuss how you can use the Kinesis Video Streams parser library to work with the output of video streams to power popular deep learning frameworks. Lastly, Abeja, a leading Japanese artificial intelligence (AI) solutions provider, talks about how they built a deep-learning system for the retail industry using Kinesis Video Streams to deliver better shopping experience.",
+        "date": "2017-12-01T16:13:16Z",
+        "duration": 3029
     },
     {
         "service": "kinesis_video_streams",
         "videoId": "P0O3zBNbtk0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Kinesis",
+            "Twitch",
+            "re:Invent 2017",
+            "re:Invent Launchpad"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - Amazon Kinesis Video Streams",
-        "date": "2017/12/11"
+        "description": "Amazon Kinesis Video Streams makes it easy to securely stream video, audio, and other time-encoded data from sources like cameras, RADARs, thermal sensors, and other connected devices to AWS for machine learning (ML), analytics, and more. Learn more at - http://amzn.to/2nRoEbk.\n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-11T18:21:38Z",
+        "duration": 946
     },
     {
         "service": "kinesis_video_streams",
         "videoId": "c9crp1vQ0lI",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ANT318-R1",
+            "Analytics",
+            "Wyze",
+            "Wyze Labs Inc.",
+            "Amazon Kinesis"
+        ],
         "title": "AWS re:Invent 2019: Simplify video streaming for millions of smart home cameras (ANT318-R1)",
-        "date": "2019/12/10"
+        "description": "In this talk, we discuss how you can use Amazon Kinesis Video Streams to capture video data from millions of camera IoT devices. Kinesis Video Streams makes it easy to securely stream video from connected devices to AWS for analytics, machine learning (ML), playback, and other processing. We walk through how to securely stream, store, and process video from the edge to the cloud. Finally, we describe how Wyze moved more than one million cameras to use Kinesis Video Streams and dramatically reduce their time to market while having just one engineer oversee the effort.",
+        "date": "2019-12-10T18:49:09Z",
+        "duration": 3488
     }
 ]

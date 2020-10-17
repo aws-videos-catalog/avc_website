@@ -2,7 +2,25 @@
     {
         "service": "aws_compute_optimizer",
         "videoId": "EHAYh-yvOg8",
+        "tags": [
+            "programming",
+            "aws",
+            "reinvent",
+            "ai",
+            "ml",
+            "developer",
+            "cloud computing",
+            "software",
+            "AWS Compute Optimizer",
+            "Aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "reinvent 2019",
+            "aws launchpad"
+        ],
         "title": "AWS re:Invent 2019 Launchpad | AWS Compute Optimizer",
-        "date": "2020/03/17"
+        "description": "Subscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #reInvent2019 #AWSLaunchpad",
+        "date": "2020-03-17T19:08:48Z",
+        "duration": 1176
     }
 ]

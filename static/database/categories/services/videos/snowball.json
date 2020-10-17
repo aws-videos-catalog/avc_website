@@ -2,104 +2,336 @@
     {
         "service": "snowball",
         "videoId": "yl25W7LZAMU",
+        "tags": [
+            "aws",
+            "Summit",
+            "Chicago",
+            "aws snowball",
+            "Snowball",
+            "80TB appliance",
+            "import export",
+            "amazon web services",
+            "matt wood",
+            "dr matt wood"
+        ],
         "title": "AWS Snowball | Introducing a new 80TB appliance and four new regions",
-        "date": "2016/04/20"
+        "description": "Learn more: http://amzn.to/1SudGy5\n\nAWS Snowball is now 60% larger and available around the world, making it simpler to move large amounts of data into and out of the cloud wherever you are.",
+        "date": "2016-04-20T23:08:36Z",
+        "duration": 200
     },
     {
         "service": "snowball",
         "videoId": "bxSD1Nha2k8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Snowball",
+            "Snowball Edge",
+            "Data Migration",
+            "Data Transfer",
+            "Edge Computing",
+            "Edge Migration",
+            "Storage"
+        ],
         "title": "AWS Snowball Edge Overview",
-        "date": "2018/07/17"
+        "description": "Learn more about Snowball Edge at - https://amzn.to/2JieLZv.\nAWS Snowball Edge is a 100TB data transfer device with on-board storage and compute capabilities. You can use Snowball Edge to move large amounts of data into and out of AWS, as a temporary storage tier for large local datasets, or to support local workloads in remote or offline locations.",
+        "date": "2018-07-17T15:55:15Z",
+        "duration": 105
     },
     {
         "service": "snowball",
         "videoId": "g0GvriwXoe0",
+        "tags": [
+            "Snowball Edge",
+            "aws",
+            "amazon web services",
+            "andy jassy",
+            "cloud computing",
+            "AWS Snowball Edge",
+            "100TB data transfer"
+        ],
         "title": "AWS re:Invent 2016: New AWS Snowball Edge, Petabyte-Scale Data Transport with On-Board Storage",
-        "date": "2016/11/30"
+        "description": "Learn more - http://amzn.to/2gqQaHs\nAWS Snowball Edge is a 100TB data transfer device with on-board storage and compute capabilities. You can use Snowball Edge to move large amounts of data into and out of AWS, as a temporary storage tier for large local datasets, or to support local workloads in remote or offline locations.",
+        "date": "2016-12-01T06:14:02Z",
+        "duration": 276
     },
     {
         "service": "snowball",
         "videoId": "-PqOwc3KURw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Import/Export Snowball is a petabyte-scale data transport service that uses portable",
+            "secure appliances to transfer data into and out of AWS.",
+            "Snowball",
+            "Direct Connect",
+            "Import/Export",
+            "Data Transfer",
+            "Data Transport",
+            "Cloud Migration",
+            "Datacenter Decommission",
+            "Cloud Backup",
+            "Online Backup",
+            "Cloud Archive",
+            "Online Archive",
+            "Secure",
+            "Portable"
+        ],
         "title": "Introducing AWS Import/Export Snowball",
-        "date": "2015/10/08"
+        "description": "Learn more about AWS Import/Export Snowball here: http://amzn.to/1LzF4KR\nAWS Import/Export Snowball is a petabyte-scale data transport service that uses portable, secure appliances to transfer data into and out of AWS.",
+        "date": "2015-10-08T21:22:42Z",
+        "duration": 395
     },
     {
         "service": "snowball",
         "videoId": "9uc2DSZ1wL8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Snowball",
+            "Import/Export",
+            "Cloud Data Migration",
+            "import large data sets to cloud",
+            "data import to cloud",
+            "cloud import of large data sets",
+            "animation",
+            "snowball",
+            "export/import service",
+            "large scale data transfer",
+            "what is snowball",
+            "introduction to snowball"
+        ],
         "title": "Introduction to the AWS Snowball - Large-Scale Data Transfers‎ on AWS",
-        "date": "2016/02/01"
+        "description": "AWS Snowball is a petabyte-scale data transport solution that uses secure appliances to transfer large amounts of data into and out of the AWS cloud. Learn more: http://amzn.to/2hZdii7",
+        "date": "2016-02-01T20:26:17Z",
+        "duration": 109
     },
     {
         "service": "snowball",
         "videoId": "TyH4y3YT8Io",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Snowball"
+        ],
         "title": "AWS Snowball - New Features",
-        "date": "2016/08/11"
+        "description": "Learn more about AWS Snowball - http://amzn.to/2aOh0FY\nWe are pleased to announce two new features that help customers and partners integrate the Snowball with existing data management applications and workflows.\n\nWith the Snowball Job Management API, customers and partners can integrate their own applications with a Snowball, and create and manage jobs outside of the AWS management console. The API is a simple, standards - based REST web service interface used to create, list, update, and cancel jobs from anywhere on the web.",
+        "date": "2016-08-11T17:50:44Z",
+        "duration": 61
     },
     {
         "service": "snowball",
         "videoId": "6Hw--HE8ILg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Using AWS Snowball Edge and AWS DMS for Database Migration",
-        "date": "2018/04/26"
+        "description": "Learn how to get started with AWS Snowball at - https://amzn.to/2vU4LVa.\nAWS Database Migration Service (AWS DMS) makes it easy to migrate relational databases, data warehouses, NoSQL databases, and other types of data stores (like S3) to any of our supported target data stores. You can use AWS DMS to migrate your data into the AWS Cloud using AWS Snowball Edge. Moving files over long distances, or terabyte and petabyte volumes of data into the cloud can be a sticking point for cloud migrations. Watch this video to learn how customers are using the Snowball Edge integration in DMS to move large scale databases to the cloud, while remaining compliant with existing regulations.",
+        "date": "2018-04-26T18:12:16Z",
+        "duration": 674
     },
     {
         "service": "snowball",
         "videoId": "86ogJHFSJRo",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Financial Services",
+            "Storage & Content Delivery",
+            "STG202",
+            "Nihar Bihani - Amazon Web Services",
+            "Colin Lazier - Amazon Web Services",
+            "Introductory (200 level)"
+        ],
         "title": "AWS re:Invent 2015 | (STG202) AWS Import/Export Snowball: Large-Scale Data Ingest into AWS",
-        "date": "2015/10/09"
+        "description": "Moving terabyte and petabyte volumes of data into the cloud can be a challenge for many businesses. Come learn how you can use Snowball, a new AWS feature, to move large-scale (terabyte and petabyte) data to AWS storage services.",
+        "date": "2015-10-10T01:19:53Z",
+        "duration": 1456
     },
     {
         "service": "snowball",
         "videoId": "Cq2qsTr6-7M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "snowball",
+            "aws snowball",
+            "aws snowball device",
+            "80 TB snowball",
+            "petabyte-scale"
+        ],
         "title": "AWS Snowball | 80TB Snowball Device",
-        "date": "2016/04/19"
+        "description": "Lean more about AWS Snowball at - http://amzn.to/1Sqm01K.\nSnowball is a petabyte-scale data transport solution that uses secure appliances to transfer large amounts of data into and out of the AWS cloud. Using Snowball addresses common challenges with large-scale data transfers including high network costs, long transfer times, and security concerns. Transferring data with Snowball is simple, fast, secure, and can be as little as one-fifth the cost of high-speed Internet.",
+        "date": "2016-04-19T16:16:38Z",
+        "duration": 44
     },
     {
         "service": "snowball",
         "videoId": "4eMMEu1W8Rk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws",
+            "awspsssummit",
+            "aws public sector summit canberra"
+        ],
         "title": "Snowball Edge Bringing Disconnected Cloud Capabilities to the Edge",
-        "date": "2019/10/17"
+        "description": "Learn more about AWS Public Sector Summit Canberra at – https://amzn.to/31kLWF7 \nAWS Snowball was born to physically migrate petabyte-scale datasets into and out of AWS. Despite this ability to move massive datasets, customers increasingly needed to process data at or near the disconnected edge, often in austere environments. Enter AWS Snowball Edge: Born from the necessity to operate workloads and data processing in ruggedized devices with local cloud capabilities at the edge. Learn how Snowball Edge continues to evolve and has been adopted by both customers and the AWS Disaster Response Action Team to support an ever-expanding portfolio of use cases for tactical defence solutions, disaster response, emergency services, field research, and more.\n\nSpeaker: Paul Bockelman, Specialist Solutions Architect, AWS",
+        "date": "2019-10-17T21:12:25Z",
+        "duration": 1550
     },
     {
         "service": "snowball",
         "videoId": "GrO71qcvM9w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summits",
+            "AWS ublic sector summit",
+            "206AWSPSSummit",
+            "AWS Government summit"
+        ],
         "title": "AWS Snowball: Accelerating Large-Scale Data Ingest Into the AWS Cloud",
-        "date": "2016/07/07"
+        "description": "Moving files over long distances, or terabyte and petabyte volumes of data into the cloud can be a sticking point for cloud migrations. Come learn how customers are using the latest Snowball to move large scale data stores to the cloud, while remaining compliant with existing regulations.",
+        "date": "2016-07-08T02:29:55Z",
+        "duration": 1187
     },
     {
         "service": "snowball",
         "videoId": "tR_qSFEEnmA",
+        "tags": [
+            "aws knowledge center videos",
+            "snowball",
+            "ip conflicts",
+            "static",
+            "dhcp"
+        ],
         "title": "What can I check if my AWS Snowball appliance isn't able to establish a connection with the network?",
-        "date": "2016/06/27"
+        "description": "Find more details in the AWS Knowledge Center:  https://aws.amazon.com/premiumsupport/knowledge-center/troubleshoot-connect-snowball/\nYu, an AWS Cloud Support Engineer, walks through the process to establish a network connection with the AWS Snowball appliance.",
+        "date": "2016-06-27T15:39:27Z",
+        "duration": 227
     },
     {
         "service": "snowball",
         "videoId": "NlxTT-d_MPA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Easily Capture, Analyze, and Move Your Data with AWS Snowball v2",
-        "date": "2016/12/01"
+        "description": "Learn more about AWS Webinars here - http://amzn.to/2fimitG\n\nThis trailer is a preview on our latest import/export products that allow customers to collect, analyze and migrate large amounts of data. The video highlights how the new products are easy to order, simple to use and goes through what details will be covered in the webinar.",
+        "date": "2016-12-01T17:09:21Z",
+        "duration": 51
     },
     {
         "service": "snowball",
         "videoId": "hxIiEjmVFu0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws snowball edge",
+            "unlock snowball edge",
+            "aws knowledge center"
+        ],
         "title": "AWS Knowledge Center Videos: How do I unlock an AWS Snowball Edge?",
-        "date": "2017/08/02"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/unlock-snowball-edge/\n\nRashim, an AWS Product Manager, shows you how to unlock an AWS Snowball Edge.",
+        "date": "2017-08-02T14:37:09Z",
+        "duration": 542
     },
     {
         "service": "snowball",
         "videoId": "__ooXhq5gZ4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "showball edge"
+        ],
         "title": "Pushing Physical Limits with AWS Snowball Edge",
-        "date": "2017/03/11"
+        "description": "Learn more about the AWS Snowball Edge here - http://amzn.to/2ng3sdX\n\nAWS Snowball Edge was introduced at re:Invent 2016, a durable, secure data transport solution that accelerates the migration of terabytes to petabytes of data into and out of AWS. To demonstrate the physical rugged nature of the device, the Snowball Edge was subjected to a test that follows the MIL-S-901D standard.",
+        "date": "2017-03-11T15:34:47Z",
+        "duration": 82
     },
     {
         "service": "snowball",
         "videoId": "cQfxchz-yNI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Snowball Edge"
+        ],
         "title": "Insomniac Supports the EDC (Electric Daisy Carnival) with Snowball Edge",
-        "date": "2017/11/07"
+        "description": "Learn more about the AWS Snowball Edge at - http://amzn.to/2kTrI5r.\nCollecting and managing content captured from 150,000 people at an enormous party in the desert? It's what Snowball Edge was made for. Hear Insomniac's David Chen talk about how he handles storage for his temporary networks all around the world.",
+        "date": "2017-11-07T16:53:27Z",
+        "duration": 145
     },
     {
         "service": "snowball",
         "videoId": "z8-DeSuKf9I",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Storage",
+            "STG214",
+            "colin lazier",
+            "Introductory"
+        ],
         "title": "AWS re:Invent 2016: NEW LAUNCH! Introducing AWS Snowball Edge and AWS Snowmobile (STG214)",
-        "date": "2016/12/03"
+        "description": "At re:Invent 2016 AWS announced several revolutionary ways to move data into and out of the AWS Cloud in large batches, so you can retire servers, racks, and data centers and embark on new projects faster. Two of these new services are AWS Snowmobile and AWS Snowball Edge. Snowmobile cuts cloud data migration projects from years to weeks in time with a 45 foot truck with 100PB of capacity. AWS Snowball Edge is a petabyte-scale data transfer service with portable storage and compute capabilities. It transports up to 100TB of data in a ruggedized, weather resistant, rack mountable, shippable device with the same embedded cryptography and security as the original Snowball. Learn more about each of these services and hear from two customers on the impact these services have made on their data center operations.",
+        "date": "2016-12-03T23:52:20Z",
+        "duration": 2112
     },
     {
         "service": "snowball",
@@ -119,60 +351,180 @@
         ],
         "title": "AWS Knowledge Center Videos: \"How do I prepare to send a Snowball back to AWS?\"",
         "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/ship-snowball-aws/\n\nJeff Barr, AWS Chief Evangelist, shows how you can get a Snowball appliance ready to ship back to AWS.",
-        "date": "2017-05-10T22:41:25Z"
+        "date": "2017-05-10T22:41:25Z",
+        "duration": 90
     },
     {
         "service": "snowball",
         "videoId": "3yjTG9GafhQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit New York",
+            "Snowball Edge"
+        ],
         "title": "AWS Summit New York 2018 - AWS Announces the C2 AMI Support on the Snowball Edge",
-        "date": "2018/07/18"
+        "description": "The AWS Snowball Edge device now supports EC2 instances. This helps you build applications in the AWS Cloud that can run in remote locations, delivering data storage and data processing capabilities without a network connection. Learn more at - https://amzn.to/2NUo0To.",
+        "date": "2018-07-18T20:41:38Z",
+        "duration": 124
     },
     {
         "service": "snowball",
         "videoId": "DHnR0kFin80",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "snowball edge"
+        ],
         "title": "OSU Hatfield Marine Science Center Uses AWS Snowball Edge",
-        "date": "2017/03/29"
+        "description": "With AWS Snowball Edge, The Hatfield Marine Science Center (HMSC) at Oregon State University can collect and analyze 100 TB of real-time oceanic and coastal data with no intermediate steps, giving the organization the ability to analyze images immediately using onboard compute capabilities. HMSC is a leading marine laboratory and the campus for Oregon State University’s research, education, and outreach in marine and coastal sciences. Before using Snowball Edge, the organization had been collecting data on disk drives aboard its ship, which it would manually load on to servers in the university’s data center, requiring hours of manual labor. AWS Snowball Edge gives HMSC a portable, high-capacity device that it uses remotely to capture and pre-process collected data.",
+        "date": "2017-03-29T17:35:56Z",
+        "duration": 228
     },
     {
         "service": "snowball",
         "videoId": "plpc5U2VgbY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Photobox Migrates to Amazon S3 with AWS Snowball Edge to Reduce Costs & Accelerate Innovation",
-        "date": "2018/07/24"
+        "description": "Learn more about Amazon S3 at - https://amzn.to/2uHYXuM.\nPhotobox wanted to get out of the business of owning and maintaining their own IT infrastructure so they could redeploy resources toward innovation in Artificial Intelligence and other areas to create a better customer experience. By migrating from their EMC Isilon and IBM Cleversafe on-prem storage arrays to Amazon S3 using AWS Snowball Edge, Photobox was able to save significant costs for their 10 PB of photo storage. Photobox can now focus its resources on developing technology that helps their customers build better photobooks, faster, instead of maintaining legacy IT infrastructure.",
+        "date": "2018-07-24T15:52:42Z",
+        "duration": 230
     },
     {
         "service": "snowball",
         "videoId": "E_xHnfsvl2w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Improving Information and Communications in a Disaster Scenario with AWS Snowball Edge",
-        "date": "2019/06/20"
+        "description": "Volunteers and emergency personnel carefully coordinate their response to natural disasters. This coordination requires data and making data actionable and accessible at the tactical edge remains a challenge. We'll dive into the results of our disaster response user needs study and invite Element 84 on stage to exhibit their prototype disaster response pipeline for field data management. The serverless, cloud-based pipeline combines public and private data sources with open source software. It can provide the field with a ruggedized remote data center (SBE), preloaded with critical information, including reach-back capabilities. You'll see how this works firsthand and learn ways first responders can update data from in-situ sources such as drones.",
+        "date": "2019-06-20T15:29:34Z",
+        "duration": 2209
     },
     {
         "service": "snowball",
         "videoId": "3Fc5M0JN0SM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "New York Summit",
+            "AWS Summit New York",
+            "AWS Snowball Edge",
+            "EC2"
+        ],
         "title": "AWS Summit New York 2018 - AWS Announces the C2 AMI Support on the Snowball Edge",
-        "date": "2018/07/18"
+        "description": "The AWS Snowball Edge device now supports EC2 instances. This helps you build applications in the AWS Cloud that can run in remote locations, delivering data storage and data processing capabilities without a network connection. Learn more at - https://amzn.to/2NUo0To.",
+        "date": "2018-07-18T19:14:52Z",
+        "duration": 64
     },
     {
         "service": "snowball",
         "videoId": "ZXf64YpiSY8",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "STG214",
+            "Storage",
+            "Novetta"
+        ],
         "title": "AWS re:Invent 2019: Data migration and edge computing with the AWS Snow family (STG214)",
-        "date": "2019/12/05"
+        "description": "Many organizations still have data they want to move to AWS, and have disconnected, remote field operations that require local computing capabilities. The AWS Snow family—AWS Snowball, AWS Snowball Edge, and AWS Snowmobile—helps you move large quantities of data offline and enables data processing and storage at edge locations when network capacity is constrained or nonexistent. This session provides an update on the Snow family and dives into the operational details of migrating data and how to build edge computing architectures with Snowball Edge. Learn when and how to use the service for your migration and computing needs.",
+        "date": "2019-12-05T17:52:00Z",
+        "duration": 3184
     },
     {
         "service": "snowball",
         "videoId": "0gfkyrAUDS4",
+        "tags": [
+            "AWS",
+            "Events",
+            "aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "aws reinvent",
+            "storage",
+            "edge computing",
+            "cloud storage",
+            "novetta",
+            "aws snowball",
+            "aws snowball edge",
+            "aws snow family",
+            "Verizon",
+            "Operation Convergent Response",
+            "AWS Disaster Response",
+            "IoT",
+            "IoT Edge",
+            "LoRaWan",
+            "Machine Learning"
+        ],
         "title": "Data Migration and Edge Computing with the AWS Snow Family (STG214) - Novetta",
-        "date": "2020/02/20"
+        "description": "Learn how Novetta uses edge computing on AWS Snowball Edge to collect, analyze, and visualize data from IoT sensors and cameras in disaster response efforts. The Novetta solution keeps track of first responders and critical equipment in disaster zones. This talk describes Novetta's work with the AWS Disaster Response team and Verizon for Operation Convergent Response.\n\nView the full re:Invent session at http://bit.ly/37pM8WH\nLearn more about AWS Snowball Edge at https://go.aws/38sB7VJ\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSEvents #AWSSnowballEdge",
+        "date": "2020-02-20T20:04:28Z",
+        "duration": 773
     },
     {
         "service": "snowball",
         "videoId": "QVdbFMiJCac",
+        "tags": [
+            "AWS",
+            "Events",
+            "aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "aws reinvent",
+            "storage",
+            "edge computing",
+            "cloud storage",
+            "novetta",
+            "aws snowball",
+            "aws snowball edge",
+            "aws snow family",
+            "Verizon",
+            "Operation Convergent Response",
+            "AWS Disaster Response",
+            "IoT",
+            "IoT Edge",
+            "LoRaWan",
+            "Machine Learning"
+        ],
         "title": "Data Migration and Edge Computing with the AWS Snow Family (STG214) - Novetta's Benefits",
-        "date": "2020/02/20"
+        "description": "Learn how Novetta uses edge computing on AWS Snowball Edge to collect, analyze, and visualize data from IoT sensors and cameras in disaster response efforts. The Novetta solution keeps track of first responders and critical equipment in disaster zones. This talk describes Novetta's work with the AWS Disaster Response team and Verizon for Operation Convergent Response.\n\nView the full Novetta session at http://bit.ly/37pM8WH\nLearn more about AWS Snowball Edge at https://go.aws/3bAectB\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSEvents #AWSSnowballEdge",
+        "date": "2020-02-20T20:05:10Z",
+        "duration": 165
     },
     {
         "service": "snowball",
         "videoId": "Ejx6rEZeO2E",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "IOT",
+            "IOT356-P"
+        ],
         "title": "AWS re:Invent 2019: Machine learning at the edge for industrial applications (IOT356-P)",
-        "date": "2019/12/05"
+        "description": "This presentation was recorded prior to re:Invent. In this talk, learn how you can integrate edge computing and machine learning with industrial IoT solutions by combining AWS Cloud services with AWS IoT Greengrass. Then, discover how machine learning can provide important functions in mixed criticality systems through practical machine learning examples at the edge with AWS IoT Greengrass on Zynq Ultrascale+ and Amazon FreeRTOS on Xilinx Zynq-7000. Learn how this is applied across object classification, model-based calibration, and model-predictive control inferencing.",
+        "date": "2019-12-05T22:34:54Z",
+        "duration": 1728
     }
 ]

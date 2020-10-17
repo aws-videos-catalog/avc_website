@@ -2,7 +2,21 @@
     {
         "service": "amazon_appflow",
         "videoId": "USzaWjjjOJI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon AppFlow",
+            "SaaS Integration",
+            "Application Integration",
+            "data transfer",
+            "data flow"
+        ],
         "title": "Intro to Amazon AppFlow",
-        "date": "2020/04/22"
+        "description": "Amazon AppFlow is a fully managed integration service that enables you to securely transfer data between SaaS applications like Salesforce, Marketo, Slack, and ServiceNow, and AWS services like Amazon S3 and Amazon Redshift, in just a few clicks. Learn how to get started with AppFlow by setting up a basic flow to send opportunity data from Salesforce to Amazon S3.\n\nLearn more about Amazon AppFlow at https://go.aws/2xOyu3m\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-04-22T20:24:43Z",
+        "duration": 214
     }
 ]

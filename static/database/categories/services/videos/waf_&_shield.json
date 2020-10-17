@@ -2,157 +2,553 @@
     {
         "service": "waf_&_shield",
         "videoId": "-ft8Ijg6kxE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I use AWS WAF to block requests with missing or no User-Agent?",
-        "date": "2019/12/12"
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/2J82Sbn\nKetan shows you how to use AWS WAF to block requests with missing or no User-Agent.",
+        "date": "2019-12-12T15:42:33Z",
+        "duration": 271
     },
     {
         "service": "waf_&_shield",
         "videoId": "gVidCv6fTV4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I configure AWS WAF comprehensive logging?",
-        "date": "2019/12/12"
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/2qKwHsK\nKevin shows you how to configure AWS WAF comprehensive logging.",
+        "date": "2019-12-12T16:27:36Z",
+        "duration": 351
     },
     {
         "service": "waf_&_shield",
         "videoId": "0wPKtlxaqUM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Solving with AWS Solutions",
+            "awssolutions",
+            "AWS WAF",
+            "AWS security",
+            "Amazon Kinesis Data Firehose",
+            "Amazon Kinesis",
+            "Amazon S3",
+            "AWS Lambda",
+            "Amazon Athena",
+            "Amazon CloudWatch",
+            "Amazon API Gateway",
+            "application development",
+            "application testing",
+            "application security",
+            "cloud security",
+            "Web ACL",
+            "Application Load Balancer",
+            "solutions architecture",
+            "security automation",
+            "devops",
+            "secdevops"
+        ],
         "title": "Solving with AWS Solutions: AWS WAF Security Automations",
-        "date": "2020/04/25"
+        "description": "Solution Link: https://tinyurl.com/SolvingwithAWSSolutionsWAFSA\n\nAWS WAF Security Automations uses AWS CloudFormation to automatically deploy a set of AWS WAF rules designed to filter common web-based attacks. Users can select from preconfigured protective features that define the rules included in an AWS WAF web access control list (web ACL). Once the solution is deployed, AWS WAF will begin inspecting web requests to the user’s existing Amazon CloudFront distributions or Application Load Balancers, and block them when applicable.\n\nAWS Solutions page: https://aws.amazon.com/solutions\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-04-25T17:43:19Z",
+        "duration": 406
     },
     {
         "service": "waf_&_shield",
         "videoId": "mjtWhX3IXlg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS London Summit 2018",
+            "breakout session",
+            "DDoS",
+            "AWS WAF"
+        ],
         "title": "Automating DDoS and AWS WAF Response",
-        "date": "2018/05/23"
+        "description": "Learn more about AWS at - https://amzn.to/2GH99Xy.\nAWS London Summit 2018 - Breakout Session:\nSecurity professionals and full-stack engineers will learn how to defend against Distributed Denial of Service (DDoS) attacks and web application exploits by using automation to monitor activity, configure rate limiting, and deploy network filtering rules. This session will show you how to use AWS Lambda functions to automate event response and integrate with your security operations tools. You will become an expert in advanced techniques to help you protect and monitor your AWS networks and resources using services such as Amazon VPC, AWS WAF, Amazon Shield, and more. You will also learn how to monitor and gain deep visibility into your AWS environment by using highly-scalable solutions such as AWS CloudTrail and Amazon CloudWatch.",
+        "date": "2018-05-23T16:52:40Z",
+        "duration": 2627
     },
     {
         "service": "waf_&_shield",
         "videoId": "lU_zPruIL9w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Shield",
+            "AWS WAF",
+            "Amazon CloudFront",
+            "DDoS protection",
+            "Web Application Firewall",
+            "WAF"
+        ],
         "title": "Advanced Techniques for Securing Your Web Applications with AWS WAF and AWS Shield",
-        "date": "2018/04/30"
+        "description": "Learn more about Amazon AWS Shield at - https://amzn.to/2Ht74Uo.\nLearn more about AWS WAF at - https://amzn.to/2HTeL5J\nLearn more about Amazon CloudFront at - https://amzn.to/2JpCg3t.\n\nThis session will deep dive into AWS WAF’s capabilities with live demos for protections against Layer-7 DDoS, OWASP Top 10 protections and Badbot protections. It will also walk you through preconfigured rules currently available on AWS WAF and its ease of use.",
+        "date": "2018-04-30T16:24:25Z",
+        "duration": 3061
     },
     {
         "service": "waf_&_shield",
         "videoId": "d5F5NIsECFM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I troubleshoot False Positives with AWS WAF?",
-        "date": "2020/05/14"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/waf-troubleshoot-false-positives/\nRohan shows you how to troubleshoot False Positives with AWS WAF.",
+        "date": "2020-05-14T19:08:59Z",
+        "duration": 396
     },
     {
         "service": "waf_&_shield",
         "videoId": "wpMmh4F1PyA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "security",
+            "Shared Responsibility Model",
+            "cloud security",
+            "aws"
+        ],
         "title": "Gain Rapid Threat Protection with Automated DDoS and WAF Solutions",
-        "date": "2019/08/16"
+        "description": "Learn more about AWS Shared Responsibility Model at – https://amzn.to/2OYT74Q \nWatch our webinar featuring Imperva, DigiCert, and AWS to learn how Imperva’s automated, SaaS-based security solution protects DigiCert’s applications and workloads on-premises and on AWS.",
+        "date": "2019-08-16T19:02:01Z",
+        "duration": 3352
     },
     {
         "service": "waf_&_shield",
         "videoId": "UJA1qVw5IK0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "F5",
+            "Robert Haynes",
+            "Amazon CloudWatch",
+            "Amazon Simple Notification Service (SNS)",
+            "AWS Web Application Firewall (AWS WAF)",
+            "Elastic Load Balancing",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon EC2"
+        ],
         "title": "F5: Autoscale WAF",
-        "date": "2017/11/23"
+        "description": "Robert from F5 talks about their WAF solution and how they have made the transition from an on-premises device to an auto-scaled virtual appliance on AWS. Learn how F5 leverages AWS services to allow existing and new customers to launch a full featured WAF layer in their existing VPC. Learn more at - http://amzn.to/2inFqK5.",
+        "date": "2017-11-23T19:29:49Z",
+        "duration": 286
     },
     {
         "service": "waf_&_shield",
         "videoId": "HnoZS5jj7pk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Shield",
+            "AWS WAF",
+            "Amazon CloudFront",
+            "DDoS protection"
+        ],
         "title": "Best Practices for DDoS Mitigation on AWS",
-        "date": "2018/04/30"
+        "description": "Learn more about Amazon AWS Shield at - https://amzn.to/2Ht74Uo.\nLearn more about AWS WAF at - https://aws.amazon.com/waf/\nLearn more about Amazon CloudFront at - https://aws.amazon.com/cloudfront/\n\nIn this session, we will walk you through the issues, challenges and the current state of DDoS today. More importantly, we will deep dive into the 10 best practices that will help you achieve DDoS resiliency for your infrastructure.",
+        "date": "2018-04-30T16:24:53Z",
+        "duration": 2776
     },
     {
         "service": "waf_&_shield",
         "videoId": "GUAZaqlVi4o",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Barracuda WAF: Scalable Security for Applications on AWS",
-        "date": "2016/11/23"
+        "description": "Learn more about AWS here - http://amzn.to/2g5AruD\n\nOrganizations that work with a variety of third-parties in a cloud-based environment are challenged with finding a scalable and elastic security solution, that also meets their partners’ regulations and remains easy-to-use. Barracuda delivers cloud-connected security to simplify your IT environment, and their Web Application Firewall is an elastic and scalable solution for AWS that adapts to and deters evolving threats in a cloud environment. Iris Solutions, a multi-national cloud based enterprise software provider, needed to secure their eSignature SaaS with a tool that facilitated elasticity and scalability to help streamline expansion into several different markets, while meeting the strict regulations they encountered. Register for our upcoming webinar to learn why Iris chose to integrate Barracuda Web Application Firewall with AWS Services, such as Amazon CloudWatch, AWS Elastic Load Balancing, and AWS Identity and Access Management, to overcome their challenge without slowing the pace of transactions.\n\nJoin us to learn: \n• Best practices for securing web-facing applications on AWS\n• The features and benefits of using Barracuda WAF on AWS to protect web-facing applications from targeted and automated attacks\n• Insights on the flexible deployment options that Barracuda offers to best complement your AWS environment \n\nWho Should Attend:\nDirectors, Security Managers, Security Engineers, Security Architects, IT System Administrators, System Administrators, IT Administrators, IT Managers, IT Architects, IT Security Engineers, Business Decision Makers",
+        "date": "2016-11-24T01:30:05Z",
+        "duration": 2706
     },
     {
         "service": "waf_&_shield",
         "videoId": "yWSn5E6WQug",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Security & Compliance",
+            "SEC323",
+            "Nate Dye - Amazon",
+            "Art Alvarez - ConnectWise",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (SEC323) NEW LAUNCH! Securing Web Applications with AWS WAF",
-        "date": "2015/10/08"
+        "description": "In this session, we will introduce you to the new AWS WAF service. We will show you how to use the service to block Amazon CloudFront requests that originate from IP addresses that you specify and block requests based on request content, such as header values or SQL queries. We will walk you through working code samples that automate security operations and demonstrate the flexibility of AWS WAF web ACLs.",
+        "date": "2015-10-08T23:12:51Z",
+        "duration": 2886
     },
     {
         "service": "waf_&_shield",
         "videoId": "FOw0xWHcJsc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "waf",
+            "AWS Web Application Firewall",
+            "Support for Cross-Site Scripting Match Conditioning",
+            "awslaunch"
+        ],
         "title": "AWS Web Application Firewall | Support for Cross-Site Scripting Match Conditioning",
-        "date": "2016/05/07"
+        "description": "Learn more: http://amzn.to/24vERkW\nYou can now configure AWS WAF to block, allow, or monitor (count) requests based on Cross-Site Scripting (XSS) match conditions. XSS attacks are those where the attacker uses vulnerabilities in a benign website as a vehicle to inject malicious client-site scripts (like Javascript) into other legitimate user’s web browsers. This XSS match condition feature prevents these vulnerabilities in your web application by inspecting different elements of the incoming request.",
+        "date": "2016-05-07T21:00:04Z",
+        "duration": 61
     },
     {
         "service": "waf_&_shield",
         "videoId": "_tGb100o_xA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "WAF",
+            "re:Invent 2017",
+            "re:Invent Launchpad"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - Announcement: WAF Partner Rules",
-        "date": "2017/12/08"
+        "description": "Managed Rules for AWS WAF are a set of rules written, curated and managed by AWS Marketplace Sellers that can be easily deployed in front of your web applications running on AWS Application Load Balancers or Amazon CloudFront. Learn more at - http://amzn.to/2AOkMed.\n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:30:41Z",
+        "duration": 1162
     },
     {
         "service": "waf_&_shield",
         "videoId": "oysmpdr3w58",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon",
+            "awsreinvent2017",
+            "AWS WAF"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Introduction to Managed Rules for AWS WAF (SID217)",
-        "date": "2017/12/15"
+        "description": "Managed Rules for AWS WAF is a new feature that allows you to purchase Managed Rules from security sellers in the AWS Marketplace. Managed Rules are proactively updated by security sellers as new threats emerge and enable you to easily protect your web applications and APIs from a wide range of Internet threats.",
+        "date": "2017-12-16T00:56:04Z",
+        "duration": 2857
     },
     {
         "service": "waf_&_shield",
         "videoId": "d0EE1HuZSEU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "DDOS",
+            "Security",
+            "Amazon Kinesis Video Streams",
+            "AWS WAF",
+            "AWS Lambda",
+            "Amazon DynamoDB",
+            "Amazon CloudFront",
+            "AWS Shield",
+            "Amazon EC2",
+            "Amazon Route 53",
+            "This is My Architecture",
+            "TMA",
+            "Elastic Load Balancing",
+            "Amazon VPC"
+        ],
         "title": "William Hill: High-performance DDOS Protection with AWS",
-        "date": "2020/01/25"
+        "description": "William Hill have built a high-performance DDOS and Edge Protection platform using AWS Services - (CloudFront, Shield Advanced, WAF, R5 Instances, Lambda and DynamoDB and Streams). The solution has been effective in mitigating a 177 GBPS DDOS attack and 48 million attempted exploits (so far in 2019) from across 121,000 IPs and 196 countries. In addition, their build successfully blocked 63 million requests from 180,000 IPs from 202 countries - all trying to scrape pricing and event data, which is successful is highly detrimental to the business and customer experience.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-01-25T15:22:48Z",
+        "duration": 330
     },
     {
         "service": "waf_&_shield",
         "videoId": "Yju3yReAQtc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon API Gateway",
+            "Amazon CloudFront",
+            "Amazon ElasticSearch",
+            "Amazon DynamoDB",
+            "AWS Lambda",
+            "AWS Web Application Firewall (AWS WAF)",
+            "This is My Architecture",
+            "TMA"
+        ],
         "title": "Fortinet Uses AWS Serverless to Provide a Highly Available Control-Plane for their FortiWeb CloudWAF",
-        "date": "2020/01/14"
+        "description": "Fortinet’s Cloud WAF as a Service protects applications by deploying FortiWeb  clusters in the same AWS region as the protected application, and takes advantage of the elasticity, and reliability of AWS in both data plane and management plane architectures.  Delivering WAF as a Service as close to the application as possible reduces overall costs for the end customer, while also simplifying regulatory concerns, improving performance, and reducing bandwidth costs.  Combining FortiWeb’s web application protection capabilities with the capabilities of AWS delivers true multi-tenant WAF-as-a-Service solution for protecting web applications deployed in AWS.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-01-14T20:25:46Z",
+        "duration": 333
     },
     {
         "service": "waf_&_shield",
         "videoId": "iUySElA_i-g",
+        "tags": [
+            "Software (Industry)",
+            "Management",
+            "Technology",
+            "Data",
+            "System",
+            "Business",
+            "Office",
+            "coding",
+            "code",
+            "deployment",
+            "infrastructure",
+            "cloud infrastructure",
+            "AWS Summit Series 2016",
+            "Chicago Summit",
+            "AWS Chicago Summit",
+            "AWS Chicago 2016",
+            "2016 Summit Series",
+            "AWS Summits 2016",
+            "Frank DiGiammarino",
+            "Notre Dame",
+            "FHLBC",
+            "Public Sector",
+            "AWS Public Sector Customers"
+        ],
         "title": "AWS Summit Series 2016 | Chicago - Secure Content Delivery Using Amazon CloudFront and AWS WAF",
-        "date": "2016/04/21"
+        "description": "Increasingly, customers across the public sector are going “all-in” with AWS Cloud. Instead of asking whether to go all-in, these pioneers asked how quickly they could do it.  Balancing the need to improve efficiency, stay agile, and meet mandates, this panel features a range of government and education customers highlighting their journey to the cloud, their decision-making and insight on their decision to move all-in or cloud-first, the value they've seen, and the impact to the mission. Since adopting the all-in strategy, we will hear about their future roadmap and what is now possible with the power of the cloud.",
+        "date": "2016-04-21T13:30:32Z",
+        "duration": 2845
     },
     {
         "service": "waf_&_shield",
         "videoId": "qUoyTumxcjk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "Live Coding",
+            "AWS Summit",
+            "AWS Firewall"
+        ],
         "title": "AWS Firewall Manager",
-        "date": "2018/04/10"
+        "description": "Learn about AWS Firewall Manager and how it makes it easier to centrally configure and manage AWS WAF rules across your accounts and applications. Using Firewall Manager, you can easily roll out AWS WAF rules for your Application Load Balancers and Amazon CloudFront distributions across accounts in AWS Organizations. Visit - https://aws.amazon.com/firewall-manager/ for more information.",
+        "date": "2018-04-10T17:08:46Z",
+        "duration": 831
     },
     {
         "service": "waf_&_shield",
         "videoId": "KtwCYxIvink",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit San Francisco 2018",
+            "AWS Firewall Manager",
+            "Werner Vogels"
+        ],
         "title": "AWS Summit San Francisco 2018 - Announcing AWS Firewall Manager",
-        "date": "2018/04/10"
+        "description": "AWS Firewall Manager is a security management tool to centrally configure and manage AWS WAF (web application firewall) rules across your accounts and applications. Learn more at - https://amzn.to/2EqPFVT.",
+        "date": "2018-04-10T20:55:24Z",
+        "duration": 49
     },
     {
         "service": "waf_&_shield",
         "videoId": "GqPmdiTmgc4",
-        "title": "AWS re:Invent 2019 Launchpad | Building Secure Web Application Defense AWS WAF & AWS Managed Rules",
-        "date": "2020/03/17"
+        "tags": [
+            "programming",
+            "aws",
+            "reinvent",
+            "ai",
+            "ml",
+            "developer",
+            "cloud computing",
+            "software",
+            "Aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "reinvent 2019",
+            "aws launchpad"
+        ],
+        "title": "AWS re:Invent 2019 Launchpad | Building Secure Web Application Defense  AWS WAF & AWS Managed Rules",
+        "description": "Subscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #reInvent2019 #AWSLaunchpad",
+        "date": "2020-03-17T22:23:39Z",
+        "duration": 1197
     },
     {
         "service": "waf_&_shield",
         "videoId": "llTu49RNXw0",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CMY303",
+            "Webstep as",
+            "AWS WAF",
+            "Not Applicable",
+            "Amazon CloudFront"
+        ],
         "title": "AWS re:Invent 2019: Using Amazon CloudFront, AWS WAF, and Lambda@Edge to keep spammers out (CMY303)",
-        "date": "2019/12/03"
+        "description": "In this session, we look at the timeline, analysis, and solution implemented for a sudden attack by spammers. Suddenly, the number of newly registered users in our system spiked. We could see that these new users were likely spammers. It was a more sophisticated attack than earlier, as traffic originated from everywhere; captchas and email verifications were bypassed. We already had some countermeasures in place, including a manual process for approval. We needed a quick and cost-effective solution. By using Amazon CloudFront, AWS WAF, Lambda@Edge, and some smarts, we permanently stopped 99% of the spammers within an hour.",
+        "date": "2019-12-03T18:13:36Z",
+        "duration": 2934
     },
     {
         "service": "waf_&_shield",
         "videoId": "R06GDQBbtRU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "SAC322",
+            "Prasad Kalyanaraman",
+            "Security & Compliance"
+        ],
         "title": "AWS re:Invent 2016: NEW LAUNCH! AWS Shield—A Managed DDoS Protection Service (SAC322)",
-        "date": "2016/12/03"
+        "description": "At re:Invent 2016, we are launching AWS Shield, a managed DDoS protection service. With AWS Shield, you can help protect Amazon CloudFront, Elastic Load Balancing, and Amazon Route 53 resources from DDoS attacks. In addition to introducing AWS Shield, this session presents some of the things we do behind the scenes to detect and mitigate Layer 3/4 network attacks and highlights ways you can use this new service to protect against Layer 7 application attacks.",
+        "date": "2016-12-03T18:30:56Z",
+        "duration": 2521
     },
     {
         "service": "waf_&_shield",
         "videoId": "HnoZS5jj7pk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Shield",
+            "AWS WAF",
+            "Amazon CloudFront",
+            "DDoS protection"
+        ],
         "title": "Best Practices for DDoS Mitigation on AWS",
-        "date": "2018/04/30"
+        "description": "Learn more about Amazon AWS Shield at - https://amzn.to/2Ht74Uo.\nLearn more about AWS WAF at - https://aws.amazon.com/waf/\nLearn more about Amazon CloudFront at - https://aws.amazon.com/cloudfront/\n\nIn this session, we will walk you through the issues, challenges and the current state of DDoS today. More importantly, we will deep dive into the 10 best practices that will help you achieve DDoS resiliency for your infrastructure.",
+        "date": "2018-04-30T16:24:53Z",
+        "duration": 2776
     },
     {
         "service": "waf_&_shield",
         "videoId": "d0EE1HuZSEU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "DDOS",
+            "Security",
+            "Amazon Kinesis Video Streams",
+            "AWS WAF",
+            "AWS Lambda",
+            "Amazon DynamoDB",
+            "Amazon CloudFront",
+            "AWS Shield",
+            "Amazon EC2",
+            "Amazon Route 53",
+            "This is My Architecture",
+            "TMA",
+            "Elastic Load Balancing",
+            "Amazon VPC"
+        ],
         "title": "William Hill: High-performance DDOS Protection with AWS",
-        "date": "2020/01/25"
+        "description": "William Hill have built a high-performance DDOS and Edge Protection platform using AWS Services - (CloudFront, Shield Advanced, WAF, R5 Instances, Lambda and DynamoDB and Streams). The solution has been effective in mitigating a 177 GBPS DDOS attack and 48 million attempted exploits (so far in 2019) from across 121,000 IPs and 196 countries. In addition, their build successfully blocked 63 million requests from 180,000 IPs from 202 countries - all trying to scrape pricing and event data, which is successful is highly detrimental to the business and customer experience.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-01-25T15:22:48Z",
+        "duration": 330
     },
     {
         "service": "waf_&_shield",
         "videoId": "lU_zPruIL9w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Shield",
+            "AWS WAF",
+            "Amazon CloudFront",
+            "DDoS protection",
+            "Web Application Firewall",
+            "WAF"
+        ],
         "title": "Advanced Techniques for Securing Your Web Applications with AWS WAF and AWS Shield",
-        "date": "2018/04/30"
+        "description": "Learn more about Amazon AWS Shield at - https://amzn.to/2Ht74Uo.\nLearn more about AWS WAF at - https://amzn.to/2HTeL5J\nLearn more about Amazon CloudFront at - https://amzn.to/2JpCg3t.\n\nThis session will deep dive into AWS WAF’s capabilities with live demos for protections against Layer-7 DDoS, OWASP Top 10 protections and Badbot protections. It will also walk you through preconfigured rules currently available on AWS WAF and its ease of use.",
+        "date": "2018-04-30T16:24:25Z",
+        "duration": 3061
     },
     {
         "service": "waf_&_shield",
         "videoId": "jMirtdSrIhE",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Fischer",
+            "Healthcare",
+            "HLC302",
+            "AI"
+        ],
         "title": "AWS re:Invent 2017: Adopting Microservices in Healthcare: Building a Compliant DevOp (HLC302)",
-        "date": "2017/11/28"
+        "description": "Healthcare organizations are rapidly adopting container technology to drive innovation. In this session, join Horizon Blue Cross Blue Shield of New Jersey and ClearDATA to learn about how to integrate Amazon ECS into your deployment pipeline while maintaining compliance for healthcare workloads, how to harden container environments for sensitive workloads, and how to leverage AWS tooling and microservices to provide new views and analysis for data stored in on-premises data centers.",
+        "date": "2017-11-28T18:13:17Z",
+        "duration": 2243
     }
 ]

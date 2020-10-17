@@ -2,25 +2,79 @@
     {
         "service": "iot_1-click",
         "videoId": "vqq6_iid7y8",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "IoT",
+            "IOT213"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Introducing AWS IoT 1-Click (IOT213)",
-        "date": "2017/12/01"
+        "description": "In this session, we will take a closer look at the newly announced IoT offering – AWS IoT 1-Click. You will hear how cloud-ready simple devices can be integrated and deployed securely, right out of the box without writing device-specific code. 1-Click enables you to group, identify and track your IoT deployments giving you full visibility into utilization and device health. Come, learn how 1-Click can help manufacturers build and developers integrate ready-to-use simple devices into their cloud applications.",
+        "date": "2017-12-01T16:43:23Z",
+        "duration": 2528
     },
     {
         "service": "iot_1-click",
         "videoId": "vjNYKjthwcM",
+        "tags": [
+            "AWS",
+            "AWS Cloud",
+            "cloud",
+            "cloud computing",
+            "Amazon Web Services",
+            "AWS IoT 1-Click",
+            "keynote",
+            "re:Invent 2017",
+            "Andy Jassy"
+        ],
         "title": "AWS re:Invent 2017 - Announcing AWS IoT 1-Click",
-        "date": "2017/12/01"
+        "description": "Learn more about AWS IoT 1-Click at - http://amzn.to/2i1GKl0.\nWatch Andy Jassy, CEO of Amazon Web Services, announce AWS IoT 1-Click. AWS IoT 1-Click is a service that makes it easy for simple devices to trigger AWS Lambda functions that execute specific actions like calling technical support or reordering good and services.",
+        "date": "2017-12-01T18:17:15Z",
+        "duration": 87
     },
     {
         "service": "iot_1-click",
         "videoId": "yDlNfKTSt9Y",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "AWS IoT 1-Click",
+            "AWS re:Invent Launchpad 2017"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - AWS IoT 1-Click",
-        "date": "2017/12/08"
+        "description": "AWS IoT 1-Click is a service that makes it easy for simple devices to trigger AWS Lambda functions that execute a specific action. Learn more at - http://amzn.to/2jQ73fv. With AWS IoT 1-Click you can choose the action for your device by selecting one of the predefined AWS Lambda functions for common actions like sending emails or SMS messages, or you can select from Lambda functions you have created yourself using your own Lambda code. \n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:29:04Z",
+        "duration": 735
     },
     {
         "service": "iot_1-click",
         "videoId": "Qbk2fnMmQ8k",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "IOT203",
+            "Shyam Krishnamoorthy",
+            "Introductory",
+            "IoT Mini Con"
+        ],
         "title": "AWS re:Invent 2016: 1-Click Enterprise Innovation with the AWS IoT Button (IOT203)",
-        "date": "2016/12/03"
+        "description": "Enterprises can use the AWS IoT button to provide unique innovative experiences to their consumers, simplifying the customer interface, and increasing engagement and brand loyalty. Enterprises and developers alike can use this single-purpose device to build fully customized IoT applications, or select from a list of predefined “blueprints” to instantly configure the device for unique use cases.",
+        "date": "2016-12-03T23:31:17Z",
+        "duration": 2205
     }
 ]

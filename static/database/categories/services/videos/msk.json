@@ -2,25 +2,76 @@
     {
         "service": "msk",
         "videoId": "zhsVfsykBHc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Analytics",
+            "ANT398"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Amazon Managed Streaming for Kafka (Amazon MSK) (ANT398 )",
-        "date": "2018/12/01"
+        "description": "Discover the power of running Apache Kafka on a fully managed AWS service. In this session, we describe how Amazon Managed Streaming for Kafka (Amazon MSK) runs Apache Kafka clusters for you, demo Amazon MSK and a migration, show you how to get started, and walk through other important details about the new service.",
+        "date": "2018-12-01T22:32:46Z",
+        "duration": 2662
     },
     {
         "service": "msk",
         "videoId": "Rr2TDLfvN1I",
+        "tags": [
+            "AWS",
+            "AWS Summit Online",
+            "May 13",
+            "2020",
+            "United States",
+            "Level 300",
+            "Amazon",
+            "Managed Streaming",
+            "Apache Kafka",
+            "AWS Fargate",
+            "Amazon Elasticsearch",
+            "Service",
+            "Track: analyse",
+            "developers",
+            "machine learning",
+            "AWS Events"
+        ],
         "title": "A Path to Event Sourcing With Amazon MSK - Level 300 (United States)",
-        "date": "2020/07/24"
+        "description": "Event sourcing is an exciting pattern for thinking differently about how to process and store data. With Amazon Managed Streaming for Apache Kafka (Amazon MSK), it’s now even easier for development teams to run and operate applications that are built around event sourcing patterns. In this session, we demonstrate a Java-based personal banking website that uses Amazon MSK, AWS Fargate, and Amazon Elasticsearch Service (Amazon ES) to process data using event sourcing with eventual consistency. We explore the code and review some of the operational characteristics in the AWS Management Console.\n\nLearn more about AWS at - https://amzn.to/2CC0Ccg\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
+        "date": "2020-07-24T18:47:13Z",
+        "duration": 1852
     },
     {
         "service": "msk",
         "videoId": "78iBw1CrlsE",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ANT309-R1",
+            "Analytics",
+            "Adobe",
+            "Amazon MSK"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Responding to customer needs in real time with Amazon MSK (ANT309-R1)",
-        "date": "2019/12/04"
+        "description": "Businesses leverage data-streaming architectures to respond to customers’ needs in real time. In this session, we discuss how you can accelerate the development of real-time applications using Amazon MSK. Adobe joins us and shares how it processes over 60 billion messages a day for hundreds of services using Apache Kafka. You learn about the challenges Adobe faces and why it is moving away from managing dozens of Kafka clusters to deploying fully managed Amazon MSK clusters with one click. Hear how this approach integrates multiple solutions built on open-source frameworks like Kubernetes, Spinnaker, and Terraform while handling message routing, advanced QoS, and HTTP clients.",
+        "date": "2019-12-04T17:26:23Z",
+        "duration": 3635
     },
     {
         "service": "msk",
         "videoId": "BUGe0hLhd7Y",
-        "title": "A Path to Event Sourcing With Amazon MSK (Level 200)",
-        "date": "2020/09/01"
+        "tags": [
+            "Build applications",
+            "AWS Summit Online EMEA"
+        ],
+        "title": "I Build Applications - A Path to Event Sourcing With Amazon MSK (Level 200)",
+        "description": "Event sourcing is an exciting pattern for processing and storing data. With Amazon Managed Streaming for Apache Kafka (Amazon MSK), it’s easier for development teams to run and operate applications that are built around event sourcing patterns. In this session, we demonstrate a Java-based personal banking website that uses Amazon MSK, AWS Fargate, and Amazon ES to process data using event sourcing with eventual consistency. We explore the code and review some of the operational characteristics in the AWS Management Console.\n\nJames is a Sydney based Solutions Architect working with our Financial Services customers. Prior to working at AWS, James worked with a number of large banks building software and helping them get started on their cloud journeys. James loves being a generalist but is partial to all things data and functional programming.\n\nLearn more about AWS at - https://amzn.to/3gfsK33\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
+        "date": "2020-09-01T18:40:05Z",
+        "duration": 1846
     }
 ]

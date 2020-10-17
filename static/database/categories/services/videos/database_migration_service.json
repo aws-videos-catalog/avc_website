@@ -2,115 +2,378 @@
     {
         "service": "database_migration_service",
         "videoId": "zb4GcjEdl8U",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS Database Migration Service (DMS)",
-        "date": "2019/02/18"
+        "description": "Andy Hopper – Solutions Architect, Amazon Web Services\n\nLearn how to convert and migrate your relational databases, non-relational databases, and data warehouses to the cloud. Database Migration Service (DMS) and Schema Conversion Tool (SCT) can help with homogeneous migrations as well as migrations between different database engines, such as Oracle or SQL Server, to Amazon Aurora.\n\nLevel: 200\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-02-18T22:41:46Z",
+        "duration": 3650
     },
     {
         "service": "database_migration_service",
         "videoId": "ouia1Sc5QGo",
+        "tags": [
+            "Database Migration Service",
+            "DMS",
+            "AWS DMS",
+            "Amazon Migration",
+            "Amazon DMS",
+            "Data Migration",
+            "Migration to AWS",
+            "Migration to Cloud",
+            "Amazon Aurora",
+            "Oracle",
+            "MySQL",
+            "SQL Server",
+            "Microsoft SQL Server",
+            "PostgreSQL",
+            "Percona. homogenous migration",
+            "heterogeneous migration",
+            "AWS Schema Conversion Tool",
+            "Schema Conversion",
+            "Schema Conversion Tool",
+            "Oracle to Aurora",
+            "MySQL to Aurora",
+            "SQL Server to Aurora",
+            "Oracle to PostgreSQL",
+            "Migrating to RDS",
+            "Amazon RDS",
+            "animation",
+            "AWS"
+        ],
         "title": "AWS Database Migration Service",
-        "date": "2016/03/15"
+        "description": "The AWS Database Migration Service helps you migrate databases to AWS easily and securely. The source database remains fully operational during the migration, minimizing downtime to applications that rely on the database. Learn more at - http://amzn.to/1QrVTV7.\n\nThe AWS Database Migration Service can migrate your data to and from all widely used commercial and open-source databases. The service supports homogenous migrations such as Oracle to Oracle, as well as heterogeneous migrations between different database platforms, such as Oracle to Amazon Aurora or Microsoft SQL Server to MySQL.",
+        "date": "2016-03-15T21:47:37Z",
+        "duration": 94
     },
     {
         "service": "database_migration_service",
         "videoId": "11IHvxjy4hw",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT207",
+            "Amazon Aurora",
+            "AWS",
+            "Database",
+            "Migration Service (AWS DMS)",
+            "AWS Schema",
+            "Conversion Tool"
+        ],
         "title": "AWS re:Invent 2018: Migrating Databases to the Cloud with AWS Database Migration Service (DAT207)",
-        "date": "2018/11/29"
+        "description": "Learn how to convert and migrate your relational databases, nonrelational databases, and data warehouses to the cloud. AWS Database Migration Service (AWS DMS) and AWS Schema Conversion Tool (AWS SCT) can help with homogeneous migrations as well as migrations between different database engines, such as Oracle or SQL Server, to Amazon Aurora. Hear from Verizon about how they intend to migrate critical databases to Amazon Aurora with PostgreSQL compatibility from their current on-premises Oracle databases, and learn how they intend to deal with challenges such as conversion of legacy code and complex data types, supporting business resiliency, and maintaining data synchronization during the transition phase.",
+        "date": "2018-11-29T18:20:34Z",
+        "duration": 3571
     },
     {
         "service": "database_migration_service",
         "videoId": "wsHg1XRss8U",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Database",
+            "Database Migration",
+            "Replication",
+            "Downtime",
+            "homogenous",
+            "heterogeneous",
+            "cross-database"
+        ],
         "title": "Introducing AWS Database Migration Service",
-        "date": "2015/10/12"
+        "description": "Learn more about AWS Database Migration Service: http://amzn.to/1jdVX1m\nAWS Database Migration Service is now available for preview in the US-East (N.Virginia) region. AWS Database Migration Service helps you migrate databases to AWS easily and securely with minimal downtime. It supports all widely used database platforms, and performs schema and code conversion for migrations between database engines. The Service is low cost and simple to use.",
+        "date": "2015-10-12T17:04:07Z",
+        "duration": 320
     },
     {
         "service": "database_migration_service",
         "videoId": "CfGy1n9HwRA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "How do I use Transformations in AWS Database Migration Service (DMS)?",
-        "date": "2019/11/05"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2kcdVXT \nDaniel, an AWS Cloud Support Engineer, shows you how to use Transformations in AWS Database Migration Service.",
+        "date": "2019-11-05T17:27:27Z",
+        "duration": 293
     },
     {
         "service": "database_migration_service",
         "videoId": "mb3nFZLY0vM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "rds oracle db instance",
+            "rds mysql db instance"
+        ],
         "title": "How do I migrate databases from an RDS Oracle DB instance to an RDS MySQL DB instance using DMS?",
-        "date": "2017/11/14"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/migrate-db-dms/\n\nJohn, an AWS Cloud Support Engineer, shows you how to migrate databases from an RDS Oracle DB instance to an RDS MySQL DB instance using DMS.",
+        "date": "2017-11-14T14:56:36Z",
+        "duration": 482
     },
     {
         "service": "database_migration_service",
         "videoId": "w-Fdc2efycE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos"
+        ],
         "title": "How do I set up detailed debug logging for an AWS Database Migration Service task?",
-        "date": "2018/07/31"
+        "description": "Find more details in the AWS Knowledge Center:  https://aws.amazon.com/premiumsupport/knowledge-center/dms-enable-debug-logging\n\nDaniel, an AWS Cloud Support Engineer, shows you how to set up detailed debug logging for an AWS Database Migration Service task.",
+        "date": "2018-07-31T13:48:59Z",
+        "duration": 492
     },
     {
         "service": "database_migration_service",
         "videoId": "nMTtQOtgp9g",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Software (Industry)",
+            "Management",
+            "Technology",
+            "Data",
+            "System",
+            "Business",
+            "Office",
+            "coding",
+            "code",
+            "deployment",
+            "infrastructure",
+            "cloud infrastructure",
+            "AWS Summit Series 2016",
+            "Chicago Summit",
+            "AWS Chicago Summit",
+            "AWS Chicago 2016",
+            "2016 Summit Series",
+            "AWS Summits 2016",
+            "Nick Hertl",
+            "Getting Started",
+            "AWS DMS",
+            "AWS Migration Services",
+            "Database Migration Service"
+        ],
         "title": "AWS Summit Series 2016 | Chicago - Getting Started with AWS Database Migration Service",
-        "date": "2016/04/22"
+        "description": "Learn about the new AWS Database Migration Service, which helps you migrate databases with minimal downtime from on-premises and Amazon EC2 environments to Amazon RDS, Amazon Redshift, Amazon Aurora and EC2 databases. We discuss homogeneous (e.g. Oracle-to-Oracle, PostgreSQL-to-PostgreSQL, etc.) and heterogeneous (e.g. Oracle to Aurora, SQL Server to MariaDB) database migrations. We also talk about the new AWS Schema Conversion Tool that saves you development time when migrating your Oracle and SQL Server database schemas, including PL/SQL and T-SQL procedural code, to their MySQL, MariaDB and Aurora equivalents.",
+        "date": "2016-04-22T20:50:51Z",
+        "duration": 3417
     },
     {
         "service": "database_migration_service",
         "videoId": "hh4nTyXfwWw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "Why is my AWS Database Migration Service (AWS DMS) replication instance in a storage-full status?",
-        "date": "2020/05/21"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/dms-replication-instance-storage-full/\nVanshika shows you why your AWS Database Migration Service (AWS DMS) replication instance is in a storage-full status.",
+        "date": "2020-05-21T17:49:09Z",
+        "duration": 227
     },
     {
         "service": "database_migration_service",
         "videoId": "pcYxB8ATtec",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I use Source Filters in my AWS Database Migration Service (DMS) tasks?",
-        "date": "2020/04/27"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/source-filters-aws-dms/\nDaniel shows you how to use Source Filters in your AWS Database Migration Service (DMS) tasks.",
+        "date": "2020-04-27T14:14:02Z",
+        "duration": 176
     },
     {
         "service": "database_migration_service",
         "videoId": "EcS9PC_TnG0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Migrating Oracle to Aurora PostgreSQL Utilizing AWS Database Migration Service (DMS)",
-        "date": "2018/07/02"
+        "description": "AWS Public Sector Summit 2018 - Washington, D.C.\n\nAppriss creates actionable information and insights gained from their data and analytics solutions, their customers are able to more effectively save lives, mitigate fraud, and reduce risk. They call it “knowledge for good”.  One of the many challenges facing Appriss was how to migrate a multi-terabyte Oracle database from one of their own data centers into AWS with minimal disruption to their applications and customers while reducing cost and not sacrificing security, availability, and reliability.  This session provides an overview and demo of Aurora PostgreSQL and AWS Database Migration Service (DMS) as Appriss discusses their primary drivers for choosing the combination, preparation, challenges faced throughout the process, results, and future plans.\n\nSpeakers: Brett Hensley, Bobby Johnson, Greg Keith, Dean Langford, Mark Porter",
+        "date": "2018-07-02T17:57:17Z",
+        "duration": 3112
     },
     {
         "service": "database_migration_service",
         "videoId": "VhXDa9SPDLw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "replication",
+            "instance",
+            "database",
+            "migration"
+        ],
         "title": "How do I create a Replication Instance in AWS Database Migration Service?",
-        "date": "2020/01/13"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/35vdzi6\nDaniel, an AWS Cloud Support Engineer, shows you how to create a Replication Instance in AWS Database Migration Service.",
+        "date": "2020-01-13T19:15:10Z",
+        "duration": 332
     },
     {
         "service": "database_migration_service",
         "videoId": "PuYSPJc8hf0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Kinesis Firehose",
+            "hybrid cloud",
+            "storage gateway",
+            "S3",
+            "Snowball",
+            "Glacier",
+            "S3 Transfer Acceleration",
+            "Direct Connect",
+            "Amazon Kinesis",
+            "Amazon Kinesis Firehouse",
+            "AWS Snowball",
+            "Amazon Snowball",
+            "Amazon Glacier",
+            "animation",
+            "AWS Cloud Migration Services",
+            "Cloud Data Migration Services",
+            "AWS Data Migration",
+            "AWS Data Migration Services"
+        ],
         "title": "AWS Cloud Data Migration Services",
-        "date": "2016/04/19"
+        "description": "Cloud migration required data - sometimes LOTS of it - to get into the cloud and still obey the laws of physics. We’ve built 6 different methods based on customer use cases that help address these problems. Learn more at - http://amzn.to/1Sk6Lun",
+        "date": "2016-04-19T16:02:44Z",
+        "duration": 153
     },
     {
         "service": "database_migration_service",
         "videoId": "rOpIZyqrGlI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "How do I create Event Subscriptions in AWS Database Migration Service (AWS DMS)?",
-        "date": "2020/01/13"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2NCmeqT\nDaniel, an AWS Cloud Support Engineer, shows you how to create Event Subscriptions in AWS Database Migration Service (AWS DMS).",
+        "date": "2020-01-13T19:17:36Z",
+        "duration": 245
     },
     {
         "service": "database_migration_service",
         "videoId": "RdR4V7LTN8A",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "How do I create a Replication Instance in AWS DMS?",
-        "date": "2019/11/25"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/35vdzi6\nDaniel, an AWS Cloud Support Engineer, shows you how to create a Replication Instance in AWS Database Migration Service (AWS DMS).",
+        "date": "2019-11-25T16:30:04Z",
+        "duration": 332
     },
     {
         "service": "database_migration_service",
         "videoId": "KAuS-ge_X7Y",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "STG204-R1",
+            "Storage"
+        ],
         "title": "AWS re:Invent 2019: Get your data to AWS: How to choose and use data migration services (STG204-R1)",
-        "date": "2019/12/05"
+        "description": "You have data you need to move to the cloud—either once for a migration, or repeatedly for ongoing workflows. AWS data migration and transfer services move data securely and efficiently into and out of AWS. In this session, learn how to choose and combine services—including AWS DataSync, the AWS Snow family, CloudEndure, and AWS Transfer for SFTP—for your different use cases. Learn from the real-world experiences of enterprise customers and gain practical advice to help you get started.",
+        "date": "2019-12-05T17:52:32Z",
+        "duration": 3264
     },
     {
         "service": "database_migration_service",
         "videoId": "Brhwab-qp1E",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT360-R1",
+            "Databases",
+            "Amazon Aurora"
+        ],
         "title": "AWS re:Invent 2019: Analytical use cases with AWS Database Migration Service (AWS DMS) (DAT360-R1)",
-        "date": "2019/12/09"
+        "description": "AWS Database Migration Service (AWS DMS) can help you migrate and replicate data from any of our 12 supported sources to 14 targets. In this session, we show you how customers are using AWS DMS to replicate analytical workloads into services like Amazon Simple Storage Service (Amazon S3), Amazon Redshift, Amazon Elasticsearch Service, and Amazon Kinesis Data Streams for various use cases.",
+        "date": "2019-12-09T18:54:21Z",
+        "duration": 3572
     },
     {
         "service": "database_migration_service",
         "videoId": "kJs9U4ys5FE",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT362-R1",
+            "Databases",
+            "Jobvite",
+            "AWS DMS"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Dive deep into AWS SCT and AWS DMS (DAT362-R1)",
-        "date": "2020/01/22"
+        "description": "In this session presented by AWS and Jobvite, learn how to convert and migrate your relational databases, non-relational databases, and data warehouses to the cloud. AWS Schema Conversion Tool (AWS SCT) and AWS Database Migration Service (AWS DMS) can help with homogeneous migrations as well as migrations from different database engines, such as Oracle or SQL Server, to Amazon Aurora. We demo the latest features added to AWS DMS and AWS SCT.",
+        "date": "2020-01-23T00:04:09Z",
+        "duration": 3645
     },
     {
         "service": "database_migration_service",
         "videoId": "N9XZ1VXEnp4",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "AMZ301",
+            "Amazon.com",
+            "AWS DMS",
+            "Amazon DynamoDB",
+            "Amazon Aurora"
+        ],
         "title": "AWS re:Invent 2019: Amazon.com: Enterprise database migration at scale (AMZ301)",
-        "date": "2019/12/06"
+        "description": "Amazon.com has a long history in data. To reduce scaling risks and third-party dependencies it chose AWS database services like Amazon DynamoDB, Amazon Aurora, Amazon Relational Database Service (Amazon RDS), and AWS Database Migration Service (AWS DMS). In this session, you learn how it focused on critical, customer-facing services that include the Amazon consumer and digital businesses’ largest database workloads. Learn how Amazon.com achieved database freedom with AWS. Additional topics include lessons learned, benefits realized, and how Amazon.com delivers the biggest peak retail events such as Prime Day, Black Friday, and Cyber Monday.",
+        "date": "2019-12-07T06:00:59Z",
+        "duration": 3025
     }
 ]

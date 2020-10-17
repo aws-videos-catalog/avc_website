@@ -2,721 +2,2367 @@
     {
         "service": "amazon_sagemaker",
         "videoId": "jSrg1BgQzRo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "ageMaker",
+            "Machine Learning",
+            "Data Science"
+        ],
         "title": "Amazon SageMaker",
-        "date": "2020/06/12"
+        "description": "This short animated video provides a brief overview of the parts of Amazon SageMaker, a fully managed service that covers the entire machine learning workflow. Amazon SageMaker provides every developer and data scientist with the ability to build, train, and deploy machine learning models quickly.\n\nLearn more about Amazon SageMaker at - https://go.aws/2MQGB3h\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #MachineLearning",
+        "date": "2020-06-12T21:38:19Z",
+        "duration": 99
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "uQc8Itd4UTs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon SageMaker",
+            "SageMaker",
+            "Machine Learning",
+            "ML",
+            "Notebooks",
+            "Jupyter"
+        ],
         "title": "Fully-Managed Notebook Instances with Amazon SageMaker - a Deep Dive",
-        "date": "2019/07/24"
+        "description": "Learn more about Amazon SageMaker at – https://amzn.to/2YmCzr4 \nLearn all about the built-in notebook instances with Amazon SageMaker to cover a wide range of use cases.",
+        "date": "2019-07-24T20:09:02Z",
+        "duration": 1005
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "lO224Iec-uI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "machine learning",
+            "Twitch",
+            "re:Invent"
+        ],
         "title": "Live Coding with AWS | Training and Deploying AI with Amazon SageMaker",
-        "date": "2018/02/14"
+        "description": "Check out the upcoming schedule, previous recordings, and links to the resources discussed at - http://amzn.to/2nX3JRR.\n\nBuild a model to predict a time series data set using Machine Learning with Amazon SageMaker during an interactive live coding episode from twitch.tv/aws with Randall Hunt, Sr. Technical Evangelist. Amazon SageMaker is a fully-managed service that enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale. Amazon SageMaker removes all the barriers that typically slow down developers who want to use machine learning.\n\nFor more information on Amazon SageMaker, visit https://aws.amazon.com/sagemaker/",
+        "date": "2018-02-14T20:03:36Z",
+        "duration": 5213
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "lM4zhNO5Rbg",
+        "tags": [
+            "re:Invent 2017",
+            "Andy Jassy",
+            "Keynote",
+            "Amazon SageMaker",
+            "cloud",
+            "cloud computing",
+            "AWS"
+        ],
         "title": "AWS re:Invent 2017 - Introducing Amazon SageMaker",
-        "date": "2017/11/29"
+        "description": "Amazon SageMaker is a fully-managed service that enables data scientists and developers to quickly and easily build, train, and deploy machine learning models, at scale. Learn more at - http://amzn.to/2jwB8zS.",
+        "date": "2017-11-29T20:33:36Z",
+        "duration": 467
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "gYXqv1UxW3Y",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon Sagemaker",
+            "ML",
+            "ML/AI",
+            "telemetry",
+            "IoT",
+            "Broadcast",
+            "reInvent 2019",
+            "Formula One",
+            "Amazon API Gateway",
+            "Amazon DynamoDB",
+            "Amazon Simple Storage Service (S3)",
+            "AWS Lambda",
+            "This is My Architecture",
+            "TMA"
+        ],
         "title": "Formula 1: Using Amazon SageMaker to Deliver Real-Time Insights to Fans (LIVE)",
-        "date": "2020/01/13"
+        "description": "In this special live segment of TMA, you’ll see what’s under the hood of Formula 1's F1 Insights. Hear about the machine learning algorithms they train on Amazon SageMaker and how they make inferences during races to deliver insights to fans.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-01-14T01:06:13Z",
+        "duration": 403
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "KFuc2KWrTHs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon SageMaker",
+            "SageMaker",
+            "Machine Learning",
+            "ML",
+            "Deploy",
+            "Models"
+        ],
         "title": "Deploy Your ML Models to Production at Scale with Amazon SageMaker",
-        "date": "2019/07/24"
+        "description": "Learn more about Amazon SageMaker at – https://amzn.to/2LLuaaP \nAmazon SageMaker enables you to quickly and easily deploy your ML models to the most scalable infrastructure. In this video, you will learn deployment options for your ML models with SageMaker",
+        "date": "2019-07-24T20:09:03Z",
+        "duration": 473
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "7QSsysGX14w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Machine Learning",
+            "ML",
+            "Amazon SageMaker",
+            "SageMaker",
+            "AWS Machine Learning",
+            "SageMaker Studio"
+        ],
         "title": "Amazon SageMaker Studio - A Fully Integrated Development Environment For Machine Learning",
-        "date": "2020/05/19"
+        "description": "Learn all about Amazon SageMaker Studio, a single, web-based visual interface for the complete machine learning workflow. With SageMaker Studio, you can quickly upload data, create new notebooks, train & tune models, and deploy these models, all in a single interface. \n\nLearn more about Amazon SageMaker at https://go.aws/3g3Jc7l\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #MachineLearning",
+        "date": "2020-05-19T19:00:04Z",
+        "duration": 1217
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "wjNW5P7geDw",
-        "title": "Getting Started with AI/ML Using Amazon SageMaker",
-        "date": "2018/10/10"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
+        "title": "Getting Started with AI/ML Using  Amazon SageMaker",
+        "description": "",
+        "date": "2018-10-11T06:33:25Z",
+        "duration": 1999
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "-t2NNaRZ_NE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Big Data",
+            "Data Driven Decisions",
+            "aws webinar"
+        ],
         "title": "Predictive Analytics with Amazon SageMaker",
-        "date": "2018/11/01"
+        "description": "Register for our upcoming webinars at - https://amzn.to/2EP8J5F.\nThis webinar focus on using Amazon SageMaker to achieve actionable predictions and create smart applications. Find out how Amazon SageMaker provides you with the tools to easily create machine learning models without the need for deep ML expertise in the underlying algorithms and technology. During this session, you will learn about how to build and train a machine learning model using Amazon SageMaker’s one-click training and highly optimized ML algorithms with built-in model tuning, and we will show you how to then deploy machine learning models at scale without engineering effort.\n\nSpeaker:\nSteve Shirkey, Specialist Solution Architect, Amazon Web Services",
+        "date": "2018-11-01T16:23:32Z",
+        "duration": 3809
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "zLOMYKZGxK0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Machine Learning",
+            "ML",
+            "Amazon SageMaker",
+            "SageMaker",
+            "AWS Machine Learning",
+            "SageMaker Experiments"
+        ],
         "title": "Organize, Track, and Evaluate ML Training Runs With Amazon SageMaker Experiments",
-        "date": "2020/05/19"
+        "description": "Training an ML model typically entails many iterations to isolate and measure the impact of multiple variables. In this video, learn how Amazon SagMaker Experiments can help you and track these iterations within the visual interface of SageMaker Studio.\n\nLearn more about Amazon SageMaker at https://go.aws/3fZ2QS1\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #MachineLearning",
+        "date": "2020-05-19T19:00:15Z",
+        "duration": 1369
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "Z9FtrRq0rc0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon SageMaker",
+            "SageMaker",
+            "Machine Learning",
+            "ML",
+            "Batch Tansform",
+            "Batch Data",
+            "Inference",
+            "ML Models",
+            "Build",
+            "Train",
+            "Deploy",
+            "Ground Truth",
+            "Data labeling"
+        ],
         "title": "Get Scheduled Predictions on Your ML Models with Amazon SageMaker Batch Transform",
-        "date": "2019/09/11"
+        "description": "Learn more about Amazon SageMaker at – https://amzn.to/2mdzzvF \nLearn how to generate inferences for an entire dataset with large batches of data, where you don't need sub-second latency, and need to pre-process and transform the training data. You can achieve this and more with Amazon SageMaker Batch Transform.",
+        "date": "2019-09-11T20:18:46Z",
+        "duration": 949
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "yGc0qePSYig",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon SageMaker",
+            "SageMaker",
+            "Machine Learning",
+            "ML",
+            "Algorithms"
+        ],
         "title": "Built-in Machine Learning Algorithms with Amazon SageMaker - a Deep Dive",
-        "date": "2019/07/24"
+        "description": "Learn more about Amazon SageMaker at – https://amzn.to/2ZjenDf \nAmazon SageMaker comes built-in with a number of high-performance algorithms for different use cases. Learn the fundamentals and then dive deep into these algorithms.",
+        "date": "2019-07-24T20:09:02Z",
+        "duration": 938
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "zTJTzKcNzMk",
-        "title": "An Overview of Amazon SageMaker Security (Level 100)",
-        "date": "2019/04/04"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
+        "title": "An Overview of Amazon SageMaker Security  (Level 100)",
+        "description": "Learn more about AWS Innovate Online Conference at – https://amzn.to/2G0lBVb\nAmazon SageMaker is a fully managed machine learning service that data scientists and developers use to build predictive and analytical models with their data. Organizations often need to use sensitive data to train models and generate predictions. In this session, we present the approaches taken to construct Amazon SageMaker with a security standard that would let the most security-conscious organizations do machine learning with confidence, as well as, the specific security-related features offered by the service.\n\nSpeaker: Tom Faulhaber, Principal Software Engineer, AI Platforms, AWS",
+        "date": "2019-04-04T17:21:11Z",
+        "duration": 1592
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "Xph2ajPEDPQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon SageMaker",
+            "SageMaker",
+            "Machine Learning",
+            "ML",
+            "Train",
+            "Tune",
+            "Models"
+        ],
         "title": "Train Your ML Models Accurately with Amazon SageMaker",
-        "date": "2019/07/24"
+        "description": "Learn more about Amazon SageMaker at – https://amzn.to/2LFhbXT \nA key aspect of training machine learning models is the ability to tune them to the highest accuracy. In this video, you will learn how to train and tune your ML models with a practical example, using Amazon SageMaker.",
+        "date": "2019-07-24T20:09:02Z",
+        "duration": 1110
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "d7BCQ4YYK7Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon Redshift",
+            "cloud data warehouse",
+            "data warehouse",
+            "lake house",
+            "data lake",
+            "Amazon Sagemaker",
+            "machine learning",
+            "ML"
+        ],
         "title": "Build and Train Machine Learning Models with Amazon Redshift and Amazon SageMaker",
-        "date": "2020/05/06"
+        "description": "Learn how to build and train machine learning (ML) models with Amazon Redshift and Amazon SageMaker.\n\nLearn more about AWS Redshift at - https://go.aws/2zeGN95\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #MachineLearning #AmazonRedshift",
+        "date": "2020-05-06T21:37:54Z",
+        "duration": 943
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "u3oFpjq0ciY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon EC2 Inf1",
+            "AWS Inferentia",
+            "Amazon Sagemaker",
+            "Machine learning Inference"
+        ],
         "title": "Deploying TensorFlow Models on AWS Inferentia Based Inf1 Instances with Amazon SageMaker",
-        "date": "2020/07/23"
+        "description": "Amazon EC2 Inf1 instances deliver high performance and lowest cost machine learning inference in the cloud. Amazon SageMaker supports Inf1 instances to provide one-click deployment of machine learning models onto auto-scaling Inf1 instances across multiple availability zones for high redundancy.\n\nLearn more about Amazon EC2 at - https://amzn.to/2BkxHZM\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-07-23T21:17:32Z",
+        "duration": 622
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "6p6y67Zlbus",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon SageMaker",
+            "AWS Machine Learning Use cases",
+            "Machine learning case study",
+            "Artificial Inteligence"
+        ],
         "title": "How redBus Uses Amazon SageMaker to Reduce the Time-to-Market",
-        "date": "2019/03/06"
+        "description": "Learn more about AWS Startups at - https://amzn.to/2GL8S9T.\nredBus is one of the largest online bus ticketing platform with 6million+ customers, 2300+ bus operators and 60 million trips booked. Find out how Amazon SageMaker helped redBus increase their conversion rate by 5%, Click-through rate by 20% and reduce the time to market from months to weeks.",
+        "date": "2019-03-06T18:24:48Z",
+        "duration": 162
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "wzwkLV9gDXk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS London Summit 2018",
+            "breakout session",
+            "Amazon Sagemaker"
+        ],
         "title": "Amazon SageMaker for Fraud Detection",
-        "date": "2018/05/23"
+        "description": "Learn more about AWS at - https://amzn.to/2s0EdNt.\nAWS London Summit 2018 - Breakout Session:\nSee how AI/ML can be used to fight online fraud and change the e-commerce and banking industries' approach to online transactions.",
+        "date": "2018-05-23T16:51:35Z",
+        "duration": 2744
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "GJ1So_pbZWk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "machine learning",
+            "recommendation",
+            "analytics",
+            "Amazon DynamoDB",
+            "Amazon Redshift",
+            "AWS Glue",
+            "Amazon Sagemaker",
+            "Amazon Simple Storage Service (S3)",
+            "AWS Lambda",
+            "Amazon Elastic File System (EFS)",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Taysols: Next Best Offer Recommendation System using Amazon SageMaker",
-        "date": "2019/07/22"
+        "description": "Learn more about This Is My Architecture at - https://amzn.to/2JJCIww. \nRecommendation systems are fundamental to today's digital experiences and helping customers find just the thing they need, not just want they want keeps customers coming back. But generating next best offers from data not just based on statistics, but sentiment. In this episode Taysols talks us through how they built a multi layered machine learning system using Amazon SageMaker to cluster similar customers behaviors, do better predictions through statistical analysis and generate compelling offers for customers.\n\nHost: Adrian De Luca, Partner Solutions Architect\nCustomer: Dr Daniel Bassett, Chief Data Scientist\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-07-22T18:53:58Z",
+        "duration": 418
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "OuQvFd44vw4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "econda",
+            "Sagemaker",
+            "Machine Learning",
+            "Real-Time Personalization",
+            "Amazon Elastic Container Service (ECS)",
+            "Amazon Simple Storage Service (S3)",
+            "AWS Lambda",
+            "Amazon API Gateway",
+            "AWS Secrets Manager",
+            "Amazon EC2 Container Registry (ECR)",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "econda GmbH: Building a Real-Time Personalization Engine with Amazon Sagemaker and AWS ECS",
-        "date": "2019/05/01"
+        "description": "Learn more about This Is My Architecture at - https://amzn.to/2J4HYLj.\neconda handles billions of requests each day from thousands of online shops and web sites for customers from all over the world to enable profound analytics and real-time personalization. Learn how econda uses Amazon Sagemaker to build an continuously improving personalization services based on their own deep learning algorithms that produces more relevant results.\n\nHost: Markus Kaiser, Sr. Solutions Architect, AWS\nCustomer: Dr. Philipp Sorg, Team Leader Personalization & Dennis Weyland, Data Engineer, econda\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-05-01T19:49:43Z",
+        "duration": 406
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "E_nUM_ufKCA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Real-Time Machine Learning on Satellite Imagery: How DigitalGlobe Uses Amazon SageMaker",
-        "date": "2018/07/02"
+        "description": "AWS Public Sector Summit 2018 - Washington, D.C.\n\nIf you have ever searched for directions, called an Uber, or looked up a trailhead, you have used DigitalGlobe’s imagery or information derived from it. DigitalGlobe went all-in on AWS to meet the growing demand for commercial geo-intelligence, migrating its entire 18-year imagery archive to the cloud.  With the new WorldView Legion satellite constellation coming online, DigitalGlobe looked to leverage AWS for migrating their GBDX machine learning software to autonomously analyze incoming data at scale. GBDX leverages Amazon SageMaker to drastically speed-up both inferencing & training of machine learning models, ushering in a new era of rapid feedback & iteration: a data scientist’s dream come true.​\n\nSpeakers: Nate Ricklin, Kate Werling",
+        "date": "2018-07-02T17:59:51Z",
+        "duration": 2552
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "N3Rl569ysrA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AI",
+            "Amazon",
+            "Sagemaker",
+            "Machine learning",
+            "ML",
+            "Data Science",
+            "Artificial Intelligence",
+            "Neural Network",
+            "Pytorch",
+            "TensorFlow",
+            "MXNet",
+            "RL",
+            "Reinforcement Learning",
+            "Customer Service",
+            "Training time",
+            "Optimization",
+            "Keras",
+            "Gluon",
+            "Containers"
+        ],
         "title": "Building Hyper-Personalized Customer Service Using Freshworks and Amazon Sagemaker",
-        "date": "2019/11/20"
+        "description": "Learn more about Amazon Sagemaker at https://amzn.to/345DgEN\nFreshworks is a Chennai based B2B Unicorn catering to small and medium businesses globally for their software support needs. For one of their flagship products “Freddy” they have built customer support ticket resolution and routing model on Sagemaker which helps them reduce the ticket resolution time for all of their customers. Using Amazon Sagemaker, 59% of Freshworks customers experienced a reduction in ticket resolution time leading to improved CSAT score. \n\nFreshworks has built 30000 models for 11000 customer on Sagemaker and training time for these models in down to 33 minutes which earlier use to take more than 24 hours in their conventional open source backed system. This AI based “Freddy” has helped them attract more mid-market customers and delight them with state of the art AI solution.",
+        "date": "2019-11-20T18:48:09Z",
+        "duration": 156
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "iIM0iperqcE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit",
+            "AI",
+            "Machine Learning"
+        ],
         "title": "Active Learning on Kubernetes and Amazon SageMaker",
-        "date": "2019/08/07"
+        "description": "Learn more about AWS Startups at – https://amzn.to/2KC8iLV\nThe process of automating workflows with machine learning models often requires a significant amount of labeled data. Acquiring this data can be a costly and time consuming process. Active learning is a type of machine learning that reduces the amount of labeled data required by allowing the model to select which examples will be labeled. In this talk, we describe the challenges and solutions Alkymi has encountered while implementing active learning on AWS using Kubernetes and SageMaker.",
+        "date": "2019-08-07T18:42:11Z",
+        "duration": 1004
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "KCzgR7eQ3PY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS Innovate | Intro to Deep Learning: Building an Image Classifier on Amazon SageMaker",
-        "date": "2019/02/19"
+        "description": "Getting started with deep learning can feel intimidating. In this session join Gabe Hollombe, Technical Evangelist at AWS, as we simplify deep learning by explaining basic concepts with minimal jargon and only a bit of high-school math. Find out how easy it is to take an existing pre-trained general-purpose image classification model from the cloud and re-train it to identify specific classes of objects. Learn how to do all of this with Python, using a Jupyter notebook hosted from Amazon Sagemaker. We will conclude by providing additional resources on where and how to learn more.\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-02-19T21:19:02Z",
+        "duration": 3853
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "yx1vf3uapX8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference 2018"
+        ],
         "title": "Detect Anomalies in Your Data with Amazon SageMaker (Level 300)",
-        "date": "2018/08/24"
+        "description": "Learn more about the AWS Innovate Online Conference at - https://amzn.to/2MPxphd.\nDetecting anomalies in data and finding unusual behavior or patterns is critical to any business, no matter the industry. Whether you work in healthcare, IT, retail, or another industry, it is crucial to leverage your data, extract insights, and drive business outcomes. In this session, learn about anomalies, anomaly detection, and how to build an anomaly detection model using Amazon SageMaker.\n\nSpeaker: Will Badr, Senior Technical Account Manager, Amazon Web Services Enterprise Support",
+        "date": "2018-08-24T19:52:40Z",
+        "duration": 1754
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "8J7y513oSsE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Accurately Automating Dataset Labelling Using Amazon SageMaker GroundTruth (Level 200)",
-        "date": "2019/04/03"
+        "description": "Learn more about AWS Innovate Online Conference at – https://amzn.to/2WEdJhy \nSuccessful machine learning models are built on high-quality training datasets. Labeling raw data to get accurate training dataset involves a lot of time and effort, because sophisticated models can require thousands of labeled examples to learn from, before they produce good results. Typically, the task of labeling is distributed across large number of humans, adding significant overheads and costs. In this session, learn how Amazon SageMaker Ground Truth can solve data labeling problems, build highly-accurate training datasets, and achieve automated labeling.\n\nSpeaker: Will Badr, Senior Technical Account Manager, AWS Enterprise Support, ANZ",
+        "date": "2019-04-03T17:44:15Z",
+        "duration": 999
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "VeEGAeohe7c",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon SageMaker",
+            "SageMaker",
+            "Machine Learning",
+            "ML",
+            "Deep Learning",
+            "Frameworks",
+            "TensorFlow",
+            "MXNet",
+            "PyTorch",
+            "Chainer",
+            "ML Models",
+            "Build",
+            "Train",
+            "Deploy",
+            "Ground Truth",
+            "Data labeling"
+        ],
         "title": "Use the Deep Learning Framework of Your Choice with Amazon SageMaker",
-        "date": "2019/09/11"
+        "description": "Learn more about Amazon SageMaker at – https://amzn.to/2lLMW65 \nWith Amazon SageMaker, you can use the popular open-source Deep Learning Frameworks for your use case and get the best results. Learn how you can achieve these results in this deep dive video.",
+        "date": "2019-09-11T20:18:42Z",
+        "duration": 641
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "Ra4pDxbIK2M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Machine Learning",
+            "ML",
+            "Amazon SageMaker",
+            "SageMaker",
+            "AWS Machine Learning",
+            "SageMaker Autopilot"
+        ],
         "title": "Automatically Build, Train, and Tune ML Models With Amazon SageMaker Autopilot",
-        "date": "2020/05/19"
+        "description": "Typical approaches to automated machine learning do not give you the insights or the logic that went into creating the model. In this video, learn to create highly accurate machine learning models automatically and with full visibility and control using Amazon SageMaker Autopilot.\n\nLearn more about Amazon SageMaker Autopilot at https://go.aws/3cL9toX\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #MachineLearning",
+        "date": "2020-05-19T07:00:08Z",
+        "duration": 1686
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "r79IRtHAhG8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Spot",
+            "Elasticache",
+            "Redis",
+            "Spark",
+            "TensorFlow",
+            "advertising",
+            "AI",
+            "ML",
+            "machine learning",
+            "publishing",
+            "Shauli Mizrachy",
+            "Browsi",
+            "Matt Yanchyshyn",
+            "Amazon EC2 Spot Instances",
+            "Amazon Elastic Container Service",
+            "Amazon Elastic Container Service (ECS)",
+            "Amazon Elastic MapReduce (EMR)",
+            "Amazon EMR",
+            "Amazon Kinesis",
+            "Amazon Kinesis Data Analytics",
+            "Amazon SageMaker",
+            "Amazon Simple Storage Service (S3)",
+            "AWS Lambda",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Browsi: Using ML to Predict Ad Viewability with Amazon SageMaker",
-        "date": "2018/10/31"
+        "description": "On the next This Is My Architecture https://amzn.to/2R8HxB1, learn how Browsi is using Amazon SageMaker with TensorFlow to train models that predict ad viewability in real-time. We'll explore how they collect data with ECS running on EC2 Spot Instances, store the data in Kinesis and S3, process the data with Spark running on EMR, train machine learning models using SageMaker, expose scalable prediction endpoints on ECS, and calculate statistics with Kinesis Analytics.\n\nHost: Matt Yanchyshyn, Global Tech Lead, AWS\nCustomer: Shauli Mizrachy, VP R&D, Browsi\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2018-10-31T17:52:40Z",
+        "duration": 462
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "Bus4ldBVgLM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Getting Started with Amazon SageMaker - Build, Train, and Deploy Machine Learning Models",
-        "date": "2019/04/03"
+        "description": "Learn more about AWS Innovate Online Conference at – https://amzn.to/2YMG8Eb \nAmazon SageMaker provides every developer and data scientist with the ability to build, train, and deploy machine learning models quickly at any scale. Amazon SageMaker takes away the heavy lifting of machine learning, thus removing the typical barriers associated with machine learning. In this session, dive deep into the technical details of each of the modules of Amazon SageMaker which showcases the capabilities of the platform. Learn from the practical deployments of Amazon SageMaker through real-world customer examples.\n\nSpeaker: Tapan Hoskeri, Solution Architect, AISPL",
+        "date": "2019-04-03T17:44:00Z",
+        "duration": 1357
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "1kbWvlHBYLk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon SageMaker",
+            "AWS Lambda",
+            "Amazon API Gateway",
+            "TMA London",
+            "Amazon EC2",
+            "Amazon CloudWatch",
+            "Amazon Simple Storage Service (S3)",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Inawisdom: Machine Learning and Automated Model Retraining with SageMaker",
-        "date": "2019/01/14"
+        "description": "In this episode of This Is My Architecture - https://amzn.to/2RMiCq3, learn how Inawisdom uses Amazon SageMaker as part of a solution to build, deploy, and continually retrain machine learning models running in production. Inawisdom have built orchestration and workflows using AWS services to ensure a machine learning model remains accurate over time. Through this orchestration, models can be retrained and redeployed without impact to customers.\n\nHost: Shafreen Sayyed, Solutions Architect, AWS\nCustomer: Robin Meehan, CTO & Co-founder Inawisdom\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-01-14T20:17:12Z",
+        "duration": 476
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "6skqe2IuI34",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon SageMaker RL"
+        ],
         "title": "AWS re:Invent 2018 - Announcing Amazon SageMaker RL",
-        "date": "2018/11/30"
+        "description": "Watch Andy announce the release of Amazon SageMaker RL! Learn more at - https://amzn.to/2DRidvh.",
+        "date": "2018-11-30T18:07:11Z",
+        "duration": 116
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "YQyid2uLOvI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon SageMaker",
+            "SageMaker",
+            "Machine Learning",
+            "ML",
+            "Algorithms",
+            "Models"
+        ],
         "title": "Bring Your Own Custom ML Models with Amazon SageMaker",
-        "date": "2019/07/24"
+        "description": "Learn more about Amazon SageMaker at – https://amzn.to/2Mdl1XB \nWith Amazon SageMaker, you have the flexibility to bring in your own model and leverage the capabilities of the service. In this video, we will dive deep into how you can bring your own model into SageMaker.",
+        "date": "2019-07-24T20:09:02Z",
+        "duration": 483
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "cSYFqKRQ0j0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Inforce",
+            "AWS re:Inforce 2019",
+            "security",
+            "identity",
+            "compliance",
+            "cloud security",
+            "AWS security",
+            "cloud security community",
+            "learning conference",
+            "Detective Controls",
+            "Infrastructure Security",
+            "Data Protection",
+            "Incident Response",
+            "Governance",
+            "Risk",
+            "Compliance",
+            "security best practices",
+            "Security Deep Dive",
+            "AWS re:Inforce 2019 Sessions",
+            "Session",
+            "SDD315",
+            "300 - Advanced"
+        ],
         "title": "AWS re:Inforce 2019: Amazon SageMaker Model Development in a Highly Regulated Environment (SDD315)",
-        "date": "2019/06/26"
+        "description": "Amazon SageMaker is a fully managed platform that enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale. In this session, we dive deep into the security configurations of Amazon SageMaker components, including notebooks, distributed and batch training, and hosting endpoints. We also review Vanguard’s implementation of key controls in a highly regulated environment. These include fine-grained access control, end-to-end encryption in transit, encryption at rest with AWS KMS customer-managed customer master keys (CMKs), private connectivity to all Amazon SageMaker APIs, and comprehensive audit trails for resource and data access.\n\nComplete Title: AWS re:Inforce 2019: Securing Your Amazon SageMaker Model Development in a Highly Regulated Environment (SDD315) \n\n Presenter(s): \n-  Hung Pham, Vanguard\n-  Ritesh Shah, Vanguard",
+        "date": "2019-06-26T12:38:28Z",
+        "duration": 2342
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "RPInYpI9MjY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon SageMaker’s Built-in Algorithm Webinar Series: Clustering with K Means",
-        "date": "2018/11/19"
+        "description": "In this webinar, Kris Skrinak, AWS Partner Solution Architect, will deep dive into two of the clustering algorithms used by Amazon SageMaker - https://amzn.to/2DNLDLB: K Means and Principal Component Analysis.\n\nLearn more - https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html",
+        "date": "2018-11-19T21:36:01Z",
+        "duration": 3532
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "sy578M-7hd0",
-        "title": "AWS and edX Bring You Amazon SageMaker: Simplifying Machine Learning Application Development",
-        "date": "2018/12/05"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS and edX",
+            "edx course for AWS",
+            "Sagemaker",
+            "Amazon Sagemaker",
+            "Training and Certification",
+            "training & cert",
+            "AWS Training & Cert"
+        ],
+        "title": "AWS and edX Bring You “Amazon SageMaker: Simplifying Machine Learning Application Development\"",
+        "description": "Register today: https://bit.ly/2PofmfC\n\nBuilding on the momentum of our existing collaboration with edX, AWS is announcing “Amazon SageMaker: Simplifying Machine Learning Application Development”. \n\nThis new intermediate-level course, available exclusively on edX, provides a baseline understanding of machine learning (ML) and how applications can be built and deployed using Amazon SageMaker.",
+        "date": "2018-12-05T18:11:19Z",
+        "duration": 64
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "UnBLNGjE2fo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS London Summit 2018",
+            "Amazon SageMaker",
+            "breakout session"
+        ],
         "title": "Builders' Lab: Amazon SageMaker",
-        "date": "2018/05/22"
+        "description": "Learn more about AWS at - https://amzn.to/2IGuE0v\nAWS London Summit 2018 - Breakout Session:\nBuilders' Lab: Watch or code along with the speaker, learn how to start your AI/ML journey with Amazon SageMaker, guaranteed zero PowerPoint!",
+        "date": "2018-05-22T21:13:14Z",
+        "duration": 2814
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "xpZFNIOaQns",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon SageMaker",
+            "SageMaker",
+            "Machine Learning",
+            "ML",
+            "Training",
+            "Tuning",
+            "Hyperparameters",
+            "Automatic Model Tuning",
+            "ML Models",
+            "Build",
+            "Train",
+            "Deploy",
+            "Ground Truth",
+            "Data labeling"
+        ],
         "title": "Tune Your ML Models to the Highest Accuracy with Amazon SageMaker Automatic Model Tuning",
-        "date": "2019/09/11"
+        "description": "Learn more about Amazon SageMaker at – https://amzn.to/2lKBTtK \nLearn how you can get the best version of your machine learning model using hyperparameter tuning with Amazon SageMaker.",
+        "date": "2019-09-11T20:18:41Z",
+        "duration": 1193
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "jWWyKE5ApqI",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "AI & Machine Learning",
+            "AIM404-R",
+            "Amazon SageMaker"
+        ],
         "title": "AWS re:Invent 2018: Build & Deploy ML Models Quickly & Easily with Amazon SageMaker (AIM404-R)",
-        "date": "2018/11/27"
+        "description": "Amazon SageMaker is a fully managed platform that enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale. Amazon SageMaker takes away the heavy lifting of machine learning, thus removing the typical barriers associated with machine learning. In this session, we'll dive deep into the technical details of each of the modules of Amazon SageMaker to showcase the capabilities of the platform. We also discuss the practical deployments of Amazon SageMaker through real-world customer examples. \n\nComplete Title: AWS re:Invent 2018: [REPEAT] Build, Train, & Deploy ML Models Quickly & Easily with Amazon SageMaker, ft. 21st Century Fox (AIM404-R)",
+        "date": "2018-11-27T19:14:20Z",
+        "duration": 3473
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "cTsCMTxEPHs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "DeepLens",
+            "AWS DeepLens",
+            "Amazon SageMaker",
+            "AWS Lambda Compound: Configure AWS DeepLens",
+            "Set up AWS DeepLens",
+            "Extent a Deep Leaning Project",
+            "Build a project using Amazon SageMaker Generic: How to",
+            "Tutorial",
+            "AI",
+            "Artificial intelligence",
+            "Computer vision",
+            "Machine learning",
+            "Deep learning"
+        ],
         "title": "How to Build an AWS DeepLens Project Using Amazon SageMaker",
-        "date": "2018/06/06"
+        "description": "This step-by-step tutorial will help guide you through creating a model using Amazon SageMaker and importing it to AWS DeepLens. You will set up a SageMaker instance, import and configure an external notebook from GitHub and import the externally trained model to your AWS DeepLens. Learn more at - https://amzn.to/2JPChxR.\n\nThis is video 4 of 4. Watch the entire series here - https://www.youtube.com/playlist?list=PLhr1KZpdzukcgnZzblsxDt8YqS78bDhYl.",
+        "date": "2018-06-06T22:24:33Z",
+        "duration": 382
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "HSTK-9r2WVM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference 2018"
+        ],
         "title": "Build, Train and Deploy ML Models at Scale with Amazon SageMaker",
-        "date": "2018/04/12"
+        "description": "Learn more at - https://amzn.to/2GUgyaS\nAmazon SageMaker is a fully-managed service that enables data scientists and developers to quickly and easily build, train, and deploy machine learning models, at scale. This session we will share the features of Amazon SageMaker, including a one-click training environment, highly-optimized machine learning algorithms with built-in model tuning, and deployment without engineering effort.  With zero-setup required, Amazon SageMaker significantly decreases your training time and overall cost of building production machine learning systems. \n\nSpeaker:\n- Koorosh Lohrasbi, Solutions Architect, Amazon Web Services, ANZ",
+        "date": "2018-04-12T18:59:20Z",
+        "duration": 1744
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "gjiozYXHKc8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reinvent 2018",
+            "re:Invent 2018",
+            "Amazon SageMaker Ground Truth"
+        ],
         "title": "AWS re:Invent 2018 – Introducing Amazon SageMaker Ground Truth",
-        "date": "2018/11/30"
+        "description": "Watch Andy Jassy, CEO of Amazon Web Services, announce the launch of Amazon SageMaker Ground Truth at re:Invent 2018. Learn more at - https://amzn.to/2Siu9Kl.\n\nAmazon SageMaker Ground Truth helps you build highly accurate training datasets for machine learning quickly. SageMaker Ground Truth offers easy access to public and private human labelers and provides them with built-in workflows and interfaces for common labeling tasks. Additionally, SageMaker Ground Truth can lower your labeling costs by up to 70% using automatic labeling, which works by training Ground Truth from data labeled by humans so that the service learns to label data independently.",
+        "date": "2018-11-30T17:55:24Z",
+        "duration": 177
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "naJtxNeA-4o",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "machine learning",
+            "ai/ml",
+            "oil and gas",
+            "oil & gas",
+            "oil & gas digital transformation",
+            "cloud computing in oil and gas",
+            "cloud oil and gas",
+            "innovation in oil and gas"
+        ],
         "title": "Lithology Prediction in Oil & Gas with Amazon Sagemaker",
-        "date": "2018/07/2018"
+        "description": "Learn more about AWS for Oil & Gas at - https://amzn.to/2NKFQbm.\nIn this demo, we will use Amazon SageMaker to predict rock or lithology types from log measurements, such as density, gamma ray, porosity, and resistivity. Conventionally, this is a time-consuming, manual process that requires you analyze each measurement separately, and requires collecting core data which can be very costly. With machine learning you can interpret data automatically, generating precise measurements in near real-time without the need for core data. Access to enhanced datasets like these allow you to more quickly and effectively conduct formation evaluation, drilling, geo-steering, and many other workflows. Watch this demo to learn how to extract insights faster and more effectively with AWS Machine Learning.",
+        "date": "2018-07-12T20:27:52Z",
+        "duration": 121
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "CwX9mjupbJo",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "GPS-Technical",
+            "GPSTEC316",
+            "Amazon SageMaker"
+        ],
         "title": "AWS re:Invent 2018: How Peak.AI Uses Amazon SageMaker for Product Personalization (GPSTEC316)",
-        "date": "2018/11/30"
+        "description": "In this session, learn how Peak’s Artificial Intelligence System (AIS) embeds Amazon SageMaker to solve business problems with outstanding results. We show you how Peak worked backwards from two customer problems to create a machine learning (ML) solution that used multiple models, trained, and then deployed on Amazon SageMaker. We highlight the challenges, classifying PII data and integrating data from multiple sources. Next, we walk through the ML model training phase for each customer, showing you how new data sources were used to improve the accuracy of the ML models. Finally, the results: Regit and Footasylum were able to use the intelligent predictions provided by Peak.AI to deliver a personalized service to their customers, resulting in a 30% increase in revenue.",
+        "date": "2018-11-30T16:36:35Z",
+        "duration": 3530
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "zJTXbjgDtjU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "ML Model Deployment Techniques using Amazon SageMaker Managed Deployment",
-        "date": "2019/04/03"
+        "description": "Learn more about AWS Innovate Online Conference at – https://amzn.to/2UqptXQ \nMachine Learning can be very resource intensive and you will not be able to deploy a Machine Learning model until it is trained. At AWS, we are constantly working to make training models efficient, faster and cheaper. However, model inference is where the value of Machine Learning is delivered. This is where speech is recognized, text is translated, object is recognized in a video, manufacturing defects are found, and cars get driven. This session analyzes the common pain points we face in running Machine Learning and Deep Learning inference workloads. It also explains how AWS is addressing these pain points as you add intelligence to your applications and scale these workloads.\n\nSpeaker: Atanu Roy, AI Specialist Solution Architect, AISPL",
+        "date": "2019-04-03T17:44:10Z",
+        "duration": 1563
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "3id6srjB5A8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Solving with AWS Solutions",
+            "Customer Retention",
+            "Amazon Pinpoint",
+            "Amazon Kinesis Data Stream",
+            "Amazon Kinesis",
+            "Amazon Kinesis Data Firehose",
+            "Amazon SageMaker",
+            "developer",
+            "Amazon Athena",
+            "Amazon Glue",
+            "AWS Lambda",
+            "serverless",
+            "Predictive Consumer Segmentation"
+        ],
         "title": "Solving with AWS Solutions: Predictive Segmentation using Amazon Pinpoint and Amazon SageMaker",
-        "date": "2020/04/27"
+        "description": "Solution Link: https://tinyurl.com/SolvingwithAWSSolutionsPredSeg\nPredictive Segmentation Using Amazon Pinpoint and Amazon SageMaker combines Amazon Pinpoint with Amazon SageMaker to help automate the process of collecting customer data, predicting customer churn using ML, and maintaining a tailored audience segment for messaging.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-04-27T15:57:38Z",
+        "duration": 348
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "MuWe2INvIXw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "New Data Processing Capabilities in Amazon SageMaker for Training & Inference",
-        "date": "2018/11/30"
+        "description": "WS IoT Greengrass now supports Amazon SageMaker Neo. Neo enables machine learning models to train once and run anywhere in the cloud and at the edge. Learn more at https://docs.aws.amazon.com/sagemaker/latest/dg/inference-pipelines.html \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:49:23Z",
+        "duration": 1211
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "RjhrugELYW8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reinvent 2018",
+            "re:Invent 2018",
+            "Matt Wood",
+            "Amazon SageMaker Neo"
+        ],
         "title": "AWS re:Invent 2018 - Announcing Amazon SageMaker Neo",
-        "date": "2018/11/27"
+        "description": "Watch Dr. Matt Wood announce the launch of Amazon SageMaker Neo at re:Invent 2018. Learn more at - https://amzn.to/2TPC5EG.",
+        "date": "2018-11-27T21:13:39Z",
+        "duration": 153
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "VdjhsDzpb_4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon SageMaker",
+            "AWS San Francisco Summit 2018",
+            "Matt Wood"
+        ],
         "title": "New Amazon SageMaker Feature Launches Announced at AWS San Francisco Summit 2018",
-        "date": "2018/04/10"
+        "description": "Learn more at - https://amzn.to/2GZWIu5.\nAmazon SageMaker continues to iterate quickly and release new features on behalf of customers. \nAnnounced at the AWS San Francisco Summit 2018, Amazon SageMaker has open sourced TensorFlow and Apache MXNet Docker Containers with Support for Local Mode, added More Instance Types Across All Modules, and support for Apache MXNet 1.1.0 and Tensorflow 1.6.0.",
+        "date": "2018-04-10T21:42:28Z",
+        "duration": 151
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "HlSEUvApDZE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Machine Learning",
+            "ML",
+            "Secure ML",
+            "SageMaker",
+            "Compliance",
+            "Amazon SageMaker"
+        ],
         "title": "Secure and compliant machine learning workflows with Amazon SageMaker",
-        "date": "2020/05/14"
+        "description": "Ever wondered how to build a secure and compliant end-to-end ML workflow for Financial Services? In this video, we address the common patterns and requirements required by highly regulated industries for their use cases, with secure machine learning. \n\nFor the technical assets on building and using secure environments discussed in this video, see the workshop link here - https://bit.ly/2VLFDdR\n\n Learn more about AWS Machine Learning at - https://go.aws/3cwiB0Q\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #MachineLearning #AWSDemo",
+        "date": "2020-05-14T22:42:16Z",
+        "duration": 3518
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "VKaJN3ylmUM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Artificial Intelligence & Machine Learning",
+            "AIM371",
+            "Amazon SageMaker",
+            "AWS Marketplace"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Machine Learning w/ Amazon SageMaker & AWS Marketplace (AIM371)",
-        "date": "2018/12/01"
+        "description": "Until now, many customers spent time creating or searching for the right algorithm and model when using Amazon SageMaker. In this session you’ll learn how to build machine learning applications even faster by finding curated algorithms and model packages in AWS Marketplace and deploying them directly on Amazon SageMaker.\n\n#AWSMarketplaceML",
+        "date": "2018-12-01T22:24:59Z",
+        "duration": 3577
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "syq92fnmIxg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "SageMaker - Bring your Own Container",
-        "date": "2019/05/24"
+        "description": "https://aws.amazon.com/developer/community/twitch/\nMissed the AWS Sydney Summit 2019? Learn how cloud technology can help your business lower costs, improve efficiency, and innovate at scale. This session is a recording from Summit Day 2.",
+        "date": "2019-05-24T16:18:05Z",
+        "duration": 917
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "4pbXdsjZx_k",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Machine Learning",
+            "MCL365",
+            "AI"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Introducing Amazon SageMaker (MCL365)",
-        "date": "2017/12/02"
+        "description": "Amazon SageMaker is a fully-managed service that enables data scientists and developers to quickly and easily build, train, and deploy machine learning models, at scale. This session will introduce you the features of Amazon SageMaker, including a one-click training environment, highly-optimized machine learning algorithms with built-in model tuning, and deployment without engineering effort. With zero-setup required, Amazon SageMaker significantly decreases your training time and overall cost of building production machine learning systems. You'll also hear how and why Intuit is using Amazon SaeMaker on AWS for real-time fraud detection.",
+        "date": "2017-12-03T01:48:21Z",
+        "duration": 3728
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "-PWjI6Ri2aY",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Application Integration",
+            "API325",
+            "Amazon SageMaker",
+            "AWS Glue",
+            "AWS Step Functions"
+        ],
         "title": "AWS re:Invent 2018: ML Workflows with Amazon SageMaker and AWS Step Functions (API325)",
-        "date": "2018/11/29"
+        "description": "Learn how you can build, train, and deploy machine learning workflows for Amazon SageMaker on AWS Step Functions. Learn how to stitch together services, such as AWS Glue, with your Amazon SageMaker model training to build feature-rich machine learning applications, and you learn how to build serverless ML workflows with less code. Cox Automotive also shares how it combined Amazon SageMaker and Step Functions to improve collaboration between data scientists and software engineers. We also share some new features to build and manage ML workflows even faster.",
+        "date": "2018-11-29T18:23:29Z",
+        "duration": 3077
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "JsfeY_3-G58",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build with Amazon Sumerian | S3 E4 – Integrating Amazon SageMaker for Reinforcement Learning",
-        "date": "2019/01/30"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we look at how to use Amazon Sumerian with Amazon SageMaker to develop reinforcement learning and machine learning.\n\nAmazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage as well as Android and iOS mobile devices.\n\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\n\nJoin the Sumerian Slack: https://amazonsumerian.slack.com/join/shared_invite/enQtMjk4MTE2MTMxMzQ4LTliMjM2ZTQ4NDRjZjZkOTAxMzc4OTEyZGI2YzJiZjczNmUxMjM2NGQ0ZGZlNTRkMjI1NGE0MTdkYzZmYzJlNDI\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings/\n\nMusic from Jukedeck: create your own at http://jukedeck.com",
+        "date": "2019-01-30T20:15:32Z",
+        "duration": 3870
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "yy-5xwCe04I",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Supercharge Your Machine Learning Model with Amazon SageMaker",
-        "date": "2018/11/21"
+        "description": "Presenter: Ben Thurgood, Principal Solutions Architect, Amazon Web Services",
+        "date": "2018-11-21T21:40:08Z",
+        "duration": 2270
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "7C1h3ttkRAQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "machine learning",
+            "ai/ml",
+            "oil and gas",
+            "oil & gas",
+            "oil & gas digital transformation",
+            "cloud computing in oil and gas",
+            "cloud oil and gas",
+            "innovation in oil and gas",
+            "aws",
+            "sagemaker",
+            "amazon sagemaker",
+            "xgboost"
+        ],
         "title": "Seismic Density Prediction in Oil & Gas with Amazon Sagemaker",
-        "date": "2018/07/12"
+        "description": "Learn more about AWS for Oil & Gas at - https://amzn.to/2uhWpU6.\nIn oil & gas exploration, seismic data processing, interpretation, and inversion are highly complex processes in which seismic reflection data helps provide information about subsurface structure, rock formations, and reservoirs. AWS advanced machine learning and HPC tools allow companies to reduce the time required for seismic data processing from months to a few days, creating more accurate 3D models of rock and fluid properties that far surpass traditional methods.",
+        "date": "2018-07-12T20:27:53Z",
+        "duration": 145
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "sLktFah2Xi4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws builder sday",
+            "builders day",
+            "developers",
+            "buildon",
+            "AI",
+            "artificial intelligence",
+            "machine learning",
+            "Amazon sagemaker"
+        ],
         "title": "AWS Builders' Day | Machine Learning: From Notebook to Production with Amazon Sagemaker",
-        "date": "2018/12/19"
+        "description": "See what you can build: https://amzn.to/2ryQs3a\nGet started with Machine Learning at https://aws.amazon.com/machine-learning/\n\nAmazon AI services bring natural language understanding (NLU), automatic speech recognition (ASR), visual search and image recognition, text-to-speech (TTS), and machine learning (ML) technologies within the reach of every developer. Learn how you can easily add these powerful features to your applications to enhance the way they interact with the real world.\"",
+        "date": "2018-12-19T18:43:53Z",
+        "duration": 3991
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "rd0Ze9Uq890",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "AI & Machine Learning",
+            "AIM204-S",
+            "Amazon SageMaker",
+            "AWS Lambda"
+        ],
         "title": "AWS re:Invent 2018: Smarter Event-Driven Edge with Amazon SageMaker & Project Flogo (AIM204-S)",
-        "date": "2018/11/27"
+        "description": "A single device can produce thousands of events every second. In traditional implementations, all data is transmitted back to a server or gateway for scoring by a machine learning (ML) model. This data is also stored in a data repository for later use by data scientists. In this session, we explore data science techniques for dealing with time series data leveraging Amazon SageMaker. We also look at modeling applications using deterministic rules with streaming pipelines for data prep, and model inferencing using deep learning frameworks directly onto edge devices or onto AWS Lambda using Project Flogo, an open-source event-driven framework. This session is brought to you by AWS partner, TIBCO Software Inc.",
+        "date": "2018-11-27T18:59:54Z",
+        "duration": 3630
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "G2tX0YpNHfc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon SageMaker’s Built-in Algorithm Webinar Series: Blazing Text",
-        "date": "2018/11/19"
+        "description": "In this webinar which covers the Blazing Text algorithm used by Amazon SageMaker - https://amzn.to/2S1lZWD, Pratap Ramamurthy, AWS Partner Solution Architect, will show you how to use Blazing Text for classification, natural language generation and sentiment analysis on text. \n\nLearn more - https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html",
+        "date": "2018-11-19T21:30:58Z",
+        "duration": 4477
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "ggVWnnRXtYc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "SageMaker",
+            "Object2Vec",
+            "Word2Vec",
+            "neural embedding",
+            "machine learning",
+            "ml algorithm",
+            "sagemaker algorithm",
+            "Amazon SageMaker",
+            "AWS SageMaker"
+        ],
         "title": "AWS Partner Webinar: Object2Vec on Amazon SageMaker",
-        "date": "2019/08/12"
+        "description": "Learn more about Amazon SageMaker Object2Vec at – https://amzn.to/2MNbiIa \nIn this webinar which covers the Object2Vec algorithm used by Amazon SageMaker, Pratap Ramamurthy, AWS Partner Solution Architect, will deep dive into a use case for Natural Language Processing and Neural Machine Translation.",
+        "date": "2019-08-12T17:18:27Z",
+        "duration": 3058
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "Q6i2d17PVYc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS DevDay Munich 2018"
+        ],
         "title": "Machine Learning: From Notebook to Production with Amazon Sagemakers",
-        "date": "2018/04/25"
+        "description": "Learn more about AWS and check out the upcoming schedule, previous recordings, and links to the resources discussed at - https://amzn.to/2KaWCi9.\n\nAWS DevDay Munich 2018:\nThrough Amazon AI services, we learned how to add powerful features like natural language understanding(NLU), automatic speech recognition (ASR), visual search and image recognition, text to speech (TTS), and machine learning (ML) technologies to applications. Learn more about Machine Learning on AWS at - https://aws.amazon.com/machine-learning/.",
+        "date": "2018-04-25T16:33:25Z",
+        "duration": 3060
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "GKKa0crWVYo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Chicago Summit 2018",
+            "Twitch",
+            "Amazon Comprehend",
+            "machine learning",
+            "ML"
+        ],
         "title": "AWS Chicago Summit 2018 - Accelerate Machine Learning with Ease Using Amazon SageMaker",
-        "date": "2018/08/20"
+        "description": "Learn more about Amazon Comprehend at - https://amzn.to/2MoiwmJ.\nOrganizations are using machine learning (ML) to address a host of business challenges, from product recommendations to demand forecasting. Until recently, developing these ML models took much time and effort, and it required expertise. In this session, we discussed and dove deeper into Amazon SageMaker, a fully managed ML service that enables developers and data scientists to develop and deploy deep learning models quickly and easily. We walked through the features and benefits of Amazon SageMaker and discussed the uniquely designed ML algorithms that allow for optimized model training, getting you to production fast.",
+        "date": "2018-08-20T23:03:28Z",
+        "duration": 2828
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "WWYoCyva4ek",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS Innovate 2019 | Using Amazon SageMaker for Fraud Prediction on Credit Card Transactions",
-        "date": "2019/02/19"
+        "description": "In this live coding session, get insights from an expert guest on end-to-end machine learning in practice and dive deep on creating and detecting fraudulent transactions using Amazon SageMaker, Lambda and Amazon Kinesis. Lastly, find out how to export the model outside of Amazon SageMaker.\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-02-19T20:47:12Z",
+        "duration": 2836
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "LMfIYVFvjPI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon SageMaker: Build, Train, and Deploy Machine Learning Models Quickly & Easily, at scale",
-        "date": "2019/06/20"
+        "description": "Learn how to get started with Amazon SageMaker—our fully-managed service that spans the entire machine learning (ML) workflow—so you can build, train, and deploy models quickly. Use Amazon SageMaker to label and prepare your data, choose an algorithm, train, tune, and optimize it for deployment, make predictions, and take action. Get your models to production faster with Amazon SageMaker SDKs, builder tools, and APIs tailored to your programming language or platform. Also, discover how Amazon SageMaker Ground Truth can aid in the adoption of ML technology for your organization.",
+        "date": "2019-06-20T13:41:01Z",
+        "duration": 2733
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "_TVKa-noVKE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "IoT",
+            "Deep-learning",
+            "edge",
+            "Amazon SageMaker",
+            "Amazon Simple Storage Service (S3)",
+            "AWS IoT Core",
+            "AWS IoT Greengrass",
+            "AWS IoT MQTT",
+            "This is My Model",
+            "TMM"
+        ],
         "title": "FogHorn: Real Time Inference at the Edge with FogHorn, Amazon IoT & Amazon SageMaker",
-        "date": "2019/10/18"
+        "description": "The FogHorn platform is an intelligent IoT edge solution that delivers data processing and real-time inference where data is created. FogHorn integrates with IoT MQTT for edge to edge communication as well as Amazon SageMaker for deep learning model deployment. The edgefication process involves running inference with real-time streaming data against a trained deep learning model. Drifts in the model accuracy trigger a callback to Sagemaker for retraining.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-10-18T15:52:21Z",
+        "duration": 420
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "c_jv3llDKU0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon AI Conclave 2018",
+            "AI Talks",
+            "AI Thought Leadership",
+            "Artificial Intelligence Videos",
+            "Machine Learning",
+            "ML"
+        ],
         "title": "Improve model quality with Amazon SageMaker Automatic Model Tuning by Kumar Venkateswar",
-        "date": "2019/02/04"
+        "description": "Improve model quality with Amazon SageMaker Automatic Model Tuning  by Kumar Venkateswar, Head of Product, Amazon SageMaker, AWS\n\nAmazon AI Conclave is an event for business leaders, data scientists, engineers and developers to learn about Amazon's machine learning services and real-world use cases developed by our customers. This program helps you understand how to build smart, customer-centric, scalable solutions in the cloud and on the edge using Amazon AI, AWS IoT, Machine Learning and AWS Deep Learning.\n\nCheck out more details about the event at https://aws.amazon.com/events/ai_conclave/",
+        "date": "2019-02-04T16:17:40Z",
+        "duration": 2172
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "6EYEoAqihPg",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Developer Community",
+            "DVC303",
+            "Amazon SageMaker"
+        ],
         "title": "AWS re:Invent 2018: CI/CD for Your Machine Learning Pipeline with Amazon SageMaker (DVC303)",
-        "date": "2018/11/27"
+        "description": "Amazon SageMaker is a powerful tool that enables us to build, train, and deploy at scale our machine learning-based workloads. With help from AWS CI/CD tools, we can speed up this pipeline process. In this talk, we discuss how to integrate Amazon SageMaker into a CI/CD pipeline as well as how to orchestrate with other serverless components.\n\nThis session is part of re:Invent Developer Community Day, a series led by AWS enthusiasts who share first-hand, technical insights on trending topics.",
+        "date": "2018-11-27T19:08:06Z",
+        "duration": 3433
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "nnob7a-JdZA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "customer testimonial",
+            "smaato",
+            "machine learning",
+            "advertising",
+            "networking",
+            "amazon sagemaker",
+            "aws customer success"
+        ],
         "title": "Smaato Reduces Networking Costs by 75% With Amazon SageMaker",
-        "date": "2020/02/28"
+        "description": "Smaato is an in-app mobile monetization platform, whose core auction platform enables app developers to connect with advertising demand partners and generate ad revenue programmatically. The company sought to reduce its networking on outbound bid requests sent to advertising partners, so they developed a traffic filtering service that uses machine learning with Amazon SageMaker and Amazon EMR to predict advertising partners’ likelihood to bid in auctions. “We used to pay very high amount of money in outbound traffic for our bid requests,” says François Guerraz, systems architect at Smaato. “Thanks to machine learning, we’ve been able to predict effectively which demand partners are going to be interested in specific ad requests, and only send the request to a specific subset of the demand partners. We have achieved a 75% cost reduction in outbound network costs.”\n\nWatch this re:Invent session to learn more about how Smaato uses Amazon SageMaker at http://bit.ly/32sNSxa\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #AWSCustomer",
+        "date": "2020-02-28T17:00:13Z",
+        "duration": 107
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "2aIXWdW6POY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon Sumerian | S3 E7 – Integrating Amazon SageMaker for Reinforcement Learning, Pt II",
-        "date": "2019/02/19"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. We recently learned how to start and create a Reinforcement Learning project using Amazon SageMaker. This week, we dive deeper and learn more about the Sumerian side and how to create the visual space and the simulating environment for SageMaker.\n\nMake sure to check out part one of this demo series: https://youtu.be/JsfeY_3-G58\n\nAmazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage as well as Android and iOS mobile devices.\n\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\n\nJoin the Sumerian Slack: https://amazonsumerian.slack.com/join/shared_invite/enQtMjk4MTE2MTMxMzQ4LTliMjM2ZTQ4NDRjZjZkOTAxMzc4OTEyZGI2YzJiZjczNmUxMjM2NGQ0ZGZlNTRkMjI1NGE0MTdkYzZmYzJlNDI\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings/\n\nMusic from Jukedeck: create your own at http://jukedeck.com (http://jukedeck.com/)",
+        "date": "2019-02-19T22:32:45Z",
+        "duration": 3747
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "oBZFH5U6B4s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws",
+            "analytics",
+            "sagemaker",
+            "earth-i",
+            "satellite imagery",
+            "video recognition"
+        ],
         "title": "Earth-i Delivers Planetary Insights from Space with Amazon SageMaker",
-        "date": "2019/10/29"
+        "description": "Find out how AWS can support your business growth at - https://amzn.to/2p8Dfk9.\nDiscover how Earth-i, a provider of high-resolution satellite data and analytics, uses Amazon SageMaker to detect, and extract imagery, video, infra-red and radar from a range of sources, including satellite, drone, aerial, and ground-based sensors. John Linwood, chief technology officer at Earth-i, explains how the company’s decision to utilize AWS enables it to focus on innovation, get closer to customers, reduce costs, and bring products and services to market faster.",
+        "date": "2019-10-29T16:59:40Z",
+        "duration": 77
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "sy5py5m55jw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon SageMaker",
+            "AWS Machine Learning Use cases",
+            "Machine learning case study",
+            "Artificial Inteligence"
+        ],
         "title": "How redBus Uses Amazon SageMaker to Reduce the Time-to-Market [PROMO]",
-        "date": "2019/03/06"
+        "description": "Learn more about AWS Startups at - https://amzn.to/2GL8S9T.\nredBus is one of the largest online bus ticketing platform with 6million+ customers, 2300+ bus operators and 60 million trips booked. Find out how Amazon SageMaker helped redBus increase their conversion rate by 5%, Click-through rate by 20% and reduce the time to market from months to weeks.",
+        "date": "2019-03-06T18:24:48Z",
+        "duration": 29
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "PQXvHjef2hY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit Tel Aviv",
+            "summit",
+            "Adrian Cockroft",
+            "amazon web services",
+            "כנס אמזון",
+            "אמזון ווב סרביסס",
+            "סאמיט 2019"
+        ],
         "title": "AWS Summit Tel Aviv 2019 | Using TensorFlow with Amazon SageMaker",
-        "date": "2019/03/27"
+        "description": "Learn more about AWS at - https://amzn.to/2CxQEWf   \nTensorFlow™ enables developers to quickly and easily get started with deep learning in the cloud. The framework has broad support in the industry and has become a popular choice for deep learning research and application development, particularly in areas such as computer vision, natural language understanding and speech translation.You can get started on AWS with a fully-managed TensorFlow experience with Amazon SageMaker, a platform to build, train, and deploy machine learning models at scale.In this session we will talk about some of the best practices for running TensorFlow on SageMaker, monitoring your progress and managing your TensorFlow models.\n\nView Slides: https://www.slideshare.net/AmazonWebServices/deep-learning-con-tensorflow-and-apache-mxnet-su-amazon-sagemaker?qid=60363b56-4580-4f87-bfae-c1693332e7d6&v=&b=&from_search=6",
+        "date": "2019-03-27T17:11:59Z",
+        "duration": 2551
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "3tHUGmlclI4",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Artificial",
+            "Intelligence",
+            "Machine Learning",
+            "AIM403-R1",
+            "Amazon SageMaker"
+        ],
         "title": "AWS re:Invent 2018: Integrate Amazon SageMaker with Apache Spark, ft. Moody's (AIM403-R1)",
-        "date": "2018/11/30"
+        "description": "Amazon SageMaker, our fully managed machine learning platform, comes with pre-built algorithms and popular deep learning frameworks. Amazon SageMaker also includes an Apache Spark library that you can use to easily train models from your Spark clusters. In this code-level session, we show you how to integrate your Apache Spark application with Amazon SageMaker. We also dive deep into starting training jobs from Spark, integrating training jobs in Spark pipelines, and more. Complete Title: AWS re:Invent 2018: [REPEAT 1] Integrate Amazon SageMaker with Apache Spark, ft. Moody's (AIM403-R1)",
+        "date": "2018-11-30T16:32:53Z",
+        "duration": 3806
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "Qv39_P4ONSg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Sagemaker",
+            "apache",
+            "Twitch",
+            "live coding"
+        ],
         "title": "Amazon SageMaker- Feature Launches",
-        "date": "2018/04/10"
+        "description": "Amazon SageMaker now supports TensorFlow version 1.6 and Apache MXNet version 1.1 in its pre-built Docker containers, now released as open source on GitHub - https://amzn.to/2Hi4AqY. These containers can now be downloaded to your local environment for testing before deployment. Amazon SageMaker also supports more instance types across all modules, including all Amazon EC2 M5 instance types for training and hosting.",
+        "date": "2018-04-10T16:58:20Z",
+        "duration": 937
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "DcPBCiFfDEs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "reinvent",
+            "machine learning"
+        ],
         "title": "AWS Builders' Day | Machine Learning: From Notebook to Production with Amazon Sagemaker",
-        "date": "2018/02/14"
+        "description": "Check out the upcoming schedule, previous recordings, and links to the resources discussed at - http://amzn.to/2Hg2hBV.\n\nAmazon AI services bring natural language understanding (NLU), automatic speech recognition (ASR), visual search and image recognition, text-to-speech (TTS), and machine learning (ML) technologies within the reach of every developer. Learn how you can easily add these powerful features to your applications to enhance the way they interact with the real world.\n\nGet started with Machine Learning at https://aws.amazon.com/machine-learning/.",
+        "date": "2018-02-14T18:18:48Z",
+        "duration": 3555
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "75f7gKZOHXA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "SageMaker",
+            "Amazon SageMaker",
+            "AWS Sagemaker"
+        ],
         "title": "AWS Partner Webinar: Amazon SageMaker: The 4 Components and Interoperability",
-        "date": "2019/08/12"
+        "description": "Learn more about Amazon SageMaker at – https://amzn.to/33tHVjY \nTake advantage of SageMaker's 4 independent architectural components. You can pick all or just one depending on your unique requirements. Presented by Rumi Olsen, AWS Partner Solution Architect",
+        "date": "2019-08-12T17:18:42Z",
+        "duration": 2888
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "ami2RFJBrsI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Chicago Summit 2018",
+            "Twitch",
+            "Amazon SageMaker",
+            "ML",
+            "machine learning"
+        ],
         "title": "Chicago Summit 2018 - Machine Learning with Amazon SageMaker - Algorithms and Frameworks",
-        "date": "2018/08/20"
+        "description": "Learn more about Amazon SageMaker at - https://amzn.to/2MD0nAY.\nAlgorithms and frameworks form a fundamental part of machine learning (ML). These critical components enable developers and data scientists to easily and quickly build ML models with well-defined interfaces for a range of use cases. The most commonly used algorithms and frameworks, built-in with Amazon SageMaker, make ML easier to address these use cases. In this session, we discussed the built-in algorithms and frameworks and how you can leverage them for your ML models. We also discussed the flexibility of bringing your own algorithm into Amazon SageMaker depending on your needs.",
+        "date": "2018-08-20T23:07:06Z",
+        "duration": 3584
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "ae08a6Bp5lM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon SageMaker’s Built-in Algorithm Webinar Series: Linear Learner",
-        "date": "2018/11/19"
+        "description": "The SageMaker built-in algorithm, Linear Learner, can train as a binary or multi-classification model as well as linear regression. Join Chris Burns, AWS Partner Solution Architect, as he dives deep into the use cases for Linear Learner. Learn more at - https://amzn.to/2OT1ppw.\n\nLearn more - https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html",
+        "date": "2018-11-19T21:34:24Z",
+        "duration": 3535
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "xbB0thXcVAo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws builder sday",
+            "builders day",
+            "developers",
+            "buildon",
+            "AI",
+            "artificial intelligence",
+            "machine learning",
+            "Amazon sagemaker",
+            "reinforcement learning"
+        ],
         "title": "AWS Builders' Day | An Introduction to Reinforcement Learning with Amazon SageMaker RL",
-        "date": "2018/12/19"
+        "description": "See what you can build: https://amzn.to/2ryQs3a.\nGet started with Machine Learning at https://aws.amazon.com/machine-learning/.\n\nAmazon AI services bring natural language understanding (NLU), automatic speech recognition (ASR), visual search and image recognition, text-to-speech (TTS), and machine learning (ML) technologies within the reach of every developer. Learn how you can easily add these powerful features to your applications to enhance the way they interact with the real world.",
+        "date": "2018-12-19T18:46:41Z",
+        "duration": 3556
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "CDg55-GkIm4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon SageMaker",
+            "SageMaker",
+            "Machine Learning",
+            "ML",
+            "Training",
+            "Distributed Training",
+            "ML Models",
+            "Build",
+            "Train",
+            "Deploy",
+            "Ground Truth",
+            "Data labeling"
+        ],
         "title": "Scale up Training of Your ML Models with Distributed Training on Amazon SageMaker",
-        "date": "2019/09/11"
+        "description": "Learn more about Amazon SageMaker at – https://amzn.to/2lHDj8l \nAmazon SageMaker enables you to train faster.  You can add more data to your machine learning models and achieve the same results with distributed training.",
+        "date": "2019-09-11T20:18:42Z",
+        "duration": 919
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "ATCXCcrA0oE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS in the Public Sector"
+        ],
         "title": "Course Hero uses Amazon Athena for big data processing, Amazon SageMaker to personalize searches",
-        "date": "2019/11/06"
+        "description": "Course Hero uses Amazon Web Services (AWS) to autoscale its web and mobile applications to meet customer demands 24 hours a day, year round with high availability and disaster recovery and to process big data. Course Hero is an EdTech with a vision of every student graduating confident and prepared for life after school. Course Hero puts all of its data into Amazon S3 and uses Amazon Athena to query big data. To personalize search and recommendations for students, Course Hero uses Amazon SageMaker.",
+        "date": "2019-11-06T16:09:31Z",
+        "duration": 140
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "34cyqyLN6wU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "SageMaker",
+            "Amazon SageMaker",
+            "Ground Truth",
+            "SageMaker Ground Truth",
+            "AWS Ground Truth"
+        ],
         "title": "AWS Partner Webinar: Building Integrations with Amazon SageMaker Ground Truth",
-        "date": "2019/08/12"
+        "description": "Learn more about Amazon SageMaker Ground Truth at – https://amzn.to/2yN29qJ \nAmazon SageMaker Ground Truth helps you build highly accurate training datasets for machine learning quickly. SageMaker Ground Truth offers easy access to public and private human labelers and provides them with built-in workflows and interfaces for common labeling tasks. Additionally, SageMaker Ground Truth can lower labeling costs by up to 70% using automatic labeling. For more information about Amazon SageMaker Ground Truth, check out this page: https://aws.amazon.com/sagemaker/groundtruth/",
+        "date": "2019-08-12T17:18:43Z",
+        "duration": 2379
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "oQOQ8nvgu1w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon SageMaker",
+            "SageMaker",
+            "Machine Learning",
+            "ML",
+            "Ground Truth",
+            "Label",
+            "Training Data",
+            "Active Learning",
+            "ML Models",
+            "Build",
+            "Train",
+            "Deploy",
+            "Data labeling"
+        ],
         "title": "Build Highly Accurate Training Datasets at Reduced Costs with Amazon SageMaker Ground Truth",
-        "date": "2019/09/11"
+        "description": "Learn more about Amazon SageMaker Ground Truth at – https://amzn.to/2kEGGNb \nSuccessful machine learning models are built on the foundation of large volumes of high-quality training data. With Amazon SageMaker Ground Truth you can create highly accurate training datasets at reduced costs, leveraging human labelers as well as active learning.",
+        "date": "2019-09-11T20:18:45Z",
+        "duration": 839
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "c2TGPlvAHLs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Machine Learning",
+            "Financial Services",
+            "Biometrics",
+            "Amazon Redshift",
+            "Amazon SageMaker",
+            "Amazon Simple Queue Service (SQS)",
+            "Amazon Simple Storage Service (S3)",
+            "AWS Lambda",
+            "AWS Step Functions",
+            "Amazon API Gateway",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "NuData Security: Identity Validation with Amazon SageMaker",
-        "date": "2019/08/05"
+        "description": "In this episode of This is My Architecture - https://amzn.to/2K3Aet1, NuData Security, a Mastercard company, digs into a machine learning solution that they built with Amazon SageMaker and their state-of-the-art rules engine. You'll learn how they train and host multiple ML models in parallel, use Step Functions to coordinate workflows, leverage Redshift for exploratory analytics, and use Lambda and API Gateway for a serverless RESTful API.\n\nHost: Matt Yanchyshyn, Director, Architecture Practice & Guidance, AWS\nCustomer: Justin Fox, Director, DevOps Engineering\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-08-05T20:57:26Z",
+        "duration": 514
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "pZIV5NWfGIU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon SageMaker’s Built-in Algorithm Webinar Series: Sequence2Sequence",
-        "date": "2018/11/19"
+        "description": "In this webinar which covers the Sequence to Sequence algorithm used by Amazon SageMaker- https://amzn.to/2KgKmNv, Pratap Ramamurthy, AWS Partner Solution Architect, will deep dive into a use case for Natural Language Processing and Neural Machine Translation. \n\nLearn more - https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html",
+        "date": "2018-11-19T21:31:13Z",
+        "duration": 3652
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "SDQZMSpvR8U",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference 2018"
+        ],
         "title": "Manage Deep Learning Models at Scale with Amazon SageMaker (Level 300)",
-        "date": "2018/08/24"
+        "description": "Learn more about the AWS Innovate Online Conference at - https://amzn.to/2MPxL7x.\nAmazon SageMaker is a fully managed service that enables data scientists and developers to quickly and easily build, train, and deploy ML models at scale with zero setup. It significantly decreases your training time and the overall cost of building production ML systems. In this session, we describe the features of Amazon SageMaker, including the one-click training environment and highly optimized ML algorithms with built-in model tuning, and we show you how to deploy ML models at scale without engineering effort.\n\nSpeaker: Jan Haak, Global Solution Architect, Amazon Web Services",
+        "date": "2018-08-24T19:52:34Z",
+        "duration": 1629
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "9BWHR4JsTNU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "SageMaker",
+            "machine learning",
+            "RCF",
+            "random cut forest",
+            "ml algorithm",
+            "sagemaker algorithm",
+            "Amazon SageMaker",
+            "AWS SageMaker"
+        ],
         "title": "AWS Partner Webinar: Random Cut Forest on Amazon SageMaker",
-        "date": "2019/08/12"
+        "description": "Learn more about Amazon SageMaker Random Cut Forest (RCF) – https://amzn.to/2Kkmg5X \nAmazon SageMaker Random Cut Forest (RCF) is an unsupervised algorithm for detecting anomalous data points within a data set. These are observations which diverge from otherwise well-structured or patterned data. Anomalies can manifest as unexpected spikes in time series data, breaks in periodicity, or unclassifiable data points. In this webinar, Chris Burns from AWS will dive deep into some examples showing you how to best use RCF within Amazon SageMaker.",
+        "date": "2019-08-12T17:18:25Z",
+        "duration": 2705
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "GcJ6uK_jur4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit New York",
+            "AWS NY Summit",
+            "Amazon SageMaker",
+            "Dr. Werner Vogels"
+        ],
         "title": "AWS Summit New York 2018 - Announcing Amazon SageMaker",
-        "date": "2018/07/18"
+        "description": "Watch the Amazon SageMaker announcements at the AWS Summit in New York. Learn more about AWS at - https://amzn.to/2zMtT22.",
+        "date": "2018-07-18T19:28:55Z",
+        "duration": 282
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "g8UYGh0tlK0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon SageMaker’s Built-in Algorithm Webinar Series: DeepAR Forecasting",
-        "date": "2018/11/19"
+        "description": "In this webinar, Kris Skrinak, AWS Partner Solution Architect, will deep dive into time series forecasting with deep neural networks using Amazon SageMaker built-in algorithm: DeepAR Forecasting. Learn more at - https://amzn.to/2Q73Vgr.\n\nLearn more - https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html",
+        "date": "2018-11-19T21:31:00Z",
+        "duration": 3221
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "THcH0tMdZ6o",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon SageMaker’s Built-in Algorithm Webinar Series: XGBoost",
-        "date": "2018/11/19"
+        "description": "Watch Kris Skrinak, AWS Partner Solution Architect, demonstrate why XGBoost built into Amazon SageMaker is the ultimate weapon in Machine Learning. Learn more at - https://amzn.to/2TrFx8o.\n\nLearn more - https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html",
+        "date": "2018-11-19T21:31:29Z",
+        "duration": 3662
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "Ac5m4-xWtCU",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "AIM307",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "British Airways",
+            "Amazon SageMaker"
+        ],
         "title": "AWS re:Invent 2019: Amazon SageMaker deep dive: A modular solution for machine learning (AIM307)",
-        "date": "2019/12/06"
+        "description": "Amazon SageMaker is a fully managed service that offers developers and data scientists the flexibility to build, train, and deploy machine learning models through modular capabilities. In this session, we dive deep into the technical details of each module so you understand how to label and prepare your data, choose an algorithm, train and optimize the model, and make predictions. We also discuss practical deployments of Amazon SageMaker through real-world customer examples.",
+        "date": "2019-12-07T06:06:47Z",
+        "duration": 3341
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "E04JXdnPN0w",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Amazon SageMaker",
+            "AIM375-P"
+        ],
         "title": "AWS re:Invent 2019: Natural language modeling with Amazon SageMaker BlazingText algorithm (AIM375-P)",
-        "date": "2019/12/05"
+        "description": "This presentation was recorded prior to re:Invent. In this session, we showcase the power of machine learning in taking a large corpus of a foreign language text (we use the entire Wikipedia) and automatically learning word embeddings for that language. This is typically the first key step in building natural language processing (NLP) solutions, such as text classification or topic modeling. You see how easy it is to apply the BlazingText algorithm built into Amazon SageMaker in order to process the entire contents of Wikipedia in this language and visualize the results. You then can apply these learnings to any language of your choice.",
+        "date": "2019-12-05T22:36:17Z",
+        "duration": 3037
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "kou1gQmSmCU",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "AIM214-R1",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "1977"
+        ],
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Introducing Amazon SageMaker Studio, full IDE for ML (AIM214-R1)",
-        "date": "2019/12/10"
+        "description": "Machine learning (ML) is a complex, iterative, often time-consuming process. One difficult aspect is the lack of integration between the workflow steps and the tools to accomplish them. Join us as we introduce Amazon SageMaker Studio, the first full integrated development environment (IDE) for ML that makes it easy to build, train, tune, debug, deploy, and monitor ML models at scale. It pulls together the ML workflow steps in a unified, visual interface—since they’re performed and tracked within one environment, the non-linear and iterative nature of ML development is greatly simplified. You can quickly move between steps, compare results and adjust inputs and parameters, and iterate faster with Amazon SageMaker Studio.",
+        "date": "2019-12-10T18:44:26Z",
+        "duration": 2971
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "4B3AhgVjMzk",
-        "title": "Automatically Build Models With Amazon Sagemaker (Level 400)",
-        "date": "2020/09/01"
+        "tags": [
+            "Data Scientist",
+            "AWS Summit Online EMEA"
+        ],
+        "title": "I'm a Data Scientist - Automatically Build Models With Amazon Sagemaker (Level 400)",
+        "description": "In this session, you learn how to build high performance models. We first show you how automatic model tuning eliminates the need to manually pick the right training parameters, or hyperparameters, which is a critical step in training high accuracy models. We then discuss Amazon SageMaker Autopilot, a recent capability that automatically creates the best model for your dataset, with data preprocessing, feature engineering, algorithm selection, and model tuning.\n\nAs a Global AI & Machine Learning Evangelist, Julien focuses on helping developers and enterprises bring their ideas to life. He frequently speaks at conferences, blogs on the AWS Blog and Medium, and runs an AI/ML podcast.Prior to joining AWS, Julien served for 10 years as CTO/VP Engineering in top-tier web startups where he led large Software and Ops teams in charge of thousands of servers worldwide. In the process, he fought his way through a wide range of technical, business and procurement issues, which helped him gain a deep understanding of physical infrastructure, its limitations and how cloud computing can help.Last but not least, Julien holds ten AWS certifications.\n\n\nLearn more about AWS at - https://amzn.to/3aXamuR\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
+        "date": "2020-09-01T18:39:51Z",
+        "duration": 1768
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "A04TT68Bd8A",
+        "tags": [
+            "AWS",
+            "Events"
+        ],
         "title": "Deep Demand Forecasting with Amazon SageMaker",
-        "date": "2020/07/21"
+        "description": "Solutions for Amazon SageMaker help you quickly start your ML journey for a variety of use cases and solve common business problems with everything needed to deploy a ML solution including a dataset, AWS CloudFormation template, and reference architecture. In this explainer video, learn how you can use Amazon SageMaker to target resource demands to streamline the decision-making process.\n\nLearn more about Amazon SageMaker at https://amzn.to/3hpfPMU\nGetting started on GitHub at https://bit.ly/30NylYL\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonSageMaker #AWSWebinar",
+        "date": "2020-07-21T20:08:29Z",
+        "duration": 236
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "b0oU8d85Tck",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DEM148"
+        ],
         "title": "AWS re:Invent 2019: Build predictive models using Amazon SageMaker (DEM148)",
-        "date": "2019/12/08"
+        "description": "Amazon SageMaker is fully managed service that you can use to quickly build, train, and deploy machine learning models with little effort and at low cost. This demo walks you through how to build a predictive model using fully managed Jupyter notebooks. We also show you how to easily deploy your model to an auto-scaling cluster spread acorss multiple Availability Zones to deliver both high performance and high availability.",
+        "date": "2019-12-08T23:29:15Z",
+        "duration": 790
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "Nlwz4cU68T8",
+        "tags": [
+            "AWS",
+            "Events",
+            "machine learning",
+            "ml",
+            "sagemaker",
+            "amazon sagemaker",
+            "credit decisions"
+        ],
         "title": "Explaining Credit Decisions with Amazon SageMaker - Webinar",
-        "date": "2020/07/20"
+        "description": "Solutions for Amazon SageMaker accelerate your ML journey by offering a dataset, AWS CloudFormation template, and reference architecture for common ML use cases so you can move quickly from concept to production with just a few clicks. In this webinar, learn how you can use Amazon SageMaker to explain individual predictions from a credit application to identify bias and satisfy regulatory requirements.\n\nLearn more about Amazon SageMaker at https://amzn.to/2Oy7CJE\nCode on GitHub at https://bit.ly/2ZAWEJP\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSWebinar #AmazonSageMaker",
+        "date": "2020-07-20T19:53:17Z",
+        "duration": 4173
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "asuYSd5OmAE",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "AIM327-R1",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Vanguard"
+        ],
         "title": "AWS re:Invent 2019: Security for ML environments w/ Amazon SageMaker, featuring Vanguard (AIM327-R1)",
-        "date": "2019/12/05"
+        "description": "Amazon SageMaker is a modular, fully managed platform that enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale. In this session, we dive deep into the security configurations of Amazon SageMaker components, including notebooks, training, and hosting endpoints. A representative from Vanguard joins us to discuss the company’s use of Amazon SageMaker and its implementation of key controls in a highly regulated environment, including fine-grained access control, end-to-end encryption in transit, encryption at rest with customer master keys (CMKs), private connectivity to all Amazon SageMaker API operations, and comprehensive audit trails for resource and data access. If you want to build secure ML environments, this session is for you.",
+        "date": "2019-12-05T17:59:23Z",
+        "duration": 3231
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "mKVZukgtkcA",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "AIM215-R",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "DevFactory FZ LLC"
+        ],
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Amazon SageMaker Autopilot: Auto-generate ML models (AIM215-R)",
-        "date": "2019/12/10"
+        "description": "Typical approaches to automatic ML don’t provide insights into the data or logic used to create models, forcing you to compromise on accuracy. Join us as we introduce Amazon SageMaker Autopilot, an automated capability that generates ML models and provides complete control and visibility of them. Learn how Autopilot automatically inspects raw data, picks the best set of algorithms, trains multiple models, tunes them, and ranks them based on performance. The result is a recommendation for the best performing model and visibility into the logic and code for how the model was created and what’s in it. Autopilot offers the best combination of automatic model creation with control and visibility.",
+        "date": "2019-12-10T18:44:28Z",
+        "duration": 3175
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "74EeQ2WRTNY",
+        "tags": [
+            "AWS",
+            "Events",
+            "Amazon AI Conclave 2019",
+            "AI Talks",
+            "AI Thought Leadership",
+            "Artificial Intelligence Videos",
+            "Machine Learning",
+            "AIML",
+            "aws events",
+            "aws events 2019"
+        ],
         "title": "Amazon AI Conclave 2019 - Amazon SageMaker: Building and Managing Ml Pipelines at Scale",
-        "date": "2020/02/11"
+        "description": "Speaker - Mukesh Karki - Engineering Manager, Amazon SageMaker\n\nAmazon AI Conclave 2019 is the leading Artificial Intelligence and Machine learning conference held on Dec 19 -20, 2019 in Bangalore. It hosted over 1200 delegates comprising business and technology leaders from startups and enterprises, data scientists, ML developers, data engineers and architects. Sessions at the event covered some of the Amazon’s broadest and deepest set of machine learning and AI services. \n\nLearn more about AWS Machine Learning at https://go.aws/38bsK0F\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSEvents #AmazonAIConclave2019",
+        "date": "2020-02-11T18:57:38Z",
+        "duration": 1484
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "RcvmX_BCLUk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud Computing",
+            "Cloud",
+            "AWS Event",
+            "AWS re:Invent",
+            "AWS reinvent",
+            "re:Invent",
+            "reinvent",
+            "2019",
+            "NerdWallet",
+            "Startup",
+            "Ryan Kirkman",
+            "Sharadh Krishnamurthy",
+            "Amazon SageMaker",
+            "AI",
+            "Machine Learning"
+        ],
         "title": "How Amazon SageMaker Helped NerdWallet Build an Ml Platform",
-        "date": "2020/01/21"
+        "description": "NerdWallet connects millions of users with the best financial products for them, and data science is an important piece. Six months ago, it took months for NerdWallet to launch and iterate on models; now it takes only days.\n\nIn this talk, senior engineering manager, Ryan Kirkman, and staff software engineer, Sharadh Krishnamurthy, explain how NerdWallet massively increased its rate of data science learning by building a machine learning platform on top of Amazon SageMaker and Apache Airflow. They also share how Amazon SageMaker's BYO container feature helped them design a human-centric data science workflow and reuse parts of NerdWallet’s existing build/deploy system. \n\nLearn more about AWS Startups at https://go.aws/2GaKBs2",
+        "date": "2020-01-22T02:55:50Z",
+        "duration": 2336
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "NRMs0_Eu-98",
-        "title": "Build NLP Models with Amazon SageMaker (Level 300)",
-        "date": "2020/09/01"
+        "tags": [
+            "Data Scientist",
+            "AWS Summit Online EMEA"
+        ],
+        "title": "I'm a Data Scientist - Build NLP Models with Amazon SageMaker (Level 300)",
+        "description": "In this session, learn how to build natural language processing (NLP) models using popular frameworks, such as TensorFlow, PyTorch, and Apache MXNet, with Amazon SageMaker—a service for building, training, and deploying machine learning models at any scale. We introduce you to the BERT family of models, and we show you how to implement them with Amazon SageMaker.\n\n\nAntje is a Developer Advocate for AI and Machine Learning at AWS. She is also co-founder of the Düsseldorf chapter of Women in Big Data. Antje frequently speaks at AI and Machine Learning conferences, online events and meetups around the world. Besides AI/ML, Antje is passionate about helping developers leverage Big Data, container and Kubernetes platforms in the context of AI and Machine Learning. Prior to joining AWS, Antje worked in technical evangelist and solutions engineering roles at MapR and Cisco.\n\n\nLearn more about AWS at - https://amzn.to/32i1V9e\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
+        "date": "2020-09-01T18:39:49Z",
+        "duration": 2696
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "G-wzIQQJKaE",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "AIM326-R1",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Lyft",
+            "Amazon SageMaker"
+        ],
         "title": "AWS re:Invent 2019: Implement ML workflows with Kubernetes and Amazon SageMaker (AIM326-R1)",
-        "date": "2019/12/09"
+        "description": "Until recently, data scientists have spent much time performing operational tasks, such as ensuring that frameworks, runtimes, and drivers for CPUs and GPUs work well together. In addition, data scientists needed to design and build end-to-end machine learning (ML) pipelines to orchestrate complex ML workflows for deploying ML models in production. With Amazon SageMaker, data scientists can now focus on creating the best possible models while enabling organizations to easily build and automate end-to-end ML pipelines. In this session, we dive deep into Amazon SageMaker and container technologies, and we discuss how easy it is to integrate such tasks as model training and deployment into Kubernetes and Kubeflow-based ML pipelines.",
+        "date": "2019-12-09T18:55:35Z",
+        "duration": 3484
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "6WJxzKsIFKA",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "AIM308",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Snap",
+            "Amazon SageMaker"
+        ],
         "title": "AWS re:Invent 2019: Build accurate training datasets with Amazon SageMaker Ground Truth (AIM308)",
-        "date": "2019/12/05"
+        "description": "Successful machine learning models are built on high-quality training datasets. Typically, the task of data labeling is distributed across a large number of humans, adding significant overhead and cost. This session explains how Amazon SageMaker Ground Truth reduces cost and complexity using techniques designed to improve labeling accuracy and reduce human effort. We walk through best practices for building highly accurate training datasets and discuss how you can use Amazon SageMaker Ground Truth to implement them.",
+        "date": "2019-12-05T17:59:20Z",
+        "duration": 3406
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "K59N25u4zak",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "AIM230-R1",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Pinterest"
+        ],
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] New Amazon SageMaker notebook experience (AIM230-R1)",
-        "date": "2019/12/10"
+        "description": "Typically, starting notebooks requires spinning up compute instances, and there was previously no easy way to share and collaborate without tracking dependencies and other restrictions. Join us as we introduce the new Amazon SageMaker notebooks experience, which allows you to access notebooks in seconds without spinning up compute instances. The elastic notebooks allow you to easily scale compute up or down, and the changes take place automatically without interrupting your work. You can share notebooks by automatically reproducing the environment and library dependencies without manually tracking them so others can reproduce the results with the same data. With this new experience, you can build models faster and collaborate at scale.",
+        "date": "2019-12-10T18:20:45Z",
+        "duration": 3673
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "P_oCAbSYRwY",
+        "tags": [
+            "AWS",
+            "Events",
+            "machine learning",
+            "ml",
+            "graph neural networks",
+            "sagemaker"
+        ],
         "title": "Fraud Detection in Financial Transaction Networks with Amazon SageMaker - Webinar",
-        "date": "2020/07/21"
+        "description": "Learn more about Amazon SageMaker at - https://bit.ly/2B7yBZx\nCode on GitHub at - https://bit.ly/32BXRmb \n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n \n#AWS #AWSWebinar",
+        "date": "2020-07-21T18:14:07Z",
+        "duration": 2343
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "whPKYfXTtw4",
+        "tags": [
+            "AWS",
+            "Events",
+            "machine learning",
+            "ml",
+            "sagemaker",
+            "amazon sagemaker",
+            "fraud detection",
+            "Amazon SageMaker"
+        ],
         "title": "Fraud Detection with Amazon SageMaker",
-        "date": "2020/07/28"
+        "description": "Solutions for Amazon SageMaker help you quickly start your ML journey for a variety of use cases and solve common business problems with everything needed to deploy a ML solution including a dataset, AWS CloudFormation template, and reference architecture. \n\nIn this explainer video, learn how you can use Amazon SageMaker to automate the detection of potentially fraudulent activity and flag activity for review.\n\nLearn more about Amazon SageMaker at https://amzn.to/3honn2g\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonSageMaker #AWSWebinar",
+        "date": "2020-07-28T23:03:02Z",
+        "duration": 235
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "vRB9Uncsia8",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "AIM311-R1",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Texas Instrument",
+            "Amazon Elastic Inference"
+        ],
         "title": "AWS re:Invent 2019: The right instance type in Amazon SageMaker, ft. Texas Instruments (AIM311-R1)",
-        "date": "2019/12/08"
+        "description": "Amazon SageMaker, a fully managed service for machine learning, offers several compute capabilities and instance types to meet the needs of your use case. In this session, we review the compute options available to you, including GPUs, CPUs, AWS Inferentia, Amazon SageMaker Neo, and Amazon Elastic Inference. We discuss best practices and key criteria to choose the right capabilities that meet the specific needs of your machine learning workload.",
+        "date": "2019-12-08T23:29:07Z",
+        "duration": 3594
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "BvXtbtKkFQE",
+        "tags": [
+            "Kapil",
+            "AI/ML",
+            "AWS",
+            "Amazon Web Services",
+            "SageMaker Model Monitor",
+            "Sagemaker",
+            "Amazon",
+            "Pendse",
+            "SageMaker Debugger",
+            "Machine Learning",
+            "Cloud Computing",
+            "AWS Summit Online ASEAN re:Cap",
+            "ML"
+        ],
         "title": "AWS Summit Online ASEAN 2020 | Amazon SageMaker Features to Accelerate Your Machine Learning Journey",
-        "date": "2020/08/28"
+        "description": "Amazon SageMaker is used by thousands of customers to help build, tune and deploy their ML models. In this session, we look at some new features recently released to help customers boost their ML journeys on AWS.\n\nAWS Speaker: Elgin Lam, Sr. Prototyping Engineer, AWS\n\nDownload the slides: https://go.aws/2VYMlgQ\n\nLearn more about AWS at - https://amzn.to/3iIMRYS\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
+        "date": "2020-08-28T18:02:39Z",
+        "duration": 2012
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "4hPWEcXbhHI",
+        "tags": [
+            "AWS",
+            "Events",
+            "machine learning",
+            "ml",
+            "graph neural networks",
+            "sagemaker",
+            "Amazon SageMaker"
+        ],
         "title": "Fraud Detection in Financial Transaction Networks with Amazon SageMaker",
-        "date": "2020/07/28"
+        "description": "Solutions for Amazon SageMaker help you quickly start your ML journey for a variety of use cases and solve common business problems with everything needed to deploy a ML solution including a dataset, AWS CloudFormation template, and reference architecture.\n\nIn this explainer video, learn how you can use Amazon SageMaker to find fraudulent cases in a financial transaction network of transactions (e.g. a knowledge graph) by using graph neural networks.\n\nLearn more about Amazon SageMaker at https://amzn.to/32IoINw\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonSageMaker #AWSWebinar",
+        "date": "2020-07-28T23:02:08Z",
+        "duration": 193
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "fgLlEnhFZQA",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "AIM326-R",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Zalando",
+            "Amazon SageMaker"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT] Implement ML workflows with Kubernetes and Amazon SageMaker (AIM326-R)",
-        "date": "2019/12/03"
+        "description": "Until recently, data scientists have spent much time performing operational tasks, such as ensuring that frameworks, runtimes, and drivers for CPUs and GPUs work well together. In addition, data scientists needed to design and build end-to-end machine learning (ML) pipelines to orchestrate complex ML workflows for deploying ML models in production. With Amazon SageMaker, data scientists can now focus on creating the best possible models while enabling organizations to easily build and automate end-to-end ML pipelines. In this session, we dive deep into Amazon SageMaker and container technologies, and we discuss how easy it is to integrate such tasks as model training and deployment into Kubernetes and Kubeflow-based ML pipelines.",
+        "date": "2019-12-03T18:03:30Z",
+        "duration": 3286
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "elRQPCHDBPE",
+        "tags": [
+            "AWS",
+            "Events",
+            "healthcare",
+            "cloud",
+            "covid-19",
+            "coronavirus",
+            "life sciences",
+            "vaccine",
+            "drug discovery",
+            "telemedicine",
+            "genomics"
+        ],
         "title": "Fraud Detection with Amazon SageMaker - Webinar",
-        "date": "2020/07/21"
+        "description": "Solutions for Amazon SageMaker accelerate your ML journey by offering a dataset, AWS CloudFormation template, and reference architecture for common ML use cases so you can move quickly from concept to production with just a few clicks. In this webinar, learn how you can use Amazon SageMaker to automate the detection of potentially fraudulent activity and flag activity for review.\n\nLearn more about Amazon Sagemaker at - https://amzn.to/3fRx7lz\nCode on Github at - https://bit.ly/2OFWkTI\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSWebinar",
+        "date": "2020-07-21T18:17:29Z",
+        "duration": 1928
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "l75sikQOvzs",
+        "tags": [
+            "AWS",
+            "Events",
+            "Amazon AI Conclave 2019",
+            "AI Talks",
+            "AI Thought Leadership",
+            "Artificial Intelligence Videos",
+            "Machine Learning",
+            "AIML"
+        ],
         "title": "Amazon AI Conclave 2019 - Amazon SageMaker: Rapid Model Development",
-        "date": "2020/03/02"
+        "description": "Speaker - Vidhi Kastuar - Senior Product Manager, Amazon SageMaker\n\nAmazon AI Conclave 2019 is the leading Artificial Intelligence and Machine learning conference held on Dec 19 -20, 2019 in Bangalore. It hosted over 1200 delegates comprising business and technology leaders from startups and enterprises, data scientists, ML developers, data engineers and architects. Sessions at the event covered some of the Amazon’s broadest and deepest set of machine learning and AI services. Learn more about Amazon AI Conclave at https://aws.amazon.com/events/ai_conclave/\n\nLearn more about AWS Machine Learning at - https://go.aws/38dSrwD\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #MachineLearning #Sagemaker",
+        "date": "2020-03-02T21:47:34Z",
+        "duration": 1906
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "FKgivdwzO5g",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ADM302-R1",
+            "Advertising & Marketing",
+            "Smaato",
+            "Amazon SageMaker"
+        ],
         "title": "AWS re:Invent 2019: End-to-end machine learning using Spark and Amazon SageMaker (ADM302-R1)",
-        "date": "2019/12/08"
+        "description": "Learn how AWS customers are developing production-ready machine learning models to optimize auction dynamics and bid pricing—all within the millisecond latency requirements of programmatic ad buying. Forget “hello world” ML tutorials; instead we dive deep into an example of how to train models for terabyte-scale advertising data cost-effectively. Find out how to create environments for machine learning engineers so they can prototype and explore with TensorFlow before executing it in distributed systems using Spark and Amazon SageMaker. We explain productionizing models and deployment, which we then back up with real-life examples.",
+        "date": "2019-12-08T23:38:39Z",
+        "duration": 3479
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "9uNlSANqvSQ",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DEM27-S",
+            "Slalom"
+        ],
         "title": "AWS re:Invent 2019: Drive transformation through machine learning with Amazon SageMaker (DEM27-S)",
-        "date": "2019/12/04"
+        "description": "An organization’s machine learning-driven business transformation depends on how well that organization can manage change. Its people will have new roles, responsibilities, and skill sets, and it will need to implement new processes, such as efficiently migrating its data and existing models. In this session, explore a comprehensive approach to migrating analytics workloads to Amazon SageMaker. Join us and learn how to train, communicate, and succeed at change management; operationalize and automate machine learning; and migrate data, workflows, and models using AWS-powered solutions. See how one Slalom customer gained valuable insights and vision, enabling it to build a modern strategy. This presentation is brought to you by Slalom, an APN Partner.",
+        "date": "2019-12-04T17:29:36Z",
+        "duration": 1148
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "S8907xvgGso",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "AIM216-R1",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Change Healthcare"
+        ],
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Amazon SageMaker Debugger: Insights into ML model (AIM216-R1)",
-        "date": "2019/12/10"
+        "description": "During ML model training, it’s challenging to ensure that models are progressively learning the correct values for different parameters and to analyze and debug model characteristics without building additional tools, making the process time-consuming and cumbersome. Come learn about Amazon SageMaker Debugger, a new capability that provides complete insights into the training process by automating data capture and analysis from training runs without code changes. Learn how you can analyze data using the Amazon SageMaker Studio visual interface and be alerted when anomalies and errors are detected, reducing the time needed to debug models from days to minutes. Amazon SageMaker Debugger helps you solve problems quickly, reduce troubleshooting time during training, and build high-quality models.",
+        "date": "2019-12-10T18:44:33Z",
+        "duration": 2693
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "x-HoZLdUOyU",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "AIM216-R",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Autodesk"
+        ],
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Amazon SageMaker Debugger: Insights into ML model (AIM216-R)",
-        "date": "2019/12/10"
+        "description": "During ML model training, it’s challenging to ensure that models are progressively learning the correct values for different parameters and to analyze and debug model characteristics without building additional tools, making the process time-consuming and cumbersome. Come learn about Amazon SageMaker Debugger, a new capability that provides complete insights into the training process by automating data capture and analysis from training runs without code changes. Learn how you can analyze data using the Amazon SageMaker Studio visual interface and be alerted when anomalies and errors are detected, reducing the time needed to debug models from days to minutes. Amazon SageMaker Debugger helps you solve problems quickly, reduce troubleshooting time during training, and build high-quality models.",
+        "date": "2019-12-10T18:44:31Z",
+        "duration": 2227
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "TdWn1YZggLw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "Cloud Computing",
+            "AWS Cloud",
+            "AWS Event",
+            "re:Invent. reinvent",
+            "2019",
+            "re:Invent 2019",
+            "reinvent 2019",
+            "Nauto",
+            "Lei Pan",
+            "Autonomous Vehicles",
+            "Machine Learning",
+            "Computer Vision",
+            "Amazon SageMaker",
+            "AWS Messaging Services",
+            "Amazon SNS",
+            "Amazon SQS",
+            "Amazon ECS",
+            "AI",
+            "Safe Driving"
+        ],
         "title": "Safer Driving Using Amazon SageMaker and AWS Messaging Services",
-        "date": "2020/01/21"
+        "description": "AI technology company Nauto improves commercial fleet safety with an intelligent driver safety system that analyzes how drivers interact with the vehicle and the road, to prevent distracted driving and collisions.\n\nIn this talk, Nauto's director of engineering, Lei Pan, shares how Nauto leverages Amazon SageMaker and the core messaging services Amazon SNS and Amazon SQS to continually evolve the intelligence of its dash cameras and other IoT devices. He also discusses how Nauto reduces model training overhead through strong central governance, workload standardization, and efficient utilization of GPUs and containers via Amazon ECS. \n\nLearn more about AWS Startups at https://go.aws/2sNc5RJ",
+        "date": "2020-01-21T23:59:58Z",
+        "duration": 2035
     },
     {
         "service": "amazon_sagemaker",
         "videoId": "Lfp2OJFLkzw",
+        "tags": [
+            "programming",
+            "aws",
+            "reinvent",
+            "ai",
+            "ml",
+            "developer",
+            "cloud computing",
+            "software",
+            "Aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "reinvent 2019",
+            "aws launchpad"
+        ],
         "title": "AWS re:Invent 2019 Launchpad | Amazon SageMaker Operators for Kubernetes",
-        "date": "2020/03/17"
+        "description": "Subscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #reInvent2019 #AWSLaunchpad",
+        "date": "2020-03-17T21:23:31Z",
+        "duration": 944
     }
 ]

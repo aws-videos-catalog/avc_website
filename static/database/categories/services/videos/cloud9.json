@@ -2,55 +2,166 @@
     {
         "service": "cloud9",
         "videoId": "JDHZOGMMkj8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Cloud9",
+            "c9.io",
+            "online IDE",
+            "pair programming"
+        ],
         "title": "Introduction to AWS Cloud9",
-        "date": "2019/01/22"
+        "description": "An introduction to AWS Cloud9 - https://amzn.to/2FtjY3g, a cloud IDE for writing, running, and debugging code with Leo Zhadanovsky, Principal Solutions Architect with AWS. Also, watch the second video - https://youtu.be/ynmU5qy82Vg in this series, to learn how to develop Lambda Functions using Cloud9.",
+        "date": "2019-01-22T21:07:31Z",
+        "duration": 217
     },
     {
         "service": "cloud9",
         "videoId": "ynmU5qy82Vg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Cloud9",
+            "c9.io",
+            "online IDE",
+            "pair programming"
+        ],
         "title": "Using AWS Cloud9 to Edit, Debug, and Deploy a Lambda Function",
-        "date": "2019/01/22"
+        "description": "Learn how to edit, debug, and deploy a Lambda Function using AWS Cloud9 - https://amzn.to/2RSR9TC, a cloud IDE for writing, running, and debugging code. Follow along as Leo Zhadanovsky, Principal Solutions Architect with AWS, demonstrates how to develop Lambda Functions using Cloud9. Check out this video - https://youtu.be/JDHZOGMMkj8 for an introduction to Cloud9.",
+        "date": "2019-01-22T21:07:40Z",
+        "duration": 367
     },
     {
         "service": "cloud9",
         "videoId": "OxQUo3kwTEA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Developer",
+            "AWS Cloud9",
+            "ANZ Webinar Series"
+        ],
         "title": "AWS ANZ Webinar Series - Introducing AWS Cloud9",
-        "date": "2018/09/28"
+        "description": "Register for our upcoming webinars at - https://amzn.to/2QKdfnV.\nCome learn all about AWS Cloud9, the integrated development environment (IDE) in the cloud. In this webinar we’ll give an overview of Cloud9 and do a live demo of exciting features and use cases.\n\nWith AWS Cloud9 you can write, run, and debug code with just a browser. It includes a code editor, debugger, and terminal. Cloud9 comes pre-packaged with essential tools for popular programming languages including JavaScript, Python, PHP, and more, so you don’t need to install files or configure your development machine to start new projects. Cloud9 also provides a seamless experience for developing serverless applications allowing you to easily define resources, debug, and switch between local and remote execution of serverless applications. With Cloud9, you can quickly share your development environment with your team, allowing you to pair program and track each other’s inputs in real-time.",
+        "date": "2018-09-28T20:10:51Z",
+        "duration": 3273
     },
     {
         "service": "cloud9",
         "videoId": "fwFoU_Wb-fU",
+        "tags": [
+            "re:Invent 2017",
+            "AWS",
+            "Werner Vogels",
+            "Amazon Web Services",
+            "AWS Cloud9",
+            "cloud",
+            "cloud computing",
+            "keynote"
+        ],
         "title": "AWS re:Invent 2017 - Introducing AWS Cloud9: Werner Vogels Keynote",
-        "date": "2017/12/04"
+        "description": "Learn about AWS Cloud9, a cloud-based IDE to write, run, and debug code with just a browser. For more information on AWS Cloud9, visit - http://amzn.to/2BtneFX.",
+        "date": "2017-12-04T22:34:35Z",
+        "duration": 566
     },
     {
         "service": "cloud9",
         "videoId": "NNqVBo9k8n4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - AWS Cloud9",
-        "date": "2017/12/08"
+        "description": "AWS Cloud9 is a cloud-based development environment (IDE) that lets you write, run, and debug your code with just a browser. It includes a code editor, debugger, and terminal. Learn more at - http://amzn.to/2Aw6CkU.\n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:36:01Z",
+        "duration": 914
     },
     {
         "service": "cloud9",
         "videoId": "B-nbl0qYsQg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Sydney Summit 2018",
+            "AWS Cloud9",
+            "AWS Codestar"
+        ],
         "title": "AWS Sydney Summit 2018: AWS Cloud9 and Codestar",
-        "date": "2018/05/21"
+        "description": "Tired of wasting time on setting up development environments and CI/CD pipelines? In this session we will talk about how Cloud9 and CodeStar can be used to start new development projects quickly and easily, with a focus on Serverless development.\n\nGet started with Amazon Cloud9: https://console.aws.amazon.com/cloud9",
+        "date": "2018-05-21T18:59:00Z",
+        "duration": 1510
     },
     {
         "service": "cloud9",
         "videoId": "UFtKfwIyntg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference 2018"
+        ],
         "title": "Streamline Your Serverless Development with AWS Codestar and AWS Cloud9 (Level 200)",
-        "date": "2018/08/24"
+        "description": "Learn more about the AWS Innovate Online Conference at - https://amzn.to/2waCcAj.\nAWS Cloud9 is a cloud-based IDE that enables you to write, run, and debug your code directly in a browser. Together with AWS CodeStar, AWS Cloud9 gets developers up and running quickly with a full CI/CD deployment pipeline, team collaboration, local debugging, and fast, iterative development. In this session, we present the key features provided by AWS Cloud9 and its integration with other AWS services, such as AWS CodeStar and AWS Lambda. We also demonstrate how AWS Cloud9 simplifies the development of serverless applications.\n\nSpeaker: Rohini Gaonkar, Solutions Architect, Amazon Internet Services Private Limited",
+        "date": "2018-08-24T19:52:06Z",
+        "duration": 1258
     },
     {
         "service": "cloud9",
         "videoId": "3ZdvbGArONk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "PowerShell",
+            ".NET",
+            "AWS Cloud9",
+            "Amazon EC2",
+            "Linux",
+            "Ubuntu"
+        ],
         "title": "Setting Up a .NET and PowerShell Development Environment with AWS Cloud9 and Amazon EC2",
-        "date": "2018/06/29"
+        "description": "Learn more about AWS Cloud9 at - https://amzn.to/2lId9iD.\nAre you a .NET or PowerShell developer who wants to set up a consistent, cloud-based development environment that runs directly in your web browser? If so, watch this brief video that demonstrates how to set up an AWS Cloud9 Integrated Development Environment (IDE), with a custom Amazon EC2 instance running Ubuntu Linux!",
+        "date": "2018-06-29T20:22:57Z",
+        "duration": 485
     },
     {
         "service": "cloud9",
         "videoId": "wA2ltwauvRw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Dev Tools",
+            "App Integration",
+            "Financial Services",
+            "AWS Cloud9",
+            "This is My Code",
+            "TMC"
+        ],
         "title": "Truffle: Build and Deploy Ethereum Smart Contracts with Truffle and AWS Cloud9",
-        "date": "2020/03/20"
+        "description": "Tim from Truffle shows us how to build a Decentralized Application (dApp) with Truffle Suite on AWS. Blockchain developers will learn how to write an Ethereum smart contract, configure a project using the Truffle Framework, create a local instance of their Ethereum test network with Ganache, and leverage the collection of front-end libraries that make writing dApp user interfaces easier and more predictable with Drizzle, all from the Cloud9 console.\n\n~Filmed prior to Covid-19~\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4",
+        "date": "2020-03-20T17:21:46Z",
+        "duration": 493
     }
 ]

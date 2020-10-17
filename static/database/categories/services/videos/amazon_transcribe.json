@@ -2,91 +2,267 @@
     {
         "service": "amazon_transcribe",
         "videoId": "oVo-IKiM8Xk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "re:Invent 2017",
+            "Amazon Transcribe",
+            "Andy Jassy"
+        ],
         "title": "AWS re:Invent 2017 - Introducing Amazon Transcribe",
-        "date": "2017/11/30"
+        "description": "Learn more about Amazon Transcribe at - http://amzn.to/2ALmM9d\nPowered by deep learning, Amazon Transcribe is a fully managed and continuously trained automatic speech recognition (ASR) service. With an easy to use API, customers can easily convert speech to text suitable for a wide range of use cases. It places the costly process of manual transcription and human listening with an efficient and scalable alternative. Amazon Transcribe enables customers to tap into this rich repository of voice data for actionable intelligence, and also increase the accessibility and discoverability of their audio and video content.",
+        "date": "2017-11-30T22:58:08Z",
+        "duration": 167
     },
     {
         "service": "amazon_transcribe",
         "videoId": "KQtVK2VzETk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "amazon transcribe",
+            "amazon translate",
+            "automate for efficiency",
+            "twitch"
+        ],
         "title": "Automate for Efficiency with Amazon Transcribe & Amazon Translate",
-        "date": "2018/08/27"
+        "description": "Learn more about Machine Learning at AWS - https://amzn.to/2Nof0Fn.\nWe met with industry experts to discuss machine learning at our San Francisco Loft. In this episode we discussed how to automate for efficiency with Amazon Transcribe and Amazon Translate.\n\nVisit https://aws.amazon.com/twitch for more information on the current live coding shows, upcoming episode schedule, or for recordings of previous broadcasts.",
+        "date": "2018-08-27T19:27:00Z",
+        "duration": 3045
     },
     {
         "service": "amazon_transcribe",
         "videoId": "jE5ey8UM56g",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Speech to text",
+            "transcription",
+            "transcribe",
+            "captioning",
+            "subtitling"
+        ],
         "title": "AWS San Francisco Summit 2018 - Amazon Transcribe is Now Generally Available",
-        "date": "2018/04/20"
+        "description": "Learn more about Amazon Transcribe at - https://amzn.to/2K15CGA.\nPowered by deep learning technologies, Amazon Transcribe is a fully managed and continuously trained automatic speech recognition service automatically generates time-stamped text transcripts from audio files. Learn how Echo360 integrates Amazon Transcribe into its platform to make video more accessible.",
+        "date": "2018-04-20T17:00:36Z",
+        "duration": 1901
     },
     {
         "service": "amazon_transcribe",
         "videoId": "LSiyJG7htFs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            ".NET",
+            "Microsoft",
+            "Translate"
+        ],
         "title": "How to Transcribe Speech to Text with a Sample ASP.NET Core Application and Amazon Transcribe",
-        "date": "2020/08/28"
+        "description": "In this video we will demonstrate how to use  Amazon Transcribe to automatically convert Audio and Audio/Video file to text in your web or native applications using C#. This video covers uploading the tile to Amazon’s Simple Storage Service, calling the Amazon Transcribe service as well as retrieving the results of the transcription.\n\nLearn more about .NET applications on AWS at https://amzn.to/2D3g29Q\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-08-28T19:17:15Z",
+        "duration": 834
     },
     {
         "service": "amazon_transcribe",
         "videoId": "jihc4nAWy14",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Modernize Your Contact Center with AI: Gain Valuable Insights by Transcribing Recordings",
-        "date": "2019/01/14"
+        "description": "Learn more about Amazon Transcribe at https://amzn.to/2sfzmHW, \nAmazon Comprehend at https://amzn.to/2VAfSv8, \nand Amazon Connect at https://amzn.to/2ACTlF2.\n\nGain insights into your Amazon Connect contact center from transcribed call recordings. Analyze call recordings using Amazon Transcribe, a fully managed and continuously trained automatic speech recognition service, and Amazon Comprehend, a natural language processing (NLP) service that uses machine learning to find insights and relationships in text.",
+        "date": "2019-01-14T18:06:18Z",
+        "duration": 334
     },
     {
         "service": "amazon_transcribe",
         "videoId": "nnKXxFNiYQg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Turn Your Words into Pictures with Amazon Transcribe & Amazon Comprehend",
-        "date": "2019/05/24"
+        "description": "https://aws.amazon.com/developer/community/twitch/\nMissed the AWS Sydney Summit 2019? Learn how cloud technology can help your business lower costs, improve efficiency, and innovate at scale. This session is a recording from Innovation Day.",
+        "date": "2019-05-24T16:18:10Z",
+        "duration": 819
     },
     {
         "service": "amazon_transcribe",
         "videoId": "qKABTMSr6L4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit San Francisco 2018",
+            "Twitch",
+            "speech recognition"
+        ],
         "title": "Amazon Transcribe - Now Generally Available",
-        "date": "2018/05/04"
+        "description": "Amazon Transcribe is an automatic speech recognition (ASR) service that makes it easy for developers to add speech-to-text capability to their applications. Learn more at https://amzn.to/2qrX2aC. The service can transcribe audio files stored in common formats, like WAV and MP3, with time stamps for every word so that you can easily locate the audio in the original source by searching for the text.",
+        "date": "2018-05-04T17:13:33Z",
+        "duration": 554
     },
     {
         "service": "amazon_transcribe",
         "videoId": "hbDd-s8ohM8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Echo360 Brings the Power of Machine Learning to the Classroom with Amazon Transcribe",
-        "date": "2018/10/11"
+        "description": "Learn more about Cloud Computing for Education on AWS at - https://amzn.to/2pLnAnx.\nWith Amazon Transcribe’s Automatic Speech Recognition, Echo360 is improving the learning experience for all students by developing capabilities for smarter search, deeper ways to engage with content, and a pathway for colleges and universities to offer effective and affordable closed captioning for all academic video. Echo360 is a leading video and active learning platform company for higher education. Using this service, transcripts from educational sessions can be created automatically and seamlessly integrated into the Echo360 platform.",
+        "date": "2018-10-11T13:49:37Z",
+        "duration": 84
     },
     {
         "service": "amazon_transcribe",
         "videoId": "VmScqDBQ6lU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Transcribe",
+            "re:Invent 2017",
+            "AI",
+            "Artificial Intelligence",
+            "Twitch",
+            "Machine Learning"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - Amazon Transcribe",
-        "date": "2018/05/04"
+        "description": "Amazon Transcribe is an automatic speech recognition (ASR) service that makes it easy for developers to add speech-to-text capability to their applications. Learn more at - http://amzn.to/2jNLpZp.\nUsing the Amazon Transcribe API, you can analyze any audio files stored in a common format (WAV, MP3, etc.) in Amazon Simple Storage Service (S3) and have the service return a text file of all the transcribed speech. \n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2018-05-04T17:19:34Z",
+        "duration": 787
     },
     {
         "service": "amazon_transcribe",
         "videoId": "1ZJ_f1bDdog",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Machine Learning",
+            "MCL215"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Introducing Amazon Transcribe – Now in Preview (MCL215)",
-        "date": "2017/12/01"
+        "description": "Amazon Transcribe is an automatic speech recognition (ASR) service that makes it easy for developers to add speech to text capability to their applications. The ASR service can be used across a breadth of industries. For example, customer contact centers can convert call recordings into text for further analysis of what drives positive outcomes; media content producers can automate subtitling workflows for greater reach, and marketers and advertisers can enhance content discovery and display more targeted advertising based on the extracted metadata.\nJoin this session to learn more and find out how you get can started with Amazon Transcribe, today!",
+        "date": "2017-12-01T16:44:25Z",
+        "duration": 2804
     },
     {
         "service": "amazon_transcribe",
         "videoId": "7QnhGeWsXFM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Lambda",
+            "S3",
+            "serverless",
+            "serverless design pattern",
+            "Amazon Transcribe"
+        ],
         "title": "Serverless Speech-to-Text using S3 and Lambda",
-        "date": "2020/04/30"
+        "description": "See how you can use bring automated speech-to-text into your applications with minimal code. This solution uses Amazon Transcribe to automatically convert mp4 audio clips into text. This type of serverless application can analyze customer support calls, for example, and create a sentiment analysis using Amazon Comprehend. \n\nThe walkthrough application takes the transcribed text and uses Amazon Comprehend for a sentiment analysis score, which it stores in a DynamoDB table. The whole application can listen to an audio clip and derive a sentiment score to indicate if the conversation is generally positive or negative. All the code is available in a GitHub repo.\n\nThis series is about the S3-to-Lambda serverless design pattern, and how it can become a flexible core for your serverless applications. To learn more, see the other videos in this series.\n\nLearn more about AWS Lambda at https://go.aws/2yTDkgb\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-04-30T21:21:21Z",
+        "duration": 447
     },
     {
         "service": "amazon_transcribe",
         "videoId": "5LERC9skDt8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Transcribe",
+            "AWS Summit San Francisco 2018",
+            "Matt Wood",
+            "ASR",
+            "automatic speech recognition"
+        ],
         "title": "AWS Summit San Francisco 2018 - Amazon Transcribe Now Generally Available",
-        "date": "2018/04/09"
+        "description": "Learn more at - https://amzn.to/2EqGZik.\nAmazon Transcribe is an automatic speech recognition (ASR) service that makes it easy for developers to add speech to text capability to their applications. The service can transcribe audio files stored in common formats, like WAV and MP3, with time stamps for every word so you can easily locate the audio in the original source by searching for the text.",
+        "date": "2018-04-09T17:51:52Z",
+        "duration": 35
     },
     {
         "service": "amazon_transcribe",
         "videoId": "oXq_ldpP_Nw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Speech to text",
+            "transcription",
+            "transcribe",
+            "captioning",
+            "subtitling",
+            "Echo360"
+        ],
         "title": "AWS San Francisco Summit 2018 - Echo360",
-        "date": "2018/04/20"
+        "description": "Learn more about Amazon Transcribe at - https://amzn.to/2vyPDfL.\nEcho360 leverages Amazon Transcribe automated speech recognition (ASR) technology to provide effective and affordable video captioning. By offering university partners high-quality transcripts for each video, Echo360 enables search of video content, and enhanced note-taking – making learning assets more valuable and accessible to students",
+        "date": "2018-04-20T16:58:58Z",
+        "duration": 540
     },
     {
         "service": "amazon_transcribe",
         "videoId": "HRxOzWMbQBw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Building Serverless Machine Learning Workflows (Level 300)",
-        "date": "2019/04/03"
+        "description": "Learn more about AWS Innovate Online Conference at – https://amzn.to/2CSK1OF \nModern machine learning workflows leverage AWS services, such as Amazon Transcribe and Amazon Comprehend, to extract, validate, mutate, and enrich your data. Some might drive transactional systems that use machine learning to generate metadata for media assets, while others might derive insights by visualizing customer interaction sentiment from call logs. They all share a common challenge, orchestrating a combination of distinct sequential and parallel steps that are fulfilled by independent microservices. Join us as we examine how workflows can be used to manage that orchestration in a way that is scalable, reliable, and easy to maintain and run, and also how to perform CI/CD for machine learning model training and deployment with AWS Step Functions.\n\nSpeaker: Donnie Prakoso, Technology Evangelist, AWS, ASEAN",
+        "date": "2019-04-03T17:43:59Z",
+        "duration": 1770
     },
     {
         "service": "amazon_transcribe",
         "videoId": "W_fDlbFlf14",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "AIM210",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "1977"
+        ],
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Amazon Transcribe Medical: Transforming Healthcare w/ AI (AIM210)",
-        "date": "2019/12/13"
+        "description": "Artificial intelligence (AI) is reshaping the Healthcare industry. In this session, learn how automatic speech recognition and natural language processing services can be used to build powerful solutions that revolutionize the way medical information is collected, analyzed, and consumed by various stakeholders across the Healthcare ecosystem. From clinical documentation workflow and pharmacovigilance to telemedicine and revenue cycle management, AI services are driving changes that not only enhance Healthcare professionals’ efficiencies, but also improve the overall quality of patient care.",
+        "date": "2019-12-14T01:09:56Z",
+        "duration": 2566
     }
 ]

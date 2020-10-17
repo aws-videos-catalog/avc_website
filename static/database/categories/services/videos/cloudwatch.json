@@ -2,301 +2,939 @@
     {
         "service": "cloudwatch",
         "videoId": "uuBuc6OAcVY",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Devops",
+            "DEV302",
+            "Amazon CloudWatch"
+        ],
         "title": "AWS re:Invent 2018: Monitor All Your Things: Amazon CloudWatch in Action with BBC (DEV302)",
-        "date": "2018/11/29"
+        "description": "Come learn what's new with Amazon CloudWatch, and watch as we leverage new capabilities to better monitor our systems and resources. We also walk you through the journey that BBC took in monitoring its custom off-cloud infrastructure alongside its AWS cloud resources.",
+        "date": "2018-11-29T18:19:24Z",
+        "duration": 3133
     },
     {
         "service": "cloudwatch",
         "videoId": "vAnIhIwE5hY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "CloudWatch Agent",
+            "Logs",
+            "Metrics",
+            "Run Command"
+        ],
         "title": "Collect Metrics and Logs from Amazon EC2 instances with the CloudWatch Agent",
-        "date": "2019/07/05"
+        "description": "Learn more about AWS Management and Governance at – https://amzn.to/2JkjbBk \nIn this video we show you how you configure and deploy the CloudWatch Agent, collect metrics and logs from your Windows instances and provide actionable data.",
+        "date": "2019-07-05T17:44:40Z",
+        "duration": 671
     },
     {
         "service": "cloudwatch",
         "videoId": "2s2xcwm8QrM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Config",
+            "Systems Manager",
+            "Compliance",
+            "Config Rules"
+        ],
         "title": "Analyze Log Data with CloudWatch Logs Insights",
-        "date": "2019/10/04"
+        "description": "Learn more about AWS at – https://amzn.to/2OlFWZU\nCloudWatch Logs Insights enables you to interactively search and analyze your log data in Amazon CloudWatch Logs. You can perform queries to help you quickly and effectively respond to operational issues. If an issue occurs, you can use CloudWatch Logs Insights to identify potential causes and validate deployed fixes.",
+        "date": "2019-10-04T17:47:54Z",
+        "duration": 360
     },
     {
         "service": "cloudwatch",
         "videoId": "a4dhoTQCyRA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "CloudWatch",
+            "Monitoring",
+            "Infrastructure Monitoring",
+            "Server Monitoring",
+            "Cloud Migration",
+            "Metrics",
+            "Logs",
+            "Log Management",
+            "Application Monitoring",
+            "Digital Transformation",
+            "EC2 Monitoring",
+            "X-Ray",
+            "APM"
+        ],
         "title": "Amazon CloudWatch: Complete Visibility of Your Cloud Resources and Applications",
-        "date": "2018/11/16"
+        "description": "Amazon CloudWatch is a monitoring and management service built for developers, system operators, site reliability engineers (SRE), and IT managers. Learn more at - https://amzn.to/2OJmu5J.\n\nCloudWatch provides you with data and actionable insights to monitor your applications, understand and respond to system-wide performance changes, optimize resource utilization, and get a unified view of operational health.",
+        "date": "2018-11-16T17:28:27Z",
+        "duration": 123
     },
     {
         "service": "cloudwatch",
         "videoId": "hF3NM9j-u7I",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWSDemo",
+            "CloudWatch"
+        ],
         "title": "Amazon CloudWatch Synthetics",
-        "date": "202004/23"
+        "description": "In this demo, you'll see how to use Amazon CloudWatch Synthetics to create canaries to monitor your endpoints and APIs. Synthetics canaries enable you to continually verify your customer experience, allowing you to discover issues before your customers do and react quickly to fix them. You can use CloudWatch Synthetics to monitor your REST APIs, URLs, and website content, and perform checks for unauthorized changes from phishing, code injection, and cross-site scripting.\n\nLearn more about using Amazon CloudWatch Synthetics at https://amzn.to/2XX2rsU\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-04-23T18:07:48Z",
+        "duration": 273
     },
     {
         "service": "cloudwatch",
         "videoId": "8umIX-pUy3k",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "CloudWatch Events",
+            "CloudWatch"
+        ],
         "title": "Detect Anomalies with Amazon CloudWatch",
-        "date": "2019/10/04"
+        "description": "Learn more about AWS at – https://amzn.to/2IpTlfs\nAmazon CloudWatch Anomaly Detection applies machine-learning algorithms to continuously analyze system and application metrics, determine a normal baseline, and surface anomalies with minimal user intervention. You can use Anomaly Detection to isolate and troubleshoot unexpected changes in your metric behavior.",
+        "date": "2019-10-04T17:47:56Z",
+        "duration": 444
     },
     {
         "service": "cloudwatch",
         "videoId": "I7EFLChc07M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "CloudWatch",
+            "Custom Dashboards"
+        ],
         "title": "Monitor AWS Resources Using Amazon CloudWatch Dashboards",
-        "date": "2019/11/26"
+        "description": "Learn more about AWS Management and Governance at https://amzn.to/34otwWe\nIn this video, you'll see how to monitor your AWS resources using Amazon CloudWatch dashboards. You can monitor multiple resources at once, view automatic dashboards that can be dynamically filtered, or create your own custom dashboards.",
+        "date": "2019-11-26T20:47:37Z",
+        "duration": 446
     },
     {
         "service": "cloudwatch",
         "videoId": "fmQiMdH-fV8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Monitor All Your Things with Amazon CloudWatch",
-        "date": "2018/11/30"
+        "description": "Learn what's new with Amazon CloudWatch, and see how to leverage new capabilities to better monitor resources, applications and services that run on AWS, and on-premises servers. Learn more about CloudWatch: https://aws.amazon.com/cloudwatch/ \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:32:47Z",
+        "duration": 1014
     },
     {
         "service": "cloudwatch",
         "videoId": "pTzv-i1uvvE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Services Deep Dive",
+            "Expert",
+            "Amazon CloudWatch",
+            "Resource Management",
+            "Performance",
+            "Monitoring",
+            "Compute",
+            "Audit",
+            "Amazon EC2",
+            "Architect",
+            "Enterprise",
+            "Developer",
+            "Henry Hahn",
+            "SDD418"
+        ],
         "title": "AWS re:Invent 2014 | (SDD418) Amazon CloudWatch Deep Dive",
-        "date": "2014/11/17"
+        "description": "In this session, we go deep on best practices for you to get the most out of Amazon CloudWatch.  Learn how you can use new service metrics to keep even more of your systems and applications running smoothly.  See how CloudWatch Logs can help you monitor your logs in near‑real time for events you care about and store the log data in low cost, highly durable storage.  Hear about best practices to retrieve Amazon Web Services metrics from CloudWatch using the API.  Get a demonstration of how you can use the Amazon EC2 configuration service to monitor applications and events on Windows Server.",
+        "date": "2014-11-17T23:37:48Z",
+        "duration": 2567
     },
     {
         "service": "cloudwatch",
         "videoId": "7nrO1Bo16UA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Launchpad",
+            "AWS Summit San Francisco 2018"
+        ],
         "title": "Amazon CloudWatch Launches Metric Math",
-        "date": "2018/04/10"
+        "description": "Learn more at - https://amzn.to/2qpZ9Mt.\nAmazon CloudWatch Metric Math enables you to perform calculations across multiple metrics for real-time analysis. You can visualize these computed metrics through the console, add them to CloudWatch Dashboards, or retrieve through the GetMetricData API.",
+        "date": "2018-04-11T00:31:42Z",
+        "duration": 778
     },
     {
         "service": "cloudwatch",
         "videoId": "-rQku_AeN_Y",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "CloudWatch Events",
+            "CloudWatch"
+        ],
         "title": "Monitor Resource Changes with Amazon CloudWatch Events",
-        "date": "2019/07/05"
+        "description": "Learn more about AWS Management and Governance at – https://amzn.to/327nVTv \nIn this video we show you how to monitor for AWS resource changes, automate alerts based on those changes and invoke an action.",
+        "date": "2019-07-05T17:45:25Z",
+        "duration": 339
     },
     {
         "service": "cloudwatch",
         "videoId": "g1wxfYVjCPY",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Devops",
+            "DEV375",
+            "Amazon CloudWatch",
+            "Amazon CloudWatch Logs"
+        ],
         "title": "AWS re:Invent 2018: Introduction to Amazon CloudWatch Logs Insights (DEV375)",
-        "date": "2018/11/29"
+        "description": "In this session, we will talk about many of the challenges with managing application log data. We will walk through how to ingest, manage, and analyze large volumes of log data using Amazon CloudWatch Logs. This enables you to solve operational problems faster and debug your applications more easily. Complete Title: AWS re:Invent 2018: Managing & Analyzing Large Volumes of Logs Data in Amazon CloudWatch Logs (DEV375)",
+        "date": "2018-11-29T18:26:19Z",
+        "duration": 3041
     },
     {
         "service": "cloudwatch",
         "videoId": "mVffHIzIL60",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "CloudWatch",
+            "Troubleshooting"
+        ],
         "title": "What are the best practices to follow while pushing custom metrics to CloudWatch?",
-        "date": "2019/08/13"
+        "description": "Find more details in the AWS Knowledge Center:\nhttps://amzn.to/31zsZPi\n\n\nSrinija, an AWS Cloud Support Engineer, shows you what are the best practices to follow while pushing custom metrics to CloudWatch.",
+        "date": "2019-08-13T15:22:21Z",
+        "duration": 454
     },
     {
         "service": "cloudwatch",
         "videoId": "x7hNimXFRZ8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Monitoring Amazon EC2 Windows Instances using Unified CloudWatch Agent",
-        "date": "2018/11/21"
+        "description": "In this video we show you how you use Cloudwatch Unified Agent to monitor your Windows instances performance metrics and logs\n\nFor more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2t7AHBA.",
+        "date": "2018-11-21T20:42:53Z",
+        "duration": 1029
     },
     {
         "service": "cloudwatch",
         "videoId": "JjoBRsdwr_k",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "CloudWatch",
+            "Amazon CloudWatch",
+            "Amazon CloudWatch ServiceLens",
+            "Monitoring",
+            "Monitor",
+            "Application Monitor",
+            "Observability",
+            "end-to-end monitoring"
+        ],
         "title": "Monitor Application Health Using CloudWatch ServiceLens",
-        "date": "2020/07/30"
+        "description": "In this video, you’ll see how to monitor application health using CloudWatch ServiceLens. With this feature, you can view application metrics, logs, and traces from a central location; analyze application performance; and visualize dependencies between application resources. \n\nLearn more about CloudWatch ServiceLens at https://amzn.to/39Hi2QX\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS  #AWSDemo",
+        "date": "2020-07-30T21:07:26Z",
+        "duration": 443
     },
     {
         "service": "cloudwatch",
         "videoId": "5HnJjoW2xv8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "container",
+            "microservices",
+            "docker",
+            "container metrics",
+            "container logging"
+        ],
         "title": "Using AWS CloudWatch with Amazon ECS",
-        "date": "2018/01/05"
+        "description": "Learn more in the Amazon ECS documentation at - http://amzn.to/2qHhwQj.\nAmazon Elastic Container Service (Amazon ECS) makes it easy to run and scale containerized workloads on AWS. Cloudwatch lets you monitor running containers, the CPU and memory utilization of your containerized services, and setup alarms that automatically scale your services based on utilization.",
+        "date": "2018-01-05T22:08:04Z",
+        "duration": 222
     },
     {
         "service": "cloudwatch",
         "videoId": "37fx4NC8EzQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon CloudWatch",
+            "Windows logs"
+        ],
         "title": "How do I upload my Windows Logs to Amazon CloudWatch?",
-        "date": "2019/06/14"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2KhSz6Z\nRenaldo, an AWS Cloud Support Engineer, shows you how to upload Windows logs to Amazon CloudWatch.",
+        "date": "2019-06-14T17:22:38Z",
+        "duration": 596
     },
     {
         "service": "cloudwatch",
         "videoId": "LwM_oETkLAc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Monitor",
+            "Performance",
+            "ECS",
+            "Cloudwatch",
+            "container",
+            "insights"
+        ],
         "title": "Monitor Performance of Amazon ECS Applications Using CloudWatch Container Insights",
-        "date": "2019/11/26"
+        "description": "Learn more about AWS Management and Governance at https://amzn.to/2OKkxrK\nIn this video, you'll see how to monitor the performance of your Amazon Elastic Container Service (Amazon ECS) applications using CloudWatch Container Insights. With Container Insights, you can aggregate and summarize metrics from your containerized applications, allowing you to troubleshoot your Amazon ECS clusters by isolating specific issues.",
+        "date": "2019-11-26T20:48:38Z",
+        "duration": 338
     },
     {
         "service": "cloudwatch",
         "videoId": "jjrXubqkDN8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon CloudWatch Logs and AWS Lambda: A Match Made in Heaven",
-        "date": "2018/06/29"
+        "description": "AWS Public Sector Summit 2018 - Washington, D.C.\n\nIn this session, we cover three common scenarios that include Amazon CloudWatch Logs and AWS Lambda. First, you learn to build an Elasticsearch cluster from historical data using Amazon Simple Storage Service (S3), AWS Lambda, and Amazon CloudWatch Logs. Next, you learn to add details to Amazon CloudWatch alarm notifications using Amazon Simple Notification Service (SNS) and AWS Lambda. Finally, we show you how to bring Elastic Load Balancing logs to  Amazon CloudWatch Logs using S3 bucket triggers from AWS Lambda.\n\nSpeaker: Leo Zhadanovsky",
+        "date": "2018-06-29T23:57:23Z",
+        "duration": 2240
     },
     {
         "service": "cloudwatch",
         "videoId": "PD9S5xGC16g",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Confog",
+            "AWS Cloudwatch",
+            "AWS Lambda",
+            "Events"
+        ],
         "title": "Remediate Non-Compliance Using AWS Config Rules, AWS CloudWatch Events, & AWS Lambda Functions",
-        "date": "2019/10/04"
+        "description": "Learn more about AWS at – https://amzn.to/2oMnoHn\nAWS Config allows you to remediate noncompliant resources that are evaluated by AWS Config Rules. AWS Config applies remediation using AWS Systems Manager Automation documents. These documents define the actions to be performed on noncompliant AWS resources evaluated by AWS Config Rules.",
+        "date": "2019-10-04T17:47:58Z",
+        "duration": 452
     },
     {
         "service": "cloudwatch",
         "videoId": "udf_K7yRrxA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Kubernetes",
+            "Prometheus",
+            "CloudWatch",
+            "Weave Cloud"
+        ],
         "title": "Distributed Monitoring of EKS with CloudWatch and Weave Cloud",
-        "date": "2018/07/30"
+        "description": "Amazon Elastic Container Service for Kubernetes (Amazon EKS) makes it easy to run Kubernetes on AWS. Join AWS and our container ecosystem partners for a deep dive on Amazon EKS and explore solutions that help extend the capabilities of Kubernetes on AWS. Learn more at https://amzn.to/2mUJUcL.\n\nAmazon EKS enables developers to run Kubernetes on AWS without needing to install and operate their own Kubernetes cluster. Developers can quickly scale up to run hundreds or even thousands of application as part of a distributed system. But how do you get notified if user experience is degraded? Can you act quickly on identifying the root cause?\nWeave Cloud’s Prometheus in combination with CloudWatch provides a comprehensive view of EKS workloads. Locate bottlenecks, drill into workload performance and visualise performance trends. With automated dashboards and alerting Weave Cloud provides production ready monitoring and analytics.\n\nGuest: Steve George, COO, Weaveworks",
+        "date": "2018-07-30T21:38:46Z",
+        "duration": 760
     },
     {
         "service": "cloudwatch",
         "videoId": "-9_Gat9cJn4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I publish RDS MySQL and Aurora MySQL logs to Amazon CloudWatch?",
-        "date": "2019/09/10"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2ZSgyOa\nAnshul, an AWS Cloud Support Engineer, shows you how to publish RDS MySQL and Aurora MySQL logs to Amazon CloudWatch.",
+        "date": "2019-09-10T18:35:03Z",
+        "duration": 299
     },
     {
         "service": "cloudwatch",
         "videoId": "v1c9eYT6EWM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "matt wood",
+            "Amazon Cloudwatch Events",
+            "cloudwatch",
+            "awslaunch",
+            "AWS Lambda"
+        ],
         "title": "Amazon CloudWatch Events",
-        "date": "2016/05/06"
+        "description": "Learn more about Amazon CloudWatch Events here - http://amzn.to/1Tv4jfi\nAWS Lambda function versioning allows you to better manage your in-production AWS Lambda function code by enabling you to publish one or more versions of your AWS Lambda function. AWS Lambda function aliases enable you to abstract the process of promoting new Lambda function versions into production from the mapping of the AWS Lambda function version and its event source. You can now refer to specific AWS Lambda function versions and aliases as targets in Amazon CloudWatch Events.",
+        "date": "2016-05-06T15:57:20Z",
+        "duration": 86
     },
     {
         "service": "cloudwatch",
         "videoId": "eAqrLs_gFKg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Cloudwatch",
+            ".NET",
+            "Log4Net",
+            "Nlog"
+        ],
         "title": "Using CloudWatch with .NET Log4Net & NLog configuration",
-        "date": "2019/10/04"
+        "description": "Learn more about AWS at – https://amzn.to/30Pa8Pw\nYou can use Amazon CloudWatch Logs to monitor, store, and access your application’s logs. To get log data into CloudWatch Logs, you can use an AWS SDK or install the CloudWatch Log agent to monitor certain log folders. Today, we’ve made it even easier to use CloudWatch Logs with .NET applications by integrating CloudWatch Logs with several popular .NET logging frameworks.",
+        "date": "2019-10-04T18:11:17Z",
+        "duration": 259
     },
     {
         "service": "cloudwatch",
         "videoId": "RnN1o4Zdego",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "DEV375"
+        ],
         "title": "AWS re:Invent 2018: CloudWatch Logs Insights Customer Use Case",
-        "date": "2019/01/03"
+        "description": "In this session, we will talk about many of the challenges with managing application log data. We will walk through how to ingest, manage, and analyze large volumes of log data using Amazon CloudWatch Logs. This enables you to solve operational problems faster and debug your applications more easily. \n\nComplete Title: AWS re:Invent 2018: Managing & Analyzing Large Volumes of Logs Data in Amazon CloudWatch Logs (DEV375)",
+        "date": "2019-01-03T21:33:18Z",
+        "duration": 949
     },
     {
         "service": "cloudwatch",
         "videoId": "RRzgUyyDA70",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "New York Summit"
+        ],
         "title": "CloudWatch Container Insights for Amazon ECS and AWS Fargate",
-        "date": "2019/07/29"
+        "description": "Learn more about Amazon CloudWatch at – https://amzn.to/2K2yHUc \nCloudWatch introduces observability with Container Insights by collecting highly granular metrics, state data from your running containers and providing deep linking into your application, host, and control plane logs.",
+        "date": "2019-07-29T22:19:55Z",
+        "duration": 1169
     },
     {
         "service": "cloudwatch",
         "videoId": "R67huNjk88w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "api",
+            "gateway",
+            "cloudwatch",
+            "logs"
+        ],
         "title": "How do I enable CloudWatch Logs while troubleshooting my API Gateway API?",
-        "date": "2019/10/15"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2MawJ5c\nDaniel, an AWS Cloud Support Engineer, shows you how to enable CloudWatch Logs while troubleshooting your API Gateway API.",
+        "date": "2019-10-16T05:37:16Z",
+        "duration": 323
     },
     {
         "service": "cloudwatch",
         "videoId": "D339iCOjHhc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I monitor automatic recovery of my EC2 instances using CloudWatch alarms and SNS?",
-        "date": "2020/02/20"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2Pt0LTc\nNeelakshi, an AWS Cloud Support Engineer, shows you how to monitor automatic recovery of your EC2 instances using CloudWatch alarms and SNS.",
+        "date": "2020-02-20T23:00:43Z",
+        "duration": 254
     },
     {
         "service": "cloudwatch",
         "videoId": "BI9bLPiIhl4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Container Insights",
+            "CloudWatch",
+            "Container Day"
+        ],
         "title": "AWS Container Day - Amazon Cloudwatch (Container Insights)",
-        "date": "2019/06/13"
+        "description": "Learn more about EKS on AWS at - https://amzn.to/2K8zsME.\nMissed the AWS Container Day 2019 in Barcelona?  In this session, we dive into how Amazon CloudWatch gives visibility into your cloud resources and applications. We also give you a demo of Container Insights, a fully managed observability service for monitoring, troubleshooting, and alarming on you containerized applications and microservices.\n\nLearn more about Container Insights: https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/ContainerInsights.html",
+        "date": "2019-06-13T16:00:00Z",
+        "duration": 1577
     },
     {
         "service": "cloudwatch",
         "videoId": "t-OPBzNVk50",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "New York Summit"
+        ],
         "title": "Introducing Amazon CloudWatch Anomaly Detection",
-        "date": "2019/07/29"
+        "description": "Finding, isolating, and troubleshooting issues with resources and applications is often a reactive exercise where operators respond to fired alarms by digging into multiple metrics and dashboards to find the problematic resources. Without prior domain knowledge, users can find it difficult to differentiate between normal versus problematic behavior. Applications that exhibit rapid growth, cyclical, or seasonal behavior, such as requests that peak during the day and taper off at night, are difficult to monitor using static thresholds. Amazon CloudWatch Anomaly Detection is a new feature that applies machine-learning algorithms to continuously analyze system and application metrics, determine a normal baseline, and surface anomalies without requiring user intervention. Customers can now identify runtime issues sooner, reducing system and application downtime. CloudWatch Anomaly Detection also adapts to metric trends, enabling customers to monitor the dynamic nature of system and application behavior with alarms that auto-adjust to situations such as time-of-day utilization peaks. This helps identify unexpected changes that result from connectivity issues, code change deployments, database errors, and other operational issues so they can be identified early and remediated quickly.",
+        "date": "2019-07-29T22:19:56Z",
+        "duration": 1235
     },
     {
         "service": "cloudwatch",
         "videoId": "9BODRmzpEao",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "CloudWatch",
+            "Application Insights",
+            ".NET",
+            "SQL Server"
+        ],
         "title": "Monitor Resources With Cloudwatch Application Insights for .NET and SQL Server",
-        "date": "2019/10/04"
+        "description": "Learn more about AWS at – https://amzn.to/2Vbpa0X\nCloudWatch Application Insights for .NET and SQL Server helps you monitor your .NET and SQL Server applications. It identifies and sets up key metrics and logs across your application resources and technology stack (for example, your database, web (IIS) and application servers, OS, load balancers, and queues). It continuously monitors the metrics and logs to detect and correlate anomalies and errors.",
+        "date": "2019-10-04T17:47:51Z",
+        "duration": 433
     },
     {
         "service": "cloudwatch",
         "videoId": "MnZPpGhM0WU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Canberra Summit 2017",
+            "Amazon CloudWatch",
+            "AWS Lambda",
+            "Amazon S3",
+            "Amazon SNS",
+            "S3 bucket",
+            "AWS Public Sector Summit 2017 Canberra"
+        ],
         "title": "Amazon CloudWatch Logs and AWS Lambda: A Match Made in Heaven",
-        "date": "2017/09/11"
+        "description": "Learn more about AWS at - http://amzn.to/2zdfmIe.\nIn this session, we cover three common scenarios that include Amazon CloudWatch Logs and AWS Lambda. Learn how to build an Elasticsearch cluster from historical data using Amazon S3, Lambda, and CloudWatch Logs. Discover how to add details to CloudWatch alarm notifications using Amazon SNS and Lambda. Finally, understand how to bring Elastic Load Balancing logs to CloudWatch Logs using S3 bucket triggers from Lambda.",
+        "date": "2017-09-11T16:37:48Z",
+        "duration": 1826
     },
     {
         "service": "cloudwatch",
         "videoId": "ksB4INUcnF8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "Cloudwatch",
+            "Cloudwatch alarms"
+        ],
         "title": "AWS Knowledge Center Videos: How do I monitor Amazon VPN tunnels using AWS Cloudwatch Alarms?",
-        "date": "2018/07/23"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/monitor-vpn-with-cloudwatch-alarms/\n\nAvinash, an AWS Cloud Support Engineer, shows you how to monitor Amazon VPN tunnels using AWS Cloudwatch Alarms.",
+        "date": "2018-07-23T22:54:01Z",
+        "duration": 151
     },
     {
         "service": "cloudwatch",
         "videoId": "2meL_wlSShA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit Tel Aviv 2016: Using Amazon CloudWatch Events"
+        ],
         "title": "AWS Summit Tel Aviv 2016: Using Amazon CloudWatch Events, Lambda & Spark to Process EC2 Events",
-        "date": "2016/07/14"
+        "description": "Learn More: http://amzn.to/29xrgQr\n\n- - - - - - - - - - - - - - - - -\nSession Language: English\n\nEarlier this year, AWS introduced Amazon CloudWatch Events, a feature allowing customers to track changes to their AWS resources, such as Amazon EC2 lifecycle and Auto Scaling events. The purpose of this presentation is to show you how to route these events to an AWS Lambda function (which could be also responsible for initialization or cleanup tasks). Then, the function will push events to Kinesis Firehose for storage in Amazon S3, where they will be processed by a Spark Streaming job running in Amazon EMR. Who knows, this might give you some ideas to build a new real-time monitoring and alerting system.",
+        "date": "2016-07-14T15:42:13Z",
+        "duration": 1186
     },
     {
         "service": "cloudwatch",
         "videoId": "ZaOR-ybLJF0",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "DevOps",
+            "DVO315",
+            "Henry Hahn - Amazon Web Services",
+            "Advanced (300 level)",
+            "Cloud and Network Monitoring Services",
+            "Cloud monitoring service",
+            "network monitoring service",
+            "cloud computing event"
+        ],
         "title": "AWS re:Invent 2015: Log, Monitor and Analyze your IT with Amazon CloudWatch (DVO315)",
-        "date": "2015/10/12"
+        "description": "Learn about the latest monitoring and automation capabilities that we’ve added with Amazon CloudWatch. Learn more: http://amzn.to/2hYQOhi",
+        "date": "2015-10-12T20:45:10Z",
+        "duration": 3111
     },
     {
         "service": "cloudwatch",
         "videoId": "bstBXtqFxow",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Getting Started",
+            ".NET",
+            "cloud",
+            "Web Applications",
+            "Auto Scaling",
+            "CloudWatch"
+        ],
         "title": "Web Applications on AWS: Configuring Monitoring and Auto Scaling Rules [Amazon CloudWatch]",
-        "date": "2012/06/14"
+        "description": "Amazon CloudWatch is a web service that enables you to monitor, manage, and publish various metrics, as well as configure alarm actions based on data from metrics.",
+        "date": "2012-06-14T14:56:31Z",
+        "duration": 147
     },
     {
         "service": "cloudwatch",
         "videoId": "-GqfajeVb3c",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Devops",
+            "DEV333",
+            "AI",
+            "CloudWatch",
+            "Compute"
+        ],
         "title": "AWS re:Invent 2017: Using Amazon CloudWatch for Amazon ECS Resource Monitoring at Sc (DEV333)",
-        "date": "2017/11/29"
+        "description": "Learn how Mapbox improved and leveled up their Amazon ECS monitoring by using Amazon CloudWatch Events and custom metrics. We cover the events that kick off data collection, which enables our team to track the trillions of compute seconds happening every day on Mapbox’s ECS clusters. The result of the data collection includes custom metrics and alarms used to inform stakeholders across Mapbox about detailed ECS usage, so development teams and finance alike can easily put a price tag on each container.",
+        "date": "2017-11-29T17:24:14Z",
+        "duration": 2257
     },
     {
         "service": "cloudwatch",
         "videoId": "1yNDKOHmAzk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "How do I monitor my task by using CloudWatch metrics in AWS DMS?",
-        "date": "2019/11/21"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/36kIVsa\nDaniel, an AWS Cloud Support Engineer, shows you how to monitor your task by using CloudWatch metrics in AWS Database Migration Service (AWS DMS).",
+        "date": "2019-11-21T18:55:13Z",
+        "duration": 344
     },
     {
         "service": "cloudwatch",
         "videoId": "xaFaVeoA9V8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "DevOps & Tools",
+            "DEV301",
+            "Bob Wilkinson",
+            "Advanced"
+        ],
         "title": "AWS re:Invent 2016: Amazon CloudWatch Logs and AWS Lambda: A Match Made in Heaven (DEV301)",
-        "date": "2016/12/03"
+        "description": "In this session, we cover three common scenarios that include Amazon CloudWatch Logs and AWS Lambda. First, you learn how to build an Elasticsearch cluster from historical data using Amazon S3, Lambda, and CloudWatch Logs. Next, you learn how to add details to CloudWatch alarm notifications using Amazon SNS and Lambda. Finally, we show you how to bring Elastic Load Balancing logs to CloudWatch Logs using S3 bucket triggers from Lambda.",
+        "date": "2016-12-03T22:28:29Z",
+        "duration": 2313
     },
     {
         "service": "cloudwatch",
         "videoId": "Cb9mTI_F1F0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Fluent bit plugins for Amazon Kinesis Firehose and Amazon CloudWatch",
-        "date": "2019/09/23"
+        "description": "Learn more about Amazon Kinesis Data Firehose at – https://amzn.to/2SPaXpl \nIn this session, we'll show how Fluent Bit plugins (Kinesis Firehose and CloudWatch) are now available to be consumed for both ECS and EKS customers. Fluent Bit is an open source and multi-platform Log Processor and Forwarder which allows you to collect data/logs from different sources, unify and send them to multiple destinations. It's fully compatible with Docker and Kubernetes environments. Customers can use these Fluent Bit plugins to stream container logs to CloudWatch or Kinesis Firehose destinations such as S3, Amazon Elasticsearch and Amazon Redshift.",
+        "date": "2019-09-23T21:21:15Z",
+        "duration": 1230
     },
     {
         "service": "cloudwatch",
         "videoId": "fbYqaz2oTq4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "workspaces",
+            "cloudwatch"
+        ],
         "title": "AWS Knowledge Center Videos: How do I monitor Amazon WorkSpaces with Amazon CloudWatch?",
-        "date": "2017/11/15"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/failed-connections-workspaces-cloudwatch/\n\nMichael, an AWS Cloud Support Engineer, shows you how to monitor Amazon WorkSpaces with Amazon CloudWatch.",
+        "date": "2017-11-15T15:13:26Z",
+        "duration": 174
     },
     {
         "service": "cloudwatch",
         "videoId": "M8DfBZbvJTk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "cloudwatch",
+            "cloudwatch logs",
+            "aws opsworks"
+        ],
         "title": "How do I use CloudWatch Logs with AWS OpsWorks Stacks?",
-        "date": "2019/02/04"
+        "description": "Find more details in the AWS Knowledge Center:\nhttps://amzn.to/2HCMjpW\nMaruful, an AWS Cloud Support Engineer, shows you how to use CloudWatch Logs with AWS OpsWorks Stacks.",
+        "date": "2019-02-04T20:28:45Z",
+        "duration": 185
     },
     {
         "service": "cloudwatch",
         "videoId": "hXT1VWbONP8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I use AWS Batch as a target for my CloudWatch Events rule?",
-        "date": "2019/06/04"
+        "description": "Find more details in the AWS Knowledge Center:\nNaren, an AWS Cloud Support Engineer, shows you how to use AWS Batch as a target for my CloudWatch Events rule.",
+        "date": "2019-06-04T17:05:49Z",
+        "duration": 269
     },
     {
         "service": "cloudwatch",
         "videoId": "So-n-C-HuhE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "cloudwatch",
+            "scheduled snapshots"
+        ],
         "title": "AWS Knowledge Center Videos: How do I set up scheduled snapshots using CloudWatch?",
-        "date": "2018/09/24"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2NxEc0m\nRobin, an AWS Cloud Support Engineer, shows you how to set up scheduled snapshots using CloudWatch.",
+        "date": "2018-09-24T14:23:33Z",
+        "duration": 195
     },
     {
         "service": "cloudwatch",
         "videoId": "5Yd2xTjEkAc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Security & Compliance",
+            "SAC401",
+            "Henrik Johansson"
+        ],
         "title": "AWS re:Invent 2016: 5 Security Improvements You Can Make by Using CloudWatch and AWS Rules (SAC401)",
-        "date": "2016/12/02"
+        "description": "This session demonstrates 5 different security and compliance validation actions that you can perform using Amazon CloudWatch Events and AWS Config rules. This session focuses on the actual code for the various controls, actions, and remediation features, and how to use various AWS services and features to build them. The demos in this session include CIS Amazon Web Services Foundations validation; host-based AWS Config rules validation using AWS Lambda, SSH, and VPC-E; automatic creation and assigning of MFA tokens when new users are created; and automatic instance isolation based on SSH logons or VPC Flow Logs deny logs. This session focuses on code and live demos.",
+        "date": "2016-12-03T04:05:41Z",
+        "duration": 3556
     },
     {
         "service": "cloudwatch",
         "videoId": "kn5TVKzBLrU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Monitoring",
+            "monitor",
+            "observability",
+            "containers",
+            "microservices",
+            "insights",
+            "CloudWatch",
+            "CloudWatch Container Insights",
+            "Container Insights."
+        ],
         "title": "Monitor your Containerized Applications and Microservices Using CloudWatch Container Insights",
-        "date": "2020/06/23"
+        "description": "In this video, you’ll see how to monitor metrics for your containerized applications and microservices using CloudWatch Container Insights. With this service, you can view metrics for individual application components, run queries on application log groups, and set up alarms for anomalies within your metric data.\n\nLearn more about AWS Management & Governance at - https://amzn.to/3eQ2f3k\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-07-23T18:11:12Z",
+        "duration": 442
     },
     {
         "service": "cloudwatch",
         "videoId": "Gob-NSN2iAM",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Boeckman",
+            "Demo Theater",
+            "15243",
+            "CloudWatch",
+            "Devops"
+        ],
         "title": "AWS re:Invent 2017: Getting the Most Out of Amazon CloudWatch Alerts: Intelligence a (DEM10)",
-        "date": "2017/11/30"
+        "description": "Modern DevOps teams swim in a murky stream of incident monitoring systems. Frequently, disparate systems and organizational silos duplicate alerts and monitoring metrics with confusing communications. The result? An on-call responder faces a pile of unfamiliar alerts, describing unknown conditions, in systems they've never heard of. This problem can be exacerbated by the development velocity enabled by adoption of AWS tooling. What if you could receive alerts with context, clarifying those muddy waters? What if you could adopt a systemic approach to helping responders identify issues? In this session, we explore the VictorOps and CloudWatch integration, with a focus on the VictorOps Incident Automation Engine. This integration enables CloudWatch alerts to include links to relevant runbooks, graphs, and other contextual breadcrumbs to help your teams more quickly identify and resolve alerts. Attendees should have some basic familiarity with CloudWatch, and on-call responsibilities.\n\nSession sponsored by VictorOps",
+        "date": "2017-11-30T16:44:57Z",
+        "duration": 808
     },
     {
         "service": "cloudwatch",
         "videoId": "UEo9xSg9GMY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "119654"
+        ],
         "title": "Amazon CloudWatch Logs and AWS Lambda: A Match Made in Heaven (119654)",
-        "date": "2017/06/19"
+        "description": "In this session, we cover three common scenarios that include Amazon CloudWatch Logs and AWS Lambda. First, you learn to build an Elasticsearch cluster from historical data using Amazon S3, Lambda, and CloudWatch Logs. Next, you learn to add details to CloudWatch alarm notifications using Amazon SNS and Lambda. Finally, we show you how to bring Elastic Load Balancing logs to CloudWatch Logs using S3 bucket triggers from Lambda.",
+        "date": "2017-06-19T20:05:12Z",
+        "duration": 2095
     },
     {
         "service": "cloudwatch",
         "videoId": "O6CeNY952Sg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon",
+            "Cloudwatch",
+            "monitor",
+            "Custom",
+            "event",
+            "appplication",
+            ".Net",
+            "Microsoft"
+        ],
         "title": "AWS for Microsoft Workloads: Sending Custom Application Events to Amazon CloudWatch",
-        "date": "2018/06/18"
+        "description": "For more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2K3ZErh.\nAmazon CloudWatch contains a variety of useful services that help you monitor application logs and metrics, and trigger automated workflows based off of account-level events, cron schedules, or custom application events. Using the AWS Tools for PowerShell, you can send custom application events into the Amazon CloudWatch Events service. Once you've sent these events to the service, you can subscribe to them using a CloudWatch Event Rule, and trigger automated, cloud-based workflows. In this video, we'll take a brief look at how you can send custom events to Amazon CloudWatch, using the AWS Tools for PowerShell.",
+        "date": "2018-06-18T23:30:05Z",
+        "duration": 522
     },
     {
         "service": "cloudwatch",
         "videoId": "O1NQrIm_4cg",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CON328-R1",
+            "Containers",
+            "AWS App Mesh",
+            "Amazon CloudWatch",
+            "AWS Fargate"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Improving observability of your containers (CON328-R1)",
-        "date": "2019/12/06"
+        "description": "With CloudWatch Container Insights, FireLens, and AWS App Mesh working across Amazon Elastic Container Service (Amazon ECS), Amazon Elastic Kubernetes Service (Amazon EKS), and AWS Fargate, customers now have the tools to gain visibility into their deployments across environments. In this session, we dive deep into an architecture that enables the company to have a unified view across containers.",
+        "date": "2019-12-07T05:56:59Z",
+        "duration": 3126
     }
 ]

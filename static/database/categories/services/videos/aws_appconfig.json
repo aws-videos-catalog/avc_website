@@ -2,7 +2,21 @@
     {
         "service": "aws_appconfig",
         "videoId": "ztIxMY3IIu0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AppConfig",
+            "Systems Manager",
+            "AWS AppConfig",
+            "Application Configuration",
+            "Feature Togle"
+        ],
         "title": "Manage and Deploy Application Configurations with AWS AppConfig",
-        "date": "2020/06/15"
+        "description": "In this video, you’ll see how to manage and deploy application configurations with AWS AppConfig. With this feature, you can deploy changes across a set of targets quickly, reduce errors in configuration changes, and control deployment of changes across your applications. \n\nLearn more about AWS Management & Governance at - https://amzn.to/2O9EQPm\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-07-15T16:46:35Z",
+        "duration": 553
     }
 ]

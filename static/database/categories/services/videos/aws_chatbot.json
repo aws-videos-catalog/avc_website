@@ -2,13 +2,47 @@
     {
         "service": "aws_chatbot",
         "videoId": "0jUSEfHbTYk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Chatbot",
+            "Chatbot",
+            "DevOps",
+            "Slack",
+            "Chime",
+            "AWS Chime"
+        ],
         "title": "AWS Chatbot Overview",
-        "date": "2019/12/04"
+        "description": "Learn more about AWS Chatbot at https://amzn.to/33LY03b.\nAWS Chatbot is an interactive agent that makes it easy to monitor and interact with your AWS resources in your Slack channels and Amazon Chime chat rooms. With AWS Chatbot you can receive alerts and run commands to return diagnostic information, invoke AWS Lambda functions, and create AWS support cases so that your team can collaborate and respond to events faster.",
+        "date": "2019-12-05T05:33:48Z",
+        "duration": 131
     },
     {
         "service": "aws_chatbot",
         "videoId": "u-1SbynvVkA",
+        "tags": [
+            "programming",
+            "aws",
+            "reinvent",
+            "ai",
+            "ml",
+            "developer",
+            "cloud computing",
+            "software",
+            "AWSLaunchpad",
+            "AWS Event",
+            "AWS reInvent",
+            "AWS re:Invent",
+            "AWS reInvent 2019",
+            "AWS re:Invent 2019",
+            "AWS Chatbot"
+        ],
         "title": "AWS re:Invent 2019 Launchpad | AWS Chatbot",
-        "date": "2020/03/16"
+        "description": "Subscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #reInvent2019 #AWSLaunchpad",
+        "date": "2020-03-16T21:14:02Z",
+        "duration": 1256
     }
 ]

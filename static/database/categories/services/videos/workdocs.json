@@ -2,55 +2,171 @@
     {
         "service": "workdocs",
         "videoId": "DGQGYgiYdnA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "WorkDocs",
+            "Productivity",
+            "File collaboration",
+            "EFSS",
+            "Enterprise File Sync and Share",
+            "Collaborative editing",
+            "Security and Compliance",
+            "End-user productivity"
+        ],
         "title": "Secure, Fully Managed, Content Creation, File Collaboration and Management with Amazon WorkDocs",
-        "date": "2018/09/13"
+        "description": "Amazon WorkDocs is a secure, fully managed, content creation, file collaboration and management service, with an extensible SDK, that runs on AWS. Discover more about Amazon WorkDocs at - https://amzn.to/2MnLLkR\n\nWith Amazon WorkDocs, all your files are stored on one service. Users can create content, share files, provide rich feedback, and access their files on WorkDocs from any device. WorkDocs encrypts data in transit and at rest, and offers powerful management controls, active directory integration, and near real-time visibility into file and user actions. The WorkDocs SDK allows you to use the same AWS tools you are already familiar with to integrate WorkDocs with AWS products and services, your existing solutions, third-party applications, or build your own. You don’t have to worry about deploying updates, or patching software, and can scale users and storage up or down with a few clicks. WorkDocs offers low, pay-as-you-go pricing for users and storage, and no charge for API calls. There are no upfront commitments or long-term contracts.",
+        "date": "2018-09-13T23:28:32Z",
+        "duration": 127
     },
     {
         "service": "workdocs",
         "videoId": "vIdw0_AzzDA",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Business Apps",
+            "BAP208",
+            "Amazon WorkDocs"
+        ],
         "title": "AWS re:Invent 2018: Say Goodbye to Legacy Network File Shares with Amazon WorkDocs Drive (BAP208)",
-        "date": "2018/11/27"
+        "description": "Amazon WorkDocs is a secure, fully managed, content creation file collaboration and management service with an extensible SDK that runs on AWS. Amazon WorkDocs Drive is an economical and secure alternative to your on-premises network shares and complicated VPN setups that brings all your WorkDocs content into your Windows Explorer or Mac Finder. In this session, learn how you can have billions of files available on your desktop for collaboration and sharing with Amazon WorkDocs Drive, all without taking any hard drive space.",
+        "date": "2018-11-27T19:19:16Z",
+        "duration": 4042
     },
     {
         "service": "workdocs",
         "videoId": "-YGoMEycSaQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos"
+        ],
         "title": "How do I share a file or folder in WorkDocs?",
-        "date": "2018/10/09"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2ytzHt9\nNiamh, a Cloud Support Engineer, shows yo how to share a file or folder in WorkDocs.",
+        "date": "2018-10-09T13:49:17Z",
+        "duration": 187
     },
     {
         "service": "workdocs",
         "videoId": "CrksS9-HITM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos",
+            "WorkDocs"
+        ],
         "title": "How do I fix an Amazon WorkDocs Drive stuck at Authenticating user phase after logging in?",
-        "date": "2019/05/02"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2PCwfot\nRohit, an AWS Cloud Support Engineer, shows you how to fix an Amazon WorkDocs Drive stuck at Authenticating user phase after logging in.",
+        "date": "2019-05-02T16:44:49Z",
+        "duration": 277
     },
     {
         "service": "workdocs",
         "videoId": "wmZ0cMZpehI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Business Apps",
+            "BAP206",
+            "Pravjit Tiwana",
+            "Introductory"
+        ],
         "title": "AWS re:Invent 2016: Store and collaborate on content with WorkDocs (BAP206)",
-        "date": "2016/12/03"
+        "description": "File sync and share applications have become a cornerstone of collaboration in modern organizations; securing and managing content is an ongoing challenge. Amazon WorKDocs is a fully managed, secure file storage and sharing service with strong administrative controls and feedback capabilities. In this session, we’ll demonstrate how you can use Amazon WorkDocs to manage files and secure content, and show you how we’re shaping Amazon WorkDocs to be a full-fledged productivity tool for users. We'll also present a technical overview of the WorkDocs SDKs, and how they allow you to use existing IT tools for antivirus protection, data loss prevention, analystics, and more.",
+        "date": "2016-12-03T18:27:39Z",
+        "duration": 2047
     },
     {
         "service": "workdocs",
         "videoId": "pmmDm_yRxu4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon WorkDocs"
+        ],
         "title": "Amazon WorkDocs: How to Lock and Unlock Files",
-        "date": "2017/07/20"
+        "description": "Learn how to use the file lock feature for editing to make sure that no one overwrites your changes while you're working. By locking your files you no longer need to coordinate your changes with other collaborators. Learn more about Amazon WorkDocs at - http://amzn.to/2tuBoXV.",
+        "date": "2017-07-20T22:44:28Z",
+        "duration": 155
     },
     {
         "service": "workdocs",
         "videoId": "anuFhaL-oyA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Directory Services",
+            "Amazon WorkSpaces",
+            "Amazon WorkMail",
+            "Amazon WorkDocs"
+        ],
         "title": "Amazon Directory Services, Amazon WorkSpaces, Amazon WorkMail, and Amazon WorkDocs",
-        "date": "2015/08/14"
+        "description": "Are you ready to leverage enterprise applications on AWS? In this session the speakers explore Amazon Directory Services, Amazon WorkSpaces, Amazon WorkMail, and Amazon WorkDocs. Amazon Directory Service is a managed service that allows you to connect your AWS resources with an existing on-premises Microsoft Active Directory or to set up a new, stand-alone directory in the AWS Cloud. A mazon WorkSpaces is a managed desktop computing service in the cloud. Amazon WorkSpaces allows customers to easily provision cloud-based desktops that allow end-users to access the documents, applications and resources they need with the device of their choice. Amazon WorkMail, a secure and managed business email and calendaring service. Amazon WorkMail gives users the ability to seamlessly access their email, contacts, and calendars while maintaining control over both the keys that encrypt their data and the location in which their data is stored. The speakers also dives into Amazon WorkDocs, a fully managed and secure enterprise storage and sharing service with strong administrative controls and feedback capabilities. \n\nSpeaker:\nJerry Rhoads\nSolutions Architect, Amazon Web Services\n\nView more here http://oak.ctx.ly/r/3cz00",
+        "date": "2015-08-14T17:17:29Z",
+        "duration": 2540
     },
     {
         "service": "workdocs",
         "videoId": "KoxR3T2L-AU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "119666"
+        ],
         "title": "Enterprise Collaboration with the AWS Work Suite (119666)",
-        "date": "2017/06/19"
+        "description": "Amazon WorkMail, WorkDocs, and Chime allow customers to quickly deploy enterprise-grade communication tools while enabling strong security controls and integrating with your existing user directory. You will learn how to use WorkMail and WorkDocs to share information with colleagues and customers using familiar desktop and mobile platforms. We’ll also demonstrate the powerful collaboration features of Amazon Chime including private and group messaging as well as remote screen and application sharing.",
+        "date": "2017-06-19T20:48:03Z",
+        "duration": 2846
     },
     {
         "service": "workdocs",
         "videoId": "IhPGkdalG-s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Singapore",
+            "AWS Summit Series 2015",
+            "SMB",
+            "SMB in cloud",
+            "Cloud SMB infrastructure"
+        ],
         "title": "AWS Summit 2015 | Singapore - Grow Your SMB Infrastructure on the AWS Cloud",
-        "date": "2015/05/29"
+        "description": "Mark Statham, Senior SA and Shaun Norris, SA (both from AWS -ASEAN) guide this session on best practices for building an SMB infrastructure on the AWS Cloud.",
+        "date": "2015-05-29T14:37:11Z",
+        "duration": 3108
     }
 ]

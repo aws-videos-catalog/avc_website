@@ -2,19 +2,56 @@
     {
         "service": "iot_sitewise",
         "videoId": "mPNtgPioxis",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "IoT",
+            "IOT368"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing AWS IoT SiteWise (IOT368)",
-        "date": "2018/11/30"
+        "description": "AWS IoT SiteWise is a new service that helps industrial enterprises connect to and collect data from equipment, such as manufacturing lines and assembly robots, and compute performance metrics from that data. During this session, we will dive into the key features, including how customers can use these metrics to identify waste, such as breakdown of equipment and processes, gaps in production, and defects in products. It will also cover how customers can build representations of physical operations by grouping the collected data streams into machines and then grouping those machines to represent an industrial process. Learn how customers better understand the overall effectiveness of their operations with IoT SiteWise.",
+        "date": "2018-11-30T16:38:58Z",
+        "duration": 3497
     },
     {
         "service": "iot_sitewise",
         "videoId": "l0c4EvVrqmw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWSsitewise",
+            "IoT",
+            "Bill Vass",
+            "Cherie Wong",
+            "iot",
+            "AWSiotsitewise",
+            "iiot",
+            "internetofthings",
+            "iotsitewise",
+            "sitewise"
+        ],
         "title": "AWS IoT SiteWise Launched - Collect, Organize, and Analyze Data from Industrial Equipment at Scale",
-        "date": "2020/07/09"
+        "description": "AWS IoT SiteWise is a managed service that makes it easy to collect, store, organize and monitor data from industrial equipment at scale to help customers make better, data-driven decisions. Customers can use AWS IoT SiteWise to monitor operations across facilities, quickly compute common industrial performance metrics, and create applications that analyze industrial equipment data to prevent costly equipment issues and reduce gaps in production.\n\nLearn more about AWS IoT SiteWise at https://amzn.to/38EewX7\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSSiteWise #IoT #SiteWise #Manufacturing #Energy #Transportation #DigitalTransformation #InternetOfThings #Agtech #SmartFactory #CloudComputing #Industrial",
+        "date": "2020-07-09T19:17:45Z",
+        "duration": 160
     },
     {
         "service": "iot_sitewise",
         "videoId": "Gy-5LtX_yfY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Announcing AWS IoT SiteWise",
-        "date": "2018/11/30"
+        "description": "Learn how AWS IoT SiteWise can help you collect, structure, and search IoT data from industrial equipment at scale. Sign up for the limited preview: https://aws-amazon.com/iot-sitewise\n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:43:52Z",
+        "duration": 1222
     }
 ]

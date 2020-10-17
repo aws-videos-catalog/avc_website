@@ -2,193 +2,565 @@
     {
         "service": "amazon_lex",
         "videoId": "PLnRzHNmcao",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference 2018"
+        ],
         "title": "Building Intelligent Chatbots with Amazon Lex & Amazon Polly",
-        "date": "2018/04/12"
+        "description": "Learn more at - https://amzn.to/2v4ZAkG\nAWS offers a family of AI services that provide cloud-native Machine Learning and Deep Learning technologies allowing developers to build an entirely new generation of apps that can hear, speak, understand, and converse with application users. In this session we take a look at Amazon Polly and Amazon Lex and how we can use these services to build intelligent chatbots across social media, websites and kiosks.\n\nSpeaker: \n- Adam Larter, Developer Solutions Architect, Amazon Web Services, ANZ",
+        "date": "2018-04-12T18:59:53Z",
+        "duration": 1667
     },
     {
         "service": "amazon_lex",
         "videoId": "d3LYlNqfuzI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Lex"
+        ],
         "title": "Amazon Lex - Quickly Build Conversational Interfaces",
-        "date": "2017/06/07"
+        "description": "Learn more about Amazon Lex at - http://amzn.to/2r1qmHT.\nAmazon Lex is a service for building conversational interfaces into any application using voice and text. Amazon Lex provides the advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to recognize the intent of the text, to enable you to build applications with highly engaging user experiences and lifelike conversational interactions. With Amazon Lex, the same deep learning technologies that power Amazon Alexa are now available to any developer, enabling you to quickly and easily build sophisticated, natural language, conversational bots (“chatbots”).",
+        "date": "2017-06-07T23:12:53Z",
+        "duration": 117
     },
     {
         "service": "amazon_lex",
         "videoId": "9qky_E39-_I",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Lex Chatbot"
+        ],
         "title": "AWS Demo: How to Use an Amazon Lex Chatbot with an Amazon Connect Contact Center",
-        "date": "2017/09/06"
+        "description": "Demo on how to use an Amazon Lex chatbot with an Amazon Connect contact center. By adding an intelligent conversational chatbot for self-service, you will improve the customer experience and increase contact center efficiencies. Learn more here - http://amzn.to/2gDQNfi.",
+        "date": "2017-09-06T19:21:01Z",
+        "duration": 392
     },
     {
         "service": "amazon_lex",
         "videoId": "VsvEyQSFfRc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Live from the London Loft | Deep Dive: Amazon Lex",
-        "date": "2017/10/01"
+        "description": "Visit http://amzn.to/2yeB0Pg for more information on the current live coding shows, upcoming episode schedule, or for recordings of previous broadcasts. To learn more about the AWS Pop-up Loft | London, please visit https://awsloft.london/.\n\nLive from the London Loft | Deep Dive: Amazon Lex\nHost: Ian Massingham, Senior Technical Evangelist\nLive from the London Loft, Senior Technical Evangelist, Ian Massingham discusses how get started with Amazon Lex, add conversational interface features to your applications, and integrate with text-chat and voice based interfaces.",
+        "date": "2017-10-02T03:57:04Z",
+        "duration": 3057
     },
     {
         "service": "amazon_lex",
         "videoId": "c2mTY9kM0Bs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Chat Bots with Amazon Lex (Level 300)",
-        "date": "2017/12/21"
+        "description": "Learn more about AWS at - http://amzn.to/2meo1V9.\nLearn how to leverage Amazon Lex to engage your users with a natural language conversational interface using voice and text, create a chat bot to understand your users’ intentions and fulfill their requests. Engage in a conversation to extract key pieces of data from the user, fulfill the users’ intentions with AWS Lambda functions. There will also be examples on Integration with Facebook messenger & Slack.\n\nSpeaker: Olivier Klein, Emerging Technologies Solutions Architect, Amazon Web Services",
+        "date": "2017-12-22T01:39:56Z",
+        "duration": 1630
     },
     {
         "service": "amazon_lex",
         "videoId": "pKnOHtHcgVE",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Demo Theater",
+            "20794",
+            "Connect",
+            "Lex"
+        ],
         "title": "AWS re:Invent 2017: Demo: Use Amazon Lex to Build a Customer Service Chatbot in Your (DEM72)",
-        "date": "2017/11/29"
+        "description": "Use Amazon Lex to Build a Customer Service Chatbot in Your Amazon Connect Contact Center",
+        "date": "2017-11-29T17:12:35Z",
+        "duration": 820
     },
     {
         "service": "amazon_lex",
         "videoId": "Y1i39z-kfrk",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Machine Learning",
+            "MCL207",
+            "Lex"
+        ],
         "title": "AWS re:Invent 2017: Amazon Lex Integration with IVR (MCL207)",
-        "date": "2017/11/29"
+        "description": "In this session, we cover an integration of Amazon Lex with a contact center solution. We demonstrate how an Amazon Lex chatbot can be inserted into an interactive voice response (IVR) workflow in a contact center, enabling users to interact with the chatbot using natural language. We walk through a ready-to-deploy integration that includes building the bot, setting up the IVR, and managing the call routing. We also describe the best practices for selective routing based on user intent, exchange of information between the chatbot/IVR, and handover to a human agent.",
+        "date": "2017-11-29T16:17:46Z",
+        "duration": 3181
     },
     {
         "service": "amazon_lex",
         "videoId": "LxeSC3-xMlk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Education",
+            "Chatbot",
+            "Mobile",
+            "ML",
+            "Amazon Comprehend",
+            "Amazon DynamoDB",
+            "Amazon Elasticsearch Service",
+            "Amazon Lex",
+            "Amazon Simple Notification Service (SNS)",
+            "This is My Architecture",
+            "TMA"
+        ],
         "title": "St. Louis University: Using Amazon Lex to Answer Students' Questions Through Alexa and a Mobile App",
-        "date": "2020/05/25"
+        "description": "Learn how St. Louis University uses Amazon Lex, Amazon Elasticsearch, and Amazon Comprehend to build a Q&A chatbot for students and staff. Learn how users can get up-to-date answers to their questions on the go, while providing insight to content owners to ensure they are providing the information their students and faculty need.\n\n~Filmed prior to Covid-19~\n\nStart building now with AWS! https://aws.amazon.com/free/\n\n#AWS",
+        "date": "2020-05-25T16:05:21Z",
+        "duration": 404
     },
     {
         "service": "amazon_lex",
         "videoId": "i9ISkHPMTXw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference 2018"
+        ],
         "title": "Build an Omni-Channel Experience with Amazon Connect and Amazon Lex (Level 200)",
-        "date": "2018/08/24"
+        "description": "Learn more about the AWS Innovate Online Conference at - https://amzn.to/2MufMV0.\nCustomer experience is one of the most important strategic measurements for customer satisfaction, but keeping pace with customer behavior can be challenging. Chatbots provide one of the largest areas for growth and opportunities to drive new customer experiences. Coupled with Amazon Connect—an easy-to-use, cloud-based contact center service—organizations can create new omni-channel experiences that engage customers in new and better ways. In this session, we show you how to quickly set up an Amazon Connect contact center. We also show you how to use Amazon Lex to build intelligent conversational chatbots and integrate them with your contact center workflows, enabling you to offer a personalized and dynamic caller experience.\n\nSpeaker: Stefan Buchman, Solution Architect, Amazon Web Services",
+        "date": "2018-08-24T19:51:39Z",
+        "duration": 1573
     },
     {
         "service": "amazon_lex",
         "videoId": "wpafE1hLvB8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "How to Build a .NET Chatbot with Amazon Lex, AWS Lambda, and Amazon Cognito Identity",
-        "date": "2018/11/21"
+        "description": "For more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2t7AHBA.",
+        "date": "2018-11-21T20:40:07Z",
+        "duration": 1493
     },
     {
         "service": "amazon_lex",
         "videoId": "dO6msbSswKQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "אמזון ווב סרביסס",
+            "תשתיות ענן",
+            "אמזון ישראל",
+            "סאמיט",
+            "AWS Summit Tel Aviv"
+        ],
         "title": "AWS Summit Tel Aviv 2017: Building ChatBots with Amazon Lex",
-        "date": "2017/07/31"
+        "description": "Learn more about AWS at - https://aws.amazon.com/.\nAmazon Lex is a service for building conversational interfaces into any application using voice and text. Amazon Lex provides the advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to recognize the intent of the text, to enable you to build applications with highly engaging user experiences and lifelike conversational interactions. Join this session and learn how get started with Amazon Lex, add conversational interface features to your applications and integrate with text-chat and voice based interfaces.",
+        "date": "2017-07-31T20:49:40Z",
+        "duration": 2861
     },
     {
         "service": "amazon_lex",
         "videoId": "-XGqQP3A-PQ",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Machine Learning",
+            "MCL312",
+            "Lex",
+            "Messaging"
+        ],
         "title": "AWS re:Invent 2017: Building Multichannel Conversational Interfaces Using Amazon Lex (MCL312)",
-        "date": "2017/12/01"
+        "description": "In this session, discover how to build a multichannel conversational interface that leverages a preprocessing layer in front of Amazon Lex. This preprocessing layer can enable customers to integrate their conversational interface with external services and use multiple specialized Amazon Lex chatbots as part of an overall solution. As an example of how to integrate with an external service, learn how to integrate with Skype. Watch it in action through a chatbot demonstration with interaction through Skype messaging and voice.",
+        "date": "2017-12-02T05:04:33Z",
+        "duration": 3803
     },
     {
         "service": "amazon_lex",
         "videoId": "7keBPIx6L-k",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS Sydney Summit 2018: Multi Channel Service Delivery using Amazon Lex, Polly and Connect",
-        "date": "2018/05/21"
+        "description": "Most of the enterprises leverages call centre to reset the passwords and record any major incidents and act upon it. Using Amazon Connect, Lex and Transcribe we can automate the IT service management tasks and reduce call centre effort.\n\nAmazon Polly: https://aws.amazon.com/polly/\nAmazon Polly FAQs: https://aws.amazon.com/polly/faqs/",
+        "date": "2018-05-21T18:55:01Z",
+        "duration": 915
     },
     {
         "service": "amazon_lex",
         "videoId": "gGhtGWQLbmI",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "AI & Machine Learning",
+            "DEM115",
+            "Amazon Lex"
+        ],
         "title": "AWS re:Invent 2018: Quickly Build a Chatbot with Amazon Lex (DEM115)",
-        "date": "2018/11/27"
+        "description": "In this demo, learn how to use the Amazon Lex chatbot capability to build interactive games that help students learn better.\n\nSpeakers:\nAlan Kiernan, Cation Consulting \nHarshal Pimpalkhute, Sr. Product Manager Amazon Lex",
+        "date": "2018-11-27T19:09:16Z",
+        "duration": 1175
     },
     {
         "service": "amazon_lex",
         "videoId": "GCSPS9tpe80",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Stone",
+            "Demo Theater",
+            "15781",
+            "AI",
+            "Lex",
+            "Machine Learning",
+            "Polly",
+            "AWS Lambda",
+            "Business Apps",
+            "Enterprise",
+            "Mobile"
+        ],
         "title": "AWS re:Invent 2017: Leverage Amazon Lex for Custom Business Apps in Minutes! (DEM30)",
-        "date": "2017/11/29"
+        "description": "Do you develop business applications on AWS? Do your users require voice interactions in their business apps ASAP? Is diving into Amazon Lex on your to-do list? If so, you need to attend this session! In this hands-on workshop, we walk through how to use Amazon Lex to create conversational interfaces that interact with users and enterprise AWS data repositories using a drag-and-drop app composer. We build a real-world enterprise app during this session that fully leverages Amazon Lex and data, with a beautiful, mobile UI in minutes! Learn from an engineer who has developed product integrations with Amazon Lex, Amazon Polly, Amazon Machine Learning, and many other AWS services using Skuid. You walk away with a greater understanding about the use of chatbots, intents, and chaining, slots, multi-turn conversations, error handling, AWS Lambda, and deployments, and so on in the context of creating a real business application with an exceptional user interface. You walk away with the knowledge you need to begin leveraging Amazon Lex within custom business apps.\n\nSession sponsored by Skuid, Inc.",
+        "date": "2017-11-29T17:09:57Z",
+        "duration": 895
     },
     {
         "service": "amazon_lex",
         "videoId": "bbY5iM8YFVc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "NEW LAUNCH! An Introduction to Amazon Lex, Your Service for Building Voice and Text Chatbots",
-        "date": "2017/05/17"
+        "description": "Amazon Lex is a service for building conversational interfaces into any application using voice and text. With Amazon Lex, the same deep learning technologies that power Amazon Alexa are now available to any developer, enabling you to quickly and easily build sophisticated, natural language conversational chatbots.  No deep learning experience is required to immediately start creating chatbots that understand voice or text, to ask questions, get answers, and complete sophisticated tasks.  Lex enables you to easily publish your chatbots to mobile devices, web apps, services, and platforms such as Facebook Messenger, Twilio and Slack.  This session will go over the features available with Amazon Lex and how they can be used to build and deploy chatbots. Join us for this introductory presentation and learn more about Amazon Lex!\n\nLearn more about AWS at - http://amzn.to/2pX5PAy.",
+        "date": "2017-05-17T18:33:32Z",
+        "duration": 3745
     },
     {
         "service": "amazon_lex",
         "videoId": "27kYKr3XZfc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Lex",
+            "deep learning",
+            "chatbot",
+            "conversational interfaces"
+        ],
         "title": "Amazon Lex Now Generally Available",
-        "date": "2017/04/19"
+        "description": "Learn more about Amazon Lex at - http://amzn.to/2peyPXx.\nAmazon Lex is a new service for building conversational interfaces into any application using voice and text. With Amazon Lex, the same deep learning technologies that power Amazon Alexa are now available to any developer, enabling you to quickly and easily build sophisticated, natural language conversational bots. No deep learning experience is required to immediately start creating these chatbots that understand voice or text, to ask questions, get answers, and complete sophisticated tasks. And you can build and test your bots directly from the AWS Management Console. Lex enables you to easily publish your voice or text chatbots to mobile devices, web apps, and services such as Facebook Messenger, Slack, and Twilio. Amazon Lex is a fully managed service so as your user engagement increases, you don’t need to worry about provisioning hardware and managing infrastructure to power your bot experience. Amazon Lex’ pay-as-you-go pricing makes it a cost-effective way to build conversational interfaces anywhere. Try Amazon Lex for free, today.",
+        "date": "2017-04-19T20:43:06Z",
+        "duration": 107
     },
     {
         "service": "amazon_lex",
         "videoId": "oIrSCXswUBg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "lex",
+            "chatbot",
+            "dialogue",
+            "conversation"
+        ],
         "title": "Amazon Sumerian: Building a Chatbot Using A Sumerian Host and Amazon Lex",
-        "date": "2018/06/11"
+        "description": "Amazon Sumerian allows you to use integrate Amazon Lex and Amazon Polly to create conversational Hosts. Learn more about Amazon Sumerian at - https://amzn.to/2l55P0e.",
+        "date": "2018-06-11T18:56:38Z",
+        "duration": 97
     },
     {
         "service": "amazon_lex",
         "videoId": "8ZxnGqWNtbU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "reinvent",
+            "machine learning"
+        ],
         "title": "AWS Builders' Day | Building ChatBots with Amazon Lex",
-        "date": "2018/02/14"
+        "description": "Check out the upcoming schedule, previous recordings, and links to the resources discussed at - http://amzn.to/2EqZTKQ.\n\nAmazon AI services bring natural language understanding (NLU), automatic speech recognition (ASR), visual search and image recognition, text-to-speech (TTS), and machine learning (ML) technologies within the reach of every developer. Learn how you can easily add these powerful features to your applications to enhance the way they interact with the real world.\n\nGet started with Machine Learning at https://aws.amazon.com/machine-learning/.",
+        "date": "2018-02-14T19:33:22Z",
+        "duration": 3386
     },
     {
         "service": "amazon_lex",
         "videoId": "I5OlTMLinio",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "MAC304",
+            "Vikram Anbazhagan",
+            "Machine Learning Mini Con"
+        ],
         "title": "AWS re:Invent 2016: NEW LAUNCH! Introducing Amazon Lex (MAC304)",
-        "date": "2016/12/03"
+        "description": "Amazon Lex is a service for building conversational interfaces into any applications using voice and text. With Lex, the same deep learning engine that powers Amazon Alexa is now available to any developer, enabling you to build sophisticated, natural language chatbots into your new and existing applications. Amazon Lex provides the deep functionality and flexibility of natural language understanding (NLU) and automatic speech recognition (ASR) to allow you to build highly engaging user experiences with lifelike, conversational interactions.  In this introductory session, find out how Lex provides  deep functionality and flexibility to empower you to define entirely new categories of products that are made possible through conversational interfaces.",
+        "date": "2016-12-03T18:43:12Z",
+        "duration": 2782
     },
     {
         "service": "amazon_lex",
         "videoId": "i7n3ArbItvE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS San Francisco Summit 2017"
+        ],
         "title": "AWS Summit Series 2017 - San Francisco: Amazon Lex is now Generally Available",
-        "date": "2017/04/20"
+        "description": "Amazon Lex is a service for building conversational interfaces into your application using voice and text. With Amazon Lex, the same deep learning technologies that power Amazon Alexa are now available to developers, enabling you to quickly and easily build sophisticated, natural language conversational bots.\n\nLearn more at - http://amzn.to/2oqyNYb.",
+        "date": "2017-04-20T16:01:00Z",
+        "duration": 57
     },
     {
         "service": "amazon_lex",
         "videoId": "ZdeK8HnhKQ8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "re:Invent 2016"
+        ],
         "title": "AWS re:Invent 2016: Introducing Amazon Lex, now in Preview",
-        "date": "2016/12/01"
+        "description": "Amazon Lex is a service for building conversational interfaces into any application using voice and text. Lex provides the advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to recognize the intent of the text, to enable you to build applications with highly engaging user experiences and lifelike conversational interactions. With Amazon Lex, the same deep learning technologies that power Amazon Alexa are now available to any developer, enabling you to quickly and easily build sophisticated, natural language, conversational bots (“chatbots”).",
+        "date": "2016-12-01T23:37:07Z",
+        "duration": 138
     },
     {
         "service": "amazon_lex",
         "videoId": "55iwsUrCoK4",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Architecture",
+            "ARC331",
+            "AI",
+            "API Gateway",
+            "Connect",
+            "Lex",
+            "AWS Lambda",
+            "Internet of Things"
+        ],
         "title": "AWS re:Invent 2017: How I Made My Motorbike Talk, or How to Mix Amazon Lex, Amazon L (ARC331)",
-        "date": "2017/11/29"
+        "description": "This talk includes a story and a recipe. The story is about a nerd who bought his first motorbike, got a license for it, and started hacking to make it interact and talk, all in two months. The recipe is a technical one that explains how to use Amazon Lex and Amazon Lambda to quickly prototype and deploy a serverless chatbot connected with an embedded device in order to realize an Internet of Things (IoT) application. We discuss how you can integrate your IoT application with Amazon Lex using AWS Lambda and the Amazon API Gateway, how to exchange session data to have a contextual conversation, and how to provide a successful bot experience. Expect to leave this session knowing how to build, deploy, and publish a bot, and how to attach it to an IoT device—with the potential to bringing to life any object that surrounds you.",
+        "date": "2017-11-29T16:52:14Z",
+        "duration": 2659
     },
     {
         "service": "amazon_lex",
         "videoId": "iVmsEsBKnL8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2681aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "MBL307",
+            "Rohan Deshpande",
+            "Advanced (300 level)",
+            "Mobile"
+        ],
         "title": "AWS re:Invent 2016: NEW LAUNCH! Enhance Your Mobile Apps with AI Using Amazon Lex (MBL307)",
-        "date": "2016/12/03"
+        "description": "Amazon Echo and Alexa have shown that voice interfaces provide significant benefits to users – interactions are easy, fast, and context-driven. In this hands-on session, you’ll see how to add compelling voice and chat interfaces to your mobile apps, using Amazon Lex for processing conversations and triggering corresponding actions in your backend systems, all without having to manage any infrastructure. You’ll leave knowing how to build apps that can “Find me a nearby hotel” or “Reorder supplies for the copier”.",
+        "date": "2016-12-03T23:11:05Z",
+        "duration": 2178
     },
     {
         "service": "amazon_lex",
         "videoId": "jigGyThcMMM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Lex",
+            "chatbots",
+            "Twitch"
+        ],
         "title": "Live Coding with AWS | Building Chatbots with Lex",
-        "date": "2017/06/13"
+        "description": "Learn more at http://amzn.to/2rwPd3r or watch live on https://www.twitch.tv/aws.\nJoin AWS on Twitch every week for interactive live coding from building serverless applications to building your first cloud connected robot. Questions or ideas on future broadcasts? Email us at AWS-Twitch@amazon.com.",
+        "date": "2017-06-13T19:54:16Z",
+        "duration": 4679
     },
     {
         "service": "amazon_lex",
         "videoId": "Idg8c9rf4u4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "startups",
+            "automation"
+        ],
         "title": "Wag: CX Automation with AWS Connect, Lex and Lambda",
-        "date": "2019/04/05"
+        "description": "Learn more about AWS Startups at – https://amzn.to/2D1L7Ye \nDave Bullock, Sr. Director of Technology, Engineering and Operations at Wag Labs, Inc. talks about CX automation with AWS Connect, Lex and Lambda at the 2019 AWS Santa Clara Summit.",
+        "date": "2019-04-05T20:41:30Z",
+        "duration": 661
     },
     {
         "service": "amazon_lex",
         "videoId": "TeLvFqLW_0A",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Machine Learning",
+            "MCL301",
+            "Lex",
+            "Polly"
+        ],
         "title": "AWS re:Invent 2017: Building a Voice-Enabled Customer Service Chatbot Using Amazon L (MCL301)",
-        "date": "2017/11/29"
+        "description": "Amazon Lex is a service for building conversational interfaces into any application using voice and text, and Amazon Polly is a service that turns text into lifelike speech. This session combines both of these AWS services during which the presenter will demonstrate how to build a Help Desk chatbot that feature spoken-voice interfaces. Attendees will be provided with the foundational skills for those looking to enrich their applications with natural, conversational interfaces. Liberty Mutual Insurance will also present on their chat platform architecture to demonstrated how they areusing Amazon Lex in their organization as an employee digital assistant.",
+        "date": "2017-11-29T16:14:47Z",
+        "duration": 3626
     },
     {
         "service": "amazon_lex",
         "videoId": "XQW1WSKLo3E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon Sumerian at AWS Loft | Creating a Chatbot",
-        "date": "2019/02/27"
+        "description": "This session will teach participants how to integrate Amazon Polly and Amazon Lex services to create a dynamic, interactive speech or text-driven chatbot.\n\nLevel: 300\n\nFor Sumerian CTA links:\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\n\nJoin the Sumerian Slack: https://amazonsumerian.slack.com/join/shared_invite/enQtMjk4MTE2MTMxMzQ4LTliMjM2ZTQ4NDRjZjZkOTAxMzc4OTEyZGI2YzJiZjczNmUxMjM2NGQ0ZGZlNTRkMjI1NGE0MTdkYzZmYzJlNDI\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings/",
+        "date": "2019-02-27T22:21:08Z",
+        "duration": 2492
     },
     {
         "service": "amazon_lex",
         "videoId": "vlrody2kQiw",
-        "title": "Build and Deploy an Amazon Lex Chatbot and Convert it to an Alexa Skill (Level 200)",
-        "date": "2020/09/01"
+        "tags": [
+            "Emerging Tech",
+            "AWS Summit Online EMEA"
+        ],
+        "title": "I work with Emerging Tech - Build and Deploy an Amazon Lex Chatbot and Convert it to an Alexa Skill",
+        "description": "Amazon Lex can help you launch a sophisticated natural language chatbot for your new and existing applications. It provides the deep functionality and flexibility of natural language understanding (NLU) and automatic speech recognition (ASR) so you can build a conversational interface. In this session, we show you how to build a chatbot and deploy it across messaging services such as Slack, Facebook, and Twilio, as well as on a website. We also demonstrate how to convert this Amazon Lex chatbot into an Alexa skill.\n\n\nSohan is a Developer Advocate based out of Amsterdam, Netherlands. He is deeply passionate about emerging technologies and how it is shaping the world around us. He frequently works with developers in startups, ISVs, and enterprises on their cloud strategy.  He previously worked as an Alexa Evangelist at Amazon, and has been in the developer relations space since 2013.  Outside of work, Sohan loves playing frisbee, listening to rock music and reading comic books.\n\n\nLearn more about AWS at - https://amzn.to/3j5yuOm\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
+        "date": "2020-09-01T16:45:18Z",
+        "duration": 2803
     },
     {
         "service": "amazon_lex",
         "videoId": "S8zcgBLCm-E",
+        "tags": [
+            "AWS",
+            "amazon web services",
+            "aws lambda",
+            "amazon pinpoint",
+            "amazon lex",
+            "aws events",
+            "aws event 2019",
+            "sms chatbot",
+            "ai",
+            "chatbot"
+        ],
         "title": "SMS Chatbot with Amazon Pinpoint, Amazon Lex, and AWS Lambda",
-        "date": "2020/02/04"
+        "description": "In this webinar you will learn how to build an AI-powered chatbot that your customers can engage with by sending SMS messages. This chatbot can help customers quickly ask questions, get answers, book appointments, check order status, and much more.\n\nLearn more at https://go.aws/39dA7oB\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4\n\n#AWSEvents #AmazonPinpoint #AmazonLamda",
+        "date": "2020-02-04T18:06:10Z",
+        "duration": 1971
     },
     {
         "service": "amazon_lex",
         "videoId": "YMO1NuEGXfk",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CON218",
+            "Containers"
+        ],
         "title": "AWS re:Invent 2019: How Amazon Lex uses Amazon ECS to process batches at scale (CON218)",
-        "date": "2019/12/03"
+        "description": "Amazon Lex creates conversational interfaces powered by the same deep learning technologies used in Alexa. AWS Batch dynamically provisions the optimal quantity and type of compute resources based on the volume and specific resource requirements of the batch jobs submitted. In this chalk talk, learn how Amazon Lex uses Amazon ECS to dynamically run these batch jobs to create conversational bots.",
+        "date": "2019-12-03T18:02:39Z",
+        "duration": 3495
     },
     {
         "service": "amazon_lex",
         "videoId": "QpHM6DXxcDI",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DEM26-S",
+            "HERE"
+        ],
         "title": "AWS re:Invent 2019: How to create a location-aware chatbot, and why (DEM26-S)",
-        "date": "2019/12/04"
+        "description": "In this session, Michael Palermo of HERE Technologies provides guidance for using location terms when designing for Amazon Lex or Alexa. Learn tips on how to design intents, sample utterances, and slots, and learn how to call location services from a serverless architecture. This presentation is brought to you by HERE Technologies, an APN Partner.",
+        "date": "2019-12-04T17:35:59Z",
+        "duration": 1113
     }
 ]

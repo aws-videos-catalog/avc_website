@@ -2,139 +2,479 @@
     {
         "service": "service_catalog",
         "videoId": "A9kKy6WhqVA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Management Tools",
+            "AWS Service Catalog",
+            "Davis Herbig"
+        ],
         "title": "AWS Service Catalog - Getting Started",
-        "date": "2018/06/07"
+        "description": "AWS Service Catalog allows organizations to create and manage catalogs of IT services that are approved for use on AWS. Watch this video to get started with AWS Service Catalog. Additional documentation can be found at - https://amzn.to/2Jcxz1m.",
+        "date": "2018-06-07T16:23:26Z",
+        "duration": 437
     },
     {
         "service": "service_catalog",
         "videoId": "FePuPhh_6nc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Service Catalog",
+            "AWS Service Catalog Getting Started",
+            "AWS Management and Governance",
+            "AWS Management Tools"
+        ],
         "title": "AWS Service Catalog - Getting Started",
-        "date": "2019/10/15"
+        "description": "AWS Service Catalog allows organizations to create and manage catalogs of IT services that are approved for use on AWS. Watch this video to get started with AWS Service Catalog. Additional documentation can be found at - https://amzn.to/2P0M4qT.",
+        "date": "2019-10-15T22:41:45Z",
+        "duration": 95
     },
     {
         "service": "service_catalog",
         "videoId": "PPybKJubMeY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Service Catalog",
+            "Organization",
+            "accounts"
+        ],
         "title": "Automate Account Creation Using AWS Service Catalog",
-        "date": "2019/11/26"
+        "description": "Learn more about AWS Management and Governance at https://amzn.to/37DzaWt\nIn this video, you’ll see how to automate account creation using AWS Service Catalog. You’ll learn how to quickly generate new accounts for your AWS Organization, configure baseline templates to employ during the creation process, and provision the new accounts using those templates.",
+        "date": "2019-11-26T20:52:38Z",
+        "duration": 488
     },
     {
         "service": "service_catalog",
         "videoId": "LzvhTcqqyog",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Resources",
+            "service Catalog"
+        ],
         "title": "Manage User Access to Resources with AWS Service Catalog",
-        "date": "2019/12/20"
+        "description": "Learn more about AWS Management and Governance at – https://amzn.to/2PM2L9s\nIn this video, you’ll see how to manage user access to resources with AWS Service Catalog. With AWS Service Catalog, you can deploy products and portfolios within your organization, make these resources available to users, and assign roles and permissions to limit access to certain resources.",
+        "date": "2019-12-20T20:56:30Z",
+        "duration": 412
     },
     {
         "service": "service_catalog",
         "videoId": "jvAAiWxYQwg",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Devops",
+            "DEV328",
+            "AWS Service Catalog"
+        ],
         "title": "AWS re:Invent 2018: Streamlining Application Development with AWS Service Catalog (DEV328)",
-        "date": "2018/11/30"
+        "description": "Discover how AWS Service Catalog is enabling Deloitte ConvergeHEALTH to streamline application deployment for its family of Life Sciences analytics software products. In this session, learn how Deloitte has reduced deployment time from days to minutes by leveraging an automated, consistent, and compliant approach to application deployment. This session is designed for application developers, applications owners, and anyone who wants to improve their time to value and business agility using the automated deployment capabilities of AWS Service Catalog.",
+        "date": "2018-11-30T16:39:03Z",
+        "duration": 3325
     },
     {
         "service": "service_catalog",
         "videoId": "ameanoaMldM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Application Deployment",
+            "DevOps",
+            "AWS Service Catalog",
+            "Amazon API Gateway",
+            "Amazon CloudFront",
+            "Amazon Route 53",
+            "Amazon Simple Storage Service (S3)",
+            "AWS Certificate Manager",
+            "AWS CloudFormation",
+            "AWS CodePipeline",
+            "AWS Lambda",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Bristol-Myers Squibb: Enabling DevOps with AWS Service Catalog",
-        "date": "2019/09/04"
+        "description": "Assembling new application stacks on AWS can take time. In some cases, it can lead to duplication of CloudFormation elements already used for other application stacks. In this video, Bristol-Meyers Squibb (BMS) talks about their need to optimize application build and standardize application building blocks approved for re-use. To do so, BMS uses pre-approved application stack elements in their AWS Service Catalog, enabling developers and business owners to deploy new application stacks quickly and safely with approved components in a self-service model.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-09-04T13:41:38Z",
+        "duration": 377
     },
     {
         "service": "service_catalog",
         "videoId": "WOHmpwHJn0I",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Service catalog",
+            "connector",
+            "Service Now"
+        ],
         "title": "Track and Manage Product Usage with AWS Service Catalog",
-        "date": "2019/12/20"
+        "description": "Learn more about AWS Management and Governance at – https://amzn.to/2sOo7tB\nIn this video, you’ll see how to track and manage product usage with AWS Service Catalog. With this custom licensing solution provided by Amazon, you can monitor the consumption of AWS products, limit access to products by end users, and prevent cost overruns on Amazon Web Services.",
+        "date": "2019-12-20T20:49:36Z",
+        "duration": 476
     },
     {
         "service": "service_catalog",
         "videoId": "jRNZgG645FM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Data Science",
+            "Service Catalog",
+            "Deploy"
+        ],
         "title": "Enabling Secure and Compliant Sagemaker Notebook Deployments with AWS Service Catalog",
-        "date": "2019/12/20"
+        "description": "Learn more about AWS Management and Governance at – https://amzn.to/2SasSIJ\nIn this video, you’ll see how to enable data scientists to deploy Amazon products using AWS Service Catalog. With this service, you can manage access to on-demand resources, provision those resources to users with specialized roles, and employ templates to configure specific products.\n\n#sagemaker #machinelearning #awsservicecatalog",
+        "date": "2019-12-20T20:53:26Z",
+        "duration": 322
     },
     {
         "service": "service_catalog",
         "videoId": "KUGP3N7kEdw",
-        "title": "AWS re:Inforce 2019: Mitigate Misconfigurations with AWS Service Catalog and Control Tower (FND311)",
-        "date": "2019/06/26"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Inforce",
+            "AWS re:Inforce 2019",
+            "security",
+            "identity",
+            "compliance",
+            "cloud security",
+            "AWS security",
+            "cloud security community",
+            "learning conference",
+            "Detective Controls",
+            "Infrastructure Security",
+            "Data Protection",
+            "Incident Response",
+            "Governance",
+            "Risk",
+            "Compliance",
+            "security best practices",
+            "The Foundation",
+            "AWS re:Inforce 2019 Sessions",
+            "Session",
+            "FND311",
+            "Darren House",
+            "300 - Advanced"
+        ],
+        "title": "AWS re:Inforce 2019:  Mitigate Misconfigurations with AWS Service Catalog and Control Tower (FND311)",
+        "description": "Security is a growing concern. Misconfigurations and inconsistent deployments provide opportunities for attackers to find vulnerabilities. This underscores the need to enforce policies as more and more production workloads move to the cloud. In this session, we focus on how customers are using Service Catalog as a layered defense-in-depth mechanism to mitigate misconfigurations and variability in workload deployments. In addition, we discuss how Control Tower provides guardrails for policy enforcement. These help customers like World Bank enforce security and manage compliance.\n\nComplete Title: AWS re:Inforce 2019: Don’t Be a Haven for Attackers: Mitigate Misconfigurations with AWS Service Catalog and Control Tower (FND311) \n\n Presenter(s): \n-  Yu Gao, World Bank Group",
+        "date": "2019-06-26T12:42:07Z",
+        "duration": 2379
     },
     {
         "service": "service_catalog",
         "videoId": "FP0W4--3OLw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Service Actions",
+            "Service Catalog",
+            "AWS Service Catalog",
+            "Self-Service Actions",
+            "automation",
+            "delegation"
+        ],
         "title": "Configure Service Actions for End Users in AWS Service Catalog",
-        "date": "2020/08/12"
+        "description": "In this video, you’ll see how to configure service actions for end users in AWS Service Catalog. With service actions, you can allow authorized users to perform self-service operational tasks such as rebooting instances or taking snapshots on AWS Service Catalog products.\n\nLearn more about AWS Service Catalog at - https://amzn.to/3izjs3f\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-08-12T22:19:27Z",
+        "duration": 427
     },
     {
         "service": "service_catalog",
         "videoId": "XqXOoV8Q4Ig",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Service Catalog",
+            "Terminate"
+        ],
         "title": "Automatically Terminate Resources for Products Deployed with AWS Service Catalog",
-        "date": "2019/12/20"
+        "description": "Learn more about AWS Management and Governance at – https://amzn.to/2EHycLG\nIn this video, you’ll see how to automatically terminate resources for products deployed with AWS Service Catalog. With this custom solution provided by Amazon, you can deploy ephemeral resources, specify expiration times for them, and then remove the resources automatically when they are no longer needed.",
+        "date": "2019-12-20T20:52:21Z",
+        "duration": 328
     },
     {
         "service": "service_catalog",
         "videoId": "kRJeL2dn7dM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Real world data",
+            "real world evidence",
+            "life sciences",
+            "personalized medicine",
+            "AWS Service Catalog",
+            "AWS CloudFormation",
+            "case study",
+            "customer reference"
+        ],
         "title": "Deloitte Cuts Deployment Time by 99% Using AWS and AWS Service Catalog",
-        "date": "2018/08/13"
+        "description": "Learn more about the AWS Service Catalog at - https://amzn.to/2OoSjkA.\nDeloitte adopted an infrastructure-as-code approach to reduce deployment times for its ConvergeHEALTH Miner solution, which enables organizations to analyze vast amounts of disparate data to speed discovery, time-to-market, and safety testing for new personalized medicine therapies. Deloitte is a global consulting firm with more than 245,000 professionals serving clients across 150 countries and territories. Deloitte uses AWS CloudFormation to embody infrastructure in code and AWS Service Catalog for automated deployment of the entire solution.",
+        "date": "2018-08-13T15:43:33Z",
+        "duration": 175
     },
     {
         "service": "service_catalog",
         "videoId": "KU2KHgLaPuo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Big Data",
+            "Service Catalog"
+        ],
         "title": "Enable Data Analysts to Deploy Big Data Resources Using AWS Service Catalog",
-        "date": "2019/12/20"
+        "description": "Learn more about AWS Management and Governance at – https://amzn.to/34Iw8gU\nIn this video, you’ll see how to enable data analysts to deploy big data resources using AWS Service Catalog. By making products available through the Service Catalog, you can manage access to on-demand resources, provision those resources to users with specialized roles, and employ templates to configure specific products.",
+        "date": "2019-12-20T20:55:13Z",
+        "duration": 356
     },
     {
         "service": "service_catalog",
         "videoId": "wWUDo10iFWo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Wiley",
+            "AWS Service Catalog",
+            "online publishing",
+            "academic publishing",
+            "agility",
+            "time-to-market"
+        ],
         "title": "Wiley Uses AWS Service Catalog to Automate Application Development Processes",
-        "date": "2017/06/15"
+        "description": "Learn more about the AWS Service Catalog at http://amzn.to/2rhLLcl.\nWiley is using AWS to give developers self-service capabilities, launch new applications in minutes instead of weeks, and enable the creation of new digital publishing platforms. The largest publisher on behalf of scholarly societies, Wiley publishes peer-reviewed scholarly research across many disciplines including science, technology, and social sciences. The company uses AWS and AWS Service Catalog to enable next-generation publishing platforms to accelerate its growth in scholarly publishing.",
+        "date": "2017-06-15T16:15:13Z",
+        "duration": 210
     },
     {
         "service": "service_catalog",
         "videoId": "9kYl_31iT4g",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit"
+        ],
         "title": "Cloud Governance and Provisioning Management Using AWS Management Tools and AWS Service Catalog",
-        "date": "2019/06/03"
+        "description": "Learn more about AWS at – https://amzn.to/2WFk9ku \nAs customers migrate to the cloud, IT needs to maintain structured compliance and governance while providing developers with the flexibility to manage cloud resources at scale. AWS provides a set of management tools that enables you to programmatically provision, monitor, and automate the components of your cloud environment. In this session, learn how you can use these tools to maintain consistent controls without restricting development velocity.",
+        "date": "2019-06-03T17:27:24Z",
+        "duration": 2635
     },
     {
         "service": "service_catalog",
         "videoId": "rve_WACMeg4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS re:Invent 2014",
+            "re:Invent",
+            "reinvent",
+            "service catalog",
+            "service",
+            "catalog",
+            "products",
+            "portal",
+            "business"
+        ],
         "title": "AWS re:Invent 2014 | Announcing AWS Service Catalog",
-        "date": "2014/11/12"
+        "description": "Learn more: https://aws.amazon.com/servicecatalog\nAWS Service Catalog is a service that allows end users in your organization to easily find and launch products using a personalized portal. You can create and manage multiple catalogs of standardized offerings and control which users have access to which products, enabling compliance with business policies. Your organization can benefit from increased agility and reduced costs, as end users can find and launch only the products they need from a catalog that you control.",
+        "date": "2014-11-13T01:00:33Z",
+        "duration": 53
     },
     {
         "service": "service_catalog",
         "videoId": "J6XeDtCuERM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "DevOps & Tools",
+            "DEV321",
+            "Shahbaz Alam",
+            "Advanced (300 Level)"
+        ],
         "title": "AWS re:Invent 2016: Enabling DevOps for an Enterprise with AWS Service Catalog (DEV321)",
-        "date": "2016/12/03"
+        "description": "As incumbent enterprises move to the cloud, questions arise how transform the legacy IT culture to maximize the agility and flexibility AWS provides. Speed and dexterity must be implemented in a consistent manner, minimizing the impact to the organizational structure, but taking into account the existing skill sets and knowledge base. With AWS Service Catalog, you can manage commonly deployed AWS CloudFormation template versions, enable controlled self-provisioning, and leverage those same products in your automated deployment pipelines to AWS. In this session, developers, operations leads, architects, and IT managers learn how to leverage AWS Service Catalog and AWS CloudFormation to transform IT culture to maximize the agility, flexibility, and value that the AWS platform provides. Additionally, John Wiley & Sons, a 200-year-old enterprise, demonstrates how AWS Professional Services helped them balance the velocity achieved by moving to AWS with a structured governance model to deploy their cloud infrastructure and application code.",
+        "date": "2016-12-03T23:20:40Z",
+        "duration": 2990
     },
     {
         "service": "service_catalog",
         "videoId": "5mn3NdJWL-Y",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Application Deployment & Management",
+            "Introductory",
+            "Architect",
+            "Startup",
+            "IT Executive",
+            "Developer",
+            "Ashutosh Tiwary",
+            "Abhishek Lal"
+        ],
         "title": "AWS re:Invent 2014 | (APP204) NEW LAUNCH: Introduction to AWS Service Catalog",
-        "date": "2014/11/17"
+        "description": "Running an IT department in a large organization is not easy.  To provide your internal users with access to the latest and greatest technology so that they can be as efficient and as productive as possible needs to be balanced with the need to set and maintain corporate standards, collect and disseminate best practices, and provide some oversight to avoid runaway spending and technology sprawl. Introducing AWS Service Catalog, a service that allows end users in your organization to easily find and launch products using a personalized portal. You can manage catalogs of standardized offerings and control which users have access to which products, enabling compliance with business policies. Your organization can benefit from increased agility and reduced costs. Attend this session to be one of the first to learn about this new service.",
+        "date": "2014-11-17T22:37:04Z",
+        "duration": 2717
     },
     {
         "service": "service_catalog",
         "videoId": "-oEouVbxKks",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Mortgage Business",
+            "Speed",
+            "Security",
+            "Compliance",
+            "Marketplace",
+            "Service Catalog"
+        ],
         "title": "Mortgage Business Case Study with AWS Marketplace and AWS Service Catalog",
-        "date": "2018/02/01"
+        "description": "Mortgage business uses AWS Marketplace to deploy software more quickly while Service catalog offers security, governance and easy availability of pre-approved services to innovate faster.  Learn more at - http://amzn.to/2GAreI6.",
+        "date": "2018-02-01T16:13:56Z",
+        "duration": 209
     },
     {
         "service": "service_catalog",
         "videoId": "WQbKPTtwqhA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Service Catalog",
+            "iCIMS",
+            "Service Catalog",
+            "AWS Management and Governance",
+            "Management and Governance",
+            "Cloud Provisioning",
+            "IT lifecycle management",
+            "IT service management",
+            "ITSM",
+            "aws customer success",
+            "aws customer"
+        ],
         "title": "Learn How iCIMS uses AWS Service Catalog to Deliver Results for their Customers",
-        "date": "2020/03/02"
+        "description": "iCIMS is the leading recruitment software provider for employers to attract, engage and hire great people. iCIMS enables companies to manage and scale their recruiting programs through an end-to-end talent acquisition platform and an ecosystem of nearly 300 integrated partners.\n\n“AWS Service Catalog helps us create environments quickly by eliminating continuous manual authorizations and stabilizing our costs for future research and development. In addition, Service Catalog helps us remain compliant by putting guardrails in place, which impact what technology can be used in a self-service environment, as well as who can use the technology. As a result, we gain faster and frequent code delivery, saved costs, and the opportunity to experiment with different technologies and configurations.” – Ben Barresi, Director of Cloud Hosting, iCIMS.\n\nLearn more about AWS service catalog at https://go.aws/383DRYL\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #AWSCustomer",
+        "date": "2020-03-02T18:31:28Z",
+        "duration": 91
     },
     {
         "service": "service_catalog",
         "videoId": "B6UWXCK4FfU",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Security",
+            "Identity",
+            "and Compliance",
+            "SEC318",
+            "AWS Service Catalog"
+        ],
         "title": "AWS re:Invent 2018: Verizon is Accelerating Cloud Adoption w/ AWS Service Catalog Connector(SEC318)",
-        "date": "2018/11/30"
+        "description": "Many enterprises want to drive faster cloud adoption and time to market (TTM) by allowing their developers, who have various skill sets, to onboard onto AWS quickly using self-service. However, enabling security, governance, and compliance while not compromising user experience can be a challenge. In this session, Verizon demonstrates how they use the AWS Service Catalog Connector for ServiceNow to create a robust self-service computing environment while meeting Verizon’s governance and security controls and achieving their goal of migrating  30% of their applications onto AWS in a short timeframe. Complete Title: AWS re:Invent 2018: How Verizon is Accelerating Cloud Adoption & Migration with the AWS Service Catalog Connector for ServiceNow (SEC318)",
+        "date": "2018-11-30T16:35:23Z",
+        "duration": 3025
     },
     {
         "service": "service_catalog",
         "videoId": "LOFitMCN6LQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "NEW LAUNCH! Better Software Procurement and Management Using AWS Marketplace and Service Catalog",
-        "date": "2017/04/24"
+        "description": "Learn more about AWS at - http://amzn.to/2oE87CI\n\nLarge enterprises face unique procurement, scaling, and management challenges with their software portfolio. AWS has two services in AWS Marketplace and AWS Service Catalog which combine to address these challenges uniquely. Attend this session to learn how the newly launched integration between these two services can help IT Managers and IT Procurement manage the lifecycle of their software portfolios, how the new integration works with popular use cases, and for a demo.",
+        "date": "2017-04-24T17:24:50Z",
+        "duration": 3470
     },
     {
         "service": "service_catalog",
         "videoId": "IiDgAW63WPs",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "MGT303-R",
+            "Management Tools & Governance",
+            "Legg Mason",
+            "AWS CloudFormation",
+            "AWS Systems Manager",
+            "AWS Config"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT] How to ensure configuration compliance (MGT303-R)",
-        "date": "2019/12/13"
+        "description": "In this session, we dig into how to proactively govern and monitor your expanding AWS footprint using AWS Management and Governance services. We describe how AWS Config rules, AWS CloudFormation drift detection, AWS Service Catalog, and AWS Systems Manager State Manager help you maintain compliance with your AWS stack at scale.",
+        "date": "2019-12-13T19:55:57Z",
+        "duration": 3198
     }
 ]

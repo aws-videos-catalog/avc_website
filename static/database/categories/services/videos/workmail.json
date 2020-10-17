@@ -2,79 +2,274 @@
     {
         "service": "workmail",
         "videoId": "9sj2UqKMKGI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws workmail",
+            "aws workmail setup",
+            "aws workmail tutorial",
+            "aws workmail custom domain",
+            "aws workmail smtp setting",
+            "aws workmail configuration",
+            "aws workmail getting started",
+            "aws workmail backup",
+            "aws workmail alias",
+            "aws quick start",
+            "aws videos",
+            "quick start with aws",
+            "aws beginners tutorial",
+            "aws beginner",
+            "aws beginner training",
+            "aws beginner course",
+            "aws beginner video",
+            "aws beginner tutorial",
+            "aws startup",
+            "Arthi Jaganathan"
+        ],
         "title": "Amazon Workmail for Your Everyday Communication",
-        "date": "2018/11/05"
+        "description": "Watch more videos and learn more about Cloud Essentials on AWS ASEAN at - https://amzn.to/2D1CA8q.\nEmail and calendar are two things that really help communication and organization in running a business, from startup to enterprise. In this video, we will explain how you can easily have an email and calendar solution easily using Amazon WorkMail.\n\nPresenter: Arthi Jaganathan, Solutions Architect, AWS",
+        "date": "2018-11-05T17:17:09Z",
+        "duration": 576
     },
     {
         "service": "workmail",
         "videoId": "Ha-5K5cDY6E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "workmail",
+            "domain verification"
+        ],
         "title": "AWS Knowledge Center Videos: How do I set up WorkMail domain verification?",
-        "date": "2017/12/11"
+        "description": "Find more details in the AWS Knowledge Center: \nhttp://amzn.to/2yxsfwK\n\nMiikka, an AWS Cloud Support Engineer, shows you how to set up WorkMail domain verification.",
+        "date": "2017-12-11T15:50:32Z",
+        "duration": 301
     },
     {
         "service": "workmail",
         "videoId": "3Wq-ghtB0XQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Workmail",
+            "email in the cloud",
+            "Amazon Web Services Workmail"
+        ],
         "title": "Amazon WorkMail – Fully Managed Business Email & Calendar Service",
-        "date": "2016/01/04"
+        "description": "Get started today for free with a 30-day trial of Amazon WorkMail for up to 25 users: http://amzn.to/1IGr80I\n\nAmazon WorkMail is a secure, managed business email and calendar service with support for existing desktop and mobile email clients. Amazon WorkMail gives users the ability to seamlessly access their email, contacts, and calendars using Microsoft Outlook, a web browser, or native iOS and Android email applications. Amazon WorkMail also integrates with your existing corporate directory and allows you to control both, the keys that encrypt your data and the location in which your data is stored.",
+        "date": "2016-01-04T21:53:02Z",
+        "duration": 141
     },
     {
         "service": "workmail",
         "videoId": "A6iST0dAaqo",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "IT Strategy & Migration",
+            "ISM317",
+            "Thomas Doehler - Amazon",
+            "Milo Oostergo - Amazon",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (ISM317) Amazon WorkMail: Corporate Email in Less Than 10 Minutes",
-        "date": "2015/10/09"
+        "description": "Managing corporate email infrastructure is highly capital intensive and laborious. Amazon WorkMail does all the heavy lifting on behalf of customers, to offer the highest grade of security to organizations, along with much needed flexibility. In this session, get an inside look into how Amazon WorkMail leverages other AWS services, such as AWS KMS and AWS Directory Service, and learn more about how our customers have successfully set up their highly secure email infrastructure in just a few easy steps.",
+        "date": "2015-10-09T21:55:05Z",
+        "duration": 2029
     },
     {
         "service": "workmail",
         "videoId": "ci2KxwhYIW0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I set up an email redirecting rule in Amazon WorkMail?",
-        "date": "2019/09/26"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2lwc1ln\nRamya an AWS Cloud Support Engineer, shows you how to set up an email redirecting rule in Amazon WorkMail",
+        "date": "2019-09-26T07:55:54Z",
+        "duration": 118
     },
     {
         "service": "workmail",
         "videoId": "tpj6zFpyYb4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I set up an email forwarding rule in Amazon WorkMail?",
-        "date": "2019/06/18"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2WMQxxQ\nQaisar, an AWS Cloud Support Engineer,  shows you how to set up an email forwarding rule in Amazon WorkMail?",
+        "date": "2019-06-18T14:31:55Z",
+        "duration": 85
     },
     {
         "service": "workmail",
         "videoId": "anuFhaL-oyA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Directory Services",
+            "Amazon WorkSpaces",
+            "Amazon WorkMail",
+            "Amazon WorkDocs"
+        ],
         "title": "Amazon Directory Services, Amazon WorkSpaces, Amazon WorkMail, and Amazon WorkDocs",
-        "date": "2015/08/14"
+        "description": "Are you ready to leverage enterprise applications on AWS? In this session the speakers explore Amazon Directory Services, Amazon WorkSpaces, Amazon WorkMail, and Amazon WorkDocs. Amazon Directory Service is a managed service that allows you to connect your AWS resources with an existing on-premises Microsoft Active Directory or to set up a new, stand-alone directory in the AWS Cloud. A mazon WorkSpaces is a managed desktop computing service in the cloud. Amazon WorkSpaces allows customers to easily provision cloud-based desktops that allow end-users to access the documents, applications and resources they need with the device of their choice. Amazon WorkMail, a secure and managed business email and calendaring service. Amazon WorkMail gives users the ability to seamlessly access their email, contacts, and calendars while maintaining control over both the keys that encrypt their data and the location in which their data is stored. The speakers also dives into Amazon WorkDocs, a fully managed and secure enterprise storage and sharing service with strong administrative controls and feedback capabilities. \n\nSpeaker:\nJerry Rhoads\nSolutions Architect, Amazon Web Services\n\nView more here http://oak.ctx.ly/r/3cz00",
+        "date": "2015-08-14T17:17:29Z",
+        "duration": 2540
     },
     {
         "service": "workmail",
         "videoId": "KCeG1CCnzM8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon workmail",
+            "amazon workmail tutorial",
+            "amazon workmail review",
+            "amazon workmail demo",
+            "amazon workmail webmail",
+            "aws",
+            "unicorn",
+            "amazon lightsail",
+            "aws quick start",
+            "donnie prakoso",
+            "aws videos",
+            "quick start with aws",
+            "aws beginners tutorial",
+            "aws beginner",
+            "aws beginner training",
+            "aws beginner course",
+            "aws beginner video",
+            "aws beginner tutorial",
+            "aws startup"
+        ],
         "title": "Amazon WorkMail Untuk Komunikasi Anda Sehari-hari",
-        "date": "2018/11/05"
+        "description": "Watch more videos and learn more about Cloud Essentials on AWS ASEAN at - https://amzn.to/2PBQLIa.\nEmail dan calendar adalah dua hal yang sangat membantu komunikasi dan organisasi dalam menjalankan bisnis, dari startup hingga enterprise. Di video kali ini, kami akan menjelaskan bagaimana Anda dapat memiliki solusi email dan calendar secara mandiri dengan mudah menggunakan Amazon WorkMail.\n\nPresenter: Donnie Prakoso,Technical Evangelist, AWS",
+        "date": "2018-11-05T17:16:29Z",
+        "duration": 494
     },
     {
         "service": "workmail",
         "videoId": "H1U1X_LWyn8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I delete users and groups in Amazon WorkMail using CLI?",
-        "date": "2020/05/28"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/workmail-delete-users-groups/\nUma shows you how to delete users and groups in Amazon WorkMail using CLI.",
+        "date": "2020-05-28T14:34:25Z",
+        "duration": 233
     },
     {
         "service": "workmail",
         "videoId": "ViGdElGV6nk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "BAP205",
+            "Thomas Pare",
+            "Pranesh Ramalin",
+            "Business Apps"
+        ],
         "title": "AWS re:Invent 2016: Stop Managing Email Infrastructure: Move to Amazon WorkMail (BAP205)",
-        "date": "2016/12/01"
+        "description": "Amazon WorkMail is a secure, managed business email and calendar service with support for existing desktop and mobile email clients. Amazon WorkMail enables users to access email, calendars, and contacts using the Amazon WorkMail web app, Microsoft Outlook, or native iOS or Android email applications. In this session, we’ll show you how to quickly create an Amazon WorkMail organization, take a look at the encryption model employed by Amazon WorkMail for data at rest, set up interoperability between existing on-premises Microsoft Exchange servers and Amazon WorkMail and dive into a host of new features that are now available on Amazon WorkMail.",
+        "date": "2016-12-01T23:33:51Z",
+        "duration": 2870
     },
     {
         "service": "workmail",
         "videoId": "waTgLDsM5_s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I grant Full Access permissions to another user in Amazon WorkMail?",
-        "date": "2020/02/11"
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/35JY8Sd\nUma shows you how to grant Full Access permissions to another user in Amazon WorkMail.",
+        "date": "2020-02-11T20:20:30Z",
+        "duration": 132
     },
     {
         "service": "workmail",
         "videoId": "KoxR3T2L-AU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "119666"
+        ],
         "title": "Enterprise Collaboration with the AWS Work Suite (119666)",
-        "date": "2017/06/19"
+        "description": "Amazon WorkMail, WorkDocs, and Chime allow customers to quickly deploy enterprise-grade communication tools while enabling strong security controls and integrating with your existing user directory. You will learn how to use WorkMail and WorkDocs to share information with colleagues and customers using familiar desktop and mobile platforms. We’ll also demonstrate the powerful collaboration features of Amazon Chime including private and group messaging as well as remote screen and application sharing.",
+        "date": "2017-06-19T20:48:03Z",
+        "duration": 2846
     },
     {
         "service": "workmail",
         "videoId": "IhPGkdalG-s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Singapore",
+            "AWS Summit Series 2015",
+            "SMB",
+            "SMB in cloud",
+            "Cloud SMB infrastructure"
+        ],
         "title": "AWS Summit 2015 | Singapore - Grow Your SMB Infrastructure on the AWS Cloud",
-        "date": "2015/05/29"
+        "description": "Mark Statham, Senior SA and Shaun Norris, SA (both from AWS -ASEAN) guide this session on best practices for building an SMB infrastructure on the AWS Cloud.",
+        "date": "2015-05-29T14:37:11Z",
+        "duration": 3108
     }
 ]

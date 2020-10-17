@@ -2,13 +2,37 @@
     {
         "service": "aws_cloud_map",
         "videoId": "fMGd9IUaotE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Containers",
+            "CON366"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing AWS Cloud Map (CON366)",
-        "date": "2018/12/01"
+        "description": "In this session we introduce AWS Cloud Map, a new service that lets you build the map of your cloud. It allows you to define friendly names for any resource such as S3 buckets, DynamoDB tables, SQS queues, or custom cloud services built on EC2, ECS, EKS, or Lambda. Your applications can then discover resource location, credentials, and metadata by friendly name using the AWS SDK and authenticated API queries. You can further filter resources discovered by custom attributes, such as deployment stage or version. AWS Cloud Map is a highly available service with rapid configuration change propagation.",
+        "date": "2018-12-01T22:27:42Z",
+        "duration": 2836
     },
     {
         "service": "aws_cloud_map",
         "videoId": "VxhBxSaN8ss",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I delete a Route 53 Hosted Zone created by ECS Service Discovery via AWS Cloud Map service?",
-        "date": "2019/06/11"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2XrQOqn\nShree, an AWS Cloud Support Engineer, shows you how to delete a Route 53 Hosted Zone created by ECS Service Discovery via AWS Cloud Map service.",
+        "date": "2019-06-11T18:14:54Z",
+        "duration": 130
     }
 ]

@@ -2,19 +2,62 @@
     {
         "service": "serverless_application_repository",
         "videoId": "ZguvcM_wqoo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon",
+            "awsreinvent2017",
+            "Serverless",
+            "SRV215"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! AWS Serverless Application Repository (SRV215)",
-        "date": "2017/12/02"
+        "description": "In this session, we will discuss how the AWS Serverless Application Repository makes it easy to discover and deploy serverless applications published by fellow developers and companies like Datadog, Here, Splunk, and many others. We will cover how you can use the repository to find applications for a variety of use cases and then deploy them to your AWS account. In addition, we will discuss how you can publish your own applications to the repository. You will also hear from two contributors, Datadog and Here, who will describe their approach to building the serverless applications that they have published to the Serverless Application Repository.",
+        "date": "2017-12-03T01:49:02Z",
+        "duration": 2437
     },
     {
         "service": "serverless_application_repository",
         "videoId": "3KqAaXD72Tg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - AWS Serverless Application Repository",
-        "date": "2017/12/08"
+        "description": "The AWS Serverless Application Repository, now available in Preview, is a collection of serverless applications published by developers, companies, and partners in the serverless community. Learn more at - http://amzn.to/2AbfFUb. Now, customers can easily discover, deploy, and publish everything from code samples and components for building web and mobile applications to back-end processing services and complete applications. \n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:36:15Z",
+        "duration": 913
     },
     {
         "service": "serverless_application_repository",
         "videoId": "85CHEaIDBag",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "live coding",
+            "Twitch",
+            "aws",
+            "amazon web services",
+            "serverless",
+            "apps",
+            "application",
+            "developer",
+            "software development",
+            "Salman Paracha",
+            "James Hood",
+            "Twitch live streams"
+        ],
         "title": "Deep Dive Into Deploying and Publishing Serverless Apps",
-        "date": "2018/03/26"
+        "description": "In this interactive coding session, Serverless Application Repository's Lead SDE James Hood and Product Owner, Salman Paracha configured, modified, deployed, and published a serverless application.\n\nLearn More about Serverless: \nhttps://aws.amazon.com/serverless/\n\nWatch past Build on Serverless broadcasts: \nhttps://aws.amazon.com/developer/community/twitch/recordings\n\nSee the upcoming Build on Serverless Schedule: \nhttps://aws.amazon.com/developer/community/twitch/\n\nJoin the Serverless conversation on Slack: \nhttps://awssamopensource.splashthat.com/\n\nGet an overview of the Serverless Applications Lens: \nhttps://d1.awsstatic.com/whitepapers/architecture/AWS-Serverless-Applications-Lens.pdf\n\nRSVP for future Build on Serverless episodes: \nhttps://www.twitch.tv/events/umX-DTI8Q3qWl0pXKgxhUw",
+        "date": "2018-03-26T15:57:02Z",
+        "duration": 1967
     }
 ]

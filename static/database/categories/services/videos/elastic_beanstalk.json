@@ -2,109 +2,417 @@
     {
         "service": "elastic_beanstalk",
         "videoId": "lmT7QI8IIiM",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Devops",
+            "DEV323",
+            "Amazon Web Services (AWS)"
+        ],
         "title": "AWS re:Invent 2018: PaaS – From Code to Running Application using AWS Elastic Beanstalk (DEV323)",
-        "date": "2018/11/28"
+        "description": "Come learn how Elastic Beanstalk can help you go from code to running application in a matter of minutes, without the need to provision or manage any of the underlying Amazon Web Services (AWS) resources. Hear how Qualcomm is able to migrate application to AWS faster than before through Forge, an internally built application platform that leverages Elastic Beanstalk to simplify the development and deployment of applications to AWS with security and organizational best practices out of the box.",
+        "date": "2018-11-28T18:23:38Z",
+        "duration": 3256
     },
     {
         "service": "elastic_beanstalk",
         "videoId": "NhsELnv28NU",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Devops",
+            "DEV305",
+            "DynamoDB",
+            "AWS CodeCommit",
+            "AWS Elastic Beanstalk"
+        ],
         "title": "AWS re:Invent 2017: Manage Your Applications with AWS Elastic Beanstalk (DEV305)",
-        "date": "2017/11/29"
+        "description": "AWS Elastic Beanstalk provides an easy way for you to quickly deploy, manage, and scale applications in the AWS Cloud. Through interactive demos and code samples, this session will teach you how to deploy your code using Elastic Beanstalk, provision and use other AWS services (Amazon SNS, Amazon SQS, and Amazon DynamoDB, AWS CodeCommit) use your application’s health metrics to tune performance, scale your application to handle millions of requests, perform zero-downtime deployments with traffic routing, and keep the underlying application platform up-to-date with managed updates.",
+        "date": "2017-11-29T17:23:38Z",
+        "duration": 3681
     },
     {
         "service": "elastic_beanstalk",
         "videoId": "U06-QLd4FL4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "digital-media",
+            "startups",
+            "elastic beanstalk",
+            "elastic beanstalk API",
+            "Pengchao-Wang",
+            "DMG301",
+            "dmg"
+        ],
         "title": "AWS Elastic Beanstalk under the Hood (DMG301) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "AWS Elastic Beanstalk provides a number of simple, flexible interfaces for developing and deploying your applications. In this session, learn how ThoughtWorks leverage the Elastic Beanstalk API to continuously deliver their applications with smoke tests and blue-green deployments. Also learn how to deploy your apps with Git and eb, a powerful CLI that allows developers to create, configure, and manage Elastic Beanstalk applications and environments from the command line.",
+        "date": "2013-11-26T20:16:12Z",
+        "duration": 2795
     },
     {
         "service": "elastic_beanstalk",
         "videoId": "6SMAH7X7IC0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Amazon Web Services (Website)",
+            "AWS re: Invent",
+            "re: Invent 2012",
+            "AWS Elastic Beanstalk"
+        ],
         "title": "AWS re: Invent RMG 206: Introduction to AWS Elastic Beanstalk",
-        "date": "2012/12/05"
+        "description": "Are you looking to build the next viral Facebook application or mobile game? Are you worried about the viral growth of your web application? Are you tired of managing servers and installing software? \n\nThis session introduces AWS Elastic Beanstalk, the easiest way to deploy and manage web applications on AWS. We'll show you how you can write your application and let Elastic Beanstalk do the rest.",
+        "date": "2012-12-05T18:30:06Z",
+        "duration": 2634
     },
     {
         "service": "elastic_beanstalk",
         "videoId": "nkj0GXgaRv8",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "DevOps",
+            "DVO201",
+            "Abhishek Singh - Amazon Web Services",
+            "Colin Angel - Isobar",
+            "Introductory (200 level)"
+        ],
         "title": "AWS re:Invent 2015 | (DVO201) Scaling Your Web Applications with AWS Elastic Beanstalk",
-        "date": "2015/10/12"
+        "description": "AWS Elastic Beanstalk provides an easy way for you to quickly deploy, manage, and scale applications in the AWS cloud. Through interactive demos and code samples, this session will teach you how to deploy your code to Elastic Beanstalk, provision and use additional AWS resources (for example, Amazon SNS, Amazon SQS, and Amazon DynamoDB), use your application’s health metrics to tune performance, scale your application to handle millions of requests, and perform zero-downtime deployments with traffic routing. Demos and code samples will be available to all session attendees.",
+        "date": "2015-10-12T20:27:00Z",
+        "duration": 3115
     },
     {
         "service": "elastic_beanstalk",
         "videoId": "gA_m_4ikTgg",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "DevOps",
+            "DVO312",
+            "Shinya Kawaguchi - Sony Corporation",
+            "Sony Corporation",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (DVO312) Sony: Building At-Scale Services with AWS Elastic Beanstalk",
-        "date": "2015/10/09"
+        "description": "Learn about Sony's efforts to build a cloud-native authentication and profile management platform on AWS. Sony engineers demonstrate how they used AWS Elastic Beanstalk (Elastic Beanstalk) to deploy, manage, and scale their applications. They also describe how they use AWS CloudFormation for resource provisioning, Amazon DynamoDB for the main database, and AWS Lambda and Amazon Redshift for log handling and analysis. This discussion focuses on best practices, security considerations, tradeoffs, and final architecture and implementation. By the end of the session, you will clearly understand how to use Elastic Beanstalk as a platform to quickly and easily build at-scale web application on AWS, and how to use Elastic Beanstalk with other AWS services to build cloud-native applications.",
+        "date": "2015-10-09T22:49:04Z",
+        "duration": 2892
     },
     {
         "service": "elastic_beanstalk",
         "videoId": "Fv0yG_wDgoo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "DEV206",
+            "Jeff Hoffman",
+            "Introductory",
+            "DevOps & Tools"
+        ],
         "title": "AWS re:Invent 2016: Scaling Your Web Applications with AWS Elastic Beanstalk (DEV206)",
-        "date": "2016/12/01"
+        "description": "AWS Elastic Beanstalk provides an easy way for you to quickly deploy, manage, and scale applications in the AWS Cloud. Through interactive demos and code samples, this session will teach you how to deploy your code using Elastic Beanstalk, provision and use other AWS services (Amazon SNS, Amazon SQS, and Amazon DynamoDB), use your application’s health metrics to tune performance, scale your application to handle millions of requests, perform zero-downtime deployments with traffic routing, and keep the underlying application platform up-to-date with managed updates. Code samples for demos will be available to all session attendees.",
+        "date": "2016-12-01T21:42:52Z",
+        "duration": 3125
     },
     {
         "service": "elastic_beanstalk",
         "videoId": "HHS9_ZVxHVY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Application Deployment & Management",
+            "Expert",
+            "AWS Elastic Beanstalk",
+            "Startup",
+            "Scale",
+            "Load Balancing",
+            "Development",
+            "Auto Scaling",
+            "Amazon RDS",
+            "Amazon DynamoDB",
+            "ThinkNear",
+            "Thinknear",
+            "Architect",
+            "Technical Decision Maker",
+            "Developer",
+            "Mik Quinlan",
+            "John Hinnegan"
+        ],
         "title": "AWS re:Invent 2014 | (APP402) Serving Billions of Web Requests Each Day with Elastic Beanstalk",
-        "date": "2014/11/14"
+        "description": "AWS Elastic Beanstalk provides a number of simple and flexible interfaces for developing and deploying your applications. Follow Thinknear's rapid growth from inception to acquisition, scaling from a few dozen requests per hour to billions of requests served each day with AWS Elastic Beanstalk.  Thinknear engineers demonstrate how they extended the AWS Elastic Beanstalk platform to scale to billions of requests while meeting response times below 100 ms, discuss tradeoffs they made in the process, and what did and did not work for their mobile ad bidding business.",
+        "date": "2014-11-14T22:55:06Z",
+        "duration": 1967
     },
     {
         "service": "elastic_beanstalk",
         "videoId": "gymX8TAP6s4",
+        "tags": [
+            "AWS",
+            "James Saryerwinnie",
+            "AWS SDK for Python",
+            "Elastic Beanstalk",
+            "Flask",
+            "boto",
+            "Amazon DynamoDB",
+            "Django",
+            "Amazon S3",
+            "Amazon RDS",
+            "Python (programming Language)"
+        ],
         "title": "AWS re: Invent TLS 303: How to Deploy Applications on Elastic Beanstalk",
-        "date": "2012/12/04"
+        "description": "Learn how to configure, deploy and scale a Python application running on Amazon Elastic Beanstalk. This talk uses two samples, a simple url shortening API built using Flask, and an image processing app built using Django, to demonstrate how to quickly get up and running on Amazon Elastic Beanstalk. In addition to learning best practices, the talk covers performance tweaks, and options for scalable data storage including S3, DynamoDB and RDS.",
+        "date": "2012-12-04T21:15:30Z",
+        "duration": 2256
     },
     {
         "service": "elastic_beanstalk",
         "videoId": "OJVLYPo2T4Y",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Application Deployment & Management",
+            "Introductory",
+            "AWS Elastic Beanstalk",
+            "Websites",
+            "Ruby",
+            "Python",
+            "PHP",
+            "Load Balancing",
+            "Development",
+            "Auto Scaling",
+            "Developer",
+            "Startup",
+            "Abhishek Singh"
+        ],
         "title": "AWS re:Invent 2014 | (APP201) Going Zero to Sixty with AWS Elastic Beanstalk",
-        "date": "2014/11/14"
+        "description": "AWS Elastic Beanstalk provides an easy way for you to quickly deploy, manage, and scale applications in the AWS cloud. This session shows you how to deploy your code to AWS Elastic Beanstalk, easily enable or disable application functionality, and perform zero-downtime deployments through interactive demos and code samples for both Windows and Linux.\nAre you new to AWS Elastic Beanstalk? Get up to speed for this session by first completing the 60-minute Fundamentals of AWS Elastic Beanstalk lab in the self-paced Lab Lounge.",
+        "date": "2014-11-14T19:35:32Z",
+        "duration": 2512
     },
     {
         "service": "elastic_beanstalk",
         "videoId": "Zb-lNr_TV2k",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "''cloud computing''",
+            "''amazon web services''",
+            "''aws cloud''",
+            "''aws reinvent''",
+            "reinvent2013",
+            "''reinvent 2013''",
+            "DMG204",
+            "''getting started''",
+            "''digital media''",
+            "startups",
+            "elastic beanstalk",
+            "setting up elasticbeanstalk",
+            "''ann wallace''"
+        ],
         "title": "Zero to Sixty: AWS Elastic Beanstalk (DMG204) | AWS re:Invent 2013",
-        "date": "2013/11/25"
+        "description": "AWS Elastic Beanstalk provides an easy way for you to quickly deploy and manage applications in the AWS cloud. In this Zero to Sixty session, accelerate your use of Elastic Beanstalk by learning how Nike and VTEX use several of its most powerful features. Through interactive demos and code samples for both Windows and Linux, this session teaches you how to achieve deployments with zero downtime, how to easily enable or disable application functionality via feature flags, and how to customize your Elastic Beanstalk environments with extensions.   Demos and code samples are available to all session attendees.\nAre you new to Elastic Beanstalk? Get up to speed for this session by first completing the 60-minute Fundamentals of Elastic Beanstalk lab in the Self Paced Lab Lounge.",
+        "date": "2013-11-26T02:42:22Z",
+        "duration": 3731
     },
     {
         "service": "elastic_beanstalk",
         "videoId": "BVJ7hTCc2RE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "DevOps & Tools",
+            "DEV315",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2016: Bleacher Report Gains Competitive Edge with Elastic Beanstalk (DEV315)",
-        "date": "2016/12/03"
+        "description": "When you're one of the top sports media sites on the internet, you deal with scale like no other. Bleacher Report and its Team Stream app enable millions of users to access their own personalized view of sports. In this session, we'll talk about how we broke up the monolith into microservices and how Elastic Beanstalk empowered us to move quickly. Learn how a small Ops team provided a world-class build/release pipeline by standing on the shoulder of giants (AWS Elastic Beanstalk, Jenkins, and Docker). This session is designed for those who want to get up and running as quickly as possible, but are uncompromising in their ownership of infrastructure. We'll discuss the reasoning behind our switch from fully managing our own infrastructure to a managed service, including some advanced customizations made possible through AWS CloudFormation and AWS Elastic Beanstalk configuration files (.ebextensions).",
+        "date": "2016-12-03T23:09:18Z",
+        "duration": 3014
     },
     {
         "service": "elastic_beanstalk",
         "videoId": "JsqTSZo2qlQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos",
+            "AWS Elastic Beanstalk"
+        ],
         "title": "How do I configure a load balancer in an Elastic Beanstalk environment to use an SSL certificate?",
-        "date": "2019/01/10"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2Bq1yNX\nSebastian, an AWS Cloud Support Engineer, shows you how to configure a load balancer in an AWS Elastic Beanstalk environment to use an SSL certificate.",
+        "date": "2019-01-10T17:41:51Z",
+        "duration": 456
     },
     {
         "service": "elastic_beanstalk",
         "videoId": "GbkR9lFcFBY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Elastic Beanstalk",
+            "DynamoDB",
+            "Getting Started on AWS",
+            "ELB",
+            "Amazon ELB"
+        ],
         "title": "Getting Started With AWS Elastic Beanstalk",
-        "date": "2013/11/04"
+        "description": "Learn how to launch an application with AWS Elastic Beanstalk and the AWS Management Console.",
+        "date": "2013-11-04T20:34:01Z",
+        "duration": 75
     },
     {
         "service": "elastic_beanstalk",
         "videoId": "KZoTh3hZTyo",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2014",
+            "Application Deployment & Management",
+            "Introductory",
+            "AWS CloudFormation",
+            "Websites",
+            "Web App",
+            "Load Balancing",
+            "Development",
+            "DevOps",
+            "Database",
+            "AWS OpsWorks",
+            "AWS Elastic Beanstalk",
+            "Amazon Web Services",
+            "Architect",
+            "Technical Decision Maker",
+            "Startup",
+            "Developer",
+            "Abhishek Singh",
+            "Chris Barclay"
+        ],
         "title": "AWS re:Invent 2014 | (APP202) Deploy, Manage, Scale Apps w/ AWS OpsWorks & AWS Elastic Beanstalk",
-        "date": "2014/11/14"
+        "description": "AWS offers a number of services that help you easily deploy and run applications in the cloud. Come to this session to learn how to choose among these options. Through interactive demonstrations, this session shows you how to get an application running using AWS OpsWorks and AWS Elastic Beanstalk application management services. You also learn how to use AWS CloudFormation templates to document, version control, and share your application configuration. This session covers application updates, customization, and working with resources such as load balancers and databases.",
+        "date": "2014-11-14T18:58:02Z",
+        "duration": 2536
     },
     {
         "service": "elastic_beanstalk",
         "videoId": "IuwfVX52PV8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Elastic Beanstalk",
+            "DynamoDB",
+            "Python",
+            "Flask",
+            "Boto"
+        ],
         "title": "Running Your Startup's Sign Up Form on AWS Elastic Beanstalk: Part 2",
-        "date": "2013/11/04"
+        "description": "In Part 2 of this series, use and customize the customer sign up form deployed to AWS Elastic Beanstalk in the first video. Navigate the Elastic Beanstalk, DynamoDB, and SNS consoles, browse submitted data, and easily customize the look-and-feel of your application.",
+        "date": "2013-11-04T16:55:33Z",
+        "duration": 179
     },
     {
         "service": "elastic_beanstalk",
         "videoId": "xhc1boyBkJw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS ELB",
+            "Elastic Beanstalk",
+            "AWS Elastic Beanstalk",
+            "deploy and scale web apps",
+            "Java (Programming Language)",
+            ".NET Framework (Software)",
+            "PHP (Programming Language)",
+            "Node.js (Software)",
+            "Python (Programming Language)",
+            "Ruby (Programming Language)",
+            "Docker",
+            "deploy web applications",
+            "deploying applications",
+            "how to deploy web applications on AWS"
+        ],
         "title": "Deploying onto AWS Elastic Beanstalk - Deploy Web Applications on AWS",
-        "date": "2015/11/11"
+        "description": "AWS Elastic Beanstalk is a service for deploying and scaling web applications  developed with Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker on familiar servers. Learn more: http://amzn.to/2jkWTFd",
+        "date": "2015-11-11T23:51:39Z",
+        "duration": 436
     },
     {
         "service": "elastic_beanstalk",
         "videoId": "DrRr-JgdgzE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Elastic Beanstalk",
+            "DynamoDB",
+            "Python",
+            "Flask",
+            "Boto"
+        ],
         "title": "Running Your Startup's Sign Up Form on AWS Elastic Beanstalk: Part 3",
-        "date": "2013/11/04"
+        "description": "In Part 3 of this series, learn how to customize your application in Elastic Beanstalk using configuration files. Customization includes automatically creating a DynamoDB and SNS topic when you deploy, and integrating Elastic Beanstalk configuration with Flask.",
+        "date": "2013-11-04T16:55:16Z",
+        "duration": 343
     }
 ]

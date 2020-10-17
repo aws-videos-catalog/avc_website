@@ -2,170 +2,542 @@
     {
         "service": "cloudfront",
         "videoId": "AT-nHW3_SVI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon CloudFront",
+            "CDN",
+            "Content Delivery Network",
+            "Streaming",
+            "Lambda@Edge",
+            "DDoS",
+            "WAF",
+            "Shield",
+            "Introduction"
+        ],
         "title": "Introduction to Amazon CloudFront",
-        "date": "2019/04/02"
+        "description": "Learn more about AWS CloudFront at – https://amzn.to/2UpRIG2\nIn this video, you will learn about Amazon CloudFront. CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency, high transfer speeds, all within a developer-friendly environment. You can deliver both your static and dynamic content. If you use AWS origins such as Amazon S3, Amazon EC2 or Elastic Load Balancing, you don’t pay for any data transferred between these services and CloudFront.",
+        "date": "2019-04-02T16:00:00Z",
+        "duration": 110
     },
     {
         "service": "cloudfront",
         "videoId": "V8vR7rA0ubs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "CloudFront",
+            "CDN",
+            "Content Delivery Network",
+            "EC2",
+            "Dynamic Content",
+            "API",
+            "Tutorial"
+        ],
         "title": "How to Setup Your CloudFront Distribution for EC2 Origin",
-        "date": "2019/04/03"
+        "description": "Learn more about Amazon CloudFront at – https://amzn.to/2FNt5cX \nIn this 10 minute AWS TechTips tutorial, you will learn how to set up an Amazon CloudFront distribution with your Amazon EC2 origin to distribute dynamic content globally, and accelerate your APIs.",
+        "date": "2019-04-03T20:23:15Z",
+        "duration": 548
     },
     {
         "service": "cloudfront",
         "videoId": "KIltfPRpTi4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Cloudfront",
+            "techtips",
+            "Amazon S3",
+            "CDN",
+            "S3",
+            "content delivery network",
+            "content acceleration",
+            "dynamic content",
+            "static content"
+        ],
         "title": "How to Set up an Amazon CloudFront Distribution for Your Amazon S3 Origin",
-        "date": "2018/07/20"
+        "description": "Learn more about Amazon CloudFront at - https://amzn.to/2LbpBGM.\nWatch this AWS TechTips demo and learn how to set up a CloudFront distribution with your Amazon S3 origin. Solutions Architect Tino Tran will walk you through the step-by-step process on getting started in the AWS Console, configuring your origin, and beginning testing your CloudFront distribution in just 15 minutes. \n\nThe video features the following steps:\n1. Go to the AWS Console\n2. Create an Amazon S3 bucket\n3. Create an Amazon CloudFront distribution\n4. Specify your distribution settings\n5. Configure your origin\n6. Configure Origin Access Identity\n7. Configure default cache behavior\n8. Configure your TTLs\n9. Configure additional features\n10. Test your CloudFront distribution\n\nThere is also a CloudFormation template available here: https://aws-blogs-prod.amazon.com/networking-and-content-delivery/amazon-s3-amazon-cloudfront-a-match-made-in-the-cloud/",
+        "date": "2018-07-20T16:18:12Z",
+        "duration": 998
     },
     {
         "service": "cloudfront",
         "videoId": "DiIaoIcoKNY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos",
+            "CloudFront",
+            "S3"
+        ],
         "title": "How do I use Amazon CloudFront to serve a static website hosted on Amazon S3?",
-        "date": "2019/03/19"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2GLkGZF\nGeoff, an AWS Cloud Support Engineer, shows you how to use Amazon CloudFront to serve a static website hosted on Amazon S3.",
+        "date": "2019-03-19T14:00:14Z",
+        "duration": 848
     },
     {
         "service": "cloudfront",
         "videoId": "-EXS9M6yMcA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "WordPress",
+            "CloudFront",
+            "CDN",
+            "Website acceleration"
+        ],
         "title": "Setting up CloudFront with a WordPress Site",
-        "date": "2019/10/02"
+        "description": "Learn more about Amazon CloudFront at – https://amzn.to/2nW7wlB.\nA 10 minute walk through of the steps required to accelerate your WordPress site with Amazon CloudFront, follow-up to the blog post \"How to accelerate your WordPress site with Amazon CloudFront\"\nhttps://aws.amazon.com/blogs/startups/how-to-accelerate-your-wordpress-site-with-amazon-cloudfront/",
+        "date": "2019-10-02T17:31:39Z",
+        "duration": 1142
     },
     {
         "service": "cloudfront",
         "videoId": "wRaPw1tx6LA",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Content Delivery",
+            "CTD201",
+            "CloudFront",
+            "AWS Lambda",
+            "Compute"
+        ],
         "title": "AWS re:Invent 2017: Introduction to Amazon CloudFront and AWS Lambda@Edge (CTD201)",
-        "date": "2017/11/29"
+        "description": "End users expect to be able to view static, dynamic, and streaming content anytime, anywhere, and on any device. Amazon CloudFront is a web service that accelerates delivery of your websites, APIs, video content, or other web assets to end users around the globe with low latency, high data transfer speeds, and no commitments. In this session, learn what a content delivery network (CDN) such as Amazon CloudFront is and how it works, the benefits it provides, common challenges and needs, performance, recently released features and examples of how customers are using CloudFront. You will also learn about recustomizing content delivery through AWS Lambda@Edge - a serverless compute service that lets you execute functions to customize the content delivered through CloudFront.",
+        "date": "2017-11-29T16:58:00Z",
+        "duration": 3205
     },
     {
         "service": "cloudfront",
         "videoId": "x95vzaeEsRk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos",
+            "CloudFront"
+        ],
         "title": "How do I restrict S3 access only from CloudFront?",
-        "date": "2018/10/22"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2od6qhN\nRoquiya, an AWS Cloud Support Engineer, shows you how to restrict access only from CloudFront.",
+        "date": "2018-10-22T14:28:13Z",
+        "duration": 212
     },
     {
         "service": "cloudfront",
         "videoId": "h9o0N-QxFyc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "CloudFront",
+            "Amazon CloudFront",
+            "CDN",
+            "Content Delivery Network",
+            "Latency",
+            "S3",
+            "Web content",
+            "web app",
+            "distribution",
+            "global delivery",
+            "scale delivery",
+            "demo"
+        ],
         "title": "Go Global: A Short Demo of Amazon CloudFront",
-        "date": "2019/06/21"
+        "description": "Learn more on the Amazon CloudFront Getting Started Page at - https://amzn.to/2ZzCYTQ.\nAmazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency, high transfer speeds, all within a developer-friendly environment. In this 2-minute video, you’ll see the difference between traversing the public internet to deliver an object stored in Northern Virginia to an end user in Sydney Australia vs. leveraging CloudFront to deliver a cached copy of that object from an edge location in Sydney. With over 180 edge locations in 69 cities across 30 countries, the results are clear, CloudFront helps customers provide superior performance for their end users no matter where they are across the globe.",
+        "date": "2019-06-21T16:00:07Z",
+        "duration": 126
     },
     {
         "service": "cloudfront",
         "videoId": "h2uN9VoAnz8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "CTD205",
+            "Tom Witman",
+            "Introductory",
+            "Content Delivery"
+        ],
         "title": "AWS re:Invent 2016: Introduction to Amazon CloudFront (CTD205)",
-        "date": "2016/12/01"
+        "description": "End users expect to be able to view static, dynamic, and streaming content anytime, anywhere, and on any device. Amazon CloudFront is a web service that accelerates delivery of your websites, APIs, video content, or other web assets to end users around the globe with low latency, high data transfer speeds, and no commitments. In this session, learn what a content delivery network (CDN) such as Amazon CloudFront is and how it works, the benefits it provides, common challenges and needs, performance, recently released features like HTTP/2 and IPV6 support, pricing, and examples of how customers are using CloudFront.",
+        "date": "2016-12-01T21:37:49Z",
+        "duration": 3364
     },
     {
         "service": "cloudfront",
         "videoId": "QcHoDO1z-Vk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos",
+            "CloudFront"
+        ],
         "title": "How can I serve multiple domains from a CloudFront distribution over HTTPS?",
-        "date": "2019/02/15"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2SGufzy\nThomas, an AWS Cloud Support Engineer, shows you how you can serve multiple domains from a CloudFront distribution over HTTPS.",
+        "date": "2019-02-15T20:12:46Z",
+        "duration": 230
     },
     {
         "service": "cloudfront",
         "videoId": "vBJ4KnDzbqg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "Why isn't CloudFront serving my domain name over HTTPS?",
-        "date": "2020/04/02"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-domain-https/\nRohit shows you why CloudFront isn't serving your domain name over HTTPS.",
+        "date": "2020-04-02T16:04:30Z",
+        "duration": 356
     },
     {
         "service": "cloudfront",
         "videoId": "Dq2m2ZoZ234",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I set up API Gateway with my own CloudFront distribution?",
-        "date": "2019/11/20"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2mmxoWR\nDan, an AWS Cloud Support Engineer, shows you how to set up API Gateway with my own CloudFront distribution.",
+        "date": "2019-11-20T18:23:20Z",
+        "duration": 229
     },
     {
         "service": "cloudfront",
         "videoId": "k6iyLQYVOB4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I prevent CloudFront from caching certain files?",
-        "date": "2019/06/05"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2OT4Tdl\nMonami, an AWS Cloud Support Engineer, shows you how to prevent CloudFront from caching certain files.",
+        "date": "2019-06-05T16:49:11Z",
+        "duration": 167
     },
     {
         "service": "cloudfront",
         "videoId": "01I1EH_kZl4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "Can I associate multiple SSL certificates with my Amazon CloudFront distribution?",
-        "date": "2018/11/05"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2MkNHur\nTanya, an AWS Cloud Support Engineer, shows you how you can associate multiple SSL certificates with your Amazon CloudFront distribution.",
+        "date": "2018-11-05T14:51:51Z",
+        "duration": 271
     },
     {
         "service": "cloudfront",
         "videoId": "oVaTiRl9-v0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "CloudFront",
+            "API",
+            "Slack Talks About Secure API Acceleration with Amazon CloudFront",
+            "Amazon Loft Talks"
+        ],
         "title": "Slack Talks About Secure API Acceleration with Amazon CloudFront",
-        "date": "2016/07/18"
+        "description": "Learn more about Amazon CloudFront at - http://amzn.to/2a28OT4\nAlex Graham, Sr. Operations Engineer from Slack, talks about how his team uses Amazon CloudFront to accelerate their API globally, and how it gives them flexibility to apply various security measures at the edge.\n\nContent from the video can be found at - http://amzn.to/29OP6pU",
+        "date": "2016-07-18T16:56:04Z",
+        "duration": 897
     },
     {
         "service": "cloudfront",
         "videoId": "8U3QdNSFJDU",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Content Delivery",
+            "CTD301",
+            "CloudFront",
+            "Security"
+        ],
         "title": "AWS re:Invent 2017: Amazon CloudFront Flash Talks: Best Practices on Configuring, Se (CTD301)",
-        "date": "2017/11/29"
+        "description": "In this series of technical flash talks, learn directly from Amazon CloudFront engineers about best practices on security, caching, measuring performance using Real User Monitoring (RUM), and customizing content delivery with Lambda@Edge.",
+        "date": "2017-11-29T16:58:01Z",
+        "duration": 3227
     },
     {
         "service": "cloudfront",
         "videoId": "k-nCMrmxmgs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "AWS re: Invent",
+            "re: Invent Conference",
+            "CloudFront",
+            "Hudl",
+            "Brian Kaiser",
+            "Mark Ramberg",
+            "Introduction",
+            "MED101",
+            "Media"
+        ],
         "title": "AWS re:Invent MED 101: Introduction to Amazon CloudFront",
-        "date": "2012/12/04"
+        "description": "End users expect to be able to view media content anytime, anywhere, and on any device. Amazon CloudFront is a web service for content delivery used to distribute content to end users around the globe with low latency, high data transfer speeds, and no commitments. In this session, learn what a content delivery network (CDN) such as Amazon CloudFront is and how it works, the benefits it provides, common challenges and needs, performance, pricing, and examples of how customers are using CloudFront.\n\nLearn more at http://aws.amazon.com/cloudfront",
+        "date": "2012-12-04T20:02:11Z",
+        "duration": 2841
     },
     {
         "service": "cloudfront",
         "videoId": "KvNopkxrDzs",
+        "tags": [
+            "Amazon CloudFront",
+            "Streaming Media",
+            "cloud computing",
+            "Amazon Web Services"
+        ],
         "title": "Getting Started with Amazon CloudFront Video Streaming",
-        "date": "2011/11/21"
+        "description": "Learn more about Amazon CloudFront: https://aws.amazon.com/cloudfront/",
+        "date": "2011-11-21T23:51:08Z",
+        "duration": 245
     },
     {
         "service": "cloudfront",
         "videoId": "pmtg-4rzCtQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "CloudFront",
+            "cloud computing",
+            "edge caching",
+            "latency"
+        ],
         "title": "Getting Started with Amazon CloudFront: Content Delivery Using the Edge",
-        "date": "2011/11/30"
+        "description": "Discover how Amazon CloudFront can reduce latency for content delivery.",
+        "date": "2011-12-01T04:56:03Z",
+        "duration": 263
     },
     {
         "service": "cloudfront",
         "videoId": "AY0iJyCOkOc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I install a custom SSL/TLS certificates on Amazon CloudFront?",
-        "date": "2020/08/13"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/install-ssl-cloudfront/ .\n\nVinay shows you how to install a custom SSL/TLS certificates on Amazon CloudFront.",
+        "date": "2020-08-13T22:09:12Z",
+        "duration": 126
     },
     {
         "service": "cloudfront",
         "videoId": "JTOSzL8rLtk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "Why is Amazon CloudFront serving outdated content from Amazon S3?",
-        "date": "2019/11/22"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2lJ8MYg\nMeghamala, an AWS Cloud Support Engineer, shows you why Amazon CloudFront is serving outdated content from Amazon S3.",
+        "date": "2019-11-22T16:48:32Z",
+        "duration": 241
     },
     {
         "service": "cloudfront",
         "videoId": "yvCYTDkjMJw",
+        "tags": [
+            "CloudFront",
+            "Gaming apps",
+            "Streaming Media",
+            "Content Distribution Network",
+            "Content Delivery Network",
+            "Software Downloads",
+            "Static File Distribution",
+            "CDN",
+            "Amazon CDN",
+            "AWS CDN",
+            "Video On Demand Delivery",
+            "VOD Delivery"
+        ],
         "title": "Content Delivery using Amazon CloudFront",
-        "date": "2011/12/13"
+        "description": "In this webinar titled \"Content Delivery Using Amazon CloudFront\", we explore Amazon CloudFront - AWS's content delivery network (CDN).  Amazon CloudFront lets you deliver your content through a worldwide network of edge locations and automatically routes end-user requests to the closest or most optimal edge location, so content is delivered with the best possible performance. In this session, we describe what the CloudFront service is, go over the benefits it provides to you and your customers, and highlight some use cases describing how the CloudFront service is used by customers in the media & entertainment, gaming, and software downloads industries. Recorded November 3, 2011.",
+        "date": "2011-12-13T20:23:13Z",
+        "duration": 3112
     },
     {
         "service": "cloudfront",
         "videoId": "3t-Xe8_wdRc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS Knowledge Center Videos: How Do I Process Amazon CloudFront logs with AWS Elasticsearch Service?",
-        "date": "2019/04/09"
+        "description": "Find more details in the AWS Knowledge Center:\nhttps://amzn.to/2Up7qlD\n\nDilip, an AWS Cloud Support Engineer, shows you how to process Amazon CloudFront logs with AWS Elasticsearch Service.",
+        "date": "2019-04-09T16:06:10Z",
+        "duration": 443
     },
     {
         "service": "cloudfront",
         "videoId": "fgbJJ412qRE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Content Delivery",
+            "CTD301",
+            "Alec Peterson",
+            "Advanced"
+        ],
         "title": "AWS re:Invent 2016: CloudFront Flash Talks: Best Practices (CTD301)",
-        "date": "2016/12/03"
+        "description": "In this series of 15-minute technical flash talks you will learn directly from Amazon CloudFront engineers and their best practices on debugging caching issues, measuring performance using Real User Monitoring (RUM), and stopping malicious viewers using CloudFront and AWS WAF.",
+        "date": "2016-12-03T19:50:39Z",
+        "duration": 2950
     },
     {
         "service": "cloudfront",
         "videoId": "M_V4R9Rn6cI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "CloudFront"
+        ],
         "title": "Whole Site Delivery with Amazon CloudFront",
-        "date": "2013/05/04"
+        "description": "A typical website generally contains a mix of static and dynamic content. Static content includes images or style sheets; dynamic or application generated content includes elements of your site that are personalized to each viewer.  In this session, we'll provide an overview on how you can use Amazon CloudFront to help architect your whole site. We'll demonstrate how you can use Amazon CloudFront to help architect your site to deliver both static and dynamic content (portions of your site that change for each end-user). We'll also walk through how you can configure multiple origin servers for your Amazon CloudFront distribution providing you the flexibility to keep your content in different origin locations without the need to create multiple distributions or manage multiple domain names on your website.. We also show you how you can use query string parameters to help customize your web pages for each viewer and how you can configure multiple cache behaviors for your download distribution based on URL patterns on your website.",
+        "date": "2013-05-04T20:25:20Z",
+        "duration": 2836
     },
     {
         "service": "cloudfront",
         "videoId": "Tv0LqtVjOXw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I configure Amazon CloudFront to forward host headers to the origin?",
-        "date": "2019/04/10"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2Fkky0R\nMonami, an AWS Cloud Support Engineer, shows you how to configure Amazon CloudFront to forward host headers to the origin.",
+        "date": "2019-04-10T17:21:47Z",
+        "duration": 73
     },
     {
         "service": "cloudfront",
         "videoId": "gUAuhdtHacI",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Storage & Content Delivery",
+            "STG206",
+            "Matthew Baldwin - Amazon Web Services",
+            "Alex Dunlap - Amazon Web Services",
+            "- - Jarrod Guthrie",
+            "Amazon Web Services - - Calin Nemes",
+            "Amazon Web Services Introductory (200 level)"
+        ],
         "title": "AWS re:Invent 2015 | (STG206) Using Amazon CloudFront For Your Websites & Apps",
-        "date": "2015/10/12"
+        "description": "Amazon CloudFront, the AWS Content Delivery Network (CDN), can be used to deliver your entire website, including dynamic, static, streaming, and interactive content using a global network of edge locations.\n \nIn this technical session, learn directly from CloudFront engineers on how you can improve the performance, availability, and cacheability of your website or application. Several topics will be explored in a series of flash talks including: Best Practices for Setting up Your Origin, How to Gain Visibility into Your Distribution Using Real-Time Metrics & Analytics, How to Improve Cacheability,  and How to Test Your Configuration. This session assumes a working knowledge of CDN.",
+        "date": "2015-10-12T16:22:02Z",
+        "duration": 3066
     },
     {
         "service": "cloudfront",
         "videoId": "n8qQGLJeUYA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "CTD303",
+            "Alex Smith",
+            "Advanced (300 Level)",
+            "Content Delivery"
+        ],
         "title": "AWS re:Invent 2016: Design Patterns for High Availability: Lessons from Amazon CloudFront (CTD303)",
-        "date": "2016/12/01"
+        "description": "At AWS, the availability of our services is non-negotiable. While building our own services, such as Amazon CloudFront, we learn from and develop our own design patterns for high availability. In this session, we review several of these design patterns, and we show how you can implement the patterns in your own services or applications built on top of AWS using services such as Amazon Kinesis, AWS Elastic Beanstalk, or AWS Lambda.",
+        "date": "2016-12-02T00:12:08Z",
+        "duration": 3566
     },
     {
         "service": "cloudfront",
@@ -176,133 +548,493 @@
     {
         "service": "cloudfront",
         "videoId": "iOPjEkmV8hI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "DDoS",
+            "DDoS attack",
+            "CloudFront",
+            "whitelist",
+            "blacklist",
+            "geo restriction",
+            "ELB"
+        ],
         "title": "AWS Knowledge Center Videos: How do I mitigate DDos with the CloudFront Geo restriction?",
-        "date": "2017/06/02"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-geo-restriction/\n\nBehnaz, an AWS Support Team Member, shows you how to mitigate DDos with the CloudFront Geo restriction?",
+        "date": "2017-06-02T14:56:27Z",
+        "duration": 184
     },
     {
         "service": "cloudfront",
         "videoId": "M_V4R9Rn6cI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "CloudFront"
+        ],
         "title": "Whole Site Delivery with Amazon CloudFront",
-        "date": "2013/05/04"
+        "description": "A typical website generally contains a mix of static and dynamic content. Static content includes images or style sheets; dynamic or application generated content includes elements of your site that are personalized to each viewer.  In this session, we'll provide an overview on how you can use Amazon CloudFront to help architect your whole site. We'll demonstrate how you can use Amazon CloudFront to help architect your site to deliver both static and dynamic content (portions of your site that change for each end-user). We'll also walk through how you can configure multiple origin servers for your Amazon CloudFront distribution providing you the flexibility to keep your content in different origin locations without the need to create multiple distributions or manage multiple domain names on your website.. We also show you how you can use query string parameters to help customize your web pages for each viewer and how you can configure multiple cache behaviors for your download distribution based on URL patterns on your website.",
+        "date": "2013-05-04T20:25:20Z",
+        "duration": 2836
     },
     {
         "service": "cloudfront",
         "videoId": "DCjklZ8kHw4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Cloudfront",
+            "Earth Networks",
+            "Earth Networks using AWS",
+            "Amazon CloudFront",
+            "cloudfront",
+            "content delivery",
+            "content distribution",
+            "CDN",
+            "dynamic content"
+        ],
         "title": "Webinar: Delivering Static and Dynamic Content Using Amazon CloudFront",
-        "date": "2013/01/17"
+        "description": "In this webinar, Alex Dunlap, Senior Manager of Amazon CloudFront, and Andy Rosenbaum, Director of Web & Desktop Development at Earth Networks, address how to use Amazon CloudFront to help architect your site to deliver both static and dynamic content (portions of your site that change for each end-user). \n\nAndy Rosenbaum of Earth Networks also talks about how Earth Networks was able to reduce their costs by 50%  using Amazon CloudFront's dynamic content features. Q&A session is included. Learn more: http://aws.amazon.com/cloudfront",
+        "date": "2013-01-17T19:55:38Z",
+        "duration": 3115
     },
     {
         "service": "cloudfront",
         "videoId": "kOk5esI6GHY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "Why is CloudFront returning HTTP response code 403 (Access Denied) from Amazon S3?",
-        "date": "2019/06/19"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2vaYL7i\nKashif, an AWS Cloud Support Engineer, shows you what you can do if you are getting HTTP response code 403 (Access Denied) when using an S3 website endpoint as the origin of your CloudFront distribution.",
+        "date": "2019-06-19T19:59:23Z",
+        "duration": 133
     },
     {
         "service": "cloudfront",
         "videoId": "UiXRVHgQ_Gg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "architecture",
+            "enterprise",
+            "route53",
+            "acceleration",
+            "cloudfront",
+            "cdn",
+            "Parviz-Deyhim",
+            "ARC309",
+            "arc"
+        ],
         "title": "Dynamic Content Acceleration: Amazon CloudFront and Amazon Route 53 (ARC309) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "Traditionally, content delivery networks (CDNs) were known to accelerate static content. Amazon CloudFront has come a long way and now supports delivery of entire websites that include dynamic and static content. In this session, we introduce you to CloudFront's dynamic delivery features that help improve the performance, scalability, and availability of your website while helping you lower your costs. We talk about architectural patterns such as SSL termination, close proximity connection termination, origin offload with keep-alive connections, and last-mile latency improvement. Also learn how to take advantage of Amazon Route 53's health check, automatic failover, and latency-based routing to build highly available web apps on AWS.",
+        "date": "2013-11-26T19:43:25Z",
+        "duration": 3124
     },
     {
         "service": "cloudfront",
         "videoId": "n8qQGLJeUYA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "CTD303",
+            "Alex Smith",
+            "Advanced (300 Level)",
+            "Content Delivery"
+        ],
         "title": "AWS re:Invent 2016: Design Patterns for High Availability: Lessons from Amazon CloudFront (CTD303)",
-        "date": "2016/12/01"
+        "description": "At AWS, the availability of our services is non-negotiable. While building our own services, such as Amazon CloudFront, we learn from and develop our own design patterns for high availability. In this session, we review several of these design patterns, and we show how you can implement the patterns in your own services or applications built on top of AWS using services such as Amazon Kinesis, AWS Elastic Beanstalk, or AWS Lambda.",
+        "date": "2016-12-02T00:12:08Z",
+        "duration": 3566
     },
     {
         "service": "cloudfront",
         "videoId": "qI1FF0rrePA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Amazon CloudFront",
+            "Wowza Media Server",
+            "Live Stream",
+            "AWS Marketplace"
+        ],
         "title": "AWS Webcast - Live Streaming using Amazon CloudFront and Wowza Media Server",
-        "date": "2013/10/23"
+        "description": "Learn how you can easily configure a production quality live streaming setup using Amazon CloudFront and Wowza Media Server (available through AWS Marketplace). We will take you step by step through the process of using AWS CloudFormation to provision the AWS resources, using an encoder to capture the live stream and delivering the stream at scale to various devices using Amazon CloudFront.",
+        "date": "2013-10-23T23:55:51Z",
+        "duration": 3381
     },
     {
         "service": "cloudfront",
         "videoId": "-VoROfdjowg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "media",
+            "media-entertainment",
+            "CloudFront",
+            "on-demand streaming",
+            "live streaming",
+            "streaming on the cloud",
+            "cloud streaming",
+            "Ivan-Yang",
+            "MED305",
+            "med"
+        ],
         "title": "On-demand & Live Streaming with Amazon CloudFront in the Post-PC World (MED305) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "Learn how AWS customers are using Amazon CloudFront to deliver their video content to   users over HTTP(S) using a number of modern streaming protocols such as Smooth Streaming, HLS, DASH, etc. You also learn about options for end-to-end security of your video content—through both encryption and preventing access from unauthorized users based on their location. Finally, we demonstrate how easy it is to use CloudFront to deliver both your on-demand and live video to a global audience with great performance.",
+        "date": "2013-11-26T20:24:55Z",
+        "duration": 3185
     },
     {
         "service": "cloudfront",
         "videoId": "vyV7Caa_kF0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon CloudFront",
+            "CloudFront",
+            "AWS WAF",
+            "Shield Advanced",
+            "Shield",
+            "Content Delivery Network",
+            "CDN",
+            "content acceleration",
+            "content latency",
+            "DDoS",
+            "layer 3",
+            "layer 4",
+            "layer 7",
+            "perimeter protection",
+            "latency",
+            "edge location"
+        ],
         "title": "Amazon CloudFront Launches in South Africa",
-        "date": "2018/09/24"
+        "description": "Learn more about Amazon CloudFront at - https://amzn.to/2NsJURc\nLearn more about AWS WAF at - https://amzn.to/2OMC2q0\nLearn more about AWS Shield Advanced at - https://amzn.to/2QNEBJT \nAmazon CloudFront announced new edge locations in Johannesburg and Cape Town reducing latency of content delivery by 75%. Check out this webinar to learn more about how to accelerate and protect your content, web app, and website with Amazon CloudFront, AWS WAF, and Shield Advanced.",
+        "date": "2018-09-24T16:10:24Z",
+        "duration": 2693
     },
     {
         "service": "cloudfront",
         "videoId": "xDRWq7e0ero",
+        "tags": [
+            "Amazon Web Services",
+            "AWS",
+            "CloudFront",
+            "content delivery service",
+            "CDN",
+            "content delivery network",
+            "live streaming",
+            "on demand streaming",
+            "video streaming"
+        ],
         "title": "Webinar: Live Streaming for Amazon CloudFront using Adobe Flash Media Server 4.5",
-        "date": "2012/05/04"
+        "description": "In this session, speakers from Amazon CloudFront and Adobe will provide an overview and demo of Amazon CloudFront's improved live HTTP streaming support for both Flash-based and Apple iOS devices using Adobe Flash Media Server 4.5 running on Amazon EC2. With this solution, you can easily and cost-effectively deliver your live video via AWS to multiple platforms and to a world-wide audience, while paying for the AWS resources you consume. Recorded on May 4, 2012.",
+        "date": "2012-05-04T23:58:08Z",
+        "duration": 3509
     },
     {
         "service": "cloudfront",
         "videoId": "3oIVMruGvpc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS Webinar: Accelerate & Protect Your Content with Amazon CloudFront UAE Edge Locations",
-        "date": "2018/11/12"
+        "description": "Amazon CloudFront https://amzn.to/2SXFFMp recently launched two new Edge Locations in Dubai & Fujairah – our first in the Middle East – providing low latency, secure access to millions of end viewers across the Middle East and North Africa.\n\nCustomers in this region will see up to a 90% decrease in latency when delivering their content to end viewers. These edge locations also include deep integrations with edge compute and security services like Lambda@Edge, AWS Shield Advance, and AWS WAF.\n\nSpeakers: Woodrow Arrington, Senior CloudFront Product Manager, AWS",
+        "date": "2018-11-12T17:11:28Z",
+        "duration": 1734
     },
     {
         "service": "cloudfront",
         "videoId": "Bn4X_a50vHU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "CloudFront",
+            "JW PLayer",
+            "Streaming"
+        ],
         "title": "AWS Webcast - Using JW Player and Amazon CloudFront to Stream HLS Video",
-        "date": "2013/10/24"
+        "description": "Learn how you can use Amazon CloudFront and JW Player to stream video in the HTTP Live Streaming Format to multiple devices. We will cover the encoding, storage and delivery of the video using AWS and will demonstrate how JW Player can be configured to play the content on your desktop and mobile devices.",
+        "date": "2013-10-24T23:27:20Z",
+        "duration": 2817
     },
     {
         "service": "cloudfront",
         "videoId": "iIn47wOQbmo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Sentient",
+            "Edge",
+            "latency",
+            "global deployment",
+            "AI",
+            "ML",
+            "UX optimization",
+            "neural network",
+            "Amazon CloudFront",
+            "Amazon Elastic Container Service (ECS)",
+            "AWS Lambda",
+            "Elastic Load Balancing",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon Kinesis",
+            "Amazon Elasticsearch Service",
+            "Auto Scaling",
+            "ALB",
+            "Amazon CloudWatch"
+        ],
         "title": "Sentient - UX Optimization Platform with Lambda at the Edge, Amazon CloudFront and AI",
-        "date": "2018/06/01"
+        "description": "Tyler shares how Sentient went from multiple ECS clusters, ALB and auto-scaling to Lambda at the edge coupled with Amazon CloudFront to reduce latency, speed up global deployments to serve millions of users per month. Learn more at - https://amzn.to/2J2tc4K.\n\nHost: Yazid Boutejder- Solutions Architect\nSpeaker: Ian Henderson - Director of Strategic Product Partnerships",
+        "date": "2018-06-01T16:31:58Z",
+        "duration": 378
     },
     {
         "service": "cloudfront",
         "videoId": "nBsZ2UkxYbY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "CloudFront",
+            "AWS Summits",
+            "Amazon CloudFront",
+            "webinar",
+            "webcast",
+            "architecture"
+        ],
         "title": "AWS Webcast - Whole Site Delivery with Amazon CloudFront",
-        "date": "2013/05/20"
+        "description": "In this webinar, we'll provide an overview on how you can use Amazon CloudFront to help architect your whole site. We'll demonstrate how you can use Amazon CloudFront to help architect your site to deliver both static and dynamic content (portions of your site that change for each end-user). We'll also walk through how you can configure multiple origin servers for your Amazon CloudFront distribution providing you the flexibility to keep your content in different origin locations without the need to create multiple distributions or manage multiple domain names on your website.. We also show you how you can use query string parameters to help customize your web pages for each viewer and how you can configure multiple cache behaviors for your download distribution based on URL patterns on your website. The content for this webinar will be similar to what the CloudFront team presented at the recent AWS Summits in NY and SF.",
+        "date": "2013-05-20T18:10:43Z",
+        "duration": 3463
     },
     {
         "service": "cloudfront",
         "videoId": "qJqDAY9kIhQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Media",
+            "Cloud",
+            "Media and Entertainment",
+            "Studios",
+            "IT",
+            "Amazon EC2",
+            "Amazon S3"
+        ],
         "title": "AWS Media Summit 2011: Content Delivery with Amazon CloudFront",
-        "date": "2011/11/11"
+        "description": "This video talks about why customers, like PBS, are using Amazon CloudFront to deliver their media files.",
+        "date": "2011-11-11T22:44:42Z",
+        "duration": 1023
     },
     {
         "service": "cloudfront",
         "videoId": "sf-JWDDw2O4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "CloudFront",
+            "Amazon S3",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I securely access my Amazon S3 static website?",
-        "date": "2018/12/28"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2SU4fwQ\nMeghna, an AWS Cloud Support Engineer, shows you how to use Amazon CloudFront to serve a static website hosted on Amazon S3.",
+        "date": "2018-12-28T15:22:09Z",
+        "duration": 455
     },
     {
         "service": "cloudfront",
         "videoId": "FjHBGjLnou0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "re:Invent 2016",
+            "James Hamilton",
+            "Amazon Global Network"
+        ],
         "title": "AWS re:Invent 2016: Introduction to Amazon Global Network and CloudFront PoPs with James Hamilton",
-        "date": "2017/07/06"
+        "description": "Watch AWS VP & Distinguished Engineer James Hamilton at re:Invent 2016 discuss the Amazon global network, the Amazon CloudFront PoPs, and the 100 GbE network. Learn more about Amazon Cloudfront at -http://amzn.to/2sLkd3N.",
+        "date": "2017-07-06T19:08:34Z",
+        "duration": 235
     },
     {
         "service": "cloudfront",
         "videoId": "d-XCfp97pX0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Elemental",
+            "Media Convert",
+            "Encoding",
+            "Video",
+            "Video on Demand",
+            "Node.js",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon S3 Glacier",
+            "AWS Lambda",
+            "Amazon DynamoDB",
+            "Amazon CloudWatch",
+            "Amazon CloudFront",
+            "AWS Step Functions",
+            "AWS Elemental MediaConvert",
+            "AWS CloudFormation",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "AWS Solutions: Video on Demand (VOD)",
-        "date": "2019/09/24"
+        "description": "Tom from our very own AWS Solutions Builder team walks us through an end-to-end solution that he built for video on demand (VOD) on AWS. Customers are already using this solution to run over 60,000 encoding jobs every month. You'll learn how Tom used Step Functions for the orchestration layer, Lambda for Node.js microservices, Elemental Media Convert to generate videos in a variety of file formats, and many more services to complete the solution, including S3, CloudFront, CloudWatch, DynamoDB and CloudFormation.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-09-24T15:25:59Z",
+        "duration": 514
     },
     {
         "service": "cloudfront",
         "videoId": "t_f4Uwn6vYQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon CloudFront",
+            "Amazon CloudFront - Live Video Streaming",
+            "Amazon CloudFront - Video on Demand",
+            "Amazon EC2",
+            "Amazon Direct Connect"
+        ],
         "title": "Channel 7: Live Event Video Streaming of the Australian Open Using AWS Elemental, CloudFront & More!",
-        "date": "2017/11/01"
+        "description": "On this episode of This Is My Architecture Sam from Channel 7 describes the architecture that supported live video streaming of the Australian Open to millions of viewers and how it was done in a scalable and reliable manner using AWS Elemental and CloudFront. Learn more at - http://amzn.to/2hv152f.",
+        "date": "2017-11-01T22:04:36Z",
+        "duration": 305
     },
     {
         "service": "cloudfront",
         "videoId": "iUySElA_i-g",
+        "tags": [
+            "Software (Industry)",
+            "Management",
+            "Technology",
+            "Data",
+            "System",
+            "Business",
+            "Office",
+            "coding",
+            "code",
+            "deployment",
+            "infrastructure",
+            "cloud infrastructure",
+            "AWS Summit Series 2016",
+            "Chicago Summit",
+            "AWS Chicago Summit",
+            "AWS Chicago 2016",
+            "2016 Summit Series",
+            "AWS Summits 2016",
+            "Frank DiGiammarino",
+            "Notre Dame",
+            "FHLBC",
+            "Public Sector",
+            "AWS Public Sector Customers"
+        ],
         "title": "AWS Summit Series 2016 | Chicago - Secure Content Delivery Using Amazon CloudFront and AWS WAF",
-        "date": "2016/04/21"
+        "description": "Increasingly, customers across the public sector are going “all-in” with AWS Cloud. Instead of asking whether to go all-in, these pioneers asked how quickly they could do it.  Balancing the need to improve efficiency, stay agile, and meet mandates, this panel features a range of government and education customers highlighting their journey to the cloud, their decision-making and insight on their decision to move all-in or cloud-first, the value they've seen, and the impact to the mission. Since adopting the all-in strategy, we will hear about their future roadmap and what is now possible with the power of the cloud.",
+        "date": "2016-04-21T13:30:32Z",
+        "duration": 2845
     },
     {
         "service": "cloudfront",
         "videoId": "DeygvViFlXQ",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "NET309-R1",
+            "Networking & Content Delivery",
+            "Tinder",
+            "AWS Lambda",
+            "Amazon CloudFront"
+        ],
         "title": "AWS re:Invent 2019: Optimizing for performance in CloudFront: Every millisecond counts! (NET309-R1)",
-        "date": "2019/12/05"
+        "description": "In content delivery, every millisecond counts for your customers because it translates to a better user experience. In this session, the Amazon CloudFront engineers provide a deep-dive into optimization and measurement techniques used to continually improve the delivery of your content. Learn about how we optimize for both dynamic and static content delivery. We also share insights from Tinder on how these optimizations benefited the performance of their applications.",
+        "date": "2019-12-05T17:55:00Z",
+        "duration": 3095
     },
     {
         "service": "cloudfront",
         "videoId": "llTu49RNXw0",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CMY303",
+            "Webstep as",
+            "AWS WAF",
+            "Not Applicable",
+            "Amazon CloudFront"
+        ],
         "title": "AWS re:Invent 2019: Using Amazon CloudFront, AWS WAF, and Lambda@Edge to keep spammers out (CMY303)",
-        "date": "2019/12/03"
+        "description": "In this session, we look at the timeline, analysis, and solution implemented for a sudden attack by spammers. Suddenly, the number of newly registered users in our system spiked. We could see that these new users were likely spammers. It was a more sophisticated attack than earlier, as traffic originated from everywhere; captchas and email verifications were bypassed. We already had some countermeasures in place, including a manual process for approval. We needed a quick and cost-effective solution. By using Amazon CloudFront, AWS WAF, Lambda@Edge, and some smarts, we permanently stopped 99% of the spammers within an hour.",
+        "date": "2019-12-03T18:13:36Z",
+        "duration": 2934
     }
 ]

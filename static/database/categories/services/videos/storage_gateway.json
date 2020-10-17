@@ -2,151 +2,529 @@
     {
         "service": "storage_gateway",
         "videoId": "o6TpM-FWs38",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Storage",
+            "STG305-R",
+            "Amazon Glacier",
+            "AWS Storage Gateway"
+        ],
         "title": "AWS re:Invent 2018: Deep Dive: Hybrid Cloud Storage Arch. w/Storage Gateway, ft. CME Grp. (STG305-R)",
-        "date": "2018/12/03"
+        "description": "IT infrastructure teams with on-premises applications have to manage storage arrays throughout their never-ending lifecycle, including capacity planning guesswork, hardware failures, system migrations, and more. There are cloud-enabled alternatives to buying more and more storage arrays. With AWS Storage Gateway, you can start using Amazon S3, Amazon Glacier, and Amazon EBS in hybrid architectures with on-premises applications for storage, backup, disaster recovery, tiered storage, hybrid data lakes, and ML. In this session, learn how to use AWS Storage Gateway to seamlessly connect your applications to AWS storage services with familiar block-and-file storage protocols and a local cache for fast access to hot data. We demonstrate our latest capabilities and share best practices from experienced customers. Complete Title: AWS re:Invent 2018: [REPEAT] Deep Dive: Build Hybrid Cloud Storage Architectures with Storage Gateway (STG305-R)",
+        "date": "2018-12-04T00:55:21Z",
+        "duration": 3669
     },
     {
         "service": "storage_gateway",
         "videoId": "CO3H-rFlr8E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2825aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "STG213",
+            "Asa Kalavade",
+            "Paul Reed",
+            "Introductory (200 level)",
+            "Storage"
+        ],
         "title": "AWS re:Invent 2016: NEW SERVICE: Introducing the new AWS Storage Gateway (STG213)",
-        "date": "2016/12/02"
+        "description": "AWS Storage Gateway seamlessly combines existing infrastructure investment with the AWS Cloud for backup, restore, disaster recovery, hybrid workloads, and tiered storage use cases. It has a new file interface that supports moving files in NFS-based file systems into Amazon S3. This session dives into the use cases and advantages of hybrid cloud storage, exploring this newly updated data transfer service with stories from real-life customer deployments.",
+        "date": "2016-12-03T03:39:04Z",
+        "duration": 2302
     },
     {
         "service": "storage_gateway",
         "videoId": "MSJrse6jwq0",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Demo Theater",
+            "20795",
+            "EC2",
+            "AWS Storage Gateway",
+            "Storage"
+        ],
         "title": "AWS re:Invent 2017: Using AWS Storage Gateway volumes for application migrations to (DEM73)",
-        "date": "2017/12/01"
+        "description": "This demonstration will show how you can easily migrate on-premises data volumes into EBS for EC2-based applications using AWS Storage Gateway and EBS Snapshots.",
+        "date": "2017-12-01T16:36:38Z",
+        "duration": 715
     },
     {
         "service": "storage_gateway",
         "videoId": "Ut5TG1ueU1E",
+        "tags": [
+            "AWS Storage Gateway",
+            "Cloud Gateway",
+            "Cloud Storage",
+            "Cloud Backup",
+            "Cloud Disaster Recovery"
+        ],
         "title": "AWS re: Invent STG 204: Using AWS Storage Gateway",
-        "date": "2012/12/03"
+        "description": "Organizations are increasingly looking to cloud storage to address many of their corporate IT use cases, but prefer to do so in a way that minimizes the impact to their existing on-premises applications. This presentation provides an overview of AWS Storage Gateway, a service that connects an on-premises software appliance with cloud-based storage for seamless integration between on-premises IT environments and AWS's storage infrastructure. The presentation covers the key use cases of the service, discusses how AWS Storage Gateway works, and provides guidance on getting started.",
+        "date": "2012-12-03T21:50:57Z",
+        "duration": 2376
     },
     {
         "service": "storage_gateway",
         "videoId": "VmjDfz-MIZE",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Storage & Content Delivery",
+            "STG311",
+            "Paul Reed - Amazon Web Services",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (STG311) AWS Storage Gateway: Secure, Cost-Effective Backup & Archive",
-        "date": "2015/10/12"
+        "description": "AWS Storage Gateway is a service that connects an on-premises software appliance with AWS storage. It simplifies the adoption of cloud-based storage within on-premises environments, giving customers a secure, reliable, and cost-effective alternative to local storage. In this session, we take a detailed look at how to use Storage Gateway to backup and archive on-premises data. We discuss the three types of storage and how to select the right type for your environment. We walk through setup and configuration of the on-premises gateway appliance, data restoration, and daily management, such as monitoring performance and managing storage. The session is intended for customers who perform on-premises backup and archive today, and want to learn how to include cloud storage in their environment.",
+        "date": "2015-10-12T16:09:28Z",
+        "duration": 1891
     },
     {
         "service": "storage_gateway",
         "videoId": "0zwdRvtQ1Tk",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Storage",
+            "STG305-R1",
+            "Amazon Glacier",
+            "AWS Storage Gateway"
+        ],
         "title": "AWS re:Invent 2018: Deep Dive: Hybrid Cloud Storage Arch. w/Storage Gateway, + Kellogg's (STG305-R1)",
-        "date": "2018/12/01"
+        "description": "IT infrastructure teams with on-premises applications have to manage storage arrays throughout their never-ending lifecycle, including capacity planning guesswork, hardware failures, system migrations, and more. There are cloud-enabled alternatives to buying more and more storage arrays. With AWS Storage Gateway, you can start using Amazon S3, Amazon Glacier, and Amazon EBS in hybrid architectures with on-premises applications for storage, backup, disaster recovery, tiered storage, hybrid data lakes, and ML. In this session, learn how to use AWS Storage Gateway to seamlessly connect your applications to AWS storage services with familiar block-and-file storage protocols and a local cache for fast access to hot data. We demonstrate our latest capabilities and share best practices from experienced customers. Complete Title: AWS re:Invent 2018: [REPEAT 1] Deep Dive: Build Hybrid Cloud Storage Architectures with Storage Gateway (STG305-R1)",
+        "date": "2018-12-01T21:27:47Z",
+        "duration": 3975
     },
     {
         "service": "storage_gateway",
         "videoId": "_h_kPmXStWI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "file gateway",
+            "aws storage gateway"
+        ],
         "title": "AWS Knowledge Center Videos: How do I create a file gateway using AWS Storage Gateway?",
-        "date": "2018/03/19"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/file-gateway-ec2/\n\nDustin, an AWS Cloud Support Engineer, shows you how to create a file gateway using AWS Storage Gateway.",
+        "date": "2018-03-19T13:57:27Z",
+        "duration": 602
     },
     {
         "service": "storage_gateway",
         "videoId": "9wgaV70FeaM",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Reed",
+            "Storage",
+            "STG309",
+            "AI",
+            "Connect",
+            "Analytics",
+            "AWS Storage Gateway",
+            "Big Data",
+            "Enterprise",
+            "Hybrid",
+            "Migration"
+        ],
         "title": "AWS re:Invent 2017: Deep Dive: Using Hybrid Storage with AWS Storage Gateway to Solv (STG309)",
-        "date": "2017/11/29"
+        "description": "Enterprises of all sizes face continuing data growth and persistent requirements to back up and recover application data. The pains of recurring storage hardware purchasing, management, and failures are still acute for many IT organizations. Some also need to integrate on-premises datasets with in-cloud workloads, such as big data processing and analytics. Learn how to use AWS Storage Gateway to connect on-premises applications to AWS storage services using standard storage protocols, such as NFS, iSCSI, and VTL. Storage Gateway enables hybrid cloud storage solutions for backup and disaster recovery, file sharing, in-cloud processing, or bulk ingest for migration. We discuss use cases with real-life customer stories, and offer best practices.",
+        "date": "2017-11-29T17:35:02Z",
+        "duration": 3497
     },
     {
         "service": "storage_gateway",
         "videoId": "DPyc0q4MYsM",
+        "tags": [
+            "AWS storage gateway",
+            "S3 gateway",
+            "Cloud storage gateway",
+            "Backup storage gateway",
+            "Offline Cloud storage",
+            "Cloud backup",
+            "Disaster recovery",
+            "Storage as a service",
+            "Backup as a service",
+            "AWS Storage",
+            "AWS backup",
+            "Tutorial",
+            "Evaluation",
+            "Training"
+        ],
         "title": "Introducing AWS Storage Gateway",
-        "date": "2011/10/05"
+        "description": "The AWS Storage Gateway is a cloud storage gateway service connecting on-premise applications with AWS Cloud storage for cloud backup, cloud disaster recovery, as a cloud storage gateway.",
+        "date": "2011-10-06T00:07:58Z",
+        "duration": 174
     },
     {
         "service": "storage_gateway",
         "videoId": "tP5edaxBEEI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Storage Gateway",
+            "Hybrid cloud storage",
+            "Cloud file storage",
+            "Content repository",
+            "S3 file storage",
+            "Amazon S3",
+            "Amazon file storage",
+            "Cloud storage",
+            "Hybrid Cloud"
+        ],
         "title": "AWS Storage Gateway Demo: File Storage on Amazon S3 with Access from Multiple Sites",
-        "date": "2017/08/11"
+        "description": "Learn more about AWS Storage Gateway for Files at - http://amzn.to/2vSEG7e.\nThis video discusses and demonstrates how the AWS Storage Gateway can be deployed to connect Windows and Linux clients in separate sites to files stored in Amazon Simple Storage Service (S3).\n\nAWS Storage Gateway is hybrid cloud storage service. It allows on-premises applications to seamlessly use AWS storage services via a local appliance, which connects to local clients or hosts via standard storage protocols. The File Gateway shown in this video provides local NFS access and caching for data stored in Amazon S3, and in-cloud data access via the Amazon S3 API. A common use case for such an architecture is content storage and distribution, allowing multiple offices to access the same large media files, stored durably and affordably in the cloud.",
+        "date": "2017-08-11T17:02:28Z",
+        "duration": 393
     },
     {
         "service": "storage_gateway",
         "videoId": "k32FaqM40rw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "storage",
+            "enterprise",
+            "storage on the cloud",
+            "AWS-storage-gateway",
+            "Gateway-VTL",
+            "ajith-Kuttai-Venkatraman",
+            "STG202",
+            "stg"
+        ],
         "title": "Storage TCO using AWS Storage Gateway, Amazon S3 and Amazon Glacier (STG202) | AWS re:Invent 2013",
-        "date": "2013/10/26"
+        "description": "AWS Storage Gateway allows you to reduce capital costs and simplify operations compared to traditional on-premises storage solutions. This session covers the set of use cases you can address with AWS Storage Gateway and introduces the newly launched Gateway-VTL . Gateway-VTL provides a cost-effective, scalable, and durable virtual tape infrastructure that allows you to eliminate the challenges associated with owning and operating an on-premises physical tape infrastructure.",
+        "date": "2013-11-26T20:38:51Z",
+        "duration": 2266
     },
     {
         "service": "storage_gateway",
         "videoId": "7kwV26AB6OI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Getting Started with Storage Gateway",
-        "date": "2018/12/12"
+        "description": "Introduction to Storage Gateway on AWS",
+        "date": "2018-12-12T21:40:36Z",
+        "duration": 148
     },
     {
         "service": "storage_gateway",
         "videoId": "Qj0Et6rWWtI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Hybrid Data Storage Made Easier with AWS Storage Gateway",
-        "date": "2019/06/21"
+        "description": "Public sector IT teams, similar to those in the commercial sector, face the daunting task of meeting ever-increasing storage demand from users with status quo budget. Cloud provides scale out storage with a pay-as-you-go pricing, but how can you take its advantage without rewriting your applications and impacting the current storage experience? AWS Storage Gateway provides a swift path to using cloud storage without disrupting your business workflows and storage experience. AWS Storage Gateway enables a wide variety of hybrid storage uses cases such as backup and archiving, disaster recovery, cloud data processing, storage tiering, and migration. In this session, you will learn about File, Volume, and Tape configurations of the AWS Storage Gateway family, and their features and benefits. You will also hear from our customers how they use AWS Storage Gateway to overcome their on-premises storage challenges and chart paths to using cloud for storage and processing.",
+        "date": "2019-06-21T15:00:33Z",
+        "duration": 3014
     },
     {
         "service": "storage_gateway",
         "videoId": "8BzSz6BSfc4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Switch From Tape to Cloud Backups – AWS Storage Gateway - AWS Tech Tips",
-        "date": "2018/02/20"
+        "description": "Learn more about AWS Storage Gateway Virtual Tape Library (VTL) at http://amzn.to/2C8weVf.\nWatch this AWS TechTips 10-minute demo and learn how to switch from tape to cloud backups with AWS Storage Gateway. Senior Product Manager Peter Baltatzidis will walk you through the step-by-step process on getting started in the AWS Console, deploying your new Tape Gateway appliance in your environment, and beginning backup jobs in under 10 minutes. The video features use of Veeam Backup and Replication with the Tape Gateway Virtual Tape Library (VTL) configuration of AWS Storage Gateway, including the following steps:\n1. In AWS Console Select type of Storage Gateway and hypervisor\n2. Deploy Tape Gateway appliance in your environment\n3. Provision local disk for cache and upload buffer\n4. Connect and activate Tape Gateway appliance\n5. Create virtual tapes\n6. Connect Tape Gateway to backup application (Veeam in this case)\n7. Import new tapes into backup application\n8. Begin backup jobs\n9. Archive tapes for storage on Amazon Glacier\n10. Retrieve tape to any Tape Gateway for recovery",
+        "date": "2018-02-20T20:36:43Z",
+        "duration": 651
     },
     {
         "service": "storage_gateway",
         "videoId": "P6HHJFAymN4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "disaster recovery",
+            "DR",
+            "storage gateway",
+            "recovery",
+            "volume clones",
+            "volume gateway",
+            "backup",
+            "failover",
+            "hybrid cloud storage",
+            "hybrid cloud disaster recovery"
+        ],
         "title": "Disaster Recovery Demonstration: Using AWS Storage Gateway for Cross-Site Failover",
-        "date": "2020/02/25"
+        "description": "Learn more about AWS Storage Gateway at - http://amzn.to/2pmDWCC.\nBy using its Volume Gateway, with clones and EBS Snapshots, the Storage Gateway service enables recovery into AWS (Amazon EC2 & Amazon EBS) or to primary or secondary on-premises data centers. This demonstration shows how you can use Storage Gateway clones for fast recovery to a secondary site.",
+        "date": "2018-03-20T17:17:45Z",
+        "duration": 462
     },
     {
         "service": "storage_gateway",
         "videoId": "yUqe_r-fYaE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws storage gateway",
+            "aws file gateway. hybrid cloud storage",
+            "aws storage gateway for files",
+            "aws storage",
+            "storage"
+        ],
         "title": "Automating restores of Amazon S3 Glacier objects through AWS Storage Gateway",
-        "date": "2019/11/06"
+        "description": "Learn more about File Gateway - https://amzn.to/34yq2jF\nWatch this quick demonstration video (as part of the step by step AWS storage blog - https://amzn.to/33ny8vn) to understand how utilizing Lambda functions with Amazon CloudWatch Logs and File Gateway, enables you to automate the restore process of Amazon S3 Glacier objects to the AWS Storage Gateway.",
+        "date": "2019-11-06T18:42:27Z",
+        "duration": 204
     },
     {
         "service": "storage_gateway",
         "videoId": "_fcPpZhEHwk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "SRV347",
+            "AWS Chicago Summit 2018"
+        ],
         "title": "AWS Chicago Summit 2018: Building Hybrid Cloud Storage Architectures w/AWS Storage Gateway (SRV347)",
-        "date": "2018/08/15"
+        "description": "Learn more about AWS at - https://amzn.to/2OFJi7t.\nAre you tired of the treadmill of deploying on-premises storage? Join this session to learn how to use AWS Storage Gateway to shift storage for on-premises apps to the cloud, reducing your infrastructure and management challenges. Storage Gateway connects your apps to AWS storage services, including Amazon S3, using standard block, file and tape storage protocols. You can use Storage Gateway for hybrid cloud use cases for file-based application data storage, backup, analytics with data lakes, machine learning (ML), and migration. Learn about best practices from a customer using Storage Gateway for Microsoft SQL Server data protection.",
+        "date": "2018-08-15T21:59:28Z",
+        "duration": 3664
     },
     {
         "service": "storage_gateway",
         "videoId": "AkehuRl5YPg",
+        "tags": [
+            "Amazon Web Services",
+            "AWS Storage Gateway",
+            "AWS",
+            "storage"
+        ],
         "title": "Webinar: Introduction to AWS Storage Gateway",
-        "date": "2012/02/27"
+        "description": "Learn more about how you can use the AWS Storage Gateway for backup, disaster recovery, and data mirroring to your cloud-based compute resources.  We cover a few key use cases, discuss how the AWS Storage Gateway works, and show you how to get started. \n\nRecorded on February 23, 2012 \nhttp://aws.amazon.com/storagegateway",
+        "date": "2012-02-28T00:51:22Z",
+        "duration": 3199
     },
     {
         "service": "storage_gateway",
         "videoId": "iGYNhNLFnJs",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "STG305-R1",
+            "Storage",
+            "Bristol-Myers Squibb Company",
+            "Bristol-Myers Squibb"
+        ],
         "title": "AWS re:Invent 2019: Build hybrid storage architectures with AWS Storage Gateway (STG305-R1)",
-        "date": "2019/12/05"
+        "description": "Do you have applications on-premises, need more storage capacity, or require low-latency access to data in Amazon S3? This session explains how to use AWS Storage Gateway in a hybrid architecture for workloads such as backup and archival, file shares for applications, accessing content in AWS, or distributed data processing and analytics. We describe representative customer implementations and dive deep into the technical capabilities and best practices for gateway deployments. Learn how you can get virtually unlimited cloud storage for your on-premises needs, reduce costs, speed up your cloud journey, and build the infrastructure for faster innovation.",
+        "date": "2019-12-05T17:51:04Z",
+        "duration": 3203
     },
     {
         "service": "storage_gateway",
         "videoId": "xdTjJuEWe2k",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "STG305-R",
+            "Storage",
+            "FINRA",
+            "AWS Storage Gateway"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT] Build hybrid storage architectures with AWS Storage Gateway (STG305-R)",
-        "date": "2019/12/03"
+        "description": "Do you have applications on-premises, need more storage capacity, or require low-latency access to data in Amazon S3? In this session, learn how to use AWS Storage Gateway in a hybrid architecture for workloads such as backup and archival, file shares for applications, accessing content in AWS, or distributed data processing and analytics. We describe representative customer implementations and dive deep into the technical capabilities and best practices for gateway deployments. Learn how you can get virtually unlimited cloud storage for your on-premises needs, reduce costs, speed up your cloud journey, and build the infrastructure for faster innovation.",
+        "date": "2019-12-03T18:14:24Z",
+        "duration": 2719
     },
     {
         "service": "storage_gateway",
         "videoId": "SQ4qVvlavHY",
+        "tags": [
+            "AWS",
+            "Events",
+            "aws reinvent",
+            "aws reinvent 2019",
+            "aws storage gateway",
+            "amazon s3",
+            "hybrid cloud storage",
+            "cloud migration",
+            "data transfer",
+            "data migration",
+            "online data transfer",
+            "hybrid workloads"
+        ],
         "title": "Build Hybrid Storage Architectures with AWS Storage Gateway (STG305-1) - Bristol-Myers Squibb",
-        "date": "2020/03/03"
+        "description": "Learn how Bristol-Myers Squibb (BMS) uses AWS Storage Gateway to build hybrid storage architectures and access to their life sciences data. \n\nWatch the full session at http://bit.ly/2VwFdIY\nLearn more about AWS Storage Gateway at https://go.aws/2Tlx20D\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSEvents #AWSStorageGateway",
+        "date": "2020-03-03T17:36:13Z",
+        "duration": 107
     },
     {
         "service": "storage_gateway",
         "videoId": "ap9A68DZqCA",
+        "tags": [
+            "AWS",
+            "Events",
+            "aws",
+            "storage",
+            "cloud storage",
+            "finra",
+            "aws storage gateway",
+            "amazon s3",
+            "hybrid cloud storage",
+            "storage gateway applications",
+            "hybrid architecture",
+            "financial industry regulatory authority",
+            "cloud migration",
+            "storage gateway hardware appliance",
+            "volume gateway",
+            "file gateway"
+        ],
         "title": "Build hybrid storage architectures with AWS Storage Gateway - FINRA",
-        "date": "2020/02/24"
+        "description": "Learn how FINRA (Financial Industry Regulatory Authority) uses AWS Storage Gateway to lower CAPEX and OPEX, implement with practically no disruption to applications, isolate workloads and/or lifecycle environments, and enhance data reliability and availability.  \n\nLearn more about AWS Storage at - https://go.aws/32d79mh\nView the full re:Invent session: http://bit.ly/39Rmzza\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSEvents #AWSStorage",
+        "date": "2020-02-24T17:00:00Z",
+        "duration": 1033
     },
     {
         "service": "storage_gateway",
         "videoId": "9ATTWkH6pBg",
+        "tags": [
+            "AWS",
+            "Events",
+            "aws",
+            "storage",
+            "cloud storage",
+            "finra",
+            "aws storage gateway",
+            "amazon s3",
+            "hybrid cloud storage",
+            "storage gateway applications",
+            "hybrid architecture",
+            "financial industry regulatory authority",
+            "cloud migration",
+            "storage gateway hardware appliance",
+            "volume gateway",
+            "file gateway"
+        ],
         "title": "Build hybrid storage architectures with AWS Storage Gateway - FINRA Benefits",
-        "date": "2020/02/24"
+        "description": "Learn how FINRA (Financial Industry Regulatory Authority) uses AWS Storage Gateway to lower CAPEX and OPEX, implement with practically no disruption to applications, isolate workloads and/or lifecycle environments, and enhance data reliability and availability.  \n\nLearn more about AWS Storage at - https://go.aws/2T459se\nView the full re:Invent session: http://bit.ly/39Rmzza\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSEvents #AWSStorage",
+        "date": "2020-02-24T17:00:03Z",
+        "duration": 120
     },
     {
         "service": "storage_gateway",
         "videoId": "dnkFvQvJZ0I",
+        "tags": [
+            "AWS",
+            "Events",
+            "aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "aws reinvent",
+            "backups",
+            "backup",
+            "storage",
+            "cloud storage",
+            "cloud backup",
+            "aws storage gateway",
+            "tape gateway",
+            "amazon s3",
+            "amazon s3 glacier deep archive",
+            "ryanair",
+            "tape storage",
+            "tape library",
+            "virtual tape library",
+            "Veeam",
+            "tape archive",
+            "archive"
+        ],
         "title": "Shift Your Tape Backups to AWS to Save Time and Money (STG217) - Ryanair",
-        "date": "2020/02/20"
+        "description": "Learn how Ryanair switched back ups to the cloud and saved 65% on their backup costs with AWS Storage Gateway's Tape Gateway and Amazon S3 Glacer Deep Archive. \n\nView the full re:Invent session at http://bit.ly/39B7u4T\nLearn more about AWS Storage Gateway at https://go.aws/2vrO3N9\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSEvents #AWSStorageGateway",
+        "date": "2020-02-20T19:58:06Z",
+        "duration": 629
     },
     {
         "service": "storage_gateway",
         "videoId": "3syzNFLRGco",
+        "tags": [
+            "AWS",
+            "Events",
+            "storage",
+            "cloud storage",
+            "bms",
+            "bristol myers squibb",
+            "aws storage gateway",
+            "amazon s3",
+            "big data analytics",
+            "hybrid cloud storage",
+            "file storage",
+            "life science",
+            "storage gateway applications",
+            "scientific data sets",
+            "image management analysis",
+            "instrument data",
+            "metadata catalog",
+            "file share",
+            "image discovery",
+            "aws reinvent 2019",
+            "aws reinvent"
+        ],
         "title": "Storage for Hybrid Cloud and Edge Computing: Bring AWS to You (STG 213) - Bristol-Myers Squibb",
-        "date": "2020/02/25"
+        "description": "Learn how Bristol-Myers Squibb (BMS) uses AWS Storage Gateway as a seamless extension of their on-premises infrastructure connecting life sciences data from multiple sources into Amazon S3 for big data analytics. \n\nView the full re:Invent session at http://bit.ly/37iDRDO\nLearn more about AWS Storage Gateway at https://go.aws/2UVYVgC\n\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSEvents #AWSStorageGateWay",
+        "date": "2020-02-25T18:40:51Z",
+        "duration": 574
     }
 ]

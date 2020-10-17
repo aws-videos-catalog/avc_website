@@ -2,235 +2,798 @@
     {
         "service": "elastic_container_service",
         "videoId": "Qik9LBktjgs",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Containers",
+            "CON310",
+            "AI"
+        ],
         "title": "AWS re:Invent 2017: Moving to Containers: Building with Docker and Amazon ECS (CON310)",
-        "date": "2017/11/30"
+        "description": "If you've ever considered moving part of your application stack to containers, don’t miss this session. Amazon ECS Software Engineer Uttara Sridhar will cover best practices for containerizing your code, implementing automated service scaling and monitoring, and setting up automated CI/CD pipelines with fail-safe deployments. Manjeeva Silva and Thilina Gunasinghe will show how McDonalds implemented their home delivery platform in four months using Docker containers and Amazon ECS to serve tens of thousands of customers.",
+        "date": "2017-11-30T16:52:27Z",
+        "duration": 3009
     },
     {
         "service": "elastic_container_service",
         "videoId": "qbEPae8YNbs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "DevDay Munich 2018"
+        ],
         "title": "Deep Dive on Amazon Amazon Elastic Container Service (Amazon ECS)",
-        "date": "2018/04/25"
+        "description": "Learn more about AWS and check out the upcoming schedule, previous recordings, and links to the resources discussed at - https://amzn.to/2HtpbFB.\n\nAWS DevDay Munich 2018:\nContainers are an increasingly important way for developers to package and deploy their applications  and AWS offers multiple container products to help you deploy, manage, and scale containers in production. In this session we we cover the state of containerized application development and deployment trends, new container capabilities on AWS that are available now, options for running containerized applications on AWS, and how AWS customers successfully run container workloads in production.\nLearn more about containers here: https://aws.amazon.com/containers/",
+        "date": "2018-04-25T17:15:52Z",
+        "duration": 3793
     },
     {
         "service": "elastic_container_service",
         "videoId": "leawqlD9EHw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit Tel Aviv",
+            "summit",
+            "Adrian Cockroft",
+            "amazon web services",
+            "כנס אמזון",
+            "אמזון ווב סרביסס",
+            "סאמיט 2019"
+        ],
         "title": "AWS Summit Tel Aviv 2019 | Deep Dive on Amazon Elastic Container Service (ECS)",
-        "date": "2019/03/27"
+        "description": "Learn more about AWS at - https://amzn.to/2CtW5Ws   \nThis talk will dive deep into Amazon ECS. We will take a look at recently added ECS features, like target tracking autoscaling, service discovery, daemon scheduling, task networking, and GPU pinning, including live demos!\n\nView Slides: https://www.slideshare.net/AWSSummits/deep-dive-on-amazon-elastic-container-service-ecs-aws-summit-tel-aviv-2019",
+        "date": "2019-03-27T17:12:17Z",
+        "duration": 2125
     },
     {
         "service": "elastic_container_service",
         "videoId": "1upInHReIxI",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Containers",
+            "CON401",
+            "AI",
+            "VPC",
+            "Networking"
+        ],
         "title": "AWS re:Invent 2017: Container Networking Deep Dive with Amazon ECS (CON401)",
-        "date": "2017/12/01"
+        "description": "Deep dive into how Amazon ECS can enable secure, natively addressable, and highly performant network interfaces for containers using the recently launched the awsvpc task networking mode. In this session, we focus on how CNI plugins were integrated with the Amazon ECS container agent and discuss the backend changes necessary to enable elastic network interface provisioning for tasks. Shakeel Sorathia, VP of engineering at FOX Digital, discusses best practices for working with Amazon ECS to enable such use cases as network isolation and IP-based routing for service discovery.",
+        "date": "2017-12-01T16:21:07Z",
+        "duration": 3040
     },
     {
         "service": "elastic_container_service",
         "videoId": "1qd_H90Hzwk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "CON302",
+            "Danielle Greshock",
+            "Advanced",
+            "Containers Mini Con"
+        ],
         "title": "AWS re:Invent 2016: Development Workflow with Docker and Amazon ECS (CON302)",
-        "date": "2016/12/02"
+        "description": "Keeping consistent environments across your development, test, and production systems can be a complex task. Docker containers offer a way to develop and test your application in the same environment in which it runs in production. You can use tools such as the ECS CLI and Docker Compose for local testing of applications; Jenkins and AWS CodePipeline for building and workflow orchestration; Amazon EC2 Container Registry to store your container images; and Amazon EC2 Container Service to manage and scale containers. In this session, you will learn how to build containers into your development workflow and orchestrate container deployments using Amazon ECS. You will hear how Okta runs 30,000 tests per developer commit and releases 10,000 new lines of code each week to production with a CI system based on 100% AWS services. We'll also discuss how Okta uses ECS for parallelized testing in CI and for production microservices in a multi-region, always on cloud service.",
+        "date": "2016-12-02T21:26:40Z",
+        "duration": 3321
     },
     {
         "service": "elastic_container_service",
         "videoId": "N6vSrHJ1dM0",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Containers",
+            "CON202-R",
+            "AI",
+            "EC2",
+            "EC2 Container Service",
+            "Security"
+        ],
         "title": "AWS re:Invent 2017: [REPEAT] Getting Started with Docker and Amazon ECS (CON202-R)",
-        "date": "2017/11/30"
+        "description": "By packaging software into standardized units, Docker gives code everything it needs to run, ensuring consistency from your laptop all the way into production. But once you have your code ready to ship, how do you run and scale it in the cloud? In this session, you become comfortable running containerized services in production using Amazon EC2 Container Service. We cover container deployment, cluster management, service auto-scaling, service discovery, secrets management, logging, monitoring, security, and other core concepts. We also cover integrated AWS services and supplementary services that you can take advantage of to run and scale container-based services in the cloud.",
+        "date": "2017-11-30T16:40:19Z",
+        "duration": 2167
     },
     {
         "service": "elastic_container_service",
         "videoId": "PONU2xAR5pE",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Containers",
+            "CON404",
+            "AI"
+        ],
         "title": "AWS re:Invent 2017: Deep Dive into Container Scheduling with Amazon ECS (CON404)",
-        "date": "2017/11/30"
+        "description": "As your application’s infrastructure grows and scales, well-managed container scheduling is critical to ensuring high-availability and resource optimization. In this session, we will deep dive into the challenges and opportunities around container scheduling, as well as the different tools available within Amazon ECS and AWS to carry out efficient container scheduling. We will discuss patterns for container scheduling available with Amazon ECS and the Blox scheduling framework",
+        "date": "2017-11-30T16:52:58Z",
+        "duration": 2511
     },
     {
         "service": "elastic_container_service",
         "videoId": "CtALTTjy7Qw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "CON309",
+            "Nathaniel Slater",
+            "Advanced",
+            "Containers Mini Con"
+        ],
         "title": "AWS re:Invent 2016: Running Microservices on Amazon ECS (CON309)",
-        "date": "2016/12/02"
+        "description": "Running and managing large scale applications with microservices architectures is hard and often requires operating complex container management infrastructure. Amazon EC2 Container Service (ECS) is a highly scalable, high performance container management service that supports Docker containers and allows you to easily run applications on a managed cluster of Amazon EC2 instances. In this session, we will walk through a number of patterns used by our customers to run their microservices platforms. We will dive deep into some of the challenges of running microservices, such as load balancing, service discovery, and secrets management, and we’ll see how Amazon ECS can help address them. We'll also hear from Instacart how they use a blue/green deployment process to deploy services to ECS and how they manage configuration with a RDS-based metadata service.",
+        "date": "2016-12-02T21:21:54Z",
+        "duration": 2289
     },
     {
         "service": "elastic_container_service",
         "videoId": "xIc3WT6kAVw",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "DevOps",
+            "DVO313",
+            "Matt DeBergalis - Meteor Development Group",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (DVO313) Building Next-Generation Applications with Amazon ECS",
-        "date": "2015/10/12"
+        "description": "Two trends are driving app development: The shift from the server-based web to rich applications that run on a diverse set of mobile devices and modern browsers, and the growth of microservices running in the cloud that serve these clients. The results are “connected clients” - apps with the processing power of the device that are statefully connected and scaled to the cloud. In this session, you will learn about the architecture for Meteor's JavaScript app platform, Galaxy, which uses Amazon ECS, Elastic Load Balancing, and AWS CloudFormation to provide highly available, scalable, isolated environments for stateful apps across browsers and devices. We will discuss the essential characteristics of the platform, how those are provided for, and why we decided to use Amazon ECS instead of alternatives, such as Kubernetes. We will also demonstrate the Galaxy system in production.",
+        "date": "2015-10-12T20:44:25Z",
+        "duration": 2576
     },
     {
         "service": "elastic_container_service",
         "videoId": "8SEKRhgl_xw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "CON301",
+            "Paul Maddox",
+            "Advanced (300 level)",
+            "Containers Mini Con"
+        ],
         "title": "AWS re:Invent 2016: Operations Management with Amazon ECS (CON301)",
-        "date": "2016/12/02"
+        "description": "Managing the infrastructure behind your ECS cluster is an important and crucial task. In this session we will dive deep into best practices to setup and maintain your ECS cluster with tools such as CloudFormation and Auto Scaling. We will discuss how to setup monitoring and logging infrastructure for your cluster and containers. We will also detail how to tighten the security of your container instances with tools such as SELinux. We will do a live deployment of a complete microservices-based ecommerce website, using Weave Net and Weave Scope for container networking, automated service discovery, monitoring and real-time app visualization. We’ll use CloudFormation, Auto Scaling Groups and other services to show how easy it is to architect and deploy a real application on Amazon ECS with fewer moving parts. We’ll also visualize our application using a real-time map of the containers.",
+        "date": "2016-12-02T21:31:40Z",
+        "duration": 3016
     },
     {
         "service": "elastic_container_service",
         "videoId": "8SEKRhgl_xw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "CON301",
+            "Paul Maddox",
+            "Advanced (300 level)",
+            "Containers Mini Con"
+        ],
         "title": "AWS re:Invent 2016: Operations Management with Amazon ECS (CON301)",
-        "date": "2016/12/02"
+        "description": "Managing the infrastructure behind your ECS cluster is an important and crucial task. In this session we will dive deep into best practices to setup and maintain your ECS cluster with tools such as CloudFormation and Auto Scaling. We will discuss how to setup monitoring and logging infrastructure for your cluster and containers. We will also detail how to tighten the security of your container instances with tools such as SELinux. We will do a live deployment of a complete microservices-based ecommerce website, using Weave Net and Weave Scope for container networking, automated service discovery, monitoring and real-time app visualization. We’ll use CloudFormation, Auto Scaling Groups and other services to show how easy it is to architect and deploy a real application on Amazon ECS with fewer moving parts. We’ll also visualize our application using a real-time map of the containers.",
+        "date": "2016-12-02T21:31:40Z",
+        "duration": 3016
     },
     {
         "service": "elastic_container_service",
         "videoId": "7OENdjRPLX8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "CON308",
+            "Tom Fuller",
+            "Advanced",
+            "Containers Mini Con"
+        ],
         "title": "AWS re:Invent 2016: Service Integration Delivery and Automation Using Amazon ECS (CON308)",
-        "date": "2016/12/03"
+        "description": "Through a combination of Amazon ECS and open source technologies, customers are able to build portable CI/CD pipelines on AWS. As container based deployments become more complex, they require additional rigging for integration. In this session, we show how popular Apache products like Kakfa, Storm, and Zookeeper are being deployed on top of Amazon ECS. We hear from HERE, a provider of mapping data, technologies, and services to the automotive, consumer, and enterprise sectors about an approach that leverages Consul from Hashicorp and Amazon ECS clusters for short-cycle deployments and tag-based environment promotion.",
+        "date": "2016-12-03T19:37:57Z",
+        "duration": 2409
     },
     {
         "service": "elastic_container_service",
         "videoId": "FBALeXG8WTI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "CON310",
+            "Asha Chakrabarty",
+            "Advanced",
+            "Containers Mini Con"
+        ],
         "title": "AWS re:Invent 2016: Running Batch Jobs on Amazon ECS (CON310)",
-        "date": "2016/12/02"
+        "description": "Batch computing is a common way for developers, scientists and engineers to run a series of jobs on a large pool of shared compute resources, such as servers, virtual machines, and containers. Amazon ECS makes it easy to run and manage Docker-enabled applications across a cluster of Amazon EC2 instances. In this session will show you how to run batch jobs using Amazon ECS and together with other AWS services, such as AWS Lambda and Amazon SQS. We will see how you can leverage Amazon EC2 Spot Instances to power your ECS cluster and easily scale your batch workloads. You'll hear from Mapbox on how they use ECS to power their entire batch processing architecture to collect and process over 100 million miles of sensor data per day that they use for powering their maps.  Mapbox will also discuss how they optimize their batch processing framework on ECS using Spot Instances and demo their open source framework that will help you get up and running with ECS in minutes.",
+        "date": "2016-12-02T21:13:42Z",
+        "duration": 2624
     },
     {
         "service": "elastic_container_service",
         "videoId": "a45J6xAGUvA",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Public Sector",
+            "Compute",
+            "CMP406",
+            "Frank Chen - Coursera Inc",
+            "Expert (400 level)"
+        ],
         "title": "AWS re:Invent 2015 | (CMP406) Amazon ECS at Coursera",
-        "date": "2015/10/12"
+        "description": "Coursera has helped millions of students learn computer science through MOOCs ranging from Introduction to Python, to state-of-the-art Functional-Reactive Programming in Scala. Our interactive educational experience relies upon an automated grading platform for programming assignments. But, because anyone can sign up for a course on Coursera for free, our systems must defend against arbitrary code execution.\n \nCome learn how Coursera uses AWS services such as Amazon EC2 Container Service (ECS), and Amazon Virtual Private Cloud (VPC) to power a defense-in-depth strategy to secure our infrastructure against bad actors. We have modified the Amazon ECS Agent to support security layers including kernel privilege de-escalation, and enabling mandatory access control systems. Additionally, we post-process uploaded grading container images to defang binaries.\n \nAt the core of automated grading is a general-purpose near-line & batch scheduling and execution microservice built on top of the Amazon ECS APIs. We use this flexible system to power a variety of internal services across the company including data exports for instructors, course announcement emails, data reconciliation jobs, and more. \n \nIn this session, we detail aspects of our success from implementing Docker and Amazon ECS in production, providing ideas for your own scheduling, execution and hardening requirements.",
+        "date": "2015-10-12T20:18:11Z",
+        "duration": 2818
     },
     {
         "service": "elastic_container_service",
         "videoId": "rWv6xJ7w1Ts",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Containers",
+            "CON356",
+            "AI"
+        ],
         "title": "AWS re:Invent 2017: Moving to Amazon ECS – the Not-So-Obvious Benefits (CON356)",
-        "date": "2017/12/01"
+        "description": "If you ask 10 teams why they migrated to containers, you will likely get answers like ‘developer productivity’, ‘cost reduction’, and ‘faster scaling’. But teams often find there are several other ‘hidden’ benefits to using containers for their services. In this talk, Franziska Schmidt, Platform Engineer at Mapbox and Yaniv Donenfeld from AWS will discuss the obvious, and not so obvious benefits of moving to containerized architecture. These include using Docker and ECS to achieve shared libraries for dev teams, separating private infrastructure from shareable code, and making it easier for non-ops engineers to run services.",
+        "date": "2017-12-02T05:04:33Z",
+        "duration": 2888
     },
     {
         "service": "elastic_container_service",
         "videoId": "evYcLW3TLcQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "CON307",
+            "Anthony Suarez",
+            "Advanced (300 Level)",
+            "Container Mini Con"
+        ],
         "title": "AWS re:Invent 2016: NEW LAUNCH! Advanced Task Scheduling with Amazon ECS and Blox (CON307)",
-        "date": "2016/12/03"
+        "description": "As customers build and run production microservices architectures based on containers, having powerful tools to manage the placement and scheduling of these workloads is critical. Amazon ECS allows customers to focus on building their application and removes the need for managing the cluster management software entirely. This session will focus on the capabilities of the new ECS task placement engine, the built-in ECS schedulers, and explore how customers can build custom schedulers using the ECS event stream and Blox, a newly announced open source scheduling framework that gives developers additional choice and control in how they manage containers in production.",
+        "date": "2016-12-03T19:35:48Z",
+        "duration": 2165
     },
     {
         "service": "elastic_container_service",
         "videoId": "dosRRkeyEKk",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Containers",
+            "CON320",
+            "AI"
+        ],
         "title": "AWS re:Invent 2017: Monitoring, Logging, and Debugging for Containerized Services (CON320)",
-        "date": "2017/11/29"
+        "description": "As containers become more embedded in the platform tools, debug tools, traces and logs become increasingly important. Nare Hayrapetyan, Senior Software Engineer and Calvin French-Owen, Senior Technical Officer for Segment will discuss the principals of monitoring and debugging containers and the tools Segment has implemented and built for logging, alerting, metric collection, and debugging of containerized services running on Amazon ECS.",
+        "date": "2017-11-29T16:55:55Z",
+        "duration": 2895
     },
     {
         "service": "elastic_container_service",
         "videoId": "O4mDgWQ_WA4",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "-",
+            "STP16"
+        ],
         "title": "AWS re:Invent 2018: Securing Microservices on Amazon ECS at BuzzFeed (STP16)",
-        "date": "2018/11/30"
+        "description": "As BuzzFeed transitioned to a microservice platform build on Amazon ECS, it needed to secure a growing number of independent internal apps. The first solution was an open source OAuth proxy service deployed in front of each app, but this approach had a number of issues. In this talk, software engineer, Shraya Ramani, discusses BuzzFeed's experience and introduces SSO, a centralized authentication solution, which elegantly solved the problems faced by the company.",
+        "date": "2018-11-30T16:36:41Z",
+        "duration": 1438
     },
     {
         "service": "elastic_container_service",
         "videoId": "EbLhfiXVP6Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "CON311",
+            "Advanced (300 level)",
+            "Containers Mini Con"
+        ],
         "title": "AWS re:Invent 2016: Operations Automation and Infrastructure Management with Amazon ECS (CON311)",
-        "date": "2016/12/03"
+        "description": "At Capital One, we are using Docker and container technologies to advance microservices adoption, increase efficiencies of cloud resources, and decouple the application layer from the underlying infrastructure. Capital One is a federated organization with a “you build it, you own it” culture that provides autonomy and speed for delivery teams. Each federated team runs and operates their container management stack. In order for the federated teams to accelerate their cloud and container-based apps adoption, we created self-service automation tools for creation and operations management of container management stack.\n\nIn this session, we explore our push-button automation tool that includes capabilities such as the creation and management of Amazon ECS clusters, an Application Load Balancer for dynamic and context-based routing and provides a user interface via a Jenkins Job or a AWS Lambda function. Our tooling also includes a home-grown dynamic service discovery and routing for applications requiring two-way mutual SSL authentication. We talk through how Capital One regularly updates AMIs with the latest patches and software versions using an automated solution that leverages AWS Lambda to rehydrate the Amazon ECS compute cluster with the latest AMI without causing any downtime. We also discuss how we created a sophisticated canary deployment automation using AWS Lambda and application services, where users can specify how to migrate to a new version of containerized apps and manage the deployment.\n\nAWS empowers enterprise Docker deployment with Amazon ECS and an ecosystem of cloud services and serverless architectures, making containerization in mission-critical environments easier than ever.",
+        "date": "2016-12-03T19:39:49Z",
+        "duration": 3010
     },
     {
         "service": "elastic_container_service",
         "videoId": "ChQmDDy0FRY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Gaming",
+            "GAM401",
+            "Vlad Vlasceanu",
+            "Expert (400 level)"
+        ],
         "title": "AWS re:Invent 2016: Riot Games: Standardizing Application Deployments Using Amazon ECS (GAM401)",
-        "date": "2016/12/07"
+        "description": "This session covers how the data team at Riot Games utilizes ECS to consolidate and improve disparate deployment and hosting strategies across a wide range of applications deployed via Docker containers. The team will share how cluster management and container orchestration through ECS enables the team to quickly adopt and evolve shared service hosting solutions as Riot continues its journey towards becoming a multi-game studio.",
+        "date": "2016-12-07T19:56:06Z",
+        "duration": 2759
     },
     {
         "service": "elastic_container_service",
         "videoId": "ZakJsv_X2Ac",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Gaming",
+            "GAM307",
+            "CloudFront",
+            "ElastiCache",
+            "Elasticsearch Service",
+            "AWS Lambda"
+        ],
         "title": "AWS re:Invent 2017: Ubisoft: How For Honor Runs Using Amazon ECS (GAM307)",
-        "date": "2017/11/28"
+        "description": "This session covers how the team at Ubisoft evolved For Honor's infrastructure using Amazon ECS and supporting systems (Amazon CloudFront, Amazon ElastiCache, Amazon Elasticsearch Service, Amazon SQS, and AWS Lambda, with monitoring through DataDog) from a proof of concept to an infrastructure as code solution. The team shares war stories about supporting both internal and live environments, and the challenges of bridging cloud and on-premises systems.",
+        "date": "2017-11-28T18:13:48Z",
+        "duration": 1970
     },
     {
         "service": "elastic_container_service",
         "videoId": "EoC60KddIXE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - Amazon ECS for Kubernetes (EKS)",
-        "date": "2017/12/08"
+        "description": "Amazon Elastic Container Service for Kubernetes (Amazon EKS) is a managed service that makes it easy for you to run Kubernetes on AWS without needing to become an expert in operating Kubernetes. Learn more at - http://amzn.to/2iTNkL8. Amazon EKS fully manages the availability and scalability of the Kubernetes control plane for each cluster. Amazon EKS automatically performs all the cluster management operations, such as handling version upgrades, scaling the Kubernetes masters and etcd persistence layer, and detecting and replacing unhealthy masters.\n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:37:14Z",
+        "duration": 1010
     },
     {
         "service": "elastic_container_service",
         "videoId": "eun8CqGqdk8",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Compute",
+            "CMP302",
+            "Deepak Singh - Amazon Web Services",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (CMP302) Amazon ECS: Distributed Applications at Scale",
-        "date": "2015/10/12"
+        "description": "In recent years, containers have become a key component of modern application design. Increasingly, developers are breaking their applications apart into smaller components and distributing them across a pool of compute resources. It is relatively easy to run a few containers on your laptop, but building and maintaining an entire infrastructure to run and manage distributed applications is hard and requires a lot of undifferentiated heavy lifting.\n \n In this session, we discuss some of the core architectural principles underlying Amazon ECS, a highly scalable, high performance service to run and manage distributed applications using the Docker container engine. We walk through a number of patterns used by our customers to run their microservices platforms, to run batch jobs, and for deployments and continuous integration. We explore the advanced scheduling capabilities of Amazon ECS and dive deep into the Amazon ECS Service Scheduler, which optimizes for long-running applications by monitoring container health, restarting failed containers, and load balancing across containers.",
+        "date": "2015-10-12T19:54:30Z",
+        "duration": 2361
     },
     {
         "service": "elastic_container_service",
         "videoId": "75p2ete1Cqo",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Containers",
+            "CON314-R",
+            "Elastic Container Registry",
+            "Amazon ECR",
+            "AWS CodeBuild",
+            "AWS CodePipeline"
+        ],
         "title": "AWS re:Invent 2018: Thomson Reuters: How It Hosted NET App on ECS Using Windows Containers (CON314)",
-        "date": "2018/11/28"
+        "description": "In this session, we detail how Thomson Reuters hosted its critical enterprise .NET Framework application on Amazon ECS using Windows containers. We also dive into the company's decision-making process in choosing the right hosting platform, technology, and so on. We describe the unique custom solution Thomson Reuters developed using AWS CodePipeline, AWS CodeBuild, and Amazon Elastic Container Registry (Amazon ECR) that helped it create an end-to-end CI/CD pipeline for its environment. Complete Title: AWS re:Invent 2018: [REPEAT] Thomson Reuters Shows How It Hosted a .NET App on Amazon ECS Using Windows Containers (CON314-R)",
+        "date": "2018-11-28T18:21:56Z",
+        "duration": 2820
     },
     {
         "service": "elastic_container_service",
         "videoId": "8zbbQkszP04",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Public Sector",
+            "DevOps",
+            "DVO308",
+            "Michael Barrett - Remind",
+            "Remind Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (DVO308) Docker & ECS: Migrating Infrastructures from Heroku to AWS",
-        "date": "2015/10/09"
+        "description": "This session will introduce you to Empire, a new self-hosted PaaS built on top of Amazon’s EC2 Container Service (ECS). Empire is a recently open-sourced project that provides a mostly Heroku-compatible API. It allows engineering teams to deploy and manage applications in a method similar to Heroku, but with the added flexibility and control of running your own ECS container instances. We'll talk about why Remind decided to move its infrastructure from Heroku to AWS, introduce you to ECS and the open source platform we built on top of it to make migration easier, and then we'll demo Empire to show you how you can try it today.",
+        "date": "2015-10-09T22:46:20Z",
+        "duration": 2290
     },
     {
         "service": "elastic_container_service",
         "videoId": "zxrxHcbn9GY",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "STP04",
+            "Amazon ECS",
+            "AWS CodeBuild",
+            "AWS CodePipeline",
+            "AWS Systems Manager",
+            "AWS CloudFormation"
+        ],
         "title": "AWS re:Invent 2018: Aetion’s Journey to AWS CodePipeline, AWS CloudFormation, & Amazon ECS (STP04)",
-        "date": "2018/11/28"
+        "description": "In this talk, Junaid Kapadia, DevOps manager and staff software engineer for Aetion Systems, speaks about the company’s journey from a Chef, Jenkins, and EC2-based architecture to a fault-tolerant, highly available, continuously provisioned, and deployed architecture via AWS CodePipeline, AWS CodeBuild, AWS CloudFormation, AWS Systems Manager Parameter Store, and Amazon Elastic Container Service (Amazon ECS). Kapadia also discusses the history of Aetion’s original architecture, explains how it transitioned its movement to the new architecture, and shares specific caveats of the purpose of each service and why it was chosen. He also talks about future developments of the overall architecture. Complete Title: AWS re:Invent 2018: Aetion’s Migration Journey to AWS CodePipeline, AWS CloudFormation, & Amazon ECS (STP04)",
+        "date": "2018-11-28T18:44:13Z",
+        "duration": 2946
     },
     {
         "service": "elastic_container_service",
         "videoId": "uFs_EwJr-yc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "NET203",
+            "Peter Dalbhanjan",
+            "Introductory",
+            "Networking"
+        ],
         "title": "AWS re:Invent 2016: EC2 to ECS: Capital One uses Balancer Features to Serve Traffic (NET203)",
-        "date": "2016/12/03"
+        "description": "Capital One began moving to AWS just two years ago. Every day, the amount of traffic we serve from the cloud continues to grow. With development teams having the freedom to choose their own technology stacks, many teams have quickly started moving applications to Docker. In this session, learn how Capital One uses a combination of the Elastic Load Balancing service along with Application Load Balancer features to increase deployment speed and reliability.",
+        "date": "2016-12-03T22:00:02Z",
+        "duration": 2543
     },
     {
         "service": "elastic_container_service",
         "videoId": "gUFtUU7qvSQ",
+        "tags": [
+            "re:Invent 2017",
+            "Andy Jassy",
+            "Amazon Elastic Container Service",
+            "Kubernetes",
+            "Amazon Elastic Container Service for Kubernetes Announcement",
+            "AWS",
+            "Amazon Web Services",
+            "cloud",
+            "cloud computing"
+        ],
         "title": "AWS re:Invent 2017 - Amazon Elastic Container Service for Kubernetes Announcement",
-        "date": "2017/11/29"
+        "description": "Watch Andy Jassy's re:Invent keynote announcement of Amazon Elastic Container Service for Kubernetes (EKS), a managed service that makes it easy to run Kubernetes on AWS. Learn more about Amazon EKS at - http://amzn.to/2zHcW7v.",
+        "date": "2017-11-29T21:57:00Z",
+        "duration": 76
     },
     {
         "service": "elastic_container_service",
         "videoId": "Yk193NdeWo0",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Containers",
+            "CON302",
+            "AI"
+        ],
         "title": "AWS re:Invent 2017: Building a CI/CD Pipeline for Containers on Amazon ECS (CON302)",
-        "date": "2017/11/29"
+        "description": "Containers can make it easier to scale applications in the cloud, but how do you set up your CI/CD workflow to automatically test and deploy code to containerized apps? In this session, we explore how developers can build effective CI/CD workflows to manage their containerized code deployments on AWS. Ajit Zadgaonkar, director of engineering and operations at Edmunds, walks through best practices for CI/CD architectures used by his team to deploy containers. We also deep dive into topics such as how to create an accessible CI/CD platform and architect for safe Blue-Green deployments.",
+        "date": "2017-11-29T16:56:25Z",
+        "duration": 3371
     },
     {
         "service": "elastic_container_service",
         "videoId": "2vJLS8qfhI0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Application Deployment & Management",
+            "Advanced",
+            "Amazon EC2",
+            "HPC",
+            "Architect",
+            "Technical Decision Maker",
+            "Startup",
+            "Enterprise",
+            "Developer",
+            "Deepak Singh",
+            "Daniel Gerdesmeier"
+        ],
         "title": "AWS re:Invent 2014 | (APP313) NEW LAUNCH: Amazon EC2 Container Service in Action",
-        "date": "2014/11/17"
+        "description": "Container technology, particularly Docker, is all the rage these days.  At AWS, our customers have been running Linux containers at scale for several years, and we are increasingly seeing customers adopt Docker, especially as they build loosely coupled distributed applications.  However, to do so they have to run their own cluster management solutions, deal with configuration management, and manage their containers and associated metadata.  We believe that those capabilities should be a core building block technology, just like EC2. Today, we are announcing the preview of Amazon EC2 Container Service, a new AWS service that makes is easy to run and manage Docker-enabled distributed applications using powerful APIs that allow you to launch and stop containers, get complete cluster state information, and manage linked containers.  In this session we will discuss why we built the EC2 Container Service, some of the core concepts, and walk you through how you can use the service for your applications.",
+        "date": "2014-11-17T23:00:02Z",
+        "duration": 2037
     },
     {
         "service": "elastic_container_service",
         "videoId": "v9xuKAdShFw",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CON325-R1",
+            "Containers",
+            "AWS Fargate",
+            "Amazon ECS"
+        ],
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Enabling application-first thinking with Amazon ECS (CON325-R1)",
-        "date": "2019/12/10"
+        "description": "Getting started with containerized application development often requires you to first provision the infrastructure that will be used to run your containers, what we call “infrastructure-first” development. As serverless technologies such as AWS Fargate become more popular, the need to provision infrastructure often goes away entirely, allowing customers to focus on their applications first. In this session, we discuss how a new concept in Amazon ECS called Capacity Providers enables application-first design and development of containerized applications, whether on Amazon EC2 or AWS Fargate.",
+        "date": "2019-12-10T18:17:37Z",
+        "duration": 3134
     },
     {
         "service": "elastic_container_service",
         "videoId": "TD75u0Eo7qM",
+        "tags": [
+            "programming",
+            "aws",
+            "reinvent",
+            "ai",
+            "ml",
+            "developer",
+            "cloud computing",
+            "software",
+            "Aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "reinvent 2019",
+            "aws launchpad"
+        ],
         "title": "AWS re:Invent 2019 Launchpad | Capacity Providers ECS",
-        "date": "2020/09/17"
+        "description": "Subscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #reInvent2019 #AWSLaunchpad",
+        "date": "2020-03-17T19:44:25Z",
+        "duration": 1304
     },
     {
         "service": "elastic_container_service",
         "videoId": "Vb_4wAEcfpQ",
+        "tags": [
+            "AWS",
+            "Events",
+            "ecs",
+            "capacity providers"
+        ],
         "title": "AWS Cloud Containers Conference - Deep Dive on Amazon ECS Capacity Providers",
-        "date": "2020/08/07"
+        "description": "In this video, we’ll dive into the different ways that ECS Capacity Providers can enable teams to focus more on their core business, and less on the infrastructure behind the scenes. We’ll look at the benefits and discuss scenarios where Capacity Providers can help solve the problems that customers face when using container orchestration. Lastly, we’ll review what features have been released with Capacity Providers, as well as look ahead at what’s to come.\n\nLearn more about Amazon ECS at - https://amzn.to/2ES4ua1\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSWebinar",
+        "date": "2020-08-07T23:46:23Z",
+        "duration": 1958
     },
     {
         "service": "elastic_container_service",
         "videoId": "miCO3c0HNt4",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DEM153"
+        ],
         "title": "AWS re:Invent 2019: Demo of ECS CLI 2 (DEM153)",
-        "date": "2019/12/08"
+        "description": "With modern architecture comes the need to segment a project into several well-defined, self-contained microservice applications, each with its own infrastructure and deployment management. Are you looking to eliminate the undifferentiated heavy lifting of setting up and deploying these applications into multi-account, multi-region, and multi-environments? In this demo, we walk you through the latest Amazon ECS command line tool to build, provision, test, deploy and manage your containerized applications with simple, well-organized set of commands that sets up everything with default AWS best practices.",
+        "date": "2019-12-08T23:28:49Z",
+        "duration": 1488
     },
     {
         "service": "elastic_container_service",
         "videoId": "dK7j7tLbsOY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "Cloud Computing",
+            "AWS Cloud",
+            "AWS Event",
+            "re:Invent. reinvent",
+            "2019",
+            "re:Invent 2019",
+            "reinvent 2019",
+            "Kong",
+            "Microservices",
+            "API",
+            "Business Intelligence",
+            "ECS",
+            "Lamda"
+        ],
         "title": "Optimizing Microservices for Scale: Deploying Kong in ECS",
-        "date": "2020/01/21"
+        "description": "You’ve made the big leap to microservices, but what strategies do you need to scale your services effectively? We’ll explore ways to leverage the Kong API gateway in ECS to simplify cluster management and enable serverless functions in Lambda. \n\nLearn more about AWS Startups at https://go.aws/2TLSLPC",
+        "date": "2020-01-21T23:37:18Z",
+        "duration": 1203
     },
     {
         "service": "elastic_container_service",
         "videoId": "7FVK0i9edyg",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CON333-R",
+            "Containers",
+            "AWS CodeBuild",
+            "Amazon ECS",
+            "AWS CodeDeploy"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT] Best practices for CI/CD using AWS Fargate and Amazon ECS (CON333-R)",
-        "date": "2019/12/11"
+        "description": "CI/CD techniques enable teams to increase agility and quickly release a high-quality product. In this talk, we walk you through the best practices for building CI/CD workflows to enable you to manage your containerized applications. We cover infrastructure as code application models with the AWS Cloud Development Kit, and we show you how to set up CI/CD release pipelines with AWS CodePipeline and AWS CodeBuild. Finally, we discuss automating safer deployments using AWS CodeDeploy.",
+        "date": "2019-12-11T18:33:09Z",
+        "duration": 3410
     },
     {
         "service": "elastic_container_service",
         "videoId": "YMO1NuEGXfk",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CON218",
+            "Containers"
+        ],
         "title": "AWS re:Invent 2019: How Amazon Lex uses Amazon ECS to process batches at scale (CON218)",
-        "date": "2019/12/03"
+        "description": "Amazon Lex creates conversational interfaces powered by the same deep learning technologies used in Alexa. AWS Batch dynamically provisions the optimal quantity and type of compute resources based on the volume and specific resource requirements of the batch jobs submitted. In this chalk talk, learn how Amazon Lex uses Amazon ECS to dynamically run these batch jobs to create conversational bots.",
+        "date": "2019-12-03T18:02:39Z",
+        "duration": 3495
     },
     {
         "service": "elastic_container_service",
         "videoId": "O1NQrIm_4cg",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CON328-R1",
+            "Containers",
+            "AWS App Mesh",
+            "Amazon CloudWatch",
+            "AWS Fargate"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Improving observability of your containers (CON328-R1)",
-        "date": "2019/12/06"
+        "description": "With CloudWatch Container Insights, FireLens, and AWS App Mesh working across Amazon Elastic Container Service (Amazon ECS), Amazon Elastic Kubernetes Service (Amazon EKS), and AWS Fargate, customers now have the tools to gain visibility into their deployments across environments. In this session, we dive deep into an architecture that enables the company to have a unified view across containers.",
+        "date": "2019-12-07T05:56:59Z",
+        "duration": 3126
     },
     {
         "service": "elastic_container_service",
         "videoId": "OpNBldEww0Q",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CON324-R1",
+            "Containers",
+            "Amazon EC2",
+            "Amazon ECS"
+        ],
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] [REPEAT 1] Cost Optimization with Containers and Spot (CON324-R1)",
-        "date": "2019/12/10"
+        "description": "Containerized applications, especially those using modern micro-service architectural patterns, are often robust to interruption and unexpected termination of individual containers. For this reason, containerized applications are a good fit for EC2 Spot and Fargate Spot. With minimal modifications, many containerized applications can run some or even all of their containers as-is on Spot at substantially lower cost. In this session we discuss the design decisions and best practices for utilizing EC2 Spot and Fargate Spot with modern containerized applications.",
+        "date": "2019-12-10T18:17:35Z",
+        "duration": 3680
     }
 ]

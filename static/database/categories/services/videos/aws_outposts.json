@@ -2,25 +2,70 @@
     {
         "service": "aws_outposts",
         "videoId": "hpz8mkwEa_Y",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Introducing AWS Outposts",
-        "date": "2018/11/30"
+        "description": "AWS Outposts brings native AWS services to your on-premises workloads. With Outposts you have access to the same software, services, infrastructure, management tools, development and deployment models on Outposts as you use on AWS for a seamless hybrid cloud solution. Join us to hear from AWS Outposts product manager, Anu Sharma, to learn more about why we built AWS Outposts and how you can use Outposts to build modern cloud-native applications that can be deployed on-premises or in the cloud. Learn more about AWS Outposts here: https://aws.amazon.com/outposts \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:16:55Z",
+        "duration": 1136
     },
     {
         "service": "aws_outposts",
         "videoId": "Q6OgRawyjIQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Outpost",
+            "Outposts",
+            "Outposts Rack",
+            "Outpost Rack"
+        ],
         "title": "What is an AWS Outpost Rack?",
-        "date": "2019/06/20"
+        "description": "Learn more about AWS Outposts at – https://amzn.to/2IqWAUl \nLearn about the components of an AWS Outpost rack and how you can install it in a data center location.",
+        "date": "2019-06-20T16:00:06Z",
+        "duration": 238
     },
     {
         "service": "aws_outposts",
         "videoId": "b0aZIc_YBs4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS in the Public Sector",
+            "Public Sector"
+        ],
         "title": "Delivering a Truly Consistent Hybrid Experience Using AWS Outposts",
-        "date": "2019/06/20"
+        "description": "AWS Outposts is designed to support workloads that need to remain on-premises due to low latency or local data processing needs using the same APIs, the same tools, the same hardware, and the same functionality across on-premises and the cloud.  Come learn how Outposts will deliver a truly consistent hybrid experience.  During this session we will discuss the latest product updates and how Outposts can be used to bring native AWS Services, VMware CLoud on AWS, infrastructure, and operating models to virtually any data center, co-location space, or on-premises facility.",
+        "date": "2019-06-20T20:24:46Z",
+        "duration": 1383
     },
     {
         "service": "aws_outposts",
         "videoId": "H8sZT4O9in8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Outposts",
+            "hybrid",
+            "customer testimonial"
+        ],
         "title": "Philips: AWS Outposts Customer Testimonial",
-        "date": "2019/12/03"
+        "description": "Learn more about AWS Outposts at https://amzn.to/2LaKvDZ\nLearn how Philips deployed their AWS Outposts solution on premises to support their low latency and local data processing needs to improve healthcare outcomes.",
+        "date": "2019-12-03T18:00:02Z",
+        "duration": 94
     }
 ]

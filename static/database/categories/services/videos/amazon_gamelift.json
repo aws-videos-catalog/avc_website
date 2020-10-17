@@ -2,13 +2,42 @@
     {
         "service": "amazon_gamelift",
         "videoId": "Ur2lKX_Slkw",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Gaming",
+            "GAM303"
+        ],
         "title": "AWS re:Invent 2017: Migrating Battleborn and the Spark Platform to Amazon GameLift f (GAM303)",
-        "date": "2017/11/28"
+        "description": "Learn how Gearbox integrated Amazon GameLift into \"Spark\", the cloud-ready infrastructure that powers all of their games. In this session, Gearbox talks about the mental shifts they had to make when moving their games online, as well as the unexpected challenges. Gearbox also dives deep into their experience of integrating the Amazon GameLift Server SDK, running multiple processes with different parameters, asynchronous build deployment, global fleet management, load balancing, and scaling to meet unexpected player demand. You'll learn Amazon GameLift best practices that can help simplify game session management, reduce engineering overhead, and optimize for player experience.",
+        "date": "2017-11-28T18:14:20Z",
+        "duration": 3530
     },
     {
         "service": "amazon_gamelift",
         "videoId": "SGmcVdZzvnM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2524aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "GAM303",
+            "Kevin Ashman",
+            "Daniel Winters",
+            "Advanced (300 level)",
+            "Gaming"
+        ],
         "title": "AWS re:Invent 2016: Develop Using Lumberyard & Leverage AWS (GAM303)",
-        "date": "2016/11/29"
+        "description": "This session focuses on the cloud-connected features of Amazon Lumberyard. We introduce Amazon GameLift core concepts, complete a step-by-step walkthrough of deploying a multiplayer game to the cloud, and demonstrate how to rapidly scale a game based on player demand. We also cover Amazon Lumberyard’s Cloud Canvas, which empowers developers to leverage services such as databases, data storage, and methods to execute game logic within AWS without needing to configure or maintain servers. Finally we discuss integrating Twitch to your Lumberyard game with Twitch ChatPlay and JoinIn.",
+        "date": "2016-11-30T05:24:27Z",
+        "duration": 3152
     }
 ]

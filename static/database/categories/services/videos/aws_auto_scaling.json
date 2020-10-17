@@ -2,7 +2,17 @@
     {
         "service": "aws_auto_scaling",
         "videoId": "EHH5LuVbJBw",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Application Integration",
+            "API330",
+            "AWS Auto Scaling"
+        ],
         "title": "AWS re:Invent 2018: Predictive Scaling for More Responsive Applications (API330)",
-        "date": "2018/11/28"
+        "description": "Get a jump on traffic surges with Predictive Auto Scaling. AWS Auto Scaling now responds more quickly by analyzing past traffic trends. The new predictive capability looks at your incoming load and forecasts it into the future. Not only can you see ahead of time when and how your resources will scale, your resources are made available ahead of when they are needed to enable faster, more responsive applications. Come learn how Genesys uses Predictive Scaling to scale the infrastructure used to run their popular contact center solution, PureCloud, worldwide.",
+        "date": "2018-11-28T18:44:51Z",
+        "duration": 2181
     }
 ]

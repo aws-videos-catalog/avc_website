@@ -2,43 +2,129 @@
     {
         "service": "codestar",
         "videoId": "fpBzrRH66Dc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS CodeStar - Unified Interface to Accelerate Your Software Delivery (Level 300)",
-        "date": "2017/12/21"
+        "description": "Learn more about AWS at - http://amzn.to/2mc3UHa.\nToday, small software teams have the ability to disrupt big markets as more and more businesses start to deliver their products as-a-service. The ability for teams to respond to customers and innovate quickly is their key differentiator. In this session, we will discuss DevOps - its key practices, processes, tools on AWS introduce a major new addition to our Developer Tools suite; AWS CodeStar - the central experience to launch development projects on AWS. We will provide a demonstration of how you can use AWS CodeStar to set up an end-to-end software development and continuous delivery toolchain within minutes.\n\nSpeaker: Rohini Gaonkar, Solutions Architect, Amazon Web Services, ASEAN",
+        "date": "2017-12-22T01:42:12Z",
+        "duration": 1422
     },
     {
         "service": "codestar",
         "videoId": "B-nbl0qYsQg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Sydney Summit 2018",
+            "AWS Cloud9",
+            "AWS Codestar"
+        ],
         "title": "AWS Sydney Summit 2018: AWS Cloud9 and Codestar",
-        "date": "2018/05/21"
+        "description": "Tired of wasting time on setting up development environments and CI/CD pipelines? In this session we will talk about how Cloud9 and CodeStar can be used to start new development projects quickly and easily, with a focus on Serverless development.\n\nGet started with Amazon Cloud9: https://console.aws.amazon.com/cloud9",
+        "date": "2018-05-21T18:59:00Z",
+        "duration": 1510
     },
     {
         "service": "codestar",
         "videoId": "vm1mhsykKLc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "אמזון ווב סרביסס",
+            "תשתיות ענן",
+            "אמזון ישראל",
+            "סאמיט",
+            "AWS Summit Tel Aviv"
+        ],
         "title": "AWS Summit Tel Aviv 2017: Introducing CodeStar and the AWS CI/CD workflow",
-        "date": "2017/07/31"
+        "description": "Learn more about AWS at - https://aws.amazon.com/.\nToday, companies seeking to innovate faster are looking for new ways to make it easier and faster for their development teams to build and deploy software. Today, many companies and organizations face some challenges in implementing a more agile, dynamic software development process. They seek ways to make it easier and faster for their development teams to build and deploy software while delivering technical innovations to the marketplace. Implementing continuous integration, continuous delivery, and continuous deployment processes can aid you in building and releasing well-tested software safely and quickly. In this session, we will discuss how you can quickly implement a CI/CD workflow using the newly released cloud service, AWS CodeStar. We will take a deep dive walkthrough into the AWS CodeStar service and how it can aid you in the accelerating application delivery by making it easier to set up your entire development and continuous delivery toolchain for coding, building, testing, and deploying your application code with many popular programming languages.",
+        "date": "2017-07-31T20:05:27Z",
+        "duration": 2574
     },
     {
         "service": "codestar",
         "videoId": "pIaB7wSSReU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "NEW LAUNCH! AWS CodeStar: The Central Experience to Quickly Start Developing Applications on AWS",
-        "date": "2017/04/24"
+        "description": "Learn more about AWS at - http://amzn.to/2oYr3iU\n\nToday, small software teams have the ability to disrupt big markets as more and more businesses start to deliver their products as-a-service. The ability for teams to respond to customers and innovate quickly is their key differentiator. In this session, we’d like to introduce a major new addition to our Developer Tools suite, AWS CodeStar, the central experience to launch development projects on AWS. We will provide a hands-on demonstration of how you can use CodeStar to set up an end-to-end software development and continuous delivery toolchain within minutes. Additionally, we will also share Amazon’s best practices for DevOps and how you can accelerate your software development agility.",
+        "date": "2017-04-24T17:18:56Z",
+        "duration": 1855
     },
     {
         "service": "codestar",
         "videoId": "ldcIskfVzW4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon",
+            ".Net",
+            ".Net core",
+            "Codestar",
+            "Application",
+            "Deploy",
+            "deployment",
+            "build",
+            "Continous",
+            "Integration",
+            "Delivery",
+            "CI/CD",
+            "CD/CI",
+            "microsoft"
+        ],
         "title": "AWS for Microsoft Workloads: CD/CI for .NET applications in AWS CodeStar",
-        "date": "2018/06/18"
+        "description": "For more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2MCPCfi.\nAWS CodeStar enables you to quickly develop, build, and deploy applications on AWS. AWS CodeStar provides a unified user interface, enabling you to easily manage your software development activities in one place.",
+        "date": "2018-06-18T23:30:05Z",
+        "duration": 597
     },
     {
         "service": "codestar",
         "videoId": "98ZgwshEMXA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS San Francisco Summit 2017"
+        ],
         "title": "AWS Summit Series 2017 - San Francisco: Announcing AWS CodeStar",
-        "date": "2017/04/24"
+        "description": "AWS CodeStar provides the tools you need to quickly develop, build, and deploy applications on AWS. AWS CodeStar provides a unified user interface, enabling you to easily manage your software development activities in one place.\n\nLearn more at - http://amzn.to/2oqMbeQ.",
+        "date": "2017-04-24T16:31:41Z",
+        "duration": 124
     },
     {
         "service": "codestar",
         "videoId": "dE-3QkNryKg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Alexa Skills Workshop : Advanced Hands-On Learning (Codestar)",
-        "date": "2019/05/24"
+        "description": "https://aws.amazon.com/developer/community/twitch/\nMissed the AWS Sydney Summit 2019? Learn how cloud technology can help your business lower costs, improve efficiency, and innovate at scale. This session is a recording from Innovation Day.",
+        "date": "2019-05-24T16:14:38Z",
+        "duration": 257
     }
 ]

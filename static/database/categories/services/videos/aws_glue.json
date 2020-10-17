@@ -2,175 +2,536 @@
     {
         "service": "aws_glue",
         "videoId": "qgWMfNSN9f4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Glue"
+        ],
         "title": "What is AWS Glue?",
-        "date": "2017/08/14"
+        "description": "Learn more about AWS Glue at - http://amzn.to/2vJj51V.\nAWS Glue is a fully managed ETL (extract, transform, and load) service that makes it simple and cost-effective to categorize data, clean it, enrich it, and move it reliably between various data stores.",
+        "date": "2017-08-14T19:50:52Z",
+        "duration": 266
     },
     {
         "service": "aws_glue",
         "videoId": "z3HeHlWg88M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Glue ETL",
+            "ETL",
+            "Jane Wither",
+            "ETL Tools",
+            "What is ETL",
+            "ETL Process",
+            "AWS Glue"
+        ],
         "title": "Getting Started with AWS Glue ETL",
-        "date": "2018/03/26"
+        "description": "AWS Glue is a fully managed extract, transform, and load (ETL) service that makes it easy for customers to prepare and load their data for analytics. Learn more at http://amzn.to/2G8J5IG.\n\nYou can create and run an ETL job with a few clicks in the AWS Management Console. You simply point AWS Glue to your data stored on AWS, and AWS Glue discovers your data and stores the associated metadata (e.g. table definition and schema) in the AWS Glue Data Catalog. Once cataloged, your data is immediately searchable, queryable, and available for ETL.\n\nAWS Glue generates the code to execute your ETL data transformations and data loading processes. The code is customizable, reusable, and portable. Once your ETL job is ready, you can schedule it to run on AWS Glue's fully managed, scale-out Apache Spark environment. AWS Glue provides a flexible scheduler with dependency resolution, job monitoring, and alerting.",
+        "date": "2018-03-26T19:35:38Z",
+        "duration": 384
     },
     {
         "service": "aws_glue",
         "videoId": "PHYWI4Y9mzs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Building Serverless ETL Pipelines with AWS Glue",
-        "date": "2018/11/26"
+        "description": "Presenter: Craig Roach, Solution Architect, Amazon Web Services",
+        "date": "2018-11-26T15:41:24Z",
+        "duration": 2093
     },
     {
         "service": "aws_glue",
         "videoId": "S_xeHvP7uMo",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Analytics",
+            "ANT308",
+            "AWS Glue"
+        ],
         "title": "AWS re:Invent 2018: Building Serverless Analytics Pipelines with AWS Glue (ANT308)",
-        "date": "2018/11/27"
+        "description": "Organizations need to gain insight and knowledge from a growing number of IoT, APIs, clickstreams, and unstructured and log data sources. However, organizations are also often limited by legacy data warehouses and ETL processes that were designed for transactional data. In this session, we introduce key ETL features of AWS Glue, we cover common use cases ranging from scheduled nightly data warehouse loads to near real-time, event-driven ETL pipelines for your data lake. We also discuss how to build scalable, efficient, and serverless ETL pipelines using AWS Glue. Please join us for a speaker meet-and-greet following this session at the Speaker Lounge (ARIA East, Level 1, Willow Lounge). The meet-and-greet starts 15 minutes after the session and runs for half an hour.",
+        "date": "2018-11-27T19:16:00Z",
+        "duration": 3674
     },
     {
         "service": "aws_glue",
         "videoId": "qNojanBn1NY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Glue",
+            "Jane Wither"
+        ],
         "title": "Getting Started with AWS Glue Data Catalog",
-        "date": "2018/05/23"
+        "description": "Learn more about AWS Glue at - http://amzn.to/2fnu4XK.\nAWS Glue is a fully managed ETL (extract, transform, and load) service that makes it simple and cost-effective to categorize data, clean it, enrich it, and move it reliably between various data stores.",
+        "date": "2018-05-23T18:58:39Z",
+        "duration": 321
     },
     {
         "service": "aws_glue",
         "videoId": "6tBp2JuYmSg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference 2018"
+        ],
         "title": "Data Pipelines with AWS Glue (Level 200)",
-        "date": "2018/08/24"
+        "description": "Learn more about the AWS Innovate Online Conference at - https://amzn.to/2w87ZCc.\nCompanies need to gain insight and knowledge as a result of the growing number of IoT devices, APIs, clickstreams, unstructured, and log data sources. However, they are also often limited by legacy data warehouses and ETL processes designed for transactional data. In this session, we introduce the key ETL features of AWS Glue and explore how to build scalable, efficient, and serverless ETL pipelines using AWS Glue. In addition, learn how our customer, NEXTY Electronics, a Toyota Tsusho Group company, built their real-time data ingestion and batch analytics pipeline using AWS big data and analytics services.\n\nSpeakers:\n- Unni Pillai, Specialist Solution Architect, Big Data and Analytics, Amazon Web Services\n- Thanomsak Ajjanapanya, Data Engineering Manager, Toyota Tsusho – Thailand",
+        "date": "2018-08-24T19:53:07Z",
+        "duration": 1690
     },
     {
         "service": "aws_glue",
         "videoId": "CMjycQ_3M14",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "AWS Glue",
+            "London Loft",
+            "AWS Pop-up Loft",
+            "serverless extract"
+        ],
         "title": "Live from the London Loft | Introduction to AWS Glue",
-        "date": "2017/09/29"
+        "description": "Visit http://amzn.to/2x2aN6f for more information on the current live coding shows, upcoming episode schedule, or for recordings of previous broadcasts. To learn more about the AWS Pop-up Loft | London, please visit https://awsloft.london/.\n\nHost: Ian Robinson, AWS Specialist Solutions Architect\nDate: September 20, 2017\nLive from the London Loft, AWS Specialist Solutions Architect, Ian Robinson introduces AWS Glue: a fully managed, serverless extract, transform, and load (ETL) service that makes it easy to move data between data stores. AWS Glue simplifies and automates the difficult and time consuming tasks of data discovery, conversion mapping, and job scheduling so you can focus more of your time querying and analyzing your data using Amazon Redshift Spectrum and Amazon Athena.",
+        "date": "2017-09-29T23:25:01Z",
+        "duration": 2911
     },
     {
         "service": "aws_glue",
         "videoId": "qO4Z1k2dLrw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Glue",
+            "ETL service"
+        ],
         "title": "Introducing AWS Glue",
-        "date": "2017/08/14"
+        "description": "Learn more about AWS Glue at - http://amzn.to/2x1ioxr.\nAWS Glue is a simple, flexible, and cost-effective extract, transform, and load (ETL) service that makes it easy for customers to prepare and load their data for analytics. The service helps discover, catalog, cleanse, enrich, transform, and move your data between data stores.",
+        "date": "2017-08-14T22:06:19Z",
+        "duration": 108
     },
     {
         "service": "aws_glue",
         "videoId": "HYydZ5JLtQo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I automatically start an AWS Glue job when a crawler run completes?",
-        "date": "2019/07/16"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2DlJqoV\nAditya, an AWS Cloud Support Engineer, shows you how to automatically start an AWS Glue job when a crawler run completes.",
+        "date": "2019-07-16T16:56:07Z",
+        "duration": 280
     },
     {
         "service": "aws_glue",
         "videoId": "JsNR8uBVSiA",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Analytics",
+            "ANT309",
+            "Amazon Athena",
+            "Amazon EMR",
+            "Amazon Redshift",
+            "Amazon SageMaker",
+            "AWS Glue"
+        ],
         "title": "AWS re:Invent 2018: Build and Govern Your Data Lakes with AWS Glue (ANT309)",
-        "date": "2018/11/28"
+        "description": "As data volumes grow and customers store more data on AWS, they often have valuable data that is not easily discoverable and available for analytics. Learn how AWS Glue makes it easy to build and manage enterprise-grade data lakes on Amazon S3. AWS Glue can ingest data from variety of sources into your data lake, clean it, transform it, and automatically register it in the AWS Glue Data Catalog, making data readily available for analytics. Learn how you can set appropriate security policies in the Data Catalog and make data available for a variety of use cases, such as run ad-hoc analytics in Amazon Athena, run queries across your data warehouse and data lake with Amazon Redshift Spectrum, run big data analysis in Amazon EMR, and build machine learning models with Amazon SageMaker and AWS Glue. \n\nAdditionally, Robinhood will share how they were able to move from a world of data silos to building a robust, petabyte scale data lake on Amazon S3 with AWS Glue. Robinhood is one of the fastest-growing brokerages, serving over five million users with an easy to use investment platform that offers commission-free trading of equities, ETFs, options, and cryptocurrencies. Learn about the design paradigms and tradeoffs that Robinhood made to achieve a cost effective and performant data lake that unifies all data access, analytics, and machine learning use cases.",
+        "date": "2018-11-28T20:09:52Z",
+        "duration": 2236
     },
     {
         "service": "aws_glue",
         "videoId": "eQBHIINW8VY",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Analytics & Big Data",
+            "ABD315",
+            "AI",
+            "AWS Glue",
+            "Internet of Things"
+        ],
         "title": "AWS re:Invent 2017: Building Serverless ETL Pipelines with AWS Glue (ABD315)",
-        "date": "2017/11/28"
+        "description": "Organizations need to gain insight and knowledge from a growing number of Internet of Things (IoT), APIs, clickstreams, unstructured and log data sources. However, organizations are also often limited by legacy data warehouses and ETL processes that were designed for transactional data. In this session, we introduce key ETL features of AWS Glue, cover common use cases ranging from scheduled nightly data warehouse loads to near real-time, event-driven ETL flows for your data lake. We discuss how to build scalable, efficient, and serverless ETL pipelines using AWS Glue. Additionally, Merck will share how they built an end-to-end ETL pipeline for their application release management system, and launched it in production in less than a week using AWS Glue.",
+        "date": "2017-11-28T18:08:06Z",
+        "duration": 3053
     },
     {
         "service": "aws_glue",
         "videoId": "okYytBTIk4A",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "Machine Learning",
+            "Serverless",
+            "Cloud Computing",
+            "Containers",
+            "Augmented Reality",
+            "Virtual Reality",
+            "IoT",
+            "developers",
+            "programming",
+            "databases",
+            "analytics",
+            "AWS London Summit 2018"
+        ],
         "title": "AWS Summit - London | twitch.tv/aws | AWS Glue: Easily Prepare Your Data for Analytics",
-        "date": "2018/05/17"
+        "description": "Catch up with the action from the 2018 AWS Summit in London with the AWS Launchpad, which featured technical discussions, demos and live Q&A on twitch.tv/aws. Each session covered topics such as serverless computing, machine learning, augmented reality and virtual reality, containers, databases, analytics, IoT, and more. For past recordings and to see the upcoming schedule, visit https://amzn.to/2Iqljpq.\n\nAWS Glue is a fully managed extract, transform, and load (ETL) service that makes it easy for customers to prepare and load their data for analytics. Learn more: https://aws.amazon.com/glue/.",
+        "date": "2018-05-17T18:43:48Z",
+        "duration": 1364
     },
     {
         "service": "aws_glue",
         "videoId": "8LsYsrNMJZc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Glue"
+        ],
         "title": "AWS re:Invent 2016: AWS Glue Data Catalog",
-        "date": "2017/08/14"
+        "description": "Learn more about AWS Glue at - http://amzn.to/2uAw28X.\nAWS Glue is a fully managed ETL (extract, transform, and load) service that makes it simple and cost-effective to categorize data, clean it, enrich it, and move it reliably between various data stores.",
+        "date": "2017-08-14T19:52:42Z",
+        "duration": 420
     },
     {
         "service": "aws_glue",
         "videoId": "GObs0r6yOPo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Analytics & Big Data",
+            "ABD213",
+            "AI",
+            "Athena",
+            "EMR",
+            "Redshift",
+            "Analytics",
+            "AWS Glue"
+        ],
         "title": "AWS re:Invent 2017: How to Build a Data Lake with AWS Glue Data Catalog (ABD213-R)",
-        "date": "2017/12/04"
+        "description": "As data volumes grow and customers store more data on AWS, they often have valuable data that is not easily discoverable and available for analytics. The AWS Glue Data Catalog provides a central view of your data lake, making data readily available for analytics. We introduce key features of the AWS Glue Data Catalog and its use cases. Learn how crawlers can automatically discover your data, extract relevant metadata, and add it as table definitions to the AWS Glue Data Catalog. We will also explore the integration between AWS Glue Data Catalog and Amazon Athena, Amazon EMR, and Amazon Redshift Spectrum.",
+        "date": "2017-12-04T23:21:55Z",
+        "duration": 1839
     },
     {
         "service": "aws_glue",
         "videoId": "4N_ktE4NFIk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2278aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Big Data & Analytics",
+            "BDA209",
+            "Anurag Gupta",
+            "Introductory (200 level)"
+        ],
         "title": "AWS re:Invent 2016: NEW LAUNCH! Introduction to AWS Glue: A Fully Managed ETL Service (BDA209)",
-        "date": "2016/12/16"
+        "description": "AWS Glue is a fully managed ETL service that makes it easy to understand your data sources, prepare the data for analytics, and load it reliably to your data stores. In this session, we introduce AWS Glue, provide an overview of its components, and discuss how you can use the service to simplify and automate your ETL process. We also talk about when you can try out the service and how to sign up for a preview.",
+        "date": "2016-12-16T18:53:32Z",
+        "duration": 1467
     },
     {
         "service": "aws_glue",
         "videoId": "PbjDZh6EY9w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "re:Invent 2016",
+            "werner vogels"
+        ],
         "title": "AWS re:Invent 2016 - Introduction to AWS Glue – Fully Managed ETL Service on AWS",
-        "date": "2016/12/21"
+        "description": "Learn more about AWS Glue here - http://amzn.to/2hIkzlb\n\nAWS Glue is a fully managed ETL service that makes it easy to move data between your data stores. AWS Glue simplifies and automates the difficult and time consuming data discovery, conversion, mapping, and job scheduling tasks. AWS Glue guides you through the process of moving your data with an easy to use console that helps you understand your data sources, prepare the data for analytics, and load it reliably from data sources to destinations.\n\nAWS Glue is integrated with Amazon S3, Amazon RDS, and Amazon Redshift, and can connect to any JDBC-compliant data store. AWS Glue automatically crawls your data sources, identifies data formats, and then suggests schemas and transformations, so you don’t have to spend time hand-coding data flows. You can then edit these transformations, if necessary, using the tools and technologies you already know, such as Python, Spark, Git and your favorite integrated developer environment (IDE), and share them with other AWS Glue users. AWS Glue schedules your ETL jobs and provisions and scales all the infrastructure required so your ETL jobs run quickly and efficiently at any scale. There are no servers to manage, and you pay only for resources consumed by your ETL jobs.",
+        "date": "2016-12-21T18:48:45Z",
+        "duration": 138
     },
     {
         "service": "aws_glue",
         "videoId": "IEw7HAwrkdw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Analytics Week | Build and Govern Your Own Data Lakes with AWS Glue",
-        "date": "2019/04/04"
+        "description": "As data volumes grow and customers store more data on AWS, they often have valuable data that is not easily discoverable and available for analytics. Learn how AWS Glue makes it easy to build and manage enterprise-grade data lakes on Amazon S3. AWS Glue can ingest data from variety of sources into your data lake, clean it, transform it, and automatically register it in the AWS Glue Data Catalog, making data readily available for analytics. Learn how you can set appropriate security policies in the Data Catalog and make data available for a variety of use cases, such as run ad-hoc analytics in Amazon Athena, run queries across your data warehouse and data lake with Amazon Redshift Spectrum, run big data analysis in Amazon EMR, and build machine learning models with Amazon SageMaker and AWS Glue.\n\nSpeaker: Dylan Tong, Enterprise Solutions Architect, AWS\n\nLevel: 300\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-04-04T18:14:08Z",
+        "duration": 2740
     },
     {
         "service": "aws_glue",
         "videoId": "uNAmsoLed1E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "ServerlessDatamart",
+            "BHFL",
+            "Amazon Aurora",
+            "AWS Database Migration Service",
+            "AWS Glue",
+            "AWS Lambda",
+            "AWS Key Management Service (KMS)",
+            "This is My Architecture",
+            "TMA"
+        ],
         "title": "Bajaj Housing Finance Limited: Serverless Data Pipelines with AWS Glue and Amazon Aurora PGSQL",
-        "date": "2019/11/09"
+        "description": "Aniruddha from BHFL shares their experience of creating a secure, serverless data pipeline to power BHFL’s Enterprise DataMart on Amazon Postgres. He delves into the details of  how his team leveraged AWS Glue, Lambda, KMS, and Database Migration Service to build the DataMart in less than 90 days.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-11-09T16:16:00Z",
+        "duration": 373
     },
     {
         "service": "aws_glue",
         "videoId": "sMQHxYTK_hE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Glue"
+        ],
         "title": "AWS Re:Invent 2016: Orchestration and Resource Management in AWS Glue",
-        "date": "2017/08/14"
+        "description": "Learn more about AWS Glue - http://amzn.to/2vJ157z.\nAWS Glue is a fully managed ETL (extract, transform, and load) service that makes it simple and cost-effective to categorize data, clean it, enrich it, and move it reliably between various data stores.",
+        "date": "2017-08-14T19:55:46Z",
+        "duration": 234
     },
     {
         "service": "aws_glue",
         "videoId": "2WkxDdVkBNg",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "-",
+            "STP10",
+            "Amazon SageMaker",
+            "AWS Glue"
+        ],
         "title": "AWS re:Invent 2018: How Bill.com Uses Amazon SageMaker & AWS Glue to Enable Machine Learning -STP10",
-        "date": "2018/11/29"
+        "description": "Bill.com processes over 40 million documents a year that our customers upload into our system. These documents arrive unstructured, random, and in multiple formats. This talk describes how Bill.com uses AWS for their Secure Data Platform infrastructure in order to enable machine learning. Kyle Guichard, Sr. Director Systems Engineering at Bill.com, will cover how they leverage Amazon S3, Amazon SageMaker, and AWS Glue to enable the next generation of their Intelligent Virtual Assistant for zero data entry, which results in increased accuracy and efficiency for digital business payments for their customers. Complete Title: AWS re:Invent 2018: How Bill.com Uses Amazon SageMaker & AWS Glue to Enable Machine Learning (STP10)",
+        "date": "2018-11-29T18:30:52Z",
+        "duration": 1906
     },
     {
         "service": "aws_glue",
         "videoId": "g27832lsrbg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Glue"
+        ],
         "title": "AWS re:Invent 2016: Job Authoring Using AWS Glue",
-        "date": "2017/08/14"
+        "description": "Learn more about AWS Glue at - http://amzn.to/2hDm2dZ.\nAWS Glue is a fully managed ETL (extract, transform, and load) service that makes it simple and cost-effective to categorize data, clean it, enrich it, and move it reliably between various data stores.",
+        "date": "2017-08-14T19:53:56Z",
+        "duration": 468
     },
     {
         "service": "aws_glue",
         "videoId": "kWe0LB0yMMw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "TWITCH"
+        ],
         "title": "Live from the NY Summit | AWS Glue Launch",
-        "date": "2017/08/21"
+        "description": "Host: Abby Fuller\nGuests: Debanjan Saha, General Manager of AWS Glue, and Prajakta Damle, Sr Product Manager for AWS Glue\nDate: August 14, 2017\nLive from the AWS Summit in NYC, Abby Fuller, Debanjan Saha and Prajakta Damle discuss the launch of AWS Glue on twitch.tv/aws. For more information on the AWS Twitch Channel and upcoming live coding episodes, visit\nhttps://aws.amazon.com/twitch. To learn more about AWS Glue, please visit http://amzn.to/2x7wEFU.",
+        "date": "2017-08-21T22:32:29Z",
+        "duration": 1419
     },
     {
         "service": "aws_glue",
         "videoId": "yClHAALFXRk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I create Amazon Redshift Spectrum cross-account access to AWS Glue and Amazon S3?",
-        "date": "2019/09/03"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2GSxI6Z\nShweta, an AWS Cloud Support Engineer, shows you how to create an Amazon Redshift Spectrum cross-account access to AWS Glue and Amazon S3.",
+        "date": "2019-09-03T20:11:48Z",
+        "duration": 321
     },
     {
         "service": "aws_glue",
         "videoId": "5m9YN1-Wf3w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "Cloud Computing",
+            "AWS Cloud",
+            "New York Summit",
+            "AWS NYC Summit",
+            "AWS Glue"
+        ],
         "title": "AWS Summit Series 2017 - New York: Introducing AWS Glue",
-        "date": "2017/10/03"
+        "description": "Learn more about AWS Glue at - http://amzn.to/2fMoRJw.\nAWS Glue is a fully managed extract, transform, and load (ETL) service that makes it easy to prepare and load your data for analytics. AWS Glue is serverless, so there is no infrastructure to buy, set up, or manage.",
+        "date": "2017-10-03T16:33:44Z",
+        "duration": 240
     },
     {
         "service": "aws_glue",
         "videoId": "U74vOMzUBoI",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DEM19-S",
+            "Etleap"
+        ],
         "title": "AWS re:Invent 2019: Five data lake considerations w/ Amazon Redshift, Amazon S3 & AWS Glue (DEM19-S)",
-        "date": "2019/12/06"
+        "description": "Building a data lake can be a headache. More often than not, they end up becoming data swamps—bottomless pits that suck up development resources and obscure data transparency. But when done correctly, data lakes can be valuable wells of knowledge that transform your business. Join Etleap and the Amazon Redshift team as we take a deep dive into the issues that plague data lake creators. We give you five refreshing pointers for keeping the development workload sustainable and ensuring data usability for the long term. This presentation is brought to you by Etleap, an APN Partner.",
+        "date": "2019-12-07T05:58:54Z",
+        "duration": 1063
     },
     {
         "service": "aws_glue",
         "videoId": "4iPx8IWvJhU",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "Analytics",
+            "AWS Glue",
+            "AWS Lake Formation",
+            "ANT281-P"
+        ],
         "title": "AWS re:Invent 2019: Upgrading AWS Glue to use AWS Lake Formation permissions (ANT281-P)",
-        "date": "2019/12/13"
+        "description": "This presentation was recorded prior to re:Invent. Learn how to upgrade to use Lake Formation permissions. We start with a simple data lake that has fine-grained access control (FGAC) on the AWS Glue Data Catalog using IAM policies. We then upgrade to using Lake Formation permissions.",
+        "date": "2019-12-13T19:55:57Z",
+        "duration": 3375
     },
     {
         "service": "aws_glue",
         "videoId": "V9P7KGfbfFI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud Computing",
+            "Cloud",
+            "AWS Event",
+            "AWS re:Invent",
+            "AWS reinvent",
+            "re:Invent",
+            "reinvent",
+            "2019",
+            "Sansan",
+            "Tetsuya Mase",
+            "Business Insights",
+            "Business Cards",
+            "Amazon Redshift",
+            "AWS Glue",
+            "Amazon Kinesis Data Firehose",
+            "Amazon S3",
+            "Startup"
+        ],
         "title": "Log Data Analysis on Amazon Redshift & AWS Glue",
-        "date": "2020/01/21"
+        "description": "Headquartered in Japan, Sansan offers business-card contact management services to more than 2 million users around the world. \n\nIn this talk, Tetsuya Mase, senior architect at Sansan, discusses how his team manages user logs on AWS using a variety of services, including Amazon Kinesis Data Firehose, Amazon S3, AWS Glue, and Amazon Redshift. He also covers best practices that his team has learned for loading data from AWS Glue to Amazon Redshift.\n\nLearn more about AWS Startups at https://go.aws/2ukRTqD",
+        "date": "2020-01-22T02:56:38Z",
+        "duration": 2354
     },
     {
         "service": "aws_glue",
         "videoId": "_ZULZxJLCQA",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DEM149"
+        ],
         "title": "AWS re:Invent 2019: Upgrading AWS Glue to use AWS Lake Formation permissions (DEM149)",
-        "date": "2019/12/06"
+        "description": "In this demo, learn how to upgrade to use AWS Lake Formation permissions. We start with a simple data lake that has fine-grained access control on the AWS Glue Data Catalog using AWS Identity and Access Management policies. We then upgrade to using Lake Formation permissions.",
+        "date": "2019-12-07T05:59:37Z",
+        "duration": 1029
     },
     {
         "service": "aws_glue",
         "videoId": "Wk9Hf4cwUFM",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ANT218-R1",
+            "Analytics",
+            "Nu Skin",
+            "AWS Glue",
+            "AWS Lake Formation"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Data lakes and data integration with AWS Lake Formation (ANT218-R1)",
-        "date": "2019/12/08"
+        "description": "Want to build and secure a data lake without all the hassle? Learn how AWS Lake Formation and AWS Glue consolidate and simplify the steps of ingesting, encrypting, cataloging, transforming, and provisioning data. Understand how to make data readily accessible to different analytics services and users, while enforcing granular access control policies and audit logging. Hear about how AWS customers have implemented Lake Formation and AWS Glue for their businesses. Hear how NU SKIN has recently completed an all-in migration to AWS and leveraged AWS Lake Formation to manage their data lake.",
+        "date": "2019-12-08T23:29:10Z",
+        "duration": 3516
     }
 ]

@@ -2,37 +2,120 @@
     {
         "service": "global_accelerator",
         "videoId": "L-mmnEbiTmc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws",
+            "awsnysummit2019",
+            "nysummit2019",
+            "AWS Lambda",
+            "Amazon API Gateway",
+            "Amazon S3",
+            "SVC212",
+            "AWS Global Accelerator",
+            "Amazon CloudFront"
+        ],
         "title": "AWS New York Summit 2019: Introduction to AWS Global Accelerator (SVC212)",
-        "date": "2019/07/22"
+        "description": "Learn more about AWS Global Summits  at – https://amzn.to/2M7u1Oe\nThis session introduces AWS Global Accelerator, a new global service that enables you to optimally route traffic to your multi-regional endpoints via static anycast IP addresses that are announced from the expansive AWS edge network. This session walks through the architecture, features, and customer use cases for Global Accelerator and content delivery use cases for Amazon CloudFront. We demonstrate how you can use Global Accelerator to achieve near-zero application downtime and reduce latency. This session is for those who want to accelerate performance of global applications, achieve high availability for mission-critical applications, and easily manage multiple IP addresses.",
+        "date": "2019-07-22T22:04:36Z",
+        "duration": 2224
     },
     {
         "service": "global_accelerator",
         "videoId": "kRtUcdwK0pw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Networking",
+            "NET330"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introduction to AWS Global Accelerator (NET330)",
-        "date": "2018/12/01"
+        "description": "This session introduces AWS Global Accelerator, a new global service that enables you to optimally route traffic to your multi-regional endpoints via static Anycast IP addresses that are announced from the expansive AWS edge network. This session walks through the various features and customer use cases for Global Accelerator. Several example use cases demonstrate how you can use Ubiquity to achieve near-zero application downtime and reduce latency for your global applications. We will walk you through the architecture and will also include a demo of the workflow. Attend this session if you are looking at ways to accelerate performance of your global applications, achieve high availability for your mission critical applications or easily manage multiple IP addresses through a static Anycast IP that fronts your applications.",
+        "date": "2018-12-01T22:28:32Z",
+        "duration": 2215
     },
     {
         "service": "global_accelerator",
         "videoId": "bJ2LnuMABKg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Introducing AWS Global Accelerator and Elastic Fabric Adapter",
-        "date": "2018/11/30"
+        "description": "Introducing the AWS Global Accelerator and the Elastic Fabric Adapter, which were announced at re:Invent 2018. Both new services leverage the AWS global network to improve the availability and the performance of your network and applications. Learn more about the AWS Global Accelerator - aws.amazon.com/global-accelerator  Learn more about Elastic Fabric Adapter - https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-elastic-fabric-adapter/ \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:41:10Z",
+        "duration": 905
     },
     {
         "service": "global_accelerator",
         "videoId": "Docl4julOQw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWSGlobalAccelerator"
+        ],
         "title": "AWS Global Accelerator - Improve Global Application Availability and Performance for Your Traffic",
-        "date": "2020/08/17"
+        "description": "AWS Global Accelerator moves your user traffic on to AWS’s global network infrastructure, increasing performance by up to 60%. Customers such as Skyscanner, TheTradeDesk, JoyCity and New Relic use AWS Global Accelerator for latency-sensitive, critical applications such as multi-player real time games, Communication as a Service and Voice over IP applications, ad bidding and financial transactions.\n\nLearn more about AWS Global Accelerator at - https://amzn.to/3152uUH\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-08-18T01:40:51Z",
+        "duration": 282
     },
     {
         "service": "global_accelerator",
         "videoId": "u5AT15mgbHk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "vertica",
+            ".NET",
+            "advertising",
+            "bidding",
+            "ad tech",
+            "low latency",
+            "reInvent 2019",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon ALB",
+            "Amazon EC2",
+            "This is My Architecture",
+            "TMA",
+            "AWS Global Accelerator"
+        ],
         "title": "The Trade Desk: Real-time Ad Bidding in the Cloud with AWS Global Accelerator (LIVE)",
-        "date": "2020/01/14"
+        "description": "Learn how The Trade Desk built a global, real-time ad bidding system on AWS without having to implement major architectural changes, thanks to its use of AWS Global Accelerator. The Trade Desk processes millions of messages per second while keeping latency low, and can scale to handle many gigabits of data per second on the back end. You'll also learn how the company uses Amazon S3-backed Vertica with Eon Mode for long-term storage and analytics with petabytes of data.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-01-15T01:34:53Z",
+        "duration": 360
     },
     {
         "service": "global_accelerator",
         "videoId": "3ud_LLpzOAE",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "NET318-R1",
+            "Networking & Content Delivery",
+            "Not Applicable"
+        ],
         "title": "AWS re:Invent 2019: Building highly available applications using Global Accelerator (NET318-R1)",
-        "date": "2019/12/05"
+        "description": "In this session, you learn how to build highly available and performant architectures for your applications with AWS Global Accelerator, a service that enables you to manage multi-regional endpoints using global static IP addresses anycast from the AWS edge network. We dive into the Global Accelerator architecture and explain how the service provides global resiliency by isolating cross-customer impact and mitigating different failure modes, such as host-level failures, site-level failures, software defects, and anycast shifts.",
+        "date": "2019-12-05T17:35:02Z",
+        "duration": 2623
     }
 ]

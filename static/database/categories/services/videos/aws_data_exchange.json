@@ -2,43 +2,132 @@
     {
         "service": "aws_data_exchange",
         "videoId": "Lu9QVJ0Rml4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Data Exchange",
+            "data marketplace",
+            "public data",
+            "open data",
+            "datasets",
+            "research data",
+            "data share"
+        ],
         "title": "AWS Data Exchange",
-        "date": "2019/11/13"
+        "description": "Learn more about AWS Data Exchange at https://amzn.to/2OeRInh. \nAWS Data Exchange is a new service that makes it easy for millions of AWS customers to securely find, subscribe to, and use third-party data in the cloud. Qualified data providers include Reuters, Foursquare, TransUnion, Change Healthcare, Virtusa, Pitney Bowes, TP ICAP, Vortexa, IMDb, Epsilon, Enigma, TruFactor, ADP, Dun & Bradstreet, Compagnie Financière Tradition, Verisk, Crux Informatics, TMX Group, Acxiom, Rearc, and many others. \n\nThe selection of third-party data is diverse and covers a wide range of industries including financial services, healthcare, life sciences, geospatial, consumer, media & entertainment, and more. For qualified data providers, AWS Data Exchange makes it easy to reach the millions of AWS customers migrating to the cloud by removing the need to build and maintain infrastructure for data storage, delivery, billing, and entitling.",
+        "date": "2019-11-13T21:30:16Z",
+        "duration": 279
     },
     {
         "service": "aws_data_exchange",
         "videoId": "gi9m6sHVvkg",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ANT238-R",
+            "Analytics",
+            "DeloitteConverge Health"
+        ],
         "title": "AWS re:Invent 2019: AWS Data Exchange: Find & subscribe to third-party data in the cloud (ANT238-R)",
-        "date": "2019/12/04"
+        "description": "AWS Data Exchange makes it easy to find, subscribe to, and use third-party data in the cloud.This session explores how AWS Data Exchange removes the friction of finding, licensing, and using datasets. Without it, you might spend days or weeks licensing data and moving it where you need it to power analytics. Learn to use AWS Data Exchange to fuel in-place analytics with AWS services like Amazon Athena and Amazon QuickSight. For data providers, learn how AWS Data Exchange makes it easy to reach millions of customers migrating to the cloud by removing the need to build and maintain infrastructure for data storage, delivery, billing, and entitling.",
+        "date": "2019-12-04T17:38:12Z",
+        "duration": 3637
     },
     {
         "service": "aws_data_exchange",
         "videoId": "KgxTClsHSr4",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "MKT212",
+            "Marketplace",
+            "Virtusa Corporation",
+            "Amazon S3",
+            "Amazon SageMaker"
+        ],
         "title": "AWS re:Invent 2019: Deep dive on using AWS Data Exchange for ML and data analytics (MKT212)",
-        "date": "2019/12/12"
+        "description": "Doing machine learning and data analysis at scale requires access to high-quality datasets. AWS Data Exchange is a new service that makes it easy to find, subscribe to, and use third-party data in the cloud. In this technical session, we dive deep on how to procure a third-party data product from AWS Data Exchange and algorithms from AWS Marketplace to train machine learning models in Amazon SageMaker. You also see how Virtusa is distributing synthetic datasets relating to more than 365 million virtual patients as well as more than 815 billion records using AWS Data Exchange to advance data science and predict patient outcomes.\n\n#AWSMarketplaceML",
+        "date": "2019-12-12T20:10:04Z",
+        "duration": 3403
     },
     {
         "service": "aws_data_exchange",
         "videoId": "oW51xHZPIOc",
+        "tags": [
+            "programming",
+            "aws",
+            "reinvent",
+            "ai",
+            "ml",
+            "developer",
+            "cloud computing",
+            "software",
+            "Aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "reinvent 2019",
+            "aws launchpad"
+        ],
         "title": "AWS re:Invent 2019 Launchpad | AWS Data Exchange",
-        "date": "2020/03/17"
+        "description": "AWS Data Exchange makes it easy to find, subscribe to, and use third-party data in the cloud. This session will explore how AWS Data Exchange removes the friction of finding, licensing, and using data sets. Without AWS Data Exchange, you might spend days or even weeks licensing data and moving it where you need it to power your analytics. \n\nLearn how you can use AWS Data Exchange to fuel in-place analytics with AWS services. Join us as AWS Data Exchange provider Enigma provides a live to and shows how AWS Data Exchange makes it easy to reach the millions of AWS customers migrating to the cloud by removing the need to build and maintain infrastructure for data storage, delivery, billing, and entitling.\n\nStart using AWS Data Exchange today at https://go.aws/2U0Av5v\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #reInvent2019 #AWSLaunchpad",
+        "date": "2020-03-17T21:11:25Z",
+        "duration": 1183
     },
     {
         "service": "aws_data_exchange",
         "videoId": "ieO2O41hf5k",
-        "title": "AWS Summit Online ASEAN 2020 | AWS Data Exchange: Find & Subscribe to Third-party Data in the Cloud",
-        "date": "2020/08/28"
+        "tags": [
+            "Amazon Web Services",
+            "Cloud Computing",
+            "Bryan",
+            "CardsPal",
+            "AWS",
+            "AWS AppSync",
+            "Chua",
+            "AWS Summit Online ASEAN re:Cap",
+            "Saim YH",
+            "AWS Amplify"
+        ],
+        "title": "AWS Summit Online ASEAN 2020 | AWS Data Exchange: Find & Subscribe to Third-party Data in the Cloud",
+        "description": "AWS Data Exchange makes it easy to find, subscribe to, and use third-party data in the cloud. This session explores how data providers can monetise their assets and reach new AWS audiences. Learn how analysts, researchers and other data buyers can easily find and subscribe to data sets, as well as how to simplify data billing and delivery for both groups.\n\nAWS Speaker: Samantha Gibson, Global Category Leader, Financial Services, AWS Data Exchange\nCustomer Speaker: Nimesh K Bharadia, COO, Data & Optimization, APAC, Compagnie Financière Tradition\n\nDownload the slides: https://go.aws/2zW49ki\n\nLearn more about AWS at - https://amzn.to/2Y99RbI\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
+        "date": "2020-08-28T18:02:38Z",
+        "duration": 1199
     },
     {
         "service": "aws_data_exchange",
         "videoId": "kYmsyCquIyE",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ANT238-R1",
+            "Analytics",
+            "Foursquare",
+            "Enigma"
+        ],
         "title": "AWS re:Invent 2019: Easily find & subscribe to third-party data in the cloud (ANT238-R1)",
-        "date": "2019/12/08"
+        "description": "AWS Data Exchange makes it easy to find, subscribe to, and use third-party data in the cloud.This session explores how AWS Data Exchange removes the friction of finding, licensing, and using datasets. Without it, you might spend days or weeks licensing data and moving it where you need it to power analytics. Learn to use AWS Data Exchange to fuel in-place analytics with AWS services like Amazon Athena and Amazon QuickSight. For data providers, learn how AWS Data Exchange makes it easy to reach millions of customers migrating to the cloud by removing the need to build and maintain infrastructure for data storage, delivery, billing, and entitling.",
+        "date": "2019-12-08T23:29:15Z",
+        "duration": 3117
     },
     {
         "service": "aws_data_exchange",
         "videoId": "ka2UwFrvOhk",
-        "title": "AWS re:Invent 2019: Enabling AI at enterprise scale (DEM125)",
-        "date": "2019/12/05"
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DEM125",
+            "Databricks"
+        ],
+        "title": "AWS re:Invent 2019: Enabling AI at enterprise scale  (DEM125)",
+        "description": "Doing machine learning and data analysis at scale requires access to high-quality datasets. AWS Data Exchange is a new service that makes it easy to find, subscribe to, and use third-party data in the cloud. See how Databricks is powering data science using AWS Data Exchange to help businesses make better decisions.",
+        "date": "2019-12-05T17:32:33Z",
+        "duration": 1239
     }
 ]

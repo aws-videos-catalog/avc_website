@@ -2,241 +2,708 @@
     {
         "service": "amazon_chime",
         "videoId": "ocavztmAQfU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime"
+        ],
         "title": "Conduct Amazon Chime Video Meetings",
-        "date": "2017/06/20"
+        "description": "This video shows you how to add video experience to your meetings. Learn more at - http://amzn.to/2rpc2Wj.",
+        "date": "2017-06-20T16:05:17Z",
+        "duration": 104
     },
     {
         "service": "amazon_chime",
         "videoId": "sfdfKznRb5Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime"
+        ],
         "title": "Amazon Chime Chat Overview",
-        "date": "2017/06/20"
+        "description": "This video shows you how to use Amazon Chime chat features. Learn more at - http://amzn.to/2rAxCLG.",
+        "date": "2017-06-20T16:06:54Z",
+        "duration": 345
     },
     {
         "service": "amazon_chime",
         "videoId": "sBvACH04dz8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Chime"
+        ],
         "title": "Join a Meeting with Amazon Chime",
-        "date": "2017/06/20"
+        "description": "This video shows you a few ways to join a meeting from the Amazon Chime application. Learn more at http://amzn.to/2rAsWW5.",
+        "date": "2017-06-20T16:03:14Z",
+        "duration": 148
     },
     {
         "service": "amazon_chime",
         "videoId": "Ri8BVRNCrRQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime",
+            "Online Meetings",
+            "Business Chat"
+        ],
         "title": "How to Set up an Amazon Chime Account for Your Organization",
-        "date": "2019/07/19"
+        "description": "Creating an Amazon Chime account is easy, and can be done in just a few steps in the AWS Console. This video walks you through how to do so, and how to add and set permissions for your users. To learn more about Amazon Chime, visit https://amzn.to/2xQ3j4j. \n\nLog in to the Amazon Chime console at https://console.chime.aws.amazon.com/.",
+        "date": "2019-07-19T15:00:04Z",
+        "duration": 544
     },
     {
         "service": "amazon_chime",
         "videoId": "xAEaCzYLlt4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime SDK",
+            "developers",
+            "audio calling",
+            "video calling",
+            "screen sharing"
+        ],
         "title": "Amazon Chime SDK Demo and Code Walkthrough",
-        "date": "2019/11/25"
+        "description": "To learn more about Amazon Chime SDK, visit: https://amzn.to/2Xw7qym\nThe Amazon Chime SDK is a set of real-time communications components that developers can use to quickly add audio calling, video calling, and screen sharing capabilities to their own applications. Developers can leverage the same communication infrastructure and services that power Amazon Chime, an online meetings service from AWS, and deliver engaging experiences in their applications. \n\nIn this video, Giri Kalpathy Narayanan demoes a custom meeting application and walkthroughs through the code to explain how developers can build with the  Amazon Chime SDK.\n\nTo learn more about Amazon Chime SDK, visit:\nhttps://amzn.to/2Xwg6oq\nTo learn more about AWS SDK, visti: https://amzn.to/2s5cfmL \nTo check out the Amazon Chime SDK GitHub repo, visit:  http://bit.ly/2KAhCkf \nTo review the Amazon Chime SDK Developer Guide, visit: https://amzn.to/35m3B1y \nTo review the Amazon Chime API Reference, visit: https://amzn.to/2Ou4zSp",
+        "date": "2019-11-25T16:17:21Z",
+        "duration": 357
     },
     {
         "service": "amazon_chime",
         "videoId": "ucst50kydbg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Join a Meeting without Amazon Chime",
-        "date": "2018/11/27"
+        "description": "This video shows you how to join a meeting if you don’t have the Amazon Chime application installed. Learn more at - http://amzn.to/2szhSb6.",
+        "date": "2018-11-27T22:50:07Z",
+        "duration": 196
     },
     {
         "service": "amazon_chime",
         "videoId": "LOv40X6f6FA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Business Calling",
+            "VoIP",
+            "SIP Trunking",
+            "Pay per minute pricing",
+            "flexible calling"
+        ],
         "title": "Getting started with Amazon Chime Business Calling",
-        "date": "2019/03/18"
+        "description": "Learn more about Amazon Chime at – https://amzn.to/2TGhQMz \nAmazon Chime lets you meet, chat, and place business phone calls inside and outside your organization. This video helps you get started with using Amazon Chime Business Calling.",
+        "date": "2019-03-18T12:56:32Z",
+        "duration": 142
     },
     {
         "service": "amazon_chime",
         "videoId": "mLJdvkceIVU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Tips and Tricks for Scheduling an Amazon Chime Meeting",
-        "date": "2017/06/20"
+        "description": "This video shows how to create a personalized link, help mobile users join your meetings, and when and how to disable the AutoCall feature. Learn more at - http://amzn.to/2rFpOn2.",
+        "date": "2017-06-20T16:09:23Z",
+        "duration": 230
     },
     {
         "service": "amazon_chime",
         "videoId": "VvXKLPIiW1c",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Chime"
+        ],
         "title": "Install Amazon Chime and Create an Account",
-        "date": "2017/06/20"
+        "description": "This video shows you how to install Amazon Chime and create an account. Learn more at - http://amzn.to/2tbMk8V.",
+        "date": "2017-06-20T16:02:43Z",
+        "duration": 86
     },
     {
         "service": "amazon_chime",
         "videoId": "uqtZyA4ch4M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime"
+        ],
         "title": "Change Amazon Chime Settings",
-        "date": "2017/06/20"
+        "description": "This video shows you how to change Amazon Chime settings for both mobile and desktop clients. Learn more at - http://amzn.to/2sCizkr.",
+        "date": "2017-06-20T16:06:35Z",
+        "duration": 145
     },
     {
         "service": "amazon_chime",
         "videoId": "Bj2I1prPVZM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon Chime: Frustration-Free Meetings with Exceptional Audio and Video Quality",
-        "date": "2017/02/14"
+        "description": "Amazon Chime is a modern, secure unified communications service that makes meetings easier and more efficient than ever before. You can use Amazon Chime for online meetings, video conferencing, calls, chat, and to share content, both inside and outside your organization. With easy-to-use apps available for Android, iOS, Mac, and Windows, meetings and chats are always synchronized, you can join meetings from any device, and you can switch seamlessly between devices anytime – even in the middle of a meeting. Amazon Chime is a service offered by Amazon Web Services, where security is the highest priority, so you can feel confident you’re communicating securely.\n\nLearn more about Amazon Chime here - http://amzn.to/2kkqpvi",
+        "date": "2017-02-14T18:48:16Z",
+        "duration": 108
     },
     {
         "service": "amazon_chime",
         "videoId": "ISzo_CnBxjw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime SDK",
+            "developers",
+            "audio calling",
+            "video calling",
+            "screen sharing"
+        ],
         "title": "Amazon Chime SDK Introduction",
-        "date": "2019/11/25"
+        "description": "To learn more about Amazon Chime SDK, visit: https://amzn.to/2raxOBX\nThe Amazon Chime SDK is a set of real-time communications components that developers can use to quickly add audio calling, video calling, and screen sharing capabilities to their own applications. Developers can leverage the same communication infrastructure and services that power Amazon Chime, an online meetings service from AWS, and deliver engaging experiences in their applications. \n\nIn this video, Aaron Friedman (Principal Product Manager, Amazon Chime) introduces the use cases and benefits of the Amazon Chime SDK.",
+        "date": "2019-11-25T16:16:33Z",
+        "duration": 141
     },
     {
         "service": "amazon_chime",
         "videoId": "yGqpnId5V_4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime"
+        ],
         "title": "Navigate an Amazon Chime Meeting",
-        "date": "2017/06/20"
+        "description": "This video shows you how to navigate a meeting using the Amazon Chime meeting features. Learn more at - http://amzn.to/2sCaCfg.",
+        "date": "2017-06-20T16:04:32Z",
+        "duration": 288
     },
     {
         "service": "amazon_chime",
         "videoId": "Qlkvmj5nqgU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "chime"
+        ],
         "title": "Screen Share & Remote Control with Amazon Chime",
-        "date": "2018/11/27"
+        "description": "This video shows you how to share your screen or request remote access during an Amazon Chime meeting. Learn more at - http://amzn.to/2tbQttH.",
+        "date": "2018-11-27T22:40:03Z",
+        "duration": 145
     },
     {
         "service": "amazon_chime",
         "videoId": "TF5nSDxDY9s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime"
+        ],
         "title": "Using Amazon Chime Event Mode",
-        "date": "2017/06/20"
+        "description": "This video shows you how to use Amazon Chime in a meeting where you need to minimize interruption or background noise. Learn more at - http://amzn.to/2rAFn40.",
+        "date": "2017-06-20T16:10:15Z",
+        "duration": 118
     },
     {
         "service": "amazon_chime",
         "videoId": "BcwoH8KcoLM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Business Calling",
+            "VoIP",
+            "SIP Trunking",
+            "Pay per minute pricing",
+            "flexible calling"
+        ],
         "title": "Getting Started with Amazon Chime Voice Connector",
-        "date": "2019/03/18"
+        "description": "Learn more about Amazon Chime at – https://amzn.to/2HkBFTG \nAmazon Chime Voice Connector is a service that carries your voice traffic over the internet and elastically scales to meet your capacity needs. This video helps you get started with using Amazon Chime Voice Connector.",
+        "date": "2019-03-18T12:56:39Z",
+        "duration": 170
     },
     {
         "service": "amazon_chime",
         "videoId": "Swnm5QPLcxs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime"
+        ],
         "title": "Schedule an Amazon Chime Meeting with Microsoft Outlook on Windows",
-        "date": "2017/06/20"
+        "description": "If you are using Microsoft Outlook on Windows, this video shows you how to schedule Amazon Chime meetings. Learn more at http://amzn.to/2rp6kU7.",
+        "date": "2017-06-20T16:07:28Z",
+        "duration": 294
     },
     {
         "service": "amazon_chime",
         "videoId": "SEImnsZ8Yxo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime"
+        ],
         "title": "Control Background Noise During Amazon Chime Meetings",
-        "date": "2017/06/20"
+        "description": "This video explains how the visual roster shows who is making background noise, and how you can mute them. Learn more at - http://amzn.to/2saLdI3.",
+        "date": "2017-06-20T16:09:45Z",
+        "duration": 166
     },
     {
         "service": "amazon_chime",
         "videoId": "FHNxywAprSM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime SDK",
+            "developers",
+            "audio calling",
+            "video calling",
+            "screen sharing"
+        ],
         "title": "Amazon Chime SDK Overview",
-        "date": "2019/11/25"
+        "description": "To learn more about Amazon Chime SDK, visit: https://amzn.to/33bueow\nThe Amazon Chime SDK is a set of real-time communications components that developers can use to quickly add audio calling, video calling, and screen sharing capabilities to their own applications. Developers can leverage the same communication infrastructure and services that power Amazon Chime, an online meetings service from AWS, and deliver engaging experiences in their applications.\n\nIn this video, Aaron Friedman (Principal Product Manager, Amazon Chime) covers a high-level overview of the Amazon Chime SDK operation.",
+        "date": "2019-11-25T16:17:01Z",
+        "duration": 138
     },
     {
         "service": "amazon_chime",
         "videoId": "zWLMCFBEI8Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime",
+            "Amazon Chime pricing"
+        ],
         "title": "Amazon Chime Pay-As-You-Go Pricing Explained",
-        "date": "2018/06/01"
+        "description": "Learn about Amazon Chime pay-as-you-go pricing with no upfront fees, commitments, or long-term contracts.\n\nLearn more about pricing at - https://amzn.to/2LPE0VQ or sign up for a free 30-day trial at - https://amzn.to/2Jk73Ck.",
+        "date": "2018-06-01T16:29:01Z",
+        "duration": 70
     },
     {
         "service": "amazon_chime",
         "videoId": "PlZuxNnJLP0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime"
+        ],
         "title": "Amazon Chime Chat Rooms",
-        "date": "2017/06/20"
+        "description": "This video shows you how to use Amazon Chime chat room features. Learn more at - http://amzn.to/2rAMaLg.",
+        "date": "2017-06-20T16:07:10Z",
+        "duration": 204
     },
     {
         "service": "amazon_chime",
         "videoId": "POzL_aL3ovM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime"
+        ],
         "title": "Join an Amazon Chime Meeting Early",
-        "date": "2017/06/20"
+        "description": "This video shows you how to join an Amazon Chime meeting early when you want to be ahead of schedule. Learn more at http://amzn.to/2saH9rt.",
+        "date": "2017-06-20T16:06:16Z",
+        "duration": 55
     },
     {
         "service": "amazon_chime",
         "videoId": "o9ZtBSyB788",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime",
+            "Jeff Barr",
+            "Amazon Chime Pricing"
+        ],
         "title": "Amazon Chime Launches Usage-Based Pricing",
-        "date": "2018/03/12"
+        "description": "Learn more about Amazon Chime Pricing at - http://amzn.to/2Fssa0a.\nAmazon Chime now provides usage-based pricing ensuring you only pay for the services that you consume. Most communication products and services come with complicated service agreements and billing terms. Amazon Chime delivers frustration-free meetings and messaging, and now we are adding frustration-free pricing to deliver effortless cost savings no matter the size of your company or organization.",
+        "date": "2018-03-12T18:34:12Z",
+        "duration": 43
     },
     {
         "service": "amazon_chime",
         "videoId": "T1lBseeH6as",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime"
+        ],
         "title": "Record Amazon Chime Meetings",
-        "date": "2017/06/20"
+        "description": "This video shows you how to record your meetings. Learn more at - http://amzn.to/2rFB0Qj.",
+        "date": "2017-06-20T16:10:01Z",
+        "duration": 95
     },
     {
         "service": "amazon_chime",
         "videoId": "CMYtUjV9FfE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Connexity",
+            "Amazon Chime",
+            "Video Conferencing",
+            "Online Meetings",
+            "Pay per Use pricing",
+            "cheap conferencing",
+            "free video conferencing",
+            "retail shopping",
+            "business calling",
+            "free file sharing",
+            "Slack",
+            "Zoom",
+            "Skype",
+            "WebEx",
+            "UberConferencing"
+        ],
         "title": "Connexity on Amazon Chime - Success Story",
-        "date": "2019/03/15"
+        "description": "Learn more about Amazon Chime at – https://amzn.to/2J5DrK7 \nConnexity the largest independent retail product listing platform, helping merchants reach over 30 million shoppers uses Amazon Chime to ensure all their meetings start on time. By using Amazon Chime as their communications platform, Connexity his simplified their user administration tasks, and taken advantage of Amazon Chime's flexible pay per use pricing model. This has allowed Connexity to use any Amazon Chime feature they need and only pay for what they use, on the days they use it.",
+        "date": "2019-03-15T16:00:00Z",
+        "duration": 82
     },
     {
         "service": "amazon_chime",
         "videoId": "6JPNJOvSOEw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime"
+        ],
         "title": "Join an Amazon Chime Meeting with In-Room Conference Video",
-        "date": "2017/06/20"
+        "description": "This video shows you how to use a video conference system to join an Amazon Chime meeting. Learn more at - http://amzn.to/2skTQyb.",
+        "date": "2017-06-20T16:04:16Z",
+        "duration": 91
     },
     {
         "service": "amazon_chime",
         "videoId": "vL5WElYD_so",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime"
+        ],
         "title": "Schedule an Amazon Chime Meeting for Someone Else with Microsoft Outlook on Windows",
-        "date": "2017/06/20"
+        "description": "If you are using Microsoft Outlook on Windows, this video shows you how to give other users delegate status to enable them to schedule meetings on your behalf. Learn more at - http://amzn.to/2sIrUag.",
+        "date": "2017-06-20T16:09:07Z",
+        "duration": 301
     },
     {
         "service": "amazon_chime",
         "videoId": "tTcWTSUunTM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime"
+        ],
         "title": "Amazon Chime: Frustration-Free Meetings with Exceptional Audio and Video Quality",
-        "date": "2017/02/14"
+        "description": "To learn more about Amazon Chime and start a free 30 day trial, visit http://amzn.to/2kkqpvi.\nAmazon Chime is a modern, secure unified communications service that makes meetings easier and more efficient than ever before. Learn more about Amazon Chime, and how Brooks Brothers was able to retire their legacy meetings solutions and standardize on Amazon Chime. Hear from Level 3 Communications and Vonage, launch partners for Amazon Chime, about why they're including Amazon Chime in their service offerings.",
+        "date": "2017-02-14T18:52:55Z",
+        "duration": 274
     },
     {
         "service": "amazon_chime",
         "videoId": "ydYt2AmAsy0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime"
+        ],
         "title": "Rejoin an Amazon Chime Meeting",
-        "date": "2017/06/20"
+        "description": "This video shows you how Amazon Chime tries to reconnect you if your connection drops during a meeting. Learn more at - http://amzn.to/2satgt8.",
+        "date": "2017-06-20T16:05:54Z",
+        "duration": 71
     },
     {
         "service": "amazon_chime",
         "videoId": "CMYtUjV9FfE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Connexity",
+            "Amazon Chime",
+            "Video Conferencing",
+            "Online Meetings",
+            "Pay per Use pricing",
+            "cheap conferencing",
+            "free video conferencing",
+            "retail shopping",
+            "business calling",
+            "free file sharing",
+            "Slack",
+            "Zoom",
+            "Skype",
+            "WebEx",
+            "UberConferencing"
+        ],
         "title": "Connexity on Amazon Chime - Success Story",
-        "date": "2019/03/15"
+        "description": "Learn more about Amazon Chime at – https://amzn.to/2J5DrK7 \nConnexity the largest independent retail product listing platform, helping merchants reach over 30 million shoppers uses Amazon Chime to ensure all their meetings start on time. By using Amazon Chime as their communications platform, Connexity his simplified their user administration tasks, and taken advantage of Amazon Chime's flexible pay per use pricing model. This has allowed Connexity to use any Amazon Chime feature they need and only pay for what they use, on the days they use it.",
+        "date": "2019-03-15T16:00:00Z",
+        "duration": 82
     },
     {
         "service": "amazon_chime",
         "videoId": "csXlHdhCJuE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Brooks Brothers",
+            "Amazon Chime"
+        ],
         "title": "Brooks Brothers on Amazon Chime - Success Story",
-        "date": "2018/02/21"
+        "description": "Visit http://amzn.to/2EWz14X to learn more about AWS.\nLearn how Brooks Brothers, America’s oldest clothing retailer, simplified their end-user communication process with frustration free and effortless meetings. By using Amazon Chime as their communications platform, Brooks Brothers now has a single application for online meetings, calls, and chat, available on all their devices.",
+        "date": "2018-02-21T18:14:14Z",
+        "duration": 206
     },
     {
         "service": "amazon_chime",
         "videoId": "zWLMCFBEI8Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime",
+            "Amazon Chime pricing"
+        ],
         "title": "Amazon Chime Pay-As-You-Go Pricing Explained",
-        "date": "2018/06/01"
+        "description": "Learn about Amazon Chime pay-as-you-go pricing with no upfront fees, commitments, or long-term contracts.\n\nLearn more about pricing at - https://amzn.to/2LPE0VQ or sign up for a free 30-day trial at - https://amzn.to/2Jk73Ck.",
+        "date": "2018-06-01T16:29:01Z",
+        "duration": 70
     },
     {
         "service": "amazon_chime",
         "videoId": "7tEpWM2C-DM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime"
+        ],
         "title": "Schedule an Amazon Chime Meeting with Google Calendar",
-        "date": "2017/06/20"
+        "description": "This video shows you how to schedule meetings with Amazon Chime and Google Calendar. Learn more at - http://amzn.to/2rAyoZ6.",
+        "date": "2017-06-20T16:08:00Z",
+        "duration": 197
     },
     {
         "service": "amazon_chime",
         "videoId": "tTcWTSUunTM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime"
+        ],
         "title": "Amazon Chime: Frustration-Free Meetings with Exceptional Audio and Video Quality",
-        "date": "2017/02/14"
+        "description": "To learn more about Amazon Chime and start a free 30 day trial, visit http://amzn.to/2kkqpvi.\nAmazon Chime is a modern, secure unified communications service that makes meetings easier and more efficient than ever before. Learn more about Amazon Chime, and how Brooks Brothers was able to retire their legacy meetings solutions and standardize on Amazon Chime. Hear from Level 3 Communications and Vonage, launch partners for Amazon Chime, about why they're including Amazon Chime in their service offerings.",
+        "date": "2017-02-14T18:52:55Z",
+        "duration": 274
     },
     {
         "service": "amazon_chime",
         "videoId": "vL5WElYD_so",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime"
+        ],
         "title": "Schedule an Amazon Chime Meeting for Someone Else with Microsoft Outlook on Windows",
-        "date": "2017/06/20"
+        "description": "If you are using Microsoft Outlook on Windows, this video shows you how to give other users delegate status to enable them to schedule meetings on your behalf. Learn more at - http://amzn.to/2sIrUag.",
+        "date": "2017-06-20T16:09:07Z",
+        "duration": 301
     },
     {
         "service": "amazon_chime",
         "videoId": "0uNhgxBMytg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime"
+        ],
         "title": "Update Amazon Chime Meetings in Microsoft Outlook Calendar",
-        "date": "2017/06/20"
+        "description": "This video shows you how to make meeting updates in Microsoft Outlook after you have already scheduled a meeting with Amazon Chime. Learn more at http://amzn.to/2rpmTzy.",
+        "date": "2017-06-20T16:08:21Z",
+        "duration": 59
     },
     {
         "service": "amazon_chime",
         "videoId": "iLYM_w6jocQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos",
+            "Amazon Chime"
+        ],
         "title": "How do I invite users to an Amazon Chime team account?",
-        "date": "2019/03/14"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2X40aZQ\nDylan, an AWS Support team member, shows you how you can invite users to an Amazon Chime Team account.",
+        "date": "2019-03-14T16:50:58Z",
+        "duration": 217
     },
     {
         "service": "amazon_chime",
         "videoId": "TlbqmVH0SfM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Chime"
+        ],
         "title": "Update Amazon Chime Meetings in Google Calendar",
-        "date": "2017/06/20"
+        "description": "This video shows you how to make meeting updates in Google after you have scheduled a meeting with Amazon Chime. Learn more at - http://amzn.to/2skIn1z.",
+        "date": "2017-06-20T16:08:39Z",
+        "duration": 52
     },
     {
         "service": "amazon_chime",
         "videoId": "5gJK8K4FVlc",
+        "tags": [
+            "programming",
+            "aws",
+            "reinvent",
+            "ai",
+            "ml",
+            "developer",
+            "cloud computing",
+            "software",
+            "Aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "reinvent 2019",
+            "aws launchpad"
+        ],
         "title": "AWS re:Invent 2019 Launchpad | Chime Video Platform as a Service",
-        "date": "2020/03/17"
+        "description": "Subscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #reInvent2019 #AWSLaunchpad",
+        "date": "2020-03-17T22:00:33Z",
+        "duration": 243
     },
     {
         "service": "amazon_chime",
         "videoId": "cUkAtBBqsFo",
+        "tags": [
+            "programming",
+            "aws",
+            "reinvent",
+            "ai",
+            "ml",
+            "developer",
+            "cloud computing",
+            "software",
+            "Aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "reinvent 2019",
+            "aws launchpad"
+        ],
         "title": "AWS re:Invent 2019 Launchpad | Chime Meeting App for Slack",
-        "date": "2020/03/17"
+        "description": "Subscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #reInvent2019 #AWSLaunchpad",
+        "date": "2020-03-17T21:54:59Z",
+        "duration": 235
     }
 ]

@@ -2,49 +2,146 @@
     {
         "service": "ground_station",
         "videoId": "_MwNgO0aJo0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Ground Station",
+            "satellite",
+            "Infrastructure",
+            "Satelites",
+            "Pay per use"
+        ],
         "title": "Introducing AWS Ground Station",
-        "date": "2019/05/21"
+        "description": "AWS Ground Station - https://amzn.to/2waQW1N is a fully managed service that lets you control satellite communications, process data, and scale your operations without having to worry about building or managing your own ground station infrastructure.",
+        "date": "2019-05-21T23:37:53Z",
+        "duration": 380
     },
     {
         "service": "ground_station",
         "videoId": "YhZe6eOPoRQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS Ground Station Overview",
-        "date": "2019/06/20"
+        "description": "AWS Ground Station is a fully managed service that lets you control satellite communications, downlink and process satellite data, and scale your satellite operations quickly, easily and cost-effectively without having to worry about building or managing your own ground station infrastructure. In this session, we introduce AWS Ground Station and how it works, starting from understanding the ground station console and onboarding process. We demonstrate how to schedule a contact, gather data, and build architectures to extract data from AWS Ground Station for analysis and storage with other AWS services.",
+        "date": "2019-06-20T13:24:09Z",
+        "duration": 2975
     },
     {
         "service": "ground_station",
         "videoId": "QisrRmvK3yw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Introducing AWS Ground Station",
-        "date": "2018/11/30"
+        "description": "Satellites are used for a wide variety of use cases, including weather forecasting, surface imaging, communications, and video broadcasts. Ground stations are at the core of global satellite networks, which are facilities that provide communications between the ground and the satellites by using antenna receivers to receive data and control systems to send radio signals to command and control the satellite. Today, you must either build your own ground stations and antennas, or obtain long-term leases with ground station providers, often in multiple countries to provide enough opportunities to contact the satellites as they orbit the globe. Once all this data is downlinked, you need servers, storage, and networking in close proximity to the antennas to process, store, and transport the data from the satellite. Learn how the new AWS Ground Station eliminates these problems by delivering a ground station-as-a-service, and how this enables you to easily control satellite communications, quickly ingest and process your satellite data, and rapidly integrate that data with your applications and other services running in the AWS Cloud. Sign-up for the preview | https://pages.awscloud.com/ground-station-preview.html \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:58:49Z",
+        "duration": 1172
     },
     {
         "service": "ground_station",
         "videoId": "pWzDdmASlA8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Satellites",
+            "Space",
+            "Antennas",
+            "Ground Station",
+            "Satellite Operations",
+            "AWS global infrastructure",
+            "Availability Zones",
+            "Regions",
+            "Global Datacenters",
+            "Network Infrastructure",
+            "LEO Satellites",
+            "Machine Learning",
+            "Compute",
+            "Ground Network",
+            "Ground Service"
+        ],
         "title": "Introduction to AWS Ground Station",
-        "date": "2019/11/13"
+        "description": "Learn more about AWS Ground Station at – https://amzn.to/2Khe9qI \nAWS Ground Station is a fully managed service that lets you control satellite communications, process data, and scale your operations without having to worry about building or managing your own ground station infrastructure. AWS Ground Station can help you save up to 80% on the cost of your ground station operations by allowing you to pay only for the actual antenna time used, and relying on our global footprint of ground stations to download data when and where you need it. There are no long-term commitments, and you gain the ability to rapidly scale your satellite communications on-demand when your business needs it. Watch this video to learn more!",
+        "date": "2019-11-13T21:25:32Z",
+        "duration": 114
     },
     {
         "service": "ground_station",
         "videoId": "EOAxdma0lUY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS Ground Station Preview Announcement",
-        "date": "2018/12/05"
+        "description": "Andy Jassy announces AWS Ground Station and Lockheed Martin Verge. Learn more at - https://amzn.to/2BNk96q.",
+        "date": "2018-12-05T15:07:01Z",
+        "duration": 1585
     },
     {
         "service": "ground_station",
         "videoId": "DaUIK6ld57s",
+        "tags": [
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Architecture",
+            "ARC340"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] AWS Ground Station: Managed Ground Station as a Service (ARC340)",
-        "date": "2018/12/13"
+        "description": "Satellites are used for a wide variety of use cases, including weather forecasting, surface imaging, communications, and video broadcasts. Ground stations are at the core of global satellite networks, which are facilities that provide communications between the ground and the satellites by using antenna receivers to receive data and control systems to send radio signals to command and control the satellite. Today, you must either build your own ground stations and antennas, or obtain long-term leases with ground station providers, often in multiple countries to provide enough opportunities to contact the satellites as they orbit the globe. Once all this data is downlinked, you need servers, storage, and networking in close proximity to the antennas to process, store, and transport the data from the satellite. Learn how the new AWS Ground Station eliminates these problems by delivering a ground station-as-a-service, and how this enables you to easily control satellite communications, quickly ingest and process your satellite data, and rapidly integrate that data with your applications and other services running in the AWS Cloud.",
+        "date": "2018-12-13T16:37:24Z",
+        "duration": 3145
     },
     {
         "service": "ground_station",
         "videoId": "8dmqG08HanE",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "Networking",
+            "AWS Ground Station",
+            "NET220-P"
+        ],
         "title": "AWS re:Invent 2019: From space to your hands: AWS Ground Station brings space data to you (NET220-P)",
-        "date": "2019/12/05"
+        "description": "This presentation was recorded prior to re:Invent. AWS Ground Station supports various missions, including IoT, Earth observation, and remote sensing. It enables customers to schedule satellite contacts using a global network of antenna systems and process their data in real time using cloud technologies. This session provides overview of commercial use cases for space data. Learn how AWS Ground Station can help you scale your business.",
+        "date": "2019-12-05T22:33:20Z",
+        "duration": 768
     },
     {
         "service": "ground_station",
         "videoId": "vE1QyKynAwE",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "NET308-R1",
+            "Networking",
+            "Content Delivery",
+            "NASA Jet",
+            "Propulsion Laboratory",
+            "Not Applicable"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Enabling automated astrophysics with AWS Ground Station (NET308-R1)",
-        "date": "2019/12/08"
+        "description": "NASA Jet Propulsion Laboratory’s (JPL) IT Chief Technology Officer, Tom Soderstrom, presents a demonstration of automated scheduling with AWS Ground Station and a NASA JPL satellite. The satellite, ASTERIA, used for this demonstration was designed in collaboration between the Massachusetts Institute of Technology and NASA JPL. AWS Ground Station connects antenna systems to cloud technologies so that researchers and scientists can automate their projects in space.",
+        "date": "2019-12-08T23:33:37Z",
+        "duration": 3733
     }
 ]

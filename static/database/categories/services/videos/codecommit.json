@@ -2,37 +2,131 @@
     {
         "service": "codecommit",
         "videoId": "SWqh7LvxKqI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS CodeCommit",
+            "source code",
+            "code repo",
+            "code repositories",
+            "Lambda",
+            "serverless development"
+        ],
         "title": "Introduction to AWS CodeCommit: Creating a Repo",
-        "date": "2019/01/22"
+        "description": "Learn how to create your first repository on AWS Code Commit - https://amzn.to/2svq2A0 with Curtis Rissi, Senior Solutions Architect with AWS. This is the second of a series of two videos that are an introduction to AWS CodeCommit. If you missed our first video, which focuses on setting up configuring access permissions, you’ll want to watch it here - https://youtu.be/W-SM4m19JMA.",
+        "date": "2019-01-22T21:07:08Z",
+        "duration": 300
     },
     {
         "service": "codecommit",
         "videoId": "W-SM4m19JMA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS CodeCommit",
+            "source code",
+            "code repo",
+            "code repositories",
+            "Lambda",
+            "serverless development"
+        ],
         "title": "Introduction to AWS CodeCommit: Setting Up Permissions",
-        "date": "2019/01/22"
+        "description": "Learn how to set up the necessary permissions to access code repositories hosted in AWS CodeCommit - https://amzn.to/2RtlGrL with Curtis Rissi, Senior Solutions Architect with AWS. Also, watch the second video - https://youtu.be/SWqh7LvxKqI in this series, to learn how to create your first repo using AWS CodeCommit.",
+        "date": "2019-01-22T21:07:19Z",
+        "duration": 214
     },
     {
         "service": "codecommit",
         "videoId": "46PRLMW8otg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Git",
+            "git hosting",
+            "source control system",
+            "private git hosting",
+            "source code hosting",
+            "source code repository",
+            "version control system",
+            "git server",
+            "git repository",
+            "code managemen"
+        ],
         "title": "Introduction to AWS CodeCommit",
-        "date": "2016/05/13"
+        "description": "Learn More: https://aws.amazon.com/codecommit/\nAWS CodeCommit is a fully-managed source control service that makes it easy for companies to host secure and highly scalable private Git repositories. CodeCommit eliminates the need to operate your own source control system or worry about scaling its infrastructure. You can use CodeCommit to securely store anything from source code to binaries, and it works seamlessly with your existing Git tools.",
+        "date": "2016-05-13T16:59:47Z",
+        "duration": 138
     },
     {
         "service": "codecommit",
         "videoId": "NeCFWnSp2H4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "CodeCommit",
+            "Visual Studio",
+            ".NET"
+        ],
         "title": "Integrate AWS CodeCommit with Visual Studio",
-        "date": "2019/10/04"
+        "description": "Learn more about AWS at – https://amzn.to/2AEKRNs\nIn this video, we show you how access AWS CodeCommit from your Visual Studio instance to commit you code. AWS CodeCommit is a fully-managed source control service that hosts secure Git-based repositories. It makes it easy for teams to collaborate on code in a secure and highly scalable ecosystem.",
+        "date": "2019-10-04T18:11:24Z",
+        "duration": 571
     },
     {
         "service": "codecommit",
         "videoId": "aLz_aKFvQTo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I deploy code from a CodeCommit repository to an Elastic Beanstalk environment?",
-        "date": "2020/02/20"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/deploy-codecommit-elastic-beanstalk/\nRavi shows you how to deploy code from a CodeCommit repository to an Elastic Beanstalk environment.",
+        "date": "2020-02-20T19:42:04Z",
+        "duration": 290
     },
     {
         "service": "codecommit",
         "videoId": "VNPWovr10uQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS CodeCommit",
+            "CodeCommit",
+            "ALM",
+            "AWS CodeDeploy",
+            "AWS CodePipeline",
+            "application lifecycle management",
+            "software development",
+            "software lifecycle",
+            "git",
+            "source code",
+            "code repository",
+            "revision control",
+            "git repository",
+            "hosted git",
+            "repo"
+        ],
         "title": "AWS re:Invent 2014 | Announcing AWS CodeCommit",
-        "date": "2014/11/12"
+        "description": "Learn more: https://aws.amazon.com/codecommit/\nAWS CodeCommit is a secure, highly scalable, managed source control service that hosts private Git repositories. CodeCommit eliminates the need for you to operate your own source control system or worry about scaling its infrastructure. You can use CodeCommit to store anything from code to binaries, and it supports the standard functionality of Git allowing it to work seamlessly with your existing Git-based tools.  Your team can also use CodeCommit’s online code tools to browse, edit, and collaborate on projects.",
+        "date": "2014-11-13T01:03:29Z",
+        "duration": 33
     }
 ]

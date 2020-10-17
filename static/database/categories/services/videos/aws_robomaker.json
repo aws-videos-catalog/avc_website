@@ -2,133 +2,406 @@
     {
         "service": "aws_robomaker",
         "videoId": "CQoh76z7L-Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Hack Your Robot | Programming Robots with AWS RoboMaker",
-        "date": "2019/05/16"
+        "description": "Have you ever wondered about security in robotics development? Join us to learn how to secure your robot & avoid getting your robot hacked!\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-05-16T18:07:30Z",
+        "duration": 2721
     },
     {
         "service": "aws_robomaker",
         "videoId": "U1ukEpzKCYY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "RoboMaker",
+            "machine learning",
+            "artificial intelligence"
+        ],
         "title": "What is AWS RoboMaker?",
-        "date": "2018/11/27"
+        "description": "AWS RoboMaker is a service that makes it easy to develop, test, and deploy intelligent robotics applications at scale. Learn more at - https://amzn.to/2DRqwIj.",
+        "date": "2018-11-27T21:31:21Z",
+        "duration": 126
     },
     {
         "service": "aws_robomaker",
         "videoId": "VHuzxu_W3Ps",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build Your Robot with AWS RoboMaker | Creating Robot Relationships with AWS RoboMaker",
-        "date": "2019/06/19"
+        "description": "Robots have become a part of daily life — but is robotics development accessible for everyone? Learn how to build robotics with AWS RoboMaker.\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/live-video/",
+        "date": "2019-06-19T23:24:18Z",
+        "duration": 4692
     },
     {
         "service": "aws_robomaker",
         "videoId": "4R4_GCiayD8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "robomaker",
+            "robots",
+            "robot",
+            "jeff bar"
+        ],
         "title": "Build Your Robot | Getting Started with Robots & AWS RoboMaker",
-        "date": "2019/05/06"
+        "description": "Robots have become a part of daily life — but is robotics development accessible for everyone? Learn how to build robotics with AWS RoboMaker. This session covers Robotic OS & Gazebo, building and deploying a robotics app, and launching simulations to generate the 3D artificial world in which our robot will move.\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-05-06T17:14:18Z",
+        "duration": 2999
     },
     {
         "service": "aws_robomaker",
         "videoId": "sjxZAdm1utM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "RoboMaker",
+            "reinvent 2018",
+            "re:Invent 2018"
+        ],
         "title": "AWS re:Invent 2018 - Announcing AWS RoboMaker",
-        "date": "2018/11/28"
+        "description": "Announcing AWS RoboMaker, a new cloud robotics service that makes it easy to develop, simulate, and deploy intelligent robotics applications at scale. Learn more at - https://amzn.to/2KDzzwT.",
+        "date": "2018-11-28T15:36:29Z",
+        "duration": 744
     },
     {
         "service": "aws_robomaker",
         "videoId": "PbciF9iLPq4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS RoboMaker",
+            "Reinforcement Learning",
+            "Machine Learning",
+            "Artificial Intelligence",
+            "Robotics",
+            "Simulations",
+            "Amazon"
+        ],
         "title": "Using Reinforcement Learning with AWS RoboMaker",
-        "date": "2019/05/13"
+        "description": "Learn more about AWS RoboMaker at – https://amzn.to/2WB0tuF \nReinforcement learning is a machine learning technique used to develop, test various applications. In this tutorial, robotic application developers, robot operators, fleet managers and researchers will learn how to use reinforcement learning with AWS RoboMaker to train a turtlebot robot to identify, locate, and navigate another object. AWS RoboMaker is a service that makes it easy to develop, test, and deploy intelligent robotics applications at scale. RoboMaker extends the most widely used open-source robotics software framework, Robot Operating System (ROS), with connectivity to cloud services. This includes AWS machine learning services, monitoring services, and analytics services that enable a robot to stream data, navigate, communicate, comprehend, and learn.",
+        "date": "2019-05-13T21:50:32Z",
+        "duration": 258
     },
     {
         "service": "aws_robomaker",
         "videoId": "tD-a2WNAsSs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "robotics",
+            "simulation",
+            "robotics application development",
+            "robots",
+            "machine learning",
+            "reinforcement learning",
+            "AWS RoboMaker",
+            "AWS RoboMaker WorldForge",
+            "ROS",
+            "ROS 2",
+            "Gazebo",
+            "robotics simulation",
+            "Virtual environments",
+            "virtual testing environments",
+            "3D virtual environments",
+            "simulation worlds"
+        ],
         "title": "AWS RoboMaker WorldForge Simplifies Creating Simulation Worlds for Robotics",
-        "date": "2020/08/19"
+        "description": "AWS RoboMaker is introducing WorldForge, a capability that streamlines testing and training robots in simulation by making it faster, simpler, and less expensive to create a multitude of virtual 3D worlds. Building virtual worlds is required to test and train robotics applications in simulation, and before RoboMaker WorldForge, the process could require months of time and substantial expense for robotics companies. You can now easily create simulation worlds in RoboMaker WorldForge and use them in RoboMaker simulation run for testing. \n\nWith AWS RoboMaker WorldForge, robotics application developers and QA engineers can automatically create hundreds of user-defined, randomized 3D virtual environments that mimic real-world conditions without extra engineering investment or infrastructure management. Having a large number of 3D virtual worlds enables developers to easily increase the scale and variance of simulations to support large-scale simulation workloads. Scaling simulation makes regression testing more robust, reinforcement learning faster, and synthetic data generation more affordable. \n\nLearn more about AWS RoboMaker at https://amzn.to/2EmOTik\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-08-19T16:28:59Z",
+        "duration": 206
     },
     {
         "service": "aws_robomaker",
         "videoId": "u_PcAwz6iUo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Developing and Teaching Robotics with AWS RoboMaker",
-        "date": "2019/06/20"
+        "description": "From the 1966 creation of SHAKEY, the first modern mobile robot, to the 2007 creation of ROS, the most common robot development framework, university classrooms and research labs have created the leading hardware platforms, algorithms, tools, and best practices for robot development. In this session, learn how educators use AWS RoboMaker, a service that makes it easy to develop, test, and deploy intelligent robotics applications at scale, to help train the next generation of roboticists, and to enable research labs to continue developing state of the art robotics capabilities.",
+        "date": "2019-06-20T16:23:55Z",
+        "duration": 2751
     },
     {
         "service": "aws_robomaker",
         "videoId": "Da4Yxy59WYg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws",
+            "awspsssummit",
+            "aws public sector summit canberra"
+        ],
         "title": "From Simulation to Reality: Building an Autonomous Robot Car with AWS RoboMaker",
-        "date": "2019/10/17"
+        "description": "Learn more about AWS Public Sector Summit Canberra at – https://amzn.to/2BoDoCg \nSimilar to machine learning, robotics can be perceived as reserved for individuals with years of training and domain knowledge. However, with AWS RoboMaker, that doesn’t have to be the case. In this session, we demystify robotics on AWS. Attendees take a journey of building a simulated autonomous robot car and ultimately deploy and test the product in real time.\n\nSpeaker: Rafaela Brownlie, Solutions Architect, AWS",
+        "date": "2019-10-17T21:12:25Z",
+        "duration": 2450
     },
     {
         "service": "aws_robomaker",
         "videoId": "fneewHu1HXM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Thomas Moulard"
+        ],
         "title": "Developing Intelligent Robots with AWS RoboMaker",
-        "date": "2019/09/10"
+        "description": "Learn more about AWS RoboMaker at – https://amzn.to/2k8fBBH \nThomas Moulard\n\nRobots are becoming prevalent in our lives, helping us carry out tedious housework, distribute warehouse inventory, automate manufacturing, and research lunar landscapes. Thomas Moulard discusses AWS RoboMaker, a new cloud robotics service that makes it easy for developers to develop, test, and deploy robotics applications and build intelligent robotics functions using cloud services.",
+        "date": "2019-09-10T16:00:07Z",
+        "duration": 1358
     },
     {
         "service": "aws_robomaker",
         "videoId": "VhZQzyXw9y4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Cloud Robotics with AWS RoboMaker",
-        "date": "2019/04/03"
+        "description": "AWS RoboMaker is a service that makes it easy to develop, test, and deploy intelligent robotics applications at scale.\n\nLearn more here: https://aws.amazon.com/robomaker/\nLearn more about AWS on Twitch: https://amzn.to/2uGYoB3",
+        "date": "2019-04-03T19:12:02Z",
+        "duration": 230
     },
     {
         "service": "aws_robomaker",
         "videoId": "fpx_zzqHoko",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "robomaker",
+            "ROS",
+            "Gazebo",
+            "robotics"
+        ],
         "title": "Using AWS RoboMaker for Robot Application Simulation",
-        "date": "2020/03/24"
+        "description": "In this video, we will discuss the value of using simulations in robotics development and how customers like iRobot, Bastian Solutions and Takenaka are using AWS RoboMaker simulations to run automated tests, simulate large numbers of robots in a fleet and easily generate map data in the cloud. \n\nLearn more about AWS RoboMaker at https://go.aws/39agVHO\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSRoboMaker",
+        "date": "2020-03-24T21:00:44Z",
+        "duration": 151
     },
     {
         "service": "aws_robomaker",
         "videoId": "4t9e4L4rVZw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "aws robomaker",
+            "aws robomaker demo",
+            "aws robotics",
+            "aws robomaker tutorial",
+            "multiple robot simulations",
+            "large-scale simulation",
+            "fleet simulation"
+        ],
         "title": "Fleet Simulations with Multiple Robots using AWS RoboMaker",
-        "date": "2020/03/24"
+        "description": "In this video, we will show a quick demo of how customers like Bastian Solutions are using AWS RoboMaker to run a large number of robots concurrently and simulate robot fleet interactions. \n\nLearn more about AWS RoboMaker at https://go.aws/2JeL4ek\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSRoboMaker",
+        "date": "2020-03-24T21:02:06Z",
+        "duration": 172
     },
     {
         "service": "aws_robomaker",
         "videoId": "SzHw2PIEIKQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS RoboMaker",
+            "robotics",
+            "CI/CD"
+        ],
         "title": "Building a Continuous Integration Pipeline for Your ROS Applications Using AWS RoboMaker",
-        "date": "2019/10/18"
+        "description": "Learn more about AWS RoboMaker at – https://amzn.to/33EphVy\nIn this webinar, we will dive into how to build a continuous integration pipeline using AWS RoboMaker. We show how customers can use AWS CodePipeline and CodeBuild in conjunction with their AWS RoboMaker IDE to easily automate and integrate their CI workflows with the AWS RoboMaker simulation service.\n\nBy watching this webinar you will learn:\nHow to use the AWS RoboMaker simulation service\nHow to build a ROS application CI pipeline\nHow to use the Cloud9 IDE and integrate CI/CD tools AWS CodePipeline and CodeBuild",
+        "date": "2019-10-18T21:04:32Z",
+        "duration": 3643
     },
     {
         "service": "aws_robomaker",
         "videoId": "GMZhY28gW4M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Announcing AWS RoboMaker",
-        "date": "2018/11/30"
+        "description": "AWS RoboMaker makes it easy to develop, simulate, and deploy intelligent robotics applications at scale. RoboMaker extends the most widely used open-source robotics software framework, Robot Operating System (ROS), with connectivity to cloud services. This includes AWS machine learning services, monitoring services, and analytics services that enable a robot to stream data, navigate, communicate, comprehend, and learn. RoboMaker provides a robotics development environment for application development, a robotics simulation service to accelerate application testing, and a robotics fleet management service for remote application deployment, update, and management. Learn more and get started: https://aws.amazon.com/robomaker \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T21:03:24Z",
+        "duration": 1070
     },
     {
         "service": "aws_robomaker",
         "videoId": "HAela66zov0",
+        "tags": [
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Robotics",
+            "ROB201-R"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Announcing AWS RoboMaker: A New Cloud Robotics Service (ROB201-R)",
-        "date": "2018/11/27"
+        "description": "Robots are no longer just the subject of sci-fi movies. They’re now prevalent in our lives, helping us carry out tedious housework, distribute warehouse inventory, automate manufacturing, and research lunar landscapes. Until now, developing, testing, and deploying intelligent robotics applications was difficult and time consuming. We announced AWS RoboMaker, a new service that makes it easy for developers to develop, test, and deploy robotics applications, as well as build intelligent robotics functions using cloud services. We’ll invite our launch customer up for a demonstration – Robot Care Systems, a company that is enabling elderly and disabled people to live independently.",
+        "date": "2018-11-27T22:46:39Z",
+        "duration": 2448
     },
     {
         "service": "aws_robomaker",
         "videoId": "8Rm2BKfJMnw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reinvent 2018",
+            "re:Invent 2018",
+            "AWS RoboMaker"
+        ],
         "title": "AWS re:Invent 2018 - Daily re:Port - RoboMaker",
-        "date": "2018/11/28"
+        "description": "Learn more about re:Invent 2018 at - https://amzn.to/2r9uO5x.\nAWS RoboMaker is a service that makes it easy to develop, test, and deploy intelligent robotics applications at scale. RoboMaker extends the most widely used open-source robotics software framework, Robot Operating System (ROS), with connectivity to cloud services.",
+        "date": "2018-11-29T05:07:44Z",
+        "duration": 25
     },
     {
         "service": "aws_robomaker",
         "videoId": "mt1cuPQ62lE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "continuous integration and delivery",
+            "CICD",
+            "automated tests",
+            "aws robomaker",
+            "aws robomaker tutorial",
+            "aws robomaker example"
+        ],
         "title": "Running Large-scale Automated Test Simulations in a CI/CD Pipeline using AWS RoboMaker",
-        "date": "2020/03/24"
+        "description": "In this video, we will show a quick demo of how customers like iRobot are using AWS RoboMaker to run large-scale automated test simulations in CI/CD pipeline.\n\nLearn more about AWS RoboMaker at https://go.aws/33Hu0qM\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSRoboMaker",
+        "date": "2020-03-24T21:04:04Z",
+        "duration": 212
     },
     {
         "service": "aws_robomaker",
         "videoId": "euDL1OZ-l40",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Collision 2019",
+            "AWS Developer Workshop"
+        ],
         "title": "It's the Jetsons Age: Robots & AWS RoboMaker",
-        "date": "2019/06/05"
+        "description": "Learn more about AWS Startups at – https://amzn.to/2Z4oWta \nRobots have become a part of daily life — but is robotics development accessible for everyone? Learn how to build robotics with AWS RoboMaker. This session will cover Robotic OS & Gazebo, building and deploying a robotics app, and launching simulations to generate the 3D artificial world in which our robot will move.",
+        "date": "2019-06-05T16:31:31Z",
+        "duration": 2591
     },
     {
         "service": "aws_robomaker",
         "videoId": "SW8x-OIVo1I",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Robotics",
+            "ROB201-R1"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Announcing AWS RoboMaker: A New Cloud Robotics Service (ROB201-R1)",
-        "date": "2018/12/01"
+        "description": "Robots are no longer just the subject of sci-fi movies. They’re now prevalent in our lives, helping us carry out tedious housework, distribute warehouse inventory, automate manufacturing, and research lunar landscapes. Until now, developing, testing, and deploying intelligent robotics applications was difficult and time consuming. We announced AWS RoboMaker, a new service that makes it easy for developers to develop, test, and deploy robotics applications, as well as build intelligent robotics functions using cloud services. We’ll invite our launch customer up for a demonstration – Robot Care Systems, a company that is enabling elderly and disabled people to live independently.",
+        "date": "2018-12-01T22:31:11Z",
+        "duration": 2953
     },
     {
         "service": "aws_robomaker",
         "videoId": "4m9Bqm4gYa0",
+        "tags": [
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "IoT",
+            "DEM120",
+            "Amazon API Gateway",
+            "AWS IoT Core",
+            "AWS Lambda"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] A journey thru Serverless & IoT, a view of AWS RoboMaker (DEM120)",
-        "date": "2018/12/13"
+        "description": "aibo (coming soon in US) is an autonomous pet robot series by Sony. aibo’s cloud is built on AWS and uses various services, like AWS Lambda, Amazon API Gateway, and AWS IoT Core. We have joined the AWS RoboMaker beta for verifying how Sony can leverage RoboMaker as a part of our commercial products. In this session, we will introduce how we use AWS services for aibo, show various kinds of Serverless practices, and share our experiences with AWS RoboMaker.",
+        "date": "2018-12-13T16:43:57Z",
+        "duration": 1160
     },
     {
         "service": "aws_robomaker",
         "videoId": "GW1Sy3nlgec",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ROB301-R1",
+            "Robotics",
+            "iRobot",
+            "AWS IoT Greengrass",
+            "Not Applicable",
+            "Amazon SageMaker",
+            "AWS RoboMaker"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Running tests in simulation with AWS RoboMaker (ROB301-R1)",
-        "date": "2019/12/08"
+        "description": "In this session, we dive deep into how AWS RoboMaker simulation works, and discuss customer use cases. We demonstrate how you can use AWS RoboMaker simulation to manage your continuous integration / continuous deployment pipeline to build your robotics applications. This is followed by a presentation and demo by iRobot.",
+        "date": "2019-12-08T23:31:40Z",
+        "duration": 2239
     }
 ]

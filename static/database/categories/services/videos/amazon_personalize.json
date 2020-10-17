@@ -2,49 +2,151 @@
     {
         "service": "amazon_personalize",
         "videoId": "9tArgQrJBzE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reinvent 2018",
+            "re:Invent 2018",
+            "Amazon Personalize"
+        ],
         "title": "AWS re:Invent 2018 – Introducing Amazon Personalize",
-        "date": "2018/11/29"
+        "description": "Watch Andy Jassy, CEO of Amazon Web Services, announce Amazon Personalize. Learn more at - https://amzn.to/2r9cBoJ.\n\nAmazon Personalize is a machine learning service that makes it easy for developers to create personalization — at scale — for each individual at the right time, and with the right message. Based on the same personalization technology used by Amazon.com to power product recommendations for millions of customers, Amazon Personalize uses insights generated from customer data to deliver an experience that is tailored to their specific needs and preferences.\"",
+        "date": "2018-11-29T17:07:49Z",
+        "duration": 209
     },
     {
         "service": "amazon_personalize",
         "videoId": "o7wfxDlgsHE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "machine learning",
+            "RCF",
+            "random cut forest",
+            "ml algorithm"
+        ],
         "title": "AWS Partner Webinar: Building Integrations with Amazon Personalize",
-        "date": "2019/08/12"
+        "description": "Learn more about Amazon Personalize at – https://amzn.to/2M5po7Z \nReal-time personalization and recommendation technology used at Amazon.com, now in your hands!",
+        "date": "2019-08-12T17:18:31Z",
+        "duration": 2880
     },
     {
         "service": "amazon_personalize",
         "videoId": "9sexYAHHjxE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AIM365",
+            "re:Invent 2018",
+            "reinvent 2018",
+            "Amazon Personalize"
+        ],
         "title": "AWS re:Invent 2018: NEW! Introducing Amazon Personalize: Real-time Personalization & Recommendations",
-        "date": "2019/01/31"
+        "description": "Amazon Personalize is a fully-managed service that helps companies deliver personalized experiences, such as recommendations, search results, email campaigns and notifications. It brings over 20 years of experience in personalization from Amazon.com and puts it in the hands of developers with little or no machine learning experience. Amazon Personalize uses AutoML to automate the entire process of managing and processing data, choosing the right algorithm based on the data, and using the data to train and deploy custom machine learning models — all with a few simple API calls. Join us and learn how you can use Concierge to build engaging experiences that respond to user preferences and behavior in real-time. (AIM365)",
+        "date": "2019-02-01T05:20:16Z",
+        "duration": 3119
     },
     {
         "service": "amazon_personalize",
         "videoId": "hSb_ahAZM64",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Real-Time Personalisation & Recommendations with Amazon Personalize",
-        "date": "2019/05/24"
+        "description": "https://aws.amazon.com/developer/community/twitch/\nMissed the AWS Sydney Summit 2019? Learn how cloud technology can help your business lower costs, improve efficiency, and innovate at scale. This session is a recording from Innovation Day.",
+        "date": "2019-05-24T16:17:35Z",
+        "duration": 889
     },
     {
         "service": "amazon_personalize",
         "videoId": "LQSGz8ryvXU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "amazon personalize",
+            "segment",
+            "advertising",
+            "digital marketing",
+            "customer testimonial",
+            "aws customer success"
+        ],
         "title": "Segment Enables Customers to Create Custom Recommendations With Amazon Personalize",
-        "date": "2020/03/03"
+        "description": "Segment is a customer data infrastructure company that uses AWS to help customers to collect and unify data about their users, and then empowers them to create personalized recommendations with Amazon Personalize. The company processes 450 billion events per month using thousands of Amazon EC2 instances, and runs over 16,000 docker containers on Amazon ECS. \n\nAccording to Calvin French-Owen, CTO and Co-Founder of Segment, many of their customers have a business need to perform personalization with machine learning, but don’t have enough training data needed to build prediction models.“It’s a beautiful synergy where they can spin up Segment really easily from day one, and get going and collecting all of their data,” says French-Owen. ”Then, they can use that data to power these recommendations without having to build out their own machine learning pipeline using Amazon Personalize.",
+        "date": "2020-03-03T17:00:06Z",
+        "duration": 114
     },
     {
         "service": "amazon_personalize",
         "videoId": "05QKFsD6qss",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Introducing Amazon Personalize & Amazon Forecast",
-        "date": "2018/11/30"
+        "description": "Many data science teams struggle to capture the full value of AI for their organizations, due to challenges around data, skills and tooling. These barriers prevent organizations from using machine learning and deep learning to make better decisions and deliver better products or services. Now, introducing Amazon Personalize and Amazon Forecast, two newly launched managed services that enables developers with limited machine learning expertise to train. Amazon Personalize is a machine learning service that enables developers to create custom personalization and recommendations for your customer.high-quality models specific to their business needs. Amazon Seer is a forecasting service that uses machine learning to deliver 50% more accurate results than traditional methods. Learn more | https://aws.amazon.com/machine-learning \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:45:26Z",
+        "duration": 1192
     },
     {
         "service": "amazon_personalize",
         "videoId": "uKPZtJBb6MM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws builder sday",
+            "builders day",
+            "developers",
+            "buildon",
+            "AI",
+            "artificial intelligence",
+            "machine learning",
+            "amazon sagemaker",
+            "amazon forecast",
+            "amazon personalize"
+        ],
         "title": "AWS Builders' Day | re:Invent Deep Dive on Amazon SageMaker, Amazon Forecast and Amazon Personalize",
-        "date": "2018/12/19"
+        "description": "See what you can build: https://amzn.to/2ryQs3a\nGet started with Machine Learning at https://aws.amazon.com/machine-learning/\n\nAmazon AI services bring natural language understanding (NLU), automatic speech recognition (ASR), visual search and image recognition, text-to-speech (TTS), and machine learning (ML) technologies within the reach of every developer. Learn how you can easily add these powerful features to your applications to enhance the way they interact with the real world.",
+        "date": "2018-12-19T18:43:22Z",
+        "duration": 3438
     },
     {
         "service": "amazon_personalize",
         "videoId": "lSgd5h_BLW4",
+        "tags": [
+            "AWS",
+            "Events",
+            "Amazon AI Conclave 2019",
+            "AI Talks",
+            "AI Thought Leadership",
+            "Artificial Intelligence Videos",
+            "Machine Learning",
+            "AIML"
+        ],
         "title": "Amazon AI Conclave 2019 - Delight Your Customers with Deep Learning Personalized Recommendations",
-        "date": "2020/03/02"
+        "description": "Speaker - Vaibhav Sethi, Sr. Product Manager, Amazon Personalize\n\nAmazon AI Conclave 2019 is the leading Artificial Intelligence and Machine learning conference held on Dec 19 -20, 2019 in Bangalore. It hosted over 1200 delegates comprising business and technology leaders from startups and enterprises, data scientists, ML developers, data engineers and architects. Sessions at the event covered some of the Amazon’s broadest and deepest set of machine learning and AI services. Learn more about Amazon AI Conclave at https://aws.amazon.com/events/ai_conclave/\n\nLearn more about AWS Machine Learning at - https://go.aws/2TgRxeI\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #MachineLearning",
+        "date": "2020-03-02T22:08:41Z",
+        "duration": 2231
     }
 ]

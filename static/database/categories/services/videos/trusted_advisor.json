@@ -2,49 +2,159 @@
     {
         "service": "trusted_advisor",
         "videoId": "i0IkKN9NoPk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I start using Trusted Advisor?",
-        "date": "2020/04/17"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/trusted-advisor-intro\nArun shows you how to start using Trusted Advisor.",
+        "date": "2020-04-17T18:21:30Z",
+        "duration": 717
     },
     {
         "service": "trusted_advisor",
         "videoId": "4XS9XR1E8dI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "trusted advisor",
+            "aws",
+            "support",
+            "business",
+            "enterprise",
+            "aws support",
+            "aws trusted advisor",
+            "security",
+            "fault tolerance",
+            "performance",
+            "cost savings"
+        ],
         "title": "Trusted Advisor Demo",
-        "date": "2013/03/01"
+        "description": "A quick introduction to AWS Trusted Advisor, an application available from AWS Support that inspects your AWS environment and makes recommendations when opportunities exist to save money, improve system availability, improve performance, and close security gaps. To learn more: please see: http://aws.amazon.com/premiumsupport/trustedadvisor/",
+        "date": "2013-03-01T19:52:52Z",
+        "duration": 319
     },
     {
         "service": "trusted_advisor",
         "videoId": "eJRSWT_krNE",
+        "tags": [
+            "amazon",
+            "aws",
+            "cloud computing",
+            "jeff barr",
+            "aws report",
+            "aws support",
+            "aws premium support",
+            "trusted advisor"
+        ],
         "title": "Forest Johns AWS Trusted Advisor",
-        "date": "2012/11/28"
+        "description": "Product Manage Forest Johns discusses the AWS Trusted Advisor.",
+        "date": "2012-11-28T14:50:26Z",
+        "duration": 170
     },
     {
         "service": "trusted_advisor",
         "videoId": "5vhSyy9gNZ4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Trusted Advisor",
+            "AWS Trusted Advisor",
+            "Webinar",
+            "Webcast",
+            "AWS Support"
+        ],
         "title": "AWS Webcast - Understanding your Free Trusted Advisor Report",
-        "date": "2013/04/09"
+        "description": "You've taken a look at your free Trusted Advisor and would like more in-depth details and an opportunity to ask specific questions about what each check means for your AWS applications. During this one hour session we will walk through each of the 27 checks and outline the significance and best practices benefit that drove the recommendation's inclusion in Trusted Advisor.",
+        "date": "2013-04-09T23:10:32Z",
+        "duration": 2485
     },
     {
         "service": "trusted_advisor",
         "videoId": "KBLsIgdE_Ts",
+        "tags": [
+            "Trusted Advisor",
+            "Support",
+            "Newvem",
+            "best practices",
+            "AWS",
+            "cost savings",
+            "highly available",
+            "security gaps"
+        ],
         "title": "Trusted Advisor Demo",
-        "date": "2012/11/21"
+        "description": "A quick introduction to AWS Trusted Advisor, an application available from AWS Support that inspects your AWS environment and makes recommendations when opportunities exist to save money, improve system availability, and close security gaps. Learn more: http://aws.amazon.com/premiumsupport/trustedadvisor/",
+        "date": "2012-11-21T18:11:05Z",
+        "duration": 313
     },
     {
         "service": "trusted_advisor",
         "videoId": "sFS1hHbU_qM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Startup Day New York"
+        ],
         "title": "AWS Startup Day - New York: Cost Optimization: Don’t Overspend",
-        "date": "2017/11/03"
+        "description": "Learn more about AWS at - http://amzn.to/2hDlQZY\nThe less you spend on infrastructure, the more you can invest in other areas of your business. We'll look at how Trusted Advisor, Spot Instances, CloudFront, Reserved Instances, Aurora, Lambda, and API Gateway can help you lower your bill. Gain a deeper understanding of how to set individual team budgets and alerts on forecasted spend. Learn how to quickly identify under-utilized resources and what steps to take to remedy those money wasters. You'll build the essential cost savings toolkit that is applicable across all industries and win the admiration of your finance team.\n\nSpeaker: John Pignata, AWS",
+        "date": "2017-11-03T22:38:26Z",
+        "duration": 2968
     },
     {
         "service": "trusted_advisor",
         "videoId": "2P2I7HlrFtA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "DevOps & Tools",
+            "DEV302",
+            "Armando Leite",
+            "Prashant Prahlad"
+        ],
         "title": "AWS re:Invent 2016: Automated Governance of Your AWS Resources (DEV302)",
-        "date": "2016/12/03"
+        "description": "AWS CloudTrail, Amazon CloudWatch Events, AWS Identity & Access Management (IAM), Trusted Advisor, AWS Config Rules, other services? In this session, we will help you use existing and recently launched services to automate configuration governance so that security is embedded in the development process. We outline four easy steps (Control, Monitor, Fix, and Audit) and demonstrate how different services can be used to meet your governance needs. We will showcase real-life examples and you can take home a blog post with code examples and the full source code for scripts and tooling that AWS professional services have built using these services.",
+        "date": "2016-12-03T22:30:46Z",
+        "duration": 2981
     },
     {
         "service": "trusted_advisor",
         "videoId": "XHwFJDw9Mec",
-        "title": "AWS Cost Optimization: Tools and Methods to Reduce Your Spend With Us",
-        "date": "2020/04/12"
+        "tags": [
+            "AWS",
+            "Events",
+            "AWS Cost Optimization",
+            "Demos",
+            "Cost Explorer",
+            "Compute Optimizer",
+            "Trusted Advisor",
+            "aws webinar",
+            "aws webinar recordings"
+        ],
+        "title": "AWS Cost Optimization: Tools and Methods to  Reduce Your Spend With Us",
+        "description": "In this session we will provide an overview of cost optimization levers considering impact vs. complexity to help you find the best areas to get started, demonstrate AWS tools that will help, and share recent cost-related AWS product updates.\n\nYou may also like to read a recent blog post titled: 10 things you can do today to reduce AWS costs at https://amzn.to/2yINy2E\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSWebinar",
+        "date": "2020-04-12T16:00:15Z",
+        "duration": 2946
     }
 ]

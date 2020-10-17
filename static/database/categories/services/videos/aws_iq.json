@@ -2,19 +2,63 @@
     {
         "service": "aws_iq",
         "videoId": "3YIvyOeUkqA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS certification",
+            "AWS expert",
+            "AWS IQ"
+        ],
         "title": "AWS IQ: Help Customers and Get Paid for Your AWS Certification Expertise",
-        "date": "2020/03/26"
+        "description": "With AWS IQ, you can connect with AWS Customers, demonstrate your expertise, and get paid.\n\nLearn more about AWS IQ for experts at https://go.aws/3alX3mn\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSIQ",
+        "date": "2020-03-26T22:26:15Z",
+        "duration": 101
     },
     {
         "service": "aws_iq",
         "videoId": "wiV6GWKL1qU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "expert",
+            "help",
+            "architecture",
+            "design",
+            "consultant",
+            "certified",
+            "learn",
+            "plan",
+            "configure",
+            "migrate",
+            "cost",
+            "partner",
+            "marketplace",
+            "professional"
+        ],
         "title": "AWS IQ: Complete Your Projects Faster with Help from AWS Certified Third-Party Experts",
-        "date": "2019/09/30"
+        "description": "Learn more about AWS IQ at – https://amzn.to/2nkx4YZ \nWith AWS IQ, you can connect, engage, and work with AWS Certified third-party experts on hands-on projects.",
+        "date": "2019-09-30T14:25:00Z",
+        "duration": 103
     },
     {
         "service": "aws_iq",
         "videoId": "DzQQVDVBiVQ",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DOP212",
+            "DevOps"
+        ],
         "title": "AWS re:Invent 2019: Best practices for building your business on AWS IQ (DOP212)",
-        "date": "2019/12/03"
+        "description": "In this session, we share best practices for using AWS IQ to complete on-demand project work and supplement your team’s technical skill set. Learn from the AWS IQ team, hear customer stories, get your questions answered, and leave with insights for growing your business.",
+        "date": "2019-12-03T18:16:58Z",
+        "duration": 2723
     }
 ]

@@ -3,36 +3,92 @@
         "service": "device_farm",
         "videoId": "21oIarLiAKU",
         "title": "Introducing AWS Device Farm",
-        "date": "2015/07/09"
+        "description": "http://aws.amazon.com/device-farm\n\nAWS Device Farm is a new service that helps mobile developers test their apps against a large (and growing) collection of real phones and tablets to improve the quality of their Android and Fire OS apps. \n\nDevelopers can upload their apps and run tests simultaneously on all of the most commonly used mobile devices across a continually expanding fleet that includes the latest device/OS combinations. \n\nAs tests complete, developers receive timely reports that identify problems, helping them bring their apps to market faster and with better quality. There is no setup cost to get started with AWS Device Farm, and developers pay as they go.",
+        "date": "2015-07-10T02:05:05Z",
+        "duration": 361
     },
     {
         "service": "device_farm",
         "videoId": "ZWAUAerFB6s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Getting Started with AWS Device Farm",
-        "date": "2016/09/08"
+        "description": "Learn more - http://amzn.to/2cJDueL\nAWS Device farm lets you improve the quality of your app by testing and interacting with real Android and iOS devices in the AWS Cloud. In this session, we will explain how to use Device Farm to run automated tests on 100s of real devices, and get logs, screenshots, and performance data in minutes. We will also show a demo of the recently announced Remote Access feature which lets you to interact with physical devices in real time through your web browser.\n\nLearn how to:\n·  Use AWS Device Farm to test apps automatically and \nby manually interacting with real devices",
+        "date": "2016-09-08T23:03:41Z",
+        "duration": 3340
     },
     {
         "service": "device_farm",
         "videoId": "PRA1WlR0nvU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "San Francisco Loft",
+            "AWS Mobile"
+        ],
         "title": "AWS Mobile Week - San Francisco: Testing & Troubleshooting Modern Apps with AWS Device Farm",
-        "date": "2018/10/30"
+        "description": "Learn more about AWS Mobile at - https://amzn.to/2q8V6Eg.\nTesting your mobile app is important! In this session, learn about UI testing and how to build UI tests, then run the UI tests on a variety of mobile devices in the cloud. Go completely device free by using devices in the cloud for your development!\n\nSpeaker: Nikhil Dabhade - Sr. Cloud Solutions Engineer, AWS Mobile Applications",
+        "date": "2018-10-30T16:49:47Z",
+        "duration": 3723
     },
     {
         "service": "device_farm",
         "videoId": "zej5tdLMo3Y",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Mobile",
+            "MBL301"
+        ],
         "title": "AWS re:Invent 2017: Testing and Troubleshooting with AWS Device Farm (MBL301)",
-        "date": "2017/11/30"
+        "description": "Testing your mobile app is important! In this session, learn about UI testing and how to build UI tests, then run the UI tests on a variety of mobile devices in the cloud. Learn how you can go completely device free by using devices in the cloud for your development. Also, learn about using tools like Appium and Jenkins as part of your testing and QA process. We use PWA and native apps in this session to show the difference.",
+        "date": "2017-11-30T16:02:16Z",
+        "duration": 3923
     },
     {
         "service": "device_farm",
         "videoId": "cZOdt995hc4",
-        "title": "Introducing AWS Device Farm: Automated Android and Fire OS App Testing on Real Devices in AWS Cloud",
-        "date": "2015/07/17"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
+        "title": "Introducing AWS Device Farm: Automated Android and Fire OS App Testing on Real Devices in  AWS Cloud",
+        "description": "Learn more: https://aws.amazon.com/device-farm\n\nAWS Device Farm is a new service that enables developers to deliver higher quality Android and Fire OS apps by testing them against real smartphones and tablets in the AWS Cloud. Join us for an overview to get started with AWS Device Farm service. Specifically, you will learn how to: \n\n- Start a Test against a large collection of phone and tablets\n- Configure your test environment\n- View detailed reports that pinpoint bugs and performance problems",
+        "date": "2015-07-17T21:37:12Z",
+        "duration": 1655
     },
     {
         "service": "device_farm",
         "videoId": "EsXhs5wXzAM",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Financial Services",
+            "Mobile Developer & IoT",
+            "MBL315",
+            "Trent Peterson - Amazon Web Services",
+            "Shawn Castrianni - IHS Global Inc.",
+            "EtsyAdvanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (MBL315) How Etsy & IHS Improve Their Apps w/ AWS Device Farm",
-        "date": "2015/10/12"
+        "description": "AWS Device Farm enables developers to deliver higher quality iOS, Android, and Fire OS apps by testing them against real phones and tablets in the AWS cloud. You can write and configure tests, run them in the cloud, and view detailed results that pinpoint bugs and performance problems. We are excited that Etsy and IHS will join us to discuss and take your questions about their mobile quality strategy and how they are using AWS Device Farm to enable that.",
+        "date": "2015-10-12T21:36:10Z",
+        "duration": 2283
     }
 ]

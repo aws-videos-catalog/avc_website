@@ -2,121 +2,361 @@
     {
         "service": "iot_greengrass",
         "videoId": "NOdXRAFEvDo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Canberra Summit 2017",
+            "IoT",
+            "AWS Greengrass",
+            "AWS Public Sector Summit 2017 Canberra"
+        ],
         "title": "IoT at the Edge: Greengrass and More",
-        "date": "2017/09/11"
+        "description": "Learn more about AWS at - http://amzn.to/2yf5GPe.\nThis session focuses on the business and strategic implications of leveraging IoT, and provides starting points in the AWS Cloud to accelerate your time to value. Learn how to build IoT solutions with AWS Greengrass to connect different types of cloud devices and reap the benefits of communicating your data across platforms to better respond to events, ensure secure communication, and reduce the cost of running IoT applications.",
+        "date": "2017-09-11T16:45:59Z",
+        "duration": 1652
     },
     {
         "service": "iot_greengrass",
         "videoId": "1rLxPOxVJoQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Greengrass"
+        ],
         "title": "Getting Started with AWS Greengrass",
-        "date": "2017/05/26"
+        "description": "AWS IoT Greengrass http://amzn.to/2r0boze seamlessly extends AWS to edge devices so they can act locally on the data they generate, while still using the cloud for management, analytics, and durable storage. \n\nWith AWS IoT Greengrass, connected devices can run AWS Lambda functions, execute predictions based on machine learning models, keep device data in sync, and communicate with other devices securely – even when not connected to the Internet.",
+        "date": "2017-05-26T16:23:53Z",
+        "duration": 95
     },
     {
         "service": "iot_greengrass",
         "videoId": "iKXzcRnIvWA",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "IoT",
+            "IOT213",
+            "AWS Greengrass"
+        ],
         "title": "AWS re:Invent 2018: Computing at the Edge with AWS Greengrass & Amazon FreeRTOS, ft. Enel (IOT213)",
-        "date": "2018/11/28"
+        "description": "Edge computing is all about moving compute power to the source of the data instead of having to bring it to the cloud. The edge is a fundamental part of IoT, and it is not only about connecting things to the internet. In this sesssion, we discuss how AWS Greengrass, which is an IoT edge software, can power devices small and large, from a sensor all the way to a wind turbine. With AWS Greengrass, these IoT devices can securely gather data, keep device data in sync, and communicate with each other while still using the cloud for management, analytics, and durable storage. Join us to learn more about the edge of IoT.",
+        "date": "2018-11-28T18:22:31Z",
+        "duration": 3285
     },
     {
         "service": "iot_greengrass",
         "videoId": "l0tmTaIqAK8",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "IoT",
+            "IOT365",
+            "AWS Greengrass"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing New AWS IoT Greengrass Features (IOT365)",
-        "date": "2018/11/29"
+        "description": "During this session, we will discuss how AWS IoT Greengrass extends functionality with pre-built connectors to external applications, hardware root of trust security, and new isolation configurations. You will learn how you can use new features including AWS IoT Greengrass Connectors, which provide a set of connections that allow you to easily interact with IoT devices, cloud-based services, and on-premises software from AWS IoT Greengrass devices. Additionally, AWS IoT Greengrass Hardware Security Integration introduces hardware root of trust security and new configuration options provide the ability to configure AWS Lambdas to run outside an AWS IoT Greengrass container and set process-level user identities to configure permissions.",
+        "date": "2018-11-29T18:25:45Z",
+        "duration": 2265
     },
     {
         "service": "iot_greengrass",
         "videoId": "bOtDwwP4hmI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference 2018"
+        ],
         "title": "Run ML Models at the Edge with AWS Greengrass ML",
-        "date": "2018/04/12"
+        "description": "Learn more at - https://amzn.to/2EEQsCY\nIn this session, we will discuss how you can integrate your Machine Learning models into an edge device using AWS Greengrass and make inference on your data. We will review the AWS IoT services that enable AWS Greengrass ML Inference to operate, showcase how you would go about setting up your edge device and finally demo local edge object recognition.\n\nSpeaker: \n- Tim Cruse, IoT Specialist Solution Architect, Amazon Web Services, APAC",
+        "date": "2018-04-12T19:00:31Z",
+        "duration": 1829
     },
     {
         "service": "iot_greengrass",
         "videoId": "6RM0ZqR8u0U",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Greengrass",
+            "AWS Pop Up Loft San Francisco"
+        ],
         "title": "AWS IoT Event: Announcing General Availability of AWS Greengrass",
-        "date": "2017/06/12"
+        "description": "Learn more at AWS Greengrass homepage - http://amzn.to/2s3FCBF. Live stream of special AWS IoT event held at AWS Pop Up Loft, San Francisco featuring AWS executives, customers, and partners as they bring you the latest in AWS IoT technologies. At this special event, we announced the general availability for AWS Greengrass, which is a software that lets you run local compute, messaging, data caching, and synch capabilities for connected devices in a secure way.",
+        "date": "2017-06-12T18:37:47Z",
+        "duration": 4372
     },
     {
         "service": "iot_greengrass",
         "videoId": "oDNCGIur778",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Greengrass",
+            "Vodafone",
+            "Saguna"
+        ],
         "title": "AWS Greengrass Driver Safety POC Solution with Vodafone and Saguna",
-        "date": "2018/02/27"
+        "description": "AWS Greengrass Driver Safety Proof of Concept Solution with Vodafone and Saguna showcasing how edge computing and IoT technologies can keep drivers safe. Learn more at - http://amzn.to/2F9RpqZ.",
+        "date": "2018-02-27T18:10:19Z",
+        "duration": 133
     },
     {
         "service": "iot_greengrass",
         "videoId": "MXEBjUZtT8Y",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "IoT",
+            "IOT206",
+            "AWS Greengrass"
+        ],
         "title": "AWS re:Invent 2018: Computing at the Edge with AWS Greengrass & Amazon FreeRTOS (IOT206)",
-        "date": "2018/12/01"
+        "description": "Edge computing is all about moving compute power to the source of the data instead of having to bring it to the cloud. The edge is a fundamental part of IoT, and it is not only about connecting things to the internet. In this sesssion, we discuss how AWS Greengrass, which is an IoT edge software, can power devices small and large, from a sensor all the way to a wind turbine. With AWS Greengrass, these IoT devices can securely gather data, keep device data in sync, and communicate with each other while still using the cloud for management, analytics, and durable storage. Join us to learn more about the edge of IoT. Complete Title: AWS re:Invent 2018: Computing at the Edge with AWS Greengrass & Amazon FreeRTOS, ft. General Electric (IOT206)",
+        "date": "2018-12-01T21:29:43Z",
+        "duration": 1993
     },
     {
         "service": "iot_greengrass",
         "videoId": "XQQjX8GTEko",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2574aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "IOT201",
+            "Jon Turow",
+            "Introductory (200 level)",
+            "IoT Mini Con"
+        ],
         "title": "AWS re:Invent 2016: NEW LAUNCH! Introducing AWS Greengrass (IOT201)",
-        "date": "2016/12/03"
+        "description": "AWS has launched AWS Greengrass, a platform that extends the AWS Cloud onto your devices so they can act locally on the data they generate, while still taking advantage of the cloud.  In this session we will talk about how Greengrass works and what you can do with it. You will also hear from early customers who will discuss their use cases for Greengrass and how it fits into their overall IoT strategy.",
+        "date": "2016-12-03T23:29:06Z",
+        "duration": 3013
     },
     {
         "service": "iot_greengrass",
         "videoId": "4JuyF2zwFp0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "cloud",
+            "cloud computing",
+            "re:Invent 2017",
+            "AWS Greengrass ML Inference",
+            "Andy Jassy",
+            "keynote"
+        ],
         "title": "AWS re:Invent 2017 - Announcing AWS Greengrass ML Inference",
-        "date": "2017/12/01"
+        "description": "Learn more about AWS Greengrass Machine Inference at - http://amzn.to/2k9cIjN.\nWatch Andy Jassy, CEO of Amazon Web Services, announce AWS Greengrass Machine Learning Inference. Using AWS Greengrass Machine Learning Inference, you can easily perform machine learning inference locally on connected devices using models that are built and trained in the cloud.",
+        "date": "2017-12-01T18:25:04Z",
+        "duration": 73
     },
     {
         "service": "iot_greengrass",
         "videoId": "HMGk_Bj8CIE",
-        "title": "AWS re:Invent 2017: At the Cutting Edge: AWS IOT & Greengrass for Multi-Access Edge (TLC304)",
-        "date": "2017/11/28"
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Telecommunications",
+            "TLC304",
+            "AI",
+            "Connect",
+            "Compute",
+            "Messaging"
+        ],
+        "title": "AWS re:Invent 2017: At the Cutting Edge: AWS IOT & Greengrass for Multi-Access Edge  (TLC304)",
+        "description": "In June 2017, AWS announced the general availability of the Greengrass service bringing local compute, messaging, data caching and synch capabilities to network edge devices. In this session, you will learn how AWS IOT, Greengrass and Lambda@Edge are integrated into Nokia’s Multi-Access Edge Compute (MEC) solution, enabling a platform that provides a programming model at the edge as well as specialized access necessary for the roll-out of advanced 4G and 5G use cases. We will dive into the architecture of this MEC implementation that is tailored to aggregate traffic from multiple macro-cellular and small-cell stations in LTE and 5G networks. You will learn to take advantage of the containerized programming environment on the MEC platform, while also connecting with the eco-system of AWS services.",
+        "date": "2017-11-28T19:23:18Z",
+        "duration": 2564
     },
     {
         "service": "iot_greengrass",
         "videoId": "EGuKbrBwJOA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Greengrass"
+        ],
         "title": "IoT All the Things | S2 Ep1 The Datacenter in Your Pocket: Stacking IoT Services in a Single Device",
-        "date": "2020/04/02"
+        "description": "In the Season 2 premiere of IoT All the Things, you'll learn best practices in running AWS Greengrass on hardware and how to run more of your cloud infrastructure in the palm of your hand. [Previously available only on Twitch, we are now offering this popular series on YouTube.] #iotallthethings\n\nFind all resources shared in this episode below:\n* Find out more about AWS-Provided Greengrass Connectors here: https://docs.aws.amazon.com/greengrass/latest/developerguide/connectors-list.html\n* Find the Greengrass Accelerators on the IoT Solutions Repository here: https://aws.amazon.com/iot/solutions/ \n\n~Filmed prior to COVID-19~\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-04-02T21:38:30Z",
+        "duration": 1649
     },
     {
         "service": "iot_greengrass",
         "videoId": "7XPHZGlP640",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "IoT",
+            "IOT309",
+            "AWS Greengrass",
+            "Compute"
+        ],
         "title": "AWS re:Invent 2017: Compute at the Edge with AWS Greengrass (IOT309)",
-        "date": "2017/11/30"
+        "description": "AWS Greengrass extends AWS onto your devices, so they can act locally on the data they generate while still taking advantage of the cloud. In this session, we discuss the features and development languages of AWS Greengrass that let you build powerful edge compute applications. You’ll also hear directly from Greengrass customers in multiple industries.",
+        "date": "2017-11-30T16:06:15Z",
+        "duration": 3138
     },
     {
         "service": "iot_greengrass",
         "videoId": "CfZ5U5Aq9Jo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "Machine Learning",
+            "Serverless",
+            "Cloud Computing",
+            "Containers",
+            "Augmented Reality",
+            "Virtual Reality",
+            "IoT",
+            "developers",
+            "programming",
+            "databases",
+            "analytics",
+            "AWS London Summit 2018"
+        ],
         "title": "AWS Summit - London | twitch.tv/aws | Greengrass ML @ the Edge",
-        "date": "2018/05/17"
+        "description": "Catch up with the action from the 2018 AWS Summit in London with the AWS Launchpad, which featured technical discussions, demos and live Q&A on twitch.tv/aws. Each session covered topics such as serverless computing, machine learning, augmented reality and virtual reality, containers, databases, analytics, IoT, and more. For past recordings and to see the upcoming schedule, visit https://amzn.to/2wJNs9H.\n\nIn this session, we discuss how to use AWS Greengrass ML @ the edge. Learn more about AWS Greengrass at https://aws.amazon.com/greengrass/.",
+        "date": "2018-05-17T18:35:55Z",
+        "duration": 1488
     },
     {
         "service": "iot_greengrass",
         "videoId": "0Ui5t7uc6sg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "TensorIoT",
+            "TMA",
+            "This is my architecture",
+            "Machine Learning",
+            "IoT",
+            "SageMaker",
+            "edge computing"
+        ],
         "title": "TensorIoT - Enhancing Driver Safety and Safety on the Road with IoT/ML at the Edge",
-        "date": "2018/05/11"
+        "description": "Gab explains how TensorIoT is enhancing driver safety & safety on the road by levering AWS IoT, AWS GreenGrass, ML at the edge and Amazon Sagemaker. Learn more at - https://amzn.to/2juOXPB.",
+        "date": "2018-05-11T11:42:55Z",
+        "duration": 363
     },
     {
         "service": "iot_greengrass",
         "videoId": "gGmpYcLEpkI",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "GPSTechnical",
+            "GPSTEC317",
+            "AWS Greengrass"
+        ],
         "title": "AWS re:Invent 2017: GPS: From Leaves to Lawns: AWS Greengrass at the Edge and Beyond (GPSTEC317)",
-        "date": "2017/11/29"
+        "description": "AWS Greengrass provides a wide range of opportunities from IoT gateway applications to building systems like those with microservice architectures. In this session, we first evaluate how AWS Greengrass fits into OEM, ODM, and IT service delivery models. We then wade into a gentle overview of AWS Greengrass and how it interoperates with AWS IoT and other AWS services. We walk through several key AWS Greengrass distributed architectures. Next, to help you accelerate your solution using AWS Greengrass, we discuss how AWS Greengrass fits into the AWS Cloud development and delivery model. The talk wraps up with a demonstration of AWS Greengrass facilitating communication between a closed machine to machine (M2M) network and AWS IoT.",
+        "date": "2017-11-29T16:43:54Z",
+        "duration": 3395
     },
     {
         "service": "iot_greengrass",
         "videoId": "OkTwYDPIboE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - AWS Greengrass",
-        "date": "2017/12/08"
+        "description": "AWS Greengrass has three new features. Learn more at - http://amzn.to/2jNLY5t. First, AWS Lambda functions running on Greengrass Core devices can natively interact with the capabilities of the underlying host device. Second, Greengrass can now also use the popular industrial messaging protocol OPC-UA. Third, you can now remotely update the Greengrass Core software to take advantage of new features, bug fixes and security enhancements. \n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:33:55Z",
+        "duration": 1079
     },
     {
         "service": "iot_greengrass",
         "videoId": "Xe0nvptpdMU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference 2018"
+        ],
         "title": "Leveraging IoT at the Edge and Industrial Workloads (Level 300)",
-        "date": "2018/08/24"
+        "description": "Learn more about the AWS Innovate Online Conference at - https://amzn.to/2NfGRrm.\nIn this session, we discuss how our customers are leveraging AWS Greengrass to build intelligent and autonomous IoT applications to address business challenges. We also explore the common use cases evolving with the Industry 4.0 revolution.\n\nSpeaker: Kapil Pendse, Partner Solution Architect, Amazon Web Services",
+        "date": "2018-08-24T19:52:16Z",
+        "duration": 1697
     },
     {
         "service": "iot_greengrass",
         "videoId": "jstn9kY6eh4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS IoT Greengrass",
+            "Edge Devices"
+        ],
         "title": "IoT All the Things | S2 Ep6 | Provisioning for Production: An AWS IoT Story",
-        "date": "2020/06/25"
+        "description": "In this episode of IoT All the Things, our hosts Wale and Rudy are joined by guest Solution Architect Tim Mattison to show viewers how to provision AWS IoT Greengrass Core devices in great detail. From setting up automation to debugging in under a minute, our #ioT braintrust will demonstrate best practices and offer expert insight to seamlessly extend AWS to edge devices quickly and easily. #iotallthethings\n\nFind all resources shared in this episode below: \n* IoT Workshop: https://github.com/aws-samples/aws-iot-workshop \n* Hands-on with AWS IoT Greengrass at the edge: https://github.com/aws-samples/aws-iot-greengrass-edge-analytics-worksho:ooladehin\n* IoT code base here:  https://github.com/awslabs/aws-greengrass-provisioner\n* Customer uses of AWS IoT Greengrass: https://www.youtube.com/watch?v=acNDApQl4oU\n* For the Challenge of Things, start here:  https://aws.amazon.com/solutions/aws-connected-vehicle-solution/\n* Learn more about the new AWS IoT Core Fleet Provisioning feature:  https://aws.amazon.com/about-aws/whats-new/2020/04/announcing-general-availability-of-aws-iot-core-fleet-provisioning/\n* AWS IoT Core Multi-Account Registration feature: https://aws.amazon.com/about-aws/whats-new/2020/04/simplify-iot-device-registration-and-easily-move-devices-between-aws-accounts-with-aws-iot-core-multi-account-registration/\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-06-25T18:17:02Z",
+        "duration": 1856
     },
     {
         "service": "iot_greengrass",
         "videoId": "M-k3K4uUT-4",
+        "tags": [
+            "AWS",
+            "Events",
+            "aws iot",
+            "Internet of Things",
+            "greengrass",
+            "AWS greengrass",
+            "re:invent",
+            "stream manager",
+            "edge computing"
+        ],
         "title": "Introducing Stream Manager for AWS IoT Greengrass",
-        "date": "2020/02/24"
+        "description": "Dirk Didascalou, VP of AWS IoT, introduces the new stream manager feature for Greengrass at re:invent 2019.\n\nLearn more about AWS IoT at - https://go.aws/3bHLQO6 \n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #IoT #Greengrass",
+        "date": "2020-02-24T17:00:07Z",
+        "duration": 112
     }
 ]

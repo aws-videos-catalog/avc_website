@@ -2,73 +2,218 @@
     {
         "service": "amazon_translate",
         "videoId": "yBmxRdB--4Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Translate",
+            ".NET"
+        ],
         "title": "How to Use Amazon Translate Service through .NET",
-        "date": "2018/11/21"
+        "description": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation. Neural machine translation is a form of language translation automation that uses deep learning models to deliver more accurate and more natural sounding translation than traditional statistical and rule-based translation algorithms. Amazon Translate allows you to localize content - such as websites and applications - for international users, and to easily translate large volumes of text efficiently.\nFor more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2t7AHBA.",
+        "date": "2018-11-21T20:40:41Z",
+        "duration": 368
     },
     {
         "service": "amazon_translate",
         "videoId": "k9rBj6IP9-M",
+        "tags": [
+            "re:Invent 2017",
+            "Andy Jassy",
+            "keynote",
+            "Amazon Translate",
+            "AWS",
+            "cloud",
+            "cloud computing",
+            "Amazon Web Services",
+            "machine learning"
+        ],
         "title": "AWS re:Invent 2017 - Introducing Amazon Translate",
-        "date": "2017/11/29"
+        "description": "Learn more about Amazon Translate at - http://amzn.to/2iOi5V5 Powered by machine learning technologies, Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation. Bring language-independent processing to any application with the state-of-the-art machine translation. Amazon Translate enables translation at scale, so you can optimize your content and connect with your audience in the language of their choice.",
+        "date": "2017-11-29T20:36:36Z",
+        "duration": 85
     },
     {
         "service": "amazon_translate",
         "videoId": "yLKrTzFdPaE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Translate",
+            "neural machine translation",
+            "machine translation",
+            "localization",
+            "Amazon Translate"
+        ],
         "title": "AWS San Francisco Summit 2018 - Amazon Translate is Now Generally Available",
-        "date": "2018/04/20"
+        "description": "Learn more about Amazon Translate at - https://amzn.to/2HCm7dB.\nAmazon Translate is now available for all customers. Powered by deep-learning technologies, Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation. Learn how Lionbridge and VMware are using Amazon Translate to accelerate their translation pipeline and reduce the cost of localization.",
+        "date": "2018-04-20T16:57:25Z",
+        "duration": 1842
     },
     {
         "service": "amazon_translate",
         "videoId": "KQtVK2VzETk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "amazon transcribe",
+            "amazon translate",
+            "automate for efficiency",
+            "twitch"
+        ],
         "title": "Automate for Efficiency with Amazon Transcribe & Amazon Translate",
-        "date": "2018/08/27"
+        "description": "Learn more about Machine Learning at AWS - https://amzn.to/2Nof0Fn.\nWe met with industry experts to discuss machine learning at our San Francisco Loft. In this episode we discussed how to automate for efficiency with Amazon Transcribe and Amazon Translate.\n\nVisit https://aws.amazon.com/twitch for more information on the current live coding shows, upcoming episode schedule, or for recordings of previous broadcasts.",
+        "date": "2018-08-27T19:27:00Z",
+        "duration": 3045
     },
     {
         "service": "amazon_translate",
         "videoId": "KlnOCKn0ZGs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Translate",
+            "Twitch",
+            "Live coding",
+            "AWS Summit",
+            "language",
+            "translations"
+        ],
         "title": "Amazon Translate - Now Generally Available",
-        "date": "2018/04/10"
+        "description": "Learn more about Amazon Translate at - https://amzn.to/2EEdlX5.\nAmazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation. The neural machine translation engine has been trained on a wide variety of content across different use cases to produce translations that sound fluent and natural.",
+        "date": "2018-04-10T17:02:39Z",
+        "duration": 539
     },
     {
         "service": "amazon_translate",
         "videoId": "YtDSTKiU1u8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Announcing 8 new languages and a Custom Terminology for Amazon Translate",
-        "date": "2018/11/30"
+        "description": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation. Now we are introducing Custom Terminology, a feature that lets customers customize Amazon Translate’s output to use company and domain-specific vocabulary. By uploading and invoking Custom Terminology with translation requests, customers have the ability to ensure that their brand names, character names, model names, and other unique content is translated exactly the way they need it, regardless of context and Amazon Translate’s algorithm’s decision. In addition, we are announcing that Amazon Translate now supports the following eight new languages: Danish, Dutch, Finnish, Hebrew, Indonesian, Korean, Polish, and Swedish. These languages expand upon the existing 13 languages already available in Amazon Translate. With the new languages and quality improvements across many others, we are adding 280 new language pairs, for a total of 417. For a full list, visit the Amazon Translate documentation.  Learn More - https://aws.amazon.com/translate \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:58:57Z",
+        "duration": 1050
     },
     {
         "service": "amazon_translate",
         "videoId": "UO0hGTvqLUs",
-        "title": "Using Amazon Translate, Amazon Polly, and Amazon Rekognition with .NET",
-        "date": "2019/10/04"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Translatem",
+            "Polly",
+            "Rekognition",
+            ".NET",
+            "Framework",
+            "Core"
+        ],
+        "title": "Using Amazon Translate,  Amazon Polly, and Amazon Rekognition with .NET",
+        "description": "Learn more about AWS at – https://amzn.to/2AG2wnS\nIn this video, we show you how to use Amazon Translate, Amazon Polly and Amazon Rekognition in your .NET application.",
+        "date": "2019-10-04T18:11:40Z",
+        "duration": 393
     },
     {
         "service": "amazon_translate",
         "videoId": "6ZK5uGc6-js",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "text analytics",
+            "amazon comprehend",
+            "amazon translate"
+        ],
         "title": "Build Text Analytics Solutions with Amazon Comprehend & Amazon Translate",
-        "date": "2018/08/27"
+        "description": "Learn more about Machine Learning at AWS - https://amzn.to/2oe0Mfm.\nWe met with industry experts to discuss machine learning at our San Francisco Loft. In this episode we discussed how to build text analytics solutions with Amazon Comprehend and Amazon Translate.\n\nVisit https://aws.amazon.com/twitch for more information on the current live coding shows, upcoming episode schedule, or for recordings of previous broadcasts.",
+        "date": "2018-08-27T19:27:00Z",
+        "duration": 3145
     },
     {
         "service": "amazon_translate",
         "videoId": "bFyLMtdBItA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - Amazon Translate",
-        "date": "2017/12/08"
+        "description": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation. Learn more at - http://amzn.to/2BUVhar. Neural machine translation is a form of language translation automation that uses machine learning and deep learning models to deliver more accurate and more natural sounding translation than traditional statistical and rule-based translation algorithms. Amazon Translate allows you to easily translate large volumes of text efficiently, and to localize websites and applications for international users. \n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:37:52Z",
+        "duration": 982
     },
     {
         "service": "amazon_translate",
         "videoId": "oAHgyt8Gblg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            ".NET",
+            "Microsoft",
+            "Transcribe"
+        ],
         "title": "How to Translate Text into a Different Language in a .NET Core Application and Amazon Translate",
-        "date": "2020/08/28"
+        "description": "In this video we will show how to incorporate Amazon Translate into your custom ASP .NET web application. This video will allow you to easily implement translate from multiple languages directly into your web or native application by calling a fully managed service. \n\nLearn more about .NET applications on AWS at https://amzn.to/3hE6xwX\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-08-28T19:16:09Z",
+        "duration": 469
     },
     {
         "service": "amazon_translate",
         "videoId": "NyktzGwY7NE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Machine Learning",
+            "MCL209"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Introducing Amazon Translate – Now in Preview (MCL209)",
-        "date": "2017/12/02"
+        "description": "\"Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation. Neural machine translation uses deep learning to deliver more accurate and more natural sounding translation than older statistical and rule-based translation algorithms. Amazon Translate enables translation at scale so that you can easily translate large volumes of text efficiently to handle tasks like localizing content for international users and facilitating real-time cross-lingual communication.\nJoin this session to learn more and find out how you get can started with Amazon Translate, today!\"",
+        "date": "2017-12-03T01:47:03Z",
+        "duration": 3104
     },
     {
         "service": "amazon_translate",
         "videoId": "C7fb4Dv_qNY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS Summit New York 2018 - Amazon Translate Adds Six New Languages",
-        "date": "2018/07/20"
+        "description": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation. Learn more at - https://amzn.to/2NYmFuH.\n\nStarting today, Amazon Translate is adding the following six new languages that are highly requested by customers: Chinese (Traditional), Czech, Italian, Japanese, Russian, and Turkish. These languages expand upon the existing six languages already available in Amazon Translate: Arabic, Chinese (Simplified), French, German, Portuguese, and Spanish.",
+        "date": "2018-07-20T18:29:34Z",
+        "duration": 87
     }
 ]

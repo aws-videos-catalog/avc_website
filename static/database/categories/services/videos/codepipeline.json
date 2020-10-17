@@ -2,43 +2,173 @@
     {
         "service": "codepipeline",
         "videoId": "P7i01eqmzrs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Lambda",
+            "CodePipeline",
+            "CI/CD",
+            "CI",
+            "CD",
+            "Automation",
+            "Deployment",
+            "Build",
+            "Serverless"
+        ],
         "title": "How to Do Continuous Integration and Continuous Deployment with AWS Lambda and AWS CodePipeline",
-        "date": "2017/03/01"
+        "description": "Learn how to create a CI/CD pipeline with AWS Lambda and AWS CodePipeline!\nAWS Lambda is a serverless compute service that runs your code in response to events and automatically manages the underlying compute resources for you. Learn more at: http://amzn.to/2lUqVj4 & https://github.com/awslabs/aws-serverless-samfarm.",
+        "date": "2017-03-01T19:48:11Z",
+        "duration": 2144
     },
     {
         "service": "codepipeline",
         "videoId": "9kwEK5M56P8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon",
+            ".Net",
+            ".Net core",
+            "CodePieline",
+            "Application",
+            "Deploy",
+            "deployment",
+            "build",
+            "Continous",
+            "Integration",
+            "Delivery",
+            "CI/CD",
+            "CD/CI",
+            "microsoft"
+        ],
         "title": "AWS for Microsoft Workloads: CD/CI for .NET applications in AWS CodePipeline",
-        "date": "2018/06/18"
+        "description": "For more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2ti0Ixm.\nAWS CodePipeline is a continuous integration and continuous delivery service for fast and reliable application and infrastructure updates. CodePipeline builds, tests, and deploys your code every time there is a code change, based on the release process models you define.",
+        "date": "2018-06-18T23:30:05Z",
+        "duration": 880
     },
     {
         "service": "codepipeline",
         "videoId": "d01AKo7HAng",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS CodePipeline",
+            "CodePipeline",
+            "ALM",
+            "AWS CodeDeploy",
+            "AWS CodeCommit",
+            "application lifecycle management",
+            "software development",
+            "software lifecycle",
+            "continuous integration",
+            "continuous deployment",
+            "continuous delivery",
+            "CICD",
+            "build",
+            "test",
+            "integration",
+            "workflow",
+            "pipeline",
+            "pipelines"
+        ],
         "title": "AWS re:Invent 2014 | Announcing AWS CodePipeline",
-        "date": "2014/11/12"
+        "description": "Learn more: https://aws.amazon.com/codepipeline\nAWS CodePipeline is a continuous delivery and release automation service that aids smooth deployments. You can design your development workflow for checking in code, building the code, deploying your application into staging, testing it, and releasing it to production. You can integrate 3rd party tools into any step of your release process or you can use CodePipeline as an end-to-end solution. CodePipeline enables you to rapidly deliver features and updates with high quality through the automation of your build, test, and release process.",
+        "date": "2014-11-13T01:02:15Z",
+        "duration": 44
     },
     {
         "service": "codepipeline",
         "videoId": "zxrxHcbn9GY",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "STP04",
+            "Amazon ECS",
+            "AWS CodeBuild",
+            "AWS CodePipeline",
+            "AWS Systems Manager",
+            "AWS CloudFormation"
+        ],
         "title": "AWS re:Invent 2018: Aetion’s Journey to AWS CodePipeline, AWS CloudFormation, & Amazon ECS (STP04)",
-        "date": "2018/11/28"
+        "description": "In this talk, Junaid Kapadia, DevOps manager and staff software engineer for Aetion Systems, speaks about the company’s journey from a Chef, Jenkins, and EC2-based architecture to a fault-tolerant, highly available, continuously provisioned, and deployed architecture via AWS CodePipeline, AWS CodeBuild, AWS CloudFormation, AWS Systems Manager Parameter Store, and Amazon Elastic Container Service (Amazon ECS). Kapadia also discusses the history of Aetion’s original architecture, explains how it transitioned its movement to the new architecture, and shares specific caveats of the purpose of each service and why it was chosen. He also talks about future developments of the overall architecture. Complete Title: AWS re:Invent 2018: Aetion’s Migration Journey to AWS CodePipeline, AWS CloudFormation, & Amazon ECS (STP04)",
+        "date": "2018-11-28T18:44:13Z",
+        "duration": 2946
     },
     {
         "service": "codepipeline",
         "videoId": "Kebb0LOVC28",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "devtools",
+            "serverless",
+            "media-entertainment",
+            "english",
+            "Amazon API Gateway",
+            "AWS Lambda",
+            "Amazon Simple Notification Service (SNS)",
+            "AWS CodePipeline",
+            "AWS CodeBuild",
+            "This is My Architecture",
+            "TMA"
+        ],
         "title": "Openfit: ChatOps with Slack and AWS Lambda",
-        "date": "2020/02/10"
+        "description": "Dave from Openfit describes how ChatOps on AWS accelerates his team's continuous integration and continuous deployment (CI/CD) capabilities. Openfit's architecture leverages AWS CodePipeline and AWS CodeBuild for build automation, with the team coordinating in one Slack channel per service, with an AWS Lambda-powered chatbot providing build updates and production deployment approvals in real-time\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-02-10T18:41:16Z",
+        "duration": 413
     },
     {
         "service": "codepipeline",
         "videoId": "YqzSVHZOE8k",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS containers",
+            "containers",
+            "kubernetes",
+            "serverless",
+            "EKS",
+            "Fargate",
+            "Application modernization",
+            "application platforms",
+            "modern application development",
+            "devops"
+        ],
         "title": "Building in an Automated Environment with Continuous Integration",
-        "date": "2019/02/04"
+        "description": "Learn how to automate the process of building an app in a container and distributing it. We’ll discuss how to use AWS CodeCommit, AWS CodePipeline and AWS CodeBuild to build pipelines so developers can rapidly deploy applications in an automated fashion.\n\nWatch the whole Application Modernization series at - https://www.youtube.com/playlist?list=PLhr1KZpdzukfWFTsOD_WynnY2-e8TY8fH.\n\nFollow along with our hands-on Application Modernization Workshop: https://modernize.awsworkshop.io",
+        "date": "2019-02-04T16:28:37Z",
+        "duration": 532
     },
     {
         "service": "codepipeline",
         "videoId": "zMa5gTLrzmQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "codepipeline",
+            "CICD"
+        ],
         "title": "Streamline Your Software Release Process Using AWS CodePipeline",
-        "date": "2020/10/01"
+        "description": "In this video, you’ll see how to streamline your software release process using AWS CodePipeline. With this continuous delivery service, you can model each step in your software release process, automate the process from beginning to end, and approve software changes for production. AWS CodePipeline is a fully managed continuous delivery service used in conjunction with other AWS development services to store, build, and deploy applications in an automated fashion.\n\nLearn more about AWS CodePipeline at - https://amzn.to/3cDPWrr\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-10-01T22:22:58Z",
+        "duration": 994
     }
 ]

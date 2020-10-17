@@ -2,7 +2,27 @@
     {
         "service": "personal_health_dashboard",
         "videoId": "0kW2rkfQgvM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2215aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "ARC207",
+            "Ramanuja Atur",
+            "Introductory (200 level)",
+            "Architecture"
+        ],
         "title": "AWS re:Invent 2016: NEW LAUNCH! Transparency and control with AWS Personal Health Dashboard (ARC207)",
-        "date": "2016/12/03"
+        "description": "When your business is counting on the performance of your cloud solutions, having relevant and timely insights into events impacting your AWS resources is essential. AWS Personal Health Dashboard serves as the primary destination for you to receive personalized information related to your AWS infrastructure, guiding your through scheduled changes, and accelerating the troubleshooting of issues impacting your AWS resources.  The service, powered by AWS Health APIs, integrates with your in-house event management systems, and can be programmatically configured to proactively get the right information into the right hands at the right time. The service is integrated with Splunk App for AWS to enhance Splunk’s dashboards, reports and alerts to deliver real-time visibility into your environment.",
+        "date": "2016-12-04T00:05:52Z",
+        "duration": 2550
     }
 ]

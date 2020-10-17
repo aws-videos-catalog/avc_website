@@ -2,37 +2,126 @@
     {
         "service": "inspector",
         "videoId": "nIcwiJ85EKU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Secuirty",
+            "Compliance",
+            "Inspector",
+            "Windows"
+        ],
         "title": "Improving the security and compliance of Windows Workloads with Amazon Inspector",
-        "date": "2019/10/14"
+        "description": "Learn more about AWS at – https://amzn.to/30LuOYD\nAmazon Inspector is an automated security assessment service that helps improve the security and compliance of applications deployed on AWS. Amazon Inspector automatically assesses applications for exposure, vulnerabilities, and deviations from best practices. After performing an assessment, Amazon Inspector produces a detailed list of security findings prioritized by level of severity.",
+        "date": "2019-10-04T18:11:24Z",
+        "duration": 403
     },
     {
         "service": "inspector",
         "videoId": "xxvrmBPbNPs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Introducing Amazon Inspector",
-        "date": "2016/12/05"
+        "description": "Learn more about Amazon Inspector here - http://amzn.to/2gdALcX.\n\nAmazon Inspector service overview.",
+        "date": "2016-12-05T23:35:16Z",
+        "duration": 128
     },
     {
         "service": "inspector",
         "videoId": "HjuEtMrWc_w",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Security & Compliance",
+            "SEC324",
+            "Alex Lucas - Amazon Web Services",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (SEC324) New! Introducing Amazon Inspector",
-        "date": "2015/10/12"
+        "description": "Amazon Inspector is a new service from AWS that identifies security issues in your application deployments. Use Inspector with your applications to assess your security posture and identify areas that can be improved. Inspector works with your Amazon EC2 instances to monitor activity in your applications and system.\n \nThis session will cover getting started with Inspector, how to automate the process, how to manage and act on findings, and additional ways you can enhance your development and release lifecycle using Inspector.",
+        "date": "2015-10-12T23:51:06Z",
+        "duration": 3236
     },
     {
         "service": "inspector",
         "videoId": "rrw_LVYiKvI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Vulnerability assessment",
+            "DevOps",
+            "SecDevOps",
+            "DevSecOps",
+            "application security",
+            "compliance",
+            "application assessment",
+            "application security assessment"
+        ],
         "title": "Introducing Amazon Inspector",
-        "date": "2015/10/08"
+        "description": "Learn more about Amazon Inspector here: http://amzn.to/1jPfEfR\nAmazon Inspector is an automated security assessment service that helps improve the security and compliance of applications deployed on AWS. Amazon Inspector automatically assesses applications for vulnerabilities or deviations from best practices. After performing an assessment, Amazon Inspector produces a detailed report with prioritized steps for remediation. To help you get started quickly, Amazon Inspector includes a knowledge base of hundreds of rules mapped to common security compliance standards (e.g. PCI DSS) and vulnerability definitions.",
+        "date": "2015-10-08T22:12:49Z",
+        "duration": 139
     },
     {
         "service": "inspector",
         "videoId": "PMsMGoeuLG0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center"
+        ],
         "title": "How do I set up Amazon Inspector to run security assessments on my Amazon EC2 instances?",
-        "date": "2020/08/19"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/set-up-amazon-inspector/\n\nOlivier shows you how to set up Amazon Inspector to run security assessments on your Amazon EC2 instances.",
+        "date": "2020-08-19T15:54:58Z",
+        "duration": 526
     },
     {
         "service": "inspector",
         "videoId": "4zb17V6-PfQ",
+        "tags": [
+            "Software (Industry)",
+            "Management",
+            "Technology",
+            "Data",
+            "System",
+            "Business",
+            "Office",
+            "coding",
+            "code",
+            "deployment",
+            "infrastructure",
+            "cloud infrastructure",
+            "AWS Summit Series 2016",
+            "Chicago Summit",
+            "AWS Chicago Summit",
+            "AWS Chicago 2016",
+            "2016 Summit Series",
+            "AWS Summits 2016",
+            "Tom Stickle",
+            "Amazon Inspector",
+            "Getting Started"
+        ],
         "title": "AWS Summit Series 2016 | Chicago - Getting Started with Amazon Inspector",
-        "date": "2016/04/21"
+        "description": "Amazon Inspector is a service from AWS that identifies security issues in your application deployments. Use Amazon Inspector with your applications to assess your security posture and identify areas that can be improved. Amazon Inspector works with your Amazon EC2 instances to monitor activity in your applications and system.  This session will cover getting started with Amazon Inspector, how to automate the process, how to manage and act on findings, and additional ways you can enhance your development and release lifecycle.",
+        "date": "2016-04-21T14:17:23Z",
+        "duration": 2331
     }
 ]

@@ -2,74 +2,251 @@
     {
         "service": "direct_connect",
         "videoId": "uP68iqyuqTg",
-        "title": "AWS SA Whiteboarding | AWS Direct Connect",
-        "date": "2016/08/29"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Direct Connect",
+            "Whiteboarding",
+            "public sector"
+        ],
+        "title": "AWS SA Whiteboarding |  AWS Direct Connect",
+        "description": "Whiteboard with our AWS Worldwide Public Sector Solutions Architects for step-by-step instructions and demos on topics important to you.  In this brief video, learn how to establish a dedicated network connection from your premises to AWS with AWS Direct Connect. Todd Gagorik, AWS SA, shows you how with AWS Direct Connect, you can establish private connectivity between AWS and your datacenter, office, or colocation environment, which in many cases can reduce your network costs, increase bandwidth throughput, and provide a more consistent network experience than Internet-based connections. Learn more at aws.amazon.com/directconnect/. \n\nHave a question about cloud computing? Our public sector SAs are here to help! Send us your question at aws-wwps-blog@amazon.com.",
+        "date": "2016-08-29T15:15:48Z",
+        "duration": 311
     },
     {
         "service": "direct_connect",
         "videoId": "DXFooR95BYc",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Networking",
+            "NET403",
+            "AWS Direct Connect"
+        ],
         "title": "AWS re:Invent 2018: AWS Direct Connect: Deep Dive (NET403)",
-        "date": "2018/11/28"
+        "description": "AWS Direct Connect provides a more consistent network experience for accessing your AWS resources, typically with greater bandwidth and reduced network costs. This session dives deep into the features of AWS Direct Connect, including public and private virtual Interfaces, Direct Connect Gateway, global access, local preference communities, and more.",
+        "date": "2018-11-28T18:41:51Z",
+        "duration": 3759
     },
     {
         "service": "direct_connect",
         "videoId": "dhpTTT6V1So",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos"
+        ],
         "title": "How do I configure a VPN over AWS Direct Connect?",
-        "date": "2018/09/10"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2wZhAve\nSumit, an AWS Cloud Support Engineer, shows you how to configure a VPN over AWS Direct Connect.",
+        "date": "2018-09-10T13:58:22Z",
+        "duration": 480
     },
     {
         "service": "direct_connect",
         "videoId": "eNxPhHTN8gY",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Networking",
+            "NET403",
+            "Connect",
+            "AWS Direct Connect",
+            "Enterprise"
+        ],
         "title": "AWS re:Invent 2017: Deep Dive: AWS Direct Connect and VPNs (NET403)",
-        "date": "2017/12/01"
+        "description": "As enterprises move to the cloud, robust connectivity is often an early consideration. AWS Direct Connect provides a more consistent network experience for accessing your AWS resources, typically with greater bandwidth and reduced network costs. This session dives deep into the features of AWS Direct Connect and VPNs. We discuss deployment architectures and the process from start to finish. We show you how to configure public and private virtual interfaces, configure routers, use VPN backup, and provide secure communication between sites by using the AWS VPN CloudHub.",
+        "date": "2017-12-01T16:47:31Z",
+        "duration": 3070
     },
     {
         "service": "direct_connect",
         "videoId": "SMvom9QjkPk",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Networking",
+            "NET406",
+            "Steve Seymour - AWS",
+            "Expert (400 level)",
+            "direct connect",
+            "virtual private network",
+            "vpn",
+            "Dedicated Network Connection",
+            "cloud computing event"
+        ],
         "title": "AWS re:Invent 2015: Deep Dive in AWS Direct Connect and VPNs (NET406)",
-        "date": "2015/10/09"
+        "description": "Learn about AWS Direct Connect which provides a consistent network experience for accessing your AWS resources, typically with greater bandwidth and reduced network costs. Learn More: http://amzn.to/2i1BEGg",
+        "date": "2015-10-10T00:58:46Z",
+        "duration": 3180
     },
     {
         "service": "direct_connect",
         "videoId": "r7zamTFGxcM",
-        "title": "What is the difference between a hosted VIF and hosted connection when using AWS Direct Connect?",
-        "date": "2016/09/06"
+        "tags": [
+            "aws knowledge center videos",
+            "hosted",
+            "VIF",
+            "connection",
+            "virtual interface",
+            "partner",
+            "APN"
+        ],
+        "title": "\"What is the difference between a hosted VIF and hosted connection when using AWS Direct Connect?\"",
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/direct-connect-types/\r\nKapil, an AWS Cloud Support Engineer, explains the difference between a hosted VIF and hosted connection when using AWS Direct Connect.",
+        "date": "2016-09-06T14:17:55Z",
+        "duration": 268
     },
     {
         "service": "direct_connect",
         "videoId": "JhfG2y4SUtk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws",
+            "awspsssummit",
+            "aws public sector summit canberra"
+        ],
         "title": "Getting Started with AWS Direct Connect in Canberra",
-        "date": "2019/10/17"
+        "description": "Learn more about AWS Public Sector Summit Canberra at – https://amzn.to/2VXGbMw \nAWS Direct Connect allows you to establish dedicated network connectivity between your on-premises networks and AWS. With this service now being offered in Canberra, customers can easily establish this kind of networking to the cloud to help support workloads of all shapes and sizes. Come to hear how to get connected, how government organisations can connect using the ICON network, and how to enable public and private communication to AWS. Whether you’re a new AWS customer or have been using the platform for years, join this session to learn more about the business value AWS Direct Connect can bring to your organisation.\n\nSpeaker: Tony Hawke, Senior Technical Account Manager Enterprise Support, AWS",
+        "date": "2019-10-17T21:12:25Z",
+        "duration": 874
     },
     {
         "service": "direct_connect",
         "videoId": "_JgNnmOfxLE",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Architecture",
+            "ARC402",
+            "Matt Lehwess - Amazon Web Services",
+            "Expert (400 level)"
+        ],
         "title": "AWS re:Invent 2015 | (ARC402) Double Redundancy with AWS Direct Connect",
-        "date": "2015/10/09"
+        "description": "Learn more about AWS: http://amzn.to/1VJRBjJ\nAWS Direct Connect provides low latency and high performance connectivity to the AWS cloud by allowing the provision of physical fiber from the customer’s location or data center into AWS Direct Connect points of presence. This session covers design considerations around AWS Direct Connect solutions. We will discuss how to design and configure physical and logical redundancy using both physically redundant fibers and logical VPN connectivity, and includes a live demo showing both the configuration and the failure of a doubly redundant connectivity solution. This session is for network engineers/architects, technical professionals, and infrastructure managers who have a working knowledge of Amazon VPC, Amazon EC2, general networking, and routing protocols.",
+        "date": "2015-10-09T19:11:35Z",
+        "duration": 3197
     },
     {
         "service": "direct_connect",
         "videoId": "m6NyVJrXUjo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "sponsor amy",
+            "aws-reinvent",
+            "reinvent2014",
+            "Enterprise Adoption",
+            "Advanced",
+            "AWS Direct Connect",
+            "Partner",
+            "Level 3 Communications",
+            "Enterprise",
+            "Technical Decision Maker",
+            "Brooke Mouland",
+            "Brian Hoekelman"
+        ],
         "title": "AWS re:Invent 2014 | (ENT307) AWS Direct Connect Solutions and Network Automation",
-        "date": "2014/11/21"
+        "description": "As an AWS Direct Connect partner, Level 3 Communications delivers the ability to establish rapid, flexible and private connectivity from your on-premises environment to AWS for increased control and performance. This session covers enterprise use cases related to disaster recovery and migration from on-premises environments to the cloud. The session also addresses best practices and considerations for designing your architecture to include multiple virtual private clouds and global deployments with AWS Direct Connect. Sponsored by Level 3 Communications.",
+        "date": "2014-11-21T21:17:58Z",
+        "duration": 2545
     },
     {
         "service": "direct_connect",
         "videoId": "i6Zf9lwXRcY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon VPC",
+            "Amazon Virtual Private Cloud",
+            "Virtual Private Cloud",
+            "DirectConnect",
+            "Amazon Direct Connect",
+            "Summit Series 2015",
+            "AWS SUmmits 2015",
+            "AWS Summit Tel Aviv",
+            "Tel Aviv Summit 2015",
+            "AWS Israel"
+        ],
         "title": "AWS Summit Series 2015 | Tel Aviv: Amazon VPC and AWS Direct Connect",
-        "date": "2015/07/31"
+        "description": "Steve Seymour and Ronnen Slasky deliver a fascinating Deep-Dive session on Amazon Virtual Private Cloud (Amazon VPC) and New networking capabilities, including Direct Connect service. Learn more: https://aws.amazon.com/vpc/ \nhttps://aws.amazon.com/directconnect/",
+        "date": "2015-07-31T21:28:58Z",
+        "duration": 2573
     },
     {
         "service": "direct_connect",
         "videoId": "Qep11X1r1QA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Networking",
+            "NET402",
+            "Steve Seymour",
+            "Expert (400 level)"
+        ],
         "title": "AWS re:Invent 2016: Deep Dive: AWS Direct Connect and VPNs (NET402)",
-        "date": "2016/12/03"
+        "description": "As enterprises move to the cloud, robust connectivity is often an early consideration. AWS Direct Connect provides a more consistent network experience for accessing your AWS resources, typically with greater bandwidth and reduced network costs. This session dives deep into the features of AWS Direct Connect and VPNs. We discuss deployment architectures and demonstrate the process from start to finish. We show you how to configure public and private virtual interfaces, configure routers, use VPN backup, and provide secure communication between sites by using the AWS VPN CloudHub.",
+        "date": "2016-12-03T20:06:51Z",
+        "duration": 2910
     },
     {
         "service": "direct_connect",
         "videoId": "h8FLEkrckUY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "direct connect",
+            "aws direct connect",
+            "lag",
+            "link aggregation groups",
+            "vif",
+            "virtual interfaces"
+        ],
         "title": "How do I migrate my existing virtual interfaces between AWS Direct Connect connections or LAGs?",
-        "date": "2017/09/25"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/migrate-virtual-interface-dx-lag/\n\nBhavin, an AWS Cloud Support Engineer, shows you how to migrate existing virtual interfaces between AWS Direct Connect connections or Link Aggregation Groups (LAG).",
+        "date": "2017-09-25T14:01:15Z",
+        "duration": 230
     },
     {
         "service": "direct_connect",
@@ -80,20 +257,56 @@
     {
         "service": "direct_connect",
         "videoId": "iJeiWU9Ud7w",
+        "tags": [
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "web-apps",
+            "enterprise",
+            "AWS DirectConnect",
+            "Roger-Greene",
+            "arc"
+        ],
         "title": "Cloud Architectures with AWS Direct Connect (ARC304) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "Modern IT is embracing hybrid cloud as part of their overall IT strategy. AWS Direct Connect provides a critical tool for ingesting web scale data or leveraging custom appliances and legacy applications. This talk discusses the unique benefits of using Direct Connect to reduce cost, increase bandwidth, and provide a more consistent network experience between on-premises resources and the cloud. It details the components, requirements, and configuration options.",
+        "date": "2013-11-26T19:41:49Z",
+        "duration": 2589
     },
     {
         "service": "direct_connect",
         "videoId": "iUq3IeRr6K0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Direct Connect"
+        ],
         "title": "AWS Symposium - Washington, DC | AWS Direct Connect",
-        "date": "2015/08/14"
+        "description": "\"AWS Direct Connect lets you establish a dedicated, private, and high bandwidth network connection from your premises to AWS. In this session we begin with a high level overview of the service, including the steps involved to establishing a connection. We then cover the typical use cases before diving deep into more advanced configurations, such as multi-region and global deployments. Speaker(s):\n\nCamil Samaha\nManager, Solutions Architecture, Amazon Web Services\n\nView more here http://oak.ctx.ly/r/3cz00",
+        "date": "2015-08-14T17:17:30Z",
+        "duration": 2469
     },
     {
         "service": "direct_connect",
         "videoId": "LNYY3bMSiHM",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Networking",
+            "NET302",
+            "AWS Direct Connect"
+        ],
         "title": "AWS re:Invent 2018: Extending Data Centers to Cloud: Connectivity Options & Best Practices NET302",
-        "date": "2018/11/28"
+        "description": "Many enterprises on their journey to the cloud require consistent and highly secure connectivity between their existing data center and AWS footprints. In this session, we walk through the different architecture options for establishing this connectivity using AWS Direct Connect and VPN. With each option, we evaluate the considerations and discuss risk, performance, high availability, encryption, and cost. As we walk through these options, we discuss the associated best practices and answer some of the common questions that arise from enterprises that tackle design and implementation. Learn how to make connectivity decisions that are suitable for your workloads and how to best prepare against business impact in the event of failure. Complete Title: AWS re:Invent 2018: Extending Data Centers to the Cloud: Connectivity Options & Best Practices (NET302)",
+        "date": "2018-11-28T18:23:41Z",
+        "duration": 3101
     },
     {
         "service": "direct_connect",
@@ -104,31 +317,101 @@
     {
         "service": "direct_connect",
         "videoId": "zSZgye3kYvg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Announcement | AWS Direct Connect & Elastic Load Balancing Updates",
-        "date": "2019/04/03"
+        "description": "During this launchpad session we'll share exciting updates to Elastic Load Balancing and Direct Connect to deliver better scale, more control, and greater bandwidth to your AWS network and traffic.\n\nLearn more about EL Balancing : https://aws.amazon.com/elasticloadbalancing/\nLearn more about AWS on Twitch: https://amzn.to/2uGYoB3",
+        "date": "2019-04-03T18:52:50Z",
+        "duration": 1201
     },
     {
         "service": "direct_connect",
         "videoId": "-WvAOblKBFI",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Financial Services",
+            "IT Strategy & Migration",
+            "ISM211",
+            "Al Burgio - Console / IIX",
+            "Console / IIX Introductory (200 level)"
+        ],
         "title": "AWS re:Invent 2015 | (ISM211) How More Organizations Can Now Directly Connect to AWS",
-        "date": "2015/10/09"
+        "description": "Although the rich capabilities of cloud services are indisputable, secure and direct connections to these services remains just out of reach for most enterprises. The challenges center around complexity, specifically the need for specialized network engineering knowledge and the manual processes required to configure access to these services. This session introduces Console, the new enterprise software and interconnection platform that enables both network-to-network and enterprise-to-enterprise collaboration globally.  Session sponsored by Console.\n\nIn this session, we discuss three specific use cases: enterprise, cloud services, and the data center. We present how Console’s enterprise-grade software simply and securely connects the enterprise to mission-critical cloud services with a click of a button. Console provides automated layer 2 and layer 3 network configuration by leveraging open source technologies such as the CloudRouter Project and OpenDaylight. For the first time, enterprises can instantly obtain an Autonomous System Number (ASN) and auto-configure BGP for immediate direct interconnection. Its point-and-click interface directly connects enterprises to business-critical cloud resources like AWS.",
+        "date": "2015-10-09T23:38:39Z",
+        "duration": 3068
     },
     {
         "service": "direct_connect",
         "videoId": "bpreo8mbKog",
+        "tags": [
+            "Amazon Web Services (Website)",
+            "Cloud",
+            "AWS",
+            "Equinix",
+            "Direct Connect",
+            "DirectConnect"
+        ],
         "title": "AWS Webinar: Expand your Enterprise Cloud Strategy with AWS Direct Connect and Equinix",
-        "date": "2012/07/17"
+        "description": "You will learn more about AWS Direct Connect, Platform Equinix and how our customers are benefiting from the services, as well as key industry trends.",
+        "date": "2012-07-17T15:27:22Z",
+        "duration": 3077
     },
     {
         "service": "direct_connect",
         "videoId": "YwpfeOwDlko",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Connect",
+            "Contact Center",
+            "Amazon",
+            "Connect",
+            "omnichannel",
+            "customer",
+            "experience",
+            "service",
+            "Yasser",
+            "El-Haggan",
+            "Demo",
+            "Twilio",
+            "legacy",
+            "getting",
+            "started"
+        ],
         "title": "Getting Started with Amazon Connect",
-        "date": "2019/11/19"
+        "description": "Learn more about Amazon Connect at https://amzn.to/2Opterh\nAmazon Connect is an easy to use omnichannel cloud contact center that helps companies provide superior customer service at a lower cost. Watch Yasser-El Haggan, worldwide technical leader for Amazon Connect, show you how easy it is to setup your first Amazon Connect contact center. Learn how Amazon Connect provides you with the flexibility to scale to meet unpredictable demand, while saving you up to 80% over traditional contact centers.",
+        "date": "2019-11-19T16:17:50Z",
+        "duration": 194
     },
     {
         "service": "direct_connect",
         "videoId": "eqW6CPb58gs",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "NET317-R1",
+            "Networking & Content Delivery",
+            "AWS Direct Connect",
+            "Amazon VPC"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Connectivity to AWS and hybrid AWS network architectures (NET317-R1)",
-        "date": "2019/12/05"
+        "description": "Amazon offers multiple options to achieve your connectivity requirements to access your resources in AWS. Whether you are connecting your corporate office or on-premises data center into AWS for hybrid connectivity or your personal device for end-user connectivity, AWS has many options for you to pick and choose. This session is intended for anyone wanting to get an overview of the AWS connectivity options available to you and learn about the best practices for architecting your connectivity to AWS.",
+        "date": "2019-12-05T17:34:59Z",
+        "duration": 2978
     }
 ]

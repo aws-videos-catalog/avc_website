@@ -2,85 +2,250 @@
     {
         "service": "lightsail",
         "videoId": "pSMh-uJbMUk",
+        "tags": [
+            "Introducing Amazon Lightsail",
+            "aws",
+            "cloud computing",
+            "amazon web services",
+            "cloud",
+            "re:invent 2016"
+        ],
         "title": "AWS re:Invent 2016: Introducing Amazon Lightsail",
-        "date": "2016/12/01"
+        "description": "Learn more about Amazon Lightsail at - http://amzn.to/2gcM2b7\nLightsail is designed to be the easiest way to launch and manage a virtual private server with AWS. Lightsail plans include everything you need to jumpstart your project – a virtual machine, SSD-based storage, data transfer, DNS management, and a static IP – for a low, predictable price.",
+        "date": "2016-12-01T19:41:03Z",
+        "duration": 85
     },
     {
         "service": "lightsail",
         "videoId": "29_LqYnomdg",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Elissaios",
+            "Compute",
+            "CMP212",
+            "AI",
+            "Lightsail"
+        ],
         "title": "AWS re:Invent 2017: Building production apps easily with Amazon Lightsail (CMP212)",
-        "date": "2017/12/01"
+        "description": "Whether you are launching a simple website or a scaled application, time to go live is a key consideration for your business. Amazon Lightsail is the easiest way to get started on AWS, letting you build and scale your infrastructure faster. In this session, we will walk you through how to use Lightsail to launch your application with a few clicks and scale it as needed for redundancy, traffic spikes, or intergalactic attack. With in-browser SSH and RDP access, easy server management, and in-console guidance, Lightsail provides all the tools needed for builders of all levels – no prior AWS experience required.",
+        "date": "2017-12-01T16:17:59Z",
+        "duration": 2685
     },
     {
         "service": "lightsail",
         "videoId": "lpBRxoNrhhc",
-        "title": "AWS re:Invent 2016: NEW LAUNCH! Introducing Amazon Lightsail (CMP206)",
-        "date": "2016/12/06"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
+        "title": "AWS re:Invent 2016: NEW LAUNCH!  Introducing Amazon Lightsail (CMP206)",
+        "description": "Amazon Lightsail is the latest addition to the AWS family of compute services and the fastest way to get your next cloud server up and running. For a low price that starts at $5/month, Lightsail offers a bundle of resources and services that let you jumpstart your cloud project in a few clicks. The new, intuitive Lightsail console makes it simple to manage your virtual resources, letting you focus on code, not system administration. Come to this session and learn how Lightsail can get you started on AWS quickly and efficiently.",
+        "date": "2016-12-06T22:03:57Z",
+        "duration": 2204
     },
     {
         "service": "lightsail",
         "videoId": "8vagCXkp7uI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "re:Invent 2017",
+            "re:Invent Launchpad",
+            "Amazon EC2",
+            "Amazon Lightsail"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - Amazon EC2 & Lightsail",
-        "date": "2017/12/08"
+        "description": "Amazon Lightsail has added load balancers to its easy-to-use cloud platform, enabling developers to build scalable, highly available websites and applications easily and quickly. Lightsail load balancers also allow customers to easily build and maintain secure applications that accept HTTPS traffic with free SSL/TLS certificates and intuitive, built-in certificate management. Learn more at - http://bit.ly/2jPopcc.\n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:31:23Z",
+        "duration": 1080
     },
     {
         "service": "lightsail",
         "videoId": "upZOhKhefAs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Lightsail",
+            "WordPress"
+        ],
         "title": "Deploying a WordPress Instance on Amazon Lightsail",
-        "date": "2018/06/05"
+        "description": "Amazon Lightsail is the easiest way to get started using Amazon Web Services. In this video we'll look at how you can deploy a WordPress instance on to Amazon Lightsail in about 5 minutes. We'll walk through using Amazon Lightsail's WordPress blueprint to deploy the site, and then how to access the running instance to customize your installation. Learn more at - https://amzn.to/2sKAwLm.",
+        "date": "2018-06-05T23:03:49Z",
+        "duration": 496
     },
     {
         "service": "lightsail",
         "videoId": "z525kfneC6E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Lightsail",
+            "Docker",
+            "containers",
+            "Docker compose"
+        ],
         "title": "Deploying Docker Containers on Amazon Lightsail",
-        "date": "2018/06/05"
+        "description": "Amazon Lightsail is the quickest way to get your application up and running on AWS. In this video we'll look at using an Amazon Lightsail operating only blueprint to deploy an application using Docker containers. The video will cover how to create a custom launch script that installs Docker, Docker Compose, and runs and Node-based application. Learn more at - https://amzn.to/2JygJcs.",
+        "date": "2018-06-05T23:03:49Z",
+        "duration": 492
     },
     {
         "service": "lightsail",
         "videoId": "M4wzhhiv51Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Lightsail",
+            "DNS Records",
+            "IP"
+        ],
         "title": "Amazon Lightsail: Adding IP and DNS Records",
-        "date": "2017/09/05"
+        "description": "Amazon Lightsail is the easiest way to launch and manage a virtual private server with AWS. Get everything you need to jumpstart your project - compute, storage, and networking - starting at $5/month. Learn more at http://amzn.to/2eIynx3.",
+        "date": "2017-09-05T19:39:52Z",
+        "duration": 88
     },
     {
         "service": "lightsail",
         "videoId": "Ma3xWDXTxRg",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Architecture",
+            "ARC205-R1"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] Scaling Up to Your First 10 Million Users (ARC205-R1)",
-        "date": "2018/11/30"
+        "description": "Cloud computing provides a number of advantages, such as the ability to scale your web application or website on demand. If you have a new web application and want to use cloud computing, you might be asking yourself, \"Where do I start?\" Join us in this session for best practices on scaling your resources from one to millions of users. We show you how to best combine different AWS services, how to make smarter decisions for architecting your application, and how to scale your infrastructure in the cloud.",
+        "date": "2018-11-30T16:32:14Z",
+        "duration": 3041
     },
     {
         "service": "lightsail",
         "videoId": "taMlabDBO58",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon Lightsail",
+            "cloud",
+            "application stacks"
+        ],
         "title": "Amazon Lightsail: The Easiest Way to Get Started on AWS",
-        "date": "2020/03/20"
+        "description": "Amazon Lightsail is the easiest way to get started on AWS. It offers virtual servers, storage, databases and networking, plus a cost-effective, monthly plan.\n\nLearn more about Amazon Lightsail at https://go.aws/2QxLelj\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonLightsail",
+        "date": "2020-03-20T16:17:10Z",
+        "duration": 132
     },
     {
         "service": "lightsail",
         "videoId": "dPdac4LL884",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Storage",
+            "STG324",
+            "AI",
+            "CloudFront",
+            "EC2",
+            "ElastiCache",
+            "RDS",
+            "Route 53",
+            "Auto Scaling",
+            "Elastic Load Balancing"
+        ],
         "title": "AWS re:Invent 2017: Learn to Build a Cloud-Scale WordPress Site That Can Keep Up wit (STG324)",
-        "date": "2017/11/29"
+        "description": "Running WordPress site in the cloud across multiple instances can create a never-ending list of challenges in order to keep your site running optimally. Administration of unpredictable code updates or theme changes can create a never-ending litany of manual or programmatic updates to every single Amazon EC2 instance hosting WordPress. Come join us in this deep dive session, where we detail how you can leverage EC2, Amazon RDS, Amazon ElastiCache, Auto Scaling, Elastic Load Balancing, Amazon Route 53, and Amazon CloudFront. We explore how to take advantage of Amazon Elastic File System (Amazon EFS) and Amazon Simple Storage Service (Amazon S3) as shared storage to deliver a highly available and massively scalable infrastructure that can dynamically scale up or down to automatically adjust to unpredictable traffic demands. We also share best practices, provide performance tuning hints, and describe cost optimization techniques throughout.",
+        "date": "2017-11-29T16:07:30Z",
+        "duration": 3452
     },
     {
         "service": "lightsail",
         "videoId": "hOAwg9jeRzg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Lightsail",
+            "Instance Management"
+        ],
         "title": "Amazon Lightsail: Instance Management",
-        "date": "2017/09/05"
+        "description": "Amazon Lightsail is the easiest way to launch and manage a virtual private server with AWS. Get everything you need to jumpstart your project - compute, storage, and networking - starting at $5/month. Learn more at http://amzn.to/2x7ZBo5.",
+        "date": "2017-09-05T19:39:42Z",
+        "duration": 75
     },
     {
         "service": "lightsail",
         "videoId": "iohBEVf4uIQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Lightsail",
+            "Mongo",
+            "Node",
+            "node.js",
+            "MEAN",
+            "Express",
+            "Angular",
+            "Angular.js",
+            "VPS"
+        ],
         "title": "Deploying a Mean Stack Application on Amazon Lightsail",
-        "date": "2018/06/05"
+        "description": "Amazon Lightsail is the quickest way to get started using Amazon Web Services. In this video we'll show how you can use Amazon Lightsail's MEAN blueprint to deploy a custom application to the cloud. Learn more at - https://amzn.to/2xV8Fyb.",
+        "date": "2018-06-05T23:03:49Z",
+        "duration": 626
     },
     {
         "service": "lightsail",
         "videoId": "BIIKGjJk-Bw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I export an Amazon Lightsail Linux-based instance to EC2?",
-        "date": "2019/12/17"
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/32W0exo\nTobias shows you how to export an Amazon Lightsail Linux-based instance to EC2.",
+        "date": "2019-12-17T15:18:26Z",
+        "duration": 528
     },
     {
         "service": "lightsail",
         "videoId": "2JRixikAXVg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Making Capacity Intuitive",
-        "date": "2018/11/30"
+        "description": "Lightsail now allows you to easily upgrade your instances and storage from Lightsail to EC2 with a simple, guided experience. Now, you can take advantage of Lightsail's easy-to-use platform and low, predictable pricing to launch, manage and scale your application, and then move to EC2 as your needs grow. Learn more - https://aws.amazon.com/lightsail/features/upgrade-to-ec2/. \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:51:34Z",
+        "duration": 1045
     }
 ]

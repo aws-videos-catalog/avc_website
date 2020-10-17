@@ -2,145 +2,480 @@
     {
         "service": "s3_glacier",
         "videoId": "rHeTn9pHNKo",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Storage",
+            "STG203-R2"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 2] Best Practices for Amazon S3 and Amazon S3 Glacier (STG203-R2)",
-        "date": "2018/12/01"
+        "description": "Learn best practices for Amazon S3 performance optimization, security, data protection, storage management, and much more. In this session, we look at common Amazon S3 use cases and ways to manage large volumes of data within Amazon S3. We discuss the latest performance improvements and how they impact previous guidance. We also talk about the Amazon S3 data resilience model and how architecture for the AWS Regions and Availability Zones impact architecture for fault tolerance.",
+        "date": "2018-12-01T21:28:52Z",
+        "duration": 3714
     },
     {
         "service": "s3_glacier",
         "videoId": "SUWqDOnXeDw",
-        "title": "AWS re:Invent 2017: Deep Dive on Amazon S3 & Amazon Glacier Storage Management with (STG311)",
-        "date": "2017/11/28"
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Fisher",
+            "Storage",
+            "STG311",
+            "AI",
+            "Lex",
+            "Macie",
+            "Analytics",
+            "Management Tools",
+            "Security"
+        ],
+        "title": "AWS re:Invent 2017: Deep Dive on Amazon S3 & Amazon Glacier Storage Management with  (STG311)",
+        "description": "As your business grows, you gain more and more data. When managed appropriately, you can make this data a strategic asset to your organization. In this session, you'll learn how to use storage management tools for end to end management of your storage, helping you organize, analyze, optimize and protect your data. You'll see how S3 Analytics - Storage Class Analysis helps you set more intelligent Lifecycle Policies to reduce TCO; Object Tagging gives you more management flexibility; Cross-Region Replication provides efficient data movement; Amazon Macie helps you ensure data security; and much more. Then, Paul Fisher, Technical Fellow at Alert Logic, will demonstrate how his organization uses S3 storage management features in their infrastructure.",
+        "date": "2017-11-28T17:47:52Z",
+        "duration": 3639
     },
     {
         "service": "s3_glacier",
         "videoId": "5l9Hw5UYskM",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Storage",
+            "STG303",
+            "Glacier"
+        ],
         "title": "AWS re:Invent 2017: Deep Dive on Amazon Glacier (STG303)",
-        "date": "2017/11/01"
+        "description": "Learn how to build an archive in Amazon Glacier, which provides cost-effective retention and compliance options and exciting new features.",
+        "date": "2017-12-01T16:13:47Z",
+        "duration": 3781
     },
     {
         "service": "s3_glacier",
         "videoId": "9_vScxbIQLY",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Storage",
+            "STG301",
+            "AI",
+            "Glacier"
+        ],
         "title": "AWS re:Invent 2017: Deep Dive on Amazon S3 & Amazon Glacier Infrastructure, with spe (STG301)",
-        "date": "2017/11/29"
+        "description": "Learn from our engineering experts how we've designed Amazon S3 and Amazon Glacier to be durable, available, and massively scalable. Hear how Sprinklr architected their environment for the ultimate in high availability for their mission-critical applications. In this session, we'll discuss AWS Region and Availability Zone architecture, storage classes, built-in and on-demand data replication, and much more.",
+        "date": "2017-11-29T16:09:04Z",
+        "duration": 3592
     },
     {
         "service": "s3_glacier",
         "videoId": "OvoTPdm9cck",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Storage & Content Delivery",
+            "STG203",
+            "Lynn Langit - Lynn Langit Consulting",
+            "Introductory (200 level)"
+        ],
         "title": "AWS re:Invent 2015 | (STG203) Storage Management & Backup Using Amazon S3 & Amazon Glacier",
-        "date": "2015/10/08"
+        "description": "Learn more about AWS: http://amzn.to/1JVI6Se\nThis demo-filled session explores how you can use Amazon S3 and Amazon Glacier to store your data in the cloud. By walking through different use cases, we show you how to determine which service is the best fit for your storage requirements. We share lots of Amazon Glacier tips and tricks, and demo features you may not be aware of, such as lifecycle policies, versioning, and website hosting. You see best security practices in action, including correct usage of AWS Identity and Access Management (IAM) users/groups and security policies with your storage implementation. Typical use cases include using AWS storage services for data backup, archiving, data synchronization, and as a file server in the cloud.  Session sponsored by CloudBerry Lab.",
+        "date": "2015-10-08T23:01:17Z",
+        "duration": 3014
     },
     {
         "service": "s3_glacier",
         "videoId": "QZpLNgFEWBo",
-        "title": "AWS re:Invent 2017: Deep Dive on Data Archiving in Amazon S3 & Amazon Glacier, with (STG304)",
-        "date": "2017/12/07"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Storage",
+            "STG304"
+        ],
+        "title": "AWS re:Invent 2017: Deep Dive on Data Archiving in Amazon S3 & Amazon Glacier, with  (STG304)",
+        "description": "Learn about ways to archive data for compliance or cost savings, and balance retrieval speed and cost to fit your specific use case. We examine concepts such as active archiving (archive storage with fast retrieval times), compliance archiving, and many more.",
+        "date": "2017-12-07T23:52:51Z",
+        "duration": 3573
     },
     {
         "service": "s3_glacier",
         "videoId": "nLyppihvhpQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Mai-Lan Tomsen Bukovec",
+            "Amazon S3",
+            "Amazon Glacier",
+            "reinvent 2018",
+            "re:Invent 2018"
+        ],
         "title": "AWS re:Invent 2018 – Building for Durability in Amazon S3 and Glacier with Mai-Lan Tomsen Bukovec",
-        "date": "2018/12/16"
+        "description": "Watch Mai-Lan Tomsen Bukovec, Vice President of Amazon S3 and Glacier, explain how Amazon S3 and Glacier engineer for durability at AWS scale, building unique architectures developed upon the learning of almost 13 years of real-world production experience in cloud storage. Learn more at - https://amzn.to/2SK6D9u.\n\nAmazon S3 and Glacier are designed for 99.999999999% (11 9's) of durability, and store many tens of trillions of objects for millions of applications for companies all around the world. Mai-Lan talks about how S3 and Glacier build systems and a culture of durability to store and protect data for use cases such as data lakes, mobile applications, backup and restore, archive, enterprise business applications, IoT devices, media and imagery, and compliance records.",
+        "date": "2018-12-17T01:37:36Z",
+        "duration": 751
     },
     {
         "service": "s3_glacier",
         "videoId": "OT1Ggo4E2Xo",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Storage & Content Delivery",
+            "STG312",
+            "Henry Zhang - Amazon",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (STG312) Amazon Glacier Deep Dive: Cold Data Storage in AWS",
-        "date": "2015/10/12"
+        "description": "This session explores some of the key features of Amazon Glacier, including security, durability, and configuration for storing compliance and regulatory data. It covers best practices for managing your cold data, including ingest, retrieval, and security controls. Other topics include: how to optimize storage, upload, and retrieval costs; how to identify the most applicable workloads; and recommended optimizations based on a few sample use cases from a number of industry verticals.",
+        "date": "2015-10-12T16:08:37Z",
+        "duration": 3313
     },
     {
         "service": "s3_glacier",
         "videoId": "k32FaqM40rw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "storage",
+            "enterprise",
+            "storage on the cloud",
+            "AWS-storage-gateway",
+            "Gateway-VTL",
+            "ajith-Kuttai-Venkatraman",
+            "STG202",
+            "stg"
+        ],
         "title": "Storage TCO using AWS Storage Gateway, Amazon S3 and Amazon Glacier (STG202) | AWS re:Invent 2013",
-        "date": "2013/10/26"
+        "description": "AWS Storage Gateway allows you to reduce capital costs and simplify operations compared to traditional on-premises storage solutions. This session covers the set of use cases you can address with AWS Storage Gateway and introduces the newly launched Gateway-VTL . Gateway-VTL provides a cost-effective, scalable, and durable virtual tape infrastructure that allows you to eliminate the challenges associated with owning and operating an on-premises physical tape infrastructure.",
+        "date": "2013-11-26T20:38:51Z",
+        "duration": 2266
     },
     {
         "service": "s3_glacier",
         "videoId": "yUqe_r-fYaE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws storage gateway",
+            "aws file gateway. hybrid cloud storage",
+            "aws storage gateway for files",
+            "aws storage",
+            "storage"
+        ],
         "title": "Automating restores of Amazon S3 Glacier objects through AWS Storage Gateway",
-        "date": "2019/10/06"
+        "description": "Learn more about File Gateway - https://amzn.to/34yq2jF\nWatch this quick demonstration video (as part of the step by step AWS storage blog - https://amzn.to/33ny8vn) to understand how utilizing Lambda functions with Amazon CloudWatch Logs and File Gateway, enables you to automate the restore process of Amazon S3 Glacier objects to the AWS Storage Gateway.",
+        "date": "2019-11-06T18:42:27Z",
+        "duration": 204
     },
     {
         "service": "s3_glacier",
         "videoId": "swerCFSoXmw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "amazon glacier",
+            "storage",
+            "glacier objects"
+        ],
         "title": "AWS Knowledge Center Videos: How do I restore Glacier objects with restore tiers in the S3 Console?",
-        "date": "2017/09/20"
+        "description": "Find more details in the AWS Knowledge Center:  https://aws.amazon.com/premiumsupport/knowledge-center/restore-glacier-tiers/\n\nHenry, an AWS Product Manager, shows you how to restore Amazon Glacier objects with restore in the S3 Console.",
+        "date": "2017-09-20T15:33:50Z",
+        "duration": 306
     },
     {
         "service": "s3_glacier",
         "videoId": "aOMxvVpP76E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "STG209",
+            "Henry Zhang",
+            "Introductory (200 Level)",
+            "Storage"
+        ],
         "title": "AWS re:Invent 2016: Strategic Planning for Long-Term Data Archiving with Amazon Glacier (STG209)",
-        "date": "2016/12/02"
+        "description": "Without careful planning, data management can quickly turn complex with a runaway cost structure. Enterprise customers are turning to the cloud to solve long-term data archive needs such as reliability, compliance, and agility while optimizing the overall cost. Come to this session and hear how AWS customers are using Amazon Glacier to simplify their archiving strategy. Learn how customers architect their cloud archiving applications and share integration to streamline their organization's data management and establish successful IT best practices.",
+        "date": "2016-12-03T03:50:24Z",
+        "duration": 2978
     },
     {
         "service": "s3_glacier",
         "videoId": "_cwpengIjkw",
+        "tags": [
+            "Archiving",
+            "Amazon S3",
+            "Amazon Web Services",
+            "Glacier",
+            "S3",
+            "S3 data",
+            "AWS S3",
+            "cloud storage",
+            "cloud archiving"
+        ],
         "title": "Archiving Amazon S3 Data to Amazon Glacier",
-        "date": "2012/10/13"
+        "description": "Amazon S3 enables you to utilize Amazon Glacier's extremely low-cost storage service as a storage option for data archival. Watch this video to learn how you can get started today archiving your Amazon S3 data to Amazon Glacier.  Learn more: http://aws.amazon.com/s3",
+        "date": "2012-11-14T04:43:31Z",
+        "duration": 332
     },
     {
         "service": "s3_glacier",
         "videoId": "dfr9mBcDJ-U",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "STG302",
+            "Masataka Kubo",
+            "Advanced (300 Level)",
+            "Storage"
+        ],
         "title": "AWS re:Invent 2016: Deep Dive on Amazon Glacier (STG302)",
-        "date": "2016/12/02"
+        "description": "Not just for archiving or compliance use cases, Amazon Glacier accommodates customers simply looking to replace their on-premises long term storage with a cost efficient, durable, cloud option, from which they can easily and quickly access their data when they need to. This session will introduce newly launched features for Amazon Glacier, review the current service feature set, and share the global data center shut down and storage strategy for Sony DADC New Media Solutions (NMS). NMS is Sony’s digital servicing division providing global digital distribution, linear playout and white label OTT/Commerce solutions for clients such as BBC Worldwide, NBCUniversal, Sony Playstation, and Funimation Entertainment.\n\nHear from Andy Shenkler, NMS’s Chief Technology and Solutions Officer as he talks about the key factors that drove the organization’s decision to move away from tape and go towards the cloud and out of the infrastructure business overall. Learn more about the impact and operational practices inside a world class digital supply chain as they were able to move over 20 petabytes of data, over 1M hours of video, to the cloud and never looked back.",
+        "date": "2016-12-03T03:24:09Z",
+        "duration": 2895
     },
     {
         "service": "s3_glacier",
         "videoId": "WS2HbxjauIc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Archive",
+            "Backup & Disaster Recovery",
+            "Advanced",
+            "Amazon Glacier",
+            "TCO",
+            "Storage",
+            "Media Production & Distribution",
+            "Media Processing",
+            "Media Ingest",
+            "Media Content Delivery",
+            "Backup",
+            "Sony Corporation of America",
+            "David Rosen",
+            "Colin Lazier"
+        ],
         "title": "AWS re:Invent 2014 | (BAC307) Cold Data Playbook: Build Ultimate Archive Solutions - Amazon Glacier",
-        "date": "2014/10/17"
+        "description": "In this session we will present some of the key features of Glacier including security, durability and price.  You will learn best practices for managing your cold data, including ingest, retrieval and security controls. We will also discuss how to optimize the storage, upload and retrieval costs and help you identify the most applicable workloads and recommend optimizations based on a few sample use cases.",
+        "date": "2014-11-17T23:58:27Z",
+        "duration": 2888
     },
     {
         "service": "s3_glacier",
         "videoId": "Xy_108rNaKs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I retrieve my archive from Amazon Glacier vault using AWS CLI?",
-        "date": "2018/10/22"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2MtIBQI\nRitish, an AWS Cloud Support Engineer, shows you how to retrieve your archive from Amazon Glacier vault using the AWS CLI.",
+        "date": "2018-10-22T14:41:59Z",
+        "duration": 178
     },
     {
         "service": "s3_glacier",
         "videoId": "DKSFRcM-XCc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "data lakes",
+            "object storage",
+            "query-in-place",
+            "analytics",
+            "SQL"
+        ],
         "title": "S3 Select and S3 Glacier for Query in Place",
-        "date": "2019/03/14"
+        "description": "Learn more about  Amazon S3 at – https://amzn.to/2UAGco5 \nIncrease query performance and lower costs with S3 Select and S3 Glacier Select. Use these S3 features to query object metadata and increase query performance by up to 400%.",
+        "date": "2019-03-14T16:00:01Z",
+        "duration": 232
     },
     {
         "service": "s3_glacier",
         "videoId": "bfDpK45Faa0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "126393"
+        ],
         "title": "Deep Dive on Object Storage: Amazon S3 and Amazon Glacier (126393)",
-        "date": "2017/06/19"
+        "description": "In this session, storage experts will walk you through Amazon S3 and Amazon Glacier, bulk data repositories that can deliver 99.999999999% durability and scale past trillions of objects worldwide - with cost points competitive against tape archives. Learn about the different ways you can accelerate data transfer into S3 and get a close look at new tools to secure and manage your data more efficiently. See how Amazon Athena runs \"query in place\" analytics on your data and hear about the new expedited and bulk retrievals from Amazon Glacier. Learn how AWS customers have built solutions that turn their data from a cost into a strategic asset, and bring your toughest questions straight to our experts.",
+        "date": "2017-06-19T20:21:57Z",
+        "duration": 3132
     },
     {
         "service": "s3_glacier",
         "videoId": "VZYYjVw9xnA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing"
+        ],
         "title": "System z Mainframe Data with Amazon S3 and Amazon Glacier (ENT107) | AWS re:Invent 2013",
-        "date": "2013/11/25"
+        "description": "(Presented by CA Technologies)  There are a lot of mainframes still out there, with a lot of data to back up and archive. CA Technologies (CA) is the largest mainframe software provider in the world. This session provides an overview and demo of CA's Cloud Storage for System z solution used for mainframe storage backup to the AWS cloud. Traditional mainframe storage solutions are expensive and complex. For IT Directors, VPs of IT, VPs of Storage, and Storage Administrators, this session discusses how CA has partnered with AWS and Riverbed to provide an innovative solution that provides a low cost and secure solution for efficient backup and recovery of critical mainframe data.\nYou see a demo of Chorus managing data flow from the mainframe to the cloud using the Riverbed Whitewater appliance. You also hear from a demanding customer, Mark Behrje, Sr. Director Global Information Services, CA Technologies, about how they implemented quickly, how much they've reduced their backup TCO, and lessons learned.",
+        "date": "2013-11-25T19:45:28Z",
+        "duration": 2164
     },
     {
         "service": "s3_glacier",
         "videoId": "HDbl4MZQhtw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS in the Public Sector",
+            "Public Sector"
+        ],
         "title": "Deep Dive on S3 Glacier Deep Archive",
-        "date": "2019/06/20"
+        "description": "Amazon S3 Glacier Deep Archive is a new storage class that provides secure, durable object storage for long-term data retention and digital preservation. S3 Glacier Deep Archive is designed for customers that retain data sets for 7-10 years or longer to meet business or regulatory compliance requirements, such as organizations in media and entertainment, financial services, healthcare, and public sectors. At just $0.00099 per GB-month (less than one-tenth of one cent, or $1 per TB-month), S3 Glacier Deep Archive offers the lowest cost storage class in the cloud, at prices significantly less expensive than storing and maintaining data in on-premises magnetic tape libraries and/or archiving data offsite.",
+        "date": "2019-06-20T21:10:10Z",
+        "duration": 2739
     },
     {
         "service": "s3_glacier",
         "videoId": "WXLxc2wRCwY",
+        "tags": [
+            "Amazon Glacier",
+            "Glacier",
+            "Cloud Archive",
+            "Cold Data",
+            "Data Archive",
+            "Data Archiving",
+            "Archive",
+            "Cloud Storage"
+        ],
         "title": "AWS re: Invent STG 302: Archive in the Cloud with Amazon Glacier",
-        "date": "2012/12/03"
+        "description": "This presentation explores the rapidly growing amount of infrequently accessed (or \"cold\") data being stored by enterprises, and how IT organizations can use the AWS Cloud to dramatically reduce the cost of storing that data while improving durability. The talk gives a technical overview of Amazon Glacier, including coding samples, and tips and tricks for data indexing and reducing cost.",
+        "date": "2012-12-03T21:50:16Z",
+        "duration": 2315
     },
     {
         "service": "s3_glacier",
         "videoId": "2_8ZK_64hBc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - Amazon Glacier Select & S3 Select",
-        "date": "2017/12/08"
+        "description": "Amazon S3 Select: Most applications have to retrieve the complete set of objects and then filter out just the required data. With Amazon S3 Select, applications can offload the heavy lifting of filtering and accessing data inside objects to the Amazon S3 service to retrieve only a subset of data from an S3 object instead of retrieving the entire object. Learn more at - http://amzn.to/2BUlCVV.  By reducing the volume of data that has to be loaded and processed by your analytics applications, S3 Select can improve the performance of most applications that frequently access data from S3 by up to 400%. \n\nAmazon Glacier Select: Amazon Glacier Select is a new way to query archived data in Amazon Glacier. Amazon Glacier Select allows queries to run directly on data stored in Amazon Glacier, retrieving only the data you need out of your archives to use for analytics. This allows you to reduce total cost of ownership while massively extending your data lake into cost-effective archive storage. Learn more at- https://aws.amazon.com/about-aws/whats-new/2017/11/amazon-glacier-select-makes-big-data-analytics-of-archive-data-possible/.\n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:34:52Z",
+        "duration": 1061
     },
     {
         "service": "s3_glacier",
         "videoId": "OUTOEX4zbD4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Amazon Glacier",
+            "Data Storage"
+        ],
         "title": "Webinar: Introduction to Amazon Glacier",
-        "date": "2012/09/27"
+        "description": "Learn more about Amazon Glacier, an extremely low cost, secure, highly durable, and easy to use storage service in the AWS cloud that is optimized for data archiving and backup. We'll explain how Amazon Glacier works and also walk through some best practices and tips to get the most out of the service.  Questions from the audience are answered at the end of the webinar. Learn more: http://aws.amazon.com/glacier/",
+        "date": "2012-09-27T17:28:55Z",
+        "duration": 3358
     },
     {
         "service": "s3_glacier",
         "videoId": "QEDxNocWh3M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Spotlight",
+            "Introductory",
+            "Amazon S3",
+            "Storage",
+            "Architect",
+            "Technical Decision Maker",
+            "Startup",
+            "Public Sector",
+            "Partner: Technology",
+            "Partner: Consulting",
+            "IT Executive",
+            "Enterprise",
+            "Developer",
+            "Mai-Lan Tomsen Bukovec",
+            "SPOT209"
+        ],
         "title": "AWS re:Invent 2014 | (SPOT209) State of the Union: AWS Simple Storage and Glacier Services",
-        "date": "2014/11/17"
+        "description": "General Manager of Amazon Simple Storage Service, Mai-Lan Tomsen Bukovec, will share our learnings running and growing the AWS storage services.  You will hear the interesting ways customers are using S3 and Glacier, learn about the new Amazon features that we launched this year, and how we think about evolving the Storage services.",
+        "date": "2014-11-18T01:18:04Z",
+        "duration": 2514
     }
 ]

@@ -2,109 +2,440 @@
     {
         "service": "support",
         "videoId": "YZS_R12YrCo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Builders",
+            "Builder",
+            "Cloud Computing",
+            "Business Development",
+            "Solutions Architecture",
+            "Solutions Architect",
+            "Solution Architect",
+            "S3",
+            "EC2",
+            "Women in tech",
+            "ProServe",
+            "Microsoft",
+            "Google",
+            "VMWare",
+            "VM Ware",
+            "RedHat",
+            "Red Hat",
+            "IBM",
+            "NTT",
+            "Docomo",
+            "Sarah Farrell",
+            "AWS ANZ",
+            "Australia AWS",
+            "Amazon Web Services Australia",
+            "AWS New Zealand",
+            "Amazon web services New Zealand",
+            "TAM",
+            "Technical Account Manager",
+            "Enterprise Support"
+        ],
         "title": "Meet Sarah Farrell, Head of Enterprise Support at AWS Australia & New Zealand",
-        "date": "2019/09/12"
+        "description": "For career opportunities with AWS, visit – https://amzn.to/2m7toJl \nMeet Sarah Farrell, Head of ANZ Enterprise Support team at AWS, as she shares how we optimize the benefits of cloud for our customers. If you love challenging technology boundaries to help customers reach their business goals like us, come build with us.",
+        "date": "2019-09-12T17:30:31Z",
+        "duration": 156
     },
     {
         "service": "support",
         "videoId": "GC3bWcFFZTo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "cloud support engineer",
+            "recruiting",
+            "AWS careers"
+        ],
         "title": "What's it like to work at Amazon Web Services? Meet our Cloud Support Engineers.",
-        "date": "2018/09/04"
+        "description": "Want to be part of the team behind the world's most comprehensive and broadly adopted cloud platform? Go to Amazon Jobs to see our open positions - https://amzn.to/2LZHaoy.",
+        "date": "2018-09-04T23:21:48Z",
+        "duration": 203
     },
     {
         "service": "support",
         "videoId": "BTPWdseB_pg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon jobs",
+            "Linux",
+            "DevOps",
+            "Sys Admin",
+            "tech jobs",
+            "Dublin"
+        ],
         "title": "Meet Theodoros, AWS Premium Support, Dublin",
-        "date": "2020/03/11"
+        "description": "AWS Premium Support provide the tools, technology, people and processes designed to help our customers optimise performance, lower costs and innovate faster. Come build the future with us. \n\nLearn more about AWS Careers in Dublin at http://bit.ly/2TY1Tza\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #AWSCareers",
+        "date": "2020-03-11T16:12:27Z",
+        "duration": 88
     },
     {
         "service": "support",
         "videoId": "bHJVvrHo8E0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon jobs",
+            "Linux",
+            "DevOps",
+            "Sys Admin",
+            "tech jobs",
+            "Dublin"
+        ],
         "title": "Meet Allan, AWS Premium Support, Dublin",
-        "date": "2020/03/11"
+        "description": "AWS Premium Support provide the tools, technology, people and processes designed to help our customers optimise performance, lower costs and innovate faster. Come build the future with us. \n\nLearn more about AWS Careers in Dublin at http://bit.ly/2IzKWG3\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #AWSCareers",
+        "date": "2020-03-11T16:03:55Z",
+        "duration": 130
     },
     {
         "service": "support",
         "videoId": "xMRGY196sjY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon jobs",
+            "Linux",
+            "DevOps",
+            "Sys Admin",
+            "tech jobs",
+            "Dublin"
+        ],
         "title": "Meet Alexandre, AWS Premium Support, Dublin",
-        "date": "2020/03/11"
+        "description": "AWS Premium Support provide the tools, technology, people and processes designed to help our customers optimise performance, lower costs and innovate faster. Come build the future with us. \n\nLearn more about AWS Careers in Dublin at http://bit.ly/2TGhmow\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #AWSCareers",
+        "date": "2020-03-11T16:04:51Z",
+        "duration": 78
     },
     {
         "service": "support",
         "videoId": "Ar3Q-cJehyg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Support",
+            "support",
+            "technical support",
+            "HTC",
+            "Dow Jones",
+            "Nasdaq OMX",
+            "NTT Docomo",
+            "Merck",
+            "Adobe",
+            "customer support",
+            "getting started",
+            "technical help",
+            "enterprise",
+            "business",
+            "enterprise support",
+            "business support",
+            "animation",
+            "updated animation"
+        ],
         "title": "AWS Support - A Customer-centric Organization",
-        "date": "2014/03/04"
+        "description": "A short overview of the features and capabilities of AWS Support, a one-on-one, fast-response support channel that is staffed 24x7x365 with experienced and technical support engineers. You'll hear from our customers themselves, and learn about the founding principles that were used to build a truly customer-centric support organization.",
+        "date": "2014-03-04T21:34:17Z",
+        "duration": 255
     },
     {
         "service": "support",
         "videoId": "lRXjESfmlhA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon jobs",
+            "Linux",
+            "DevOps",
+            "Sys Admin",
+            "tech jobs",
+            "Dublin"
+        ],
         "title": "Meet Luis, AWS Premium Support, Dublin",
-        "date": "2020/03/11"
+        "description": "AWS Premium Support provide the tools, technology, people and processes designed to help our customers optimise performance, lower costs and innovate faster. Come build the future with us. \n\nLearn more about AWS Careers in Dublin at http://bit.ly/2TSHUSB\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #AWSCareers",
+        "date": "2020-03-11T16:10:44Z",
+        "duration": 90
     },
     {
         "service": "support",
         "videoId": "KimOlqNxs3w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS Business Support",
-        "date": "2016/09/30"
+        "description": "Learn more - http://amzn.to/2da9w0K\nWhen the AWS platform landed at your business, it changed the rules of the game. Today, you pick the infrastructure you need, when you need it.You use it to scale your operation. You innovate faster, and at lower risk, than ever.But chances are that you’ve reached a point where, frankly, you could do with some help.\n\nIntroducing AWS Business Support. Get expert advice, configuration help and 24/7 support from specialists who do nothing but build and optimize clouds all day.",
+        "date": "2016-09-30T15:53:08Z",
+        "duration": 94
     },
     {
         "service": "support",
         "videoId": "BkdaVZlkwb0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon jobs",
+            "Linux",
+            "DevOps",
+            "Sys Admin",
+            "tech jobs",
+            "Dublin"
+        ],
         "title": "Meet Kameliya, AWS Premium Support, Dublin",
-        "date": "2020/03/11"
+        "description": "AWS Premium Support provide the tools, technology, people and processes designed to help our customers optimise performance, lower costs and innovate faster. Come build the future with us. \n\nLearn more about AWS Careers in Dublin at http://bit.ly/2vJECZX\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #AWSCareers",
+        "date": "2020-03-11T16:06:02Z",
+        "duration": 106
     },
     {
         "service": "support",
         "videoId": "zFKtuaCUvY8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Linux",
+            "DevOps",
+            "Sys Admin",
+            "tech jobs",
+            "Dublin",
+            "Amazon jobs"
+        ],
         "title": "Welcome to AWS Premium Support, Dublin",
-        "date": "2020/03/11"
+        "description": "AWS Premium Support provide the tools, technology, people and processes designed to help our customers optimise performance, lower costs and innovate faster. Come build the future with us. \n\nLearn more about AWS Careers in Dublin at http://bit.ly/2xmOn0l\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #AWSCareers",
+        "date": "2020-03-11T15:59:48Z",
+        "duration": 142
     },
     {
         "service": "support",
         "videoId": "tj1kGufflgk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon",
+            "Builders",
+            "Builder",
+            "Business Development",
+            "Media",
+            "Entertainment",
+            "Solutions Architecture",
+            "Solutions Architect",
+            "SA",
+            "SAs",
+            "Solution Architect",
+            "Storage",
+            "S3",
+            "EC2",
+            "Women in tech",
+            "Diversity",
+            "Head of",
+            "Inclusion",
+            "D&I",
+            "I&D",
+            "STEM",
+            "Services",
+            "Asia",
+            "Professional Services",
+            "ProServe",
+            "TAM",
+            "Oracle",
+            "Microsoft",
+            "Google",
+            "VMWare",
+            "VM Ware",
+            "RedHat",
+            "Red Hat",
+            "IBM",
+            "Tata",
+            "India",
+            "Amazon Internet Services Private Limited",
+            "Satheesh L Heddese"
+        ],
         "title": "Meet Satheesh L Heddese, Head of Premium Support team in India",
-        "date": "2020/08/19"
+        "description": "Here at Amazon Internet Services Private Limited (AISPL), our Premium Support team continue to hire & develop the best, to deliver the highest standards for our customers. Meet Satheesh L Heddese, Head of Premium Support team in India, as he shares more.\n\nLearn more about AWS Careers at - https://bit.ly/2PGiRAr\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSCareers",
+        "date": "2020-08-19T20:27:17Z",
+        "duration": 128
     },
     {
         "service": "support",
         "videoId": "DFt9InfMDHc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Korea",
+            "KR",
+            "Hankuk",
+            "Amazon Cloud",
+            "Cloud Computing",
+            "Storage",
+            "Database",
+            "Network",
+            "Engineer",
+            "TAM",
+            "Technical Account Manager",
+            "Tech Account Manager",
+            "Tech Account",
+            "EY",
+            "PwC",
+            "SalesForce",
+            "Facebook",
+            "NTT Data",
+            "Rackspace",
+            "S3",
+            "Enterprise Support",
+            "Enterprise Team",
+            "Enterprise",
+            "Samsung",
+            "LG",
+            "Samsung SDS"
+        ],
         "title": "Meet our Enterprise Support Team & Technical Account Manager at AWS Korea",
-        "date": "2018/12/04"
+        "description": "For career opportunities with AWS Korea, visit - https://amzn.to/2Z1G0zB.\nTechnical Account Managers or TAMs at AWS are our Enterprise Support builders with strong technical depth, enthusiastically keeping our customers’ AWS environments operationally healthy. This is a team that holds close relationships with our customers, understanding their business and operational needs, as well as various technical challenges. Delivering success is what we do. Come connect with us.",
+        "date": "2018-12-04T16:18:59Z",
+        "duration": 122
     },
     {
         "service": "support",
         "videoId": "iAsElIaspHM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "APN",
+            "Baseline"
+        ],
         "title": "Baseline Bits 02: AWS Business Support on Production AWS Accounts",
-        "date": "2019/07/24"
+        "description": "Learn more about the baseline! Visit the APN Technical Baseline Review page: https://amzn.to/2Y7ImfS\nThis episode covers the AWS Support requirement of the Technical Baseline Review (‘baseline’) and the benefits AWS Business Support offers to AWS Partner Network (APN) Partners and customers.\n\nThe baseline requires AWS Business Support or greater to be enabled on all production AWS accounts. These include accounts that are operated as part of a managed service, accounts that are essential to the proper functioning of a SaaS or other 'as-a-service' offerings, accounts from which customer-facing collateral are distributed (e.g. sharing AMIs), and accounts that contain customer data. \n\nThe baseline is a review of an APN Partner’s solution against a set of best practices that are most critical for partner and customer success. Passing the baseline is required to qualify APN Technology Partners for APN Advanced Tier.\n\nFor more information about AWS Business Support and it’s benefits, please visit: https://aws.amazon.com/premiumsupport/\n\nLearn more about the baseline! Watch Baseline Bits 01: What is the Technical Baseline Review? https://youtu.be/oCkcOxx96-Y.\n\nPartners may request a baseline review through APN Partner Central: https://aws.amazon.com/partners/apn-portal/",
+        "date": "2019-07-24T16:56:12Z",
+        "duration": 244
     },
     {
         "service": "support",
         "videoId": "7uXCchOTdMM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon jobs",
+            "Linux",
+            "DevOps",
+            "Sys Admin",
+            "tech jobs",
+            "Dublin"
+        ],
         "title": "Meet Robert, AWS Premium Support, Dublin",
-        "date": "2020/03/11"
+        "description": "AWS Premium Support provide the tools, technology, people and processes designed to help our customers optimise performance, lower costs and innovate faster. Come build the future with us. \n\nLearn more about AWS Careers in Dublin at http://bit.ly/2TVe2oI\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #AWSCareers",
+        "date": "2020-03-11T16:11:42Z",
+        "duration": 87
     },
     {
         "service": "support",
         "videoId": "kTmt4OQCh_I",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Autodesk",
+            "Angelo Gouvis"
+        ],
         "title": "AWS Support - In Autodesk's Words",
-        "date": "2018/07/19"
+        "description": "Learn more about AWS Support at - https://amzn.to/2L9Kb9N.\nAngelo Gouvis, Senior Manager of Cloud Infrastructure at Autodesk, shares the impact AWS Support has made on Autodesk's business. AWS Support has had a transformation effect for Autodesk, freeing the company to focus on its core business. From accelerated adoption and increased innovation, through risk mitigation and improved performance, customers are leveraging AWS Support to help enable the success of their infrastructure, applications, games, and solutions.",
+        "date": "2018-07-19T15:14:10Z",
+        "duration": 157
     },
     {
         "service": "support",
         "videoId": "_K18oF65F6s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Support",
+            "customer obsession",
+            "AWS Support organization",
+            "Enterprise Support",
+            "AWS Enterprise Support",
+            "AWS Customer support"
+        ],
         "title": "AWS Support - In Our Customers’ Words",
-        "date": "2016/02/25"
+        "description": "Learn more: https://aws.amazon.com/premiumsupport/\n\nCustomers share the impact AWS Support has made on their business. From accelerated adoption and increased innovation, through risk mitigation and improved performance, customers are leveraging AWS Support to help enable the success of their infrastructure, applications, games, and solutions.",
+        "date": "2016-02-25T18:33:15Z",
+        "duration": 187
     },
     {
         "service": "support",
         "videoId": "qQdoXFU8TPo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Skyscanner",
+            "AWS Support",
+            "aws premium support"
+        ],
         "title": "AWS Support and Skyscanner",
-        "date": "2018/03/14"
+        "description": "Learn more at - http://amzn.to/2twRiRU. \nPaul Gillespie, Senior Principal Engineer at Skyscanner, shares the impact AWS Support has made on Skyscanner's  business. From accelerated adoption and increased innovation, through risk mitigation and improved performance, customers are leveraging AWS Support to help enable the success of their infrastructure, applications, games, and solutions.",
+        "date": "2018-03-14T19:42:40Z",
+        "duration": 145
     },
     {
         "service": "support",
         "videoId": "S4Vbfv72HSw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Enteprise Support"
+        ],
         "title": "AWS Enterprise Support: Customer Obsession at Work",
-        "date": "2018/09/06"
+        "description": "Learn more about AWS Enterprise Support at - https://amzn.to/2M15xT8.\nAWS Enterprise Support offers a combination of technology, people, and proactive programs to help customers achieve success with AWS. AWS Technology Account Managers (TAMs) help customers work toward business outcomes and often help customers reduce costs along the way, manage risk, avoid downtime, and be able to focus on their core business objectives.",
+        "date": "2018-09-06T15:56:25Z",
+        "duration": 166
     }
 ]

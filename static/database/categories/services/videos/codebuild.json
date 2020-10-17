@@ -2,31 +2,101 @@
     {
         "service": "codebuild",
         "videoId": "iEhKcDaNYrs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS CodeBuild",
+            "CI/CD Tools",
+            "Developer Tools",
+            "Build Tools"
+        ],
         "title": "AWS CodeBuild Overview",
-        "date": "2019/02/28"
+        "description": "Learn more about AWS CodeBuild at – https://amzn.to/2BZShMd\nAWS CodeBuild is a fully managed continuous integration service that compiles source code, runs tests, and produces software packages that are ready to deploy. With CodeBuild, you don’t need to provision, manage, and scale your own build servers. CodeBuild scales continuously and processes multiple builds concurrently, so your builds are not left waiting in a queue. You can get started quickly by using prepackaged build environments, or you can create custom build environments that use your own build tools. With CodeBuild, you are charged by the minute for the compute resources you use.",
+        "date": "2019-02-28T17:00:06Z",
+        "duration": 93
     },
     {
         "service": "codebuild",
         "videoId": "6_6i8-XkoWk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon",
+            "microsoft",
+            "Build",
+            ".Net",
+            ".Net core",
+            "Application",
+            "Automate",
+            "managed"
+        ],
         "title": "AWS for Microsoft Workloads: AWS CodeBuild and .NET Core Apps",
-        "date": "2018/06/18"
+        "description": "For more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2M1FKKH.\nAWS CodeBuild is a fully managed build service that compiles source code, runs tests, and produces software packages that are ready to deploy. With CodeBuild, you don’t need to provision, manage, and scale your own build servers. This video shows you how to use AWS CodeBuild to build you .Net Core Apps.",
+        "date": "2018-06-18T23:30:05Z",
+        "duration": 885
     },
     {
         "service": "codebuild",
         "videoId": "xShLxQ1t27I",
-        "title": "GameStop/Pariveda: Building Smart Deployment Pipelines with Lambda and Codebuild on AWS",
-        "date": "2017/09/19"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "TMA",
+            "Pariveda",
+            "Gamestop",
+            "AWS Lambda",
+            "This is My Architecture",
+            "AWS CodeBuild",
+            "Amazon API Gateway",
+            "AWS Deep Learning AMIs",
+            "AWS Systems Manager",
+            "Amazon EC2",
+            "Amazon Simple Notification Service (SNS)"
+        ],
+        "title": "GameStop/Pariveda: Building Smart Deployment Pipelines with Lambda and CodeBuild on AWS",
+        "description": "On this episode of This is My Architecture, Pariveda and Gamestop demonstrate how they built a self-deploying pipeline focused on templates and being \"right by default\", for all of their services with Lambda and CodeBuild. Learn more at - http://amzn.to/2xsVum2.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2017-09-19T16:23:25Z",
+        "duration": 256
     },
     {
         "service": "codebuild",
         "videoId": "N3pW4ZCeCxA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "codebuild"
+        ],
         "title": "Build Applications Locally Using AWS CodeBuild",
-        "date": "2020/10/01"
+        "description": "In this video, you’ll see how to build applications locally using AWS CodeBuild. With the CodeBuild local agent, you can test the integrity and contents of buildspec files locally, build and test applications locally before committing, and identify and fix errors quickly from your local development environment. AWS CodeBuild is a fully managed service, with no servers to provision and scale, and no software to install, configure, and operate. You just specify the location of your source code, choose your build settings, and CodeBuild runs build scripts for compiling, testing, and packaging your code. CodeBuild now offers local build support.\n\nLearn more about AWS CodeBuild at - https://amzn.to/3n0IStK\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-10-01T22:22:03Z",
+        "duration": 272
     },
     {
         "service": "codebuild",
         "videoId": "neo9T95Sp3I",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "codebuild"
+        ],
         "title": "Enable Amazon VPC Access for AWS CodeBuild",
-        "date": "2020/10/01"
+        "description": "In this video, you’ll see how to enable Amazon Virtual Private Cloud (Amazon VPC) access for AWS CodeBuild projects. With this solution, you can increase the security of your build process, invoke CloudBuild privately, and draw upon any resource hosted in your VPC for CodeBuild projects. AWS CodeBuild is a fully managed build service in the cloud. Ordinarily, CodeBuild cannot access resources in a VPC. However, it’s possible to enable access through your VPC specifications and CodeBuild project configuration.\n\nLearn more about AWS CodeBuild at - https://amzn.to/338OHxm\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-10-01T22:26:10Z",
+        "duration": 591
     }
 ]

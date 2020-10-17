@@ -2,7 +2,16 @@
     {
         "service": "iot_things_graph",
         "videoId": "0WQhklWTHuM",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "IoT",
+            "IOT366"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing AWS IoT Things Graph (IOT366)",
-        "date": "2018/11/30"
+        "description": "AWS IoT Things Graph is a service that enables you to visually build IoT applications by connecting devices and web services from different vendors with little to no code. In this session, we discuss how you can represent devices and services as reusable components, called models, that hide low-level details, such as protocols and interfaces. We show you how to visually wire models together to design your applications quickly, and then deploy the applications on the local gateway for execution. We will end with a demo, so you can see how much development time you can save using AWS IoT Things Graph.",
+        "date": "2018-11-30T16:28:07Z",
+        "duration": 3285
     }
 ]

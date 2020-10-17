@@ -2,127 +2,412 @@
     {
         "service": "aws_well-architected_tool",
         "videoId": "CeceqWuZ0Cg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Best Practice",
+            "cost optimisation",
+            "voice of the customer",
+            "reserved instances",
+            "ANZ Webinar Series"
+        ],
         "title": "AWS ANZ Webinar Series - An Introduction to the Well Architected Framework",
-        "date": "2018/09/28"
+        "description": "Register for our upcoming webinars at - https://amzn.to/2MN04j1.\nThe AWS Well-Architected Framework enables customers to understand best practices around security, reliability, performance, cost optimization and operational excellence when building systems on AWS. This approach helps customers make informed decisions and weigh the pros and cons of application design patterns for the cloud.\n\nIn this one hour webinar, you'll learn how to use the Well- Architected Framework to follow AWS guidelines and best practices for your architecture on AWS.",
+        "date": "2018-09-28T19:49:48Z",
+        "duration": 3142
     },
     {
         "service": "aws_well-architected_tool",
         "videoId": "gjNPpjYNiow",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit"
+        ],
         "title": "Are you Well Architected?",
-        "date": "2019/06/03"
+        "description": "Learn more about AWS at – https://amzn.to/2wvRC1W \nMost businesses depend on a portfolio of technology solutions to operate and be successful every day. How do you know if you and your team are following best practice, or what the risks in your architectures might be? This session will show how the AWS Well-Architected framework provides prescriptive architectural advice, and how the AWS Well-Architected Tool allows you to measure and improve your technology portfolio. We will explain how other customers are using AWS Well-Architected in their business, and we’ll share insights into what we have learned from reviewing tens of thousands of architectures across Operational Excellence, Security, Reliability, Performance Efficiency, and Cost Optimization.",
+        "date": "2019-06-03T17:27:20Z",
+        "duration": 2628
     },
     {
         "service": "aws_well-architected_tool",
         "videoId": "u6BCVkXkPnM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Inforce",
+            "AWS re:Inforce 2019",
+            "security",
+            "identity",
+            "compliance",
+            "cloud security",
+            "AWS security",
+            "cloud security community",
+            "learning conference",
+            "Detective Controls",
+            "Infrastructure Security",
+            "Data Protection",
+            "Incident Response",
+            "Governance",
+            "Risk",
+            "Compliance",
+            "security best practices",
+            "Security Deep Dive",
+            "AWS re:Inforce 2019 Sessions",
+            "Session",
+            "SDD318",
+            "Ben Potter",
+            "300 - Advanced"
+        ],
         "title": "AWS re:Inforce 2019: Security Best Practices the Well-Architected Way (SDD318)",
-        "date": "2019/06/26"
+        "description": "As you continually evolve your use of the AWS platform, it’s important to consider ways to improve your security posture and take advantage of new security services and features. In this advanced session, we share architectural patterns for meeting common challenges, service limits and tips, tricks, and ways to continually evaluate your architecture against best practices. Automation and tools are featured throughout, and there will be code giveaways! Be prepared for a technically deep session on AWS security.",
+        "date": "2019-06-26T12:44:28Z",
+        "duration": 3751
     },
     {
         "service": "aws_well-architected_tool",
         "videoId": "ujRf2BzgGGg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Public Sector Summit 2017 Canberra",
+            "IAM",
+            "AWS security"
+        ],
         "title": "Well-Architected for Security: Advanced Session",
-        "date": "2017/09/11"
+        "description": "Learn more about AWS at - http://amzn.to/2fZ7j9w.\nThis advanced technical session covers architecture patterns for different workloads, IAM policy tips & tricks, and how to implement security automation and forensics. Be prepared for a technically deep session on AWS security.",
+        "date": "2017-09-11T16:59:13Z",
+        "duration": 1881
     },
     {
         "service": "aws_well-architected_tool",
         "videoId": "GH0VOFzamjI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "So You Want to be Well-Architected?",
-        "date": "2018/11/12"
+        "description": "Presenter: Brian Farnhill, Solutions Architect, Amazon Web Services",
+        "date": "2018-11-12T21:35:23Z",
+        "duration": 1860
     },
     {
         "service": "aws_well-architected_tool",
         "videoId": "kN27aptcdig",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "live coding",
+            "cloud connected robot",
+            "IoT",
+            "dev ops",
+            "developer",
+            "coding",
+            "programming",
+            "robotics",
+            "live streaming",
+            "challenge",
+            "hackathon"
+        ],
         "title": "Live Coding with AWS | Well Architected Reliability",
-        "date": "2017/09/26"
+        "description": "For more information on Live Coding with AWS, visit http://amzn.to/2hdQHyG.\nThe Well-Architected framework has been developed to help cloud architects build the most secure, high-performing, resilient, and efficient infrastructure possible for their applications. This framework provides a consistent approach for customers and partners to evaluate architectures, and provides guidance to help implement designs that will scale with your application needs over time.\n\nLive Coding with AWS is an interactive Twitch show on https://www.twitch.tv/aws, where the broadcasters explore cloud computing topics and AWS services from the developer's perspective, building everything from serverless web apps to machine learning models.",
+        "date": "2017-09-26T16:03:30Z",
+        "duration": 4864
     },
     {
         "service": "aws_well-architected_tool",
         "videoId": "2SpmQKsgcOU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "interactive coding",
+            "Julio Faerman",
+            "Heitor Lessa",
+            "AWS Well-Architected Framework",
+            "Live Streaming with AWS",
+            "live coding",
+            "serverless applications",
+            "serverless application lens"
+        ],
         "title": "AWS Well-Architected Framework | Serverless Application Lens",
-        "date": "2018/03/13"
+        "description": "To catch up on more AWS Twitch streams and see the upcoming calendar, visit: http://amzn.to/2Io8KLA. In this interactive coding session, AWS Sr Technical Evangelist Julio Faerman and AWS Solution Architect Heitor Lessa, used the AWS Well-Architected Framework for designing and guiding implementation of architectural best practices.",
+        "date": "2018-03-13T17:06:58Z",
+        "duration": 6081
     },
     {
         "service": "aws_well-architected_tool",
         "videoId": "LDq1ZMTvqEo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "framework",
+            "well-architected",
+            "Julio Faerman"
+        ],
         "title": "Building Well-Architected Applications - Framework Review",
-        "date": "2018/09/12"
+        "description": "Learn more about the AWS Twitch Channel at - https://amzn.to/2PEU1ik.\nThe Well-Architected framework has been developed to help cloud architects build the most secure, high-performing, resilient, and efficient infrastructure possible for their applications. This framework provides a consistent approach for customers and partners to evaluate architectures, and provides guidance to help implement designs that will scale with your application needs over time.",
+        "date": "2018-09-12T20:08:19Z",
+        "duration": 5488
     },
     {
         "service": "aws_well-architected_tool",
         "videoId": "Lg0nQYMoKjs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "TWITCH",
+            "well architected",
+            "Julio Faerman"
+        ],
         "title": "Building Well-Architected Applications | Reliability Pillar",
-        "date": "2018/08/16"
+        "description": "Join Julio Faerman, Sr Technical Evangelist, for live coding, tutorials, demos and discussions of building applications using the Well-Architected Framework. Learn more at - https://amzn.to/2wd0Qjb.\n\nThe Well-Architected framework has been developed to help cloud architects build the most secure, high-performing, resilient, and efficient infrastructure possible for their applications. This framework provides a consistent approach for customers and partners to evaluate architectures, and provides guidance to help implement designs that will scale with your application needs over time.",
+        "date": "2018-08-16T20:39:22Z",
+        "duration": 6907
     },
     {
         "service": "aws_well-architected_tool",
         "videoId": "NJnixsUHf5E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "TWITCH",
+            "live coding"
+        ],
         "title": "Live Coding with AWS | Well-Architected Applications",
-        "date": "2017/09/05"
+        "description": "For more information on Live Coding with AWS, visit http://amzn.to/2eCJPXe.\nThe Well-Architected framework has been developed to help cloud architects build the most secure, high-performing, resilient, and efficient infrastructure possible for their applications. This framework provides a consistent approach for customers and partners to evaluate architectures, and provides guidance to help implement designs that will scale with your application needs over time.\n\nLive Coding with AWS is an interactive, Twitch show on https://www.twitch.tv/aws, where the broadcasters explore cloud computing topics and AWS services from the developer's perspective, building everything from serverless web apps to machine learning models.",
+        "date": "2017-09-05T18:07:05Z",
+        "duration": 8220
     },
     {
         "service": "aws_well-architected_tool",
         "videoId": "8e2zCHx-K3M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Architecture",
+            "ARC203",
+            "TIMOTHY DILAURO",
+            "Introductory"
+        ],
         "title": "AWS re:Invent 2016: Achieving Agility by Following Well-Architected Framework Principles (ARC203)",
-        "date": "2016/12/02"
+        "description": "The AWS Well-Architected Framework enables customers to understand best practices around security, reliability, performance, and cost optimization when building systems on AWS. This approach helps customers make informed decisions and weigh the pros and cons of application design patterns for the cloud. In this session, you'll learn how National Instruments used the Well-Architected Framework to follow AWS guidelines and best practices. By developing a strategy based on the AWS Well-Architected Framework, National Instruments was able to triple the number of applications running in the cloud without additional head count, significantly increase the frequency of code deployments, and reduce deployment times from two weeks to a single day. As a result, National Instruments was able to deliver a more scalable, dynamic, and resilient LabVIEW platform with agility.",
+        "date": "2016-12-03T02:30:03Z",
+        "duration": 3586
     },
     {
         "service": "aws_well-architected_tool",
         "videoId": "E2nekilSH_U",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "well-architected",
+            "architecture"
+        ],
         "title": "Well-Architected Solutions - Building Continuous Delivery",
-        "date": "2018/11/01"
+        "description": "Learn more about Twitch at - https://amzn.to/2JvWwld.\nThe Well-Architected framework has been developed to help cloud architects build the most secure, high-performing, resilient, and efficient infrastructure possible for their applications. This framework provides a consistent approach for customers and partners to evaluate architectures, and provides guidance to help implement designs that will scale with your application needs over time. https://aws.amazon.com/architecture/well-architected/\n\nIn this series we've been managing infrastructure as code with AWS CloudFormation along with other tools. In this episode we chained them together in the services for Continuous Delivery: AWS CodeStar, AWS CodeCommit, AWS CodeBuild and AWS CodePipeline.",
+        "date": "2018-11-01T15:58:16Z",
+        "duration": 3127
     },
     {
         "service": "aws_well-architected_tool",
         "videoId": "WP0LE-1UvSw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Well-Architected Solutions - Load Testing 101",
-        "date": "2018/09/10"
+        "description": "Learn more about the AWS Well-Architected framework at - https://amzn.to/2N2CGTG.\nThe Well-Architected framework has been developed to help cloud architects build the most secure, high-performing, resilient, and efficient infrastructure possible for their applications. This framework provides a consistent approach for customers and partners to evaluate architectures, and provides guidance to help implement designs that will scale with your application needs over time. https://aws.amazon.com/architecture/well-architected/\n\nIn this episode, we continued the implementation of the reliability pillar, with best practices for how systems adapt to changes in demand. To demonstrate, we produced HTTP requests using load generators to simulate real users. We built a simple application and started firing at it, using the design guidelines from the Well-Architected Framework. The infrastructure will be defined as code using CloudFormation and Elastic Beanstalk. We evaluated some options for load testing and decided together on our selection for this series.",
+        "date": "2018-09-10T23:42:01Z",
+        "duration": 6455
     },
     {
         "service": "aws_well-architected_tool",
         "videoId": "n6OLwrFlZNc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "well-architected"
+        ],
         "title": "Well-Architected Solutions - Load Testing for Serverless Applications",
-        "date": "2018/09/06"
+        "description": "Learn more about the AWS Twitch Channel at - https://amzn.to/2Cpkuil.\nThe Well-Architected framework has been developed to help cloud architects build the most secure, high-performing, resilient, and efficient infrastructure possible for their applications. This framework provides a consistent approach for customers and partners to evaluate architectures, and provides guidance to help implement designs that will scale with your application needs over time.\n\nIn this episode, we continued the implementation of the reliability pillar, with best practices for how systems adapt to changes in demand. To demonstrate, we produced HTTP requests using load generators to simulate real users. We built a simple application and start firing at it, using the design guidelines from the Well-Architected Framework. The infrastructure will be defined as code using CloudFormation and Elastic Beanstalk.\n\nFor more Well-Architected videos, visit -  https://www.youtube.com/playlist?list=PLhr1KZpdzukf1ERxT2lJnkpsmTPyG0_cC",
+        "date": "2018-09-06T16:03:58Z",
+        "duration": 6455
     },
     {
         "service": "aws_well-architected_tool",
         "videoId": "wwTEexr1FzE",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Mobile",
+            "MOB302"
+        ],
         "title": "AWS re:Invent 2018: Developing Well-Architected Android Apps with AWS (MOB302)",
-        "date": "2018/11/27"
+        "description": "The architecture of modern native mobile apps is an ever-changing field. In this session, we review the latest Android architecture blueprints for native apps and how you can use these architecture components to easily authenticate and engage users, access data and build responsive mobile apps.",
+        "date": "2018-11-27T19:09:50Z",
+        "duration": 2130
     },
     {
         "service": "aws_well-architected_tool",
         "videoId": "txSgZPU8DtA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Well-Architected Solutions - Load Testing for Containers",
-        "date": "2018/09/26"
+        "description": "Learn more about Twitch at - https://amzn.to/2xQq2g7.\nJoin Julio Faerman, Sr Technical Evangelist, for live coding, tutorials, demos and discussions of building apps using the Well-Architected framework.",
+        "date": "2018-09-26T16:26:16Z",
+        "duration": 4045
     },
     {
         "service": "aws_well-architected_tool",
         "videoId": "i54bphtzrAM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "well-architected",
+            "architecture",
+            "Julio Faerman"
+        ],
         "title": "Well-Architected Solutions - Load Testing for Databases",
-        "date": "2018/10/01"
+        "description": "Learn more about Twitch at - https://amzn.to/2P336lf.\nThe Well-Architected framework has been developed to help cloud architects build the most secure, high-performing, resilient, and efficient infrastructure possible for their applications. This framework provides a consistent approach for customers and partners to evaluate architectures, and provides guidance to help implement designs that will scale with your application needs over time. https://aws.amazon.com/architecture/well-architected/\n\nIn this episode we made our simulation more realistic by adding databases, as they are frequently a scalability bottleneck. We added databases to our test cases and understand how systems can adapt to load in the data tier.",
+        "date": "2018-10-02T00:50:48Z",
+        "duration": 3006
     },
     {
         "service": "aws_well-architected_tool",
         "videoId": "HC8sRYgUGYA",
+        "tags": [
+            "Well-Architected",
+            "Well-Architected Framework",
+            "Well-Architected Partner Program",
+            "AWS",
+            "Amazon Web Services",
+            "Amazon re:invent",
+            "Amazon reinvent",
+            "2019"
+        ],
         "title": "A Well-Architected Journey",
-        "date": "2019/12/26"
+        "description": "Learn more about WS Well-Architected Partner Program at - https://amzn.to/2QkhFTs\nHear from AWS Well-Architected Partners on how AWS Well-Architected has impacted their customers and their business. AWS Well-Architected Partners from 4 different GEOs describe their journeys in integrating AWS Well-Architected into their practice.",
+        "date": "2019-12-26T17:00:04Z",
+        "duration": 8151
     },
     {
         "service": "aws_well-architected_tool",
         "videoId": "rX-DjsfkWzc",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ARC212-R1",
+            "Architecture",
+            "Cox Automotive"
+        ],
         "title": "AWS re:Invent 2019: Cox Automotive: AWS Well-Architected Results on 200+ platforms (ARC212-R1)",
-        "date": "2019/12/05"
+        "description": "How do you know if you and your team are following cloud architecture best practices? How do you assess your potential risks? This session shows how the AWS Well-Architected Framework provides prescriptive architectural advice, and how the AWS Well-Architected Tool allows you to improve your technology portfolio. Hear executives from Cox Automotive explain how the company uses AWS Well-Architected as part of a scorecard across more than 200 platforms to health-check the Cox Automotive products. Learn how the scorecard works to drive resource and investment decisions, and how it helps measure profitability, technology risk, and engineering maturity.",
+        "date": "2019-12-05T17:48:05Z",
+        "duration": 3575
     },
     {
         "service": "aws_well-architected_tool",
         "videoId": "XFbd1qexBUE",
+        "tags": [
+            "AWS",
+            "Events",
+            "Swisscom",
+            "AWS Webinar",
+            "Webinar",
+            "Well-Architected",
+            "cloud migration",
+            "return on investment",
+            "ROI",
+            "optimization",
+            "well-architected review"
+        ],
         "title": "Optimizing Your Cloud With a Well-Architected Review",
-        "date": "2020/05/20"
+        "description": "Cloud adoption enables valuable benefits, from improved scalability and cost optimization to much greater levels of security. But are you getting the most out of your existing solution? In this webinar you can find out how to optimize your cloud with a Well-Architected Review.\n\nLearn more about Swisscom at https://go.aws/2AMJi3k\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSWebinar",
+        "date": "2020-05-20T18:34:23Z",
+        "duration": 1774
     },
     {
         "service": "aws_well-architected_tool",
         "videoId": "rhKRjA4aziE",
-        "title": "AWS Summit Online ASEAN 2020 | Security Best Practices: The Well-architected Way",
-        "date": "2020/08/28"
+        "tags": [
+            "AWS",
+            "Jaganathan",
+            "Operational Efficiency",
+            "Amazon Web Services",
+            "Cloud Computing",
+            "DNB",
+            "Arthi",
+            "AWS Summit Online ASEAN re:Cap"
+        ],
+        "title": "AWS Summit Online ASEAN 2020 | Security Best Practices: The Well-architected Way",
+        "description": "As you continually evolve your use of AWS, it’s important to consider ways to improve your security posture and take advantage of new security services and features. In this session, you explore architectural patterns for meeting common challenges, learn about service limits, and hear some tips and tricks, as well as learn ways to continually evaluate your architecture against best practices. Automation and tools are featured throughout, and we also include code giveaways!\n\nAWS Speaker: Tim Robinson, Well Architected Partner Solutions Architect, APAC, AWS\nCustomer Speaker: Elango Balusamy, Chief Technology Officer, WeInvest\n\nDownload the slides: https://go.aws/2SAjZHP\n\nLearn more about AWS at - https://amzn.to/3kTvp5R\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
+        "date": "2020-08-28T18:02:39Z",
+        "duration": 1379
     }
 ]

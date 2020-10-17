@@ -2,19 +2,46 @@
     {
         "service": "iot_events",
         "videoId": "3MQoTIbFCJ8",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "IoT",
+            "IOT367"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing AWS IoT Events (IOT367)",
-        "date": "2018/11/30"
+        "description": "AWS IoT Events is a new IoT-managed service that allows enterprises with large operations dependent on IoT devices to continuously monitor data from their equipment, applications, and fleets of devices for changes in operation and trigger the appropriate response when events occur. IoT Events monitors inputs from many IoT sensors and applications simultaneously; it can also combine sensor and application data with analytical results, including machine learning from AWS IoT Analytics. It helps customers reduce costs through efficiency gains, minimize downtime, and improve product quality. IoT Events is applicable to several industries, including device manufacturers, manufacturing plants, power and utilities, shipping, oil and gas, etc. Join us for this session to learn more about the customer benefits of IoT Events, and catch a demo of IoT Events in action.",
+        "date": "2018-11-30T16:39:40Z",
+        "duration": 2924
     },
     {
         "service": "iot_events",
         "videoId": "WM0iZ7-96oQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Announcing AWS IoT Events",
-        "date": "2018/11/30"
+        "description": "AWS IoT Events is a managed IoT service that makes it easy to detect and respond to events from different IoT sensors and applications. Learn how IoT Events helps you resolve issues quickly, reduce maintenance costs, increase operational efficiency, and improve product quality. Sign up for the limited preview:https://aws.amazon.com/iot-events/preview \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:17:37Z",
+        "duration": 1149
     },
     {
         "service": "iot_events",
         "videoId": "k-h62-L2bns",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "IOT208",
+            "IoT"
+        ],
         "title": "AWS re:Invent 2019: What's new with AWS IoT analytics services? (IOT208)",
-        "date": "2019/12/04"
+        "description": "AWS IoT analytics services help you get extra value from your IoT data. In this session, find out what's new across the analytics services, including AWS IoT Analytics, AWS IoT Events,  AWS IoT SiteWise, and AWS IoT Things Graph. You leave the session ready to tackle your latest analytics challenges from the factory floor, run sophisticated analytics on massive volumes of IoT data to visualize on operational dashboards, and detect and respond to events from IoT sensors and applications.",
+        "date": "2019-12-04T17:27:02Z",
+        "duration": 3088
     }
 ]

@@ -2,55 +2,207 @@
     {
         "service": "security_hub",
         "videoId": "HsWtPG_rTak",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Inforce",
+            "AWS re:Inforce 2019",
+            "security",
+            "identity",
+            "compliance",
+            "cloud security",
+            "AWS security",
+            "cloud security community",
+            "learning conference",
+            "Detective Controls",
+            "Infrastructure Security",
+            "Data Protection",
+            "Incident Response",
+            "Governance",
+            "Risk",
+            "Compliance",
+            "security best practices",
+            "Demo Theater",
+            "AWS re:Inforce 2019 Sessions",
+            "Demo Session",
+            "DEM15",
+            "Ely Kahn"
+        ],
         "title": "AWS re:Inforce 2019: AWS Security Hub: Manage Security Alerts & Automate Compliance (DEM15)",
-        "date": "2019/06/26"
+        "description": "Stop by for an introduction to AWS Security Hub, a security service that gives you a comprehensive view of your high-priority security alerts and compliance statuses across AWS accounts.\n\nComplete Title: AWS re:Inforce 2019: AWS Security Hub: Centrally Manage Security Alerts & Automate Compliance (DEM15)",
+        "date": "2019-06-26T21:09:44Z",
+        "duration": 1824
     },
     {
         "service": "security_hub",
         "videoId": "K7V5kNBjGCI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS security",
+            "compliance",
+            "dashboard",
+            "Center for Internet Security (CIS) AWS Foundations Benchmark",
+            "guardduty",
+            "macie",
+            "inspector"
+        ],
         "title": "AWS Security Hub: Centrally Manage Security Alerts & Automate Compliance Checks",
-        "date": "2019/03/01"
+        "description": "Learn more about AWS Security Hub at – https://amzn.to/2GRL050\nAWS Security Hub gives you a comprehensive view of your high-priority security alerts and compliance status across AWS accounts. Security Hub aggregates, organizes, and prioritizes your security alerts, or findings, from multiple AWS services as well as from AWS Partner solutions.\n\nYour findings from Amazon GuardDuty, Amazon Inspector, Amazon Macie, and APN partner solutions are visually summarized on integrated dashboards with actionable graphs and tables. You can also continuously monitor your environment using automated compliance checks based on the AWS best practices and industry standards your organization follows. Get started with AWS Security Hub in just a few clicks in the Management Console and once enabled, Security Hub will begin aggregating and prioritizing findings.",
+        "date": "2019-03-01T17:00:05Z",
+        "duration": 159
     },
     {
         "service": "security_hub",
         "videoId": "xaBIGQX8gog",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "cloud",
+            "security",
+            "aws",
+            "awsdemo"
+        ],
         "title": "AWS Security Hub - Introduction to Foundational Security Best Practices Standard",
-        "date": "2020/08/03"
+        "description": "In this demo you will learn about the AWS Foundational Security Best Practices v1.0.0. standard in AWS Security Hub. The security controls in this standard detect when AWS accounts and deployed resources do not align with security best practices defined by AWS security experts. This curated set of controls provides actionable and prescriptive guidance on how to improve and maintain your organization’s security posture in AWS.\n\nLearn more about AWS Security at - https://amzn.to/2BTT5W6\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-08-03T21:31:44Z",
+        "duration": 338
     },
     {
         "service": "security_hub",
         "videoId": "TdT8ds_C8Gs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Security",
+            "Identity & Compliance",
+            "SEC397",
+            "Amazon GuardDuty",
+            "Amazon Inspector",
+            "Amazon Macie"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introduction to AWS Security Hub (SEC397)",
-        "date": "2018/12/01"
+        "description": "Learn about AWS Security Hub, and how it gives you a comprehensive view of your high-priority security alerts and your compliance status across AWS accounts. See how Security Hub aggregates, organizes, and prioritizes your alerts, or findings, from multiple AWS services, such as Amazon GuardDuty, Amazon Inspector, and Amazon Macie, as well as from AWS Partner solutions. We will demonstrate how you can continuously monitor your environment using compliance checks based on the AWS best practices and industry standards your organization follows.",
+        "date": "2018-12-01T22:17:27Z",
+        "duration": 2722
     },
     {
         "service": "security_hub",
         "videoId": "a4l1UCo3YHE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Security Hub",
+            "reinvent 2018",
+            "re:Invetn 2018"
+        ],
         "title": "AWS re:Invent 2018 – Introducing AWS Security Hub",
-        "date": "2018/12/13"
+        "description": "Watch Andy Jassy, AWS CEO, introduce AWS Security Hub, a service to get a comprehensive view of your high-priority security alerts and compliance status across AWS accounts. Learn more about AWS Security Hub at - https://amzn.to/2TSbgzz.",
+        "date": "2018-12-13T17:26:50Z",
+        "duration": 133
     },
     {
         "service": "security_hub",
         "videoId": "K3PPzf9ePko",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Announcing AWS Security Hub",
-        "date": "2018/11/30"
+        "description": "AWS Security Hub enables you to quickly assess your security and compliance across accounts in one comprehensive view. There are a variety of security tools you might be using like firewalls, intrusion detection/intrusion prevention (IDS/IPS), endpoint protection (EPP), and vulnerability and compliance scanners. But oftentimes these tools produce hundreds, and sometimes thousands, of security alerts every day. With Security Hub, you now have a single place that aggregates and prioritizes your security alerts from multiple AWS services, such as Amazon GuardDuty, Amazon Inspector, and Amazon Macie, as well as from AWS Partner solutions, so you can have a timely view of your overall security and compliance status. \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:44:40Z",
+        "duration": 996
     },
     {
         "service": "security_hub",
         "videoId": "kD6JdUAKdV8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Inforce",
+            "AWS re:Inforce 2019",
+            "security",
+            "identity",
+            "compliance",
+            "cloud security",
+            "AWS security",
+            "cloud security community",
+            "learning conference",
+            "Detective Controls",
+            "Infrastructure Security",
+            "Data Protection",
+            "Incident Response",
+            "Governance",
+            "Risk",
+            "Compliance",
+            "security best practices",
+            "The Foundation",
+            "AWS re:Inforce 2019 Sessions",
+            "Session",
+            "FND218",
+            "Ely Kahn",
+            "200 - Intermediate"
+        ],
         "title": "AWS re:Inforce 2019: How to Act on Your Security & Compliance Alerts with AWS Security Hub (FND218)",
-        "date": "2019/06/26"
+        "description": "Learn about AWS Security Hub and how it gives you a comprehensive view of your high-priority security alerts and compliance status across AWS accounts. See how Security Hub aggregates, prioritizes, and helps you act on your alerts from multiple AWS services, such as Amazon GuardDuty, Amazon Inspector, and Amazon Macie, as well as from AWS Partner solutions.\n\nComplete Title: AWS re:Inforce 2019: How to Act on Your Security and Compliance Alerts with AWS Security Hub (FND218) \n\n Presenter(s): \n-  Rob Morris, Northwestern Mutual\n-  Jason Fuller, HERE Technologies",
+        "date": "2019-06-26T16:10:29Z",
+        "duration": 3091
     },
     {
         "service": "security_hub",
         "videoId": "xFU8EdZpD2g",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DEM157"
+        ],
         "title": "AWS re:Invent 2019: Monitor security & automate compliance checks with AWS Security Hub (DEM157)",
-        "date": "2019/12/08"
+        "description": "AWS Security Hub provides a comprehensive view of high-priority security alerts and compliance status across AWS accounts. Security Hub provides a single location to aggregate, organize, and prioritize your security alerts or findings from multiple AWS services, such as Amazon GuardDuty, Amazon Inspector, and Amazon Macie, as well as from AWS Partner solutions. You can also continuously monitor your environment using automated compliance checks based on the AWS best practices and open standards that your organization follows. In this demo, we provide a walkthrough of how Security Hub aggregates findings, conducts compliance checks, and helps you respond and remediate findings.",
+        "date": "2019-12-08T23:29:11Z",
+        "duration": 1343
     },
     {
         "service": "security_hub",
         "videoId": "vhYsm5gq9jE",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "SEC206-R1",
+            "Security",
+            "Compliance",
+            "and Identity",
+            "AWS Security Hub",
+            "Amazon GuardDuty"
+        ],
         "title": "AWS re:Invent 2019: Threat management in the cloud: Amazon GuardDuty & AWS Security Hub (SEC206-R1)",
-        "date": "2019/12/06"
+        "description": "Amazon GuardDuty and AWS Security Hub in tandem provide continuous visibility, compliance, and detection of threats for AWS accounts and workloads. Amazon GuardDuty enables customers to achieve continuous security monitoring to detect threats in the cloud. AWS Security Hub enables customers to continuously monitor their environment using automated compliance checks based on AWS best practices and industry standards. In this session, we introduce you to Amazon GuardDuty and AWS Security Hub and walk you through the detection of an event; aggregation; prioritization of security findings; and the identification of possible remediation actions and other responses.",
+        "date": "2019-12-07T05:53:34Z",
+        "duration": 2860
     }
 ]

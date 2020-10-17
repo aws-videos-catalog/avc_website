@@ -2,31 +2,95 @@
     {
         "service": "mediaconnect",
         "videoId": "C2WcVBarriM",
+        "tags": [
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Content Delivery",
+            "CTD325",
+            "Amazon Rekognition"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing AWS Elemental MediaConnect (CTD325)",
-        "date": "2018/12/13"
+        "description": "AWS Elemental MediaConnect is a new service that makes it easy for broadcasters and other video providers to reliably ingest and distribute live video in the AWS Cloud. In this session, learn how customers of all sizes, from small outlets covering local sporting events to large national broadcast television networks with 24x7 live TV channels, ingest content from sources like stadiums or TV studios into the AWS Cloud – and then securely transmit video to multiple destinations with broadcast-grade reliability and operational visibility. Once video content is inside AWS, it becomes easier to use AWS for broader media workloads, such as storage, transformation, and machine learning, using AWS Media Services or Amazon Rekognition, for example. See firsthand how customers save money with cloud vs. traditional video distribution methods, and gain scale and agility in supporting new revenue streams.",
+        "date": "2018-12-13T16:46:29Z",
+        "duration": 2648
     },
     {
         "service": "mediaconnect",
         "videoId": "om7Yk59mE5Q",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "MDS311-R1",
+            "Media Solutions",
+            "AWS Elemental MediaConnect",
+            "AWS Elemental MediaPackage",
+            "AWS Elemental MediaLive"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Live broadcasting on AWS (MDS311-R1)",
-        "date": "2019/12/19"
+        "description": "A major television broadcaster is re:Inventing the way live television is distributed. In this session, attendees will learn how they are using AWS to create, distribute and monetize live television at scale. Join us to see how AWS Media Services help them pioneer the future of news, sports and entertainment in the digital era.",
+        "date": "2019-12-19T22:50:23Z",
+        "duration": 3696
     },
     {
         "service": "mediaconnect",
         "videoId": "XaDJHU4SJTI",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "MDS202-R1",
+            "Media Solutions",
+            "Discovery",
+            "AWS Elemental MediaLive",
+            "AWS Elemental MediaStore",
+            "AWS Elemental MediaPackage"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Optimizing live video feeds to the cloud and the consumer (MDS202-R1)",
-        "date": "2019/12/05"
+        "description": "Viewers want more content on more devices, with top quality and low, broadcast-like latency allowing them to enjoy the action without delay. They also demand features such as enhanced graphics and real-time stats that go beyond traditional TV offerings. Learn how Discovery delivers live cooking classes with America’s favorite chefs on its Food Network Kitchen platform, and multi-language/multi-market sports on its Eurosport platform. This talk explores how today’s top content providers like Discovery are serving audiences with media solutions, machine learning, and core services from AWS.",
+        "date": "2019-12-05T17:54:49Z",
+        "duration": 3416
     },
     {
         "service": "mediaconnect",
         "videoId": "cd40-l-6EmI",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "MDS313-R1",
+            "Media Solutions",
+            "Hotstar",
+            "AWS Elemental MediaConnect",
+            "AWS Elemental MediaPackage",
+            "AWS Elemental MediaLive"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Hotstar: Live streaming at record scale (MDS313-R1)",
-        "date": "2019/12/08"
+        "description": "Learn how Hotstar has been powering its live sports channels to a world-record live streaming audience. Hotstar has architected its video pipeline that handles close to a thousand hours of live encoding using AWS services like AWS Elemental MediaLive, AWS Elemental MediaPackage, and AWS Elemental MediaConnect. Hear about the challenges and solutions needed to manage backend and analytics systems to serve ads at scale to 15 million users, track live streaming usage in real time, and build broadcast-level resiliency into their architecture to handle world-record-level traffic.",
+        "date": "2019-12-08T23:34:49Z",
+        "duration": 2863
     },
     {
         "service": "mediaconnect",
         "videoId": "aZO1mgD9yJI",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "MDS301",
+            "Media Solutions",
+            "HBO",
+            "AWS Direct Connect",
+            "Amazon S3 Glacier",
+            "Amazon S3",
+            "Amazon Rekognition",
+            "Amazon EKS",
+            "Amazon EC2"
+        ],
         "title": "AWS re:Invent 2019: WarnerMedia/HBO’s cloud-based linear playout system (MDS301)",
-        "date": "2019/12/19"
+        "description": "In this session, HBO presents its file-based broadcast-channel playout system. Due to high-profile content such as Game of Thrones, the system provides three paths of resiliency for broadcast, including affiliate delivery plus an emergency workflow that includes remote access. HBO has also designed its system to auto-failover between on-premises and cloud playout including dual AWS Direct Connect paths. The system leverages the broad library of HBO assets stored in Amazon S3, enabling playout on-demand.",
+        "date": "2019-12-19T21:33:14Z",
+        "duration": 3029
     }
 ]

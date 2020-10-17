@@ -2,631 +2,2050 @@
     {
         "service": "dynamodb",
         "videoId": "DIQVJqiSUkE",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CMY304",
+            "Serverless",
+            "Inc.",
+            "Amazon DynamoDB",
+            "Not Applicable"
+        ],
         "title": "AWS re:Invent 2019: Data modeling with Amazon DynamoDB (CMY304)",
-        "date": "2019/12/03"
+        "description": "Modeling your data in the DynamoDB database structure requires a different approach from modeling in traditional relational databases. Alex DeBrie has written a number of applications using DynamoDB and is the creator of DynamoDBGuide.com, a free resource for learning DynamoDB. In this session, we review the key principles of modeling your DynamoDB tables and teach you some practical patterns to use in your data models. Leave this session with steps to follow and principles to guide you as you work with DynamoDB.",
+        "date": "2019-12-03T18:10:56Z",
+        "duration": 2387
     },
     {
         "service": "dynamodb",
         "videoId": "6yqfmXiZTlM",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT403-R1",
+            "Databases",
+            "Amazon DynamoDB"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Amazon DynamoDB deep dive: Advanced design patterns (DAT403-R1)",
-        "date": "2019/12/06"
+        "description": "This technical session is for advanced users of Amazon DynamoDB. The patterns and data models discussed in this presentation summarize a collection of implementations and best practices used by large customers—including Amazon retail businesses—to deliver highly scalable solutions for a wide variety of business problems. We delve into strategies for global secondary index sharding and index overloading, scalable graph processing with materialized queries, relational modeling with composite keys, executing transactional workflows on DynamoDB, and more.",
+        "date": "2019-12-07T05:56:11Z",
+        "duration": 3553
     },
     {
         "service": "dynamodb",
         "videoId": "zUsJK5pe_A0",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT304",
+            "Databases",
+            "Amazon DynamoDB"
+        ],
         "title": "AWS re:Invent 2019: Scale fearlessly with Amazon DynamoDB adaptive capacity (DAT304)",
-        "date": "2019/12/04"
+        "description": "Planning to run spiky or unpredictable workloads? Worried that your traffic isn't evenly distributed? In this session, learn how Amazon DynamoDB accommodates imbalanced workloads without throttling and how you can ensure optimal performance at any scale. First, we briefly cover DynamoDB fundamentals and recent innovations. Then, we dive deep into how DynamoDB shards your data, what is new with adaptive capacity, and the latest workload monitoring tools.",
+        "date": "2019-12-04T17:24:36Z",
+        "duration": 3172
     },
     {
         "service": "dynamodb",
         "videoId": "QuiFFssuztw",
-        "title": "Using Amazon DynamoDB to Connect Customers & Service Professionals",
-        "date": "2020/01/21"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud Computing",
+            "Cloud",
+            "AWS Event",
+            "AWS re:Invent",
+            "AWS reinvent",
+            "re:Invent",
+            "reinvent",
+            "2019",
+            "Thumbtack",
+            "Startup",
+            "Prathi Shastry",
+            "Professional Services",
+            "Contracting",
+            "Reviews"
+        ],
+        "title": "Using Amazon DynamoDB  to Connect Customers & Service Professionals",
+        "description": "Thumbtack is a platform that connects customers to over 2,000 service professionals. Thumbtack developed Pendulum, its data replication service, to replicate and stream DynamoDB tables across different AWS regions and accounts. \n\nIn this talk, Thumbtack site reliability engineer, Prathi Shastry, explains how Thumbtack’s engineers were able to do so. \n\nLearn more about AWS Startups at https://go.aws/36j9X1E",
+        "date": "2020-01-22T02:57:49Z",
+        "duration": 1338
     },
     {
         "service": "dynamodb",
         "videoId": "dMnnNMCt2RI",
+        "tags": [
+            "AWS",
+            "Events"
+        ],
         "title": "Serverless Office Hours - Item-level Permissions in Amazon DynamoDB",
-        "date": "2020/04/01"
+        "description": "In this episode of Serverless Office Hours, you'll learn how to create inline policies for your AWS Lambda functions that restrict access to a DynamoDB table at the item level. We'll cover topics such as AWS SAM policy templates, AWS SAM SimpleTable, AWS IAM inline policies, and Amazon DynamoDB item-level permissions.\n\nLearn more about using AWS Lambda with Amazon DynamoDB at https://amzn.to/2WTGkTE\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSServerless",
+        "date": "2020-04-01T16:00:18Z",
+        "duration": 1012
     },
     {
         "service": "dynamodb",
         "videoId": "iN6mhI5hFt4",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT319",
+            "Databases",
+            "Uber",
+            "Amazon DynamoDB"
+        ],
         "title": "AWS re:Invent 2019: How Uber stores financial transactions in ledgers using Amazon DynamoDB (DAT319)",
-        "date": "2019/12/05"
+        "description": "Each day, millions of people move around the world with Uber. The associated financial transactions are stored in Uber's Ledger Store with provable completeness backed by Amazon DynamoDB. In this session, we discuss why provable completeness is key for compliant storage of financial and other ledger-like use cases, and we explain how this can be implemented at global scale by using DynamoDB.",
+        "date": "2019-12-05T17:33:48Z",
+        "duration": 2334
     },
     {
         "service": "dynamodb",
         "videoId": "DInYm0YWS4w",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT371",
+            "Databases",
+            "Symantec"
+        ],
         "title": "AWS re:Invent 2019: Norton Storage Platform’s journey from Cassandra to Amazon DynamoDB (DAT371)",
-        "date": "2019/12/05"
+        "description": "Symantec’s Norton Storage Platform offers online backup as a service to protect data from accidental deletion and malware. In this session, hear from Norton about the challenges it had managing Cassandra clusters at scale and why it migrated its metadata database from Cassandra to DynamoDB. Norton then dives into an innovative method it used to migrate its data using AWS Step Functions.",
+        "date": "2019-12-05T17:46:51Z",
+        "duration": 3026
     },
     {
         "service": "dynamodb",
         "videoId": "FwWT6a3ikZ4",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT205",
+            "Databases",
+            "Verizon Media",
+            "Amazon DynamoDB"
+        ],
         "title": "AWS re:Invent 2019: How Verizon Media implemented push notification using Amazon DynamoDB (DAT205)",
-        "date": "2019/12/05"
+        "description": "Verizon Media had to create a better, stronger, and faster push notification system to serve the requirements of iconic Verizon brands, fulfill push notification completion time of 27 million devices in under three minutes, and consistently show the push \"toast\" on all users’ lock screens. Verizon decided to use Amazon DynamoDB and other AWS services such as Amazon ElastiCache and Amazon SQS in conjunction with its own Vespa search engine to power all the use cases of its brands. It also uses Kubernetes to orchestrate microservices across many Amazon EC2 instances. Join this session to learn how Verizon has been able to accomplish all of this.",
+        "date": "2019-12-05T17:56:57Z",
+        "duration": 3267
     },
     {
         "service": "dynamodb",
         "videoId": "msxD0bTFu2A",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ENT308-S",
+            "New Relic",
+            "Fleet Complete"
+        ],
         "title": "AWS re:Invent 2019: Build your next microservices application with modern AWS services (ENT308-S)",
-        "date": "2019/12/03"
+        "description": "Learn how easy it is to get started with a new application composed of several microservices on AWS Lambda, Amazon EKS, Amazon SQS, and Amazon DynamoDB. In this session, you first learn through live demonstration how to do basic administration, such as deploying an application and inspecting the relevant Kubernetes resources. Next, you learn some troubleshooting practices (using log files, accessing containers, etc.) and dive into advanced troubleshooting. Innovate faster with software as you learn to leverage some of the most modern services on AWS. This presentation is brought to you by New Relic, an APN Partner.",
+        "date": "2019-12-03T18:04:03Z",
+        "duration": 2817
     },
     {
         "service": "dynamodb",
         "videoId": "fuDZq-EspNA",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "Architecture",
+            "Amazon EC2",
+            "AWS Lambda",
+            "ARC372-P"
+        ],
         "title": "AWS re:Invent 2019: SaaS tenant isolation patterns (ARC372-P)",
-        "date": "2019/12/05"
+        "description": "This presentation was recorded prior to re:Invent. Tenant isolation is one of the most fundamental aspects of SaaS architecture. Every SaaS provider must consider how to ensure that their tenant resources are isolated and secure. The challenge is that each resource type (compute, storage, etc.) requires different isolation approaches. In this session, we build a clear roadmap for navigating the landscape of isolation options, highlighting the strategies for achieving isolation spanning the different multi-tenancy models and AWS services. Our goal is to create a comprehensive view of the considerations that impact your approach to introducing isolation into your SaaS solution.",
+        "date": "2019-12-05T22:35:36Z",
+        "duration": 3161
     },
     {
         "service": "dynamodb",
         "videoId": "HaEPXoXVf2k",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT401"
+        ],
         "title": "AWS re:Invent 2018: Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (DAT401)",
-        "date": "2018/11/28"
+        "description": "This session is for those who already have some familiarity with DynamoDB. The patterns and data models discussed in this session summarize a collection of implementations and best practices leveraged by Amazon.com to deliver highly scalable solutions for a wide variety of business problems. The session also covers strategies for global secondary index sharding and index overloading, scalable graph processing with materialized queries, relational modeling with composite keys, and executing transactional workflows on DynamoDB.",
+        "date": "2018-11-28T18:41:19Z",
+        "duration": 3596
     },
     {
         "service": "dynamodb",
         "videoId": "sI-zciHAh-4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "dynamodb",
+            "database",
+            "nonrelational",
+            "nosql"
+        ],
         "title": "What is Amazon DynamoDB?",
-        "date": "2018/10/18"
+        "description": "Learn more about Amazon DynamoDB at https://amzn.to/2COvCEQ.\nAmazon DynamoDB is a nonrelational database that delivers performance at any scale. It's a fully managed, multiregion, multimaster database service that adapts to your throughput needs, and offers built-in security, backup and restore, and in-memory caching. More than 100,000 AWS customers have chosen DynamoDB for mobile, web, gaming, ad tech, IoT, and other applications that need consistent, low latency data access.",
+        "date": "2018-10-18T16:57:10Z",
+        "duration": 62
     },
     {
         "service": "dynamodb",
         "videoId": "W3S1OnDqWl4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build with DynamoDB | S1 E1 – Intro to Amazon DynamoDB",
-        "date": "2019/04/28"
+        "description": "In this first episode, we take a few minutes to share the latest news about Amazon DynamoDB, followed by a hands-on session on geting started with DynamoDB. Along the way, we talk about the fundamental concepts including basic operations as well as what makes DynamoDB a reliable and massively scalable database. Last but not least, bring your questions—“Ask me anything” style—about DynamoDB.\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-04-28T10:35:04Z",
+        "duration": 3208
     },
     {
         "service": "dynamodb",
         "videoId": "yvBR71D0nAQ",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT321",
+            "Amazon DynamoDB"
+        ],
         "title": "AWS re:Invent 2018: Amazon DynamoDB Under the Hood: How We Built a Hyper-Scale Database (DAT321)",
-        "date": "2018/11/27"
+        "description": "Come to this session to learn how Amazon DynamoDB was built as the hyper-scale database for internet-scale applications. In January 2012, Amazon launched DynamoDB, a cloud-based NoSQL database service designed from the ground up to support extreme scale, with the security, availability, performance, and manageability needed to run mission-critical workloads. This session discloses for the first time the underpinnings of DynamoDB, and how we run a fully managed nonrelational database used by more than 100,000 customers. We cover the underlying technical aspects of how an application works with DynamoDB for authentication, metadata, storage nodes, streams, backup, and global replication.",
+        "date": "2018-11-27T19:09:53Z",
+        "duration": 3223
     },
     {
         "service": "dynamodb",
         "videoId": "Rmf8mrJ3X2s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build On DynamoDB | S1 E2 – Intro to NoSQL Data Modeling with Amazon DynamoDB",
-        "date": "2019/05/16"
+        "description": "In this episode, we learn about the basic concepts and key building blocks of NoSQL data modeling in Amazon DynamoDB. Our experts use practical, real-life examples to explain the process of designing data models for scale and performance. Bring questions!\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-05-16T18:17:08Z",
+        "duration": 3451
     },
     {
         "service": "dynamodb",
         "videoId": "nhUtZ7suZWI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build with DynamoDB | S1 E4 – Advanced NoSQL Data Modeling with Amazon DynamoDB",
-        "date": "2019/06/19"
+        "description": "This episode continues where the last episode ended, with an example of data modeling for a movie database. You will learn how to model relational data, entities, and relationships in DynamoDB to satisfy various access patterns, and how to make the most of global secondary indexes in DynamoDB. Bring questions!\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/live-video/",
+        "date": "2019-06-19T23:19:04Z",
+        "duration": 2263
     },
     {
         "service": "dynamodb",
         "videoId": "mcZwJQ7O8iw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build with DynamoDB | S1 E5 – A Data Modeling Use Case Deep Dive",
-        "date": "2019/06/19"
+        "description": "Join Amazon DynamoDB experts as they take a relational data model from a real-world use case and demonstrate how to implement it step by step in DynamoDB. Come with questions!\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/live-video/",
+        "date": "2019-06-19T23:19:04Z",
+        "duration": 3482
     },
     {
         "service": "dynamodb",
         "videoId": "jzeKPKpucS0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Databases",
+            "DAT403-R",
+            "DynamoDB"
+        ],
         "title": "AWS re:Invent 2017: [REPEAT] Advanced Design Patterns for Amazon DynamoDB (DAT403-R)",
-        "date": "2017/12/02"
+        "description": "This session, we go deep into advanced design patterns for DynamoDB. This session is intended for those who already have some familiarity with DynamoDB and are interested in applying the design patterns covered in the DynamoDB deep dive session and hands-on labs for DynamoDB. The patterns and data models discussed in this presentation summarize a collection of implementations and best practices leveraged by the Amazon CDO to deliver highly scaleable solutions for a wide variety of business problems. In this session, we discuss strategies for GSI sharding and index overloading, scaleable graph processing with materialized queries, relational modeling with composite keys, executing transactional workflows on DynamoDB, and much, much more.",
+        "date": "2017-12-03T01:44:55Z",
+        "duration": 2963
     },
     {
         "service": "dynamodb",
         "videoId": "KlhS7hSnFYs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build with DynamoDB | S1 E3 – NoSQL Data Modeling with Amazon DynamoDB",
-        "date": "2019/05/29"
+        "description": "Join Amazon DynamoDB experts for another round of NoSQL data modeling, this time to learn about more advanced data modeling concepts using real-world examples. Learn about using sort keys to model item hierarchies, best practices for managing many-to-many relationships, and using write sharding to evenly distribute your workload. \n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-05-29T20:12:57Z",
+        "duration": 3443
     },
     {
         "service": "dynamodb",
         "videoId": "R1IXFTXll7E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Apache Cassandra",
+            "DynamoDB"
+        ],
         "title": "How to Migrate from Apache Cassandra to Amazon DynamoDB and Save 60%",
-        "date": "2019/04/18"
+        "description": "Learn more about AWS Startups at – https://amzn.to/2XleYmg \nAnirban Roy, Lead Engineer at GumGum, talks about how to migrate from Apache Cassandra to Amazon DynamoDB and save 60% at the 2019 AWS Summit - Anaheim.",
+        "date": "2019-04-18T18:39:00Z",
+        "duration": 1282
     },
     {
         "service": "dynamodb",
         "videoId": "nSKCtouRGhs",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT303",
+            "Amazon DynamoDB"
+        ],
         "title": "AWS re:Invent 2018: Protecting Your Greatest Asset: Security Best Practices on DynamoDB (DAT303)",
-        "date": "2018/11/27"
+        "description": "In this session, learn about the security features built into Amazon DynamoDB and how you can best use them to protect your data. We show you how customers are using the available options for controlling access to their tables and the content stored within those tables. We also show you how customers are protecting the contents of their tables with encryption, and how they monitor access to their data. Complete Title: AWS re:Invent 2018: Protecting Your Greatest Asset (Your Data): Security Best Practices on DynamoDB (DAT303)",
+        "date": "2018-11-27T19:01:46Z",
+        "duration": 2704
     },
     {
         "service": "dynamodb",
         "videoId": "eTbBdXJq8ss",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT201",
+            "Amazon DynamoDB"
+        ],
         "title": "AWS re:Invent 2018: A Deep Dive into What's New for Amazon DynamoDB (DAT201)",
-        "date": "2018/11/29"
+        "description": "This is the general what's-new session for Amazon DynamoDB in which we cover newly announced features and provide an end-to-end view of recent innovations. We also share some customer success stories and use cases. Come to this session to learn all about what’s new for DynamoDB.",
+        "date": "2018-11-29T18:21:08Z",
+        "duration": 3639
     },
     {
         "service": "dynamodb",
         "videoId": "tDqLwzQEOmM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Big Data & HPC",
+            "Introductory",
+            "Amazon DynamoDB",
+            "Web App",
+            "Security",
+            "Scale",
+            "Performance",
+            "NoSQL",
+            "Database",
+            "Big Data",
+            "Here",
+            "Architect",
+            "Startup",
+            "Public Sector",
+            "Enterprise",
+            "Developer",
+            "Jason Lambert",
+            "David Yanacek",
+            "database",
+            "nosql tutorial",
+            "NoSQL Cloud Database Service",
+            "cloud computing event"
+        ],
         "title": "AWS re:Invent 2014: From Zero to NoSQL Hero - Amazon DynamoDB Tutorial (BDT203)",
-        "date": "2014/11/17"
+        "description": "Got data? Interested in learning about NoSQL? In this session, we take you from not knowing anything about Amazon DynamoDB to being able to build an advanced application on top of DynamoDB. Learn more: http://amzn.to/2jkMqJS",
+        "date": "2014-11-18T00:10:41Z",
+        "duration": 2678
     },
     {
         "service": "dynamodb",
         "videoId": "R-KS_sZRJ2w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "David Pearson",
+            "DynamoDB",
+            "Redshift",
+            "Amazon DynamoDB",
+            "Amazon Redshift",
+            "digital advertising"
+        ],
         "title": "Designing for scale - three steps to optimal data performance using DynamoDB and Redshift",
-        "date": "2013/09/20"
+        "description": "Learn how Digital Advertising customers are leveraging the integration between Amazon DynamoDB and Amazon Redshift to manage their high scale data, from creation to analysis. In this session, we will describe the three essential ingredients of efficient data flow in the cloud, and introduce a reference architecture that enables customers to meet the demands for low latency and high volume encountered in the Digital Advertising industry. Using existing SQL-based tools and business intelligence systems, you will learn how to gain deeper insight from your data at lower cost. The design principles presented here will be useful to every environment where managing data at scale is a challenge. Presented by David Pearson.",
+        "date": "2013-09-20T15:28:23Z",
+        "duration": 2642
     },
     {
         "service": "dynamodb",
         "videoId": "u6SBkDAs_Gg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "How do I set up DynamoDB TTL?",
-        "date": "2019/12/16"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2BSn9xS\nEkta, an AWS Cloud Support Engineer, shows you how to set up DynamoDB TTL.",
+        "date": "2019-12-17T02:16:16Z",
+        "duration": 308
     },
     {
         "service": "dynamodb",
         "videoId": "IvPuDFSE-S4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "startup",
+            "branch",
+            "aws",
+            "branchmetrics dynamodb",
+            "database platformengineering"
+        ],
         "title": "Scaling From Zero to Billions with DynamoDB [Branch Metrics]",
-        "date": "2019/04/03"
+        "description": "To attend one of our AWS Loft events, visit us at one of our many locations – https://amzn.to/2uOKIDX\nWhen Branch Metrics grew from zero to billions of daily transactions their engineering team had a major storage challenge that was far beyond their expectations. They quickly needed a cost effective, horizontally scalable, and low operational maintenance way to solve these massive database challenges - without compromising quality of service and availability to their customers.\n\nEngineering Director Ian Chan and Platform Engineer Ryan Churaman of Branch Metrics share how they leveraged DynamoDB and DAX to achieve massive scalability on a tight budget and with a very lean engineering team. They share insights into their technical architecture before and now, the criteria and methods used to evaluate and implement the right technology for their storage challenges, and discuss measures startups can take early-on to help mitigate challenges when your customer-base grows.\n\nSpeakers:\nIan Chan, Engineering Director, @ Branch Metrics\nRyan Churaman, Platform Engineer, @ Branch Metrics",
+        "date": "2019-04-03T21:01:17Z",
+        "duration": 3609
     },
     {
         "service": "dynamodb",
         "videoId": "hNAWdXaW0Fs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "nosql",
+            "dynamodb",
+            "amazon",
+            "web",
+            "services",
+            ".net",
+            "net core",
+            "microsoft"
+        ],
         "title": "AWS for Microsoft Workloads: Using Amazon DynamoDB with .NET",
-        "date": "2018/06/18"
+        "description": "For more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2t7AHBA.\nAmazon DynamoDB is a non-relational database service that delivers consistent, single-digit millisecond latency at any scale. This video provides instructions of connecting to DynamoDb using your C# application.",
+        "date": "2018-06-18T23:30:05Z",
+        "duration": 866
     },
     {
         "service": "dynamodb",
         "videoId": "fhnAvn2YxZA",
+        "tags": [
+            "aws",
+            "Summit",
+            "Chicago",
+            "Duolingo",
+            "amazon web services",
+            "customer stories"
+        ],
         "title": "Duolingo Stores 31 Billion Items on Amazon DynamoDB and Uses AWS to Deliver Language Lessons",
-        "date": "2016/04/25"
+        "description": "Learn more - http://amzn.to/1XSlyuR\nKarin Tsai, senior software engineer at Duolingo, talks about how the company uses AWS to create and run a personalized language-learning platform that reaches more than 18 million people a month. The company’s data-rich platform is powered by a range of AWS services including Amazon DynamoDB, a highly scalable database that stores more than 31 billion items used to generate exercises in 80 different languages.",
+        "date": "2016-04-25T21:42:44Z",
+        "duration": 364
     },
     {
         "service": "dynamodb",
         "videoId": "J8GJ4b4jLGI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Healint",
+            "Amazon DynamoDB",
+            "Amazon Simple Queue Service (SQS)",
+            "Amazon EC2",
+            "Amazon Simple Storage Service (S3)",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Healint: Handling Large Volumes of Sensor Data Using Amazon SQS and Amazon DynamoDB",
-        "date": "2018/09/20"
+        "description": "In this episode of This Is My Architecture - https://amzn.to/2Qk71Li, Nicolas from Healint explains how they reliably store and process sensor data from their Migraine tracking mobile application using Amazon SQS and Amazon DynamoDB. Using queues and workers to decouple writes and periodic archiving of time series data allows them to scale DynamoDB throughput without having to overprovision capacity.\n\nHost: Arthi Jaganathan, Solutions Architect, AWS\nSpeaker: Nicolas Paris, Head of Data, Healint\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2018-09-20T18:23:17Z",
+        "duration": 343
     },
     {
         "service": "dynamodb",
         "videoId": "IgFvWaSQaeg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Building Modern Apps Using Amazon DynamoDB Transactions",
-        "date": "2019/01/31"
+        "description": "DynamoDB transactions enable developers to maintain the correctness of their data at scale by adding atomicity and isolation guarantees for multi-item conditional updates. With transactions, you can perform a batch of conditional operations, including PutItem, UpdateItem, and DeleteItem, with guarantees. Join expert guest Edin Zulich, Sr. Specialist Solutions Architect at AWS, and learn how DynamoDB transactions work, the primary use cases it enables, and how to build modern applications that require transactions.\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-01-31T19:07:31Z",
+        "duration": 2866
     },
     {
         "service": "dynamodb",
         "videoId": "1CN0y2bfHac",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Introducing DynamoDB On-Demand",
-        "date": "2018/11/30"
+        "description": "Learn about the recently announced Amazon DynamoDB on-demand capacity mode. DynamoDB on-demand is a flexible new capacity mode for DynamoDB capable of serving thousands of requests per second without capacity planning. DynamoDB on-demand offers simple pay-per-request pricing for read and write requests so that you only pay for what you use, making it easy to balance costs and performance. Get started | https://aws.amazon.com/dynamodb \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:49:03Z",
+        "duration": 1221
     },
     {
         "service": "dynamodb",
         "videoId": "sphOT_e4WJ8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "NEW LAUNCH! DynamoDB Just Got Faster: Deep Dive on DAX and More",
-        "date": "2017/04/24"
+        "description": "Learn more about AWS at - http://amzn.to/2oorpAS\n\nAmazon DynamoDB is the infinite scale database that powers Amazon. Explore Amazon DynamoDB capabilities and benefits in detail and learn how to get the most out of your DynamoDB database. We go over best practices for multiple use cases, including gaming, Ad Tech, IoT, and others. We’ll explore new features, including DynamoDB Accelerator (DAX), TTL, Tagging, VPC Endpoints for DynamoDB. Learn how customers have successfully used these features to deploy their applications.",
+        "date": "2017-04-24T17:21:53Z",
+        "duration": 2622
     },
     {
         "service": "dynamodb",
         "videoId": "Yj2LAL8mbPI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos"
+        ],
         "title": "How do I prepare my environment to work with the AWS CLI and DynamoDB?",
-        "date": "2018/07/31"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/prepare-environment-aws-cli-dynamodb-ec2/\n\nSayem, an AWS Cloud Support Engineer, shows you how to prepare your environment to work with the AWS CLI and DynamoDB.",
+        "date": "2018-07-31T13:40:51Z",
+        "duration": 428
     },
     {
         "service": "dynamodb",
         "videoId": "6A1tOFqvgek",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT320",
+            "Amazon DynamoDB"
+        ],
         "title": "AWS re:Invent 2018: Becoming a Nimble Giant: How Amazon DynamoDB Serves Nike at Scale (DAT320)",
-        "date": "2018/12/04"
+        "description": "In this session, learn how Nike Digital migrated their large clusters of Cassandra and Couchbase to a fully managed Amazon DynamoDB. We share how Cassandra and Couchbase proved to be operationally challenging for engineering teams and failed to meet the needs to scale up for high-traffic product launches. We discuss how DynamoDB’s flexible data model allows Nike to focus on innovating for our consumer experiences without managing database clusters. We also share the best practices we learned on how to effectively use DynamoDB’s TTL, Auto Scaling, on-demand backups, point-in-time recovery, and adaptive capacity for applications that require scale, performance, and reliability to meet Nike’s business requirements.",
+        "date": "2018-12-05T00:46:20Z",
+        "duration": 2571
     },
     {
         "service": "dynamodb",
         "videoId": "AgL6x1Qnq_c",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "CloudFormation",
+            "Auto Scaling",
+            "Amazon DynamoDB",
+            "demo"
+        ],
         "title": "How to Use AWS CloudFormation to Configure Auto Scaling for Amazon DynamoDB Tables and Indexes",
-        "date": "2018/03/28"
+        "description": "In this five-minute tutorial to accompany the blog post, https://amzn.to/2FZ5fxO, Eric Z. Beard explains how to use AWS CloudFormation to configure auto scaling for Amazon DynamoDB tables and indexes.",
+        "date": "2018-03-28T16:30:33Z",
+        "duration": 309
     },
     {
         "service": "dynamodb",
         "videoId": "WUleQzu9l_8",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Databases",
+            "DAT325",
+            "DynamoDB",
+            "Migration",
+            "Storage"
+        ],
         "title": "AWS re:Invent 2017: Snapchat Stories on Amazon DynamoDB (DAT325)",
-        "date": "2017/11/29"
+        "description": "The backend for the Snapchat Stories feature includes Snapchat's largest storage write workload. Learn how we rebuilt this workload for Amazon DynamoDB and executed the migration. Safely moving such a critical and high-scale piece of the Stories infrastructure to a new system, right before yearly peak usage, led to interesting challenges. In this session, we cover data model changes to leverage DynamoDB strengths and improve both performance and cost. We also cover challenges and risks in making remote calls across cloud providers, dealing with issues of scale, forecasting capacity requirements, and how to mitigate the risks of taking an unproven system through the dramatic traffic spikes that occur on New Year's Eve.",
+        "date": "2017-11-29T17:04:14Z",
+        "duration": 3026
     },
     {
         "service": "dynamodb",
         "videoId": "ZMkLhD8OxYQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Dynamo DB",
+            "DAX",
+            ".NET"
+        ],
         "title": "Integrating Amazon DynamoDB DAX into Your ASP.NET Application",
-        "date": "2018/11/21"
+        "description": "Amazon DynamoDB Accelerator (DAX) is a fully managed, highly available, in-memory cache for DynamoDB that delivers up to a 10x performance improvement – from milliseconds to microseconds – even at millions of requests per second. DAX does all the heavy lifting required to add in-memory acceleration to your DynamoDB tables, without requiring developers to manage cache invalidation, data population, or cluster management. \n\nFor more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2t7AHBA.",
+        "date": "2018-11-21T20:44:31Z",
+        "duration": 217
     },
     {
         "service": "dynamodb",
         "videoId": "wjJ3Dkl6VS4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "AWS Cloud",
+            "Amazon DynamoDB",
+            "DynamoDB",
+            "cloud database",
+            "database",
+            "ssd",
+            "nosql",
+            "nosql database",
+            "yt:stretch=16:9"
+        ],
         "title": "AWSLIVE: Introducing Amazon DynamoDB, a fully managed NoSQL database service",
-        "date": "2012/01/18"
+        "description": "Watch the live announcement of our new NoSQL database service - DynamoDB. Amazon.com CTO, Werner Vogels talks about the service and how it seamlessly scales with zero administration. He is also joined by Ariel Kelman, Head of AWS WW Marketing, Swami Svbasubramanian, GM of DynamoDB and a customer Don MacAskill, CEO and Chief Geek of SmugMug. To learn more, visit http://aws.amazon.com/dynamodb. Recorded January 18, 2012.",
+        "date": "2012-01-19T05:46:35Z",
+        "duration": 1784
     },
     {
         "service": "dynamodb",
         "videoId": "wNatYTAyheA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "Live Coding",
+            "AWS Summit",
+            "AWS DynamoDB"
+        ],
         "title": "Amazon DynamoDB Point-in-time Recovery",
-        "date": "2018/04/10"
+        "description": "Learn about the new Amazon DynamoDB Continuous Backups and Point-In-Time Recovery (PITR). PITR provides continuous backups of your DynamoDB table data and it helps protect against accidental writes or deletes. Visit https://amzn.to/2IO170H for more information.",
+        "date": "2018-04-10T17:09:28Z",
+        "duration": 842
     },
     {
         "service": "dynamodb",
         "videoId": "XByPxb_VvpY",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Developer Tools",
+            "DEV303",
+            "Jason Fulghum - Amazon Web Services",
+            "Karthi Thyagarajan - Amazon Web Services",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (DEV303) Practical DynamoDB Programming in Java",
-        "date": "2015/10/09"
+        "description": "Come learn practical ways to use Amazon DynamoDB and see them demonstrated with the AWS SDK for Java.  We’ll show you how to build systems that dynamically transform your DynamoDB data using DynamoDB Streams and AWS Lambda.  Using the AWS Toolkit for Eclipse, we’ll quickly and easily build Lambda functions that act as triggers for events in your system.  We’ll cover techniques for batch processing DynamoDB data, demonstrate how to rate limit your requests to control how quickly you consume provisioned throughput, and even show you some techniques for offloading this processing to a completely managed environment in AWS Lambda.",
+        "date": "2015-10-09T22:16:29Z",
+        "duration": 2921
     },
     {
         "service": "dynamodb",
         "videoId": "gllNauRR8GM",
-        "title": "AWS re:Invent 2016: Migrating a Scalable Database from Oracle to DynamoDB (ARC404)",
-        "date": "2016/12/03"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Architecture",
+            "ARC404",
+            "Shreekant Kishor Mandke",
+            "Amazon.com",
+            "Expert (400 Level)"
+        ],
+        "title": "AWS re:Invent 2016: Migrating a  Scalable Database from Oracle to DynamoDB (ARC404)",
+        "description": "In this session, we share how an Amazon.com team that owns a document management platform that manages billions of critical customer documents for Amazon.com migrated from a relational to a non-relational database. Initially, the service was built as an Oracle database. As it grew, the team discovered the limits of the relational model and decided to migrate to a non-relational database. They chose Amazon DynamoDB for its built-in resilience, scalability, and predictability. We provide a template that you can use to migrate from a relational data store to DynamoDB. We also provide details about the entire process: design patterns for moving from a SQL schema to a NoSQL schema; mechanisms used to transition from an ACID (Atomicity, Consistency, Isolation, Durability) model to an eventually consistent model; migration alternatives considered; pitfalls in common migration strategies; and how to ensure service availability and consistency during migration.",
+        "date": "2016-12-03T18:06:11Z",
+        "duration": 2837
     },
     {
         "service": "dynamodb",
         "videoId": "eEAAx89oDdk",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT314",
+            "Amazon DynamoDB",
+            "AWS",
+            "Database Migration",
+            "Service (AWS DMS)",
+            "Schema Conversion Tool"
+        ],
         "title": "AWS re:Invent 2018: Migrating Your NoSQL Database to Amazon DynamoDB (DAT314)",
-        "date": "2018/11/29"
+        "description": "AWS Database Migration Service (AWS DMS) and AWS Schema Conversion Tool (AWS SCT) can help migrate databases from many supported data sources to supported targets. In this session, we review how the combination of AWS DMS and AWS SCT can help migrate your NoSQL databases, such as MongoDB and Cassandra, to Amazon DynamoDB. We provide an overview of AWS DMS and AWS SCT, and we demonstrate migrating a sample Cassandra database into DynamoDB.",
+        "date": "2018-11-29T18:20:35Z",
+        "duration": 3010
     },
     {
         "service": "dynamodb",
         "videoId": "5KWh1F24sJE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "VPC Endpoints",
+            "Amazon DynamoDB",
+            "NAT gateway access",
+            "IAM policies"
+        ],
         "title": "VPC Endpoints for Amazon DynamoDB",
-        "date": "2017/08/16"
+        "description": "Learn more about Amazon DynamoDB at - http://amzn.to/2vE750m.\nVPC Endpoints for DynamoDB enables you to have all network traffic between your Amazon Virtual Private Cloud (VPC) and Amazon DynamoDB stay within the AWS cloud instead of traversing the public internet. If you’re connecting to DynamoDB from a VPC, here are four reasons that make using VPC Endpoints for DynamoDB a no-brainer. First, while normal charges apply for NAT gateway access, there is no additional cost for using VPC Endpoints for DynamoDB. Second, with VPC Endpoints for DynamoDB, you do not need an Internet gateway or NAT gateway. This ensures your VPC remains closed and isolated from the public Internet. Third, VPC endpoints offer simplified network configuration that removes the need for you to set up and maintain firewalls to keep you VPC secure from network attacks. Fourth, you can use IAM policies to allow DynamoDB access through VPC endpoints only from your corporate network, and only from specific applications. VPC Endpoints for DynamoDB is now generally available in all public AWS regions.",
+        "date": "2017-08-16T18:41:58Z",
+        "duration": 95
     },
     {
         "service": "dynamodb",
         "videoId": "3mf9fnkjVtU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "serverless",
+            "event driven architecture",
+            "Amazon DynamoDB",
+            "AWS Lambda",
+            ".NET Core",
+            "streams",
+            ".NET Core 2.1",
+            "RabbitMQ",
+            "This is My Code",
+            "TMC"
+        ],
         "title": "carsales.com: Processing DynamoDB Streams Reliably and at Scale with .NET Core 2.1 in AWS Lambda",
-        "date": "2018/12/21"
+        "description": "On this episode of This Is My Code - https://amzn.to/2SZRml2, carsales.com, Australia's leading automotive classified business, shows how they use event-driven architectures to ingest and process Amazon DynamoDB streams with AWS Lambda efficiently, reliably, and at scale. You'll learn how carsales.com uses .NET Core 2.1 to process customer-supplied vehicle data, transform it, and publish it to a RabbitMQ message broker for other services to consume.\n\nHost: Gerardo Estaba, Solutions Architect, Amazon Web Services\nCustomer: Tuan Hong, Senior Developer, carsales.com\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2018-12-21T20:42:33Z",
+        "duration": 317
     },
     {
         "service": "dynamodb",
         "videoId": "8OfX1218MFo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Office Hours Database Deep Dive | S1 E2 – Scaling Up with DynamoDB",
-        "date": "2019/05/21"
+        "description": "With more databases available now than ever before, it's hard to make sense of which is best to use for your data. Join co-hosts Nick and Randall for Database Deep Dive, a live video series helping make sense of everything in the world of databases. \n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-05-21T23:12:11Z",
+        "duration": 3897
     },
     {
         "service": "dynamodb",
         "videoId": "9iphbb0w-ig",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            ".NET",
+            "DynamoDB",
+            "Session State",
+            "Monolith"
+        ],
         "title": "Using Amazon DynamoDb for ASP.NET Framework Session State",
-        "date": "2018/11/21"
+        "description": "Amazon DynamoDB is a non-relational database service that delivers consistent, single-digit millisecond latency at any scale. This video provides instructions of How to use DynamoDb for ASP.NET Framework Session State. \n\nFor more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2t7AHBA.",
+        "date": "2018-11-21T20:43:00Z",
+        "duration": 525
     },
     {
         "service": "dynamodb",
         "videoId": "RlKndm22bXw",
+        "tags": [
+            "DynamoDB EMR",
+            "EMR",
+            "Software",
+            "Cloud Technology",
+            "Elastic MapReduce",
+            "Elastic Map-Reduce",
+            "Elastic Map Reduce",
+            "AWS",
+            "Amazon Web Services",
+            "Simple Storage Service",
+            "S3",
+            "Amazon S3 (Internet Protocol)",
+            "DynamoDB",
+            "DynamoDB Data",
+            "EMR export"
+        ],
         "title": "Using Amazon Elastic MapReduce (EMR) to Export and Analyze DynamoDB Data",
-        "date": "2012/07/05"
+        "description": "Integrating Amazon DynamoDB with EMR enables several powerful scenarios such as data export to Amazon Simple Storage Service (Amazon S3) and cost-effective processing of vast amounts of data. An accompanying walk-through provides instructions for you to try the steps shown in the video. This walk-through is available at http://docs.amazonwebservices.com/amazondynamodb/walkthroughs/",
+        "date": "2012-07-05T18:04:09Z",
+        "duration": 314
     },
     {
         "service": "dynamodb",
         "videoId": "f0sE_dNrimU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Lambda",
+            "S3",
+            "serverless",
+            "serverless design pattern",
+            "DynamoDB",
+            "NoSQL"
+        ],
         "title": "Serverless Data Import to DynamoDB using S3 and Lambda",
-        "date": "2020/04/30"
+        "description": "Amazon DynamoDB is a fast, web-scale NoSQL database that is central to many serverless applications. The S3-to-Lambda pattern can be used to load data into a DynamoDB table directly from objects stored in an S3 bucket.\n\nWhether you have a handful of very large files, or many smaller ones, this approach loads the data quickly and reliably. See how you can set this up in your own applications with this walkthrough and downloadable GitHub repository. \n\nThis series is about the S3-to-Lambda serverless design pattern, and how it can become a flexible core for your serverless applications. To learn more, see the other videos in this series.\n\nLearn more about AWS Lambda at https://go.aws/2VRIGRY\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-04-30T21:21:21Z",
+        "duration": 472
     },
     {
         "service": "dynamodb",
         "videoId": "ziqm6q-JsGQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws builders day",
+            "builders day",
+            "developers",
+            "buildon",
+            "databases",
+            "dynamoDB",
+            "Schema Design"
+        ],
         "title": "AWS Builders' Day | DynamoDB and Schema Design",
-        "date": "2018/12/19"
+        "description": "See what you can build: https://amzn.to/2ryQs3a.\nGet started with Databases at https://aws.amazon.com/products/databases/#.\n\nThe size and complexity of the data that needs to be analysed today, means the same technology and approaches that worked in the past, don’t work anymore. To get the most value from your data, AWS provides the most comprehensive, secure, scalable, and cost-effective portfolio of services that enables you to build your data lake in the cloud, analyze all of your data, including data from IoT devices with a variety of analytical approaches including machine learning.",
+        "date": "2018-12-19T21:20:51Z",
+        "duration": 3076
     },
     {
         "service": "dynamodb",
         "videoId": "iKrKfY2IcZQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon DynamoDB January 2016 Day at the NY Loft - DynamoDB Design Patterns and Best Practices",
+            "NoSQL",
+            "SQL",
+            "DynamoDB",
+            "JSON",
+            "JSON Document Store"
+        ],
         "title": "Amazon DynamoDB April 2016 Day at the NY Loft - DynamoDB Design Patterns and Best Practices",
-        "date": "2016/06/15"
+        "description": "Learn more at http://amzn.to/1VClyAS\n\n- - - - - - - - - - \nThis session will begin with an introduction to non-relational (NoSQL) databases and compare them with relational (SQL) databases. We will also explain the fundamentals of Amazon DynamoDB, a fully managed NoSQL database service. \n\nLearn the fundamentals of DynamoDB and see the DynamoDB console first-hand as we discuss common use cases and benefits of this high-performance key-value and JSON document store.",
+        "date": "2016-06-15T16:12:42Z",
+        "duration": 1336
     },
     {
         "service": "dynamodb",
         "videoId": "PYDmx_8csJ4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - DynamoDB Backup-Restore & Global Tables",
-        "date": "2017/12/08"
+        "description": "On-Demand Backup allows you to create full backups of your DynamoDB tables data and settings for data archival, helping you meet your corporate and governmental regulatory requirements. Learn more at - http://amzn.to/2l1Z0iX. \n\nYou can backup tables from a few to hundreds of terabytes of data instantaneously, with no impact on performance and availability to your production applications. Global Tables builds upon DynamoDB’s global footprint to provide a fully managed multi-region, multi-master global database that provides fast local read and write performance for massively scaled applications with globally dispersed users. Global Tables handles the difficult work of automatically replicating data between regions and resolving update conflicts, enabling developers to focus on the application logic when building globally distributed applications. \n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:35:42Z",
+        "duration": 1075
     },
     {
         "service": "dynamodb",
         "videoId": "eTbBdXJq8ss",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT201",
+            "Amazon DynamoDB"
+        ],
         "title": "AWS re:Invent 2018: A Deep Dive into What's New for Amazon DynamoDB (DAT201)",
-        "date": "2018/11/29"
+        "description": "This is the general what's-new session for Amazon DynamoDB in which we cover newly announced features and provide an end-to-end view of recent innovations. We also share some customer success stories and use cases. Come to this session to learn all about what’s new for DynamoDB.",
+        "date": "2018-11-29T18:21:08Z",
+        "duration": 3639
     },
     {
         "service": "dynamodb",
         "videoId": "tTQ36qQF_vA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Multi-region Replication",
+            "HA",
+            "AWS Solutions",
+            "reInvent 2019",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon DynamoDB",
+            "Amazon Cognito",
+            "This is My Architecture",
+            "TMA"
+        ],
         "title": "AWS Solutions: Multi-Region Availability with Amazon DynamoDB, Amazon S3, and Amazon Cognito (LIVE)",
-        "date": "2020/01/13"
+        "description": "George Bearden from the AWS Solutions Builders team sheds light on common challenges of multi-region availability. In many cases, data redundancy can be achieved through built-in features such as Amazon S3's cross-region replication and versioning. However, services like Amazon Cognito require a bit more work. Learn what AWS has done to help you minimize your effort.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-01-14T00:02:04Z",
+        "duration": 312
     },
     {
         "service": "dynamodb",
         "videoId": "yHSuK_k3dxU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Services Deep Dive",
+            "Expert",
+            "Amazon DynamoDB",
+            "Architect",
+            "Developer",
+            "Akshat Vig",
+            "Parik Pol"
+        ],
         "title": "AWS re:Invent 2014 | (SDD424) Simplifying Scalable Distributed Applications Using DynamoDB Streams",
-        "date": "2014/11/14"
+        "description": "Dynamo Streams provides a stream of all the updates done to your DynamoDB table. It is a simple but extremely powerful primitive which will enable developers to easily build solutions like cross-region replication, and to host additional materialized views, for instance an ElasticSearch index, on top of DynamoDB tables. In this session we will dive deep into details of Dynamo Streams, and how customers can leverage Dynamo Streams to build custom solutions and to extend the functionality of DynamoDB. We will give a demo of an example application built on top of Dynamo Streams to demonstrate the power and simplicity of Dynamo Streams.",
+        "date": "2014-11-14T22:36:23Z",
+        "duration": 2832
     },
     {
         "service": "dynamodb",
         "videoId": "hH1oc8q2nFQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon DynamoDB",
+            "Auto Scaling"
+        ],
         "title": "Auto Scaling for Amazon DynamoDB",
-        "date": "2017/07/14"
+        "description": "Learn more about Amazon DynamoDB at http://amzn.to/2q94vhJ.\nStarting today, when you create a new DynamoDB table, it is enabled for Auto Scaling, which automatically scales read and write throughput capacity with dynamically changing request volumes.\n\nUntil now, DynamoDB read and write throughput had to be provisioned manually based on anticipated application demands, which could result in under provisioning or over provisioning of capacity. Under provisioning could slow down application performance, and over provisioning could result in underutilized resources and higher costs. With Auto Scaling, you simply set the desired throughput utilization target, and minimum and maximum limits, and Auto Scaling takes care of the rest.",
+        "date": "2017-06-14T22:35:43Z",
+        "duration": 103
     },
     {
         "service": "dynamodb",
         "videoId": "n9pMxdUbBGs",
+        "tags": [
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013getting-started",
+            "web-apps",
+            "media-entertainment",
+            "sqs",
+            "dynamodb",
+            "Ari-Neto",
+            "arc"
+        ],
         "title": "Massive Message Processing with Amazon SQS and Amazon DynamoDB (ARC301) | AWS re:Invent 2013",
-        "date": "2013/11/25"
+        "description": "Amazon Simple Queue Service (SQS) and Amazon DynamoDB build together a really fast, reliable and scalable layer to receive and process high volumes of messages based on its distributed and high available architecture. We propose a full system that would handle any volume of data or level of throughput, without losing messages or requiring other services to be always available. Also, it enables applications to process messages asynchronously and includes more compute resources based on the number of messages enqueued.\nThe whole architecture helps applications reach predefined SLAs as we can add more workers to improve the whole performance.   In addition, it decreases the total costs because we use new workers briefly and only when they are required.",
+        "date": "2013-11-25T23:27:43Z",
+        "duration": 3313
     },
     {
         "service": "dynamodb",
         "videoId": "RBfWk3a6Lus",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Financial Services",
+            "Big Data & Analytics",
+            "BDT313",
+            "Nathaniel Slater - Amazon Web Services",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (BDT313) Amazon DynamoDB for Big Data",
-        "date": "2015/10/12"
+        "description": "NoSQL is an important part of many big data strategies. Attend this session to learn how Amazon DynamoDB helps you create fast ingest and response data sets. We demonstrate how to use DynamoDB for batch-based query processing and ETL operations (using a SQL-like language) through integration with Amazon EMR and Hive. Then, we show you how to reduce costs and achieve scalability by connecting data to Amazon ElasticCache for handling massive read volumes. We’ll also discuss how to add indexes on DynamoDB data for free-text searching by integrating with Elasticsearch using AWS Lambda and DynamoDB streams. Finally, you’ll find out how you can take your high-velocity, high-volume data (such as IoT data) in DynamoDB and connect it to a data warehouse (Amazon Redshift) to enable BI analysis.",
+        "date": "2015-10-12T18:01:53Z",
+        "duration": 3156
     },
     {
         "service": "dynamodb",
         "videoId": "Oa2ptw5LsOs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "DynamoDB",
+            "Big Data"
+        ],
         "title": "AWS Seattle Big Data Meetup | DynamoDB Streams and Cross-region Replication",
-        "date": "2016/06/15"
+        "description": "Learn More: http://amzn.to/1YqspxT\n\n- - - - - - - - - - - - - - - - - - - \nSoftware applications nowadays are experiencing an accelerated growth in the amount of data they are required to process. As more software developers look to the cloud to solve scalability issues, many are choosing AWS DynamoDB as their NoSQL solution. One interesting challenge that follows is keeping data in-sync across various distributed locations, a crucial feature for application performance and failure recovery. \n\nWith the launch of AWS DynamoDB Streams, which exposes an event log of writes as a native service, real-time cross-region replication can be easily set up and maintained client-side. In this talk Daniela Miao, Software Developer on the DynamoDB team, addresses some of the challenges in setting up these replicas. The talk is followed by a live demonstration of how AWS Lambda can help bootstrap a real-time replica in an intuitive and cost-efficient manner.",
+        "date": "2016-06-15T15:42:12Z",
+        "duration": 3484
     },
     {
         "service": "dynamodb",
         "videoId": "bEkj6KzfClo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "NoSQL",
+            "DynamoDB",
+            "Amplitude",
+            "Loft",
+            "Amazon DynamoDB",
+            "DynamoDB Design Patterns and Best Practices",
+            "Amazon DynamoDB June 2016 Day at the SF Loft - DynamoDB Design Patterns and Best Practices"
+        ],
         "title": "Amazon DynamoDB June 2016 Day at the SF Loft - From SQL to DynamoDB",
-        "date": "2016/07/05"
+        "description": "Learn more at: http://amzn.to/29q38Qa\n\n- - - - - - - - - - - - - - - - - - - \nSQL databases are familiar and provide strong consistency guarantees that make life easy for developers. Things change once you start getting beyond the capacity of a single machine, however, as you are then often forced to manually handle sharding of the data. By migrating several of our large relational tables to DynamoDB, we at Amplitude were able to scale considerably beyond the capacity of a single machine while keeping application code simple. We leverage DynamoDB’s scalability, strong consistency, and low latency to build a real-time ingestion pipeline that handles over 30,000 events per second. We’ll be talking about the migration process as well as some best practices for working with DynamoDB.",
+        "date": "2016-07-05T16:21:09Z",
+        "duration": 1420
     },
     {
         "service": "dynamodb",
         "videoId": "WlTbaPXj-jc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon DynamoDB",
+            "NoSQL",
+            "Cloud database",
+            "AWS NoSQL",
+            "DynamoDB"
+        ],
         "title": "Lyft Easily Scales Up its Ride Location Tracking System with Amazon DynamoDB",
-        "date": "2016/09/09"
+        "description": "Learn more - http://amzn.to/2bJ7dEF\nChris Lambert, chief technology officer at Lyft, talks about how the company migrated one of its largest data stores to Amazon DynamoDB and how Lyft easily scales its ride location tracking system with DynamoDB write and read capacity knobs.",
+        "date": "2016-09-09T17:17:48Z",
+        "duration": 40
     },
     {
         "service": "dynamodb",
         "videoId": "8KKNMy-EYxA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Databases",
+            "DAT315",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2016: Streaming ETL for RDS and DynamoDB (DAT315)",
-        "date": "2016/12/03"
+        "description": "During this session Greg Brandt and Liyin Tang, Data Infrastructure engineers from Airbnb, will discuss the design and architecture of Airbnb's streaming ETL infrastructure, which exports data from RDS for MySQL and DynamoDB into Airbnb's data warehouse, using a system called SpinalTap. We will also discuss how we leverage Spark Streaming to compute derived data from tracking topics and/or database tables, and HBase to provide immediate data access and generate cleanly time-partitioned Hive tables.",
+        "date": "2016-12-03T21:53:35Z",
+        "duration": 2492
     },
     {
         "service": "dynamodb",
         "videoId": "EFDDjzIGxA0",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Databases",
+            "DAT304",
+            "DynamoDB"
+        ],
         "title": "AWS re:Invent 2017: DynamoDB - What's new (DAT304)",
-        "date": "2017/11/30"
+        "description": "This is the general session for Amazon DynamoDB and will cover newly announced features, as well as provide an end to end view of recent innovations. We will also share some of our successful customer stories and use cases. Come to this session to learn all about what’s new for DynamoDB!",
+        "date": "2017-11-30T17:00:33Z",
+        "duration": 2946
     },
     {
         "service": "dynamodb",
         "videoId": "h_u3Ig5Cpv0",
+        "tags": [
+            "AWS",
+            "AWS SDK for PHP",
+            "Amazon DynamoDB",
+            "PHP",
+            "Jeremy Lindblom",
+            "Michael Dowling",
+            "Guzzle"
+        ],
         "title": "AWS re: Invent TLS 305: Using Amazon DynamoDB Effectively with the AWS SDK for PHP",
-        "date": "2012/12/04"
+        "description": "Learn how to work with Amazon DynamoDB using the AWS SDK for PHP. Attendees learn about the AWS SDK for PHP including how to install and configure the SDK and how to perform operations with DynamoDB. Advanced discussion topics include tips for effective DynamoDB usage, request batching, performance tuning, configuring event listeners, and setting up the included DynamoDB session handler for session storage.",
+        "date": "2012-12-04T21:16:20Z",
+        "duration": 2499
     },
     {
         "service": "dynamodb",
         "videoId": "weWRdSqrxfs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS San Francisco Summit 2017",
+            "Amazon DynamoDB Accelerator (DAX)"
+        ],
         "title": "AWS Summit Series 2017 - San Francisco: Announcing Amazon DynamoDB Accelerator (DAX)",
-        "date": "2017/04/20"
+        "description": "Amazon DynamoDB Accelerator (DAX) is a fully-managed, highly-available, in-memory cache for DynamoDB that delivers up to a 10x performance improvement – from milliseconds to microseconds – even at millions of requests per second. DAX does all the heavy lifting required to add in-memory acceleration to your DynamoDB tables, without requiring developers to manage cache invalidation, data population, or cluster management. Now you can focus on building great applications for your customers without worrying about performance at scale.\n\nLearn more at - http://amzn.to/2oOKn26.",
+        "date": "2017-04-20T20:12:30Z",
+        "duration": 70
     },
     {
         "service": "dynamodb",
         "videoId": "ws2BnVYSFsg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "NoSQL",
+            "DynamoDB",
+            "Amplitude",
+            "Loft",
+            "Amazon DynamoDB June 2016 Day at the SF Loft - Deep Dive on Amazon DynamoDB",
+            "Amazon DynamoDB"
+        ],
         "title": "Amazon DynamoDB June 2016 Day at the SF Loft - Deep Dive on Amazon DynamoDB",
-        "date": "2016/07/02"
+        "description": "Learn more at: http://amzn.to/2946J5T\n\n- - - - - - - - - - - - - - - - - -\nRick Houlihan, Principal TPM, explores DynamoDB capabilities and benefits in detail and discusses how to get the most out of your DynamoDB database. We go over schema design best practices with DynamoDB across multiple use cases, including gaming, AdTech, IoT, and others. We also explore designing efficient indexes, scanning, and querying, and go into detail on a number of recently released features, including JSON document support, Streams, and more.",
+        "date": "2016-07-02T08:51:25Z",
+        "duration": 2987
     },
     {
         "service": "dynamodb",
         "videoId": "QfFSfFWromU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "DAT318",
+            "Nathaniel Slater",
+            "Advanced (300 Level)",
+            "Databases"
+        ],
         "title": "AWS re:Invent 2016: Migrating from RDBMS to NoSQL: How Sony Moved from MySQL to DynamoDB (DAT318)",
-        "date": "2016/12/03"
+        "description": "In this session, you will learn the key differences between a relational database management service (RDBMS) and non-relational (NoSQL) databases like Amazon DynamoDB. You will learn about suitable and unsuitable use cases for NoSQL databases. You'll learn strategies for migrating from an RDBMS to DynamoDB through a 5-phase, iterative approach. See how Sony migrated an on-premises MySQL database to the cloud with Amazon DynamoDB, and see the results of this migration.",
+        "date": "2016-12-03T22:03:57Z",
+        "duration": 2643
     },
     {
         "service": "dynamodb",
         "videoId": "eyUalcd_Ks0",
+        "tags": [
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013getting-started",
+            "databases",
+            "startups",
+            "DynamoDB",
+            "Dave Lang"
+        ],
         "title": "Production NoSQL in an Hour: Introduction to Amazon DynamoDB (DAT101) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "Amazon DynamoDB is a fully-managed, zero-admin, high-speed NoSQL database service. Amazon DynamoDB was built to support applications at any scale. With the click of a button, you can scale your database capacity from a few hundred I/Os per second to hundreds of thousands of I/Os per second or more. You can dynamically scale your database to keep up with your application's requirements while minimizing costs during low-traffic periods. The service has no limit on storage. You also learn about Amazon DynamoDB's design principles and history.",
+        "date": "2013-11-26T16:58:47Z",
+        "duration": 3080
     },
     {
         "service": "dynamodb",
         "videoId": "83-IWlvJ__8",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Databases",
+            "DAT326",
+            "AI",
+            "DynamoDB",
+            "Lex"
+        ],
         "title": "AWS re:Invent 2017: How DynamoDB Powered Amazon Prime Day 2017 (DAT326)",
-        "date": "2017/11/30"
+        "description": "Sales on Prime Day 2017 surpassed Black Friday and Cyber Monday, making it the biggest day ever in Amazon history. An event of this scale requires infrastructure that can easily scale to match the surge in traffic. In this session, learn how AWS and Amazon DynamoDB powered Prime Day 2017. DynamoDB requests from Amazon Alexa, the Amazon.com sites, and the Amazon fulfillment centers peaked at 12.9 million per second, a total of 3.34 trillion requests. Learn how the extreme scale, consistent performance, and high availability of DynamoDB let Amazon.com meet the needs of Prime Day without breaking a sweat.",
+        "date": "2017-11-30T16:48:33Z",
+        "duration": 2635
     },
     {
         "service": "dynamodb",
         "videoId": "HTrL72k_tX4",
+        "tags": [
+            "AWS",
+            "Amazon DynamoDB",
+            "AWS SDK for iOS",
+            "AWS SDK for Android",
+            "Core Data",
+            "DynamoDBMapper",
+            "Android (operating System)",
+            "Android",
+            "iOS",
+            "mobile",
+            "Bob Kinney",
+            "Data",
+            "Mobile Apps"
+        ],
         "title": "AWS re: Invent MBL 301: Data Persistence to Amazon DynamoDB for Mobile Apps",
-        "date": "2012/12/04"
+        "description": "Object modeling is a common practice in mobile applications. We present two methods for modeling objects backed by Amazon DynamoDB, the AWS Persistence Framework for Core Data and DynamoDBMapper. We cover the benefits and limitations of these two solutions and demonstrate sample applications built with both technologies.",
+        "date": "2012-12-04T21:05:32Z",
+        "duration": 2023
     },
     {
         "service": "dynamodb",
         "videoId": "FjleVmtkfWE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon DynamoDB",
+            "DynamoDB",
+            "Kinesis",
+            "Kinesis Firehose",
+            "Loft",
+            "SF Loft",
+            "AWS Loft",
+            "Recommendation Engine",
+            "NoSQL"
+        ],
         "title": "Amazon DynamoDB January 2016 Day at the SF Loft | Build a Location-Aware Recommendation Engine",
-        "date": "2016/03/22"
+        "description": "Learn more: http://aws.amazon.com/dynamodb/getting-started\nRecommendation engines help your prospects and customers find the most relevant offers and content. In this presentation, you will learn how to use AWS building blocks to build your own location-aware recommendation engine. You’ll see how to store real-time events using Amazon Kinesis and Amazon DynamoDB. See how to easily move data into Amazon Redshift using Kinesis Firehose. \n\nAs your site or app rises in popularity, you’ll need to track a wider variety of events and scale to handle traffic and usage spikes. Learn architectural patterns for processing large datasets and high-request volume applications. This is a very in-depth, technical session, walking through working code samples and architectures.",
+        "date": "2016-03-22T16:18:03Z",
+        "duration": 3301
     },
     {
         "service": "dynamodb",
         "videoId": "J8GJ4b4jLGI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Healint",
+            "Amazon DynamoDB",
+            "Amazon Simple Queue Service (SQS)",
+            "Amazon EC2",
+            "Amazon Simple Storage Service (S3)",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Healint: Handling Large Volumes of Sensor Data Using Amazon SQS and Amazon DynamoDB",
-        "date": "2018/09/20"
+        "description": "In this episode of This Is My Architecture - https://amzn.to/2Qk71Li, Nicolas from Healint explains how they reliably store and process sensor data from their Migraine tracking mobile application using Amazon SQS and Amazon DynamoDB. Using queues and workers to decouple writes and periodic archiving of time series data allows them to scale DynamoDB throughput without having to overprovision capacity.\n\nHost: Arthi Jaganathan, Solutions Architect, AWS\nSpeaker: Nicolas Paris, Head of Data, Healint\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2018-09-20T18:23:17Z",
+        "duration": 343
     },
     {
         "service": "dynamodb",
         "videoId": "7sZmhFonEUo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch"
+        ],
         "title": "Live Coding with AWS: Serverless Data with Amazon DynamoDB",
-        "date": "2017/04/21"
+        "description": "Visit the AWS Twitch Channel - http://bit.ly/2oShiD3\nJoin us for live coding on https://www.twitch.tv/aws every week to build exciting interactive applications. We cover almost every AWS service from the developer perspective. Occasionally we’ll have guests from throughout Amazon and the community to talk about their projects. You can always submit your ideas or questions via AWS-Twitch@amazon.com.",
+        "date": "2017-04-21T23:21:26Z",
+        "duration": 6001
     },
     {
         "service": "dynamodb",
         "videoId": "9ZrdllxR43Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit Tel Aviv",
+            "summit",
+            "Adrian Cockroft",
+            "amazon web services",
+            "כנס אמזון",
+            "אמזון ווב סרביסס",
+            "סאמיט 2019"
+        ],
         "title": "AWS Summit Tel Aviv 2019 | No Hassle NoSQL - Amazon DynamoDB & Amazon DocumentDB",
-        "date": "2019/03/27"
+        "description": "Learn more about AWS at - https://amzn.to/2HMsevy   \nNoSQL databases are a great fit for many modern applications such as mobile, web, and gaming that require flexible, scalable, high-performance, and highly functional databases to provide great user experiences but they can be hard to manage and require high proficiency and attention.In this session we will present Amazon DynamoDB, a fully managed, multi-region, multi-master database that provides consistent single-digit millisecond latency in any scale.\n\nView Slides: https://www.slideshare.net/AWSSummits/no-hassle-nosql-amazon-dynamodb-amazon-documentdb-aws-summit-tel-aviv-2019",
+        "date": "2019-03-27T17:12:13Z",
+        "duration": 2442
     },
     {
         "service": "dynamodb",
         "videoId": "XZ6xWuX1hAE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013getting-started",
+            "big-data-and-hpc",
+            "startups",
+            "emr",
+            "dynamodb",
+            "node.js",
+            "google-analytics",
+            "Jonathan-Keebler",
+            "BDT203",
+            "bdt"
+        ],
         "title": "Build Your Web Analytics with node.js, Amazon DynamoDB and Amazon EMR (BDT203) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "Want to learn how to build your own Google Analytics? Learn how to build a scalable architecture using node.js, Amazon DynamoDB, and Amazon EMR. This architecture is used by ScribbleLive to track billions of engagement minutes per month. In this session, we go over the code in node.js, how to store the data in Amazon DynamoDB, and how to roll-up the data using Hadoop and Hive.   Attend this session to learn how to move data quickly at any scale as well as how to use genomic analysis tools and pipelines for next generation sequencers using Globus on AWS.",
+        "date": "2013-11-26T19:44:46Z",
+        "duration": 2577
     },
     {
         "service": "dynamodb",
         "videoId": "9HFxDjyebn8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "AWS re: Invent",
+            "re: Invent Conference",
+            "Amazon DynamoDB",
+            "Nexmo",
+            "Earth Networks"
+        ],
         "title": "AWS re: Invent DAT 102: Introduction to Amazon DynamoDB",
-        "date": "2012/12/07"
+        "description": "Learn why Amazon DynamoDB is the fastest-growing service in AWS history. DynamoDB is a NoSQL database service that lets you scale from one to hundreds of thousands of I/Os per second (and beyond) with the push of a button. It's designed to give you scalability and high performance with minimal administration and enables you to scale your app while keeping costs down. You also learn about the service's design principles, its history, and about how some of our customers are using DynamoDB in their applications.",
+        "date": "2012-12-07T21:52:17Z",
+        "duration": 2530
     },
     {
         "service": "dynamodb",
         "videoId": "Ibl7u0xhRQw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "DevDays Nordics",
+            "Cloud technologies",
+            "Cloudcomputing",
+            "Dynamo DB"
+        ],
         "title": "AWS DevDays Nordics - Building Global Serverless Backends Powered by DynamoDB Global Tables",
-        "date": "2018/01/30"
+        "description": "This session has the following objectives\n1.Understand System Reliability and Availability.\n2.Understand why we build a Multi-Region Active-Active architecture.\n3.Understand how to build a Multi-Region Active-Active architecture on AWS.\n4.Hands-on Demo: Building Multi-Region Serverless App.\n\nLearn more about AWS at - http://amzn.to/2rVUBBp\nSlideshare - https://www.slideshare.net/AmazonWebServices/tag/devdaysnordics2018",
+        "date": "2018-01-30T22:25:24Z",
+        "duration": 3937
     },
     {
         "service": "dynamodb",
         "videoId": "Lq4aNihcS8A",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Databases",
+            "DAT328",
+            "DynamoDB",
+            "Migration"
+        ],
         "title": "AWS re:Invent 2017: Tinder and DynamoDB: It's a Match! Massive Data Migration, Zero (DAT328)",
-        "date": "2017/11/30"
+        "description": "Are you considering a massive data migration? Do you worry about downtime during a migration? Dr. JunYoung Kwak, Tinder’s Lead Engineering Manager, will share his insights on how Tinder successfully migrated critical user data to DynamoDB with zero downtime. Join us to learn how Tinder leverages DynamoDB performance and scalability to meet the needs of their growing global user base.",
+        "date": "2017-11-30T16:55:31Z",
+        "duration": 3669
     },
     {
         "service": "dynamodb",
         "videoId": "g1Yk0E6sslg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013customer-presentation",
+            "web-apps",
+            "startups",
+            "SmugMug",
+            "DynamoDB",
+            "Brad-Clawsie"
+        ],
         "title": "SmugMug: From MySQL to Amazon DynamoDB (DAT204) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "SmugMug.com is a popular hosting and commerce platform for photo enthusiasts with  hundreds of thousands of subscribers and millions of viewers. Learn now SmugMug uses Amazon DynamoDB to provide customers detailed information about  millions of daily image and video views. Smugmug shares code and information about their stats stack, which includes an HTTP interface to Amazon DynamoDB and also interfaces with their internal PHP stack and other tools such as Memcached. Get a detailed picture of lessons learned and the methods SmugMug uses to create a system that is easy to use, reliable, and high performing.",
+        "date": "2013-11-26T19:54:37Z",
+        "duration": 1800
     },
     {
         "service": "dynamodb",
         "videoId": "8xzYOAnU_-U",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon DynamoDB",
+            "DynamoDB",
+            "cloud databases",
+            "AWS Summits 2015",
+            "AWS Israel",
+            "AWS Summits Tel Aviv",
+            "Tel Aviv Summit"
+        ],
         "title": "AWS Summit Series 2015 | Tel Aviv: Amazon DynamoDB",
-        "date": "2015/06/2015"
+        "description": "Watch Carlos Conde explain about DynamoDB on a Deep-Dive session at the AWS Summit Tel Aviv 2015. Learn more: https://aws.amazon.com/dynamodb",
+        "date": "2015-07-31T21:25:35Z",
+        "duration": 2969
     },
     {
         "service": "dynamodb",
         "videoId": "ul7M3zVcse4",
         "title": "AWS Summit 2012 | India - DynamoDB & Relational Database Services Deep Dive - Sundar Raghavan",
-        "date": "2012/10/08"
+        "description": "Do you want to deliver a massively scalable web application that also performs well? Your first crucial decision is to choose the right database architecture. Your architecture should not only scale to operate seamlessly across thousands of servers but also need to deal with various failure modes such as server failures, datacenter failures and network partitions. While there is a lot of discussion on the internet on SQL vs. NoSQL, we see that successful AWS customers choose the right database architecture based on application requirements. In this session, we will show how Gumi, Intuit and Samsung use Amazon RDS to scale their internet apps to millions of users. We will show how Weatherbug and Shazam use Amazon DynamoDB to make millions of users happy. Join this session to learn the specifics on how to design for scale, performance, reliability and ease of programming to build your next web application. AWS enables you to use SQL and NoSQL data stores at the right place for the right reasons, and deliver your high scale applications to market quickly.",
+        "date": "2012-10-09T01:59:47Z",
+        "duration": 2689
     },
     {
         "service": "dynamodb",
         "videoId": "kMY0_m29YzU",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Databases",
+            "DAT327",
+            "DynamoDB",
+            "RDS",
+            "Database"
+        ],
         "title": "AWS re:Invent 2017: DynamoDB adaptive capacity: smooth performance for chaotic workl (DAT327)",
-        "date": "2017/12/01"
+        "description": "Database capacity planning is critical to running your business, but it’s also hard. In this session we’ll compare how scaling is usually performed for relational databases and NoSQL databases. We’ll look behind the scenes at how DynamoDB shards your data across multiple partitions and servers. Finally, we’ll talk about some of the recent enhancements to DynamoDB that make scaling even simpler, particularly a new feature called adaptive throughput that eliminates much of the throttling issues that you may have experienced.",
+        "date": "2017-12-01T16:24:44Z",
+        "duration": 3798
     },
     {
         "service": "dynamodb",
         "videoId": "uLM4sj7-KT0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "re:Invent",
+            "serverless"
+        ],
         "title": "AWS Builders' Day | Building Global Serverless Backends powered by Amazon DynamoDB Global Tables",
-        "date": "2018/02/14"
+        "description": "Check out the upcoming schedule, previous recordings, and links to the resources discussed at - http://amzn.to/2F2pN4K.\n\nServerless computing allows you to build and run applications and services without thinking about servers. Serverless applications don't require you to provision, scale, and manage any servers. You can build them for nearly any type of application or backend service, and everything required to run and scale your application with high availability is handled for you.\n\nBuilding serverless applications means that your developers can focus on their core product instead of worrying about managing and operating servers or runtimes, either in the cloud or on-premises. This reduced overhead lets developers reclaim time and energy that can be spent on developing great products which scale and that are reliable.\n\nGet started with Serverless Computing at https://aws.amazon.com/serverless/",
+        "date": "2018-02-14T19:44:20Z",
+        "duration": 2917
     },
     {
         "service": "dynamodb",
         "videoId": "HCfoKyoimOg",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT325",
+            "Amazon DynamoDB"
+        ],
         "title": "AWS re:Invent 2018: How Oath Built a Multi-Region GDPR Application with Amazon DynamoDB (DAT325)",
-        "date": "2018/11/29"
+        "description": "As Oath, a Verizon company, prepared for GDPR compliance during integration of AOL and Yahoo! Internet properties, a global user consent and terms of service application was developed and deployed. The cloud-native service was deployed across multiple AWS Regions globally and leveraged Amazon DynamoDB global tables to enable data synchronization. The service was launched in April 2018, scaling to meet the needs of hundreds of millions of Oath users. Come to this session to learn more about how Oath was able to accomplish all of this. Complete Title: AWS re:Invent 2018: How Oath (a Verizon Company) Built a Multi-Region GDPR Application with Amazon DynamoDB (DAT325)",
+        "date": "2018-11-29T18:20:02Z",
+        "duration": 2577
     },
     {
         "service": "dynamodb",
         "videoId": "evKrNTw1nr4",
-        "title": "Live Coding with AWS: Building 'SayIt' with Polly, DynamoDB, API Gateway and Lambda",
-        "date": "2017/06/12"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "Cloud computing",
+            "cloud connected robot",
+            "IoT",
+            "dev ops",
+            "developer",
+            "coding",
+            "programming",
+            "robotics"
+        ],
+        "title": "Live Coding with AWS: Building \"SayIt\" with Polly, DynamoDB, API Gateway and Lambda",
+        "description": "For more information, visit http://amzn.to/2sV0Z8g.\nLive Coding with AWS explores cloud computing topics and AWS services from the developer's perspective. Each episode will explore deep-dive, technical content to build everything from serverless web apps to machine learning.",
+        "date": "2017-06-12T23:00:57Z",
+        "duration": 12316
     },
     {
         "service": "dynamodb",
         "videoId": "6A1tOFqvgek",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT320",
+            "Amazon DynamoDB"
+        ],
         "title": "AWS re:Invent 2018: Becoming a Nimble Giant: How Amazon DynamoDB Serves Nike at Scale (DAT320)",
-        "date": "2018/12/04"
+        "description": "In this session, learn how Nike Digital migrated their large clusters of Cassandra and Couchbase to a fully managed Amazon DynamoDB. We share how Cassandra and Couchbase proved to be operationally challenging for engineering teams and failed to meet the needs to scale up for high-traffic product launches. We discuss how DynamoDB’s flexible data model allows Nike to focus on innovating for our consumer experiences without managing database clusters. We also share the best practices we learned on how to effectively use DynamoDB’s TTL, Auto Scaling, on-demand backups, point-in-time recovery, and adaptive capacity for applications that require scale, performance, and reliability to meet Nike’s business requirements.",
+        "date": "2018-12-05T00:46:20Z",
+        "duration": 2571
     },
     {
         "service": "dynamodb",
         "videoId": "rKeS3RpMEOw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Infor",
+            "AWS Lambda",
+            "Amazon SWF",
+            "Amazon Simple Workflow Service (SWF)",
+            "Amazon DynamoDB",
+            "Amazon CloudWatch",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Infor: Serverless Application Testing with AWS Lambda, Amazon SWF and Amazon DynamoDB",
-        "date": "2017/04/25"
+        "description": "David Lowry, Sr. Cloud Manager at @Infor, explains how they built Windsor, a serverless application testing solution. Infor uses Windsor to setup, tear down, and run test cases on over 50 multi-tenant enterprise applications that are deployed on #AWS. It is built with a combination of Amazon SWF, AWS Lambda, Amazon DynamoDB, and Amazon CloudWatch Events. This serverless approach to application testing costs Infor about $1 a month, or less than a cup of coffee!\n\nLearn more about This Is My Architecture at - http://amzn.to/2oHtp2d\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2017-04-25T20:30:11Z",
+        "duration": 240
     },
     {
         "service": "dynamodb",
         "videoId": "GWNeKo5eJRM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "global secondary index",
+            "gsi",
+            "index",
+            "table",
+            "DynamoDB",
+            "slow gsi creation",
+            "index stuck in updating",
+            "aws knowledge center videos"
+        ],
         "title": "AWS KC Videos: How can I monitor the progress of a global secondary index in DynamoDB?",
-        "date": "2016/11/16"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/create-gsi-dynamodb/\n\nSayem, an AWS Cloud shows how you can create, monitor, and optimize the creation of a global secondary index for a DynamoDB table.",
+        "date": "2016-11-16T15:14:34Z",
+        "duration": 188
     },
     {
         "service": "dynamodb",
         "videoId": "LxPo9zerrQI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build with Amazon Sumerian | S3 E8 – Integrating AWS Services - Lex, Lambda, & DynamoDB",
-        "date": "2019/02/27"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we welcome AWS Solutions Architect, Luis Lopez Soria, as he teaches how to integrate Amazon services into Amazon Sumerian. Viewers will learn how to create an end-to-end implementation of a voice controlled Sumerian scene with various types of entities (Host, HTML, Basic figures).\n\nAmazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage as well as Android and iOS mobile devices.\n\nFor Sumerian CTA links:\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\n\nJoin the Sumerian Slack: https://amazonsumerian.slack.com/join/shared_invite/enQtMjk4MTE2MTMxMzQ4LTliMjM2ZTQ4NDRjZjZkOTAxMzc4OTEyZGI2YzJiZjczNmUxMjM2NGQ0ZGZlNTRkMjI1NGE0MTdkYzZmYzJlNDI\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings/\n\nMusic from Jukedeck: create your own at http://jukedeck.com (http://jukedeck.com/)",
+        "date": "2019-02-27T22:52:46Z",
+        "duration": 3356
     },
     {
         "service": "dynamodb",
         "videoId": "HZptUWuc2tA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "NoSQL",
+            "DynamoDB",
+            "Amplitude",
+            "Loft",
+            "Amazon DynamoDB June 2016 Day at the SF Loft | Montage"
+        ],
         "title": "Amazon DynamoDB June 2016 Day at the SF Loft | Montage",
-        "date": "2016/07/05"
+        "description": "Learn more: http://amzn.to/298lxjo\n\n- - - - - - - - - - - - - - - - - -\nThis video was recorded in June 2016 during the DynamoDB Day at the SF Loft.",
+        "date": "2016-07-05T16:20:26Z",
+        "duration": 62
     },
     {
         "service": "dynamodb",
         "videoId": "nNNWDVwKoRI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "AWS re: Invent",
+            "re: Invent Conference",
+            "Amazon DynamoDB",
+            "Matt Wood"
+        ],
         "title": "AWS re: Invent DAT 302: Under the Covers of Amazon DynamoDB",
-        "date": "2012/12/04"
+        "description": "Learn about the thought and decisions that went into designing and building DynamoDB. We'll talk about its roots and how we can deliver the performance and throughput you enjoy today. We'll also show you how to model data, maintain maximum throughput, and drive analytics against the data with DynamoDB. Finally, you'll hear from some of our customers on how they've built large-scale applications on DynamoDB and about the lessons they've learned along the way.",
+        "date": "2012-12-07T21:59:36Z",
+        "duration": 2808
     },
     {
         "service": "dynamodb",
         "videoId": "kSGQBDSg-GQ",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Databases",
+            "DAT324",
+            "DynamoDB",
+            "Lex"
+        ],
         "title": "AWS re:Invent 2017: Expedia flies with DynamoDB: lightning fast stream processing fo (DAT324)",
-        "date": "2017/11/29"
+        "description": "Building rich, high-performance streaming data systems requires fast, on-demand access to reference data sets, to implement complex business logic. In this talk, Expedia will discuss the architectural challenges the company faced, and how DAX + DynamoDB fits into the overall architecture and met their design requirements. Additionally, you will hear how DAX that enabled Expedia to add caching to their existing applications in hours, which previously was taking much longer. Session attendees will walk away with three key outputs: 1) Expedia’s overall architectural patterns for streaming data 2) how they uniquely leverage DynamoDB, DAX, Apache Spark, and Apache Kafka to solve these problems 3) the value that DAX provides and how it enabled them to improve our performance and throughput, reduce costs, and all without having to write any new code.",
+        "date": "2017-11-29T17:04:13Z",
+        "duration": 2399
     },
     {
         "service": "dynamodb",
         "videoId": "JT2xOYOdUvM",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Gaming",
+            "GAM401",
+            "Dhruv Thukral - Amazon Web Services",
+            "Tara Walker - Amazon Web Services",
+            "Expert (400 level)"
+        ],
         "title": "AWS re:Invent 2015 | (GAM401) Build a Serverless Mobile Game with Amazon Cognito, Lambda & DynamoDB",
-        "date": "2015/10/09"
+        "description": "Get a hands-on walkthrough of how to quickly build a mobile game with online services like user authentication, downloadable content, and social features. Using the AWS Mobile SDK for Unity, iOS, and Android, it's easier than ever to build a game with these services. This session provides a step-by-step approach to add features to your game such as user identity management, dynamic content updates, cross-platform data sync, and more. We demonstrate how to use the AWS Mobile SDK to securely interact with services such as Amazon Cognito, Amazon DynamoDB, Amazon S3, and AWS Lambda.",
+        "date": "2015-10-09T23:19:53Z",
+        "duration": 3468
     },
     {
         "service": "dynamodb",
         "videoId": "82VXz_p7cj4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Software (Industry)",
+            "precision exams",
+            "Amazon DynamoDB",
+            "Amazon.com (Venture Funded Company)",
+            "Database (Software Genre)",
+            "Saving (Literature Subject)"
+        ],
         "title": "Precision Exams Saves 30% by Moving Database to Amazon DynamoDB",
-        "date": "2015/05/26"
+        "description": "Precision Exams provides online academic testing services, with a focus on U.S. high-school students. To meet the demands of running up to 50,000 tests simultaneously across the country, the company moved its database to Amazon DynamoDB, reaching its scalability goals and saving 30 percent on its database operations.\n\nTo learn more about running databases on AWS, click here: http://aws.amazon.com/running_databases/?src=solutions_test_a&text_link",
+        "date": "2015-05-26T22:39:09Z",
+        "duration": 229
     },
     {
         "service": "dynamodb",
         "videoId": "hwTXTFYtExo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "DynamoDB"
+        ],
         "title": "AWS Webcast - Four Tips for Faster Development With DynamoDB",
-        "date": "2013/10/25"
+        "description": "Amazon DynamoDB is a distributed data store that delivers durable low latency at any scale. In this session, we will highlight the top four techniques that DynamoDB customers use to quickly build and scale new applications with minimal operations effort. We will also walk through recently-announced features that customers have requested in order to help them further accelerate their application development on DynamoDB.",
+        "date": "2013-10-25T21:28:02Z",
+        "duration": 3369
     },
     {
         "service": "dynamodb",
         "videoId": "YiaPjILR9zw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon DynamoDB",
+            "Amazon S3",
+            "Redfin",
+            "AWS Customer Success",
+            "online property sellers on the cloud",
+            "Big-data",
+            "big data workloads",
+            "Amazon EMR",
+            "Amazon Elastic MapReduce",
+            "Amazon Kinesis",
+            "Amazon Redshift",
+            "Amazon EC2",
+            "cloud data warehouse",
+            "big-data analytics",
+            "customer success",
+            "customer success re:Invent 2015"
+        ],
         "title": "Redfin Uses Amazon DynamoDB to Accelerate Lookups of Similar Listings From 2 Secs to 12 Milliseconds",
-        "date": "2016/01/21"
+        "description": "Learn more about running your big data projects on AWS: http://amzn.to/1UScqob\n\nBy using AWS, Redfin can innovate quickly and cost effectively with a small IT staff while managing billions of property records. Redfin is a full-service residential real estate company that operates in 37 states and Washington, D.C. The company runs its entire operation on AWS, using a range of services, including Amazon S3, Amazon DynamoDB, Amazon Redshift, Amazon Kinesis, Amazon Elastic MapReduce, and Amazon EC2 to operate its website, data warehouse, and big-data analytics operations.",
+        "date": "2016-01-21T22:34:12Z",
+        "duration": 110
     },
     {
         "service": "dynamodb",
         "videoId": "liHbeghc5EI",
+        "tags": [
+            "AWS",
+            "AWS Cloud",
+            "cloud",
+            "cloud computing",
+            "Amazon Web Services",
+            "AWS Summit Series 2017 - San Francisco",
+            "VPC Endpoints for Amazon DynamoDB"
+        ],
         "title": "AWS Summit Series 2017 - SF: Announcing VPC Endpoints for Amazon DynamoDB, Now in Public Preview",
-        "date": "2017/04/20"
+        "description": "You can now access Amazon DynamoDB from your Amazon Virtual Private Cloud (VPC) using VPC endpoints, enabling you to have all network traffic between your application and DynamoDB traverse the public Internet or stay within the AWS cloud.\n \nDynamoDB offers data protection and security using TLS endpoints for encryption-in-transit, a client-side encryption library, and fine-grained access control using AWS Identity and Access Management (IAM), providing control at the item and attribute level. VPC Endpoints for DynamoDB further improves privacy and security, especially for applications with strict compliance and audit requirements, or that handle sensitive data.\n \nLearn more at: http://amzn.to/2o96kKs.",
+        "date": "2017-04-20T20:20:02Z",
+        "duration": 48
     },
     {
         "service": "dynamodb",
         "videoId": "QY_akeaP0gQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "best practicies for designing NoSQL tables",
+            "NoSQL"
+        ],
         "title": "Amazon DynamoDB April 2016 Day at the NY Loft - Optimizing DynamoDB with CloudCheckr",
-        "date": "2016/06/15"
+        "description": "Learn more at http://amzn.to/1XpKnln\n\n- - - - - - - - - - - \nLearn best practices for designing NoSQL tables. We’ll discuss how to maximize your NoSQL throughput and avoid hot keys with good design patterns and uniform distribution across your key space.",
+        "date": "2016-06-15T16:13:17Z",
+        "duration": 803
     },
     {
         "service": "dynamodb",
         "videoId": "ERLxMXYZWxM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Kinesis Stream",
+            "AWS Lambda",
+            "Amazon DynamoDB",
+            "Spark Streaming",
+            "Amazn EMR",
+            "real-time-streaming data architecture"
+        ],
         "title": "Amazon DynamoDB April 2016 Day at the NY Loft - Real-time Streaming Data on AWS",
-        "date": "2016/06/15"
+        "description": "Learn more at http://amzn.to/1UmL5sj\n\n- - - - - - - - - - \nLearn best practices for building a real-time streaming data architecture on AWS with Amazon Kinesis, Spark Streaming, AWS Lambda, Amazon DynamoDB, and Amazon EMR. First, we will focus on building a scalable, durable streaming data ingestion workflow from data producers like mobile devices, servers, or even web browsers. \n\nWe will provide guidelines to minimize duplicates and achieve exactly-once processing semantics in your stream-processing applications. Then, we will show some of the proven architectures for processing streaming data using a combination of tools including Amazon Kinesis Stream, AWS Lambda, Amazon DynamoDB, and Spark Streaming running on Amazon EMR.",
+        "date": "2016-06-15T16:12:58Z",
+        "duration": 3303
     },
     {
         "service": "dynamodb",
         "videoId": "7sAlRx5zb34",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT332",
+            "Amazon DynamoDB"
+        ],
         "title": "AWS re:Invent 2018: Why GE Aviation Migrated from Cassandra to Amazon DynamoDB (DAT332)",
-        "date": "2018/11/27"
+        "description": "GE Aviation sells $1.7B annually in parts and services through a customer portal called myGEAviation. To enhance its customers' experience, the portal enables users to input specific variables and build custom reports for later viewing. These applications, plotting, and data-query were experiencing issues with cost, scalability, and performance. In this session, GE discusses how it rearchitected plotting and data-query to resolve those issues by using Amazon DynamoDB.",
+        "date": "2018-11-27T19:09:16Z",
+        "duration": 3459
     },
     {
         "service": "dynamodb",
         "videoId": "37Zkoh4tdFg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws startups",
+            "Relationship Science",
+            "Brett Brown",
+            "AWS New York Summit 2018"
+        ],
         "title": "How Relationship Science Expands From Zero Using Elasticache, SQS, and DynamoDB",
-        "date": "2018/08/08"
+        "description": "Brett Brown, Director of Technology at Relationship Science, speaks at the 2018 AWS NYC Summit about how his startup expands from zero using Elasticache, SQS, and DynamoDB. Learn more about AWS Startups at - https://amzn.to/2ATeHAK.",
+        "date": "2018-08-08T19:03:19Z",
+        "duration": 648
     },
     {
         "service": "dynamodb",
         "videoId": "AAk1dsKY1Mc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon DynamoDB",
+            "NoSQL",
+            ".NET Web API",
+            "Mythical Mysfits",
+            ".NET",
+            "modern application",
+            "live coding",
+            "network load balancer",
+            "fargate",
+            "CI/CD",
+            "noSQL",
+            "static JSON",
+            "Object Persistence Model",
+            ".NET SDK"
+        ],
         "title": "Live with AM & Nicki - Persist Data with DynamoDB",
-        "date": "2018/10/10"
+        "description": "Now that we have a service deployed and a working CI/CD pipeline to deliver changes to our service automatically whenever we update our code, we can quickly make new application features readily available in production. With this increased agility, we added another foundational piece of functionality to our modern web application architecture, the data tier! In this episode we created a table for our Mysfits in Amazon DynamoDB, a managed and scalable NoSQL database service on AWS with super fast performance. In our .NET Web API, we are storing our Mysfits in a static JSON file that we are returning. Once we have our Amazon DynamoDB Table set up and ready to go, we created a service class in .NET that will communicate directly with our table using the Object Persistence Model and the .NET SDK.\n\nGithub to follow along: \nhttps://github.com/aws-samples/aws-modern-application-workshop/tree/dotnet\n\nLearn more about AWS on Twitch: \nhttps://aws.amazon.com/developer/community/twitch/?sc_channel=EL&sc_campaign=Twitch_2018_vid&sc_medium=YouTube&sc_content=video3292&sc_detail=LIVECODING&sc_country=US\n\nSee past Twitch.tv/aws Videos: \nhttps://aws.amazon.com/developer/community/twitch/recordings/\n\nRSVP for updates of Season 2 of Live with AM & Nicki: \nhttps://www.twitch.tv/events/YloQaohcShOCbAgC4de-Yg",
+        "date": "2018-10-10T19:33:18Z",
+        "duration": 3915
     },
     {
         "service": "dynamodb",
         "videoId": "RJCpjRTvo_w",
+        "tags": [
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "aws reinvent",
+            "reinvent2013",
+            "reinvent 2013",
+            "ARC301",
+            "getting started",
+            "architecture",
+            "media entertainment",
+            "sqs",
+            "dynamodb",
+            "Ari Neto"
+        ],
         "title": "Massive Message Processing with Amazon SQS and Amazon DynamoDB (ARC301) | AWS re:Invent 2013",
-        "date": "2013/11/29"
+        "description": "Amazon Simple Queue Service (SQS) and Amazon DynamoDB build together a really fast, reliable and scalable layer to receive and process high volumes of messages based on its distributed and high available architecture. We propose a full system that would handle any volume of data or level of throughput, without losing messages or requiring other services to be always available. Also, it enables applications to process messages asynchronously and includes more compute resources based on the number of messages enqueued.\nThe whole architecture helps applications reach predefined SLAs as we can add more workers to improve the whole performance.   In addition, it decreases the total costs because we use new workers briefly and only when they are required.",
+        "date": "2013-11-29T22:00:16Z",
+        "duration": 3299
     },
     {
         "service": "dynamodb",
         "videoId": "7plkSUN6DAE",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Serverless",
+            "SRV301",
+            "DynamoDB",
+            "Auto Scaling",
+            "AWS Lambda",
+            "Database"
+        ],
         "title": "AWS re:Invent 2017: Optimizing Serverless Application Data Tiers with Amazon DynamoD (SRV301)",
-        "date": "2017/11/28"
+        "description": "As a fully managed database service, Amazon DynamoDB is a natural fit for serverless architectures. In this session, we dive deep into why and how to use DynamoDB in serverless applications, followed by a real-world use case from CapitalOne leveraging Mainframe data.\n\nFirst, we dive into the relevant DynamoDB features, and how you can use it effectively with AWS Lambda in solutions ranging from web applications to real-time data processing. We show how some of the new features in DynamoDB, such as Auto Scaling and Time to Live (TTL), are particularly useful in serverless architectures, and distill the best practices to help you create effective serverless applications. In the second part, we talk about how CapitalOne migrated billions of Mainframe transactions to a completely serverless architecture and built a scalable, resilient and fast transaction platform by leveraging DynamoDB, AWS Lambda and other services within the serverless ecosystem.",
+        "date": "2017-11-28T18:50:55Z",
+        "duration": 3248
     },
     {
         "service": "dynamodb",
         "videoId": "FYUwLaUz7TA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Databases",
+            "DAT316",
+            "Greg McConnel",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2016: Telltale Games migrates its story analytics from CouchDB to DynamoDB (DAT316)",
-        "date": "2016/12/13"
+        "description": "Every choice made in Telltale Games titles influences how your character develops and how the world responds to you. With millions of users making thousands of choices in a single episode, Telltale Games tracks this data and leverages it to build more relevant stories in real time as the season is developed. In this session, you’ll learn about Telltale Games’ migration from Apache CouchDB to Amazon DynamoDB, the challenges of adjusting capacity to handling spikes in database activity, and how it streamlined its analytics storage to provide new perspectives of player interaction to improve its games.",
+        "date": "2016-12-03T21:57:06Z",
+        "duration": 2020
     },
     {
         "service": "dynamodb",
         "videoId": "lDiI0JMf_yQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "DAT312",
+            "Padma Malligarjunan",
+            "Advanced (300 Level)",
+            "Databases"
+        ],
         "title": "AWS re:Invent 2016: How DataXu scaled its System to handle billions of events with DynamoDB (DAT312)",
-        "date": "2016/12/02"
+        "description": "“Attribution\" is the marketing term of art for allocating full or partial credit to individual advertisements that eventually lead to a purchase, sign up, download, or other desired consumer interaction. We'll share how we use DynamoDB at the core of our attribution system to store terabytes of advertising history data. The system is cost effective and dynamically scales from 0 to 300K requests per second on demand with predictable performance and low operational overhead.",
+        "date": "2016-12-03T00:08:46Z",
+        "duration": 3012
     }
 ]

@@ -2,139 +2,475 @@
     {
         "service": "alexa_for_business",
         "videoId": "ViB3XhsTLuo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Alexa",
+            "Alexa for Business",
+            "voice",
+            "voice interface",
+            "voice assistant",
+            "voice UI",
+            "voice user interface",
+            "Echo",
+            "Echo devices"
+        ],
         "title": "Alexa for Business: Empower Your Organization to Use Alexa",
-        "date": "2017/12/01"
+        "description": "To learn more about how to use Alexa in your organization, visit http://amzn.to/2zrFvGX.\nToday, people spend too much of their day on tedious tasks at work, like managing their calendars, dialing in to meetings, or searching for information. But Alexa can help solve this problem by acting as an intelligent assistant at work. Alexa for Business makes it easy for you to use Alexa in your organization. Alexa for Business gives you the tools you need to manage Alexa devices, enroll your users, and assign skills, at scale. You can build your own context-aware voice skills using the Alexa Skills Kit, and the Alexa for Business APIs, and you can make these available as private skills for your organization. Alexa for Business also makes it easy to voice-enable your products and services, providing context-aware voice experiences for your customers.",
+        "date": "2017-12-01T19:44:34Z",
+        "duration": 139
     },
     {
         "service": "alexa_for_business",
         "videoId": "JJFDQ7rXxvc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Alexa",
+            "Alexa for Business",
+            "voice",
+            "voice interface",
+            "voice UI",
+            "voice assistant",
+            "voice user interface",
+            "Echo",
+            "Echo devices"
+        ],
         "title": "Alexa for Business: How to Enable Skills",
-        "date": "2017/12/01"
+        "description": "Alexa for Business makes it easy for you to use Alexa in your organization by providing the tools you need to manage Alexa devices, enroll your users, and assign skills at scale. Learn more at http://amzn.to/2jONabH.\nAlexa skills are voice-driven capabilities that enhance the functionality of Alexa. Alexa for Business allows you to assign public and private skills to the shared devices in your organization, and make private skills available to your enrolled users. In this video, we’ll show you how to enable skills for the devices and users in your organization. You can learn more about enabling skills at http://docs.aws.amazon.com/a4b/latest/ag/manage-skills.html.",
+        "date": "2017-12-01T18:41:38Z",
+        "duration": 322
     },
     {
         "service": "alexa_for_business",
         "videoId": "HOMbzO7eRIU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Alexa for Business",
+            "Employee Productivity",
+            "Email",
+            "Calendar",
+            "Meetings",
+            "Running Late",
+            "Work Briefings"
+        ],
         "title": "Using Alexa for Business to Get More Work Done with Your Personal Alexa Devices.",
-        "date": "2019/12/11"
+        "description": "Learn more about AWS Business Applications at - https://amzn.to/2YAeM4s.\nThis video demonstrates how any Alexa users can use their personal Alexa devices to manage work email, calendar and meetings with a few simple steps. Vaughn Bruno, a program manager with Alexa for Business, walkthroughs all the capabilities that Alexa users have at home, at their workplace or on the go with echo auto. These include managing emails (read, reply, flag), calendar events (schedule, move meetings), meetings (start, join, end meetings) and other value added tasks such as running late (inform participants) or work briefings (get daily update to better plan a work day). These work related features are powered by Alexa for Business. To learn more about Alexa for Business, visit: https://aws.amazon.com/alexaforbusiness",
+        "date": "2019-12-11T20:31:38Z",
+        "duration": 263
     },
     {
         "service": "alexa_for_business",
         "videoId": "FrunIqAcpjg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Alexa",
+            "Alexa for Business",
+            "voice",
+            "voice interface",
+            "voice UI",
+            "voice assistant",
+            "voice user interface",
+            "Echo",
+            "Echo devices"
+        ],
         "title": "Alexa for Business: How to Set Up Echo Devices",
-        "date": "2017/12/01"
+        "description": "Alexa for Business makes it easy for you to use Alexa in your organization by providing the tools you need to manage Alexa devices, enroll your users, and assign skills at scale. Learn more about Alexa for Business at http://amzn.to/2zqcqfc.\nAlexa for Business comes with a device setup tool that allows you to connect multiple Echo devices to your corporate Wi-Fi network, and add them to your Alexa for Business account at the same time. In this video, we’ll show you how to provision Echo devices using the device setup tool. You can learn more about device provisioning at http://docs.aws.amazon.com/a4b/latest/ag/getting-started.html.",
+        "date": "2017-12-01T18:40:52Z",
+        "duration": 276
     },
     {
         "service": "alexa_for_business",
         "videoId": "UTOYK_SQi-Y",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Alexa for Business",
+            "Employee Productivity",
+            "Email",
+            "Calendar",
+            "Meetings",
+            "Running Late",
+            "Work Briefings"
+        ],
         "title": "Using Alexa for Business to Simplify and Optimize Your Workplace Meeting Rooms",
-        "date": "2019/12/11"
+        "description": "Learn more about AWS Business Solutions at - https://amzn.to/2YAeM4s \nThis video demonstrates how Alexa for Business can simplify meeting room experience, increase meeting room utilization and enhance employee productivity for organizations. In this video, Vaughn Bruno, a program manager with Alexa for Business, walkthroughs how employees can use Alexa to book meeting rooms and to start or join meetings powered by leading conferencing solutions. He also goes into how Alexa for Business can assist IT and facilities managers to increase the utilization of their existing meeting rooms with intelligent room release, end of meeting reminders and meeting room utilization metrics.",
+        "date": "2019-12-11T20:30:11Z",
+        "duration": 223
     },
     {
         "service": "alexa_for_business",
         "videoId": "u9NMQllvT3M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference 2018"
+        ],
         "title": "Empower Your Organization with Alexa for Business",
-        "date": "2018/04/12"
+        "description": "Learn more at - https://amzn.to/2EGmqhW\nAlexa for Business makes it possible for businesses to create Alexa skills designed specifically for employees or customers. With Alexa for Business, devices can be managed and provisioned to be used by employees in conference rooms, at employees’ desks, or around the workplace. In this session, we’ll provide an overview of Alexa for Business, and show you how Alexa for Business creates business value for both customers and employees.\n\nSpeaker: \n- Olivier Klein, Emerging Technologies Solutions Architect, Amazon Web Services, APAC",
+        "date": "2018-04-12T18:59:11Z",
+        "duration": 2752
     },
     {
         "service": "alexa_for_business",
         "videoId": "I-KEn6gKm7E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2017 - Introducing",
+            "Alexa",
+            "Werner Vogels"
+        ],
         "title": "AWS re:Invent 2017 - Introducing Alexa for Business",
-        "date": "2017/12/12"
+        "description": "Alexa for Business lets you introduce Alexa to your organization by providing the tools you need to manage Alexa devices, skills, and users at scale, and an API to create custom voice skills for your organization. Learn more at - http://amzn.to/2Ak9SMK.",
+        "date": "2017-12-12T18:11:03Z",
+        "duration": 397
     },
     {
         "service": "alexa_for_business",
         "videoId": "geppGJeWwcM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Alexa",
+            "Alexa for Business",
+            "voice",
+            "voice interface",
+            "voice UI",
+            "voice assistant",
+            "voice user interface",
+            "Echo",
+            "Echo devices"
+        ],
         "title": "Alexa for Business: How to Configure Conferencing and Calendaring",
-        "date": "2017/12/01"
+        "description": "Alexa for Business makes it easy for you to use Alexa in your organization by providing the tools you need to manage Alexa devices, enroll your users, and assign skills at scale. Learn more at http://amzn.to/2Bd2anY\n“Alexa, start my meeting.” Alexa for Business allows you to configure your conference rooms so you can use Alexa to start your meetings and control your conference room equipment. In this video, we’ll show you how to link your Alexa for Business account to your corporate calendar, and set up the conferencing capabilities available in Alexa for Business. You can learn more about configuring conferencing and calendaring at http://docs.aws.amazon.com/a4b/latest/ag/manage-organization.html.",
+        "date": "2017-12-01T18:41:20Z",
+        "duration": 206
     },
     {
         "service": "alexa_for_business",
         "videoId": "9YqudlLMDHw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Alexa",
+            "Alexa for Business",
+            "voice",
+            "voice interface",
+            "voice UI",
+            "voice assistant",
+            "voice user interface",
+            "Echo",
+            "Echo devices"
+        ],
         "title": "Alexa for Business: How to Configure Rooms and Room Profiles",
-        "date": "2017/12/01"
+        "description": "Alexa for Business makes it easy for you to use Alexa in your organization by providing the tools you need to manage Alexa devices, enroll your users, and assign skills at scale. Learn more at http://amzn.to/2jKs7XE\nAlexa for Business lets you create rooms and room profiles in your Alexa for Business account. Rooms and room profiles are used to assign a location for the shared Echo devices in your organization, and the settings for those devices come from the room profile. In this video, we’ll show you how to create rooms and room profiles, and assign Echo devices to a room. You can learn more about configuring rooms and room profiles at http://docs.aws.amazon.com/a4b/latest/ag/manage-rooms.html.",
+        "date": "2017-12-01T18:41:31Z",
+        "duration": 340
     },
     {
         "service": "alexa_for_business",
         "videoId": "BgxepELv6xM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Alexa",
+            "Alexa for Business",
+            "voice",
+            "voice interface",
+            "voice UI",
+            "voice assistant",
+            "voice user interface",
+            "Echo",
+            "Echo devices"
+        ],
         "title": "Alexa for Business: How to Invite Your Users to Join",
-        "date": "2017/12/01"
+        "description": "Alexa for Business makes it easy for you to use Alexa in your organization by providing the tools you need to manage Alexa devices, enroll your users, and assign skills at scale. Learn more at http://amzn.to/2mQmDf2\nWith Alexa for Business, you can invite users in your organization to enroll their personal Alexa account with your Alexa for Business account. By doing this, users can use the Alexa features and skills they’ve already enabled, and any private skills you make available through Alexa for Business, on any of their devices. In this video, we’ll show you how to invite users to enroll in your Alexa for Business account, and how to make private skills available to them. You can learn more about enrolling users at http://docs.aws.amazon.com/a4b/latest/ag/manage-users.html.",
+        "date": "2017-12-01T18:41:54Z",
+        "duration": 255
     },
     {
         "service": "alexa_for_business",
         "videoId": "x_nQekbcNUI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Alexa for Business",
+            "This is my skill"
+        ],
         "title": "Alexa for Business: This Is My Skill",
-        "date": "2018/10/01"
+        "description": "Alexa for Business enables organizations to leverage voice to get more done at work. With Alexa for Business, you can build Alexa skills and make them \"private\" so it can be accessed only from authorized devices and users. Learn more at - https://amzn.to/2Q5ZD5l.\n\n\"This Is My Skill\" video series will highlight private skills developed by Alexa for Business customers, and the impact they have in their organizations. If you have developed a private skill, capture it in a video, and send it to us at ThisIsMySkill@amazon.com for a chance to feature it in the Alexa for Business website.",
+        "date": "2018-10-01T16:38:04Z",
+        "duration": 132
     },
     {
         "service": "alexa_for_business",
         "videoId": "dD2dESgxbfM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build Alexa Skills For Your Business - No Coding Required",
-        "date": "2019/04/03"
+        "description": "To learn more and get started visit https://aws.amazon.com/alexaforbusiness/blueprints/\n\nLearn more about AWS on Twitch: https://amzn.to/2uGYoB3",
+        "date": "2019-04-03T19:41:51Z",
+        "duration": 320
     },
     {
         "service": "alexa_for_business",
         "videoId": "DTSIW4LebaE",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Business Apps",
+            "BAP203-L",
+            "Alexa for Business"
+        ],
         "title": "AWS re:Invent 2018: Leadership Session: Alexa for Business (BAP203-L)",
-        "date": "2018/11/29"
+        "description": "Alexa transformed the smart home market segment and is now transforming how we interact with applications and technology at work. Alexa for Business is a service that helps you manage Alexa devices, users, and skills and helps you voice-enable your workplace. In this session, Collin Davis, GM, Alexa for Business, talks about the new features in Alexa for Business and how customers are adopting Alexa VUI in their workplace.",
+        "date": "2018-11-29T18:32:31Z",
+        "duration": 3589
     },
     {
         "service": "alexa_for_business",
         "videoId": "Wur1GWB03hk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Business Productivity",
+            "Defense",
+            "Amazon DynamoDB",
+            "Alexa for Business",
+            "Amazon Simple Storage Service (S3)",
+            "AWS Lambda",
+            "Amazon RDS",
+            "This is My Architecture",
+            "TMA"
+        ],
         "title": "Lockheed Martin: Using Alexa for Business to Securely Access Program Management Status",
-        "date": "2020/07/27"
+        "description": "Learn how Lockheed Martin enabled its program managers the ability to securely access their program management status anytime, anywhere, using Alexa for Business, while also solving challenging pronunciation issues for acronyms, using Amazon DynamoDB. \n\n~Filmed prior to COVID-19~\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-07-27T18:14:23Z",
+        "duration": 318
     },
     {
         "service": "alexa_for_business",
         "videoId": "4LBuZGdQoCk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Alexa for Business",
+            "Salesforce",
+            "Dreamforce",
+            "Alexa"
+        ],
         "title": "Voice Enable Salesforce Apps - Getting Started With Amazon’s Alexa For Business",
-        "date": "2018/10/22"
+        "description": "Learn more about Salesforce and AWS at - https://amzn.to/2S9UWJO.\nAlexa helps you access music, news, timers, and more using just your voice. Alexa for Business brings the power of Alexa to the workplace. Join us in this session to learn about Alexa for Business and how our customers use Alexa to access their Salesforce data.",
+        "date": "2018-10-22T17:47:33Z",
+        "duration": 2481
     },
     {
         "service": "alexa_for_business",
         "videoId": "IEipfjh_Ge8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - Alexa for Business",
-        "date": "2017/12/08"
+        "description": "Alexa for Business is an AWS service that makes it easy for you to empower your organization with Alexa by giving your employees their own intelligent assistant for work. Alexa for Business gives you the tools to manage Alexa for your organization – at scale. Learn more at - http://amzn.to/2iTtHTu. \n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:37:27Z",
+        "duration": 1011
     },
     {
         "service": "alexa_for_business",
         "videoId": "5XLjhLVLxsQ",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Business Apps",
+            "BAP303-R1",
+            "Alexa for Business"
+        ],
         "title": "AWS re:Invent 2018: Build the Next-Gen Meeting Room Experience Using Alexa for Business (BAP303-R1)",
-        "date": "2018/11/30"
+        "description": "Alexa for Business brings a conversational UI to help you simplify your meeting room experience. In this session, learn how you can bring Alexa for Business to your meeting room and integrate it with your existing meeting room systems. In addition, the Amazon IT team discusses best practices, and they describe how they piloted and deployed Alexa for Business in over 800 conference rooms at Amazon.  Complete Title: AWS re:Invent 2018: [REPEAT 1] Build the Next-Gen Meeting Room Experience Using Alexa for Business (BAP303-R1)",
+        "date": "2018-11-30T16:32:19Z",
+        "duration": 3531
     },
     {
         "service": "alexa_for_business",
         "videoId": "NMVeBgZ6kXM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon",
+            "awsreinvent2017",
+            "Alexa",
+            "ALX204",
+            "Lex"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Building Alexa Skills for Businesses (ALX204)",
-        "date": "2017/12/15"
+        "description": "Alexa for Business makes it possible for businesses to create Alexa skills designed specifically for employees or customers. With Alexa for Business, devices can be managed and provisioned to be used by employees in conference rooms, at employees’ desks, or around the workplace. You can also create skills that can be used by customers, in places like hotel rooms, restaurants, hospitality suites, or even stores. In this session, we’ll provide an overview of Alexa for Business, and show you how Alexa for Business creates business value for both customers and employees.",
+        "date": "2017-12-15T17:06:43Z",
+        "duration": 3245
     },
     {
         "service": "alexa_for_business",
         "videoId": "ER7OYXHnhZQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Alexa for Business",
+            "alexa",
+            "amazon connect",
+            "skills",
+            "amazon chime"
+        ],
         "title": "Enterprise Connect 2018 | Collin Davis and Dave Isbitski Talk About Alexa for Business",
-        "date": "2018/06/14"
+        "description": "Watch Collin Davis, GM of Alexa for Business, and Dave Isbitski, Principal Evangelist for Alexa, talk about Alexa, and Alexa for Business, at the Enterprise Connect 2018 keynote. Learn more about Alexa for Business at - https://amzn.to/2JHzebq. \n\nAlexa for Business makes it easy for you to use Alexa in your organization by giving you the tools you need to manage Alexa-enabled devices, enroll your users, and assign skills at scale. With Alexa for Business, you can voice enable your conference rooms, and build private skills to voice enable your applications and services in your organizations.",
+        "date": "2018-06-14T22:17:36Z",
+        "duration": 1747
     },
     {
         "service": "alexa_for_business",
         "videoId": "rby3Lce5bWo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon",
+            "awsreinvent2017",
+            "Business Apps",
+            "BAP309",
+            "Connect",
+            "Lex"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Building Smart Conference Rooms with Alexa for Busin (BAP309)",
-        "date": "2017/12/02"
+        "description": "Alexa for Business allows you to use Alexa-enabled devices to transform your conference rooms. Using simple voice skills, you can control the conference room environment, start online meetings, turn on video projectors, and more. In thiAlexa for Business allows you to use Alexa-enabled devices to transform your conference rooms. Using simple voice skills, you can control the conference room environment, start online meetings, turn on video projectors, and more. In this session, we'll walk through the Alexa-enabled conference room, and show you how you can use Alexa for Business to specify device locations, connect to conference room calendars, and provide access to meeting-specific skills. session, we'll walk through the Alexa-enabled conference room, and show you how you can use Alexa for Business to specify device locations, connect to conference room calendars, and provide access to meeting-specific skills.",
+        "date": "2017-12-03T01:42:36Z",
+        "duration": 2904
     },
     {
         "service": "alexa_for_business",
         "videoId": "0M-gUMWQX_E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Mumbai Summit 201"
+        ],
         "title": "Amazon Alexa, Empower Your Business with Voice",
-        "date": "2018/05/31"
+        "description": "AWS Mumbai Summit 2018\nAlexa is Amazon’s cloud-based voice service available on tens of millions of devices from Amazon and third-party device manufacturers. With Alexa, you can build natural voice experiences that offer customers a more intuitive way to interact with the technology they use every day. In this session, we will provide an overview of Alexa and building natural, voice-first customer experiences for your business with Alexa Skills, integrating Alexa directly into your products with Alexa Voice Services (AVS) and leveraging Alexa in your organisation (Alexa for Business).",
+        "date": "2018-05-31T18:27:35Z",
+        "duration": 2467
     },
     {
         "service": "alexa_for_business",
         "videoId": "RbfoOIwmu6E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "ENT306",
+            "AWS San Francisco Summit 2018",
+            "Alexa"
+        ],
         "title": "AWS Summit SF 2018: Can I Bring Alexa to Work? (ENT306)",
-        "date": "2018/04/11"
+        "description": "Alexa for Business lets you deploy and manage Alexa devices in your organization and empower your organization with voice. With Alexa for Business, you can voice-enable your applications, enabling employees to interact with your systems using their voice. IT administrators can query Amazon CloudWatch metrics. Contact center managers can ask how their Amazon Connect agents are performing. Sales managers can check Salesforce for their top accounts. And employees can start Amazon Chime meetings or create a trouble ticket with ServiceNow. You can also build custom private skills for Alexa, which can be used only in your organization. Join us in this session to see what Alexa can do in your workplace. See Alexa for Business in action, and learn how easy it is to build a skill.",
+        "date": "2018-04-11T23:25:55Z",
+        "duration": 3557
     },
     {
         "service": "alexa_for_business",
         "videoId": "XgJUsBDQILQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "IoT",
+            "Alexa For Business",
+            "Amazon FreeRTOS",
+            "voice",
+            "Salesforce",
+            "smart home",
+            "sensors",
+            "TMA NYC",
+            "Matt Yanchyshyn",
+            "Elena Koshchaeva",
+            "Amazon RDS",
+            "Alexa for Business",
+            "AWS IoT Core",
+            "AWS Lambda",
+            "Amazon DynamoDB",
+            "Amazon QuickSight",
+            "AWS IoT Analytics",
+            "MQTT",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Klika Tech and Stonehenge: Smart Apartments with Alexa & AWS IoT (Special Episode)",
-        "date": "2019/01/15"
+        "description": "Learn more about This Is My Architecture at - https://amzn.to/2SUrtUf\nKlika Tech has partnered with Stonehenge NYC to make smart apartments using Alexa For Business, AWS IoT, and custom hardware. You'll learn how to combine multiple AWS services to allow residents to use their voice to monitor and control temperature and humidity, or check-in on packages and other building services. You'll also see how Stonehenge uses voice to keep track of its rental properties.\n\nHost: Matt Yanchyshyn, Director, Solutions Architecture, Amazon Web Services\nCustomer: Elena Koshchaeva, Project Manager, Klika Tech\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-01-15T08:00:07Z",
+        "duration": 822
     }
 ]

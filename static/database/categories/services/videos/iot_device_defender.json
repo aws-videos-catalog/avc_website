@@ -2,25 +2,77 @@
     {
         "service": "iot_device_defender",
         "videoId": "CO2Tv1jwVd4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "cloud",
+            "cloud computing",
+            "re:Invent 2017",
+            "Andy Jassy",
+            "keynote",
+            "AWS IoT Device Defender"
+        ],
         "title": "AWS re:Invent 2017 - Announcing AWS IoT Device Defender",
-        "date": "2017/12/01"
+        "description": "Watch Andy Jassy, CEO of Amazon Web Services, announce AWS IoT Device Defender. AWS IoT Device Defender is a fully managed service that helps you secure your fleet of IoT devices. Learn more at - http://amzn.to/2Ao3zKH.\n\nAWS IoT Device Defender continuously audits the security policies associated with your devices to make sure that they aren’t deviating from security best practices and also lets you monitor device behavior.",
+        "date": "2017-12-01T18:27:18Z",
+        "duration": 172
     },
     {
         "service": "iot_device_defender",
         "videoId": "6zPsJoq9BEc",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "IoT",
+            "IOT205",
+            "AWS IoT Core",
+            "AWS IoT Device Defender",
+            "AWS IoT Device Management"
+        ],
         "title": "AWS re:Invent 2018: Keep Your IoT Devices Secure (IOT205)",
-        "date": "2018/11/27"
+        "description": "Helping you manage the security of your IoT fleet is a top priority for AWS. You can use AWS IoT Device Defender to audit device fleets for best practices and drift in security settings, detect abnormal device behavior, and receive alerts to investigate issues. In this session, we will show you how you can use AWS IoT Device Defender to implement and maintain secure policies and controls to keep data and devices secure. Come away understanding how to spot insecure device configurations and how to set up metrics that can be used to spot a DDoS and botnet attacks. We will also look at how AWS IoT Device Defender works with AWS IoT Core and AWS IoT Device Management to respond to security alerts.",
+        "date": "2018-11-27T19:11:34Z",
+        "duration": 3725
     },
     {
         "service": "iot_device_defender",
         "videoId": "JQFl97ZRdWA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - AWS IoT Device Management & AWS IoT Device Defender",
-        "date": "2017/12/08"
+        "description": "AWS IoT Device Management is an AWS IoT service that provides device management capabilities which makes it easy to securely onboard, organize, monitor, and remotely manage IoT devices at scale throughout their lifecycle.  Learn more at - http://amzn.to/2AdUgcL. AWS IoT Device Defender is a fully managed service that helps you secure your fleet of IoT devices. AWS IoT Device Defender continuously audits the security policies associated with your devices to make sure that they aren’t deviating from security best practices. AWS IoT Device Defender also lets you monitor devices for behavior that deviates from what you have defined as appropriate behavior for each device.\n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:36:28Z",
+        "duration": 1137
     },
     {
         "service": "iot_device_defender",
         "videoId": "pi9t4-VDzf8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "IoT security",
+            "device security",
+            "security audit",
+            "security monitoring",
+            "prevent data breaches",
+            "data security",
+            "device security policies",
+            "security alerts",
+            "threat detection",
+            "threat prevention"
+        ],
         "title": "Keeping Connected Device Secure",
-        "date": "2018/08/01"
+        "description": "Learn how to use AWS IoT Device Defender to manage the end to end security of your IoT fleet. Get an overview of the key capabilities such as auditing of IoT configurations and continuous monitoring of IoT devices. Learn more at - https://amzn.to/2mZpTlD.",
+        "date": "2018-08-01T19:00:32Z",
+        "duration": 121
     }
 ]

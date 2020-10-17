@@ -2,19 +2,55 @@
     {
         "service": "aws_firewall_manager",
         "videoId": "wocz0drq8-8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Firewall manager",
+            "Control Tower"
+        ],
         "title": "Enable AWS Firewall Manager in an AWS Control Tower Environment",
-        "date": "2020/03/02"
+        "description": "In this video, you’ll see how to enable AWS Firewall Manager in an AWS Control Tower environment. With Firewall Manager, you can centrally configure security policies for your AWS Organization, enforce security rules across AWS accounts, and remediate noncompliant resources automatically.\n\nLearn more about AWS Management and Governance at https://go.aws/2vfUFOM\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-03-02T17:00:13Z",
+        "duration": 483
     },
     {
         "service": "aws_firewall_manager",
         "videoId": "qUoyTumxcjk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "Live Coding",
+            "AWS Summit",
+            "AWS Firewall"
+        ],
         "title": "AWS Firewall Manager",
-        "date": "2018/04/10"
+        "description": "Learn about AWS Firewall Manager and how it makes it easier to centrally configure and manage AWS WAF rules across your accounts and applications. Using Firewall Manager, you can easily roll out AWS WAF rules for your Application Load Balancers and Amazon CloudFront distributions across accounts in AWS Organizations. Visit - https://aws.amazon.com/firewall-manager/ for more information.",
+        "date": "2018-04-10T17:08:46Z",
+        "duration": 831
     },
     {
         "service": "aws_firewall_manager",
         "videoId": "KtwCYxIvink",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit San Francisco 2018",
+            "AWS Firewall Manager",
+            "Werner Vogels"
+        ],
         "title": "AWS Summit San Francisco 2018 - Announcing AWS Firewall Manager",
-        "date": "2018/04/10"
+        "description": "AWS Firewall Manager is a security management tool to centrally configure and manage AWS WAF (web application firewall) rules across your accounts and applications. Learn more at - https://amzn.to/2EqPFVT.",
+        "date": "2018-04-10T20:55:24Z",
+        "duration": 49
     }
 ]

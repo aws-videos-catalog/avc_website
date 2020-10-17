@@ -2,43 +2,127 @@
     {
         "service": "amazon_forecast",
         "videoId": "Ed4j8Olf_E8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon Forecast Overview",
-        "date": "2019/02/01"
+        "description": "Learn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-02-01T21:53:14Z",
+        "duration": 2754
     },
     {
         "service": "amazon_forecast",
         "videoId": "0vR8_SkWJHI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "machine learning",
+            "Amazon Forecast",
+            "AWS Forecase"
+        ],
         "title": "AWS Partner Webinar: Building Integrations with Amazon Forecast",
-        "date": "2019/08/12"
+        "description": "Learn more about Amazon Forecast at – https://amzn.to/2KnQCVn \nTime series prediction made simple and easy. Just add data! Presented by Kris Skrinak, Senior PSA at AWS.",
+        "date": "2019-08-12T17:18:32Z",
+        "duration": 4083
     },
     {
         "service": "amazon_forecast",
         "videoId": "_-2E8iDEqFY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reinvent 2018",
+            "re:Invent 2018",
+            "Amazon Forecast"
+        ],
         "title": "AWS re:Invent 2018 – Announcing Amazon Forecast",
-        "date": "2018/11/30"
+        "description": "Watch Andy Jassy, CEO of Amazon Web Services, announce Amazon Forecast. Amazon Forecast is a fully managed service that uses machine learning to deliver highly accurate forecasts. Learn more at - https://amzn.to/2AupEFx.",
+        "date": "2018-11-30T17:57:32Z",
+        "duration": 154
     },
     {
         "service": "amazon_forecast",
         "videoId": "kU5cFdXjwOc",
-        "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing Amazon Forecast  (AIM344)",
-        "date": "2018/12/01"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Artificial Intelligence & Machine Learning",
+            "AIM344"
+        ],
+        "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing Amazon Forecast  (AIM344)",
+        "description": "Based on the same technology used at Amazon.com, Amazon Forecast uses machine learning to combine time series data with additional variables to build forecasts. Amazon Forecast requires no machine learning experience to get started. You only need to provide historical data, plus any additional data that you believe may impact your forecasts. Come learn more.",
+        "date": "2018-12-01T22:08:49Z",
+        "duration": 2978
     },
     {
         "service": "amazon_forecast",
         "videoId": "NCmHoHomP1A",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "ML Days | Amazon Forecast",
-        "date": "2019/04/08"
+        "description": "Based on the same technology used at Amazon.com, Amazon Forecast uses machine learning to combine time series data with additional variables to build forecasts. Amazon Forecast requires no machine learning experience to get started. You only need to provide historical data, plus any additional data that you believe may impact your forecasts.\n\nSpeaker: Wayne Davis, Solutions Architect, Amazon Web Services",
+        "date": "2019-04-08T16:44:36Z",
+        "duration": 3456
     },
     {
         "service": "amazon_forecast",
         "videoId": "uKPZtJBb6MM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws builder sday",
+            "builders day",
+            "developers",
+            "buildon",
+            "AI",
+            "artificial intelligence",
+            "machine learning",
+            "amazon sagemaker",
+            "amazon forecast",
+            "amazon personalize"
+        ],
         "title": "AWS Builders' Day | re:Invent Deep Dive on Amazon SageMaker, Amazon Forecast and Amazon Personalize",
-        "date": "2018/12/19"
+        "description": "See what you can build: https://amzn.to/2ryQs3a\nGet started with Machine Learning at https://aws.amazon.com/machine-learning/\n\nAmazon AI services bring natural language understanding (NLU), automatic speech recognition (ASR), visual search and image recognition, text-to-speech (TTS), and machine learning (ML) technologies within the reach of every developer. Learn how you can easily add these powerful features to your applications to enhance the way they interact with the real world.",
+        "date": "2018-12-19T18:43:22Z",
+        "duration": 3438
     },
     {
         "service": "amazon_forecast",
         "videoId": "05QKFsD6qss",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Introducing Amazon Personalize & Amazon Forecast",
-        "date": "2018/11/30"
+        "description": "Many data science teams struggle to capture the full value of AI for their organizations, due to challenges around data, skills and tooling. These barriers prevent organizations from using machine learning and deep learning to make better decisions and deliver better products or services. Now, introducing Amazon Personalize and Amazon Forecast, two newly launched managed services that enables developers with limited machine learning expertise to train. Amazon Personalize is a machine learning service that enables developers to create custom personalization and recommendations for your customer.high-quality models specific to their business needs. Amazon Seer is a forecasting service that uses machine learning to deliver 50% more accurate results than traditional methods. Learn more | https://aws.amazon.com/machine-learning \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:45:26Z",
+        "duration": 1192
     }
 ]

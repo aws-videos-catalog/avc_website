@@ -2,19 +2,57 @@
     {
         "service": "detective",
         "videoId": "VzDVkMwVcI0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reinforce",
+            "developer",
+            "security"
+        ],
         "title": "AWS Live re:Inforce - Detective Controls",
-        "date": "2019/07/01"
+        "description": "Learn more about Developer Education & Community with AWS Live Video at – https://amzn.to/2XlAV9r \nAWS Live dives deep at AWS re:Inforce!",
+        "date": "2019-07-01T22:20:25Z",
+        "duration": 968
     },
     {
         "service": "detective",
         "videoId": "MPQe-4NvesM",
-        "title": "AWS re:Invent 2019: [NEW LAUNCH!] Introducing Amazon Detective (SEC312)",
-        "date": "2019/12/10"
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "SEC312",
+            "Security",
+            "Compliance",
+            "and Identity"
+        ],
+        "title": "AWS re:Invent 2019: [NEW LAUNCH!]  Introducing Amazon Detective (SEC312)",
+        "description": "Amazon Detective makes it easy to investigate, analyze, and quickly identify the root cause of potential security issues or suspicious activities. Amazon Detective automatically collects log data from your AWS resources and uses machine learning, statistical analysis, and graph theory to help you visualize and conduct faster and more efficient security investigations. Amazon Detective is integrated with AWS security services such as Amazon GuardDuty and AWS Security Hub as well as AWS partner security products. In this session, we also demonstrate Amazon Detective and provide a walkthrough of how to investigate a security finding.",
+        "date": "2019-12-10T18:10:14Z",
+        "duration": 2969
     },
     {
         "service": "detective",
         "videoId": "8g51Z0h2Eb0",
+        "tags": [
+            "programming",
+            "aws",
+            "reinvent",
+            "ai",
+            "ml",
+            "developer",
+            "cloud computing",
+            "software",
+            "aws events",
+            "aws events 2019",
+            "aws launchpad"
+        ],
         "title": "AWS re:Invent 2019 Launchpad | Amazon Detective",
-        "date": "2020/03/16"
+        "description": "Amazon Detective makes it easy to investigate, analyze, and quickly identify the root cause of potential security issues or suspicious activities. Amazon Detective automatically collects log data from your AWS resources and uses machine learning, statistical analysis, and graph theory to help you visualize and conduct faster and more efficient security investigations. \n\nAmazon Detective is integrated with AWS security services such as Amazon GuardDuty and AWS Security Hub as well as AWS partner security products. In this session, we will also demonstrate Amazon Detective and provide a walkthrough of how to investigate a security finding.\n\nLearn more about AWS Security, Identity, & Compliance at https://go.aws/2RViLFS\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #reInvent2019 #AWSLaunchpad",
+        "date": "2020-03-16T23:28:12Z",
+        "duration": 1089
     }
 ]

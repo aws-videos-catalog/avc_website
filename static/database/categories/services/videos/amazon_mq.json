@@ -2,25 +2,81 @@
     {
         "service": "amazon_mq",
         "videoId": "ibvCmegX0Io",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon MQ",
+            "ActiveMQ",
+            "cloud messaging",
+            "enterprise messaging",
+            "message brokers",
+            "messaging middleware",
+            "messaging migration",
+            "message queues",
+            "JMS broker"
+        ],
         "title": "Amazon MQ Demo - AWS",
-        "date": "2018/03/26"
+        "description": "Amazon MQ is a managed message broker service for Apache ActiveMQ that makes it easy to set up and operate message brokers in the cloud. It supports industry standards, so you can migrate your messaging without re-writing existing apps. Learn more at - https://amzn.to/2uqtcZk.",
+        "date": "2018-03-26T19:02:42Z",
+        "duration": 194
     },
     {
         "service": "amazon_mq",
         "videoId": "iDT1zFpy1kE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon MQ",
+            "ActiveMQ",
+            "message broker",
+            "managed message broker service",
+            "distributed application messaging"
+        ],
         "title": "Getting Started with Amazon MQ - Managed Message Broker Service",
-        "date": "2018/07/27"
+        "description": "Amazon MQ is a managed message broker service for Apache ActiveMQ that makes it easy to set up and operate message brokers in the cloud. Learn how AmazonMQ can help you communicate between distributed applications without writing any additional code. Learn more at https://amzn.to/2mLVvLc.",
+        "date": "2018-07-27T16:21:55Z",
+        "duration": 154
     },
     {
         "service": "amazon_mq",
         "videoId": "dCucC1SKkvI",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Enterprise",
+            "ENT228",
+            "AI",
+            "Messaging",
+            "Migration"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Introducing Amazon MQ Managed Message Broker Service (ENT228)",
-        "date": "2017/12/01"
+        "description": "Amazon MQ is a new managed message broker service for Apache ActiveMQ that makes it easy to set up and operate message brokers in the cloud. Amazon MQ manages the work involved in setting up an ActiveMQ message broker, from provisioning the infrastructure, to installing the software and ongoing maintenance. It supports industry-standard messaging APIs and protocols, so you can switch from any message broker to Amazon MQ without re-writing the supported applications. This session provides an overview of how Amazon MQ makes enterprise messaging and migration more manageable. You’ll learn how you can use Amazon MQ to launch a production-ready message broker in minutes. Guest speakers from Volvo WirelessCar and GE will share how they’re using messaging in their own applications and systems, and the advantages enabled by a managed ActiveMQ service on AWS.",
+        "date": "2017-12-01T16:51:32Z",
+        "duration": 3060
     },
     {
         "service": "amazon_mq",
         "videoId": "K7z0rYtTqgc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "re:Invent Launchpad",
+            "Amazon MQ",
+            "re:Invent 2017",
+            "Twitch"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - Announcement: Amazon MQ",
-        "date": "2017/12/08"
+        "description": "Amazon MQ is a managed message broker service for Apache ActiveMQ that makes it easy to set up and operate message brokers in the cloud. Amazon MQ works with your existing applications and services without the need to manage, operate, or maintain your own messaging system. Learn more at - http://amzn.to/2AMnyR0.\n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:22:06Z",
+        "duration": 822
     }
 ]

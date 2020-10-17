@@ -2,19 +2,67 @@
     {
         "service": "aws_backup",
         "videoId": "QDiXzFx2iMU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Backup",
+            "Backup and Restore",
+            "Backup and Recovery",
+            "data protection",
+            "back up to the cloud",
+            "back up in the cloud",
+            "backup to AWS",
+            "Amazon EFS",
+            "Amazon EBS",
+            "AWS Storage Gateway",
+            "Amazon RDS",
+            "Amazon DynamoDB",
+            "block",
+            "file",
+            "database",
+            "on-premises back up"
+        ],
         "title": "Introducing AWS Backup",
-        "date": "2019/01/16"
+        "description": "AWS Backup https://amzn.to/2Cfad4D is a fully managed backup service that makes it easy to centralize and automate the back up of data across AWS services in the cloud as well as on-premises using the AWS Storage Gateway.",
+        "date": "2019-01-17T00:34:12Z",
+        "duration": 120
     },
     {
         "service": "aws_backup",
         "videoId": "a6QI3iSCVz4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Backup",
+            "cross-account management",
+            "AWS Organizations",
+            "backup policies"
+        ],
         "title": "AWS Backup Tutorial: Cross-Account Management",
-        "date": "2020/07/20"
+        "description": "In this video, we demonstrate the cross-account management feature in AWS Backup. You can use cross-account management to manage and monitor your backup, restore, and copy jobs across multiple AWS accounts. AWS Backup is centralized backup service that makes it easy and cost-effective for you to back up your application data across AWS services.\n\nLearn more about AWS Storage at - https://amzn.to/30qlOdi\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-07-20T20:35:47Z",
+        "duration": 1212
     },
     {
         "service": "aws_backup",
         "videoId": "av8DpL0uFjc",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "STG341",
+            "Storage",
+            "Rackspace"
+        ],
         "title": "AWS re:Invent 2019: Deep dive on AWS Backup, ft. Rackspace (STG341)",
-        "date": "2019/12/09"
+        "description": "In this session, we dive deep on AWS Backup, a fully managed, policy-based backup solution that makes it easy to automatically back up your application data across AWS services in the cloud as well as on premises using AWS Storage Gateway. Using AWS Backup, you can centrally configure backup policies and monitor backup activity for AWS resources, such as Amazon EBS volumes, Amazon EC2 instances, Amazon RDS databases and Aurora clusters, Amazon DynamoDB tables, Amazon EFS file systems, and Storage Gateway volumes. Further, learn how APN Partner Rackspace uses AWS Backup to enable end customers to reduce their IT administrative overhead and meet compliance requirements.",
+        "date": "2019-12-09T18:44:20Z",
+        "duration": 2891
     }
 ]

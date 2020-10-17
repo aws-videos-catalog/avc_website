@@ -2,115 +2,387 @@
     {
         "service": "simple_email_service",
         "videoId": "nxXIpPZzMd0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I use SES to receive emails and store them?",
-        "date": "2018/12/19"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2BvoRV0\nRyan, an AWS Cloud Support Engineer, shows you how to use Amazon Simple Email Service to receive emails and store them.",
+        "date": "2018-12-19T17:36:47Z",
+        "duration": 458
     },
     {
         "service": "simple_email_service",
         "videoId": "EKnK54TAKWg",
+        "tags": [
+            "amazon",
+            "web",
+            "services",
+            "AWS",
+            "simple",
+            "email",
+            "service",
+            "SES",
+            "cloud",
+            "computing",
+            "Cloud Computing",
+            "cloud based email services",
+            "simple email service",
+            "what is SES",
+            "getting started with SES"
+        ],
         "title": "Getting Started with Amazon SES - Simple Email Service on AWS",
-        "date": "2011/12/19"
+        "description": "Learn how to get started with Amazon Simple Email Service (SES), a cost-effective, outbound email service. Amazon SES is a reliable, scalable way to send business email & marketing messages. Learn more - http://amzn.to/2iZRPT5.",
+        "date": "2011-12-19T18:42:41Z",
+        "duration": 299
     },
     {
         "service": "simple_email_service",
         "videoId": "1jEmL0UYQ5M",
+        "tags": [
+            "SES",
+            "Simple Email Service",
+            "AWS",
+            "Amazon Web Services",
+            "Email",
+            "Cloud email",
+            "cloud computing",
+            "hosted email",
+            "email by amazon",
+            "Introduction to SES",
+            "What is SES",
+            "cloud computing webinar",
+            "cloud based email service"
+        ],
         "title": "Webinar 2012: Using SMTP with Amazon Simple Email Service (SES)",
-        "date": "2012/01/19"
+        "description": "Learn how to use Amazon Simple Email Service (Amazon SES) with Simple Mail Transfer Protocol (SMTP) support. Amazon SES is highly scalable and cost-effective bulk and transactional email-sending service. Learn more: http://amzn.to/2hZRFJP\n\nYou will learn how to: \n• Create your Amazon SES SMTP credentials \n• Discover and use SMTP settings \n• Configure SMTP and Amazon SES with some common programs \n\nRecorded on January 19, 2012",
+        "date": "2012-01-19T23:55:08Z",
+        "duration": 2790
     },
     {
         "service": "simple_email_service",
         "videoId": "JWiL00pcOl4",
+        "tags": [
+            "amazon",
+            "web",
+            "services",
+            "SES",
+            "simple",
+            "email",
+            "service",
+            "cloud",
+            "computing"
+        ],
         "title": "Introduction to Amazon Simple Email Service",
-        "date": "2011/10/14"
+        "description": "Amazon SES is a scalable and cost-effective bulk and transactional email-sending service.",
+        "date": "2011-10-14T20:42:33Z",
+        "duration": 3388
     },
     {
         "service": "simple_email_service",
         "videoId": "qePJIXUpiBo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "cloud computing",
+            "cloud services",
+            "Jeff Barr",
+            "Chris Wheeler",
+            "AWS Report",
+            "email",
+            "email services",
+            "Amazon SES",
+            "Amazon Simple Email Service",
+            "Amazon",
+            "SES",
+            "SPAM",
+            "quality email",
+            "SMTP",
+            "MTA"
+        ],
         "title": "Chris Wheeler, Amazon Simple Email Service",
-        "date": "2012/08/27"
+        "description": "Chris Wheeler Technical Program Manager of Amazon Simple Email Service (SES) talks to Jeff Barr about how to get started with SES and how to move from the SES sandbox to production.",
+        "date": "2012-08-27T20:48:33Z",
+        "duration": 206
     },
     {
         "service": "simple_email_service",
         "videoId": "ezpMM1dzN68",
+        "tags": [
+            "Amazon",
+            "SES",
+            "AWS",
+            "Webinars",
+            "Route",
+            "53",
+            "integration",
+            "Jenn",
+            "Steele",
+            "AmazonWebServices"
+        ],
         "title": "Webinar: Using Domain Verification with Amazon Simple Email Service",
-        "date": "2012/06/12"
+        "description": "In this webinar, you'll learn how to: \n• Verify your domains in Amazon SES \n• Use the simple Amazon Route 53 integration to verify your domains \n• Remove verified domains\nPresented by Jenn Steele, Amazon SES Product Manager.\nLearn more: http://aws.amazon.com/ses/",
+        "date": "2012-06-12T20:36:51Z",
+        "duration": 1944
     },
     {
         "service": "simple_email_service",
         "videoId": "5PT5e8iQyBc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Services Deep Dive",
+            "Expert",
+            "Amazon SES",
+            "Amazon.com",
+            "Architect",
+            "Developer",
+            "Sina Yeganeh",
+            "Morgan Thomas",
+            "Abhishek Mishra"
+        ],
         "title": "AWS re:Invent 2014 | (SDD412) Amazon Simple Email Service Deep Dive and Best Practices",
-        "date": "2014/11/17"
+        "description": "Almost all applications and services have a need to communicate over email. Amazon Simple Email Service (SES) enables email functionality that will scale with your business. So what should an email-sending application that integrates with SES look like? In this session we cover common patterns, architectures, and best practices that you can use to build a robust email solution that takes advantage of the SES platform.",
+        "date": "2014-11-17T23:27:33Z",
+        "duration": 2622
     },
     {
         "service": "simple_email_service",
         "videoId": "6tfGHzlbHxc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos"
+        ],
         "title": "How do I track an email I sent using Amazon SES?",
-        "date": "2019/04/11"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2OVLZTe\nApoorv, an AWS Cloud Support Engineer, shows you how to track an email sent using Amazon Simple Email Service.",
+        "date": "2019-04-11T16:02:26Z",
+        "duration": 341
     },
     {
         "service": "simple_email_service",
         "videoId": "7_vnMUMWtd8",
+        "tags": [
+            "AWS",
+            "Amazon Simple Email Service",
+            "cloud computing",
+            "software tutorial",
+            "Amazon Web Services"
+        ],
         "title": "Amazon Simple Email Service Management Console",
-        "date": "2011/11/17"
+        "description": "Watch this webinar to get an overview of Amazon Simple Email Service.",
+        "date": "2011-11-17T20:03:45Z",
+        "duration": 2547
     },
     {
         "service": "simple_email_service",
         "videoId": "C9HqvzwHp9s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "Can I verify my Domain in multiple AWS Simple Email Service Accounts or Regions?",
-        "date": "2020/08/18"
+        "description": "For more details see the Knowledge Center article with this video:  https://aws.amazon.com/premiumsupport/knowledge-center/ses-verify-domain-accounts-regions/\nAjinkya shows you how to verify your Domain in multiple AWS SES Accounts or Regions.",
+        "date": "2020-08-18T16:26:52Z",
+        "duration": 151
     },
     {
         "service": "simple_email_service",
         "videoId": "V6jfjlyc7J4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I verify an email address or domain in SES?",
-        "date": "2018/10/18"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2CSPA19\nRyan, an AWS Cloud Support Engineer, shows you how to verify an email address or domain in SES.",
+        "date": "2018-10-18T20:16:12Z",
+        "duration": 262
     },
     {
         "service": "simple_email_service",
         "videoId": "n3Fr0bCsIvo",
+        "tags": [
+            "ags AWS",
+            "Amazon Web Services",
+            "Amazon SES",
+            "Simple Email Service"
+        ],
         "title": "Webinar: Handling Bounces and Complaints with Amazon Simple Email Service",
-        "date": "2012/07/27"
+        "description": "Learn about the Amazon Simple Email Service (Amazon SES) feature: bounce & complaint notifications. Now, as an alternative to parsing bounces and complaints passed back to your mailbox, you can set an Amazon SNS topic for bounce or complaint notifications by verified domain or email address and receive them in a simple JSON format. Learn to set up notifications, manage feedback mechanisms and interpret JSON objects. Presented by Jenn Steele, Rohan Deshpande and Chris Wheeler.\n\nLearn more:http://aws.amazon.com/ses/#functionality",
+        "date": "2012-07-27T17:05:50Z",
+        "duration": 2573
     },
     {
         "service": "simple_email_service",
         "videoId": "vLcUz11rzT8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            ".Net",
+            ".Net Core",
+            "email",
+            "SES",
+            "Simple email service",
+            "application"
+        ],
         "title": "AWS for Microsoft Workloads: Integrate Amazon Simple Email Service into your .NET Application",
-        "date": "2018/06/18"
+        "description": "For more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2yt3yWe.\nIf you wish to send email from within your .Net application then integrating into the AWS Simple Email Service is a good way to go. In this video, you will learn how to send email from C# utilizing AWS SES.",
+        "date": "2018-06-18T23:30:05Z",
+        "duration": 377
     },
     {
         "service": "simple_email_service",
         "videoId": "f3xncKCdI_0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "AWS re: Invent",
+            "re: Invent Conference",
+            "Amazon Simple Email Service",
+            "Amazon SES",
+            "email",
+            "deliverability",
+            "SMTP",
+            "spam",
+            "ISP",
+            "Chris Wheeler",
+            "Rohan Deshpande",
+            "AOL",
+            "Simple Email",
+            "Cloud Email"
+        ],
         "title": "AWS re: Invent SVC 103: Using Amazon Simple Email Service",
-        "date": "2012/12/06"
+        "description": "If you're already building your website our application on AWS, using Amazon SES is a quick and cost-effective way to send your email. This session will talk about what Amazon SES is and why you would want to use it. Then we will dig into the most common ways our customers use Amazon SES with their current systems and give you the tools you need to do the same.  Learn more:  http://aws.amazon.com/ses/",
+        "date": "2012-12-06T23:12:13Z",
+        "duration": 2995
     },
     {
         "service": "simple_email_service",
         "videoId": "BpuqLT1UGVM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "''cloud computing''",
+            "''amazon web services''",
+            "''aws cloud''",
+            "''aws reinvent''",
+            "reinvent2013",
+            "''reinvent 2013''",
+            "SVC301",
+            "getting started",
+            "web apps",
+            "startups",
+            "'SES''",
+            "''email''",
+            "''email notification''",
+            "''cloud email notification''",
+            "''Dave Young''"
+        ],
         "title": "From 0 to 100M+ Emails Per Day: Sending Email with Amazon SES (SVC301) | AWS re:Invent 2013",
-        "date": "2013/11/23"
+        "description": "It's difficult to imagine an app without email. When you integrate Amazon Simple Email Service (Amazon SES), you not only increase your productivity and add richness to your application but also enhance your ability to scale your application to new heights. But how do you scale the service as you grow your application? In this session, we will tell you a story and weave all the best practices of sending high volume email such as basic inbox placement, high throughput pipeline to email ISPs, message signing, and retries in the face of temporary failures on how to scale up your application to best take advantage of what Amazon SES can do for your business.",
+        "date": "2013-11-23T21:08:20Z",
+        "duration": 3350
     },
     {
         "service": "simple_email_service",
         "videoId": "-kVhzt7X5Kw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "SES",
+            "SNS"
+        ],
         "title": "How do I configure SES and SNS to receive domain validation emails?",
-        "date": "2019/10/29"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/ses-sns-domain-validation-email/\n\nPrabhakaran, an AWS Cloud Support Engineer, shows you how to configure SES and SNS to receive domain validation emails.",
+        "date": "2019-10-29T18:28:31Z",
+        "duration": 402
     },
     {
         "service": "simple_email_service",
         "videoId": "U3STb1Zz7Jc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "SES",
+            "Simple Email Service",
+            "Email Sending Best Practices",
+            "Complaints",
+            "Bounces",
+            "Deliverability"
+        ],
         "title": "Webinar: Email Best Practices from the Amazon SES Team",
-        "date": "2012/09/19"
+        "description": "To run a successful email program, you must be aware of a few topics that can affect your delivery and ultimately your impact on email recipients. In this webinar, you'll learn about the value attributed to your email by your recipients and the Internet Service Providers (ISPs) responsible for protecting their in-boxes; what the emailing process looks like, who's involved, and what their roles are; how to optimize value and drive it up based on some best practices we've compiled. Learn more: http://aws.amazon.com/ses/\n\nPresented by: Chris Wheeler, Senior Technical Program Manager and moderated by Nick Hristov, Email Deliverability Manager",
+        "date": "2012-09-19T16:00:10Z",
+        "duration": 3388
     },
     {
         "service": "simple_email_service",
         "videoId": "s3MwrakuFA4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "EmailDelivery",
+            "Amazon Simple Queue Service (SQS)",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon Elastic MapReduce (EMR)",
+            "Amazon Simple Email Service (SES)",
+            "Amazon API Gateway",
+            "AWS Lambda",
+            "Amazon Kinesis Data Firehose",
+            "Amazon Elastic Kubernetes Service (EKS)",
+            "Amazon Elasticsearch Service",
+            "This is My Architecture",
+            "TMA"
+        ],
         "title": "NewsLeopard: How to Build an eDM Service with a High Delivery Rate on AWS (Mandarin)",
-        "date": "2019/11/25"
+        "description": "NewsLeopard built their mail delivery service on AWS. They not only built up an effective pipeline for Simple Email Service (SES) for mass delivery, they also built up a tracking mechanism with API Gateway and Lambda. This provides their customers with a reliable channel to understand their eDM operations.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-11-25T19:09:45Z",
+        "duration": 437
     },
     {
         "service": "simple_email_service",
         "videoId": "wrR-iC7UTic",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Architecture",
+            "ARC210",
+            "AI",
+            "Migration"
+        ],
         "title": "AWS re:Invent 2017: Building Scalable Multitenant Email Sending Programs with Amazon (ARC210)",
-        "date": "2017/11/28"
+        "description": "Many companies use Amazon Simple Email Service (Amazon SES) to build applications that enable their users to send millions of emails every day. In this session, you learn how to build applications using the scalable, reliable Amazon SES infrastructure. You also learn how to monitor email sending and enforce compliance rules on individual accounts without impacting other accounts. Zendesk discusses the architecture of its multitenant email sending platform, the historical challenges it faced, its phased approach to platform migration, and the ways Amazon SES helped them meet their goals.",
+        "date": "2017-11-28T18:06:01Z",
+        "duration": 2855
     }
 ]

@@ -2,67 +2,208 @@
     {
         "service": "aws_single_sign-on",
         "videoId": "nuPjljOVZmU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Single Sign-ON",
+            "SSO",
+            "Active Directory",
+            "AD"
+        ],
         "title": "How to Setup AWS Single Sign On for Your On-Premise Active Directory Users",
-        "date": "2018/11/21"
+        "description": "AWS Single Sign-On (SSO) is a cloud SSO service that makes it easy to centrally manage SSO access to multiple AWS accounts and business applications. With just a few clicks, you can enable a highly available SSO service without the upfront investment and on-going maintenance costs of operating your own SSO infrastructure. With AWS SSO, you can easily manage SSO access and user permissions to all of your accounts in AWS Organizations centrally.\nFor more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2t7AHBA.",
+        "date": "2018-11-21T20:44:11Z",
+        "duration": 534
     },
     {
         "service": "aws_single_sign-on",
         "videoId": "_qNkFxp1Z_k",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "identity management",
+            "single sign-on",
+            "eliminate passwords",
+            "authentication",
+            "directory"
+        ],
         "title": "AWS Single Sign-On: Centrally Manage SSO Access to Your AWS Accounts & Business Applications",
-        "date": "2019/07/22"
+        "description": "Learn more about AWS Single Sign-On at – https://amzn.to/2JK75CT\nAWS Single Sign-On (SSO) is a cloud SSO service that makes it easy to centrally manage SSO access to multiple AWS accounts and business applications, such as Salesforce, Box, and Office 365. Your users simply sign in to a user portal with credentials they configure in AWS SSO or using their existing corporate credentials to access all their assigned accounts and applications from one place.\n\nWith just a few clicks, you can enable a highly available SSO service without the upfront investment and on-going maintenance costs of operating your own SSO infrastructure. With AWS SSO, you can easily manage SSO access and user permissions to all of your accounts in AWS Organizations centrally. Further, by using the AWS SSO application configuration wizard, you can create Security Assertion Markup Language (SAML) 2.0 integrations and extend SSO access to any of your SAML-enabled applications.",
+        "date": "2019-07-22T17:50:38Z",
+        "duration": 225
     },
     {
         "service": "aws_single_sign-on",
         "videoId": "FbNkDjX5efE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS SSO",
+            "Federation",
+            "SAML",
+            "AzureAD"
+        ],
         "title": "Demo of AWS Single Sign-On (SSO) with Azure Active Directory",
-        "date": "2020/04/23"
+        "description": "Want to give your Azure Active Directory users quick access to AWS? This short demo shows how to make your Azure AD work with AWS SSO.\n\nLearn more about AWS Single Sign-On at https://go.aws/2VUBAeo\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-04-24T01:13:07Z",
+        "duration": 388
     },
     {
         "service": "aws_single_sign-on",
         "videoId": "bXrsUEI1V38",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "single sign-on",
+            "multiple AWS accounts",
+            "user access",
+            "permissions",
+            "manage multiple AWS accounts",
+            "authorization",
+            "AWS Single Sign-on"
+        ],
         "title": "Manage User Access to Multiple AWS Accounts Using AWS Single Sign-on",
-        "date": "2018/12/27"
+        "description": "Learn how to manage user access and permissions to multiple AWS accounts using AWS Single Sign-On (AWS SSO). Learn more at - https://amzn.to/2Q6fgt4.\n\nAWS SSO allows you to create users, organize them in groups, and set permissions across those groups. You can also grant the users that you create in AWS SSO permissions to applications such Salesforce, Box, and Office 365. All of this at no additional cost to you.",
+        "date": "2018-12-27T19:51:03Z",
+        "duration": 436
     },
     {
         "service": "aws_single_sign-on",
         "videoId": "li_ISe96K9E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing"
+        ],
         "title": "Demo: Basic AWS SSO Configuration",
-        "date": "2020/05/27"
+        "description": "This demo shows how to enable AWS Single Sign-On (SSO) for AWS Organizations and configure AWS SSO basic settings.\n\nLearn more about AWS Security Identity & Compliance at - https://bit.ly/2XvEnvj\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-05-27T17:39:54Z",
+        "duration": 278
     },
     {
         "service": "aws_single_sign-on",
         "videoId": "n1OCinRg854",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I use AWS Single Sign-On permission sets?",
-        "date": "2020/07/09"
+        "description": "For more details see the Knowledge Center article with this video: (https://aws.amazon.com/premiumsupport/knowledge-center/create-sso-permission-set/).\n\nMan Man shows you how to use AWS Single Sign-On permission sets.",
+        "date": "2020-07-09T19:43:48Z",
+        "duration": 176
     },
     {
         "service": "aws_single_sign-on",
         "videoId": "y_n9xN5mg1g",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "SSO",
+            "Control Tower",
+            "Access"
+        ],
         "title": "Provisioning Users in AWS Control Tower Using AWS SSO",
-        "date": "2019/11/26"
+        "description": "Learn more about AWS Management and Governance at https://amzn.to/2roeilr\nIn this video, you’ll see how to provision users in AWS Control Tower using AWS Single Sign-On (or SSO). With Control Tower, you can create users using preconfigured groups, manage account access from a centralized location, and create customized permission sets for groups and users within those accounts.",
+        "date": "2019-11-26T20:50:29Z",
+        "duration": 393
     },
     {
         "service": "aws_single_sign-on",
         "videoId": "PH8AeL0V7Vo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "SSO",
+            "Single Sign On",
+            "user portal",
+            "portal"
+        ],
         "title": "How do I get started with using AWS SSO and access the user portal?",
-        "date": "2019/10/12"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2q1ApNL \nCiarán, an AWS Cloud Support Engineer, shows you how to get started with using AWS SSO and access the user portal.",
+        "date": "2019-10-22T01:59:04Z",
+        "duration": 155
     },
     {
         "service": "aws_single_sign-on",
         "videoId": "y_n9xN5mg1g",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "SSO",
+            "Control Tower",
+            "Access"
+        ],
         "title": "Provisioning Users in AWS Control Tower Using AWS SSO",
-        "date": "2019/11/26"
+        "description": "Learn more about AWS Management and Governance at https://amzn.to/2roeilr\nIn this video, you’ll see how to provision users in AWS Control Tower using AWS Single Sign-On (or SSO). With Control Tower, you can create users using preconfigured groups, manage account access from a centralized location, and create customized permission sets for groups and users within those accounts.",
+        "date": "2019-11-26T20:50:29Z",
+        "duration": 393
     },
     {
         "service": "aws_single_sign-on",
         "videoId": "aEIqeFCcK7E",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "SEC308",
+            "Security",
+            "Compliance",
+            "and Identity",
+            "Not Applicable"
+        ],
         "title": "AWS re:Invent 2019: Managing user permissions at scale with AWS SSO (SEC308)",
-        "date": "2019/12/09"
+        "description": "AWS Organizations and AWS Single Sign-On (SSO) shifted the AWS cloud management model from separate accounts with unique identities to hierarchical accounts with common identities. Together they provide a simpler model to manage access within an account hierarchy, while providing users a portal from which to access their assigned accounts and roles. This session explains the latest AWS SSO security and administration features and best practices for managing permissions at scale, whether you administer your identities in AWS SSO or in Active Directory.",
+        "date": "2019-12-09T18:46:09Z",
+        "duration": 3819
     },
     {
         "service": "aws_single_sign-on",
         "videoId": "9ILi8XFH7TI",
+        "tags": [
+            "programming",
+            "aws",
+            "reinvent",
+            "ai",
+            "ml",
+            "developer",
+            "cloud computing",
+            "software",
+            "Aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "reinvent 2019",
+            "aws launchpad"
+        ],
         "title": "AWS re:Invent 2019 Launchpad | AWS Single Sign-On",
-        "date": "2020/03/17"
+        "description": "Last week, we added a range of capabilities to AWS Single Sign-on giving\ncustomers a consistent way to use a single identity across all of AWS,\nregardless of where their identities live. It reduces the sign-in friction by\nallowing your workforce to use their existing login credentials. \n\nNow AWS SSO supports your identities that might be managed in a corporate Active\nDirectory, AWS SSO, Azure AD or any SAML 2.0 identity providers, like Okta. \n\nFor example, you now have a hybrid approach to support your AD- dependent Windows workloads in AWS, and simultaneously use the same identities for access to AWS accounts.\n\nLearn more about AWS Security, Identity & Compliance at - https://go.aws/2RDQ7dB\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #reInvent2019 #AWSLaunchpad",
+        "date": "2020-03-17T20:23:03Z",
+        "duration": 1008
     }
 ]

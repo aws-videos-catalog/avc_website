@@ -2,37 +2,121 @@
     {
         "service": "managed_services",
         "videoId": "OdumiJOFw9s",
-        "title": "Getting Started with Managed Services | AWS Public sector Summit 2016",
-        "date": "2016/07/07"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summits",
+            "AWS ublic sector summit",
+            "206AWSPSSummit",
+            "AWS Government summit"
+        ],
+        "title": "Getting Started with Managed Services  | AWS Public sector Summit 2016",
+        "description": "The AWS cloud infrastructure is architected to be one of the most flexible and secure cloud computing environments available today.&nbsp; By leveraging services such as EC2, you are able to build highly scalable and performant architectures.&nbsp; AWS also provides a rich set of services which help to remove much of the potentially undifferentiated heavy lifting associated to managing your EC2 based infrastructure.&nbsp; This session will introduce some of these services in the areas of Application Management, Database, Analytics, Security and Enterprise Applications.",
+        "date": "2016-07-08T02:29:54Z",
+        "duration": 2589
     },
     {
         "service": "managed_services",
         "videoId": "MFQa4y4Xwt4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Managed Services (Organization)",
+            "Service (Quotation Subject)",
+            "Software (Industry)",
+            "Technology",
+            "kyle lichtenberg",
+            "kelly hartman",
+            "spencer colson",
+            "smartronix",
+            "rightbrain networks",
+            "jamie begin"
+        ],
         "title": "Best Practices for Building Partner Managed Services on AWS",
-        "date": "2015/04/10"
+        "description": "As more and more customers move mission-critical workloads to the cloud, there is increasing demand for Managed Service Providers to help customers migrate and then operate those customer environments on an ongoing basis. This session will describe some of the key considerations for Managed Service Providers operating on AWS.  You will hear from Partners who have learned and adapted their operations to provide high-quality managed services.  And you will learn about the AWS Managed Service Program and how it provides a framework of best practices for Partners to find success in this rapidly expanding space.  Join us if you are a business professional who is interested in expanding into the cloud MSP space, or a technical professional who wants an understanding of the technical best practices from successful cloud MSPs.",
+        "date": "2015-04-10T21:57:49Z",
+        "duration": 2619
     },
     {
         "service": "managed_services",
         "videoId": "phN08pi3YzY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Containers",
+            "Serverless",
+            "Security",
+            "Financial Services",
+            "AWS CloudTrail",
+            "AWS Fargate",
+            "Amazon GuardDuty",
+            "AWS Key Management Service (KMS)",
+            "Application Load Balancer (ALB)",
+            "This is My Architecture",
+            "TMA"
+        ],
         "title": "Fiverr: Simplifying PCI DSS Compliance with Fully Managed Services",
-        "date": "2020/06/05"
+        "description": "Moshe from Fiverr describes the journey to achieving PCI DSS compliance for his company’s payments processing system. By relying on AWS services that are PCI-compliant and simplifying the design, Fiverr has reduced its architecture in order to minimize both operational and compliance overhead.\n\n~Filmed prior to Covid-19~\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-06-05T17:29:16Z",
+        "duration": 358
     },
     {
         "service": "managed_services",
         "videoId": "bigApb5QbyE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "managed services",
+            "enterprise devops",
+            "NAB",
+            "National Australia Bank"
+        ],
         "title": "AWS Managed Services Helps National Australia Bank Accelerate its Cloud Migration",
-        "date": "2019/05/08"
+        "description": "Learn more about AWS Managed Services at - https://amzn.to/2JpefN2.\nNational Australia Bank (NAB) migrated 30 applications to AWS in 50 days, using AWS Managed Services (AMS) to augment its teams skills. NAB values the \"guardrails\" provided by AMS to quickly get to the cloud in a best practice manner while it builds out its own team.",
+        "date": "2019-05-08T15:00:08Z",
+        "duration": 118
     },
     {
         "service": "managed_services",
         "videoId": "dMHx1krnpzM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws managed services"
+        ],
         "title": "What's it like to work at Amazon Web Services? Meet our AWS Managed Services team.",
-        "date": "2018/02/16"
+        "description": "Want to be part of the team behind the world's most comprehensive and broadly adopted cloud platform? Go to Amazon Jobs to see our open positions - http://amzn.to/2C3OTgp",
+        "date": "2018-02-16T19:45:09Z",
+        "duration": 167
     },
     {
         "service": "managed_services",
         "videoId": "T64UQqD_BeE",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "MGT203-S",
+            "2nd Watch Inc."
+        ],
         "title": "AWS re:Invent 2019: Simple path to AWS Managed Services (AMS) (MGT203-S)",
-        "date": "2019/12/05"
+        "description": "With AWS Managed Services (AMS), you can offload the critical task of infrastructure operations, freeing yourself to focus on application modernization. In this session, learn how to accelerate your journey to the cloud with AMS. We cover the process of assessing your infrastructure, migrating it from your on-premises data center or existing cloud environment to AMS, and operationalizing it. You learn key steps to streamline this process using automation and infrastructure as code to set up network connectivity, access management, logging, monitoring, backups, and configuration. You also discover integration points for an existing managed service provider to seamlessly work with AMS. This presentation is brought to you by 2nd Watch, an APN Partner.",
+        "date": "2019-12-05T17:35:45Z",
+        "duration": 2561
     }
 ]

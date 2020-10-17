@@ -2,73 +2,225 @@
     {
         "service": "amazon_managed_blockchain",
         "videoId": "B9tlH8lzKI4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Databases",
+            "DAT381",
+            "Amazon Managed Blockchain"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Deep Dive on Amazon Managed Blockchain (DAT381)",
-        "date": "2018/12/04"
+        "description": "Amazon Managed Blockchain is a fully managed blockchain service that makes it easy for customers to create and manage scalable blockchain-based transaction networks (blockchain networks) using the popular open source blockchain frameworks Hyperledger Fabric and Ethereum. Blockchain technologies enable groups of organizations, oftentimes in financial services and manufacturing, to securely transact, run application code, and share data without a trusted central authority. We will explore the components of blockchain technology, discuss use cases, and do a deep dive into capabilities, performance, and key innovations in Amazon Managed Blockchain.",
+        "date": "2018-12-04T20:47:38Z",
+        "duration": 3341
     },
     {
         "service": "amazon_managed_blockchain",
         "videoId": "CaEi4C48lhg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit"
+        ],
         "title": "Deep Dive on Amazon Managed Blockchain",
-        "date": "2019/06/03"
+        "description": "Learn more about AWS at – https://amzn.to/2KoLu3R \nAmazon Managed Blockchain is a fully managed blockchain service that makes it easy for customers to create and manage scalable blockchain-based transaction networks (blockchain networks) using the popular open source blockchain frameworks Hyperledger Fabric and Ethereum. Blockchain technologies enable groups of organizations, oftentimes in financial services and manufacturing, to securely transact, run application code, and share data without a trusted central authority. We will explore the components of blockchain technology, discuss use cases, and do a deep dive into capabilities, performance, and key innovations in Amazon Managed Blockchain.",
+        "date": "2019-06-03T17:27:22Z",
+        "duration": 2696
     },
     {
         "service": "amazon_managed_blockchain",
         "videoId": "5j5rhCXw8fE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Deep Dive on Amazon Managed Blockchain",
-        "date": "2019/01/31"
+        "description": "Amazon Managed Blockchain is a fully managed blockchain service that makes it easy for customers to create and manage scalable blockchain-based transaction networks (blockchain networks) using the popular open source blockchain frameworks Hyperledger Fabric and Ethereum. Blockchain technologies enable groups of organizations, oftentimes in financial services and manufacturing, to securely transact, run application code, and share data without a trusted central authority. Join expert guest Jonathan Fritz, Principal PM of Amazon Managed Blockchain, and explore the components of blockchain technology, discuss use cases, and do a deep dive into capabilities, performance, and key innovations in Amazon Managed Blockchain.\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-01-31T20:52:50Z",
+        "duration": 3332
     },
     {
         "service": "amazon_managed_blockchain",
         "videoId": "gCZfJWkfqLo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "blockchain",
+            "Amazon",
+            "decentralized",
+            "ledger",
+            "immutable"
+        ],
         "title": "AWS re:Invent 2018 - Announcement of Amazon Managed Blockchain",
-        "date": "2018/12/13"
+        "description": "Amazon Managed Blockchain is a fully managed service that makes it easy to create and manage scalable blockchain networks using the popular open source frameworks Hyperledger Fabric and Ethereum*. Learn more at - https://amzn.to/2Limrhl.",
+        "date": "2018-12-13T19:28:35Z",
+        "duration": 131
     },
     {
         "service": "amazon_managed_blockchain",
         "videoId": "0WBXkhgKpoE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Blockchain",
+            "Technology",
+            "Supply Chain",
+            "Coffee",
+            "Technology Innovation",
+            "Small Scale Farmers",
+            "Sustainability",
+            "Nestle"
+        ],
         "title": "Nestle’s Chain of Origin Coffee Brings Supply Chain Transparency With Amazon Managed Blockchain",
-        "date": "2019/12/13"
+        "description": "To learn more go to https://amzn.to/2sw5yKx and https://chainoforigin.com\nNestlé is a global food and beverage company. Chain of Origin is Nestlé’s answer to complete supply chain transparency from crop to cup, with technology at its heart.\n\nGenerally coffee companies go for consistency, uniformity with different beans to get a consistent taste. Now, consumers want to know about the quality of the product, know where it is sourced from, and have a variety of flavors.\n\nAWS has a broad range of purpose-built services that allow organizations like Nestlé to focus on making a difference to the customer experience. Using Amazon Managed Blockchain Nestlé is able to store supply chain transactions in ways that are transparent, immutable, and verifiable to allow its partners to interact in a trustworthy and efficient manner. This solution also ensures that the supply chain is verified and any mistakes, malpractices or tampering is quickly addressed.",
+        "date": "2019-12-13T17:03:08Z",
+        "duration": 181
     },
     {
         "service": "amazon_managed_blockchain",
         "videoId": "nUre2ELySdo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Managed Blockchain",
+            "Singapore Exchange",
+            "Amazon VPC",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon API Gateway",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Singapore Exchange: Clearing Financial Transactions on Amazon Managed Blockchain",
-        "date": "2019/09/11"
+        "description": "For the past three years, Singapore Exchange has been exploring the use of blockchain in trading financial assets across a group of institutions. They started by trialling the use of digital currency in Real-Time Gross Settlement (RTGS), and recently they tested Delivery vs Payment (DvP) for domestic securities settlement. Peter Shen from Singapore Exchange shares how DvP uses both a Hyperledger Fabric network on Amazon Managed Blockchain and an Ethereum client to allow a buyer to trade digital cash for government bonds. Peter also shares his thoughts on trust and decentralization - both common topics in the world of blockchain.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-09-11T14:42:44Z",
+        "duration": 496
     },
     {
         "service": "amazon_managed_blockchain",
         "videoId": "WAIOBeQA2QQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "An Overview on Blockchain Services from AWS",
-        "date": "2019/04/03"
+        "description": "Learn how AWS views blockchain and ledger technology, get introduced to our services, and learn about the features of our new managed blockchain service, Amazon Managed Blockchain, makes it easy to build and manage scalable Hyperledger Fabric networks on AWS.\n\nLearn more about AWS on Twitch: https://amzn.to/2uGYoB3",
+        "date": "2019-04-03T19:30:23Z",
+        "duration": 1155
     },
     {
         "service": "amazon_managed_blockchain",
         "videoId": "3Lu5kVPjhRg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "blockchain solutions",
+            "immutability",
+            "traceability",
+            "music rights management",
+            "proof of ownership",
+            "decentralized applications",
+            "distributed ledger",
+            "digital music rights",
+            "drm solutions"
+        ],
         "title": "How Sony Music is Innovating on Digital Rights Management with Amazon Managed Blockchain",
-        "date": "2020/07/29"
+        "description": "Sony Music discusses how they are building their new digital rights management solution leveraging blockchain and why they chose Amazon Managed Blockchain.\n\nLearn more about AWS Blockchain at - https://amzn.to/2EeFY2x\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSCustomer",
+        "date": "2020-07-29T17:58:39Z",
+        "duration": 125
     },
     {
         "service": "amazon_managed_blockchain",
         "videoId": "zI_sZ8sNaUc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Managed Blockchain",
+            "Hyperledger Fabric",
+            "Dapps"
+        ],
         "title": "TrustSquare Swiss Blockchain Hackathon - AWS Sizzle Reel",
-        "date": "2019/07/03"
+        "description": "Learn more about Amazon Managed Blockchain  at – https://amzn.to/2XkoAx5 \nDevelopers, go build decentralized applications with Amazon Managed Blockchain, a fully managed service that makes it easy to create and manage scalable blockchain networks using the popular open source frameworks Hyperledger Fabric and Ethereum.",
+        "date": "2019-07-03T20:47:31Z",
+        "duration": 258
     },
     {
         "service": "amazon_managed_blockchain",
         "videoId": "bmNBD_q38XU",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "GPSTEC339",
+            "Partner",
+            "Amazon Managed Blockchain",
+            "Amazon QLDB"
+        ],
         "title": "AWS re:Invent 2019: Managed Blockchain & Amazon QLDB in your solutions portfolio (GPSTEC339)",
-        "date": "2019/12/05"
+        "description": "Although this Global Partner Summit session is open to anyone, it is geared toward current and potential AWS Partner Network (APN) Partners. Blockchain technology is evolving rapidly. In this session, learn the differences between blockchain and ledger technologies and get introduced to Amazon Managed Blockchain and Amazon Quantum Ledger Database (Amazon QLDB). Along the way, we show how to easily build and manage scalable blockchain networks with Managed Blockchain on AWS and create new ledgers with Amazon QLDB. Our goal is for Consulting and Technology APN Partner attendees to walk away from this session with a working knowledge of how to leverage blockchain and ledger technologies to bring efficiency, security, and auditability to their digital transformation projects.",
+        "date": "2019-12-05T17:36:18Z",
+        "duration": 3182
     },
     {
         "service": "amazon_managed_blockchain",
         "videoId": "oCqEtoL_-J0",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "BLC301-R",
+            "Blockchain",
+            "Amazon Managed Blockchain"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT] Dive deep into Managed Blockchain (BLC301-R)",
-        "date": "2019/12/06"
+        "description": "Building enterprise blockchain applications on your own infrastructure is often expensive, complicated, and time-consuming. Amazon Managed Blockchain makes it easy to build scalable blockchain applications by eliminating the need to set up and manage infrastructure, allowing you to focus on writing applications for your business. In this technical session, you get an in-depth look at Managed Blockchain’s features, APIs, the Hyperledger Fabric SDK, and how to add new members and join fabric channels. We also show how to build an application on Managed Blockchain with the help of demo applications and sample code.",
+        "date": "2019-12-07T06:00:19Z",
+        "duration": 3579
     },
     {
         "service": "amazon_managed_blockchain",
         "videoId": "WndmiQOAoXk",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "BLC301-R1",
+            "Blockchain",
+            "Workday",
+            "Amazon Managed Blockchain"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Dive deep into Managed Blockchain (BLC301-R1)",
-        "date": "2019/12/09"
+        "description": "Building enterprise blockchain applications on your own infrastructure is often expensive, complicated, and time-consuming. Amazon Managed Blockchain makes it easy to build scalable blockchain applications by eliminating the need to set up and manage infrastructure, allowing you to focus on writing applications for your business. In this technical session, you get an in-depth look at Managed Blockchain’s features, APIs, the Hyperledger Fabric SDK, and how to add new members and join fabric channels. We also show how to build an application on Managed Blockchain with the help of demo applications and sample code.",
+        "date": "2019-12-09T18:55:03Z",
+        "duration": 3185
     }
 ]

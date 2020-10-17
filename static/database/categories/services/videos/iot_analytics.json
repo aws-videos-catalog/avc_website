@@ -2,79 +2,241 @@
     {
         "service": "iot_analytics",
         "videoId": "cYD0OU8Jdws",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "IoT Analytics",
+            "machine learning",
+            "IoT data",
+            "predictive",
+            "data science",
+            "Jupyter notebooks"
+        ],
         "title": "AWS IoT Analytics - How It Works",
-        "date": "2018/04/24"
+        "description": "Who are the users of AWS IoT Analytics and how does the service work. Learn more at - https://amzn.to/2JkRsPo.",
+        "date": "2018-04-24T15:53:57Z",
+        "duration": 182
     },
     {
         "service": "iot_analytics",
         "videoId": "FH_CP-sffp8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "Live Coding",
+            "AWS Summit",
+            "IoT",
+            "Analytics"
+        ],
         "title": "Automating AWS IoT Analytics",
-        "date": "2018/04/10"
+        "description": "Learn more about AWS IoT Analytics at - https://amzn.to/2GSpCxe.\nIn this session, hear about how you can overcome data management challenges inherent in noisy IoT data and perform complex analytics such as machine learning. Learn how AWS IoT Analytics makes it easy to run sophisticated analytics on massive volumes of IoT data. AWS IoT Analytics filters, transforms, and enriches IoT data before storing it in a time-series data store. You can analyze your data by running queries using the built-in SQL query engine, or perform more complex analytics. AWS IoT Analytics makes it easy to get started with machine learning by including pre-built models for common IoT use cases.",
+        "date": "2018-04-10T17:17:09Z",
+        "duration": 1642
     },
     {
         "service": "iot_analytics",
         "videoId": "Ky3cgNluM0c",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "IOT205",
+            "Ryan Burke",
+            "John Rotach",
+            "Introductory",
+            "IoT Mini Con"
+        ],
         "title": "AWS re:Invent 2016: IoT Analytics: Insights for a Connected World (IOT205)",
-        "date": "2016/12/03"
+        "description": "Establishing connectivity between devices and the cloud is the first step to building great IoT applications. Generating insights with these data streams, and acting on it in real-time, that creates value for your business. Join us and learn how to expand the operational picture of your IoT solution with AWS IoT. We will show you how to use metrics to enable new possibilities in generating insights and decision making engines. And we will connect to Salesforce to leverage your CRM data and empower service agents in this IoT context, using a solar panel monitoring and maintenance as a demonstration of AWS IoT features paired with Salesforce IoT Cloud.",
+        "date": "2016-12-03T23:33:34Z",
+        "duration": 2537
     },
     {
         "service": "iot_analytics",
         "videoId": "Wq79P_06JkI",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "IoT",
+            "IOT219",
+            "AWS IoT Analytics"
+        ],
         "title": "AWS re:Invent 2018: Customer Showcase for AWS IoT Analytics (IOT219)",
-        "date": "2018/11/28"
+        "description": "See how our customers are using AWS IoT Analytics.",
+        "date": "2018-11-28T18:31:34Z",
+        "duration": 3292
     },
     {
         "service": "iot_analytics",
         "videoId": "P0L3HC58Uko",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Analytics & Big Data",
+            "ABD218",
+            "AI",
+            "Analytics",
+            "Big Data"
+        ],
         "title": "AWS re:Invent 2017: How EuroLeague Basketball Uses IoT Analytics to Engage Fans (ABD218)",
-        "date": "2017/11/29"
+        "description": "IoT and big data have made their way out of industrial applications, general automation, and consumer goods, and are now a valuable tool for improving consumer engagement across a number of industries, including media, entertainment, and sports. The low cost and ease of implementation of AWS analytics services and AWS IoT have allowed AGT, a leader in IoT, to develop their IoTA analytics platform. Using IoTA, AGT brought a tailored solution to EuroLeague Basketball for real-time content production and fan engagement during the 2017-18 season. In this session, we take a deep dive into how this solution is architected for secure, scalable, and highly performant data collection from athletes, coaches, and fans. We also talk about how the data is transformed into insights and integrated into a content generation pipeline. Lastly, we demonstrate how this solution can be easily adapted for other industries and applications.",
+        "date": "2017-11-29T16:23:26Z",
+        "duration": 3439
     },
     {
         "service": "iot_analytics",
         "videoId": "zHSEnKb69go",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "re:Invent 2017",
+            "AGT",
+            "Amazon Kinesis",
+            "IoT Analytics"
+        ],
         "title": "AWS re:Invent 2017 - AGT Uses Amazon Kinesis for IoT Analytics",
-        "date": "2017/12/04"
+        "description": "Amazon Kinesis makes it easy to collect, process, and analyze video and data streams in real-time. In this re:Invent 2017 keynote clip, AGT International demonstrates how it use Kinesis and other AWS service to analyze Internet of Things (IoT) data and engage fans of the Ultimate Fighting Championships (UFC). Learn more at - http://amzn.to/2kbp0YR.",
+        "date": "2017-12-04T20:33:11Z",
+        "duration": 131
     },
     {
         "service": "iot_analytics",
         "videoId": "xzqXahqAjiM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "FinTech",
+            "Financial Services",
+            "Singapore FinTech Festival"
+        ],
         "title": "AWS at 2018 SINGAPORE FINTECH FESTIVAL - Cloud computing IOT Analytics",
-        "date": "2018/11/26"
+        "description": "Just because Singapore FinTech Festival has come and gone, doesn’t mean great learnings have to end!\n\nWith so many incredible AWS speakers to take in onsite, sometimes a session slips through your schedule. This time, we’re making it easy for you to relive all the learnings from AWS from Singapore through our video archive.\n\nWe’re happy to help you grab hold of all the bold insights and eye-opening discussions that took place in Singapore.\n\nwww.aws.amazon/financial-services",
+        "date": "2018-11-26T18:55:22Z",
+        "duration": 733
     },
     {
         "service": "iot_analytics",
         "videoId": "XTUNOqjqnUU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2017",
+            "Amazon",
+            "IoT",
+            "IOT214",
+            "Connect",
+            "Analytics"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Introducing AWS IoT Analytics (IOT214)",
-        "date": "2017/12/02"
+        "description": "Introducing AWS IoT Analytics, the new managed service that lets customers structure, preprocess, store, analyze, and visualize connected device data. The service team will walk through the service’s features and introduce two customer use cases from the private beta.",
+        "date": "2017-12-03T01:46:18Z",
+        "duration": 3538
     },
     {
         "service": "iot_analytics",
         "videoId": "DWLCP2nBG2Y",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "IoT",
+            "IOT211",
+            "Analytics"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! AWS IoT Analytics from Consumer IoT to Industrial Io (IOT211)",
-        "date": "2017/12/01"
+        "description": "This session is an overview of IoT Analytics challenges and use cases with our customers. This session will cover analytics use cases from Consumer IoT to Industrial IoT. It will then show how AWS IoT Analytics helps customers solve these challenges in different IoT verticals.",
+        "date": "2017-12-01T16:41:17Z",
+        "duration": 3415
     },
     {
         "service": "iot_analytics",
         "videoId": "I-tynkaNg9Y",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "IoT",
+            "IOT358-R1",
+            "AWS IoT Analytics"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] Operationalizing Your Analysis with AWS IoT Analytics (IOT358-R1)",
-        "date": "2018/11/30"
+        "description": "AWS IoT Analytics makes it easy to run and operationalize sophisticated analytics on massive volumes of IoT data without having to worry about the cost and complexity required to build your own IoT analytics platform. It collects and prepares data for analysis and also lets you explore and visualize your IoT data so you can make better and more accurate business decisions. AWS IoT Analytics is a fully managed service that makes it easy to run and operationalize sophisticated analytics on massive volumes of IoT data without having to worry about the cost and complexity typically required to build an IoT analytics platform. It is the easiest way to run analytics on IoT data and get insights to make better and more accurate decisions for IoT applications and machine learning use cases. Models built and trained in AWS IoT Analytics can be run on connected devices. Join us for a deep dive and demo on how to operationalize your analytical workflows with AWS IoT Analytics.",
+        "date": "2018-11-30T16:34:48Z",
+        "duration": 3226
     },
     {
         "service": "iot_analytics",
         "videoId": "uc2RAvyrRCE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - AWS IoT Analytics",
-        "date": "2017/12/08"
+        "description": "AWS IoT Analytics is a fully-managed IoT analytics service that collects, processes, enriches, stores, and analyzes IoT device data at scale. Learn more at - http://amzn.to/2AfQQGo. \n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:34:12Z",
+        "duration": 978
     },
     {
         "service": "iot_analytics",
         "videoId": "vataVq9gY_o",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "HEED",
+            "Mati Kochavi",
+            "re:Invent 2017",
+            "keynote"
+        ],
         "title": "AWS re:Invent 2017 - Mati Kochavi Showcases How AWS Powers HEED’s IoT Analytics Capabilities",
-        "date": "2017/12/05"
+        "description": "Learn more about about AWS IoT Analytics at - http://amzn.to/2Alu1nA\nMati Kochavi, CEO and founder of AGT International and co-founder of HEED, demonstrates how HEED delivers an immersive experience for audiences at sports and entertainment events, using AWS infrastructure to power real-time analytics.",
+        "date": "2017-12-05T22:54:50Z",
+        "duration": 1037
     },
     {
         "service": "iot_analytics",
         "videoId": "k-h62-L2bns",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "IOT208",
+            "IoT"
+        ],
         "title": "AWS re:Invent 2019: What's new with AWS IoT analytics services? (IOT208)",
-        "date": "2019/12/04"
+        "description": "AWS IoT analytics services help you get extra value from your IoT data. In this session, find out what's new across the analytics services, including AWS IoT Analytics, AWS IoT Events,  AWS IoT SiteWise, and AWS IoT Things Graph. You leave the session ready to tackle your latest analytics challenges from the factory floor, run sophisticated analytics on massive volumes of IoT data to visualize on operational dashboards, and detect and respond to events from IoT sensors and applications.",
+        "date": "2019-12-04T17:27:02Z",
+        "duration": 3088
     }
 ]

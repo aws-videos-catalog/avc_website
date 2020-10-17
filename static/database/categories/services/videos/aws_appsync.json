@@ -2,127 +2,382 @@
     {
         "service": "aws_appsync",
         "videoId": "_ayZeVjwRPk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS AppSync",
+            "Web applications",
+            "Mobile Applications",
+            "Serverless"
+        ],
         "title": "Creating Your First AWS AppSync GraphQL API",
-        "date": "2018/11/08"
+        "description": "AWS AppSync https://amzn.to/2PI7I3B makes it easy to build data driven mobile and web applications by handling securely all the application data management tasks like online and offline data access, data synchronization, and data manipulation across multiple data sources. AWS AppSync uses GraphQL, an API query language designed to build client applications by providing an intuitive and flexible syntax for describing their data requirement. On this video you will learn how to create your first API with AppSync.",
+        "date": "2018-11-08T17:52:52Z",
+        "duration": 154
     },
     {
         "service": "aws_appsync",
         "videoId": "4Wunzz9zLdI",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Serverless",
+            "DEM116",
+            "AWS AppSync"
+        ],
         "title": "AWS re:Invent 2018: Building Serverless Applications with AWS AppSync (DEM116)",
-        "date": "2018/11/27"
+        "description": "In this demo, learn how AWS AppSync can help you develop data-driven mobile apps.",
+        "date": "2018-11-27T19:08:40Z",
+        "duration": 1596
     },
     {
         "service": "aws_appsync",
         "videoId": "sQN28Jo-nak",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "serverless",
+            "twitch",
+            "aws",
+            "Chris Munns",
+            "George Mao",
+            "GraphQL",
+            "AppSync"
+        ],
         "title": "Serverless Bytes | Build a Serverless Weather App with GraphQL, AWS AppSync & AWS Lambda",
-        "date": "2018/06/22"
+        "description": "In  this recording, catch up on the 30-minute live stream from  twitch.tv/aws, where viewers learn how to build a serverless app with  AppSync and GraphQL. Our serverless experts Chris Munns and George Mao  show you how build a weather app which pulls location data from a DynamoDB table and fetches current weather information from an open API  for that location. \n\nLearn More about Serverless: \nhttps://aws.amazon.com/serverless/\n\nWatch past Build on Serverless broadcasts: \nhttps://aws.amazon.com/developer/community/twitch/recordings\n\nSee the upcoming Build on Serverless Schedule: \nhttps://aws.amazon.com/developer/community/twitch/\n\nJoin the Serverless conversation on Slack: \nhttps://awssamopensource.splashthat.com/\n\nGet an overview of the Serverless Applications Lens: \nhttps://d1.awsstatic.com/whitepapers/architecture/AWS-Serverless-Applications-Lens.pdf\n\nRSVP for future Build on Serverless episodes: \nhttps://www.twitch.tv/events/umX-DTI8Q3qWl0pXKgxhUw",
+        "date": "2018-06-22T19:24:46Z",
+        "duration": 2067
     },
     {
         "service": "aws_appsync",
         "videoId": "x6s34ecJvik",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Data Driven Applications with AWS AppSync and GraphQL",
-        "date": "2018/05/31"
+        "description": "AWS Mumbai Summit 2018\nWhen developing mobile and web applications, you have limited resources available.  You want your app to be as lean as possible.  In this session, you will learn about the options available to you as a developer, including details on the latest data query language – GraphQL – and how you can use AWS AppSync, a managed GraphQL service, to minimize network usage while still making your app responsive and available offline.",
+        "date": "2018-05-31T18:28:31Z",
+        "duration": 2172
     },
     {
         "service": "aws_appsync",
         "videoId": "HSJNK8aTpgU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS Amplify Console and New Features in AWS AppSync",
-        "date": "2018/11/30"
+        "description": "The AWS Amplify Console is a continuous deployment and hosting service for modern web applications with serverless backends. Modern web applications include single page app frameworks like React, Angular, and Vue, and static-site generators like Jekyll, Hugo, and Gatsby. \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:51:15Z",
+        "duration": 1221
     },
     {
         "service": "aws_appsync",
         "videoId": "pZ61oDwrCK0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "web applications",
+            "AWS Amplify",
+            "Mobile",
+            "AWS Appsync"
+        ],
         "title": "Creating & Interacting with an AWS AppSync GraphQL API with React & AWS Amplify",
-        "date": "2018/11/08"
+        "description": "AWS Amplify https://amzn.to/2qxrwbL allows developers to quickly create and connect to powerful services in the cloud. In this video, you will learn how to power you application with AWS AppSync and GraphQL. AWS AppSync uses GraphQL, an API query language designed to build client applications by providing an intuitive and flexible syntax for describing their data requirement.",
+        "date": "2018-11-08T17:56:06Z",
+        "duration": 336
     },
     {
         "service": "aws_appsync",
         "videoId": "SxwMHqRUrBk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS AppSync",
+            "Web applications",
+            "Mobile Applications",
+            "Serverless"
+        ],
         "title": "Executing Queries within the AWS AppSync Console",
-        "date": "2018/11/08"
+        "description": "AWS AppSync https://amzn.to/2Ot55OL makes it easy to build data driven mobile and web applications by handling securely all the application data management tasks like online and offline data access, data synchronization, and data manipulation across multiple data sources. On this video you will learn how you can execute queries through the AWS AppSync console.",
+        "date": "2018-11-08T17:53:11Z",
+        "duration": 226
     },
     {
         "service": "aws_appsync",
         "videoId": "H36p3evcRC0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS AppSync",
+            "Web applications",
+            "Mobile Applications",
+            "Serverless"
+        ],
         "title": "Connecting to an AWS AppSync API from a React Application",
-        "date": "2018/11/08"
+        "description": "Learn how you can call AWS AppSync APIs directly from your React code. Learn more at - https://amzn.to/2D59x44.",
+        "date": "2018-11-08T17:53:20Z",
+        "duration": 232
     },
     {
         "service": "aws_appsync",
         "videoId": "C6uQrl9uXto",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS AppSync",
+            "Web applications",
+            "Mobile Applications",
+            "Serverless"
+        ],
         "title": "Executing Mutations within the AWS AppSync Console",
-        "date": "2018/11/08"
+        "description": "AWS AppSync https://amzn.to/2ARvySr uses GraphQL, an API query language designed to build client applications by providing an intuitive and flexible syntax for describing their data requirement. Learn how to modify data in the back end by executing GraphQL mutations through the AWS Appsync console.",
+        "date": "2018-11-08T17:53:03Z",
+        "duration": 180
     },
     {
         "service": "aws_appsync",
         "videoId": "mQBtbHKSdAQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon",
+            "awsreinvent2017",
+            "Mobile",
+            "MBL402",
+            "DynamoDB",
+            "Lex",
+            "AWS Lambda"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Data Driven Apps with GraphQL: AWS AppSync Deep Dive (MBL402)",
-        "date": "2017/12/12"
+        "description": "State and data management are the foundations of high quality web and mobile applications in use today. Unfortunately it’s often difficult to setup infrastructure for accessing data in a scalable, efficient and secure manner and easily integrate into your frontend or client framework of choice. In this session you’ll see how using GraphQL with AWS AppSync allows your clients to quickly and securely access data in the cloud using Amazon DynamoDB, AWS Lambda or Amazon ElasticSearch. You’ll see how flexible the system is to let web and mobile application developers define their data structures, mix and match the backing stores using GraphQL resolvers, and customize mapping templates as needed. We’ll take you through effective use of GraphQL queries, mutations, and subscriptions for batch and realtime needs. Finally you’ll see how easy it is for application developers to leverage the system using React Native, iOS and JavaScript web applications.",
+        "date": "2017-12-12T23:22:56Z",
+        "duration": 3545
     },
     {
         "service": "aws_appsync",
         "videoId": "2U4RsbFO4bA",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Mobile",
+            "MOB402",
+            "AWS AppSync"
+        ],
         "title": "AWS re:Invent 2018: Authentication & Authorization in GraphQL with AWS AppSync (MOB402)",
-        "date": "2018/11/27"
+        "description": "Modern apps require special consideration for the security and privacy of user data, especially in today’s compliance-driven world. In this session, we provide some of the common use cases and design patterns to secure user data in a globally available GraphQL API, and discuss best practices for authentication and authorization in AWS AppSync.",
+        "date": "2018-11-27T19:14:56Z",
+        "duration": 3009
     },
     {
         "service": "aws_appsync",
         "videoId": "CwLB0BRwIqE",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Mobile",
+            "MOB401"
+        ],
         "title": "AWS re:Invent 2018: Ten Tips And Tricks for Improving Your GraphQL API with AWS AppSync (MOB401)",
-        "date": "2018/11/27"
+        "description": "As you move your modern app to production, you need to consider how to scale, secure, and maintain your backend APIs. In this session, we provide some of the tips, tricks, and best practices for running serverless GraphQL APIs reliably on AWS. We cover topics such as versioning, multiple environments, CI/CD, advanced schema design, monitoring, alerting, and advanced search scenarios.",
+        "date": "2018-11-27T19:11:00Z",
+        "duration": 3986
     },
     {
         "service": "aws_appsync",
         "videoId": "QabeZ4sag44",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS AppSync",
+            "Web applications",
+            "Mobile Applications",
+            "Serverless"
+        ],
         "title": "Real-Time Data Using GraphQL Subscriptions with AWS AppSync in a React Application",
-        "date": "2018/11/08"
+        "description": "Learn how AWS Appsync enables you to create applications that respond real time to data changes using GraphQL Subscriptions. GraphQL Subscriptions are simple statements in the application code that tell the service what data should be updated in real-time.",
+        "date": "2018-11-08T17:53:46Z",
+        "duration": 116
     },
     {
         "service": "aws_appsync",
         "videoId": "hSMFtJLI3Uo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Take Mobile and Web Apps to the Next Level with AWS AppSync and AWS Amplify",
-        "date": "2019/06/20"
+        "description": "In this session, learn how the latest features of AWS AppSync and AWS Amplify enable you to use GraphQL for real-time data streams to client apps, along with advanced caching and offline operations. See the latest techniques for automatic backend provisioning and discover capabilities for advanced querying.",
+        "date": "2019-06-20T15:47:57Z",
+        "duration": 2954
     },
     {
         "service": "aws_appsync",
         "videoId": "VkFnaljs0RE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference 2018"
+        ],
         "title": "Taking your Progressive Web App to the Next Level with AWS AppSync and GraphQL (Level 300)",
-        "date": "2018/08/24"
+        "description": "Learn more about the AWS Innovate Online Conference at - https://amzn.to/2P4qfDd.\nProgressive web apps (PWAs) are the future of web development—combining the best of web and native apps. In this session, learn how to build PWAs on AWS and take your apps to the next level with AWS AppSync. We also cover how AWS AppSync enables you to query your data using GraphQL, and how it handles mutations, subscriptions, offline accesses, real-time communications, conflict resolution, and efficient data fetching.\n\nSpeaker: Ed Lima, Solution Architect, Amazon Web Services",
+        "date": "2018-08-24T19:51:45Z",
+        "duration": 1892
     },
     {
         "service": "aws_appsync",
         "videoId": "owJpsmFWNjw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS AppSync",
+            "Web applications",
+            "Mobile Applications",
+            "Serverless"
+        ],
         "title": "Executing Mutations to an AWS AppSync API from a React App Including Offline & Optimistic Response",
-        "date": "2018/11/08"
+        "description": "Learn how you can execute mutations to your data through an AWS AppSync APIs directly from your React code. Learn more at - https://amzn.to/2AQlZDf.",
+        "date": "2018-11-08T17:53:38Z",
+        "duration": 257
     },
     {
         "service": "aws_appsync",
         "videoId": "pnlFkIrbW6Y",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Developer",
+            "GraphQL",
+            "AWS AppSync",
+            "ANZ Webinar Series",
+            "AppSync"
+        ],
         "title": "AWS ANZ Webinar Series - Supercharging Applications with GraphQL and AWS AppSync",
-        "date": "2018/09/28"
+        "description": "Register for our upcoming webinars at - https://amzn.to/2QH6JhU.\nIn this webinar we’ll give you an overview the next generation technology for building APIs called GraphQL and how AWS AppSync takes advantage of GraphQL to make it easy to build collaborative mobile and web applications that deliver responsive and enhanced user experiences.\n\nModern developers need easy tools for real time, offline access and synchronisation. These techniques are no longer optional for a great end user experience, yet they are difficult to engineer and scale from scratch. Implementing these concepts with modern data fetching patterns across web or mobile can also be difficult.",
+        "date": "2018-09-28T20:09:09Z",
+        "duration": 2962
     },
     {
         "service": "aws_appsync",
         "videoId": "vmjnFULD_oM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS New York Summit",
+            "AWS Launchpad",
+            "Twitch"
+        ],
         "title": "AWS NY Summit - AWS AppSync Releases Enhanced No-Code GraphQL API Builder, HTTP Resolvers",
-        "date": "2018/07/26"
+        "description": "Learn more about the AWS Twitch Channel at - https://amzn.to/2Ojmw5q\nThe AWS Summit was a free event designed to bring together the cloud computing community to connect, collaborate, and learn about AWS. AWS live streamed the event with the AWS Launchpad, featuring technical discussions, announcements, demos, customer interviews and live Q&A with the Twitch community. Learn more about the AWS Twitch Channel at https://aws.amazon.com/twitch.\n\nLearn new techniques for creating GraphQL schemas and connecting to data sources with AWS AppSync, including new HTTP resolvers and data filtering techniques. Additionally see the latest enhancements to JavaScript client development with AWS Amplify new modularization and provider features.\n\nHost: Tara Walker, Sr. Technical Evangelist, AWS\nGuest: Richard Threlkeld, Sr. Product Manager, AWS",
+        "date": "2018-07-26T20:09:48Z",
+        "duration": 1244
     },
     {
         "service": "aws_appsync",
         "videoId": "a_klcMRUfaM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS AppSync",
+            "Web applications",
+            "Mobile Applications",
+            "Serverless",
+            "AWS Amplify"
+        ],
         "title": "Building AWS AppSync APIs Using the AWS Amplify CLI",
-        "date": "2018/12/04"
+        "description": "Learn how to get access to all the AWS Appsync functionality through the AWS Amplify CLI. With just a few commands you will be able to build complex back ends connecting your application to multiple data sources. Learn more at - https://amzn.to/2RFAgZ3.",
+        "date": "2018-12-04T15:32:19Z",
+        "duration": 543
     },
     {
         "service": "aws_appsync",
         "videoId": "okCs6R_s27I",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS AppSync",
+            "Web applications",
+            "Mobile Applications",
+            "Serverless"
+        ],
         "title": "Executing Queries to an AWS AppSync API from a React Application",
-        "date": "2018/11/08"
+        "description": "Learn how you can execute queries through an AWS AppSync APIs directly from your React code. Learn more at - https://amzn.to/2yWhBBr.",
+        "date": "2018-11-08T17:53:31Z",
+        "duration": 161
     },
     {
         "service": "aws_appsync",
         "videoId": "za6J9Zsp1vM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "re:Invent 2017",
+            "AWS re:Invent Launchpad 2017",
+            "AppSync"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - Announcement: AWS AppSync",
-        "date": "2017/12/08"
+        "description": "AWS AppSync automatically updates the data in web and mobile applications in real time, and updates data for offline users as soon as they reconnect. AppSync makes it easy to build collaborative mobile and web applications that deliver responsive, collaborative user experiences. Learn more at - http://amzn.to/2nNX8eR.\n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:21:05Z",
+        "duration": 1258
     }
 ]

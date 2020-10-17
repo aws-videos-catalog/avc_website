@@ -2,295 +2,924 @@
     {
         "service": "cloudformation",
         "videoId": "Omppm_YUG2g",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon EC2",
+            "AWS CloudFormation",
+            "DevOps",
+            "Deployment and Management",
+            "Orchestration",
+            "Cloud Provisioning"
+        ],
         "title": "Introduction to AWS CloudFormation",
-        "date": "2015/05/21"
+        "description": "Learn more at http://aws.amazon.com/cloudformation/.\n\nAWS CloudFormation is a infrastructure provisioning and management tool that provides you the ability to create resource templates that specifies a set of AWS resources to provision. The templates allow you to version control your infrastructure, and also easily replicate your infrastructure stack quickly and with repeatability.",
+        "date": "2015-05-21T17:08:00Z",
+        "duration": 182
     },
     {
         "service": "cloudformation",
         "videoId": "01hy48R9Kr8",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Devops",
+            "DEV317",
+            "AI",
+            "AWS CloudFormation"
+        ],
         "title": "AWS re:Invent 2017: Deep Dive on AWS CloudFormation (DEV317)",
-        "date": "2017/11/29"
+        "description": "AWS CloudFormation enables software and DevOps engineers to harness the power of infrastructure as code. As organizations automate the modeling and provisioning of applications and workloads with CloudFormation, repeatable processes and reliable deployments become more critical. This session guides you through various techniques to improve your infrastructure automation, including protecting your AWS resources and stacks with safety guardrails while monitoring infrastructure changes. In addition, we’ll cover efficient ways to provision resources across accounts and regions, as show you how to test and improve the reliability of your deployments.",
+        "date": "2017-11-29T17:23:40Z",
+        "duration": 3601
     },
     {
         "service": "cloudformation",
         "videoId": "KXUsyApAI3Y",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Deep Dive on AWS CloudFormation",
-        "date": "2018/07/02"
+        "description": "AWS Public Sector Summit 2018 - Washington, D.C.\n\nAWS CloudFormation enables software and DevOps engineers to harness the power of infrastructure as code. As organizations automate the modeling and provisioning of applications and workloads with AWS CloudFormation repeatable processes and reliable deployments become more critical. This session guides you through various techniques to improve your infrastructure automation including protecting your AWS resources and stacks with safety guardrails while monitoring infrastructure changes. In addition, we will cover efficient ways to provide resources across accounts and regions as show you how to test and improve the reliability of your deployments.\n\nSpeaker: Chuck Meyer",
+        "date": "2018-07-02T17:35:07Z",
+        "duration": 2869
     },
     {
         "service": "cloudformation",
         "videoId": "qKljYgi2lQ0",
+        "tags": [
+            "Amazon Web Services",
+            "AWS",
+            "CloudFormation",
+            "cloud",
+            "computing",
+            "template",
+            "stack",
+            "Cloud Computing",
+            "formation"
+        ],
         "title": "Getting Started with AWS CloudFormation",
-        "date": "2011/12/12"
+        "description": "Follow along with this video tutorial on how to use an AWS CloudFormation template to create a stack.  The tutorial uses the template located at https://s3.amazonaws.com/cloudformation-templates-us-east-1/WordPress-1.0.0.template.  Be sure to download it before watching the video.",
+        "date": "2011-12-13T03:33:59Z",
+        "duration": 492
     },
     {
         "service": "cloudformation",
         "videoId": "1h-GPXQrLZw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS CloudFormation",
+            "CloudFormation",
+            "Infrastructure as code",
+            "IaC",
+            "provisioning AWS"
+        ],
         "title": "Simplify Your Infrastructure Management Using AWS CloudFormation",
-        "date": "2020/05/06"
+        "description": "In this video, you'll see how to simplify your infrastructure management using AWS CloudFormation. AWS CloudFormation is a service that allows you to create and manage a collection of Amazon Web Services resources based on a template.\n\nLearn more about AWS Management & Governance at - https://go.aws/35BcLs8\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-05-06T19:59:31Z",
+        "duration": 467
     },
     {
         "service": "cloudformation",
         "videoId": "X31kA1ANBVw",
-        "title": "AWS re:Invent 2018: Deployment Scenarios with AWS CloudFormation (DEV308-R1)",
-        "date": "2018/11/30"
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Devops",
+            "DEV308-R1",
+            "AWS CloudFormation"
+        ],
+        "title": "AWS re:Invent 2018:  Deployment Scenarios with AWS CloudFormation (DEV308-R1)",
+        "description": "AWS CloudFormation, in combination with other tools for continuous integration and delivery pipelines, can help automate and standardize frequent deployments for many types of applications, from traditional compute and autoscaling groups to serverless applications. In this session, we will present several use cases combining CloudFormation with build and pipeline automation tools to achieve repeatable, consistent and compliant deployments without sacrificing agility. Complete Title: AWS re:Invent 2018: [REPEAT 1] Earn Your DevOps Black Belt: Deployment Scenarios with AWS CloudFormation (DEV308-R1)",
+        "date": "2018-11-30T16:37:12Z",
+        "duration": 3413
     },
     {
         "service": "cloudformation",
         "videoId": "d6SJPMdBShI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS CloudFormation Deep Dive and Recent Enhancements",
-        "date": "2019/06/21"
+        "description": "As one of the most widely used tools in the AWS Cloud, AWS CloudFormation enables infrastructure as code and empowers deployment automation, compliance, and standardization. In this session, we cover the latest improvements and best practices for AWS CloudFormation, including authoring tools, operational safety, and open community projects.",
+        "date": "2019-06-21T17:20:18Z",
+        "duration": 2875
     },
     {
         "service": "cloudformation",
         "videoId": "VdwZ3IhvYYE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "aws cloudformation",
+            "template creation"
+        ],
         "title": "How do I refer to a resource in another AWS CloudFormation stack during template creation?",
-        "date": "2018/03/12"
+        "description": "Find more details in the AWS Knowledge Center:\nhttps://aws.amazon.com/premiumsupport/knowledge-center/cloudformation-reference-resource/\n\nKai, an AWS Cloud Support Engineer, shows you how to refer to a resource in another AWS CloudFormation stack during template creation.",
+        "date": "2018-03-12T14:11:46Z",
+        "duration": 328
     },
     {
         "service": "cloudformation",
         "videoId": "mujSmlfK7CQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "What are some best practices for implementing Lambda-backed custom CloudFormation resources?",
-        "date": "2018/10/18"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2AjoygZ\nCraig, an AWS Cloud Support Engineer, walks you through some best practices for implementing Lambda-backed custom CloudFormation resources.",
+        "date": "2018-10-18T19:08:33Z",
+        "duration": 1715
     },
     {
         "service": "cloudformation",
         "videoId": "2ha5fpj6X1o",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "Why is my AWS CloudFormation stack stuck in progress?",
-        "date": "2020/06/17"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/cloudformation-stack-stuck-progress/\n\nAndrew shows you why your AWS CloudFormation stuck in the state CREATE_IN_PROGRESS, UPDATE_IN_PROGRESS, UPDATE_ROLLBACK_IN_PROGRESS, or DELETE_IN_PROGRESS.",
+        "date": "2020-06-17T22:00:53Z",
+        "duration": 329
     },
     {
         "service": "cloudformation",
         "videoId": "33oxPUvdR-Y",
+        "tags": [
+            "amazon web services",
+            "launch a website",
+            "CloudFormation",
+            "blog",
+            "how to launch a website",
+            "Infrastructure as Code",
+            "how to use cloudformation"
+        ],
         "title": "How to Launch a Website in 10 Minutes with AWS CloudFormation",
-        "date": "2011/08/23"
+        "description": "Learn how to build a new, content managed website (and blog) using the simple tool, AWS CloudFormation. Learn more: http://amzn.to/2ilgCAc",
+        "date": "2011-08-23T20:53:35Z",
+        "duration": 499
     },
     {
         "service": "cloudformation",
         "videoId": "WioS12_j5e0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I attach an IAM managed policy to an IAM role in AWS CloudFormation?",
-        "date": "2002/02/06"
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/2qBxFYm\nZainub shows you how to attach an IAM managed policy to an IAM role in AWS CloudFormation.",
+        "date": "2020-02-06T15:52:41Z",
+        "duration": 270
     },
     {
         "service": "cloudformation",
         "videoId": "ZzD9I8ur6lg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "CloudFormation",
+            "StackSets",
+            "Config Rules",
+            "Compliance"
+        ],
         "title": "Manage Compliance Across Accounts with AWS CloudFormation StackSets",
-        "date": "2019/11/26"
+        "description": "Learn more about AWS Management and Governance at https://amzn.to/37EvC6d\nIn this video, you'll see how to manage compliance across multiple accounts with AWS CloudFormation StackSets. With StackSets, you can enable consistent AWS Config rules on target accounts from a centralized administrative account, right from the AWS CloudFormation Console in your web browser.",
+        "date": "2019-11-26T20:44:25Z",
+        "duration": 533
     },
     {
         "service": "cloudformation",
         "videoId": "U7EoMrDOkHM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "Live Coding",
+            "CloudFormation Templates",
+            "serverless"
+        ],
         "title": "Live Coding with AWS: Building Better CloudFormation Templates",
-        "date": "2017/07/03"
+        "description": "For more information, visit http://amzn.to/2sjhc6M.\nLive Coding with AWS explores cloud computing topics and AWS services from the developer's perspective. Each episode will explore deep-dive, technical content to build everything from serverless web apps to machine learning models.",
+        "date": "2017-07-03T18:35:55Z",
+        "duration": 5858
     },
     {
         "service": "cloudformation",
         "videoId": "-0ELfN-kb7g",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013getting-started",
+            "digital-media",
+            "startups",
+            "cloudformation",
+            "runnning cloudformation",
+            "cloudformation setup",
+            "Capen-Brinkley",
+            "DMG201",
+            "dmg"
+        ],
         "title": "Zero to Sixty: AWS CloudFormation (DMG201) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "AWS CloudFormation gives developers and systems administrators an easy way to create and manage a collection of related AWS resources, provisioning and updating them in an orderly and predictable fashion.  In this Zero to Sixty session, learn about CloudFormation's latest features along with best practices for using them, including maintaining complex environments with CloudFormation, template management and re-use, and controlling stack updates. Demos and code samples are available to all session attendees.\nAre you new to AWS CloudFormation? Get up to speed for this session by first completing the 60-minute Fundamentals of CloudFormation lab in the Self Paced Lab Lounge.",
+        "date": "2013-11-26T20:43:54Z",
+        "duration": 2999
     },
     {
         "service": "cloudformation",
         "videoId": "fVMlxJJNmyA",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "DevOps",
+            "DVO304",
+            "Abhishek Lal - Amazon Web Services",
+            "Chris Whitaker - Amazon Web Services",
+            "Advanced (300 level)",
+            "best practices",
+            "CloudFormation",
+            "Infrastructure as Code",
+            "cloud computing event"
+        ],
         "title": "AWS re:Invent 2015: AWS CloudFormation Best Practices (DVO304)",
-        "date": "2015/10/09"
+        "description": "Explore CloudFormation best practices in planning and provisioning your AWS infrastructure. We cover recent product updates that help users make the most of this service and demonstrate new features. Learn more: http://amzn.to/2hZMgSJ",
+        "date": "2015-10-09T22:42:31Z",
+        "duration": 3073
     },
     {
         "service": "cloudformation",
         "videoId": "qBtCF4mg1E8",
-        "title": "AWS re:Invent 2018: [REPEAT 1] What's New with AWS CloudFormation (DEV321-R1",
-        "date": "2018/12/01"
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Devops",
+            "DEV321-R1",
+            "AWS CloudFormation"
+        ],
+        "title": "AWS re:Invent 2018: [REPEAT 1] What's New with AWS CloudFormation (DEV321-R1)",
+        "description": "AWS CloudFormation is one of the most widely used tools in the AWS ecosystem, enabling infrastructure as code, deployment automation, repeatability, compliance and standardization. In this session, we cover the latest improvements and best practices for AWS CloudFormation customers in particular, and for seasoned infrastructure engineers in general. We cover new features and improvements that span many use cases, including programmability options, cross region and cross account automation, operational safety, and additional integration with many other AWS services.",
+        "date": "2018-12-01T21:30:22Z",
+        "duration": 3721
     },
     {
         "service": "cloudformation",
         "videoId": "O9Sq9plyTxY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "chatbot",
+            "alexa",
+            "multi-channel chatbots"
+        ],
         "title": "Deploying Q&A Chatbot Using Cloudformation",
-        "date": "2020/03/30"
+        "description": "In this video, we will show you how easily you can deploy a Q and A chatbot. We will execute an AWS CloudFormation template to set up the infrastructure for the chat environment. A CloudFormation template provides a common language to describe and provision all the infrastructure resources in your AWS cloud environment. This AWS CloudFormation template will setup resources such as Amazon Lex, Amazon Elasticsearch Service, Amazon API Gateway, and AWS Lambda.\n\nLearn more about resources for Alexa in education at https://go.aws/3bzsMRl\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-03-30T21:17:57Z",
+        "duration": 148
     },
     {
         "service": "cloudformation",
         "videoId": "pTnTibzjnlg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I protect resources in a CloudFormation Stack from being deleted?",
-        "date": "2019/05/03"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2UqeqcV\nArt, an AWS Cloud Support Engineer, shows you how to protect resources in a CloudFormation Stack from being deleted.",
+        "date": "2019-05-03T15:19:53Z",
+        "duration": 263
     },
     {
         "service": "cloudformation",
         "videoId": "zQvkVLotCqs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Service Catalog",
+            "CloudFormation",
+            "AWS Service Catalog",
+            "AWS CloudFormationTerraform"
+        ],
         "title": "Provision Resources on AWS Using a CloudFormation Resource Type Provider for Terraform",
-        "date": "2020/04/21"
+        "description": "In this video, you'll see how to provision resources on AWS using a CloudFormation resource type provider for Terraform. With this solution, you can pass product parameters to Terraform, provision Terraform resources on AWS, and manage resources as a group using AWS Service Catalog. \n\nLearn more about AWS Management and Governance at https://go.aws/2Vp0N1w\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-04-21T19:44:43Z",
+        "duration": 436
     },
     {
         "service": "cloudformation",
         "videoId": "g0AQWT9J88A",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "TMA",
+            "Cloudreach",
+            "Sceptre",
+            "AWS CloudFormation",
+            "This is My Architecture"
+        ],
         "title": "Cloudreach: Build Better Infrastructure with Sceptre and CloudFormation on AWS",
-        "date": "2017/07/26"
+        "description": "In this video, Adam from Cloudreach explains how Sceptre uses AWS CloudFormation to allow customers to create and manage their application environments. Learn more at - http://amzn.to/2uCBoVC.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2017-07-26T16:51:05Z",
+        "duration": 368
     },
     {
         "service": "cloudformation",
         "videoId": "3QydWLiCqWk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "CloudFormation",
+            "Visual Studio",
+            "IntelliSense",
+            ".NET",
+            "template editor",
+            "json"
+        ],
         "title": "Introduction to the AWS CloudFormation Editor for Visual Studio",
-        "date": "2013/02/14"
+        "description": "This video provides a demonstration of many of the features included in the CloudFormation template editor for Visual Studio, part of the AWS Toolkit for Visual Studio. For more information, and to download the toolkit, go to: http://aws.amazon.com/visualstudio/",
+        "date": "2013-02-14T17:27:03Z",
+        "duration": 249
     },
     {
         "service": "cloudformation",
         "videoId": "ZhGMaw67Yu0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "infrastructure",
+            "enterprise",
+            "CloudFormation",
+            "DJ-Edwards",
+            "dmg"
+        ],
         "title": "AWS CloudFormation under the Hood (DMG303) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "You already know that AWS CloudFormation is a powerful tool for provisioning and managing your AWS infrastructure, but did you know that it can also provision and manage resources outside of AWS? Did you know that CloudFormation can fully bootstrap your EC2 instances, securely download data from S3, and even supports Mustache templates? In this session you will go on a deep dive, touring of some of CloudFormation's most advanced features with a member of the team that built the service. Explore custom resources, cfn-init, S3 authentication, and Mustache templates in a series of technical demos with code samples available for download afterwards.",
+        "date": "2013-11-26T20:16:22Z",
+        "duration": 2315
     },
     {
         "service": "cloudformation",
         "videoId": "bVmsS8rjuwk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "cloudformation stack"
+        ],
         "title": "How do I delete a CloudFormation stack but retain some or all of the provisioned resources?",
-        "date": "2017/12/22"
+        "description": "Find more details in the AWS Knowledge Center:  https://aws.amazon.com/premiumsupport/knowledge-center/delete-cf-stack-retain-resources/\n\nSujith, an AWS Cloud Support Engineer, shows you how to delete a CloudFormation stack but retain some or all of the provisioned resources.",
+        "date": "2017-12-22T14:42:21Z",
+        "duration": 498
     },
     {
         "service": "cloudformation",
         "videoId": "oXEfgo9AInY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I import and export parameters from one AWS CloudFormation stack to another?",
-        "date": "2020/04/29"
+        "description": "For more details see the Knowledge Center article with this video:\nhttps://aws.amazon.com/premiumsupport/knowledge-center/cloudformation-systems-manager-parameter/\nVismay shows you how to import and export parameters from one AWS CloudFormation stack to another.",
+        "date": "2020-04-29T14:55:47Z",
+        "duration": 254
     },
     {
         "service": "cloudformation",
         "videoId": "AgL6x1Qnq_c",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "CloudFormation",
+            "Auto Scaling",
+            "Amazon DynamoDB",
+            "demo"
+        ],
         "title": "How to Use AWS CloudFormation to Configure Auto Scaling for Amazon DynamoDB Tables and Indexes",
-        "date": "2018/03/28"
+        "description": "In this five-minute tutorial to accompany the blog post, https://amzn.to/2FZ5fxO, Eric Z. Beard explains how to use AWS CloudFormation to configure auto scaling for Amazon DynamoDB tables and indexes.",
+        "date": "2018-03-28T16:30:33Z",
+        "duration": 309
     },
     {
         "service": "cloudformation",
         "videoId": "MFF4EDQHaPw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud Services",
+            "re: Invent",
+            "AWS re: Invent",
+            "re: Invent 2012",
+            "AWS CloudFormation",
+            "CloudFormation Template",
+            "CloudFormer",
+            "Amazon Web Services (Website)"
+        ],
         "title": "AWS re: Invent RMG 207: Introduction to AWS CloudFormation",
-        "date": "2012/12/05"
+        "description": "AWS CloudFormation makes it easy to deploy and manage the lifecycle of applications running in AWS. This session walks through an end-to-end scenario, creating a stack with a set of AWS resources and deploying the application files and packages. \n\nOnce deployed we'll walk through how you can change the stack to reflect operational changes or application requirements and finally use CloudFormer to create a CloudFormation template from AWS resources already running in your environment.",
+        "date": "2012-12-05T18:29:50Z",
+        "duration": 3336
     },
     {
         "service": "cloudformation",
         "videoId": "sAqkN0vIhAY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Application Deployment & Management",
+            "Advanced",
+            "AWS CloudFormation",
+            "Ruby",
+            "Python",
+            "DevOps",
+            "Architecture",
+            "Architect",
+            "Technical Decision Maker",
+            "Startup",
+            "Developer",
+            "Chris Whitaker",
+            "Chetan Dandekar"
+        ],
         "title": "AWS re:Invent 2014 | (APP304) AWS CloudFormation Best Practices",
-        "date": "2014/11/17"
+        "description": "With AWS CloudFormation you can model, provision, and update the full breadth of AWS resources. You can manage anything from a single Amazon EC2 instance to a multi-tier application. \nIf you are familiar with AWS CloudFormation or using it already, this session is for you. If you are familiar with AWS CloudFormation, you may have questions such as ''How do I plan my stacks?', ''How do I deploy and bootstrap software on my stacks?' and ''Where does AWS CloudFormation fit in a DevOps pipeline?' If you are using AWS CloudFormation already, you may have questions such as ''How do I manage my templates at scale?', ''How do I safely update stacks?', and ''How do I audit changes to my stack?' This session is intended to answer those questions.\nIf you are new to AWS CloudFormation, get up to speed for this session by completing the Working with CloudFormation lab in the self-paced Labs Lounge.",
+        "date": "2014-11-17T22:40:03Z",
+        "duration": 2504
     },
     {
         "service": "cloudformation",
         "videoId": "TDalsML3QqY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "DEV313",
+            "Dominic Divakaruni",
+            "DevOps & Tools",
+            "Anil Kumar"
+        ],
         "title": "AWS re:Invent 2016: Infrastructure Continuous Delivery Using AWS CloudFormation (DEV313)",
-        "date": "2016/12/03"
+        "description": "In this session, we will review ways to manage the lifecycle of your dev, test, and production infrastructure using CloudFormation. Learn how to architect your infrastructure through loosely coupled stacks using cross-stack references, tightly coupled nested stacks and other best practices. Learn how to use CloudFormation to provision and manage a continuous deployment pipeline for your infrastructure-as-code. Automate deployment of new development environments as your infrastructure evolves, promote your new architecture for testing, and deploy changes to production.",
+        "date": "2016-12-03T23:02:54Z",
+        "duration": 3062
     },
     {
         "service": "cloudformation",
         "videoId": "tgAc0E_35ag",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I install the AWS CloudFormation helper scripts on Ubuntu or RHEL?",
-        "date": "2020/05/07"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/install-cloudformation-scripts/\nAayush shows you how to install the AWS CloudFormation helper scripts on Ubuntu or RHEL.",
+        "date": "2020-05-07T14:17:21Z",
+        "duration": 229
     },
     {
         "service": "cloudformation",
         "videoId": "i0v3lQENN68",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Startups",
+            "Wave"
+        ],
         "title": "Wave on Moving RDS data to S3 at Scale Using Lambda, Cloudformation, and DMS",
-        "date": "2018/10/08"
+        "description": "Startup Central Talks from the 2018 AWS Toronto Summit. Learn more about AWS at - https://amzn.to/2zZtCqv.\nMichael Warkentin, Operations Engineer at Wave, speaks at Startup Central Toronto on the topic of \"Moving RDS data to S3 at Scale Using Lambda, Cloudformation, and DMS\".",
+        "date": "2018-10-08T18:05:07Z",
+        "duration": 1194
     },
     {
         "service": "cloudformation",
         "videoId": "bhfMiWMGyH8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I trigger rolling updates to an unchanged launch configuration in AWS CloudFormation?",
-        "date": "2020/03/26"
+        "description": "For more details see the Knowledge Center article with this video:\nhttps://aws.amazon.com/premiumsupport/knowledge-center/cloudformation-rolling-updates-launch/\nAayush shows you how to trigger rolling updates to an unchanged launch configuration in AWS CloudFormation.",
+        "date": "2020-03-26T16:13:12Z",
+        "duration": 137
     },
     {
         "service": "cloudformation",
         "videoId": "V3EKJsdGAUM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "FileMaker",
+            "James Qiu",
+            "AWS CloudFormation",
+            "Amazon EC2",
+            "Amazon Simple Email Service (SES)",
+            "Amazon Elastic Block Storage (EBS)",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "FileMaker: Scaling in the Wild with AWS CloudFormation",
-        "date": "2017/04/14"
+        "description": "In this episode of This Is My Architecture, James Qiu, Director of Engineering at FileMaker, describes how they built a solution for SMB customers that automatically scales FileMaker to handle surge events. The solution leverages the AWS Marketplace, where FileMaker lists its software, in addition to AWS CloudFormation to deploy and resize FileMaker environments on AWS as needed. This flexibility allows customers to easily scale the infrastructure powering their FileMaker solution on AWS up or down to handle varying levels of load. \n\nLearn more here - http://amzn.to/2nG1YtW\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2017-04-14T16:44:29Z",
+        "duration": 312
     },
     {
         "service": "cloudformation",
         "videoId": "zxrxHcbn9GY",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "STP04",
+            "Amazon ECS",
+            "AWS CodeBuild",
+            "AWS CodePipeline",
+            "AWS Systems Manager",
+            "AWS CloudFormation"
+        ],
         "title": "AWS re:Invent 2018: Aetion’s Journey to AWS CodePipeline, AWS CloudFormation, & Amazon ECS (STP04)",
-        "date": "2018/11/28"
+        "description": "In this talk, Junaid Kapadia, DevOps manager and staff software engineer for Aetion Systems, speaks about the company’s journey from a Chef, Jenkins, and EC2-based architecture to a fault-tolerant, highly available, continuously provisioned, and deployed architecture via AWS CodePipeline, AWS CodeBuild, AWS CloudFormation, AWS Systems Manager Parameter Store, and Amazon Elastic Container Service (Amazon ECS). Kapadia also discusses the history of Aetion’s original architecture, explains how it transitioned its movement to the new architecture, and shares specific caveats of the purpose of each service and why it was chosen. He also talks about future developments of the overall architecture. Complete Title: AWS re:Invent 2018: Aetion’s Migration Journey to AWS CodePipeline, AWS CloudFormation, & Amazon ECS (STP04)",
+        "date": "2018-11-28T18:44:13Z",
+        "duration": 2946
     },
     {
         "service": "cloudformation",
         "videoId": "WU93NJT0_3s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Cloudformation",
+            "Microsoft Team Foundation Server",
+            "TFS",
+            "CloudFormation",
+            "Microsoft",
+            "VSTS",
+            "CI/CD",
+            "Automation"
+        ],
         "title": "How to Integrate AWS Cloudformation with Microsoft Team Foundation Server (TFS)",
-        "date": "2018/01/22"
+        "description": "In this tutorial, you will learn how to version & manage your infrastructure as code using AWS CloudFormation. We will create a CI/CD pipeline to deploy AWS infrastructure using Microsoft Team Foundation Server (TFS) or Visual Studio Team Services (VSTS). Learn more at - http://amzn.to/2rAxZq3.\n\nWhat is AWS CloudFormation? https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html\nVisual Studio Team Services Documentation: https://docs.microsoft.com/en-us/vsts/",
+        "date": "2018-01-22T19:40:12Z",
+        "duration": 1884
     },
     {
         "service": "cloudformation",
         "videoId": "iIoAxyIUcVw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "FanDuel",
+            "AWS CloudFormation",
+            "Amazon EC2",
+            "Elastic Load Balancing",
+            "Amazon CloudWatch",
+            "Amazon RDS",
+            "Amazon ElastiCache",
+            "Amazon EMR",
+            "Amazon Elastic MapReduce (EMR)",
+            "Amazon Redshift",
+            "Amazon Kinesis",
+            "AWS Lambda",
+            "Amazon Aurora",
+            "Redis",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "FanDuel: AWS CloudFormation at Scale",
-        "date": "2017/04/03"
+        "description": "In this episode of This is My Architecture, Steve Hunt, Director of Infrastructure and Ops at FanDuel shows how they run Cloudformation at scale. With over 400 stacks running at any given time, you'll see how they architected their tooling to manage this infrastructure. You'll also see how they scale at the data layer, using services like Amazon Aurora and Amazon Elasticache, along with techniques like precomputed cache to deliver optimal data services to their stacks.\n\nLearn more about This Is My Architecture here - http://amzn.to/2nI3iLz\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2017-04-03T22:47:52Z",
+        "duration": 303
     },
     {
         "service": "cloudformation",
         "videoId": "Wk-tOPicq78",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Application Deployment & Management",
+            "Advanced",
+            "AWS CloudFormation",
+            "DevOps",
+            "Architecture",
+            "BBC",
+            "Architect",
+            "Technical Decision Maker",
+            "Tom Cartwright",
+            "Yavor Atanasov"
+        ],
         "title": "AWS re:Invent 2014 | (APP306) Using AWS CloudFormation for Deployment and Management at Scale",
-        "date": "2014/11/14"
+        "description": "With AWS CloudFormation you can model, provision, and update the full breadth of AWS resources. You can manage anything from a single Amazon EC2 instance to a multi-tier application. \n\nThe British Broadcasting Corporation (BBC) uses AWS and CloudFormation to help deliver a range of services, including BBC iPlayer. Learn straight from the BBC team on how they developed these services with a multitude of AWS features and how they operate at scale. Get insight into the tooling and best practices developed by the BBC team and how they used CloudFormation to form an end-to-end deployment and management pipeline.\n\nIf you are new to AWS CloudFormation, get up to speed for this session by completing the Working with CloudFormation lab in the self-paced Labs Lounge.",
+        "date": "2014-11-14T22:53:32Z",
+        "duration": 2307
     },
     {
         "service": "cloudformation",
         "videoId": "t9yj3VRoj8U",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I receive an email alert when my CloudFormation stack is in ROLLBACK_IN_PROGRESS state?",
-        "date": "2020/05/27"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/cloudformation-rollback-email/\nPranit shows you how to receive an email alert when your CloudFormation stack is in ROLLBACK_IN_PROGRESS state.",
+        "date": "2020-05-27T17:10:13Z",
+        "duration": 388
     },
     {
         "service": "cloudformation",
         "videoId": "B2Ra7X8rymw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I resolve the validation error from Amazon S3 event notifications in AWS CloudFormation?",
-        "date": "2019/12/31"
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/388Xpfw\nRoshan shows you how to avoid the error \"Unable to validate the following destination configurations\" when using S3 event notifications in AWS CloudFormation.",
+        "date": "2019-12-31T20:08:34Z",
+        "duration": 474
     },
     {
         "service": "cloudformation",
         "videoId": "PZMiYUpUJp4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Getting Started",
+            ".NET",
+            "cloud",
+            "Web Applications",
+            "CloudFormation"
+        ],
         "title": "Web Applications on AWS: Launching Identical Environments [Amazon CloudFormation]",
-        "date": "2012/06/14"
+        "description": "You can use AWS CloudFormation to create and provision AWS infrastructure deployments predictably and repeatedly.",
+        "date": "2012-06-14T14:58:54Z",
+        "duration": 112
     },
     {
         "service": "cloudformation",
         "videoId": "39BP_vImxlU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summits",
+            "AWS public sector summit",
+            "2016AWSPSSummit",
+            "AWS Government summit"
+        ],
         "title": "AWS CloudFormation: Infrastructure as Code | AWS Public Sector Summit 2016",
-        "date": "2016/07/13"
+        "description": "This session provides the attendee with an overview of our AWS CloudFormation service and helps the customer to realize the benefits of \"infrastructure as code.\"  A demo is part of this session.",
+        "date": "2016-07-13T15:42:07Z",
+        "duration": 2569
     },
     {
         "service": "cloudformation",
         "videoId": "hlJkMoCxR-I",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I delete an AWS Lambda-backed custom resource that’s stuck deleting in AWS CloudFormation?",
-        "date": "2020/04/03"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/cloudformation-lambda-resource-delete/\nAayush shows you how to troubleshoot an AWS Lambda-backed custom resource that's stuck in DELETE_FAILED status or DELETE_IN_PROGRESS status with AWS CloudFormation.",
+        "date": "2020-04-03T15:50:39Z",
+        "duration": 249
     },
     {
         "service": "cloudformation",
         "videoId": "cTusmFntybM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - How CloudFormation Builds re:Invent",
-        "date": "2017/12/08"
+        "description": "Model and provision all your cloud infrastructure resources. Learn more at - http://amzn.to/2BVZt9U.\n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:19:04Z",
+        "duration": 1155
     },
     {
         "service": "cloudformation",
         "videoId": "XU40FTvTQWg",
-        "title": "How do I 'Disable Rollback on Failure' for a stack to continue troubleshooting?",
-        "date": "2019/10/10"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
+        "title": "How do I \"Disable Rollback on Failure\" for a stack to continue troubleshooting?",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2lSad6a\nAayush, an AWS Cloud Support Engineer, shows you how to \"Disable Rollback on Failure\" for a stack to continue troubleshooting.",
+        "date": "2019-10-10T21:40:37Z",
+        "duration": 169
     },
     {
         "service": "cloudformation",
         "videoId": "3ZUEjX4YRZI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I stop my Amazon ECS service from failing to stabilize in AWS CloudFormation?",
-        "date": "2020/05/19"
+        "description": "For more details see the Knowledge Center article with this video:\nhttps://aws.amazon.com/premiumsupport/knowledge-center/cloudformation-ecs-service-stabilize/\nAayush shows you how to stop your Amazon ECS service from failing to stabilize in AWS CloudFormation.",
+        "date": "2020-05-19T19:32:11Z",
+        "duration": 256
     },
     {
         "service": "cloudformation",
         "videoId": "al5UhZfqPVw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS Sydney Summit 2018: CloudFormation Ninjitsu",
-        "date": "2018/05/21"
+        "description": "There are some questions that nearly everyone ask when they first start the journey to 'big data' in the cloud.  This session looks at “Where do I start?” \n\nVisit the Following Links to Learn More: \n- CloudFormation Getting Started: https://aws.amazon.com/cloudformation/getting-started/\n- CloudFormation Discussion Forum: https://forums.aws.amazon.com/forum.jspa?forumID=92\n- Sample Code & Example Templates: https://aws.amazon.com/cloudformation/templates/\n- CloudFormation User Guide: Best Practices: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/best-practices.html",
+        "date": "2018-05-21T18:52:15Z",
+        "duration": 936
     },
     {
         "service": "cloudformation",
         "videoId": "bJHHQM7GGro",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DOP302-R1",
+            "DevOps",
+            "AWS CloudFormation"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Best practices for authoring AWS CloudFormation (DOP302-R1)",
-        "date": "2019/12/05"
+        "description": "Incorporating infrastructure as code into software development practices can help teams and organizations improve automation and throughput without sacrificing quality and uptime. In this session, we cover multiple best practices for writing, testing, and maintaining AWS CloudFormation template code. You learn about IDE plug-ins, reusability, testing tools, modularizing stacks, and more. During the session, we also review sample code that showcases some of the best practices in a way that lends more context and clarity.",
+        "date": "2019-12-05T17:37:56Z",
+        "duration": 3283
     },
     {
         "service": "cloudformation",
         "videoId": "pRGF7TidkNM",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DOP408-R2",
+            "DevOps"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 2] What's new in AWS CloudFormation (DOP408-R2)",
-        "date": "2019/12/10"
+        "description": "AWS CloudFormation is one of the most widely used AWS tools, enabling infrastructure as code, deployment automation, repeatability, compliance, and standardization. In this session, we cover the latest improvements and best practices for AWS CloudFormation customers in particular, and for seasoned infrastructure engineers in general. We cover new features and improvements that span many use cases, including programmability options, cross-region and cross-account automation, operational safety, and additional integration with many other AWS services.",
+        "date": "2019-12-10T18:47:06Z",
+        "duration": 3307
     },
     {
         "service": "cloudformation",
         "videoId": "MhHxEgCpCws",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "Management Tools & Governance",
+            "AWS CloudFormation",
+            "MGT222-P"
+        ],
         "title": "AWS re:Invent 2019: Developing resource providers with new AWS CloudFormation tools (MGT222-P)",
-        "date": "2019/12/05"
+        "description": "This presentation was recorded prior to re:Invent. AWS CloudFormation is used by hundreds of thousands of customers to automate the deployment of native and custom infrastructure resources. New resource provider tools provide developers with the ability to build AWS and non-AWS resources that leverage AWS CloudFormation’s unique benefits across many usage scenarios. This session demonstrates how to use these new tools to create new resource types that can be invoked and managed like AWS native resources.",
+        "date": "2019-12-05T22:34:04Z",
+        "duration": 2688
     }
 ]

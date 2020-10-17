@@ -2,85 +2,275 @@
     {
         "service": "codedeploy",
         "videoId": "jcR9iIWdU7E",
+        "tags": [
+            "alm",
+            "codedeploy",
+            "AWS codedeploy",
+            "deployment and management",
+            "application lifecycle management",
+            "Software Deployment",
+            "Cloud Computing (Industry)",
+            "Amazon Web Services (Website)",
+            "Software (Industry)",
+            "automated software deployment",
+            "code deployment",
+            "aws code deployment",
+            "software deployment",
+            "deploying automated software"
+        ],
         "title": "Deploying AWS CodeDeploy - Automated Software Deployment on AWS",
-        "date": "2015/02/05"
+        "description": "AWS CodeDeploy is a service that automates code deployments to Amazon EC2 instances. This video will walk you through a sample CodeDeploy deployment using our console. Learn more: http://amzn.to/2jkLEMT",
+        "date": "2015-02-05T17:43:08Z",
+        "duration": 302
     },
     {
         "service": "codedeploy",
         "videoId": "N3saR9D7hq8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "codedeploy",
+            "aws codedeploy",
+            "ec2",
+            "deployment",
+            "application deployment",
+            "github",
+            "GitHub Integration",
+            "Automated Software Deployment",
+            "Elastic Cloud Compute",
+            "GitHub workflows",
+            "cloud computing event"
+        ],
         "title": "AWS CodeDeploy & GitHub Integration - Automated Software Deployment on AWS",
-        "date": "2014/12/10"
+        "description": "Learn how AWS CodeDeploy automates application updates across Amazon EC2 instances!  You can initiate deployments directly from your existing GitHub workflows.  Learn more about AWS CodeDeploy: http://amzn.to/2ikX52V\n\nSet up this GitHub integration yourself: http://blogs.aws.amazon.com/applicati...\n\nRead more about our GitHub integration: http://docs.aws.amazon.com/codedeploy…",
+        "date": "2014-12-10T17:35:16Z",
+        "duration": 321
     },
     {
         "service": "codedeploy",
         "videoId": "Wx-ain8UryM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS CodeDeploy",
+            "CodeDeploy",
+            "ALM",
+            "AWS CodeCommit",
+            "AWS CodePipeline",
+            "application lifecycle management",
+            "software development",
+            "software lifecycle",
+            "application deployment and management",
+            "ADM"
+        ],
         "title": "Introduction to AWS CodeDeploy - Automated Software Deployment with Amazon Web Services",
-        "date": "2014/11/12"
+        "description": "AWS CodeDeploy is a service that automates code deployments to any instance, including Amazon EC2 instances and instances running on-premises. Learn more: http://amzn.to/2jkOkKr",
+        "date": "2014-11-12T17:45:58Z",
+        "duration": 131
     },
     {
         "service": "codedeploy",
         "videoId": "A4NSyUbAEkw",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "DevOps",
+            "DVO306",
+            "Andy Troutman - Amazon Web Services",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (DVO306) AWS CodeDeploy: Automating Your Software Deployments",
-        "date": "2015/10/09"
+        "description": "So you’ve written some code. Now what? How do you make it available to your customers in an efficient and reliable manner? Learn how you can use AWS CodeDeploy to easily and quickly push your application updates. This talk will introduce you to the basics of CodeDeploy: key concepts, how it works, where it fits in your release process, and some deployment strategies to get you started on the right foot. We’ll walk through several demos, going from a basic sample deployment to a live update of a large multi-instance fleet, giving you a sense for how CodeDeploy can grow with your needs.",
+        "date": "2015-10-09T22:45:26Z",
+        "duration": 2691
     },
     {
         "service": "codedeploy",
         "videoId": "KzziRHOa5X4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Software (Industry)",
+            "Management",
+            "Technology",
+            "Data",
+            "System",
+            "Business",
+            "Office",
+            "coding",
+            "code",
+            "deployment",
+            "ken exner"
+        ],
         "title": "AWS CodeDeploy: Manage Deployment Complexity",
-        "date": "2015/04/10"
+        "description": "As software development teams transition to cloud-based architectures and adopt agile processes, the tools they need to support application development in this new world will change.  In this session, we'll take you the transition that Amazon made to a service-oriented architecture over a decade ago, and introduce you to some of the processes and tools that we built and adopted along the way.  We’ll share what lessons we’ve learned, explain how we’ve achieved better agility and reliability in our software development and deployment processes, and present an overview of tools we’ve used to help get us there that have since become services such as AWS CodeCommit, AWS CodePipeline, AWS CodeDeploy, and more.",
+        "date": "2015-04-10T21:41:16Z",
+        "duration": 2293
     },
     {
         "service": "codedeploy",
         "videoId": "P4K3HB8TNJo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos"
+        ],
         "title": "How do I install the CodeDeploy agent on my EC2 Windows instance?",
-        "date": "2018/08/06"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/codedeploy-launch-config-windows/\n\nDavid, an AWS Cloud Support Engineer, shows you how to install the CodeDeploy agent on your EC2 Windows instance.",
+        "date": "2018-08-06T13:39:34Z",
+        "duration": 312
     },
     {
         "service": "codedeploy",
         "videoId": "Y7s3SHMweC0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I use launch configurations to automatically install the CodeDeploy agent?",
-        "date": "2020/02/20"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2M0sOax\nNaina, an AWS Cloud Support Engineer, shows you how you can use launch configurations to automatically install the CodeDeploy agent on an EC2 instance running Amazon Linux or Ubuntu.",
+        "date": "2020-02-20T16:43:55Z",
+        "duration": 124
     },
     {
         "service": "codedeploy",
         "videoId": "0fNWlYbwAfg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS CodeDeploy",
+            "CodeDeploy",
+            "ALM",
+            "AWS CodeCommit",
+            "AWS CodePipeline",
+            "application lifecycle management",
+            "software development",
+            "software lifecycle",
+            "application deployment and management",
+            "ADM"
+        ],
         "title": "AWS re:Invent 2014 | Announcing AWS CodeDeploy",
-        "date": "2014/11/12"
+        "description": "Learn more: https://aws.amazon.com/codedeploy/\nAWS CodeDeploy is a service that automates code deployments to Amazon EC2 instances. AWS CodeDeploy makes it easier for you to rapidly release new features, helps you avoid downtime during deployment, and handles the complexity of updating your applications. You can use AWS CodeDeploy to automate deployments, eliminating the need for error-prone manual operations, and the service scales with your infrastructure so you can easily deploy to one EC2 instance or thousands.",
+        "date": "2014-11-13T01:02:57Z",
+        "duration": 99
     },
     {
         "service": "codedeploy",
         "videoId": "3E1rieNas_M",
         "title": "AWS Summit Series 2015 | Tel Aviv: Amazon CodeDeploy Demo",
-        "date": "2015/07/29"
+        "description": "Amazon CodeDeploy Live Demo at the AWS Summit Tel Aviv 2015",
+        "date": "2015-07-29T22:15:26Z",
+        "duration": 1226
     },
     {
         "service": "codedeploy",
         "videoId": "MIE0P3m9eEY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "How to Build a CI/CD Pipeline Using AWS CodeDeploy and Microsoft Team Foundation Server (TFS)",
-        "date": "2017/08/14"
+        "description": "Learn more about AWS at - http://amzn.to/2uv2fPN.\nAWS CodeDeploy allows hybrid application deployments. Using AWS CodeDeploy you can deploy applications to both Amazon EC2 instances and to on-premises instances in your data center. This video demonstrates how you can integrate AWS CodeDeploy with Microsoft Team Foundation Server (TFS) in a DevOps environment. We use TFS as the source code repository and the build server. At the end of the video, we create a complete CI/CD pipeline to deploy a sample .NET application to a hybrid environment.\n\nLearn more:\nhttp://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html\nhttps://www.youtube.com/watch?v=xt8QA2HccNI\nhttps://www.youtube.com/watch?v=yNESSInONyk",
+        "date": "2017-08-14T21:49:34Z",
+        "duration": 1851
     },
     {
         "service": "codedeploy",
         "videoId": "PV52g2ANNrc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "codedeploy",
+            "non-root user"
+        ],
         "title": "AWS Knowledge Center Videos: Is it possible to run the CodeDeploy agent as a non-root user?",
-        "date": "2017/09/03"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/codedeploy-agent-non-root-profile/\n\nDavid, an AWS Cloud Support Engineer, shows you if it is possible to run the CodeDeploy agent as a non-root user.",
+        "date": "2017-09-04T03:47:33Z",
+        "duration": 737
     },
     {
         "service": "codedeploy",
         "videoId": "wbHXH8dzgyI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Announcement: API Gateway Canary Release Deployments, CodeDeploy Serverless & Lambda",
-        "date": "2017/12/08"
+        "description": "For more information on the AWS Twitch Channel, visit http://amzn.to/2jv2RoG and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.\n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders.",
+        "date": "2017-12-08T23:20:14Z",
+        "duration": 1189
     },
     {
         "service": "codedeploy",
         "videoId": "3I6fYCxmurw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "service role",
+            "instance profile",
+            "permission",
+            "allow"
+        ],
         "title": "AWS Knowledge Center Videos: How do I configure a service role and instance profile for CodeDeploy?",
-        "date": "2017/03/10"
+        "description": "Find more details in the AWS Knowledge Center:  https://aws.amazon.com/premiumsupport/knowledge-center/configure-codedeploy-role-profile/\n\nLawrence, an AWS Cloud Support Engineer, shows you how to configure a service role and instance profile for CodeDeploy.",
+        "date": "2017-03-10T15:44:01Z",
+        "duration": 337
     },
     {
         "service": "codedeploy",
         "videoId": "VWk9UjDmLZw",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Developer Tools",
+            "DEV302",
+            "Norm Johanson - Amazon Web Services",
+            "Steve Roberts - Amazon Web Services",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (DEV302) Hosting ASP.NET 5 Apps in AWS with Docker & AWS CodeDeploy",
-        "date": "2015/10/09"
+        "description": "The .NET Platform is undergoing a revolution with a new modularized .NET Framework and CoreCLR, a new cross platform runtime. ASP.NET 5 gives .NET developers the ability to develop and run their applications outside of Windows. In this session we will explore how to develop and deploy ASP.NET 5 applications on Windows with AWS CodeDeploy and Linux with Docker. For Docker we will explore using Docker with both Elastic Beanstalk and EC2 Container Service.",
+        "date": "2015-10-09T22:15:30Z",
+        "duration": 2858
     }
 ]

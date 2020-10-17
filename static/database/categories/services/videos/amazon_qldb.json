@@ -2,67 +2,204 @@
     {
         "service": "amazon_qldb",
         "videoId": "BiEbMJ86dGQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Immutable",
+            "Verifiable",
+            "Ledger Database",
+            "Amazon QLDB",
+            "Amazon Quantum Ledger Database (QLDB)"
+        ],
         "title": "What is Amazon Quantum Ledger Database (QLDB)",
-        "date": "2019/01/30"
+        "description": "Amazon QLDB - https://amzn.to/2HNIQEO, is a fully managed ledger database that provides a transparent, immutable, and cryptographically verifiable transaction log ‎owned by a central trusted authority. Amazon QLDB tracks each and every application data change and maintains a complete and verifiable history of changes over time. Watch this demo to learn more!",
+        "date": "2019-01-30T08:00:01Z",
+        "duration": 328
     },
     {
         "service": "amazon_qldb",
         "videoId": "jcZ_rsLJrqk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "ledger",
+            "distributed ledger",
+            "blockchain",
+            "system-of-record",
+            "database",
+            "audit tables",
+            "audit logs"
+        ],
         "title": "AWS QLDB Overview: Animated Explainer Video",
-        "date": "2019/10/14"
+        "description": "A 3-minute video on what is Amazon QLDB and how can customers benefit from it. Learn more at - https://amzn.to/33AXpC1.",
+        "date": "2019-10-14T16:32:57Z",
+        "duration": 168
     },
     {
         "service": "amazon_qldb",
         "videoId": "blIku5CWYzU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "How Do I Know I Need a Ledger Database? An Introduction to Amazon QLDB",
-        "date": "2019/01/31"
+        "description": "Do you need a ledger database? In this session, we talk about the kinds of problems that Amazon Quantum Ledger Database (QLDB) can solve and answer your questions about when and why you would use a ledger database. Join expert guest Michael Labib, Principal Solutions Architect at AWS, to learn about benefits and use cases for Amazon QLDB.\n\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-01-31T19:33:48Z",
+        "duration": 1312
     },
     {
         "service": "amazon_qldb",
         "videoId": "7Hlux1cpeDE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Dev Bytes Recap: QLDB/Blockchain Talk",
-        "date": "2019/05/24"
+        "description": "https://aws.amazon.com/developer/community/twitch/\nMissed the AWS Sydney Summit 2019? Learn how cloud technology can help your business lower costs, improve efficiency, and innovate at scale. This session is a recording from Innovation Day.",
+        "date": "2019-05-24T16:15:51Z",
+        "duration": 777
     },
     {
         "service": "amazon_qldb",
         "videoId": "q002jbUuuSY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "database",
+            "Amazon",
+            "centralized",
+            "ledger",
+            "immutable",
+            "verifiable"
+        ],
         "title": "AWS re:Invent 2018 - Announcement of Amazon QLDB",
-        "date": "2018/12/13"
+        "description": "Amazon QLDB is a fully managed ledger database that provides a transparent, immutable, and cryptographically verifiable transaction log ‎owned by a central trusted authority. Learn more at - https://amzn.to/2QuCH4v.\n\nAmazon QLDB tracks each and every application data change and maintains a complete and verifiable history of changes over time.",
+        "date": "2018-12-13T19:38:17Z",
+        "duration": 123
     },
     {
         "service": "amazon_qldb",
         "videoId": "7G9epn3BfqE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Databases",
+            "DAT370"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Do I need a ledger database? An intro to Amazon QLDB (DAT370)",
-        "date": "2018/12/01"
+        "description": "Do you need a ledger database? Let's talk about the kinds of problems that Amazon Quantum can solve, and answer your questions about when and why you would use a ledger database. We'll showcase a presentation with benefits and use cases for Amazon Quantum.",
+        "date": "2018-12-01T22:16:18Z",
+        "duration": 2912
     },
     {
         "service": "amazon_qldb",
         "videoId": "bpUKtxa9sKA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "What is Ledger Technology: Database or Blockchain?",
-        "date": "2019/04/03"
+        "description": "Do you need a ledger database? In this interview we will provide an introduction to ledger databases, provide an overview of Amazon's Quantum Ledger Database, and talk about the similarities of ledger database and blockchains.\n\nLearn more about Amazon QLDB: https://aws.amazon.com/qldb\nLearn more about AWS on Twitch: https://amzn.to/2uGYoB3",
+        "date": "2019-04-03T18:43:57Z",
+        "duration": 214
     },
     {
         "service": "amazon_qldb",
         "videoId": "ZfYDl4kaVCo",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT380",
+            "Databases",
+            "Not Applicable"
+        ],
         "title": "AWS re:Invent 2019: Amazon QLDB: An engineer’s deep dive on why this is a game changer (DAT380)",
-        "date": "2019/12/05"
+        "description": "Why did we build Amazon QLDB to be a first-of-its-kind immutable and verifiable ledger database? In this session, join Andrew Certain, AWS senior principal engineer, as he discusses Amazon QLDB’s unique journal-first architecture along with its various innovations. Topics include cryptographic hashing, Merkle trees, Multi-AZ availability, PartiQL support, and much more. Also included is a special focus on how we brought the data integrity benefits of blockchain into a SQL-compatible database.",
+        "date": "2019-12-05T17:33:06Z",
+        "duration": 2982
     },
     {
         "service": "amazon_qldb",
         "videoId": "bmNBD_q38XU",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "GPSTEC339",
+            "Partner",
+            "Amazon Managed Blockchain",
+            "Amazon QLDB"
+        ],
         "title": "AWS re:Invent 2019: Managed Blockchain & Amazon QLDB in your solutions portfolio (GPSTEC339)",
-        "date": "2019/12/05"
+        "description": "Although this Global Partner Summit session is open to anyone, it is geared toward current and potential AWS Partner Network (APN) Partners. Blockchain technology is evolving rapidly. In this session, learn the differences between blockchain and ledger technologies and get introduced to Amazon Managed Blockchain and Amazon Quantum Ledger Database (Amazon QLDB). Along the way, we show how to easily build and manage scalable blockchain networks with Managed Blockchain on AWS and create new ledgers with Amazon QLDB. Our goal is for Consulting and Technology APN Partner attendees to walk away from this session with a working knowledge of how to leverage blockchain and ledger technologies to bring efficiency, security, and auditability to their digital transformation projects.",
+        "date": "2019-12-05T17:36:18Z",
+        "duration": 3182
     },
     {
         "service": "amazon_qldb",
         "videoId": "Ur0z0P7STlY",
+        "tags": [
+            "programming",
+            "aws",
+            "reinvent",
+            "ai",
+            "ml",
+            "developer",
+            "cloud computing",
+            "software",
+            "Aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "reinvent 2019",
+            "aws launchpad"
+        ],
         "title": "AWS re:Invent 2019 Launchpad | An Engineer's Perspective on Why we Built Amazon QLDB",
-        "date": "2020/03/17"
+        "description": "Subscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #reInvent2019 #AWSLaunchpad",
+        "date": "2020-03-17T22:53:58Z",
+        "duration": 1045
     },
     {
         "service": "amazon_qldb",
         "videoId": "TMQuN0eqPck",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "BLC203",
+            "Blockchain",
+            "DVLA",
+            "BMW",
+            "Sage",
+            "Amazon QLDB"
+        ],
         "title": "AWS re:Invent 2019: Why you need a ledger database: BMW, DVLA, & Sage discuss use cases (BLC203)",
-        "date": "2019/12/05"
+        "description": "Why do you need an immutable ledger database? In this session, we dive into the problems that Amazon Quantum Ledger Database (Amazon QLDB) can solve, and we answer your questions about when and why you would use a ledger database. Customers BMW, the UK government organization Driver and Vehicle Licensing Agency, and Sage share their use cases for maintaining data integrity with Amazon QLDB.",
+        "date": "2019-12-05T17:56:55Z",
+        "duration": 2788
     }
 ]

@@ -2,49 +2,179 @@
     {
         "service": "aws_transfer_family",
         "videoId": "AQtTG2N_QCg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "aws transfer family",
+            "aws transfer for sftp",
+            "aws transfer for ftp",
+            "aws transfer for ftps",
+            "sftp",
+            "ftp",
+            "ftps",
+            "file transfer protocol",
+            "secure shell file transfer protocol",
+            "sftp migration",
+            "ftps migration",
+            "ftp migration",
+            "demo",
+            "vpc",
+            "public internet"
+        ],
         "title": "AWS Transfer Family - Demo",
-        "date": "2020/04/23"
+        "description": "The AWS Transfer Family makes it easy to migrate File Transfer Protocol over SFTP, SSL (FTPS), and FTP workloads to AWS. With support for transfers over SFTP, FTPS, and FTP in and out of Amazon S3, AWS customers can easily integrate their file transfer workflows with data lakes, Customer Relationship management (CRM), Enterprise Resource Planning (ERP), and other business applications in AWS.\n\nIn this demo we'll discuss how the AWS Transfer Family works and we'll also demo how the AWS Transfer Family can be used for each of the three supported protocols (SFTP, FTPS, and FTP), both over the public internet, as well as within a VPC.\n\nLearn more about the AWS Transfer Family at https://go.aws/3awyZfH\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-04-23T20:11:14Z",
+        "duration": 573
     },
     {
         "service": "aws_transfer_family",
         "videoId": "5BPnJRTXVIY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "aws transfer family",
+            "aws transfer for sftp",
+            "aws transfer for ftp",
+            "aws transfer for ftps",
+            "sftp",
+            "ftp",
+            "ftps",
+            "file transfer protocol",
+            "secure shell file transfer protocol",
+            "sftp migration",
+            "ftps migration",
+            "ftp migration"
+        ],
         "title": "AWS Transfer Family",
-        "date": "2020/04/23"
+        "description": "The AWS Transfer Family makes it easy to migrate File Transfer Protocol over SFTP, SSL (FTPS), and FTP workloads to AWS. With support for transfers over SFTP, FTPS, and FTP in and out of Amazon S3, AWS customers can easily integrate their file transfer workflows with data lakes, Customer Relationship management (CRM), Enterprise Resource Planning (ERP), and other business applications in AWS. \n\nThe AWS Transfer Family simplifies migration of file transfer based workflows to AWS, without needing to modify end user credentials, scripts, network configurations, or manage servers.\n\nLearn more about the AWS Transfer Family at https://go.aws/3eBImya\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-04-23T20:10:20Z",
+        "duration": 110
     },
     {
         "service": "aws_transfer_family",
         "videoId": "wcnGez5PP1E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Storage",
+            "STG326",
+            "Amazon Elastic File System (Amazon EFS)",
+            "https://issues.amazon.com/AWS-VID-1686"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] AWS Transfer for SFTP, a Fully Managed SFTP Service (STG326)",
-        "date": "2019/04/24"
+        "description": "SFTP is used for the exchange of data across many industries, including financial services, healthcare, and retail. In this session, we will introduce you to AWS Transfer for SFTP, a service that helps you easily migrate file transfer workflows to AWS, without needing to modify applications or manage SFTP servers. We will demonstrate the product and talk about how to migrate your users so they continue to use their existing SFTP clients and credentials, while the data they access is stored in S3. You will also learn how FINRA is using this new service in conjunction with their Data Lake on AWS.",
+        "date": "2019-04-24T21:14:21Z",
+        "duration": 2236
     },
     {
         "service": "aws_transfer_family",
         "videoId": "VcLneOyvfVU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I configure my AWS SFTP server to use an Amazon S3 bucket in another AWS account?",
-        "date": "2020/01/09"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2JLYNKA\nEmmanuel, an AWS Cloud Support Engineer, shows you how to configure your AWS SFTP server to use an Amazon S3 bucket in another AWS account.",
+        "date": "2020-01-09T23:02:58Z",
+        "duration": 367
     },
     {
         "service": "aws_transfer_family",
         "videoId": "yHzFJ1Dq078",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws sftp",
+            "sftp",
+            "aws transfer for sftp",
+            "data transfer",
+            "data migration",
+            "file transfer",
+            "data processing",
+            "amazon s3",
+            "s3",
+            "file sharing",
+            "SFTP"
+        ],
         "title": "AWS Transfer for SFTP",
-        "date": "2019/08/26"
+        "description": "Learn more about AWS Transfer for SFTP at - https://amzn.to/30Dq1Jw\nAWS Transfer for SFTP is a fully managed service that enables the transfer of files directly into and out of Amazon S3 using the Secure File Transfer Protocol (SFTP) — also known as Secure Shell (SSH) File Transfer Protocol. AWS helps you seamlessly migrate your file transfer workflows to AWS Transfer for SFTP — by integrating with existing authentication systems, and providing DNS routing with Amazon Route 53 — so nothing changes for your customers and partners, or their applications. With your data in S3, you can use it with AWS services for processing, analytics, machine learning, and archiving. Getting started with AWS Transfer for SFTP (AWS SFTP) is easy; there is no infrastructure to buy and setup.",
+        "date": "2019-08-26T18:48:01Z",
+        "duration": 107
     },
     {
         "service": "aws_transfer_family",
         "videoId": "BbswJWYqdNo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Announcement | New AWS Transfer for SFTP Security & Networking Features",
-        "date": "2019/04/03"
+        "description": "The Secure File Transfer Protocol (SFTP) is a widely used method to exchange data between third parties and inside enterprises. AWS recently launched AWS Transfer for SFTP (AWS SFTP), a fully managed service that helps you easily migrate SFTP workflows to AWS, and enables authorized clients to transfer files directly into your Amazon S3 bucket. In this session, we will discuss and demonstrate the service, and new security and networking features, including VPC Endpoint and Network Load Balancer support. These features help you control where data is sent, and what IP addresses are permitted to send you data.\n\nLearn more about AWS Transfer for SFTP: http://aws.amazon.com/sftp/\nLearn more about AWS on Twitch: https://amzn.to/2uGYoB3",
+        "date": "2019-04-03T18:45:40Z",
+        "duration": 1179
     },
     {
         "service": "aws_transfer_family",
         "videoId": "oqlLIl_AElI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws sftp",
+            "sftp",
+            "aws transfer for sftp",
+            "data transfer",
+            "data migration",
+            "file transfer",
+            "data processing",
+            "amazon s3",
+            "s3",
+            "file sharing"
+        ],
         "title": "AWS Transfer for SFTP (25 Seconds)",
-        "date": "2019/09/04"
+        "description": "Learn more about AWS Transfer for SFTP at - https://amzn.to/2k4GXsA\nAWS Transfer for SFTP is a fully managed service that enables the transfer of files directly into and out of Amazon S3 using the Secure File Transfer Protocol (SFTP) — also known as Secure Shell (SSH) File Transfer Protocol. AWS helps you seamlessly migrate your file transfer workflows to AWS Transfer for SFTP — by integrating with existing authentication systems, and providing DNS routing with Amazon Route 53 — so nothing changes for your customers and partners, or their applications. With your data in S3, you can use it with AWS services for processing, analytics, machine learning, and archiving. Getting started with AWS Transfer for SFTP (AWS SFTP) is easy; there is no infrastructure to buy and setup.",
+        "date": "2019-09-04T19:26:19Z",
+        "duration": 26
     },
     {
         "service": "aws_transfer_family",
         "videoId": "rWuuFfjOqZQ",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "STG333",
+            "Storage",
+            "Verisk",
+            "Bose Corporation"
+        ],
         "title": "AWS re:Invent 2019: Migrate and modernize SFTP file transfer workflows with AWS (STG333)",
-        "date": "2019/12/04"
+        "description": "File transfers via SFTP and other protocols are still critical to business processes across industries worldwide. In this session, we dive into AWS Transfer for SFTP, a service that helps migrate file-transfer workflows to AWS while maintaining integration with your existing authentication, security, and network configurations. Hear how AWS customers moved their file-transfer workloads to AWS and modernized downstream processes for populating data lakes and for business-critical systems such as CRM. This session also features demonstrations of the service’s newer key capabilities.",
+        "date": "2019-12-04T17:31:44Z",
+        "duration": 2271
     }
 ]

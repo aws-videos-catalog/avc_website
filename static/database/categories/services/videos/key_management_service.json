@@ -2,79 +2,254 @@
     {
         "service": "key_management_service",
         "videoId": "-5MPXHvKDnc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS KMS",
+            "KMS",
+            "Key Management",
+            "Key Management Service",
+            "Encryption",
+            "Encryption Key Management",
+            "Managed Encryption"
+        ],
         "title": "Getting Started with AWS Key Management Service",
-        "date": "2014/11/12"
+        "description": "Learn more: https://aws.amazon.com/kms\nAWS Key Management Service provides easy encryption with administrative controls. In this video, you’ll see how to create new AWS Key Management Service keys and use them with Amazon S3.  You’ll also see how to change the access permissions on the encryption key and how to look at the audit logs of your encryption key usage.",
+        "date": "2014-11-12T17:59:12Z",
+        "duration": 615
     },
     {
         "service": "key_management_service",
         "videoId": "X1eZjXQ55ec",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Security",
+            "Compliance",
+            "& Identity",
+            "SID330-R",
+            "AWS Key Management Service",
+            "Enterprise",
+            "SID330"
+        ],
         "title": "AWS re:invent 2017: Best Practices for Implementing AWS Key Management Service (SID330)",
-        "date": "2017/12/01"
+        "description": "AWS Key Management Service (KMS) is a managed service that makes it easy for you to create and manage the encryption keys used to encrypt your data. In this session, we will dive deep into best practices learned by implementing AWS KMS at AWS’ largest enterprise clients. We will review the different capabilities described in the AWS Cloud Adoption Framework (CAF) Security Perspective and how to implement these recommendations using AWS KMS. In addition to sharing recommendations, we will also provide examples that will help you protect sensitive information on the AWS Cloud.",
+        "date": "2017-12-01T17:01:44Z",
+        "duration": 2858
     },
     {
         "service": "key_management_service",
         "videoId": "E2XM-WCVSrQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "cloud computing",
+            "AWS Key Management Service",
+            "KMS"
+        ],
         "title": "AWS Key Management Service - Import Key",
-        "date": "2016/08/11"
+        "description": "Learn more about AWS Key Management Service at - http://amzn.to/2aVUdso\nAWS Key Management Service (KMS) is a managed service that makes it easy for you to create and control the encryption keys used to encrypt your data. Starting today, you can import keys from your key management infrastructure into KMS, and use your imported keys in all KMS-integrated AWS services and custom applications. This feature gives you greater control over the generation, lifecycle management, and durability of your keys. Import Key could also help you meet your compliance requirements to generate and store copies of keys outside of your cloud provider.",
+        "date": "2016-08-11T17:48:14Z",
+        "duration": 71
     },
     {
         "service": "key_management_service",
         "videoId": "Wsn_ddlh9VY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Using AWS Key Management Service for Secure Workloads",
-        "date": "2018/11/26"
+        "description": "Presenter: John Hildebrandt, Solutions Architect, Amazon Web Services",
+        "date": "2018-11-26T15:38:53Z",
+        "duration": 1847
     },
     {
         "service": "key_management_service",
         "videoId": "OG-na9njy_k",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Key Management",
+            "Key Management Service",
+            "AWS KMS",
+            "KMS",
+            "Managed Encryption",
+            "Encryption Service"
+        ],
         "title": "AWS re:Invent 2014 | Announcing AWS Key Management Service",
-        "date": "2014/11/12"
+        "description": "Learn more: https://aws.amazon.com/kms/\nAWS Key Management Service (KMS) is a managed service that makes it easy for you to create and control the encryption keys used to encrypt your data, and stores your keys using hardened systems. AWS Key Management Service is integrated with other AWS services including Amazon EBS, Amazon S3, and Amazon Redshift. AWS Key Management Service is also integrated with AWS CloudTrail to provide you with logs of all key usage to help meet your regulatory and compliance needs.",
+        "date": "2014-11-13T00:59:24Z",
+        "duration": 102
     },
     {
         "service": "key_management_service",
         "videoId": "YfoCNCuVSlI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Key Management",
+            "KMS",
+            "encryption",
+            ".NET"
+        ],
         "title": "How to Encrypt/Decrypt Data with AWS KMS on .Net",
-        "date": "2018/11/21"
+        "description": "AWS Key Management Service (KMS) is a managed service that makes it easy for you to create and control the encryption keys used to encrypt your data, and uses FIPS 140-2 validated hardware security modules to protect the security of your keys. AWS Key Management Service is integrated with most other AWS services to help you protect the data you store with these services.\n\nFor more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2t7AHBA.",
+        "date": "2018-11-21T20:41:30Z",
+        "duration": 191
     },
     {
         "service": "key_management_service",
         "videoId": "0kWpm1FyG_Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Security",
+            "Expert",
+            "AWS Identity and Access Management (IAM)",
+            "Encryption",
+            "Compliance",
+            "Developer",
+            "Gregory Roth",
+            "kms",
+            "SEC406"
+        ],
         "title": "AWS re:Invent 2014 | (SEC406) NEW LAUNCH: Secure Applications with AWS Key Management Service",
-        "date": "2014/11/17"
+        "description": "Learn how you can use the AWS Key Management Service to protect data in your applications. This talk shows you how to use the encryption features of AWS Key Management Service within your applications and provides an in-depth walk-through of applying policy control to keys to control access.",
+        "date": "2014-11-18T00:37:55Z",
+        "duration": 2654
     },
     {
         "service": "key_management_service",
         "videoId": "AAitIKFeO6k",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Announcing KMS Custom Key Stores using CloudHSM",
-        "date": "2018/11/30"
+        "description": "AWS Key Management Service (KMS) custom key stores give customers the opportunity to increase the level of control that they have over encryption keys that protect their data across AWS. KMS customers can now create a dedicated, single-tenant key store in KMS by using a AWS CloudHSM cluster that they control. \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:34:19Z",
+        "duration": 1201
     },
     {
         "service": "key_management_service",
         "videoId": "coDX7NV3ILM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How to upload a large file to Amazon S3 with encryption using an AWS KMS key?",
-        "date": "2020/02/25"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2KqT39r\nRajitha, an AWS Cloud Support Engineer, shows you how to upload a large file to Amazon S3 with encryption using an AWS KMS key.",
+        "date": "2020-02-25T21:17:10Z",
+        "duration": 480
     },
     {
         "service": "key_management_service",
         "videoId": "K9_8l6JNRys",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos"
+        ],
         "title": "How do I import Key Material into the AWS KMS?",
-        "date": "2018/06/25"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/import-keys-kms/\n\nPatrick, an AWS Cloud Support Engineer, shows you how to import your keys into AWS Key Management Service.",
+        "date": "2018-06-25T14:08:33Z",
+        "duration": 252
     },
     {
         "service": "key_management_service",
         "videoId": "wJbMMv_I1Sc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "How Slack Protects their User Data with AWS KMS",
-        "date": "2019/04/03"
+        "description": "In this session, learn how Slack uses AWS KMS to protect their user data. \n\nLearn more about AWS on Twitch: https://amzn.to/2uGYoB3",
+        "date": "2019-04-03T19:01:50Z",
+        "duration": 360
     },
     {
         "service": "key_management_service",
         "videoId": "uqCpqnmXIAM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Inforce",
+            "AWS re:Inforce 2019",
+            "security",
+            "identity",
+            "compliance",
+            "cloud security",
+            "AWS security",
+            "cloud security community",
+            "learning conference",
+            "Detective Controls",
+            "Infrastructure Security",
+            "Data Protection",
+            "Incident Response",
+            "Governance",
+            "Risk",
+            "Compliance",
+            "security best practices",
+            "Security Deep Dive",
+            "AWS re:Inforce 2019 Sessions",
+            "Session",
+            "SDD353",
+            "Joe Norman",
+            "300 - Advanced"
+        ],
         "title": "AWS re:Inforce 2019: Cross-Account Encryption w/ AWS KMS & Slack Enterprise Key Management (SDD353)",
-        "date": "2019/06/26"
+        "description": "Slack stores lots of customer data, and it’s essential that it’s protected. Some customers need tight control over their keys, so Slack worked with AWS KMS to enable customers to revoke data access independently. With Slack’s Enterprise Key Management (EKM) capability, customers control master keys that unlock access to their data from KMS accounts. Using precise, granular KMS access controls, customers allow or deny access to individual channels, workspaces, or Slack channels and audit keys in AWS CloudTrail logs. This session covers KMS and how Slack used KMS to build the EKM capability. Learn how KMS can help you give your customers control over their data.\n\nComplete Title: AWS re:Inforce 2019: Cross-Account Encryption with AWS KMS and Slack Enterprise Key Management (SDD353) \n\n Presenter(s): \n-  Audrei Drummond, Slack",
+        "date": "2019-06-26T15:04:35Z",
+        "duration": 2154
     },
     {
         "service": "key_management_service",
         "videoId": "hxWvbNvj2lg",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "SEC340-R1",
+            "Security",
+            "Compliance",
+            "and Identity"
+        ],
         "title": "AWS re:Invent 2019: Using AWS KMS for data protection, access control, and audit (SEC340-R1)",
-        "date": "2019/12/06"
+        "description": "This session focuses on how customers are using AWS Key Management Service (AWS KMS) to raise the bar for security and compliance with their workloads. Along with a detailed explanation of how AWS KMS fits into the AWS suite of services, we walk you through popular and sophisticated examples of how AWS KMS can be deployed in the context of access control, separation of duties, data protection, and auditability. We also cover the latest developments in AWS KMS functionality that will further expand the range of use cases to include additional cryptographic capabilities and system integrations.",
+        "date": "2019-12-07T05:53:40Z",
+        "duration": 3026
     }
 ]

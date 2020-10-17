@@ -2,188 +2,603 @@
     {
         "service": "rds",
         "videoId": "TJxC-B9Q9tQ",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Databases",
+            "DAT302",
+            "AI",
+            "Lex",
+            "RDS",
+            "Database"
+        ],
         "title": "AWS re:Invent 2017: Deep Dive on Amazon Relational Database Service (RDS) (DAT302)",
-        "date": "2017/11/29"
+        "description": "Amazon RDS enables customers to launch an optimally configured, secure and highly available database with just a few clicks. It provides cost-efficient and resizable capacity while managing time-consuming database administration tasks, freeing you up to focus on your applications and business. Amazon RDS provides you six database engines to choose from, including Oracle, Microsoft SQL Server, PostgreSQL, MySQL and MariaDB. In this session, we take a closer look at the capabilities of the RDS service and review the latest features available. We do a deep dive into how RDS works and the best practices to achieve the optimal performance, flexibility, and cost saving for your databases.",
+        "date": "2017-11-29T16:59:03Z",
+        "duration": 3171
     },
     {
         "service": "rds",
         "videoId": "b5vvW0l78Vs",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT322",
+            "Amazon Aurora",
+            "Relational Database Service",
+            "(Amazon RDS)"
+        ],
         "title": "AWS re:Invent 2018: Deep Dive on MySQL Databases on Amazon RDS (DAT322)",
-        "date": "2018/11/27"
+        "description": "In recent years, MySQL has become a top database choice for new application development and migration from overpriced, restrictive commercial databases. In this session, we provide an overview of the MySQL and MariaDB options available on AWS. We also do a deep dive on Amazon Relational Database Service (Amazon RDS), a fully managed MySQL service, and Amazon Aurora, a MySQL-compatible database with up to 5X the performance, and many additional innovations.",
+        "date": "2018-11-27T19:09:54Z",
+        "duration": 3627
     },
     {
         "service": "rds",
         "videoId": "Qk1JX4Ey6uk",
+        "tags": [
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Databases",
+            "DAT375"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Deep Dive on Amazon RDS on VMware (DAT375)",
-        "date": "2018/12/13"
+        "description": "Amazon RDS on VMware makes it easy for you to set up, operate, and scale databases in on-premises and hybrid environments, and to migrate them to AWS. We'll cover how it automates management of your on-premises databases, and enables business continuity and workload migration through hybrid database architectures - all using a single, simple interface. See examples of Amazon RDS on VMware in action, with functionality including simple backup and restore, performance monitoring and optimization, and hybrid disaster recovery scenarios.",
+        "date": "2018-12-13T16:46:31Z",
+        "duration": 2363
     },
     {
         "service": "rds",
         "videoId": "HuvUD7-RyoU",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT203",
+            "Relational",
+            "Database Service (Amazon RDS)"
+        ],
         "title": "AWS re:Invent 2018: What's New in Amazon Relational Database Service (DAT203)",
-        "date": "2018/11/29"
+        "description": "Amazon Relational Database Service (Amazon RDS) is a fully managed relational database service that enables you to launch an optimally configured, secure, and highly available database with just a few clicks. It manages time-consuming database administration tasks, freeing you to focus on your applications and business. We review the capabilities of the service and review the latest available featurese.",
+        "date": "2018-11-29T18:21:11Z",
+        "duration": 3700
     },
     {
         "service": "rds",
         "videoId": "igRfulrrYCo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon Relational Database Service (Amazon RDS)",
-        "date": "2019/02/18"
+        "description": "Vlad Vlasceanu – Principal DB Specialist Solutions Architect, AWS\n\nAmazon Relational Database Service (Amazon RDS) is a fully managed relational database service that enables you to launch an optimally configured, secure, and highly available database with just a few clicks. It manages time-consuming database administration tasks, freeing you to focus on your applications and business. In this session, we review both the capabilities of the service and its latest available features.\n\nLevel: 200\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-02-18T23:35:35Z",
+        "duration": 3798
     },
     {
         "service": "rds",
         "videoId": "4JYS1J5PyHw",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT323",
+            "Relational",
+            "Database Service (Amazon RDS)"
+        ],
         "title": "AWS re:Invent 2018: Best Practices for Running SQL Server on Amazon RDS (DAT323)",
-        "date": "2018/11/30"
+        "description": "Amazon Relational Database Service (Amazon RDS) provides a managed service to run SQL Server databases in AWS. While Amazon RDS handles provisioning and maintaining the SQL Server instance, there are things you can do to ensure that the SQL Server instance is healthy. We'll review some best practices involved in configuring the Amazon RDS SQL Server instance, focusing on availability, security and migration. We'll also hear from our customer Allstate, sharing details about their use of Amazon RDS.",
+        "date": "2018-11-30T16:31:38Z",
+        "duration": 3768
     },
     {
         "service": "rds",
         "videoId": "IEc8kSlpOQ0",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Databases",
+            "DAT209",
+            "Debanjan Saha - Amazon Web Services",
+            "Steven Grandchamp - MariaDB",
+            "Introductory (200 level)"
+        ],
         "title": "AWS re:Invent 2015 | (DAT209) NEW LAUNCH! Introducing MariaDB on Amazon RDS",
-        "date": "2015/10/21"
+        "description": "We are excited to announce the immediate availability of MariaDB on Amazon RDS. You can now run your MariaDB database on AWS while taking advantage of RDS management features like automated backups, point-in-time recovery, cross-region replication, and multi-AZ deployments for high availability. In this session, you learn about how to leverage RDS to get the most out of your MariaDB database. Steven Grandchamp, Vice President and GM at MariaDB, is a participant in this session.",
+        "date": "2015-10-21T19:01:03Z",
+        "duration": 2419
     },
     {
         "service": "rds",
         "videoId": "pPLPzPYY5uU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Databases",
+            "DAT305",
+            "Abdul Sait",
+            "KD Singh",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2016: Deep Dive on Amazon Relational Database Service (DAT305)",
-        "date": "2016/12/03"
+        "description": "Amazon RDS allows customers to launch an optimally configured, secure and highly available database with just a few clicks. It provides cost-efficient and resizable capacity while managing time-consuming database administration tasks, freeing you up to focus on your applications and business. Amazon RDS provides you six database engines to choose from, including Amazon Aurora, Oracle, Microsoft SQL Server, PostgreSQL, MySQL and MariaDB. In this session, we take a closer look at the capabilities of RDS and all the different options available. We do a deep dive into how RDS works and the best practises to achive the optimal perfomance, flexibility, and cost saving for your databases.",
+        "date": "2016-12-03T21:40:08Z",
+        "duration": 3153
     },
     {
         "service": "rds",
         "videoId": "GMVKBjXjp20",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Databases",
+            "DAT313",
+            "AI",
+            "RDS",
+            "Database",
+            "Migration"
+        ],
         "title": "AWS re:Invent 2017: Running Oracle Databases on Amazon RDS (DAT313)",
-        "date": "2017/12/01"
+        "description": "Amazon Relational Database Service (Amazon RDS) simplifies setup, operation, and management of databases in the cloud. In this session, we will explore Amazon RDS features and best practices that offer graceful migration, high performance, elastic scaling, and high availability for Oracle databases. You will also learn from the Chief Architect for Intuit’s Small Business Division how the QuickBooks Online team is using Amazon RDS for Oracle to scale the world's largest online accounting platform.",
+        "date": "2017-12-01T17:10:30Z",
+        "duration": 3621
     },
     {
         "service": "rds",
         "videoId": "ZQnzjhnDloM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Services Deep Dive",
+            "Expert",
+            "Amazon RDS",
+            "Database",
+            "Architect",
+            "Developer",
+            "Pavan Pothukuchi",
+            "Sajee Mathew"
+        ],
         "title": "AWS re:Invent 2014 | (SDD403) Amazon RDS for MySQL Deep Dive",
-        "date": "2014/11/14"
+        "description": "Learn about architecting a highly available RDS MySQL implementation to support your high-performance applications and production workloads. We will also talk about best practices in the areas of security, storage, compute configurations, and management that will contribute to your success with Amazon RDS for MySQL. In addition, you will learn about how to effectively move data between Amazon RDS and on-premises instances.",
+        "date": "2014-11-14T23:24:18Z",
+        "duration": 2416
     },
     {
         "service": "rds",
         "videoId": "RyX9tPxffmw",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT402",
+            "Relational",
+            "Database Service (Amazon RDS)"
+        ],
         "title": "AWS re:Invent 2018: Using Performance Insights to Optimize Database Performance (DAT402)",
-        "date": "2018/11/30"
+        "description": "Despite the importance of cloud databases as a core foundation for applications, many businesses face challenges in identifying database performance issues. Visibility into database performance is difficult due to a wide range of incomplete tools that can be difficult to install, configure, and maintain. While these tools may provide a wide range of statistics, they lack a standard methodology for analyzing the statistics to identify performance problems. In this session, learn how Amazon Relational Database Service (Amazon RDS) changes this by providing database performance monitoring that is automatically configured, easy to use, and based on a clear actionable methodology.",
+        "date": "2018-11-30T16:31:39Z",
+        "duration": 3645
     },
     {
         "service": "rds",
         "videoId": "JWurBmZVgiY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Services Deep Dive",
+            "Expert",
+            "Amazon RDS",
+            "Mobile & Connected Devices",
+            "Mobile",
+            "Database",
+            "Illumina",
+            "Architect",
+            "Developer",
+            "Greg Roberts",
+            "Grant McAlister"
+        ],
         "title": "AWS re:Invent 2014 | (SDD409) Amazon RDS for PostgreSQL Deep Dive",
-        "date": "2014/11/14"
+        "description": "Learn the specifics of Amazon RDS for PostgreSQL's capabilities and extensions that make it powerful. This session covers database data import, performance tuning and monitoring, troubleshooting, security, and leveraging open source solutions with RDS. Throughout, this session focuses on capabilities particular to RDS for PostgreSQL.",
+        "date": "2014-11-14T21:02:56Z",
+        "duration": 2817
     },
     {
         "service": "rds",
         "videoId": "6YmcteXoBvU",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT324",
+            "Amazon Aurora",
+            "Relational Database",
+            "Service (Amazon RDS)"
+        ],
         "title": "AWS re:Invent 2018: Deep Dive on PostgreSQL Databases on Amazon RDS (DAT324)",
-        "date": "2018/11/29"
+        "description": "In this session, we provide an overview of the PostgreSQL options available on AWS, and do a deep dive on Amazon Relational Database Service (Amazon RDS) for PostgreSQL, a fully managed PostgreSQL service, and Amazon Aurora, a PostgreSQL-compatible database with up to 3x the performance of standard PostgreSQL. Learn about the features, functionality, and many innovations in Amazon RDS and Aurora, which give you the background to choose the right service to solve different technical challenges, and the knowledge to easily move between services as your requirements change over time.",
+        "date": "2018-11-29T18:20:01Z",
+        "duration": 2785
     },
     {
         "service": "rds",
         "videoId": "eHg8LD5KNC0",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Databases",
+            "DAT304",
+            "Abdul Sait - Amazon Web Services",
+            "Kevin Rice - Airbnb",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (DAT304) Amazon RDS for MySQL: Best Practices",
-        "date": "2015/10/12"
+        "description": "Learn how to monitor your database performance closely and troubleshoot database issues quickly using a variety of features provided by Amazon RDS and MySQL including database events, logs, and engine-specific features. You will also learn about the security best practices to use with Amazon RDS for MySQL as well as how to effectively move data between Amazon RDS and on-premises instances. Hear from Amazon RDS customer Airbnb about the best practices they have implemented in their RDS for MySQL architectures.",
+        "date": "2015-10-12T20:04:32Z",
+        "duration": 3432
     },
     {
         "service": "rds",
         "videoId": "Mp9iz8djagE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon Relational Database (RDS) on VMware: Running Amazon RDS On-Premises",
-        "date": "2019/06/21"
+        "description": "With Amazon Relational Database Service (RDS) on VMware, you can use the same, simple interface to manage databases in on-premises VMware environments as you would use in AWS. You can easily replicate Amazon RDS on VMware databases to Amazon RDS instances in AWS, enabling low-cost hybrid deployments for disaster recovery, read replica bursting, and optional long-term backup retention in Amazon Simple Storage Service (S3). Amazon RDS on VMware is in preview and will be generally available soon, supporting Microsoft SQL Server, PostgreSQL, MySQL, and MariaDB databases, with Oracle to follow in the future.",
+        "date": "2019-06-21T17:12:32Z",
+        "duration": 1056
     },
     {
         "service": "rds",
         "videoId": "a0bRSDS7qKY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "databases",
+            "enterprise",
+            "data migration",
+            "data migration to rds",
+            "rds for data migration",
+            "migrating data",
+            "Shakil-Langha",
+            "DAT308",
+            "dat"
+        ],
         "title": "Advanced Data Migration Techniques for Amazon RDS (DAT308) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "Migrating data from the existing environments to AWS is a key part of the overall migration to Amazon RDS for most customers. Moving data into Amazon RDS from existing production systems in a reliable, synchronized manner with minimum downtime requires careful planning and the use of appropriate tools and technologies. Because each migration scenario is different, in terms of source and target systems, tools, and data sizes, you need to customize your data migration strategy to achieve the best outcome. In this session, we do a deep dive into various methods, tools, and technologies that you can put to use for a successful and timely data migration to Amazon RDS.",
+        "date": "2013-11-26T20:13:38Z",
+        "duration": 3156
     },
     {
         "service": "rds",
         "videoId": "j2wqT0EPDbw",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT317",
+            "Relational",
+            "Database",
+            "Service (Amazon RDS)"
+        ],
         "title": "AWS re:Invent 2018: Best Practices for Running Oracle Databases on Amazon RDS (DAT317)",
-        "date": "2018/11/29"
+        "description": "Amazon Relational Database Service (Amazon RDS) continues to be a popular choice for Oracle DBAs moving new and legacy workloads to the cloud. In this session, we discuss how Amazon RDS for Oracle helps DBAs focus their time where it matters most. We cover recent RDS Oracle features, and we go deep on key functionality that enables license optimization, performance, and high availability for Oracle databases. We also hear directly from an AWS customer about their journey to Amazon RDS and the best practices that helped make their move successful.",
+        "date": "2018-11-29T18:20:36Z",
+        "duration": 3574
     },
     {
         "service": "rds",
         "videoId": "CWe-UDpOGBc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013customer-presentation",
+            "databases",
+            "enterprise",
+            "rds",
+            "postgreSQL",
+            "Gabriel-Arnett"
+        ],
         "title": "Introducing Amazon RDS for PostgreSQL (DAT210) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "AWS customers have been asking us for Amazon RDS for PostgreSQL, and we're excited to announce its immediate availability. Learn how you can offload the management of your PostgreSQL database instances to Amazon RDS using automated backups and point-in-time recovery, Multi-AZ deployments for high availability, and provisioned IOPS for fast and predictable performance. Also learn how to take advantage of familiar PostgreSQL features such as PostGIS with Amazon RDS for PostgreSQL.",
+        "date": "2013-11-26T20:11:14Z",
+        "duration": 2241
     },
     {
         "service": "rds",
         "videoId": "tZXp19q8RFo",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Databases",
+            "DAT402",
+            "Grant McAlister - Amazon Web Services",
+            "Expert (400 level)"
+        ],
         "title": "AWS re:Invent 2015 | (DAT402) Amazon RDS PostgreSQL: Lessons Learned & New Features",
-        "date": "2015/10/09"
+        "description": "Learn the specifics of Amazon RDS for PostgreSQL’s capabilities and extensions that make it powerful. This session begins with a brief overview of the RDS PostgreSQL service, how it provides High Availability & Durability and will then deep dive into the new features that we have released since re:Invent 2014, including major version upgrade and newly added PostgreSQL extensions to RDS PostgreSQL. During the session, we will also discuss lessons learned running a large fleet of PostgreSQL instances, including specific recommendations. In addition we will present benchmarking results looking at differences between the 9.3, 9.4 and 9.5 releases.",
+        "date": "2015-10-09T22:00:29Z",
+        "duration": 2778
     },
     {
         "service": "rds",
         "videoId": "nODIHli6xKE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Services Deep Dive",
+            "Advanced",
+            "Amazon RDS",
+            "Database",
+            "Business Applications",
+            "Outsystems SA",
+            "Architect",
+            "Developer",
+            "Sergei Sokolenko",
+            "Miguel Simões João",
+            "Ghim-Sim Chua"
+        ],
         "title": "AWS re:Invent 2014 | (SDD404) Amazon RDS for Microsoft SQL Server Deep Dive",
-        "date": "2014/11/14"
+        "description": "Come learn how to turbocharge your application development with useful tips and tricks for  Amazon RDS for SQL Server. We will cover practical and useful topics such as migrating your data to an Amazon RDS for SQL Server instance and as well as detailed guidance for taking advantage of Multi-AZ deployments to architect high-performance applications and production workloads.",
+        "date": "2014-11-14T20:59:17Z",
+        "duration": 1908
     },
     {
         "service": "rds",
         "videoId": "fDtmCBaEQyQ",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Databases",
+            "DAT303",
+            "Sergei Sokolenko - Amazon Web Services",
+            "Jeremiah Wilton - Amazon Web Services",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (DAT303) Oracle on AWS and Amazon RDS: Secure, Fast, and Scalable",
-        "date": "2015/10/12"
+        "description": "AWS and Amazon RDS provide advanced features and architectures that enable graceful migration, high performance, elastic scaling, and high availability for Oracle database workloads. Learn best practices for realizing the benefits of the cloud while reducing costs, by running Oracle on AWS in a variety of single- and multi-instance topologies. This session teaches you to take advantage of features unique to AWS and Amazon RDS to free your databases from the confines of the conventional data center.",
+        "date": "2015-10-12T20:02:51Z",
+        "duration": 3317
     },
     {
         "service": "rds",
         "videoId": "U42mC_iKSBg",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT304-R1",
+            "Amazon Aurora"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] Deep Dive on Amazon Aurora with MySQL Compatibility (DAT304-R1)",
-        "date": "2018/11/28"
+        "description": "Amazon Aurora is a fully managed relational database service that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases. With Aurora, we've completely reimagined how databases are built for the cloud, providing you higher performance, availability, and durability than previously possible. In this session, we dive deep into the architectural details of Aurora with MySQL compatibility, and we review recent innovations, such as parallel query, backtrack, serverless, and multi-master. We also share best practices for utilizing the power of relational databases at cloud scale.",
+        "date": "2018-11-28T18:30:22Z",
+        "duration": 3744
     },
     {
         "service": "rds",
         "videoId": "S5EeyTQVU_4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Deep Dive: Amazon Relational Database Service (RDS)",
-        "date": "2018/10/11"
+        "description": "",
+        "date": "2018-10-11T11:40:16Z",
+        "duration": 2315
     },
     {
         "service": "rds",
         "videoId": "rPmKo2g9znA",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Databases",
+            "DAT301",
+            "AI",
+            "Aurora",
+            "Database",
+            "Storage"
+        ],
         "title": "AWS re:Invent 2017: Deep Dive on the Amazon Aurora MySQL-compatible Edition (DAT301)",
-        "date": "2017/11/30"
+        "description": "The Amazon Aurora MySQL-compatible Edition is a fully managed relational database engine that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases. It is purpose-built for the cloud using a new architectural model and distributed systems techniques. It provides far higher performance, availability, and durability than previously possible using conventional monolithic database architectures. Amazon Aurora packs a lot of innovations in the engine and storage layers. In this session, we do a deep-dive into some key innovations behind Amazon Aurora MySQL-compatible edition. We explore new improvements to the service and discuss best practices and optimal configurations.",
+        "date": "2017-11-30T16:46:30Z",
+        "duration": 3620
     },
     {
         "service": "rds",
         "videoId": "KhxEQQOiqus",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT207-R2",
+            "Databases",
+            "Amazon Aurora",
+            "Amazon RDS"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 2] What's new in Amazon RDS (DAT207-R2)",
-        "date": "2019/12/08"
+        "description": "Amazon Relational Database Service (Amazon RDS) is a fully managed database service that allows you to launch an optimally configured, secure, and highly available database with just a few clicks. It manages time-consuming database administration tasks, freeing you to focus on your applications and business. In this session, we look at all of the new capabilities launched for Amazon RDS across different engines and review the latest features available.",
+        "date": "2019-12-08T23:29:09Z",
+        "duration": 2540
     },
     {
         "service": "rds",
         "videoId": "hyK1JwbNd58",
+        "tags": [
+            "programming",
+            "aws",
+            "reinvent",
+            "ai",
+            "ml",
+            "developer",
+            "cloud computing",
+            "software",
+            "Aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "reinvent 2019",
+            "aws launchpad"
+        ],
         "title": "AWS re:Invent 2019 Launchpad | Amazon RDS Proxy",
-        "date": "2020/03/17"
+        "description": "Subscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #reInvent2019 #AWSLaunchpad",
+        "date": "2020-03-17T20:04:01Z",
+        "duration": 1161
     },
     {
         "service": "rds",
         "videoId": "NZBk7X5uWX0",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT381",
+            "Databases",
+            "Verizon Wireless"
+        ],
         "title": "AWS re:Invent 2019: How Verizon moves critical databases to Amazon RDS with zero downtime (DAT381)",
-        "date": "2019/12/05"
+        "description": "Learn how Verizon is moving mission-critical databases from on premises to Amazon RDS. Verizon’s workloads, including VZW.com, demand high availability, data consistency, and low latency at all times to service millions of customers every day. In this session, Verizon engineers share how they achieved a zero-downtime migration to AWS by setting up a multi-region active-active architecture and ensuring data synchronization across on-premises and cloud environments during the transition phase. They dive deep into the specific features and tools used and share the challenges and lessons learned during the migration process.",
+        "date": "2019-12-05T17:32:29Z",
+        "duration": 3306
     },
     {
         "service": "rds",
         "videoId": "co_RYSJNEhs",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT365-R1",
+            "Databases",
+            "Amazon RDS"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Deep dive on new features in Amazon RDS for Oracle (DAT365-R1)",
-        "date": "2020/01/02"
+        "description": "Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale Oracle databases in the cloud. This session dives deep into the new features and best practices that make your Amazon RDS for Oracle database deployments highly available, scalable, and secure.",
+        "date": "2020-01-02T22:09:32Z",
+        "duration": 3245
     },
     {
         "service": "rds",
         "videoId": "R4Vj88iqu5s",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT364-R1",
+            "Databases",
+            "Amazon RDS"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Deep dive on new features in Amazon RDS for SQL Server (DAT364-R1)",
-        "date": "2019/12/08"
+        "description": "Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale SQL Server databases in the cloud. This session dives deep into the new features and best practices that make your Amazon RDS for SQL Server database deployments highly available, scalable, and secure.",
+        "date": "2019-12-08T23:29:11Z",
+        "duration": 3549
     },
     {
         "service": "rds",
         "videoId": "DAjtF8PP5yo",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT203",
+            "Databases",
+            "Amazon RDS"
+        ],
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Managing databases on-premises w/ Amazon RDS (DAT203)",
-        "date": "2019/12/10"
+        "description": "Learn how you can use Amazon RDS to create and manage databases running on-premises on AWS Outposts or VMware vSphere environments. AWS Outposts bring native AWS services, infrastructure, and operating models to virtually any data center, co-location space, or on-premises facility. We cover how you can use the same RDS capabilities that you use today on the cloud to easily set up, operate, scale, and manage databases running on AWS Outposts and VMware vSphere environments in your data centers. Amazon RDS automates time-consuming administrative tasks such as database setup, patching, backups, and restore in your on-premises environments. See how Amazon RDS makes it seamless to create, monitor, and manage databases running across your data centers and the cloud.",
+        "date": "2019-12-10T18:15:25Z",
+        "duration": 2001
     },
     {
         "service": "rds",
         "videoId": "aFWJDCLjhQA",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT221-S",
+            "Cohesity"
+        ],
         "title": "AWS re:Invent 2019: From RDS to SAP, protect your cloud databases the right way (DAT221-S)",
-        "date": "2019/12/03"
+        "description": "Most business-critical applications rely on databases. Whether you have a new serverless cloud application, a database that is using Amazon RDS, or a high-transaction application using SAP HANA over hybrid cloud architecture, these databases need to be backed up, protected, and quickly recovered. Legacy backup solutions that were built for on-premises environments don’t quite cut it for today’s cloud workloads, while cloud snapshots can quickly become a burden to manage. Learn how to automate the backup of your cloud databases and provide fast and reliable recovery options when needed using Cohesity’s modern data management software. This presentation is brought to you by Cohesity, an APN Partner.",
+        "date": "2019-12-03T18:15:22Z",
+        "duration": 2668
     },
     {
         "service": "rds",
@@ -194,13 +609,35 @@
     {
         "service": "rds",
         "videoId": "vPF9l9OmiXE",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT359",
+            "Databases"
+        ],
         "title": "AWS re:Invent 2019: How Amazon.com migrated its applications from Oracle to AWS databases (DAT359)",
-        "date": "2019/12/05"
+        "description": "Amazon.com recently completed its enterprise database migration to AWS. In this session, Amazon.com leaders relay how they achieved database freedom with AWS. They discuss the enterprise program they built, and they share the lessons they learned and the benefits they realized. They also share how they reduced third-party and scaling risks to deliver peak retail events, such as Amazon Prime Day, Amazon Black Friday, and Cyber Monday.",
+        "date": "2019-12-05T17:33:50Z",
+        "duration": 2884
     },
     {
         "service": "rds",
         "videoId": "3bKMNJctnVk",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "WIN313-R1",
+            "Windows & .Net",
+            "Liberty Mutual Inc.",
+            "Liberty Mutual Insurance",
+            "Amazon Aurora",
+            "Amazon RDS"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Design, migrate, and optimize SQL Server on AWS (WIN313-R1)",
-        "date": "2019/12/09"
+        "description": "In this session, we dive deep into best practices and considerations for running Microsoft SQL Server on AWS. Learn how to choose between Amazon Elastic Compute Cloud (Amazon EC2) and Amazon Relational Database Service (Amazon RDS), and understand how to optimize the performance of your SQL Server deployment for different application types. We review in detail how to provision and monitor your SQL Server databases and how to manage scalability, performance, availability, security, and backup and recovery in both Amazon RDS and Amazon EC2.",
+        "date": "2019-12-09T18:42:50Z",
+        "duration": 2938
     }
 ]

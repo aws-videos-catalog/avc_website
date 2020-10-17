@@ -2,91 +2,294 @@
     {
         "service": "guardduty",
         "videoId": "ocZjGirQT9A",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "guardduty",
+            "threat detection",
+            "intrusion detection",
+            "continuous monitoring",
+            "network security",
+            "account protection"
+        ],
         "title": "Introduction to Amazon GuardDuty",
-        "date": "2017/11/29"
+        "description": "Amazon GuardDuty is an intelligent threat detection service that provides continuous monitoring of your AWS accounts and workloads to protect against malicious or unauthorized activities. Learn more at - http://amzn.to/2jodo0E.",
+        "date": "2017-11-29T23:58:29Z",
+        "duration": 147
     },
     {
         "service": "guardduty",
         "videoId": "czsuZXQvD8E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Inforce",
+            "AWS re:Inforce 2019",
+            "security",
+            "identity",
+            "compliance",
+            "cloud security",
+            "AWS security",
+            "cloud security community",
+            "learning conference",
+            "Detective Controls",
+            "Infrastructure Security",
+            "Data Protection",
+            "Incident Response",
+            "Governance",
+            "Risk",
+            "Compliance",
+            "security best practices",
+            "The Foundation",
+            "AWS re:Inforce 2019 Sessions",
+            "Session",
+            "FND216",
+            "Ryan Holland",
+            "200 - Intermediate"
+        ],
         "title": "AWS re:Inforce 2019: Threat Detection on AWS: An Introduction to Amazon GuardDuty (FND216)",
-        "date": "2019/06/26"
+        "description": "Amazon GuardDuty is a threat detection system that is reimagined and purpose-built for the cloud. Once enabled, GuardDuty immediately starts analyzing continuous streams of account and network activity in near real-time and at scale. You do not have to deploy or manage any additional security software, sensors, or network appliances. Threat intelligence is pre-integrated into the service and is continuously updated and maintained. This session introduces you to GuardDuty, walks you through the detection of an event, and discusses the various ways you can react and remediate.",
+        "date": "2019-06-26T12:38:51Z",
+        "duration": 2189
     },
     {
         "service": "guardduty",
         "videoId": "Imjbh0WPSR4",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Security",
+            "Compliance",
+            "Identity",
+            "SID218",
+            "AI",
+            "AWS Management Console"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Introduction to Amazon GuardDuty (SID218)",
-        "date": "2017/11/30"
+        "description": "Amazon GuardDuty is a managed threat detection service that continuously monitors for malicious or unauthorized behavior to help you protect your AWS accounts and workloads. It monitors for activity such as unusual API calls or potentially unauthorized deployments that indicate a possible account compromise. Enabled with a few clicks in the AWS Management Console, Amazon GuardDuty can immediately begin analyzing billions of events across your AWS accounts for signs of risk. It does not require you to deploy and maintain software or security infrastructure, meaning it can be enabled quickly with no risk of negatively impacting existing application workloads.",
+        "date": "2017-11-30T17:27:37Z",
+        "duration": 3043
     },
     {
         "service": "guardduty",
         "videoId": "3woHf3G3Uoo",
+        "tags": [
+            "re:Invent 2017",
+            "Amazon GuardDuty",
+            "cloud",
+            "cloud computing",
+            "AWS",
+            "Amazon Web Services",
+            "Peter DeSantis",
+            "Tuesday Night Live"
+        ],
         "title": "AWS re:Invent 2017 - Introducing Amazon GuardDuty",
-        "date": "2017/11/29"
+        "description": "Watch Stephen Schmidt, AWS VP and CISO, introduce Amazon GuardDuty, a fully managed intelligent threat detection service that helps customers protect their AWS accounts and workloads. Learn more about Amazon GuardDuty at - http://amzn.to/2hvt9Ce.",
+        "date": "2017-11-30T00:34:14Z",
+        "duration": 132
     },
     {
         "service": "guardduty",
         "videoId": "ozEML585apQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Threat detection",
+            "windows",
+            "microsoft",
+            "Guard Duty"
+        ],
         "title": "Threat Detection for Windows Workloads using Amazon GuardDuty",
-        "date": "2019/10/04"
+        "description": "Learn more about AWS at – https://amzn.to/31ObYkT\nAmazon GuardDuty is a threat detection service that continuously monitors for malicious activity and unauthorized behavior to protect your AWS accounts and workloads. With the cloud, the collection and aggregation of account and network activities is simplified, but it can be time consuming for security teams to continuously analyze event log data for potential threats. With GuardDuty, you now have an intelligent and cost-effective option for continuous threat detection in the AWS Cloud.",
+        "date": "2019-10-04T18:11:23Z",
+        "duration": 313
     },
     {
         "service": "guardduty",
         "videoId": "VwGXXn0RhCM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference 2018"
+        ],
         "title": "Using ML for Security at Scale with Amazon GuardDuty and Amazon Macie",
-        "date": "2018/04/12"
+        "description": "Learn more at - https://amzn.to/2JBIJJD\nMachine Learning has number of practical applications within the field of Information Security. Amazon uses Machine Learning to detect anomalies in AWS account and workload activity with Amazon GuardDuty. Amazon Macie also uses Machine Learning to automatically discover and classify sensitive data. Both of these services are recently released and provide new mechanisms and a new paradigm for customers to protect themselves in the AWS cloud. This talk will cover both services and provide examples of the output of the Machine Learning they use to help customers stay secure at scale on AWS. \n\nSpeaker: \n- Phil Rodrigues, Principal Security Solutions Architect , Amazon Web Services, ANZ",
+        "date": "2018-04-12T19:00:20Z",
+        "duration": 1668
     },
     {
         "service": "guardduty",
         "videoId": "o5TM9P8U6EY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "serverless",
+            "security",
+            "Bowtie",
+            "automation",
+            "Amazon VPC",
+            "Amazon Route 53",
+            "AWS CloudTrail",
+            "Amazon CloudWatch",
+            "Amazon ElasticSearch",
+            "AWS Lambda",
+            "Amazon GuardDuty",
+            "This is My Architecture",
+            "TMA"
+        ],
         "title": "Bowtie: Utilizing Amazon GuardDuty to Automate Security and Improve Visibility. (Cantonese)",
-        "date": "2020/01/13"
+        "description": "In this episode of This Is My Architecture, Bowtie dives into how they automated their security operations. They use Amazon GuardDuty to intelligently monitor the logs of multiple components like Amazon VPC, Amazon Route 53, and AWS CloudTrail. Then, automatically notify their cloud team when anomalies are detected.\n\n在這次“This Is My Architecture”，Bowtie講解他們如何透過自動化安全操作，使用Amazon GuardDuty智能監控Amazon VPC，Amazon Route 53和AWS CloudTrail的日誌，在檢測到異常時自動通知其團隊。\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-01-13T13:38:29Z",
+        "duration": 366
     },
     {
         "service": "guardduty",
         "videoId": "DygpSx1e3Dg",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "GPS-Technical",
+            "Global Partner Summit",
+            "GPSTEC304",
+            "Amazon GuardDuty"
+        ],
         "title": "AWS re:Invent 2018: Supercharge GuardDuty w/ Partners: Threat & Response at Scale GPSTEC304",
-        "date": "2018/11/28"
+        "description": "Amazon GuardDuty has the ability to detect threats. However, threat detection is only the first step. In this session, we combine the high fidelity findings of GuardDuty with partner products, and we demonstrate how to quickly respond, remediate, and prevent security incidents in order to supercharge and centralize your cloud security operations center (SOC). Complete Title: AWS re:Invent 2018: Supercharge GuardDuty with Partners: Threat Detection & Response at Scale (GPSTEC304)",
+        "date": "2018-11-28T18:44:12Z",
+        "duration": 3123
     },
     {
         "service": "guardduty",
         "videoId": "T_oYzrdCuAc",
+        "tags": [
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Conference Event",
+            "DEM118"
+        ],
         "title": "AWS re:Invent 2018: Threat Detection with Tableau and Amazon GuardDuty (DEM118)",
-        "date": "2018/12/13"
+        "description": "Security remains a top priority as organizations shift their analytics practices from IT-driven report factories to self-service, governed analytics platforms. In this session, we’ll review how Tableau can be leveraged to monitor for malicious or unauthorized activity in your AWS accounts and workloads. This presentation is brought to you by AWS partner, Tableau.",
+        "date": "2018-12-13T16:44:37Z",
+        "duration": 877
     },
     {
         "service": "guardduty",
         "videoId": "T91u6VNUHUc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - Amazon GuardDuty",
-        "date": "2017/12/08"
+        "description": "Amazon GuardDuty is a threat detection service that gives you a more accurate and easy way to continuously monitor and protect your AWS accounts and workloads. Learn more at - http://amzn.to/2iTpQW8. With a few clicks in the AWS Management Console, GuardDuty begins analyzing AWS data across all your AWS accounts integrated with threat intelligence feeds, anomaly detection, and machine learning for more actionable threat detection in an easy to use, pay as you go cloud security service. \n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:36:42Z",
+        "duration": 928
     },
     {
         "service": "guardduty",
         "videoId": "Bd4pTqAuvBQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon GuardDuty",
+            "Threat detection in AWS",
+            "AWS Security",
+            "Security in Cloud"
+        ],
         "title": "Detecting and Remediating Threats to Your AWS Accounts and Workloads with Amazon GuardDuty",
-        "date": "2018/09/26"
+        "description": "Check out all the AWS India On-demand webinars at - https://amzn.to/2PYdXNp.\nLearn to use Amazon GuardDuty, a threat detection service that continuously monitors for malicious or unauthorized behavior to help you protect your AWS accounts and workloads. It monitors for activity such as unusual API calls or potentially unauthorized deployments that indicate a possible account compromise. Amazon GuardDuty also detects potentially compromised instances or reconnaissance by attackers.\n\nSpeakers:\n- Vijay Menon, Solutions Architect, Amazon India\n- Ranjan Kathuria, Security Engineer, NestAway",
+        "date": "2018-09-26T22:16:48Z",
+        "duration": 3197
     },
     {
         "service": "guardduty",
         "videoId": "nRs-Z41zTos",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "GuardDuty"
+        ],
         "title": "How do I identify SSH Brute force attacks on Linux hosts with GuardDuty?",
-        "date": "2018/09/11"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2x4CJnV\nIoannis, an AWS Cloud Support Engineer, shows you how to identify SSH Brute force attacks on Linux hosts with GuardDuty.",
+        "date": "2018-09-11T14:22:52Z",
+        "duration": 322
     },
     {
         "service": "guardduty",
         "videoId": "efxZXwQxIGk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Introduction to Threat Detection and Remediation on AWS",
-        "date": "2018/12/20"
+        "description": "In this talk, we introduced several methods of threat detection and remediation on AWS, including GuardDuty, Macie, WAF, Shield, Lambda, AWS Config, Systems Manager and Inspector. We did a brief overview of each of these services, and then talked about how to put them all together to have a comprehensive thread detection and remediation solution. We discussed how to use these services across multiple AWS accounts and regions, to cover the governance needs of enterprise AWS deployments.\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2018-12-21T01:23:23Z",
+        "duration": 3282
     },
     {
         "service": "guardduty",
         "videoId": "vhYsm5gq9jE",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "SEC206-R1",
+            "Security",
+            "Compliance",
+            "and Identity",
+            "AWS Security Hub",
+            "Amazon GuardDuty"
+        ],
         "title": "AWS re:Invent 2019: Threat management in the cloud: Amazon GuardDuty & AWS Security Hub (SEC206-R1)",
-        "date": "2019/12/06"
+        "description": "Amazon GuardDuty and AWS Security Hub in tandem provide continuous visibility, compliance, and detection of threats for AWS accounts and workloads. Amazon GuardDuty enables customers to achieve continuous security monitoring to detect threats in the cloud. AWS Security Hub enables customers to continuously monitor their environment using automated compliance checks based on AWS best practices and industry standards. In this session, we introduce you to Amazon GuardDuty and AWS Security Hub and walk you through the detection of an event; aggregation; prioritization of security findings; and the identification of possible remediation actions and other responses.",
+        "date": "2019-12-07T05:53:34Z",
+        "duration": 2860
     },
     {
         "service": "guardduty",
         "videoId": "kNtiskRtfeY",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "SEC339",
+            "Security",
+            "Compliance",
+            "and Identity",
+            "WarnerMedia"
+        ],
         "title": "AWS re:Invent 2019: Actionable threat hunting in AWS (SEC339)",
-        "date": "2019/12/09"
+        "description": "Learn how WarnerMedia leveraged Amazon GuardDuty, AWS CloudTrail, and its own serverless inventory tool (Antiope) to root out cloud vulnerabilities, insecure behavior, and potential account compromise activities across a large number of accounts. We cover how WarnerMedia centralizes and automates its security tooling, offer detailed Splunk queries for GuardDuty and CloudTrail, and discuss how Antiope is used for vulnerability hunting. We cover the scaling issues incurred during a large enterprise merger. Leave this session with a strategy and an actionable set of detections for finding potential data breaches and account compromises.",
+        "date": "2019-12-09T18:45:13Z",
+        "duration": 2099
     }
 ]

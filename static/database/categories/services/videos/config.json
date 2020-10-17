@@ -2,109 +2,356 @@
     {
         "service": "config",
         "videoId": "X_fznJtSyV8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Config",
+            "Systems Manager",
+            "Compliance",
+            "Config Rules"
+        ],
         "title": "Enforce Compliance with AWS Config",
-        "date": "2019/07/05"
+        "description": "Learn more about AWS Management and Governance at – https://amzn.to/2YweRp0 \nIn this video we show you how to create rules in AWS Config, evaluate AWS resources and enforce compliance.",
+        "date": "2019-07-05T17:44:54Z",
+        "duration": 472
     },
     {
         "service": "config",
         "videoId": "kErRv4YB_T4",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Enterprise & Hybrid",
+            "ENT332-R1",
+            "AWS Config"
+        ],
         "title": "AWS re:Invent 2018: Centrally Monitoring Resource Configuration & Compliance (ENT332-R1)",
-        "date": "2018/11/29"
+        "description": "Do you want to have a strong understanding of governance across all of your AWS accounts? Are you struggling to get centralized visibility across your entire organization? Join us in this session as we explore AWS Config, a service that enables centralized governance and resource monitoring. Learn best practices for enabling governance policies through a central account across multiple accounts in your organization, and monitor their compliance status using the multi-account, multi-region data aggregation capability. Also learn about recent launches and how customers are using AWS Config in their enterprises today. Complete Title: AWS re:Invent 2018: [REPEAT 1] Best Practices for Centrally Monitoring Resource Configuration & Compliance (ENT332-R1)",
+        "date": "2018-11-29T18:35:42Z",
+        "duration": 3233
     },
     {
         "service": "config",
         "videoId": "fBewaclMo2s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Easily Transform Compliance to Code Using AWS Config, Config Rules, and the Rules Development Kit",
-        "date": "2018/11/25"
+        "description": "Learn more at - https://amzn.to/2r6y7dM.\nWhat to expect:\n-Learn AWS Config and Config Rules Concepts\n-Understand best practice and concepts on behaviour driven development for config rules\n-Learn to develop lambda functions for config rules in python using the Rules Development Kit (RDK)\n-Discover how to securely set up your environment for deployments\n\nThis workshop is a Level 200 session and is best suited for:\n-Developers\n-DevOps\n-Security Architects\n-Engineers\n-Security Operations\n-Technical Managers",
+        "date": "2018-11-26T04:08:36Z",
+        "duration": 2616
     },
     {
         "service": "config",
         "videoId": "PD9S5xGC16g",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Confog",
+            "AWS Cloudwatch",
+            "AWS Lambda",
+            "Events"
+        ],
         "title": "Remediate Non-Compliance Using AWS Config Rules, AWS CloudWatch Events, & AWS Lambda Functions",
-        "date": "2019/10/04"
+        "description": "Learn more about AWS at – https://amzn.to/2oMnoHn\nAWS Config allows you to remediate noncompliant resources that are evaluated by AWS Config Rules. AWS Config applies remediation using AWS Systems Manager Automation documents. These documents define the actions to be performed on noncompliant AWS resources evaluated by AWS Config Rules.",
+        "date": "2019-10-04T17:47:58Z",
+        "duration": 452
     },
     {
         "service": "config",
         "videoId": "MJDuAvNEv64",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Config"
+        ],
         "title": "AWS Config: Assess, Audit, and Evaluate You AWS Resources",
-        "date": "2019/11/18"
+        "description": "Learn more about AWS Config at https://amzn.to/37idxLf\nAWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources.",
+        "date": "2019-11-19T00:11:15Z",
+        "duration": 95
     },
     {
         "service": "config",
         "videoId": "CyyNlyAHs0A",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "SSM",
+            "Config",
+            "Rules",
+            "Systems Manager"
+        ],
         "title": "Remediate Non-Compliance Using AWS Config Rules and a Custom SSM Document",
-        "date": "2019/10/04"
+        "description": "Learn more about AWS at – https://amzn.to/2McIkPL\nAWS Config allows you to remediate noncompliant resources that are evaluated by AWS Config Rules. AWS Config applies remediation using AWS Systems Manager Automation documents. These documents define the actions to be performed on noncompliant AWS resources evaluated by AWS Config Rules.",
+        "date": "2019-10-04T17:48:02Z",
+        "duration": 537
     },
     {
         "service": "config",
         "videoId": "5m8ljOghcWM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "Live Coding",
+            "AWS Config",
+            "AWS Summit"
+        ],
         "title": "Multi-account, Multi-region Data Aggregation in AWS Config - Feature Release",
-        "date": "2018/04/10"
+        "description": "Learn more about Multi-Account Multi-Region Data Aggregation at - https://amzn.to/2EEP6b8.\nMulti-account, multi-region data aggregation is a new capability in AWS Config that gives customers a cross-account, cross-region view of their Config rule compliance status. This capability enables centralized auditing and governance.  Customers can also associate their AWS organization with this feature and get organization-wide visibility into their compliance.",
+        "date": "2018-04-10T17:04:40Z",
+        "duration": 787
     },
     {
         "service": "config",
         "videoId": "7Iao8SR9Czg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Desired configuration",
+            "compliance",
+            "configuration compliance",
+            "compliance trends",
+            "compliance over time",
+            "configuration drift",
+            "auto remediation",
+            "compliance drift",
+            "compliance remediation"
+        ],
         "title": "Simplify Custom Rule Creation Using the AWS Config Rule Development Kit",
-        "date": "2020/07/15"
+        "description": "In this video, you’ll see how to simplify custom rule creation using the AWS Config Rule Development Kit (RDK). With this tool, you can rapidly develop and deploy custom rules for AWS Config, automate deployment tasks, and shorten compliance feedback cycles.\n\nLearn more about AWS Management & Governance at - https://amzn.to/3ecigjJ\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-07-15T16:46:35Z",
+        "duration": 546
     },
     {
         "service": "config",
         "videoId": "YCUNNQuGZfg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Config",
+            "Config Rules",
+            "Comformance Packs",
+            "C-Packs",
+            "Compliance",
+            "Configuration Compliance",
+            "Desired Configuration",
+            "Multi Account Compliance"
+        ],
         "title": "Manage Configuration Compliance at Scale Using AWS Config Conformance Packs",
-        "date": "2020/07/15"
+        "description": "In this video, you’ll see how to manage configuration compliance at scale using AWS Config conformance packs. With this feature, you can use templates to define compliance rules for your AWS resources, deploy rules as a single unit across an account or organization, and monitor noncompliance with the rules defined in the pack.\n\nLearn more about AWS Management & Governance at - https://amzn.to/2VZzfzA\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-07-15T16:46:35Z",
+        "duration": 342
     },
     {
         "service": "config",
         "videoId": "QbA0859qNI8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Public Sector Summit Singapore 2017"
+        ],
         "title": "Achieving Continuous Compliance using AWS Config",
-        "date": "2017/10/18"
+        "description": "Learn more about AWS at - http://amzn.to/2x2iu8k\n\n---AWS Public Sector Summit Singapore 2017---\nAWS customers benefit from more than 1,800 security and compliance controls. Learn how these features offer visibility, agility, and control, raising the bar on cloud security over legacy environments. AWS Config can help you achieve compliance in real-time. You will have the opportunity to see how AWS Config empowers users to achieve continuous compliance through its AWS Config rules, and when used alongside AWS Lambda.\n\n- Technical Track\n- Speaker: Ankush Chowdhary, World Wide Public Sector, Head, Security Risk Compliance, Amazon Web Services",
+        "date": "2017-10-18T16:36:44Z",
+        "duration": 1131
     },
     {
         "service": "config",
         "videoId": "w-vQmbkuIig",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "How to create managed AWS Config rules in AWS GovCloud (US)",
-        "date": "2020/01/08"
+        "description": "Learn how you can create managed AWS Config rules in AWS GovCloud (US). While AWS Config continuously tracks the configuration changes that occur among your resources, it checks whether these changes violate any of the conditions in your rules. If a resource violates a rule, AWS Config flags the resource and the rule as noncompliant.\n \nSource code to enable this functionality is available on GitHub: https://github.com/aws-samples/aws-govcloud-continuous-monitoring/tree/master/managed-config-rules\nLearn more about AWS GovCloud (US): https://aws.amazon.com/govcloud-us/",
+        "date": "2020-01-08T17:42:51Z",
+        "duration": 182
     },
     {
         "service": "config",
         "videoId": "WDuUyxdxez8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Config",
+            "AWS Config Rules",
+            "AWS Config Conformance Packs",
+            "compliance",
+            "compliance evaluation",
+            "multi-account compliance",
+            "Config",
+            "Rule",
+            "Desired Configuration",
+            "Best Practice Evaluation"
+        ],
         "title": "Deploy AWS Config Conformance Packs Using a Delegated Admin Account",
-        "date": "2020/07/30"
+        "description": "In this video, you’ll see how to deploy AWS Config conformance packs using a delegated admin account. With this feature, you can register a delegated admin account, deploy Config resources from that account, and then manage those resources for your organization. \n\nLearn more about AWS Config Conformance Packs at https://amzn.to/3jRMIUt\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n \n\n#AWS #AWSDemo",
+        "date": "2020-07-30T21:07:29Z",
+        "duration": 281
     },
     {
         "service": "config",
         "videoId": "n_nn6cpytWg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Multi-account",
+            "multi-region",
+            "data aggregation",
+            "reporting",
+            "compliance",
+            "audit discovery",
+            "enterprise wide compliance monitoring",
+            "compliance analysis"
+        ],
         "title": "Query Resource Configuration Properties Using AWS Config Advanced Query",
-        "date": "2020/07/15"
+        "description": "In this video, you’ll see how to query resource configuration properties using AWS Config advanced query. With this feature, you can perform ad hoc queries against the current configuration state of your resources, retrieve resource metadata across multiple services from a single interface, and run the same query across multiple accounts and regions.\n\nLearn more about AWS Management & Governance at - https://amzn.to/31XvQVL\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-07-15T16:46:35Z",
+        "duration": 285
     },
     {
         "service": "config",
         "videoId": "XwPVKsvrFXc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Compliance",
+            "Configuration compliance",
+            "AWS Config",
+            "Config",
+            "Audit",
+            "Risk Management"
+        ],
         "title": "Evaluate Third-Party Resources with AWS Config",
-        "date": "2020/05/06"
+        "description": "In this video, you’ll see how to evaluate third-party resources with AWS Config. With AWS Config, you can create rules to audit configurations of third-party resources to verify compliance with your organization’s policies and guidelines.\n\nLearn more about AWS Management & Governance at - https://go.aws/35CTHK2\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-05-06T19:59:31Z",
+        "duration": 381
     },
     {
         "service": "config",
         "videoId": "__HjFhXse-E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws re:Invent 2014",
+            "reinvent",
+            "inventory",
+            "resources",
+            "configuration",
+            "config",
+            "security analysis",
+            "resource change tracking",
+            "compliance auditing",
+            "troubleshooting",
+            "discovery",
+            "history",
+            "timeline"
+        ],
         "title": "AWS re:Invent 2014 | Announcing AWS Config",
-        "date": "2014/11/12"
+        "description": "Learn more: https://aws.amazon.com/config/\nAWS Config is a fully managed service that provides you with an inventory of your AWS resources, lets you audit resource configuration history, and notifies you of when the resource configuration of your resources changes. AWS Config continuously records changes to configuration attributes of your AWS resources, such as the value of tags on Amazon EC2 instances, ingress/egress rules of security groups, and Network ACL rules for Amazon VPCs. With AWS Config you can discover existing AWS resources, export a complete inventory of your AWS resources with all configuration details, and determine how a resource was configured at any point in time. These capabilities enable security analysis, resource change tracking, compliance auditing, and troubleshooting.",
+        "date": "2014-11-13T01:01:26Z",
+        "duration": 119
     },
     {
         "service": "config",
         "videoId": "sGUQFEZWkho",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Security & Compliance",
+            "SEC314-R",
+            "Prashant Prahlad - Amazon Web Services",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (SEC314-R) New! AWS Config Rules: Improve Governance Over Configuration Changes",
-        "date": "2015/10/19"
+        "description": "AWS Config enables you to discover what resources are used on AWS, understand how resources are configured and gives you unprecedented visibility into changes to configurations over time – all without disrupting end user productivity. With Config Rules, you can continuously evaluate whether changes to resources are compliant with policies. You can set up predefined rules, provided and managed by AWS, or author your own rules using Amazon Lambda, and these rules are evaluated whenever relevant resources are modified. You can use this visibility and control to assess and improve your security and compliance posture.\n \n We will dive deep into other new capabilities in AWS Config and cover how you can integrate with IT service management, configuration management, and other tools. In this session, we will look at:\n \n \n AWS Config Rules – how to create and use rules that govern configuration changes recorded by AWS Config.\n New capabilities in AWS Config – Usability changes, better controls and other enhancements\n Mechanisms to aggregate deep visibility across AWS to gain insights into your overall security and operational posture.\n \n \n This session is best suited for administrators, security-ops and developers with a focus on audit, security and compliance.",
+        "date": "2015-10-19T22:02:46Z",
+        "duration": 3444
     },
     {
         "service": "config",
         "videoId": "6HBLaaACbeQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit San Francisco 2018",
+            "AWS Config",
+            "Werner Vogels"
+        ],
         "title": "AWS Summit San Francisco 2018 - Announcing AWS Config",
-        "date": "2018/04/09"
+        "description": "Announcing multi-account, multi-region data aggregation in AWS Config. This feature gives customers a cross-account, cross-region view of their Config rule compliance status, enabling centralized auditing and governance. Learn more at - https://amzn.to/2IyBa4X.",
+        "date": "2018-04-09T19:46:26Z",
+        "duration": 30
     },
     {
         "service": "config",
         "videoId": "u8u9DXwNoIs",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "MGT303-R1",
+            "Management Tools & Governance",
+            "Jefferies Group",
+            "AWS CloudFormation",
+            "AWS Systems Manager",
+            "AWS Config"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] How to ensure configuration compliance (MGT303-R1)",
-        "date": "2019/12/08"
+        "description": "In this session, we dig into how to govern and monitor your expanding AWS services and accounts using AWS management and governance features and services such as AWS Config rules, AWS CloudFormation drift detection, and AWS Systems Manager State Manager. We also describe how these features and services help you maintain compliance within your AWS stack at scale.",
+        "date": "2019-12-08T23:34:10Z",
+        "duration": 3473
     }
 ]

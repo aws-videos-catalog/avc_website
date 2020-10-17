@@ -2,13 +2,43 @@
     {
         "service": "elastic_container_registry",
         "videoId": "Gk_7TR1QAss",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Containers Mini Con",
+            "CON401",
+            "Scott Windsor",
+            "Expert (400 level)"
+        ],
         "title": "AWS re:Invent 2016: Amazon ECR Deep Dive on Image Optimization (CON401)",
-        "date": "2016/12/09"
+        "description": "“Are you struggling with bulky images or slow push and pull times?  In this session we will walk through the anatomy of a Docker image and provide techniques you can use to optimize images for faster pushes and pulls and reduce your overall storage footprint. We will discuss Docker image building (build containers versus runtime containers to remove unnecessary software), Docker image composition (minimizing the number of layers), the Docker Remote API (optimizing how images are pushed and pulled), and CI/CD Integration (automate building, versioning, and deploying images to production). We’ll also examine the tools that ECR provides to make Docker image management easier so that you can focus on building your application.  Finally, we'll hear from Pinterest about how they use ECR and Docker, some valuable experiences gained along the way, and best practices for using ECR with Apache Mesos.”",
+        "date": "2016-12-10T00:03:56Z",
+        "duration": 3593
     },
     {
         "service": "elastic_container_registry",
         "videoId": "Jh9N9utfY7Y",
+        "tags": [
+            "AWS",
+            "Events",
+            "ecr",
+            "container images",
+            "security"
+        ],
         "title": "AWS Cloud Containers Conference - Security Best Practices with Amazon ECR",
-        "date": "2020/08/07"
+        "description": "In this video, we cover a few best practices on securing your container images on Amazon ECR.\n\nLearn more about AWS ECR at - https://amzn.to/33t37Je\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSWebinar",
+        "date": "2020-08-07T23:46:23Z",
+        "duration": 1652
     }
 ]

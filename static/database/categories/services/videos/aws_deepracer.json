@@ -2,79 +2,252 @@
     {
         "service": "aws_deepracer",
         "videoId": "-N7hXlv2JNA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "machine learning",
+            "reinforcement learning",
+            "autonomous car",
+            "AWS DeepRacer League",
+            "AWS DeepRacer."
+        ],
         "title": "What is AWS DeepRacer?",
-        "date": "2020/04/29"
+        "description": "AWS DeepRacer TV Host Blaine Sundrud explains the fundamentals of the AWS DeepRacer, and how it utilizes reinforcement learning to autonomously drive itself around the track.\n\nAWS DeepRacer is the fastest way to get rolling with reinforcement learning, start your machine learning journey today in a free 90 minute course at: https://amzn.to/2UBI4PS\n\nLearn more about AWS DeepRacer League at https://go.aws/2Snbpfs\n\n✅ Start racing now!: https://amzn.to/2UC0Wy4\n✅ Watch all DeepRacer TV: https://amzn.to/3aDwjhs\n✅ Current Leaderboard: https://amzn.to/39FRKwZ\n✅ RL E-Learning Course: https://amzn.to/2UBI4PS\n✅ AWS Training: https://amzn.to/3bEDIgy\n✅ Getting Started Guide: https://amzn.to/2wWksw8\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDeepRacer",
+        "date": "2020-04-29T18:53:40Z",
+        "duration": 109
     },
     {
         "service": "aws_deepracer",
         "videoId": "9me296xhHYw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "deepracer",
+            "deepracer tv",
+            "deepracer league",
+            "autonomous racing",
+            "deepracer world record"
+        ],
         "title": "AWS DeepRacer TV - Inside the DeepRacer",
-        "date": "2020/02/07"
+        "description": "Learn more about AWS DeepRacer League at https://go.aws/39eJMLs\n#AWSDeepRacer TV follows the world’s first global autonomous racing league, a machine learning competition that features developers of every background and skill level hoping to qualify for a chance to win the Championship Cup at AWS re:Invent 2020. Developers, start your engines!\n\n✅ Watch all DeepRacer TV: https://amzn.to/3aDwjhs \n✅ Subscribe to AWS Channel: https://amzn.to/2V0bENM \n✅ DeepRacer Instagram: https://amzn.to/2w7V3iH \n✅ AWS Twitter: http://amzn.to/2sK4jr0 \n✅ AWS LinkedIn: https://amzn.to/2R3d0WW \n✅ AWS Instagram: https://amzn.to/344osqN \n✅ AWS Facebook: https://amzn.to/2wd52DC",
+        "date": "2020-02-07T18:53:09Z",
+        "duration": 278
     },
     {
         "service": "aws_deepracer",
         "videoId": "43zqI0n4D7A",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing"
+        ],
         "title": "Get hands on with AWS DeepRacer",
-        "date": "2020/02/04"
+        "description": "AWS DeepRacer gives you an interesting and fun way to get started with reinforcement learning (RL). Get started with AWS DeepRacer and RL basics.",
+        "date": "2020-02-04T14:53:58Z",
+        "duration": 1055
     },
     {
         "service": "aws_deepracer",
         "videoId": "dwUJVYEhxGM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS DeepRacer",
+            "machine learning",
+            "matt wood",
+            "reinvent 2018",
+            "re:Invent 2018",
+            "launch announcement"
+        ],
         "title": "AWS re:Invent 2018 – Announcing AWS DeepRacer (Demo)",
-        "date": "2018/11/29"
+        "description": "Watch Dr. Matt Wood, GM of Deep Learning and AI perform a demo of AWS DeepRacer. Learn more at - https://amzn.to/2TUrMPK.\n\nGet hands-on with a fully autonomous 1/18th scale race car driven by reinforcement learning, 3D racing simulator, and global racing league. AWS DeepRacer is a 1/18th scale race car which gives you an interesting and fun way to get started with reinforcement learning (RL). RL is an advanced machine learning (ML) technique which takes a very different approach to training models than other machine learning methods. Its super power is that it learns very complex behaviors without requiring any labeled training data, and can make short term decisions while optimizing for a longer term goal.\n\nWith AWS DeepRacer, you now have a way to get hands-on with RL, experiment, and learn through autonomous driving. You can get started with the virtual car and tracks in the cloud-based 3D racing simulator, and for a real-world experience, you can deploy your trained models onto AWS DeepRacer and race your friends, or take part in the global AWS DeepRacer League. Developers, the race is on.",
+        "date": "2018-11-29T17:09:35Z",
+        "duration": 263
     },
     {
         "service": "aws_deepracer",
         "videoId": "Z_L3EVTV6xQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Reinforcement Learning with AWS DeepRacer and Amazon SageMaker RL (Level 300)",
-        "date": "2019/04/03"
+        "description": "Learn more about AWS Innovate Online Conference at – https://amzn.to/2YJ2I0B \nReinforcement Learning (RL) is both an exciting area of research and a driver of new commercial applications in the broader field of Machine Learning. In 2018, AWS released several new services that make it much simpler for data science and development teams alike to start exploring and applying RL. Join this session to understand how, with some basic python knowledge, you can get started with writing a reward function that teaches a small RC car to navigate its way around a race track autonomously. For those who want to apply RL to their own use cases, we dive into the features of Amazon SageMaker RL.\n\nSpeaker: James Ousby, Senior Solutions Architect, AWS, ANZ",
+        "date": "2019-04-03T17:44:16Z",
+        "duration": 1593
     },
     {
         "service": "aws_deepracer",
         "videoId": "X-6v4RZy-TE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Introducing AWS DeepRacer",
-        "date": "2018/11/30"
+        "description": "Developers, start your engines. We are excited to introduce the preview of AWS DeepRacer, the fastest way to get rolling with machine learning, literally! Get hands-on with a fully autonomous 1/18th scale race car driven by reinforcement learning, 3D racing simulator, and global racing league. You can pre-order your AWS DeepRacer now on amazon.com. For AWS Customers wanting access to the console and 3D simulator, sign-up on an interest list to get preview access before launch in 2019 at https://aws.amazon.com/deepracer. \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:45:55Z",
+        "duration": 1103
     },
     {
         "service": "aws_deepracer",
         "videoId": "C1iJYz7oijo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reinvent 2018",
+            "re:Invent 2018",
+            "AWS DeepRacer",
+            "machine learning",
+            "ML"
+        ],
         "title": "AWS re:Invent 2018 – Announcing AWS DeepRacer",
-        "date": "2018/11/30"
+        "description": "Watch Andy Jassy, CEO of Amazon Web Services, announce AWS DeepRacer, the fastest way to get rolling with machine learning. Learn more at -  https://amzn.to/2TUrMPK.\n\nGet hands-on with a fully autonomous 1/18th scale race car driven by reinforcement learning, 3D racing simulator, and global racing league. AWS DeepRacer is a 1/18th scale race car which gives you an interesting and fun way to get started with reinforcement learning (RL). RL is an advanced machine learning (ML) technique which takes a very different approach to training models than other machine learning methods. Its super power is that it learns very complex behaviors without requiring any labeled training data, and can make short term decisions while optimizing for a longer term goal.\n\nWith AWS DeepRacer, you now have a way to get hands-on with RL, experiment, and learn through autonomous driving. You can get started with the virtual car and tracks in the cloud-based 3D racing simulator, and for a real-world experience, you can deploy your trained models onto AWS DeepRacer and race your friends, or take part in the global AWS DeepRacer League. Developers, the race is on.",
+        "date": "2018-11-30T16:24:46Z",
+        "duration": 349
     },
     {
         "service": "aws_deepracer",
         "videoId": "M1U_cyAUtU8",
-        "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing AWS DeepRacer (AIM367)",
-        "date": "2018/12/01"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Artificial Intelligence & Machine Learning",
+            "AIM367"
+        ],
+        "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing AWS DeepRacer (AIM367)",
+        "description": "Developers start your engines! This breakout session will provide an introduction to the newly launched AWS DeepRacer. Learn about the basics of reinforcement learning, what’s under the hood and your opportunities to experience AWS DeepRacer for yourself.\n\nDate and Time: Wednesday, Nov 28 7:00 PM - 8:00 PM MGM, Level 3, Premier Ballroom 316",
+        "date": "2018-12-01T22:14:16Z",
+        "duration": 3117
     },
     {
         "service": "aws_deepracer",
         "videoId": "N2mktbl8EQk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "ai-ml",
+            "analytics",
+            "devtools",
+            "gaming",
+            "education",
+            "life-sciences",
+            "financial-services",
+            "healthcare",
+            "This is My Architecture",
+            "TMA",
+            "AWS DeepRacer",
+            "Amazon SageMaker",
+            "AWS RoboMaker",
+            "Amazon Kinesis Video Streams",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon CloudWatch"
+        ],
         "title": "An Under the Hood Tune Up with AWS DeepRacer",
-        "date": "2019/12/13"
+        "description": "Reinforcement learning (RL) has traditionally had a high barrier to entry within the industry. In this episode, we explore what happens under the hood while highlighting how AWS has democratized RL through the AWS DeepRacer service. Dr. Sahika Genc takes us through the interaction of the underlying core services of Amazon SageMaker and AWS RoboMaker as well as the algorithm and neural network architecture used by the agent while building the most optimized policy network through its feedback and experiences in simulation. We also touch on addressing one of the biggest challenges within the industry referred to as the reality gap and how the open sourced Amazon SageMaker sample notebook can be modified to create a good model.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-12-13T22:25:34Z",
+        "duration": 595
     },
     {
         "service": "aws_deepracer",
         "videoId": "M712jJKDXQo",
-        "title": "AWS Deepracer: Train, Evaluate, and Tune Your Reinforcement Learning Model (Level 300)",
-        "date": "2020/09/01"
+        "tags": [
+            "Emerging Tech",
+            "AWS Summit Online EMEA"
+        ],
+        "title": "I work with Emerging Tech- AWS DeepRacer:train, Evaluate, and Tune Your Reinforcement Learning Model",
+        "description": "In this session, we introduce the basics of reinforcement learning and show you how to apply it to train your own autonomous vehicle models. You also learn how to test them in a virtual car racing scenario powered by AWS DeepRacer. Learn about the single-car time-trial format and the dual-car head-to-head racing challenges in the AWS DeepRacer 3D racing simulator. By the end of this session, you will be able to participate in the AWS DeepRacer League, where you can compete for prizes and meet other machine learning enthusiasts.\n\n\nDonnie Prakoso is a software engineer, self-proclaimed barista, café racer enthusiast, and Senior Developer Advocate at AWS. With more than 16 years of experience in the technology industry, from telecommunications, banking to startups. He is now focusing on helping the developers to understand varieties of technology to transform their ideas into execution. He loves coffee and any discussion of any topics from microservices to AI/ML.\n\n\nLearn more about AWS at - https://amzn.to/2COj1mt\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
+        "date": "2020-09-01T16:44:34Z",
+        "duration": 2217
     },
     {
         "service": "aws_deepracer",
         "videoId": "Zl3qcbpLtnY",
+        "tags": [
+            "AWS",
+            "AWS Summit Online",
+            "May 13",
+            "2020",
+            "United States",
+            "Level 300",
+            "AWS DeepRacer",
+            "interact",
+            "machine learning",
+            "technical",
+            "AWS Events"
+        ],
         "title": "AWS DeepRacer: Train, Evaluate, and Tune - Level 300 (United States)",
-        "date": "2020/07/24"
+        "description": "In this session, we introduce the basics of reinforcement learning and show you how to apply it to train your own autonomous vehicle models. You also learn how to test them in a virtual car racing scenario powered by AWS DeepRacer. Learn about the single-car time-trial format and the dual-car head-to-head racing challenges in the AWS DeepRacer 3D racing simulator. By the end of this session, you will be able to participate in the AWS DeepRacer League, where you can compete for prizes and meet other machine learning enthusiasts.\n\nLearn more about AWS at - https://amzn.to/3j4cSmt\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
+        "date": "2020-07-24T18:47:13Z",
+        "duration": 2217
     },
     {
         "service": "aws_deepracer",
         "videoId": "jRUVVwvkCUA",
+        "tags": [
+            "Prakoso",
+            "AWS",
+            "AWS Summit Online ASEAN re:Cap",
+            "Amazon Web Services",
+            "Reliability",
+            "Donnie",
+            "Cloud Computing",
+            "Scale"
+        ],
         "title": "AWS Summit Online ASEAN 2020 | AWS DeepRacer: Train, Evaluate & Tune Reinforcement Learning Models",
-        "date": "2020/08/28"
+        "description": "In this session, we introduce the basics of reinforcement learning and show you how to apply it to train your own autonomous vehicle models. You also learn how to test them in a virtual car racing scenario powered by AWS DeepRacer. Learn about the single-car time-trial format and the dual-car head-to-head racing challenges in the AWS DeepRacer 3D racing simulator. By the end of this session, you will be able to participate in the AWS DeepRacer League, where you can compete for prizes and meet other machine learning enthusiasts.\n\nAWS Speaker: Donnie Prakoso, Sr. Developer Advocate, ASEAN, AWS\n\nDownload the slides: https://go.aws/3fCCBkm\n\nLearn more about AWS at - https://amzn.to/3l0ElGT\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
+        "date": "2020-08-28T18:00:07Z",
+        "duration": 2635
     },
     {
         "service": "aws_deepracer",
         "videoId": "OravO9t_L9I",
+        "tags": [
+            "programming",
+            "aws",
+            "reinvent",
+            "ai",
+            "ml",
+            "developer",
+            "cloud computing",
+            "software",
+            "Aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "reinvent 2019",
+            "aws launchpad"
+        ],
         "title": "AWS re:Invent 2019 Launchpad | What's New with DeepRacer",
-        "date": "2020/03/17"
+        "description": "Subscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #reInvent2019 #AWSLaunchpad",
+        "date": "2020-03-17T21:57:13Z",
+        "duration": 1067
     }
 ]

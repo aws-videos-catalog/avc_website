@@ -2,31 +2,107 @@
     {
         "service": "certificate_manager",
         "videoId": "pTQrAZbHmRU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I add certificates for websites to the ELB using AWS Certificate Manager?",
-        "date": "2018/09/17"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2x5Wvi3\nRahul, an AWS Cloud Support Engineer, shows you how to add multiple certificates for multiple websites to the ELB using Amazon Certificate Manager.",
+        "date": "2018-09-17T23:50:24Z",
+        "duration": 320
     },
     {
         "service": "certificate_manager",
         "videoId": "i15RMC8ntj0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How does ACM managed renewal work with certificates that have wildcards and sub-domains?",
-        "date": "2019/05/07"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2FLv3dU\nRohan, an AWS Cloud Support Engineer,  shows you how AWS Certificate Manager (ACM) managed renewal works with certificates that have wildcards and sub-domains.",
+        "date": "2019-05-07T07:55:50Z",
+        "duration": 340
     },
     {
         "service": "certificate_manager",
         "videoId": "zXoXavMNimo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Inforce",
+            "AWS re:Inforce 2019",
+            "security",
+            "identity",
+            "compliance",
+            "cloud security",
+            "AWS security",
+            "cloud security community",
+            "learning conference",
+            "Detective Controls",
+            "Infrastructure Security",
+            "Data Protection",
+            "Incident Response",
+            "Governance",
+            "Risk",
+            "Compliance",
+            "security best practices",
+            "The Foundation",
+            "AWS re:Inforce 2019 Sessions",
+            "Session",
+            "FND320",
+            "Todd Cignetti",
+            "300 - Advanced"
+        ],
         "title": "AWS re:Inforce 2019: Root CA Hierarchies for AWS Certificate Manager (ACM) Private CA (FND320)",
-        "date": "2019/06/26"
+        "description": "AWS recently announced root certificate authority (CA) hierarchies for AWS Certificate Manager (ACM) Private CA. CA administrators can now quickly and easily create a complete CA hierarchy, including root and subordinate CAs, with no need for external CAs. In this presentation, we provide an overview of ACM Private CA and discuss some common use cases, such as issuing private certificates in order to identify devices. You learn how to create a two-level CA hierarchy and use it to issue private certificates. You also learn security best practices for creating and managing a CA hierarchy, and you have a chance to ask questions.",
+        "date": "2019-06-26T22:56:25Z",
+        "duration": 3312
     },
     {
         "service": "certificate_manager",
         "videoId": "TgQJ2Xtue1A",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit San Francisco 2018",
+            "AWS Certificate Manager Private Certificate Authority"
+        ],
         "title": "AWS Summit San Francisco 2018 - AWS Certificate Manager Private Certificate Authority",
-        "date": "2018/04/09"
+        "description": "Introducing AWS Certificate Manager Private Certificate Authority, a managed private CA service to securely manage the lifecycle of your private certificates. Learn more at - https://amzn.to/2EqbPI6",
+        "date": "2018-04-09T18:49:00Z",
+        "duration": 77
     },
     {
         "service": "certificate_manager",
         "videoId": "7BfyEJFRNFg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "Live Coding",
+            "AWS Summit",
+            "AWS Certificate Manager"
+        ],
         "title": "AWS Private Certificate Authority",
-        "date": "2018/04/10"
+        "description": "Learn more at - https://amzn.to/2EDIydb.\nAWS Certificate Manager (ACM) Private Certificate Authority (CA) is a managed private CA service that helps you easily and securely manage the lifecycle of your private certificates. ACM Private CA allows you to create and renew private certificates for your internal resources such as, on-premises servers, AWS resources, IoT and mobile devices.",
+        "date": "2018-04-10T17:14:47Z",
+        "duration": 834
     }
 ]

@@ -2,187 +2,624 @@
     {
         "service": "amazon_rekognition",
         "videoId": "v662kWVBmdc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference 2018"
+        ],
         "title": "Extract Data from Images and Videos with Amazon Rekognition (Level 300)",
-        "date": "2018/08/24"
+        "description": "Learn more about the AWS Innovate Online Conference at - https://amzn.to/2woeSym.\nIn this session, learn how to expand the capabilities of your applications with automated image and video analysis using Amazon Rekognition. Join us, and explore some common use cases, learn about the extensive feature sets that Amazon Rekognition provides, and watch Amazon Rekognition in action.\n\nSpeaker: Gabe Hollombe, Technical Evangelist, Amazon Web Services",
+        "date": "2018-08-24T19:54:18Z",
+        "duration": 1612
     },
     {
         "service": "amazon_rekognition",
         "videoId": "jFgtImmEH7w",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "AI & Machine Learning",
+            "AIM307-R1",
+            "Amazon Rekognition"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] Deep Dive on Amazon Rekognition, ft. Pinterest (AIM307-R1)",
-        "date": "2018/11/29"
+        "description": "Join us for a deep dive on the latest features of Amazon Rekognition. Learn how to easily add intelligent image and video analysis to applications in order to automate manual workflows, enhance creativity, and provide more personalized customer experiences. We share best practices for fine-tuning and optimizing Amazon Rekognition for a variety of use cases, including moderating content, creating searchable content libraries, and integrating secondary authentication into existing applications.",
+        "date": "2018-11-29T18:38:33Z",
+        "duration": 3262
     },
     {
         "service": "amazon_rekognition",
         "videoId": "D1gj_9aKRJU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "AWS Cloud",
+            "cloud",
+            "cloud computing",
+            "Amazon Rekognition",
+            "re:Invent 2017",
+            "Andy Jassy"
+        ],
         "title": "AWS re:Invent 2017 - Introducing Amazon Rekognition",
-        "date": "2017/11/30"
+        "description": "Deep learning-based video analysis service for motion-based detection, person tracking and real-time streaming. Learn more at - http://amzn.to/2z61i7a.",
+        "date": "2017-11-30T21:52:51Z",
+        "duration": 177
     },
     {
         "service": "amazon_rekognition",
         "videoId": "8F_zxuOcTsY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Rekogition demo",
+            "amazon rekognition tutorial",
+            "amazon rekoginition video demo",
+            "amazon rekognition face recognition",
+            "amazon rekognition video",
+            "amazon recognition api",
+            "aws quick start",
+            "aws videos",
+            "quick start with aws",
+            "aws beginners tutorial",
+            "aws beginner",
+            "aws beginner training",
+            "aws beginner course",
+            "aws beginner video",
+            "aws beginner tutorial",
+            "aws startup",
+            "Francois-Xavier Gsell"
+        ],
         "title": "Visual Analysis with Amazon Rekognition",
-        "date": "2018/11/05"
+        "description": "Watch more videos and learn more about Cloud Essentials on AWS ASEAN at - https://amzn.to/2DlMEuj.\nLearn how to use the face recognition features in Amazon Rekognition using the AWS Console. Amazon Rekognition is a deep learning-based image and video analysis service. We will use Amazon Rekognition to analyze an image and then compare it to other images to see if the faces are the same.\n\nPresenter: Francois-Xavier Gsell, Solutions Architect, AWS",
+        "date": "2018-11-05T17:16:54Z",
+        "duration": 828
     },
     {
         "service": "amazon_rekognition",
         "videoId": "nuRwUuT5Iww",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Machine Learning",
+            "MCL318",
+            "Rekognition",
+            "AWS CloudFormation"
+        ],
         "title": "AWS re:Invent 2017: Deep Dive on Amazon Rekognition Architectures for Image Analysis (MCL318)",
-        "date": "2017/11/30"
+        "description": "Join us for a deep dive on how to use Amazon Rekognition for real world image analysis. Learn how to integrate Amazon Rekognition with other AWS services to make your image libraries searchable. Also learn how to verify user identities by comparing their live image with a reference image, and estimate the satisfaction and sentiment of your customers. We also share best practices around fine-tuning and optimizing your Amazon Rekognition usage and refer to AWS CloudFormation templates.",
+        "date": "2017-11-30T17:21:05Z",
+        "duration": 3283
     },
     {
         "service": "amazon_rekognition",
         "videoId": "h6k-cQXLB-w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Automatically Extract Metadata with Amazon Rekognition",
-        "date": "2018/08/17"
+        "description": "Learn more about Amazon Rekognition at - https://amzn.to/2MiOzEt.\nComputer vision technology enables digital media professionals to generate valuable insights at a quick pace and at a lower cost by automatically identifying the contents of images and video. With a few clicks, you can integrate artificial intelligence into your media workflows with Amazon Rekognition, a deep learning-based image and video analysis service.\n\nAmazon Rekognition can identify objects, people, text, scenes, and activities, as well as detect inappropriate content from media files you provide. These features make it possible for media and entertainment professionals to easily extract metadata from their content and then use the metadata to create innovative solutions.",
+        "date": "2018-08-17T15:06:16Z",
+        "duration": 70
     },
     {
         "service": "amazon_rekognition",
         "videoId": "ttncG4gKIno",
+        "tags": [
+            "cloud computing",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Rekognition",
+            "image recognition",
+            "image analysis",
+            "object detection",
+            "facial recognition",
+            "facial comparison",
+            "facial analysis",
+            "facial detection",
+            "AI",
+            "artificial intelligence",
+            "deep learning"
+        ],
         "title": "AWS re:Invent 2016: Amazon Rekognition: Deep Learning-Based Image Recognition",
-        "date": "2016/12/06"
+        "description": "Learn more about Amazon Rekognition here - http://amzn.to/2gZVtLD.\nAmazon Rekognition is a service that makes it easy to add image analysis to your applications. With Rekognition, you can detect objects, scenes, and faces in images. You can also search and compare faces. Rekognition’s API enables you to quickly add sophisticated deep learning-based visual search and image classification to your applications.\n\nAmazon Rekognition is based on the same proven, highly scalable, deep learning technology developed by Amazon’s computer vision scientists to analyze billions of images daily for Prime Photos. Amazon Rekognition uses deep neural network models to detect and label thousands of objects and scenes in your images, and we are continually adding new labels and facial recognition features to the service.",
+        "date": "2016-12-06T21:14:33Z",
+        "duration": 115
     },
     {
         "service": "amazon_rekognition",
         "videoId": "nZ3mwrzxyNo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Image Moderation",
+            "Amazon Rekognition",
+            "user generated content (UGC)"
+        ],
         "title": "Amazon Launch Update: Amazon Rekognition",
-        "date": "2017/04/19"
+        "description": "Learn more about Amazon Rekognition at - http://amzn.to/2osuICi.\nAmazon Rekognition can now detect explicit and suggestive adult content in images, enabling you to protect users from inappropriate content. Beyond flagging an image based on presence of adult content, Image Moderation also returns a hierarchical list of labels with confidence scores. These labels indicate specific categories of adult content, thus providing more granular control to developers to filter and manage large volumes of user generated content (UGC).",
+        "date": "2017-04-19T19:57:49Z",
+        "duration": 99
     },
     {
         "service": "amazon_rekognition",
         "videoId": "UO0hGTvqLUs",
-        "title": "Using Amazon Translate, Amazon Polly, and Amazon Rekognition with .NET",
-        "date": "2019/10/04"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Translatem",
+            "Polly",
+            "Rekognition",
+            ".NET",
+            "Framework",
+            "Core"
+        ],
+        "title": "Using Amazon Translate,  Amazon Polly, and Amazon Rekognition with .NET",
+        "description": "Learn more about AWS at – https://amzn.to/2AG2wnS\nIn this video, we show you how to use Amazon Translate, Amazon Polly and Amazon Rekognition in your .NET application.",
+        "date": "2019-10-04T18:11:40Z",
+        "duration": 393
     },
     {
         "service": "amazon_rekognition",
         "videoId": "KcMvZ2MAGUw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Rekognition",
+            ".NET"
+        ],
         "title": "How to Build .NET Application using Amazon Rekognition",
-        "date": "2018/11/21"
+        "description": "The easy-to-use Rekognition API allows you to automatically identify objects, people, text, scenes, and activities, as well as detect any inappropriate content. Developers can quickly build a searchable content library to optimize media workflows, enrich recommendation engines by extracting text in images, or integrate secondary authentication into existing applications to enhance end-user security. With a wide variety of use cases, Amazon Rekognition enables you to easily add the benefits of computer vision to your business. \nFor more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2t7AHBA.",
+        "date": "2018-11-21T20:39:55Z",
+        "duration": 1023
     },
     {
         "service": "amazon_rekognition",
         "videoId": "KJB6qhvrg0w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - Amazon Rekognition",
-        "date": "2017/12/08"
+        "description": "Amazon Rekognition Video is a deep learning powered video analysis service that tracks people, detects activities, and recognizes objects, celebrities, and inappropriate content. Learn more at - http://amzn.to/2knmtXT. Amazon Rekognition Video can detect and recognize faces in live streams. Rekognition Video analyzes existing video stored in Amazon S3 and returns specific labels of activities, people and faces, and objects with time stamps so you can easily locate the scene. It can also perform facial recognition on live video from Amazon Kinesis Video Steams. For people and faces, it also returns the bounding box, which is the specific location of the person or face in the frame. \n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:37:40Z",
+        "duration": 921
     },
     {
         "service": "amazon_rekognition",
         "videoId": "0rqIUAH7Br4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "ml",
+            "ai",
+            "aws",
+            "video"
+        ],
         "title": "AWS What's Next ft. Amazon Rekognition Video for Media Analysis",
-        "date": "2020/08/05"
+        "description": "Liam Morrison, Principal Solutions Architect AI/ML in Media & Video demonstrates Amazon Rekognition Video for Media Analysis Streamline quality control, ad insertion, and content production using machine learning. Get more information at https://amzn.to/2ZaPjz7\n\nWant to tune in live for the next episode? You can find dates and more information about our upcoming streams at - https://amzn.to/2E33JKZ\n\nWatch past AWS What’s Next episodes at http://bit.ly/2O3zS75 \n\nCheck out our AWS What’s Next podcast on iTunes and Spotify\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-08-05T18:16:05Z",
+        "duration": 2304
     },
     {
         "service": "amazon_rekognition",
         "videoId": "_mdby-8Ano8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Rekognition",
+            "Amazon CloudWatch",
+            "Amazon ElastiCache‎",
+            "AWS Machine Learning Use cases",
+            "Machine learning case study Amazon MQ",
+            "Artificial Inteligence"
+        ],
         "title": "How Woo Uses Amazon Rekognition to Improve the Dating Experience",
-        "date": "2019/02/19"
+        "description": "Learn more about AWS Startups at - https://amzn.to/2IiCaPh.\nWoo is a Free dating app that helps you find, chat and meet people who are similar to you in terms of lifestyle and interests.They have over 1 million matches and counting. Find out how Amazon Rekognition automated their hybrid curation model, bringing in lot of efficiences to the process and user experience. Amazon Rekognition also helped them reduce the user onboarding dropoff by 30%, and improve the average profile quality score by 25%.",
+        "date": "2019-02-19T16:45:09Z",
+        "duration": 182
     },
     {
         "service": "amazon_rekognition",
         "videoId": "LF0cMXDbmDs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Machine Learning",
+            "MCL339",
+            "AI",
+            "Rekognition",
+            "Security"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Amazon Rekognition Video eliminates manual catalogin (MCL339)",
-        "date": "2017/12/02"
+        "description": "During this session, we will provide an overview of Amazon Rekognition Video, a deep learning powered video analysis service that tracks people, detects activities, and recognizes objects, celebrities, and inappropriate content. Amazon Rekognition Video can detect and recognize faces in live streams. Rekognition Video also analyzes existing video stored in Amazon S3 and returns specific labels of activities, people and faces, and objects with time stamps so you can easily locate the scene. For people and faces, it also returns the bounding box, which is the specific location of the person or face in the frame. We will also cover different use cases for Amazon Rekognition Video in applications such as security and public safety, and media and entertainment.",
+        "date": "2017-12-03T01:47:43Z",
+        "duration": 3587
     },
     {
         "service": "amazon_rekognition",
         "videoId": "yNVmUevq04I",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "AI & Machine Learning",
+            "AIM307-R",
+            "Amazon Rekognition"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT] Deep Dive on Amazon Rekognition, ft. Tinder & News UK (AIM307-R)",
-        "date": "2018/11/28"
+        "description": "Join us for a deep dive on the latest features of Amazon Rekognition. Learn how to easily add intelligent image and video analysis to applications in order to automate manual workflows, enhance creativity, and provide more personalized customer experiences. We share best practices for fine-tuning and optimizing Amazon Rekognition for a variety of use cases, including moderating content, creating searchable content libraries, and integrating secondary authentication into existing applications.",
+        "date": "2018-11-28T18:33:14Z",
+        "duration": 2168
     },
     {
         "service": "amazon_rekognition",
         "videoId": "jDQesbX8Wb8",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Machine Learning",
+            "MCL336",
+            "Rekognition"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Feature updates for Amazon Rekognition (MCL336)",
-        "date": "2017/12/01"
+        "description": "Amazon Rekognition is a service that makes it easy to add image analysis to your applications. With Rekognition, you can detect objects, scenes, text, faces; recognize celebrities; and identify inappropriate content in images. You can also search and compare faces. Rekognition’s API enables you to quickly add sophisticated deep learning-based visual search and image classification to your applications.\n\nIn this session. We will provide an overview of the latest Amazon Rekognition features including real-time face recognition, Text in Image recognition, and improved face detection.\nAmazon Rekognition recently added three new features: detection and recognition of text in images; real-time face recognition across tens of millions of faces; and detection of up to 100 faces in challenging crowded photos. In this session, we will cover features, benefits and use cases for these latest Rekognition features, while highlighting customer examples and a brief demo showcasing Amazon Rekognition.",
+        "date": "2017-12-01T16:43:54Z",
+        "duration": 2795
     },
     {
         "service": "amazon_rekognition",
         "videoId": "2VyhWfZOzZQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Rekognition",
+            "AWS Machine Learning Use cases",
+            "Machine learning case study",
+            "Amazon EC2",
+            "Amazon Storage Services",
+            "Artificial Inteligence"
+        ],
         "title": "How Orahi Uses Amazon Rekognition to Improve the Education Standards at Schools",
-        "date": "2019/02/19"
+        "description": "Learn more about AWS Startups at - https://amzn.to/2TVtf85.\nOrahi is a dynamic ride sharing system that lets you share vehicle rides, recognition based attendance and bus tracking solutions. Find out how Orahi uses Amazon Rekognition to automate the school attendance system using facial recognition, and improves workforce efficiency.",
+        "date": "2019-02-19T16:45:27Z",
+        "duration": 234
     },
     {
         "service": "amazon_rekognition",
         "videoId": "fk-TxySUAzw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "MAC203",
+            "Ranju Das",
+            "Introductory (100 level)",
+            "Machine Learning Mini Con"
+        ],
         "title": "AWS re:Invent 2016: NEW LAUNCH! Introducing Amazon Rekognition (MAC203)",
-        "date": "2016/12/03"
+        "description": "This session will introduce you to Amazon Rekognition, a new service that makes it easy to add image analysis to your applications. With Rekognition, you can detect objects, scenes, and faces in images. You can also search and compare faces. Rekognition’s API lets you easily build powerful visual search and discovery into your applications. With Amazon Rekognition, you only pay for the images you analyze and the face metadata you store. There are no minimum fees and there are no upfront commitments.\n\nTo get started with Rekognition, simply log in to the Rekognition console to try the service with sample photos or your own photos. Join this session and learn more about Amazon Rekognition!",
+        "date": "2016-12-03T18:04:59Z",
+        "duration": 2937
     },
     {
         "service": "amazon_rekognition",
         "videoId": "7XmyGDMdZV4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "TMA New York 2018",
+            "AWS Elemental",
+            "Rekognition",
+            "royal wedding",
+            "Amazon Rekognition",
+            "Amazon Rekognition Image",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon Simple Notification Service (SNS)",
+            "Amazon Simple Queue Service (SQS)",
+            "Amazon EC2",
+            "Amazon RDS",
+            "Amazon CloudFront",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "GrayMeta: Real Time Celebrity Identification at the Royal Wedding Using Amazon Rekognition",
-        "date": "2018/09/27"
+        "description": "In this episode of This Is My Architecture - https://amzn.to/2N0BCj3, Jason from GrayMeta shows us how they are combining the GrayMeta data analysis platform with the Amazon Rekognition Image for real-time identification of celebrities and tagging with related information. You'll earn how they use Amazon Rekognition to process images from the Royal Wedding and identify celebrities within a 2 minute interval that includes end-to-end processing and delivery.\n\nHost: Aarthi Raju, AWS Partner Solutions Architect, AWS\nSpeaker: Jason Hancock, Principal Engineer, GrayMeta\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2018-09-27T17:44:07Z",
+        "duration": 362
     },
     {
         "service": "amazon_rekognition",
         "videoId": "Yj513sy2rCw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Rekognition",
+            "Amazon Polly",
+            "Twitch",
+            "AWS Pop-up Loft",
+            "London Loft"
+        ],
         "title": "Live from the London Loft | Introducing Amazon Rekognition and Amazon Polly",
-        "date": "2017/10/01"
+        "description": "Visit http://amzn.to/2xMoS6H for more information on the current live coding shows, upcoming episode schedule, or for recordings of previous broadcasts. To learn more about the AWS Pop-up Loft | London, please visit https://awsloft.london/.\n\nHost: Ian Massingham, Senior Technical Evangelist\nLive from the London Loft, Senior Technical Evangelist, Ian Massingham introduces Amazon Rekognition and Amazon Polly.",
+        "date": "2017-10-02T03:55:37Z",
+        "duration": 2989
     },
     {
         "service": "amazon_rekognition",
         "videoId": "SHKUYn-QgS0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Rekogition demo",
+            "amazon rekognition tutorial",
+            "amazon rekoginition video demo",
+            "amazon rekognition face recognition",
+            "amazon rekognition video",
+            "amazon recognition api",
+            "aws quick start",
+            "donnie prakoso",
+            "aws videos",
+            "quick start with aws",
+            "aws beginners tutorial",
+            "aws beginner",
+            "aws beginner training",
+            "aws beginner course",
+            "aws beginner video",
+            "aws beginner tutorial",
+            "aws startup"
+        ],
         "title": "Visual Analysis dengan Amazon Rekognition",
-        "date": "2018/11/05"
+        "description": "Watch more videos and learn more about Cloud Essentials on AWS ASEAN at - https://amzn.to/2JDYpwo.\nPelajari bagaimana Anda dapat melakukan visual analysis berbasis deep learning dengan mudah menggunakan Amazon Rekognition. Amazon Rekognition adalah sebuah layanan untuk melakukan analisa gambar dan video berbasis deep learning. Di video ini, kita akan melakukan sebuah demo untuk menganalisa sebuah gambar dan mentelusuri lebih lanjut fitur-fitur yang disediakan oleh Amazon Rekognition.\n\nPresenter: Donnie Prakoso,Technical Evangelist, AWS",
+        "date": "2018-11-05T17:14:33Z",
+        "duration": 711
     },
     {
         "service": "amazon_rekognition",
         "videoId": "fN26OsNFJh4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "live coding",
+            "Rekognition",
+            "serverless",
+            "web apps"
+        ],
         "title": "Live Coding with AWS: Recognizing Celebrities with Rekognition",
-        "date": "2017/07/03"
+        "description": "For more information, visit http://amzn.to/2ta1flU.\nLive Coding with AWS explores cloud computing topics and AWS services from the developer's perspective. Each episode will explore deep-dive, technical content to build everything from serverless web apps to machine learning models.",
+        "date": "2017-07-03T18:46:22Z",
+        "duration": 7055
     },
     {
         "service": "amazon_rekognition",
         "videoId": "BTRBezrVUqg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aiml",
+            "Amazon Rekognition",
+            "Amazon Transcribe",
+            "Amazon Comprehend",
+            "AWS AI/ML API",
+            "Amazon Translate",
+            "This is My Code",
+            "TMC"
+        ],
         "title": "Kablamo: Bringing Media Metadata to Life with Amazon Rekognition",
-        "date": "2019/04/06"
+        "description": "On this episode of This Is My Code - https://amzn.to/2VpZddh,\nProviding metadata and enhancements to live and achieved data is a critical extension for bringing old media to life while adding context to live assets. Leveraging the AWS AI/ML API's and libraries such as Amazon Rekognition, Amazon Transcribe, Amazon Comprehend, and Amazon Translate allow for creating rich metadata.\n\nHost: Marc Teichtahl, Manager Solutions Architecture ANZ\nCustomer: Liam Dixon, Kablamo, Technology Director - Group Platforms\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-04-06T16:00:00Z",
+        "duration": 383
     },
     {
         "service": "amazon_rekognition",
         "videoId": "Zqk3DzNpd0E",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Machine Learning",
+            "MCL306",
+            "Rekognition",
+            "Security"
+        ],
         "title": "AWS re:Invent 2017: Making IoT Devices Smarter with Amazon Rekognition (MCL306)",
-        "date": "2017/11/29"
+        "description": "Motion detection triggers have reduced the amount of video recorded by modern devices. But maybe you want to reduce that further—maybe you only care if a car or a person is on-camera before recording or sending a notification. Security cameras and smart doorbells can use Amazon Rekognition to reduce the number of false alarms. Learn how device makers and home enthusiasts are building their own smart layers of person and car detection to reduce false alarms and limit video volume. Learn too how you can use face detection and recognition to notify you when a friend has arrived.",
+        "date": "2017-11-29T17:20:27Z",
+        "duration": 3636
     },
     {
         "service": "amazon_rekognition",
         "videoId": "9jkNWrGtxFA",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Machine Learning",
+            "MCL314",
+            "Rekognition",
+            "Storage"
+        ],
         "title": "AWS re:Invent 2017: Unlocking Media Workflows Using Amazon Rekognition (MCL314)",
-        "date": "2017/11/29"
+        "description": "Companies can have large amounts of image and video content in storage with little or no insight about what they have—effectively sitting on an untapped licensing and advertising goldmine. Learn how media companies are using Amazon Rekognition APIs for object or scene detection, facial analysis, facial recognition, or celebrity recognition to automatically generate metadata for images to provide new licensing and advertising revenue opportunities. Understand how to use Amazon Rekognition APIs to index faces into a collection at high scale, filter frames from a video source for processing, perform face matches that populate a person index in ElasticSearch, and use the Amazon Rekognition celebrity match feature to optimize the process for faster time to market and more accurate results.",
+        "date": "2017-11-29T16:17:47Z",
+        "duration": 3650
     },
     {
         "service": "amazon_rekognition",
         "videoId": "S0KI9YRvusM",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "AdTech",
+            "ADT202",
+            "Amazon Rekognition"
+        ],
         "title": "AWS re:Invent 2018: Use Amazon Rekognition to Power Video Creative Asset Production (ADT202)",
-        "date": "2018/11/27"
+        "description": "In this session, hear from an AWS customer about how they leveraged Amazon Rekognition deep learning-based image and video analysis to power a data-driven decision system for creative asset production. Learn how this customer was able to leverage the raw data provided by Amazon Rekognition combined with performance data to discover actionable insights. See a demonstration of the solution, and hear about media- and advertising-specific use cases. Learn from the customer's experiences implementing their architecture, the challenges, and the pleasant surprises along the way.",
+        "date": "2018-11-27T18:59:38Z",
+        "duration": 2119
     },
     {
         "service": "amazon_rekognition",
         "videoId": "aWrRuPoiSfM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Chicago Summit 2018",
+            "Twitch",
+            "Amazon Rekognition"
+        ],
         "title": "Chicago Summit 2018 - Amazon Rekognition: Deep Learning-Based Image and Video Analysis",
-        "date": "2018/08/20"
+        "description": "Learn more about Amazon Rekognition at - https://amzn.to/2PraG9J.\nLearn how Amazon Rekognition is using deep learning-based image and video analysis to power data-driven decision making for creative asset production, more targeted influencer marketing and advertising, and visual authentication for a variety of use cases. Learn about Amazon Rekognition image and video features. Hear customer stories from specific vertical use cases, such as media and advertising, and walk through some demonstrations and architectures for common use cases.",
+        "date": "2018-08-20T23:08:53Z",
+        "duration": 3647
     },
     {
         "service": "amazon_rekognition",
         "videoId": "chQ1phTqvnY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "TensorFlow",
+            "Amazon",
+            "Amazon Rekognition",
+            "AWS Lambda",
+            "Tensorflow on AWS",
+            "Amazon Simple Storage Service (S3)",
+            "AWS Step Functions",
+            "Amazon RDS",
+            "Amazon DynamoDB",
+            "Machine Learning",
+            "Amazon Simple Notification Service (SNS)",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Hi.Res.Cam: High Performance Object Detection with AWS Lambda, Rekognition & TensorFlow (German)",
-        "date": "2019/06/13"
+        "description": "In this episode of This Is My Architecture - https://amzn.to/2D7yeff. Florian Jakob from Hi.Res.Cam walks us through their image analysis solution on AWS. The platform ingests, analyzes, and serves millions of high-resolution images per day. High.Res.Cam applies machine learning algorithms to categorize scenes and detect objects. Learn how to achieve this with Amazon Rekognition and TensorFlow.\n\nHost: Daniel Geske, Sr. Solutions Architect, AWS\nCustomer: Florian Jakob, General Manager, Hi.Res.Cam GmbH\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-06-13T18:08:59Z",
+        "duration": 470
     },
     {
         "service": "amazon_rekognition",
         "videoId": "S0KI9YRvusM",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "AdTech",
+            "ADT202",
+            "Amazon Rekognition"
+        ],
         "title": "AWS re:Invent 2018: Use Amazon Rekognition to Power Video Creative Asset Production (ADT202)",
-        "date": "2018/11/27"
+        "description": "In this session, hear from an AWS customer about how they leveraged Amazon Rekognition deep learning-based image and video analysis to power a data-driven decision system for creative asset production. Learn how this customer was able to leverage the raw data provided by Amazon Rekognition combined with performance data to discover actionable insights. See a demonstration of the solution, and hear about media- and advertising-specific use cases. Learn from the customer's experiences implementing their architecture, the challenges, and the pleasant surprises along the way.",
+        "date": "2018-11-27T18:59:38Z",
+        "duration": 2119
     },
     {
         "service": "amazon_rekognition",
         "videoId": "g-vQGUEKrOg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS San Francisco Summit 2017"
+        ],
         "title": "AWS Summit Series 2017 - San Francisco: Amazon Rekognition Now Supports Automatic Image Moderation",
-        "date": "2017/04/19"
+        "description": "Amazon Rekognition can now detect explicit and suggestive adult content in images, enabling you to protect users from inappropriate content. Beyond flagging an image based on presence of adult content, Image Moderation also returns a hierarchical list of labels with confidence scores. These labels indicate specific categories of adult content, thus providing more granular control to developers to filter and manage large volumes of user generated content (UGC).\n\nLearn more at - http://amzn.to/2pHF9GJ.",
+        "date": "2017-04-20T03:20:50Z",
+        "duration": 55
     },
     {
         "service": "amazon_rekognition",
         "videoId": "Kqv6HpsOfUQ",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "AIM232",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "SDVI Corporation",
+            "Amazon Rekognition"
+        ],
         "title": "AWS re:Invent 2019: Media discovery and compliance with Amazon Rekognition (AIM232)",
-        "date": "2019/12/09"
+        "description": "Searching through hundreds of hours of media assets and reviewing them for compliance daily is a tedious manual task in most media workflows today. Amazon Rekognition is a service that helps you add intelligent video and image analysis to your applications. In this session, learn how Amazon Rekognition and AWS media solutions can help you generate and manage rich video metadata for people, objects, and scenes, as well as detect any inappropriate content. Hear from our customers about how they achieved time and cost savings by using Amazon Rekognition and other AWS services.",
+        "date": "2019-12-09T18:56:19Z",
+        "duration": 2943
     }
 ]

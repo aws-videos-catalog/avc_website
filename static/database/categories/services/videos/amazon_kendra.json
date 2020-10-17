@@ -2,7 +2,19 @@
     {
         "service": "amazon_kendra",
         "videoId": "vtYyElPvyQI",
+        "tags": [
+            "AWS",
+            "Events",
+            "Amazon AI Conclave 2019",
+            "AI Talks",
+            "AI Thought Leadership",
+            "Artificial Intelligence Videos",
+            "Machine Learning",
+            "AIML"
+        ],
         "title": "Amazon AI Conclave 2019 - Re-imagining Enterprise Search with Amazon Kendra",
-        "date": "2020/03/02"
+        "description": "Speaker - Vikram Anbazhagan, Director - Product (Language Tech), AWS\n\nAmazon AI Conclave 2019 is the leading Artificial Intelligence and Machine learning conference held on Dec 19 -20, 2019 in Bangalore. It hosted over 1200 delegates comprising business and technology leaders from startups and enterprises, data scientists, ML developers, data engineers and architects. Sessions at the event covered some of the Amazon’s broadest and deepest set of machine learning and AI services. Learn more about Amazon AI Conclave at https://aws.amazon.com/events/ai_conclave/\n\nLearn more about AWS Machine Learning at - https://go.aws/3cniogF\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #MachineLearning #Kendra",
+        "date": "2020-03-02T22:12:33Z",
+        "duration": 1894
     }
 ]

@@ -2,217 +2,662 @@
     {
         "service": "quicksight",
         "videoId": "2V1bHRLRG-w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "business intelligence",
+            "dashboards",
+            "BI",
+            "analytics",
+            "reports",
+            "charts",
+            "data visualization"
+        ],
         "title": "Introducing Amazon QuickSight",
-        "date": "2019/04/01"
+        "description": "Learn more about Amazon QuickSight at – https://amzn.to/2uCNmg6 \nAmazon QuickSight is a fast, cloud-powered business intelligence service that makes it easy to deliver insights to everyone in your organization. As a fully managed service, QuickSight lets you easily create and publish interactive dashboards that include ML Insights. Dashboards can then be accessed from any device, and embedded into your applications, portals, and websites.",
+        "date": "2019-04-01T22:26:19Z",
+        "duration": 125
     },
     {
         "service": "quicksight",
         "videoId": "VHAjFa5Tdmg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "business intelligence",
+            "embedding",
+            "analytics",
+            "visualizations",
+            "dashboards",
+            "KPIs",
+            "insights",
+            "machine learning",
+            "adhoc analysis",
+            "Amazon QuickSight"
+        ],
         "title": "Amazon QuickSight Embedded Analytics Demo",
-        "date": "202007/28"
+        "description": "A demo video on how customers, ISVs, and developers can easily embed analytics including interactive business intelligence (BI) dashboards and visualizations using Amazon QuickSight. Learn more about Amazon QuickSight at https://amzn.to/2WGQ5Uj\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonQuickSight",
+        "date": "2020-07-28T16:50:08Z",
+        "duration": 820
     },
     {
         "service": "quicksight",
         "videoId": "2JnfuAA-TiU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Quicksight"
+        ],
         "title": "Analyzing AWS Billing Data Using Amazon Quicksight",
-        "date": "2017/05/01"
+        "description": "Analyzing AWS Billing Data Using Amazon Quicksight.\n\nLearn more about Amazon Quicksight at http://amzn.to/2qfvFPs.",
+        "date": "2017-05-01T17:35:54Z",
+        "duration": 302
     },
     {
         "service": "quicksight",
         "videoId": "Tj0gW4XI6vU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Business Intelligence",
+            "BI",
+            "Business Insights",
+            "Visualizations",
+            "Analytics",
+            "SPICE",
+            "In-Memory Calculation",
+            "Calculation Engine",
+            "AutoGraph",
+            "QuickSight",
+            "Amazon QuickSight",
+            "Data Analysis",
+            "Data Insights",
+            "Data Visualizations"
+        ],
         "title": "Introducing Amazon QuickSight",
-        "date": "2015/10/08"
+        "description": "Learn more about Amazon QuickSight here: http://amzn.to/1ZefOh2\nAmazon QuickSight is a fast, cloud-powered, easy-to-use business intelligence (BI) service that makes it easy to build visualizations, perform ad-hoc analysis, and quickly get business insights from data. Amazon QuickSight integrates with AWS data stores, flat files and third-party sources and remains super-fast and responsive while seamlessly scaling to hundreds of thousands of users and petabytes of data.",
+        "date": "2015-10-08T19:12:35Z",
+        "duration": 693
     },
     {
         "service": "quicksight",
         "videoId": "C_eT0xRNjCs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon QuickSight"
+        ],
         "title": "Amazon QuickSight - Overview",
-        "date": "2016/11/15"
+        "description": "Amazon QuickSight puts the power of business analytics into the hands of everyone. Learn more at - https://amzn.to/2oWJnYW.",
+        "date": "2016-11-16T01:58:03Z",
+        "duration": 70
     },
     {
         "service": "quicksight",
         "videoId": "UKxkPi5mJno",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Quicksight"
+        ],
         "title": "Customizing Your Visuals in Amazon Quicksight",
-        "date": "2017/05/01"
+        "description": "Customizing Your Visuals In Amazon Quicksight.\n\nLearn more about Amazon Quicksight at - http://amzn.to/2oMUphR",
+        "date": "2017-05-01T17:34:12Z",
+        "duration": 297
     },
     {
         "service": "quicksight",
         "videoId": "x9RUtTzqpr0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Quicksight"
+        ],
         "title": "Using SQL to Import Data into Amazon Quicksight",
-        "date": "2017/05/01"
+        "description": "Using SQL to Import Data Into Amazon Quicksight.\n\nLearn more about Amazon Quicksight at http://amzn.to/2qfvFPs.",
+        "date": "2017-05-01T17:35:37Z",
+        "duration": 202
     },
     {
         "service": "quicksight",
         "videoId": "EmnCpgSdy8U",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Quicksight"
+        ],
         "title": "Creating Your First Visual with Amazon Quicksight",
-        "date": "2017/05/01"
+        "description": "Creating Your First Visual with Amazon Quicksight\n\nLearn more about Amazon Quicksight at - http://amzn.to/2pj6EUl.",
+        "date": "2017-05-01T17:33:56Z",
+        "duration": 76
     },
     {
         "service": "quicksight",
         "videoId": "xusKVM5NiCE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Quicksight"
+        ],
         "title": "Sharing Your Analysis and Insights Using Amazon Quicksight",
-        "date": "2017/05/01"
+        "description": "Sharing Your Analysis and Insights Using Amazon Quicksight.\n\nLearn more about Amazon Quicksight at - http://amzn.to/2pA272W.",
+        "date": "2017-05-01T17:34:37Z",
+        "duration": 249
     },
     {
         "service": "quicksight",
         "videoId": "dprtSTSbCEE",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Analytics & Big Data",
+            "ABD206",
+            "AI",
+            "Connect",
+            "QuickSight",
+            "RDS"
+        ],
         "title": "AWS re:Invent 2017: Building Visualizations and Dashboards with Amazon QuickSight (ABD206)",
-        "date": "2017/11/28"
+        "description": "Just as a picture is worth a thousand words, a visual is worth a thousand data points. A key aspect of our ability to gain insights from our data is to look for patterns, and these patterns are often not evident when we simply look at data in tables. The right visualization will help you gain a deeper understanding in a much quicker timeframe. In this session, we will show you how to quickly and easily visualize your data using Amazon QuickSight. We will show you how you can connect to data sources, generate custom metrics and calculations, create comprehensive business dashboards with various chart types, and setup filters and drill downs to slice and dice the data.",
+        "date": "2017-11-28T17:54:36Z",
+        "duration": 3277
     },
     {
         "service": "quicksight",
         "videoId": "8ZzS48whR78",
+        "tags": [
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Analytics",
+            "DEM128"
+        ],
         "title": "AWS re:Invent 2018: Embedding Amazon QuickSight dashboards in your applications (DEM128)",
-        "date": "2018/12/13"
+        "description": "Enhance your applications with rich, interactive visualizations created in QuickSight, without having to investigate charting libraries, adding specialized analytics knowhow, or setting up and managing BI servers. Dashboard embedding with QuickSight is secure, serverless, highly scalable, and cost effective with QuickSight’s unique pay-per-session pricing model. Come see how you can use QuickSight’s new embedding and API capabilities to enhance your customer experience!",
+        "date": "2018-12-13T16:43:22Z",
+        "duration": 1040
     },
     {
         "service": "quicksight",
         "videoId": "GATR05jEvMo",
+        "tags": [
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Analytics",
+            "DEM127",
+            "Amazon Kinesis",
+            "Amazon Kinesis Data Analytics"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing ML Insights with Amazon QuickSight - Demo (DEM127)",
-        "date": "2018/12/13"
+        "description": "Using Amazon's proven machine learning (ML) and natural language capabilities, QuickSight makes it easy for organizations to find unexpected trends and anomalies across millions of metrics, learn what is causing those trends and anomalies, and receive that information automatically via plain language narratives. ML Insights in QuickSight helps users discover hidden trends and insights, identify key business drivers, forecast future results, and summarize data in plain, easy to consume, natural language narratives, saving countless hours of manual analysis and investigation. It identifies the top contributors to any change in your business metrics, such as higher-than-expected sales or a dip in your website traffic. With QuickSight, no manual analysis, custom development, or ML domain expertise is required and the slick UI helps users set up automated insights on their data seamlessly.",
+        "date": "2018-12-13T16:43:21Z",
+        "duration": 1392
     },
     {
         "service": "quicksight",
         "videoId": "FhI1kVABMF0",
+        "tags": [
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Analytics",
+            "ANT379",
+            "Amazon QuickSight"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing ML Insights with Amazon QuickSight (ANT379)",
-        "date": "2018/12/13"
+        "description": "Today, customers using traditional BI tools spend too much time sifting through numerous dashboards to manually interpret the charts or rows and columns in their tables. Amazon QuickSight now applies the power of machine learning and natural language to proactively discover and deliver insights to every user in your organization. Learn how QuickSight automatically analyzes data to help you discover hidden insights, understand key business drivers, and deliver these insights in plain language directly to your inbox, so you always stay on top of your business.",
+        "date": "2018-12-13T16:36:53Z",
+        "duration": 3703
     },
     {
         "service": "quicksight",
         "videoId": "st85EJa-kCY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Business Intelligence in Minutes with Amazon Athena and Amazon QuickSight",
-        "date": "2018/11/12"
+        "description": "Presenter: Aun Iftikhar, Solutions Architect, Amazon Web Services",
+        "date": "2018-11-12T21:59:54Z",
+        "duration": 1704
     },
     {
         "service": "quicksight",
         "videoId": "wag45xRSNBo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "microsoft ad"
+        ],
         "title": "How can I create an AWS Managed Microsoft AD to authenticate users in Amazon QuickSight?",
-        "date": "2018/08/27"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2MVsZWd\n\nAlberto, an AWS Cloud Support Engineer, shows you how to create an AWS Managed Microsoft Active Directory to authenticate users in Amazon QuickSight.",
+        "date": "2018-08-27T14:12:02Z",
+        "duration": 493
     },
     {
         "service": "quicksight",
         "videoId": "teyfv9r_d6c",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Quicksight"
+        ],
         "title": "Accessing Amazon S3 Data from Amazon Quicksight",
-        "date": "2017/05/01"
+        "description": "Accessing Amazon S3 Data From Amazon Quicksight.\n\nLearn more about Amazon Quicksight at - http://amzn.to/2q8vlWz.",
+        "date": "2017-05-01T17:34:25Z",
+        "duration": 53
     },
     {
         "service": "quicksight",
         "videoId": "W5BDD3cpTEQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon QuickSight"
+        ],
         "title": "Amazon QuickSight - Sales Pipeline Analysis",
-        "date": "2016/11/15"
+        "description": "Amazon QuickSight puts the power of business analytics into the hands of everyone. Learn more at http://amzn.to/2ePqOCo.",
+        "date": "2016-11-16T02:01:39Z",
+        "duration": 125
     },
     {
         "service": "quicksight",
         "videoId": "_4Sfd14NckU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Quicksight"
+        ],
         "title": "Data Preparation in Amazon Quicksight",
-        "date": "2017/05/01"
+        "description": "Data Preparation In Amazon Quicksight.\n\nLearn more about Amazon Quicksight at - http://amzn.to/2oxbhNx.",
+        "date": "2017-05-01T17:35:17Z",
+        "duration": 186
     },
     {
         "service": "quicksight",
         "videoId": "AhPYfMUqdQY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I troubleshoot AWS resource permission errors in Amazon QuickSight?",
-        "date": "2019/10/01"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2krVr5T\nKalyan, an AWS Cloud Support Engineer, shows you how to troubleshoot AWS resource permission errors in Amazon QuickSight.",
+        "date": "2019-10-01T21:07:19Z",
+        "duration": 192
     },
     {
         "service": "quicksight",
         "videoId": "rJaijdRf7KI",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Analytics",
+            "ANT311",
+            "Amazon QuickSight"
+        ],
         "title": "AWS re:Invent 2018: NFL & Forwood Safety Deploy Analytics at Scale w/ Amazon QuickSight (ANT311)",
-        "date": "2018/12/01"
+        "description": "Enabling interactive data and analytics for thousands of users can be expensive and challenging—from having to forecast usage, provisioning and managing servers, to securing data, governing access, and ensuring auditability. In this session, learn how Amazon QuickSight’s serverless architecture and pay-per-session pricing enabled the National Football League (NFL) and Forwood Safety to roll out interactive dashboards to hundreds and thousands of users. Understand how the NFL utilizes embedded Amazon QuickSight dashboards to provide clubs, broadcasters, and internal users with Next Gen Stats data collected from games. Also, learn about Forwood's journey to enabling dashboards for thousands of Rio Tinto users worldwide, utilizing Amazon QuickSight readers, federated single sign-on, dynamic defaults, email reports, and more. Complete Title: AWS re:Invent 2018: NFL & Forwood Safety Deploy Business Analytics at Scale with Amazon QuickSight (ANT311)",
+        "date": "2018-12-01T21:31:52Z",
+        "duration": 3595
     },
     {
         "service": "quicksight",
         "videoId": "Ul3J8VX7zmM",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Demo Theater",
+            "20796",
+            "QuickSight",
+            "RDS",
+            "Analytics",
+            "Mobile"
+        ],
         "title": "AWS re:Invent 2017: Data Visualization with Amazon QuickSight (DEM74)",
-        "date": "2017/12/01"
+        "description": "Amazon QuickSight is a fast, cloud-powered business analytics service that makes it easy to build visualizations, perform ad-hoc analysis, and quickly get business insights from your data at 1/10ththe cost of traditional BI solutions.\nGet a demo of QuickSight to see how you can:\n• Get Started Quickly: Go from zero to analytics expert in minutes. Just log in, point to a data source, and create your first visualization in minutes.\n• Find Answers in Instants: You can import massive amounts of data from various data sources; our Super-fast, Parallel, In-memory, Calculation, Engine (SPICE) works in the cloud to get you fast responses.\n\n• Share and Collaborate: QuickSight allows you to easily share business insights by packaging them up as interactive stories that you can share with others. You and your colleagues can access these charts and dashboards on any web browser or mobile device.",
+        "date": "2017-12-01T16:35:36Z",
+        "duration": 971
     },
     {
         "service": "quicksight",
         "videoId": "B6kmBLDck8w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Introducing Dashboard Embedding and ML Insights with Amazon QuickSight",
-        "date": "2018/11/30"
+        "description": "Amazon QuickSight is a fast, cloud-powered BI service that makes it easy for everyone in an organization to get business insights from their data through rich, interactive dashboards. With pay-per-session pricing, we made BI even more cost-effective and accessible to everyone. We announced Dashboard Embedding and public preview of ML Insights. Dashboard Embedding will make it easy for every application developer to add visualizations and dashboards to their offerings. With ML Insights, we’re using machine learning and natural language to help customers discover hidden insights not possible to do manually and make these insights easy to consume in plain language narratives. https://pages.awscloud.com/QuickSight-ML-Insights-Preview.html\n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:59:46Z",
+        "duration": 794
     },
     {
         "service": "quicksight",
         "videoId": "CRcRS3qos-A",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Quicksight"
+        ],
         "title": "Accessing Amazon Redshift Data from Amazon Quicksight",
-        "date": "2017/05/01"
+        "description": "Accessing Amazon Redshift Data from Amazon Quicksight.\n\nLearn more about Amazon Quicksight at - http://amzn.to/2pmj53K.",
+        "date": "2017-05-01T17:34:56Z",
+        "duration": 113
     },
     {
         "service": "quicksight",
         "videoId": "vm1y8yu-4xY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon QuickSight"
+        ],
         "title": "Amazon QuickSight - HR Operations",
-        "date": "2016/11/15"
+        "description": "Amazon QuickSight puts the power of business analytics into the hands of everyone. Learn more at http://amzn.to/2eZNLQ2.",
+        "date": "2016-11-16T01:58:43Z",
+        "duration": 89
     },
     {
         "service": "quicksight",
         "videoId": "0KKFG1_eIP4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon QuickSight",
+            "Business Analytics",
+            "BA",
+            "Business Intelligence",
+            "BI",
+            "SPICE"
+        ],
         "title": "Amazon QuickSight - Revenue Analysis",
-        "date": "2016/11/15"
+        "description": "Amazon QuickSight puts the power of business analytics into the hands of everyone. Learn more at - https://amzn.to/2N6GYJQ.",
+        "date": "2016-11-16T01:59:17Z",
+        "duration": 123
     },
     {
         "service": "quicksight",
         "videoId": "3oESjUgpt18",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "business intelligence",
+            "dashboards",
+            "BI",
+            "analytics",
+            "reports",
+            "charts",
+            "data visualization",
+            "machine learning",
+            "natural language",
+            "ML",
+            "NL"
+        ],
         "title": "Amazon QuickSight - ML Insights",
-        "date": "2019/04/01"
+        "description": "Learn more about Amazon QuickSight - ML Insights at – https://amzn.to/2YID7F1\nML Insights leverages AWS’s proven machine learning (ML) and natural language capabilities to help you gain deeper insights from your data. These powerful, out-of-the-box features make it easy for anyone to discover hidden trends and outliers, identify key business drivers, and perform powerful what-if analysis and forecasting with no technical expertise or ML experience needed.",
+        "date": "2019-04-01T20:57:47Z",
+        "duration": 97
     },
     {
         "service": "quicksight",
         "videoId": "im4pENONU90",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon QuickSight"
+        ],
         "title": "Amazon QuickSight - Marketing Sample",
-        "date": "2016/11/15"
+        "description": "Amazon QuickSight puts the power of business analytics into the hands of everyone. Learn more at http://amzn.to/2dU01AC.",
+        "date": "2016-11-16T01:59:02Z",
+        "duration": 94
     },
     {
         "service": "quicksight",
         "videoId": "tGrQ8oi3xxM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "BDM204",
+            "Guy Farber",
+            "Introductory (100 Level)",
+            "Big Data Mini Con"
+        ],
         "title": "AWS re:Invent 2016: Visualizing Big Data Insights with Amazon QuickSight (BDM204 )",
-        "date": "2016/12/01"
+        "description": "Amazon QuickSight is a fast BI service that makes it easy for you to build visualizations, perform ad-hoc analysis, and quickly get business insights from your data.  QuickSight is built to harness the power and scalability of the cloud, so you can easily run analysis on large datasets, and support hundreds of thousands of users.  In this session, we’ll demonstrate how you can easily get started with Amazon QuickSight, uploading files, connecting to S3 and Redshift and creating analyses from visualizations that are optimized based on the underlying data.   Once we’ve built our analysis and dashboard, we’ll show you easy it is to share it with colleagues and stakeholders in just a few seconds.  And with SPICE – QuickSight’s in-memory calculation engine – you can go from data to insights, faster than ever.",
+        "date": "2016-12-01T20:48:00Z",
+        "duration": 2351
     },
     {
         "service": "quicksight",
         "videoId": "X7mN_59OBcw",
+        "tags": [
+            "Software (Industry)",
+            "Management",
+            "Technology",
+            "Data",
+            "System",
+            "Business",
+            "Office",
+            "coding",
+            "code",
+            "deployment",
+            "infrastructure",
+            "cloud infrastructure",
+            "AWS Summit Series 2016",
+            "Chicago Summit",
+            "AWS Chicago Summit",
+            "AWS Chicago 2016",
+            "2016 Summit Series",
+            "AWS Summits 2016",
+            "Greg Khairallah & Wangechi Doble",
+            "Getting Started",
+            "Amazon Quicksight",
+            "Big Data"
+        ],
         "title": "AWS Summit Series 2016 | Chicago - Getting Started with Amazon QuickSight",
-        "date": "2016/04/21"
+        "description": "Amazon QuickSight is a fast, cloud-powered business intelligence (BI) service that makes it easy to build visualizations, perform ad-hoc analysis, and quickly get business insights from your data. In this session, we demonstrate how you can point Amazon QuickSight to AWS data stores, flat files, or other third-party data sources and begin visualizing your data in minutes. We also introduce you to SPICE -  a Super-fast, Parallel, In-memory, Calculation Engine in Amazon QuickSight, which performs advanced calculations and render visualizations rapidly without requiring any additional infrastructure, SQL programming, or dimensional modeling, so you can seamlessly scale to hundreds of thousands of users and petabytes of data. Lastly, you will see how Amazon QuickSight provides you with smart visualizations and graphs that are optimized for your different data types, to ensure the most suitable and appropriate visualization to conduct your analysis, and how to share these visualization stories using the built-in collaboration tools.",
+        "date": "2016-04-21T14:32:14Z",
+        "duration": 3159
     },
     {
         "service": "quicksight",
         "videoId": "Slv6KUFuiQ4",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Big Data & Analytics",
+            "BDT319",
+            "Sundar Raghavan - Amazon Web Services",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (BDT319) New! Amazon QuickSight: Cloud-native Business Intelligence",
-        "date": "2015/10/12"
+        "description": "Amazon QuickSight is a very fast, cloud-powered business intelligence (BI) service that makes it easy to build visualizations, perform ad-hoc analysis, and quickly get business insights from your data. In this session, we demonstrate how you can point Amazon QuickSight to AWS data stores, flat files, or other third-party data sources and begin visualizing your data in minutes. We also introduce SPICE -  a new Super-fast, Parallel, In-memory, Calculation Engine in Amazon QuickSight, which performs advanced calculations and render visualizations rapidly without requiring any additional infrastructure, SQL programming, or dimensional modeling, so you can seamlessly scale to hundreds of thousands of users and petabytes of data. Lastly, you will see how Amazon QuickSight provides you with smart visualizations and graphs that are optimized for your different data types, to ensure the most suitable and appropriate visualization to conduct your analysis, and how to share these visualization stories using the built-in collaboration tools.",
+        "date": "2015-10-12T18:16:29Z",
+        "duration": 1626
     },
     {
         "service": "quicksight",
         "videoId": "hIr_1VCSdoU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I ingest and visualize the AWS Cost and Usage Report (CUR) into QuickSight?",
-        "date": "2020/08/27"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/quicksight-cost-usage-report/\nJinting shows you how to ingest and visualize the AWS Cost and Usage Report (CUR) into QuickSight.",
+        "date": "2020-08-27T20:16:46Z",
+        "duration": 335
     },
     {
         "service": "quicksight",
         "videoId": "4s_Pwk-2Z78",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Hebrew Language",
+            "AWS Summit Tel Aviv 2016: Data Science & Best Practices for Apache Spark on Amazon EMR"
+        ],
         "title": "AWS Summit Tel Aviv 2016: Explore Your Data Using Amazon QuickSight",
-        "date": "2016/07/14"
+        "description": "Learn More: http://amzn.to/29xoTxb\n\n- - - - - - - - - - - - - - - - -\nSession Language: Hebrew\n\nIn this session we will demonstrate how non-experts in machine learning, can easily analyze their data with QuickSight and build scalable and production-ready predictive models with Amazon machine learning. After the session you will have a good understanding how to define problems from your business, in terms of data and predictive models, and you will be able to apply analytics and machine learning concepts as a competitive advantage.",
+        "date": "2016-07-14T15:41:06Z",
+        "duration": 2332
     },
     {
         "service": "quicksight",
         "videoId": "YBHRWfOzrTA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summits",
+            "AWS Public sector summit",
+            "2016AWSPSSummit",
+            "AWS Government summit"
+        ],
         "title": "Easy Analytics on AWS with Amazon Redshift, Amazon QuickSight, and Amazon Machine Learning",
-        "date": "2016/07/07"
+        "description": "AWS has a large and growing portfolio of big data management and analytics services, designed to be integrated into solution architectures that meet the needs of your business. In this session, we look at analytics through the eyes of a business intelligence analyst, a data scientist, and an application developer, and we explore how to quickly leverage Amazon Redshift, Amazon QuickSight, RStudio, and Amazon Machine Learning to create powerful, yet straightforward, business solutions.",
+        "date": "2016-07-08T02:28:18Z",
+        "duration": 2745
     },
     {
         "service": "quicksight",
         "videoId": "-Moswm1qo-M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS Summit Series 2015 | Barcelona: Amazon Quicksight, Business",
-        "date": "2015/12/14"
+        "description": "Ver aquí todos los videos del evento: http://amzn.to/1OTZWdT\n\nPresentación del AWS Summit Barcelona 2015: Amazon Quicksight, Business Intelligence basado en el Cloud",
+        "date": "2015-12-14T17:37:54Z",
+        "duration": 1730
     },
     {
         "service": "quicksight",
         "videoId": "8m3iJayTpxI",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ANT217",
+            "Analytics",
+            "Capital One",
+            "Club OS",
+            "Amazon QuickSight"
+        ],
         "title": "AWS re:Invent 2019: Embedding analytics into applications with Amazon QuickSight (ANT217)",
-        "date": "2019/12/20"
+        "description": "Learn how to easily enhance your applications with rich, interactive data visualizations and analytics without any custom development. Hear from AWS customers that are using Amazon QuickSight’s embedded analytics capabilities and APIs to programmatically manage and deploy powerful dashboards and reporting features into their applications.",
+        "date": "2019-12-20T23:21:14Z",
+        "duration": 3966
     },
     {
         "service": "quicksight",
         "videoId": "O80ghnkxag4",
+        "tags": [
+            "programming",
+            "aws",
+            "reinvent",
+            "ai",
+            "ml",
+            "developer",
+            "cloud computing",
+            "software"
+        ],
         "title": "AWS re:Invent 2019 Launchpad | QuickSight Features Launch",
-        "date": "2020/03/16"
+        "description": "You can now preview Amazon QuickSight’s integration with Amazon SageMaker: a new feature that makes it faster, easier, and more cost effective for customers to augment their business data with ML predictions.\n\nLearn more about AWS Machine Learning at https://go.aws/2RJsQFA\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #reInvent2019 #AWSLaunchpad",
+        "date": "2020-03-16T23:19:05Z",
+        "duration": 892
     }
 ]

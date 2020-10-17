@@ -2,103 +2,321 @@
     {
         "service": "neptune",
         "videoId": "dSqNAlYAAoQ",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT361",
+            "Databases"
+        ],
         "title": "AWS re:Invent 2019: Deep dive on Amazon Neptune (DAT361)",
-        "date": "2019/12/04"
+        "description": "Amazon Neptune is a fast, reliable, fully managed graph database service that makes it easy to build and run applications that work with highly connected datasets. In this session, we review how Neptune is optimized for storing billions of relationships and querying the graph with milliseconds latency. You also get a deep dive into the capabilities of the service and a review of the latest available features. Finally, we walk you through the techniques that you can use to migrate to Neptune.",
+        "date": "2019-12-04T17:24:42Z",
+        "duration": 3662
     },
     {
         "service": "neptune",
         "videoId": "6dHiJSMdbjc",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT220",
+            "Databases",
+            "NBC Universal",
+            "Uber",
+            "Not Applicable"
+        ],
         "title": "AWS re:Invent 2019: Real-world customer use cases with Amazon Neptune (DAT220)",
-        "date": "2019/12/08"
+        "description": "Why do you need a graph database? In this session, we deep dive into the use cases of Amazon Neptune. You hear from Uber and NBCUniversal about how they have deployed highly scalable graph solutions with Neptune. This session also covers the companies’ design decisions, the lessons they learned, and their experiences with this service.",
+        "date": "2019-12-08T23:29:06Z",
+        "duration": 1826
     },
     {
         "service": "neptune",
         "videoId": "8DSD8lTlp4I",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Neptune",
+            "fully-managed",
+            "graph database service",
+            "highly connected datasets",
+            "Abby Fuller"
+        ],
         "title": "Amazon Neptune: Build Applications for Highly Connected Datasets",
-        "date": "2018/06/27"
+        "description": "Amazon Neptune is a fast, reliable, fully-managed graph database service that makes it easy to build and run applications that work with highly connected datasets. Learn more at - https://amzn.to/2ywwbSl.\nThe core of Amazon Neptune is a purpose-built, high-performance graph database engine optimized for storing billions of relationships and querying the graph with milliseconds latency. Amazon Neptune supports popular graph models Property Graph and W3C's RDF, and their respective query languages Apache TinkerPop Gremlin and SPARQL, allowing you to easily build queries that efficiently navigate highly connected datasets. Neptune powers graph use cases such as recommendation engines, fraud detection, knowledge graphs, drug discovery, and network security.",
+        "date": "2018-06-27T17:41:06Z",
+        "duration": 1954
     },
     {
         "service": "neptune",
         "videoId": "9pmQXua9LWA",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Databases",
+            "DAT319",
+            "Connect",
+            "Database"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Amazon Neptune Overview and Customer Use Cases (DAT319)",
-        "date": "2017/12/01"
+        "description": "In this session, we will provide an overview of Amazon Neptune, AWS’s newest database service. Amazon Neptune is a fast, reliable graph database that makes it easy to build applications over highly connected data. We will then explore how Siemens is building a knowledge using Amazon Neptune.",
+        "date": "2017-12-02T05:04:33Z",
+        "duration": 3657
     },
     {
         "service": "neptune",
         "videoId": "j9OZ-7aCAyA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Serverless",
+            "Databases",
+            "Cost Management",
+            "Neptune",
+            "Gremlin",
+            "Insurance",
+            "Graph Database",
+            "Data Processing",
+            "Amazon Simple Storage Service (S3)",
+            "AWS Glue",
+            "Amazon Simple Queue Service (SQS)",
+            "AWS Lambda",
+            "Amazon DynamboDB",
+            "AWS Step Functions",
+            "This is My Architecture",
+            "TMA"
+        ],
         "title": "Homesite: Event-Driven Data Analytics Platform Using Amazon Neptune",
-        "date": "2020/04/06"
+        "description": "Learn how Homesite Insurance uses an Amazon Neptune graph database as a pipeline processing stage to connect customer activities through a variety of touchpoints and data sources.\n\n~Filmed prior to Covid-19~\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-04-06T18:24:25Z",
+        "duration": 445
     },
     {
         "service": "neptune",
         "videoId": "ZCj2wuKBBu4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "analytics",
+            "app-integration",
+            "databases",
+            "mobile",
+            "retail-wholesale",
+            "Nike",
+            "Amazon EC2 Auto Scaling",
+            "Amazon Simple Notification Service (SNS)",
+            "Amazon API Gateway",
+            "AWS Lambda",
+            "Elastic Load Balancing",
+            "Amazon Neptune",
+            "This is My Architecture",
+            "TMA"
+        ],
         "title": "Nike: A Social Graph at Scale with Amazon Neptune",
-        "date": "2020/01/23"
+        "description": "Getting a graph database to be performant and easy to use is very different than making a NoSQL database high-performing. In this episode we talk about how Nike powers a number of applications via a social graph, built on Amazon Neptune, that effectively maps millions of relationships between its users. We take a closer look at the underlying property graph that represents highly connected data, which allows users to select their interests such as basketball or training. These interest selections then drive personalized recommendations and curated content for consumers, based on entries in their graph.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-01-23T20:46:35Z",
+        "duration": 421
     },
     {
         "service": "neptune",
         "videoId": "VGxYE4-pors",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT403"
+        ],
         "title": "AWS re:Invent 2018: Deep Dive on Amazon Neptune (DAT403)",
-        "date": "2018/11/29"
+        "description": "What can you do with Apache TinkerPop and Gremlin or RDF and SPARQL? How does Neptune provide multi-Availability Zone high availability? Learn about the features and details of Amazon's fully managed graph database service.",
+        "date": "2018-11-29T18:38:02Z",
+        "duration": 3643
     },
     {
         "service": "neptune",
         "videoId": "AKnaGqHZY9c",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit Tel Aviv 2018",
+            "Amazon Neptune",
+            "graph databases"
+        ],
         "title": "AWS Tel Aviv Summit 2018: How Amazon Neptune and Graph Databases Can Transform Your Business",
-        "date": "2018/03/30"
+        "description": "Want to learn more about past and upcoming AWS Israel events and activities? Visit us at - https://amzn.to/2IVto6g.\nAmazon Neptune is the fully-managed graph database service that makes it easy to build and run applications for highly connected datasets. Come learn how to transform your business with Amazon Neptune and hear diverse use cases such as recommendation engines, knowledge graphs, fraud detection, social networks, network management and life sciences. Learn about using Amazon Neptune with Apache TinkerPop Gremlin traversals and RDF/SPARQL query processing and watch live how we derive valuable business insights, customer satisfaction by region, in a simple query.\n\n[10/26]",
+        "date": "2018-03-30T18:39:49Z",
+        "duration": 2320
     },
     {
         "service": "neptune",
         "videoId": "HzImChia0Yg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "re:Invent 2017",
+            "re:Invent Launchpad",
+            "Amazon Neptune"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - Amazon Neptune",
-        "date": "2017/12/08"
+        "description": "Amazon Neptune is a fast, reliable, fully-managed graph database service that makes it easy to build and run applications that work with highly connected datasets. Learn more at - http://amzn.to/2AcagMw/. The core of Neptune is a purpose-built, high-performance graph database engine optimized for storing billions of relationships and querying the graph with milliseconds latency. Neptune supports the popular graph query languages Apache TinkerPop Gremlin and W3C’s SPARQL, allowing you to easily build queries that efficiently navigate highly connected datasets. \n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:29:34Z",
+        "duration": 973
     },
     {
         "service": "neptune",
         "videoId": "Xthvz9v88sA",
-        "title": "Database Deep Dive Office Hours | S1 E7 – Amazon Neptune: Graph Databases Demystified",
-        "date": "2019/06/19"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "database"
+        ],
+        "title": "Database Deep Dive Office Hours |  S1 E7 – Amazon Neptune: Graph Databases Demystified",
+        "description": "Join co-hosts Nick and Randall, as they bring on special guest Brad Bebee to help make sense of graph databases and Amazon Neptune. In this episode, we'll explore what types of data are best suited for Neptune, and how to effectively leverage graph databases based on your organization's data access patterns.\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/live-video/",
+        "date": "2019-06-19T23:19:04Z",
+        "duration": 3404
     },
     {
         "service": "neptune",
         "videoId": "RTZPzDmZc3s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference 2018"
+        ],
         "title": "Supercharge Your Apps with Amazon Neptune Graph Database (Level 200)",
-        "date": "2018/08/24"
+        "description": "Learn more about the AWS Innovate Online Conference at - https://amzn.to/2NgG09O.\nIn this session, we give an overview of property and knowledge graphs. We describe how you can create and query these graphs, and we help you understand how you can benefit from using Neptune, a fully managed enterprise grade graph database service designed to supercharge your apps with insights.\n\nSpeaker: Clayton Brown, Solution Architect, Amazon Web Services",
+        "date": "2018-08-24T19:53:34Z",
+        "duration": 1428
     },
     {
         "service": "neptune",
         "videoId": "6o1Ezf6NZ_E",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Databases",
+            "DAT318",
+            "AI",
+            "Aurora",
+            "Connect",
+            "Lex",
+            "RDS",
+            "Database"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Deep dive on Amazon Neptune (DAT318)",
-        "date": "2017/12/01"
+        "description": "Amazon Neptune is a fully managed graph database service which has been built ground up for handling rich highly connected data. Graph databases have diverse use cases across multiple industries; examples include recommendation engines, knowledge graphs, fraud detection, social networks, network management and life sciences. Amazon Neptune is open and flexible with support for Apache TinkerPop and RDF/SPARQL standards. Under the hood Neptune uses the same foundational building blocks as Amazon Aurora which gives it high performance, availability and durability. In this session, we will do a deep dive into capabilities, performance and key innovations in Amazon Neptune.",
+        "date": "2017-12-01T16:26:18Z",
+        "duration": 3500
     },
     {
         "service": "neptune",
         "videoId": "f7FSpT7jrX4",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT315",
+            "Amazon Neptune"
+        ],
         "title": "AWS re:Invent 2018: Building a Social Graph at Nike with Amazon Neptune (DAT315)",
-        "date": "2018/12/14"
+        "description": "In this session, learn how Nike stepped up its game on Nike’s own social network. Using the Amazon Neptune graph database, Nike is unlocking the possibility of world-class athletes and millions of their followers to have unique Nike experiences. We showcase Nike's journey of migrating more than 100 million users from Cassandra to Amazon Neptune, while remaining up and available 24/7.",
+        "date": "2018-12-14T21:09:36Z",
+        "duration": 3227
     },
     {
         "service": "neptune",
         "videoId": "Rl6UwE7kLio",
+        "tags": [
+            "re:Invent 2017",
+            "Andy Jassy",
+            "keynote",
+            "AWS",
+            "cloud computing",
+            "Amazon Neptune",
+            "Amazon Web Services",
+            "cloud",
+            "AWS Cloud",
+            "network security",
+            "Graph Database"
+        ],
         "title": "AWS re:Invent 2017 - Amazon Neptune: Fast, Reliable Graph Database Built for the Cloud",
-        "date": "2017/11/29"
+        "description": "Learn more about Amazon Neptune at - http://amzn.to/2ncgtWC\nAmazon Neptune is a fast, reliable, fully-managed graph database service that makes it easy to build and run applications that work with highly connected datasets. The core of Amazon Neptune is a purpose-built, high-performance graph database engine optimized for storing billions of relationships and querying the graph with milliseconds latency. Amazon Neptune supports popular graph models Apache TinkerPop and W3C's RDF, and their associated query languages TinkerPop Gremlin and RDF SPARQL, allowing you to easily build queries that efficiently navigate highly connected datasets. Neptune powers graph use cases such as recommendation engines, fraud detection, knowledge graphs, drug discovery, and network security.",
+        "date": "2017-11-29T19:35:41Z",
+        "duration": 66
     },
     {
         "service": "neptune",
         "videoId": "DY4rczIYZws",
-        "title": "AWS re:Invent 2018: Data & Analysis with Amazon Neptune: A Study in Healthcare Billing (HLC303)",
-        "date": "2018/11/29"
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Healthcare",
+            "HLC303",
+            "Amazon Neptune",
+            "AWS Fargate",
+            "AWS Glue",
+            "AWS Lambda"
+        ],
+        "title": "AWS re:Invent 2018: Data  & Analysis with Amazon Neptune: A Study in Healthcare Billing (HLC303)",
+        "description": "In this session, learn how to better analyze your data for patterns and inform decisions by pairing relational databases with a number of AWS services, including the graph database service, Amazon Neptune. Additionally, hear about the use of AWS Glue and Apache Ranger for data cataloging and as a baseline for query and dataset resolution. Learn about the use of AWS Fargate and AWS Lambda for serverless provisioning of complex data and how to do data rights management at scale on an enterprise data lake. As a case study, hear how Change Healthcare is building an Intelligent Health Platform (IHP) using these services to help standardize and simplify a number of healthcare workflows, including payment processing, which have traditionally been both complex and disconnected from healthcare event data. Complete Title: AWS re:Invent 2018: Data Patterns & Analysis with Amazon Neptune: A Case Study in Healthcare Billing (HLC303)",
+        "date": "2018-11-29T18:27:29Z",
+        "duration": 2930
     },
     {
         "service": "neptune",
         "videoId": "nNZcl_cVzhE",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT316",
+            "Amazon Neptune"
+        ],
         "title": "AWS re:Invent 2018: How Do I Know I Need an Amazon Neptune Graph Database? (DAT316)",
-        "date": "2018/11/28"
+        "description": "When do you need to use a graph database? What kinds of applications can benefit from using a graph-based approach? In this session, learn how customers are using graph databases to accomplish use cases from knowledge graphs to recommendations to network security. Hear how PricewaterhouseCoopers (PWC) is using graph-based approaches with Amazon Neptune and partners to build new applications. See how Tom Sawyer Software helps to visualize Amazon Neptune graphs.",
+        "date": "2018-11-28T18:32:08Z",
+        "duration": 2773
     },
     {
         "service": "neptune",
         "videoId": "KqAug2jtmDY",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Machine Learning",
+            "MCL342",
+            "Analytics"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Graph-based Approaches for Cyber Investigative Analy (MCL342)",
-        "date": "2017/12/01"
+        "description": "Customers have several options of architecting recommendation engines, and a graphdb is the best way to create a real-time recommendation engine. I will use the as-yet unreleased Neptune service and will show a demo.In this session, we will look at approaches to use machine learning and graph representations for Cyber Investigative Analytics. We will give a demonstration of Graphistry using Amazon Neptune and a graph-based approach to detecting anomalies in Netflow data.",
+        "date": "2017-12-01T16:45:58Z",
+        "duration": 2862
     }
 ]

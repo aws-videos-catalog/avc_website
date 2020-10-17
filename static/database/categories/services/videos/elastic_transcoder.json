@@ -2,31 +2,115 @@
     {
         "service": "elastic_transcoder",
         "videoId": "wSYHdt1TJVQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "transcoding",
+            "transcoder",
+            "amazon elastictranscoder",
+            "ET",
+            "video",
+            "video trancoding service",
+            "transcode",
+            "MP4",
+            "H264",
+            "YouTube",
+            "iPad video",
+            "iPhone video",
+            "Amazon Elastic Transcoder"
+        ],
         "title": "Getting Started with Amazon Elastic Transcoder",
-        "date": "2013/03/05"
+        "description": "Amazon Elastic Transcoder is video transcoding in the cloud. It is designed to be a highly scalable, easy to use and a cost effective way for developers and businesses to convert (or \"transcode\") video files from their source format into versions that will playback on devices like smartphones, tablets and PCs. In this video, we'll explain what Amazon ElasticTranscoder service is and how it works, and then walk you through transcoding a video file.&nbsp;\n\nLearn more: http://aws.amazon.com/elastictranscoder/.",
+        "date": "2013-03-05T19:33:55Z",
+        "duration": 328
     },
     {
         "service": "elastic_transcoder",
         "videoId": "x20Qx7lWSLQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Elastic Transcoder",
+            "HLS",
+            "iOS",
+            "streaming",
+            "David Sayed",
+            "http Live Streaming (HLS)",
+            "Amazon Elastic Transcoder",
+            "cloud transcoding",
+            "transcode video in the cloud"
+        ],
         "title": "Using Amazon Elastic Transcoder to create HLS outputs",
-        "date": "2013/05/30"
+        "description": "This is a walkthrough of how to use Amazon Elastic Transcoder's new HTTP Live Streaming (HLS) functionality.",
+        "date": "2013-05-30T19:40:36Z",
+        "duration": 366
     },
     {
         "service": "elastic_transcoder",
         "videoId": "CdgsGlYSn38",
-        "title": "GoPro: Editing Media on The Go with ECS, Elastic Transcoder, and Lifecycle Hooks on AWS",
-        "date": "2017/09/08"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "GoPro",
+            "TMA",
+            "This Is My Architecture",
+            "Terraform",
+            "Amazon Elastic Container Service (ECS)",
+            "Amazon EC2",
+            "Amazon Elastic Transcoder",
+            "Amazon Simple Queue Service (SQS)",
+            "ALB",
+            "Elastic Load Balancing",
+            "AWS Lambda",
+            "Amazon CloudWatch",
+            "Amazon Simple Storage Service (S3)"
+        ],
+        "title": "GoPro: Editing Media on The \"Go\" with ECS, Elastic Transcoder, and Lifecycle Hooks on AWS",
+        "description": "On this episode of \"This is My Architecture\", GoPro demonstrates how they power their cloud media platform with ECS, SQS, Terraform, Elastic Transcoder, and lifecycle hooks. Learn more at - http://amzn.to/2eLxd03.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2017-09-08T17:14:48Z",
+        "duration": 266
     },
     {
         "service": "elastic_transcoder",
         "videoId": "OaxIh3N_dvw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "webcast",
+            "webinar",
+            "Transcoder",
+            "Transcoding",
+            "Amazon Elastic Transcoder",
+            "video transcoding"
+        ],
         "title": "AWS Webcast - What's New with Amazon Elastic Transcoder",
-        "date": "2013/06/03"
+        "description": "Amazon Elastic Transcoder is video transcoding in the cloud. Come to learn about all the new features in Amazon Elastic Transcoder and hear how customers are using to create innovative media solutions.",
+        "date": "2013-06-03T18:35:13Z",
+        "duration": 3012
     },
     {
         "service": "elastic_transcoder",
         "videoId": "dI2PMRULGaA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Elastic Transcoder",
+            "transcoding"
+        ],
         "title": "AWS Webcast - What's New with Amazon Elastic Transcoder",
-        "date": "2013/07/26"
+        "description": "Amazon Elastic Transcoder is video transcoding in the cloud. Come to learn about all the new features in Amazon Elastic Transcoder and hear how customers are using to create innovative media solutions.",
+        "date": "2013-07-26T15:30:36Z",
+        "duration": 3272
     }
 ]

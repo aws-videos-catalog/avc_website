@@ -2,91 +2,304 @@
     {
         "service": "efs",
         "videoId": "4FQvJ2q6_oA",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Storage",
+            "STG301-R1",
+            "Amazon Elastic",
+            "File System",
+            "Amazon EFS"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] Deep Dive on Amazon Elastic File System (Amazon EFS) (STG301-R1)",
-        "date": "2018/11/30"
+        "description": "In this session, we explore the world's first cloud-scale file system and its targeted use cases. Learn about Amazon Elastic File System (Amazon EFS), its features and benefits, how to identify applications that are appropriate to use with Amazon EFS, and details about its performance and security models. The target audience is security administrators, application developers, and application owners who operate or build file-based applications.",
+        "date": "2018-11-30T16:26:55Z",
+        "duration": 3340
     },
     {
         "service": "efs",
         "videoId": "k8Udnqlp9iQ",
+        "tags": [
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Storage",
+            "STG327"
+        ],
         "title": "AWS re:Invent 2018: How Amazon EFS Infrequent Access Optimizes File System Costs (STG327)",
-        "date": "2018/12/12"
+        "description": "In this session, we introduce the Infrequent Access storage class for Amazon EFS. Amazon EFS Infrequent Access is a cost-optimized storage class for files not accessed every day, reducing storage costs by up to 85% compared to the Amazon EFS Standard storage class. Along with EFS IA, we will introduce EFS Lifecycle Management, which automatically transitions infrequently accessed files into the new storage class. Come learn how Amazon EFS Infrequent Access will work and how to get started. The target audience is file system administrators and application owners who are looking to more cost-effectively run file-based applications in the cloud.",
+        "date": "2018-12-13T01:02:58Z",
+        "duration": 1533
     },
     {
         "service": "efs",
         "videoId": "lMRVg2f380Y",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Storage & Content Delivery",
+            "STG306",
+            "Timothy Harder - Amazon Web Services",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (STG306) EFS Update",
-        "date": "2015/10/12"
+        "description": "In this session we will review the world’s first cloud-scale network attached file system and its targeted use cases. Session attendees will learn about EFS’s benefits, how to identify applications that are appropriate for use with EFS, and details about its performance and security models. The target audience is file system administrators, application developers, and application owners that operate or build file-based applications.",
+        "date": "2015-10-12T16:19:12Z",
+        "duration": 2877
     },
     {
         "service": "efs",
         "videoId": "VffbHp34UzQ",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Storage",
+            "STG307",
+            "AI",
+            "Security"
+        ],
         "title": "AWS re:Invent 2017: Deep Dive on Amazon Elastic File System (Amazon EFS) (STG307)",
-        "date": "2017/11/29"
+        "description": "In this session, we explore the world’s first cloud-scale file system and its targeted use cases. Learn about Amazon EFS features and benefits, how to identify applications that are appropriate for use with Amazon EFS, and details about its performance and security models. The target audience is security administrators, application developers, and applications owners who operate or build file-based applications.",
+        "date": "2017-11-29T16:08:02Z",
+        "duration": 3588
     },
     {
         "service": "efs",
         "videoId": "gidUa4lJd9Y",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Storage",
+            "STG213-L"
+        ],
         "title": "AWS re:Invent 2018: What's New in Amazon S3, Amazon EFS, Amazon EBS, & more (STG213-L)",
-        "date": "2018/11/30"
+        "description": "Mai-Lan Tomsen Bukovec, VP of Amazon S3, introduces the latest innovations across all AWS storage services. In this keynote address, we announce new storage capabilities, and we talk about features and services that make AWS storage unique. We focus on new innovations in object storage, file storage, block storage, and data transfer services. You also hear from executives from companies that are major AWS storage customers, Sony and Expedia, about how they're using AWS storage to create a competitive advantage in their businesses. Complete Title: AWS re:Invent 2018: AWS Storage Leadership Session: What's New in Amazon S3, Amazon EFS, Amazon EBS, & more (STG213-L)",
+        "date": "2018-11-30T16:26:53Z",
+        "duration": 3523
     },
     {
         "service": "efs",
         "videoId": "N-4d5Su9s74",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Storage",
+            "STG208",
+            "Alexander Crosett III",
+            "Introductor"
+        ],
         "title": "AWS re:Invent 2016: Case Study: How Monsanto Uses Amazon EFS with Geospatial Data Sets (STG208)",
-        "date": "2016/12/03"
+        "description": "At Monsanto, we build and use technologies that support our data and also BI efforts that facilitate intelligent, data-driven decisions. In the past year, we've embarked on large-scale efforts to modernize our geospatial platform and improve our analytic processing capabilities by building out new cloud and open-source based services. We found using Amazon Elastic File System (Amazon EFS) gave us the flexibility and performance we were seeking while saving us significant time, effort, and cost. In this session, we discuss how Monsanto uses the Amazon EFS service to run our large scaling geospatial data sets such as raster, and to perform highly parallelized analytics for data scientists and business users. Topics include the technical architecture, how and why we chose EFS for handling data sets that are terabytes in size, our recommendations, and the lessons learned along the way.",
+        "date": "2016-12-03T18:16:46Z",
+        "duration": 3061
     },
     {
         "service": "efs",
         "videoId": "IbB-3-kP2_M",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Zhitnitsky",
+            "Storage",
+            "STG315"
+        ],
         "title": "AWS re:Invent 2017: Case Study: Learn How Thomson Reuters Uses Amazon EFS to Deliver (STG315)",
-        "date": "2017/12/01"
+        "description": "In the fast-paced world of news media, having a high performance, reliable storage service is a critical component for delivering content at scale. Learn how Thomson Reuters leverages Amazon EFS to host their rich media content, saving them time and money while delivering unmatched reliability. Come hear about their journey, their approach, their architecture, and the considerations they took when building out their environment. Best practices and tips for success will be shared throughout.",
+        "date": "2017-12-01T16:13:47Z",
+        "duration": 3517
     },
     {
         "service": "efs",
         "videoId": "s4ptjYf22fA",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Demo Theater",
+            "20800",
+            "AI",
+            "Storage"
+        ],
         "title": "AWS re:Invent 2017: Live Demo: Accelerating Data Movement into Amazon EFS (DEM78)",
-        "date": "2017/11/30"
+        "description": "Amazon EFS file systems are distributed across an unconstrained number of storage servers and allows massively parallel access. This means that highly parallelized workloads can drive high levels of aggregate throughput and operations per second. In less than 15 minutes, this demo illustrates how you can parallelize the data copy and accelerate the data movement into Amazon EFS.",
+        "date": "2017-11-30T16:14:00Z",
+        "duration": 934
     },
     {
         "service": "efs",
         "videoId": "slQsYL2ar1c",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Storage",
+            "STG207",
+            "Darryl Osborne",
+            "Introductory (200"
+        ],
         "title": "AWS re:Invent 2016: Case Study: How Atlassian Uses Amazon EFS with JIRA to Cut Costs (STG207)",
-        "date": "2016/12/03"
+        "description": "At Atlassian, we create popular software tools to help every team unleash their full potential. We use our issue tracking tool JIRA to handle customer support issues from around the globe. As the business grew, we decided to move from a single server instance of JIRA to our JIRA Data Center product on AWS infrastructure to increase reliability, scale, and security. JIRA Data Center's requirement to use a shared file system caused us to try several in-house and third-party solutions prior to the availability of Amazon Elastic File System (Amazon EFS). We chose EFS for its performance, ease of use, automatic scaling, and out-of-the-box distribution capabilities. In this session, we discuss how Atlassian uses EFS to run JIRA Data Center. Topics include the technical architecture, how and why we chose EFS, our recommendations, and the lessons learned along the way.",
+        "date": "2016-12-03T18:20:05Z",
+        "duration": 2107
     },
     {
         "service": "efs",
         "videoId": "_Fgxl52OZes",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon EFS",
-        "date": "2018/11/30"
+        "description": "Amazon EFS provides a simple, scalable, elastic file system for Linux-based workloads for use with AWS Cloud services and on-premises resources. You can now create up to 1,000 file systems per AWS account, an increase from the existing limit of 125. You can also now create up to 400 EFS mount targets per Amazon Virtual Private Cloud (VPC).  \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:48:19Z",
+        "duration": 1116
     },
     {
         "service": "efs",
         "videoId": "hzialJerb5o",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Storage",
+            "STG206",
+            "Sajee Mathew",
+            "Introductory (200 level)"
+        ],
         "title": "AWS re:Invent 2016: Case Study: Spokeo Improved Web Application Response Times with EFS (STG206)",
-        "date": "2016/12/02"
+        "description": "At Spokeo, we are running a fast, big data, and high-traffic website providing people search services. But at our scale, we started to reach limitations to how fast our conventional web stack could do things and concluded that a Ruby on Rails–only solution simply couldn't keep up. In this session, we cover some of the options we had to solve this problem and why we chose Amazon Elastic File System (Amazon EFS) as a central part of our solution with metrics and benchmarking. Using EFS, we were able to take response times down from 250 ms to below 70 ms. We look into the architecture of the solution and lessons we learned along the way. In the end, we find that faster response times are just the beginning of the benefits that we see.",
+        "date": "2016-12-03T03:55:27Z",
+        "duration": 2299
     },
     {
         "service": "efs",
         "videoId": "PlTuJx4VnGw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "STG202",
+            "Edward Naim",
+            "Darryl Osborne",
+            "Introductory",
+            "Storage"
+        ],
         "title": "AWS re:Invent 2016: Deep Dive on Amazon Elastic File System (STG202)",
-        "date": "2016/12/02"
+        "description": "In this session, we fill you in about Amazon EFS, including an overview of this recently introduced service, its use cases, and best practices for working with it.",
+        "date": "2016-12-02T18:26:37Z",
+        "duration": 3738
     },
     {
         "service": "efs",
         "videoId": "FJlHXBcDJiw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "aws",
+            "amazon",
+            "amazon web services",
+            "aws efs",
+            "amazon efs",
+            "secure efs",
+            "elastic file system",
+            "elastic filesystem",
+            "ecs",
+            "amazon ecs",
+            "fargate",
+            "aws fargate",
+            "elastic container service",
+            "aws demo",
+            "aws tutorial"
+        ],
         "title": "Amazon EFS: Secure data persistence with Amazon ECS and AWS Fargate",
-        "date": "2020/05/20"
+        "description": "In this demo, we’re going to use Amazon EFS to create a shared file system, and then attach it to existing Amazon ECS and AWS Fargate services. We’ll also explore how AWS IAM Authorization and EFS Access Points can simplify configuring more granular access to our data for different scenarios. \n\nAmazon Elastic File System (EFS) provides a simple, scalable, and fully-managed shared file system for use with AWS Cloud services and on-premises resources. Whether you’re developing a new containerized application or modernizing an existing monolith, there are many types of applications where a shared persistence layer is an essential ingredient in achieving a resilient and durable architecture.\n\nLearn more about AWS Storage at - https://go.aws/3e7MdSF\n\nPersistent File Storage for Modern Applications: https://go.aws/2LKgsmd\nGitHub sample code repository: https://bit.ly/2TlBewC\nTutorial on using Amazon EFS File Systems with Amazon ECS: https://amzn.to/3g5FPNr\nAWS News Blog launch announcement: https://go.aws/3bLWLoP\nDevelopers guide to using Amazon EFS with Amazon ECS and AWS Fargate: https://go.aws/3e53pZ0\n\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonEFS",
+        "date": "2020-05-20T21:25:32Z",
+        "duration": 852
     },
     {
         "service": "efs",
         "videoId": "pCbDfTKry-c",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "STG304-R",
+            "Storage",
+            "Amazon EFS"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT] Network file system (NFS) evolved: Deep dive on Amazon EFS (STG304-R)",
-        "date": "2019/12/13"
+        "description": "In this session, we explore the world’s first cloud-scale file system and its targeted use cases. Learn about Amazon Elastic File System (Amazon EFS) features and benefits, how to identify applications that are appropriate for use with Amazon EFS, and details about the service’s performance and security models. The target audience is security administrators, application developers, application owners, and infrastructure operations personnel who build or operate file-based applications or NAS.",
+        "date": "2019-12-13T19:55:57Z",
+        "duration": 3020
     },
     {
         "service": "efs",
         "videoId": "cc_me0l0PfA",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "STG364",
+            "Storage",
+            "Qube Research",
+            "Technologies Ltd."
+        ],
         "title": "AWS re:Invent 2019: Securing Amazon EFS for container and data science applications (STG364)",
-        "date": "2019/12/04"
+        "description": "In this session, we explore how you can use Amazon Elastic File System (Amazon EFS), a scalable, elastic, cloud-native NFS file system to modernize your applications and data science environments. We cover considerations and best practices when connecting Amazon EFS file systems to applications running in containers in multiple frameworks. We also show you how to make the most use of Amazon EFS for data science environments as a repository for notebook files and a place where data scientists can rapidly iterate on training data.",
+        "date": "2019-12-04T17:31:51Z",
+        "duration": 2573
     }
 ]

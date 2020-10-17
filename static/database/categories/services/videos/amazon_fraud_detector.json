@@ -2,19 +2,65 @@
     {
         "service": "amazon_fraud_detector",
         "videoId": "0mvrl6AXcb8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Fraud detection",
+            "detect fraud",
+            "new account fraud",
+            "online check out fraud",
+            "loyalty programs fraud abuse",
+            "fraud prevention",
+            "Kurt Kufeld",
+            "Amazon Fraud Detector"
+        ],
         "title": "Kurt Kufeld, VP of AWS Platforms, Announces Amazon Fraud Detector is Generally Available",
-        "date": "2020/07/28"
+        "description": "Amazon Fraud Detector is a fully managed service that uses machine learning (ML) and more than 20 years of fraud detection expertise from Amazon to identify potentially fraudulent activity so customers can catch more online fraud faster. In this video, learn more about the problem of fighting fraud, the history of fighting fraud at Amazon, how Amazon Fraud Detector works, and results customers are seeing with Amazon Fraud Detector.\n\n0:00-0:46 – Presenter and Amazon Fraud Detector intro\n0:47-1:23 – Fraud problem\n1:24-2:13 – History of fighting fraud at Amazon\n2:14-2:35 – Why we built Amazon Fraud Detector\n2:36-3:55 – How Amazon Fraud Detector works\n3:56- 5:04 – Custom stories and benefits\n5:05-5:34– Wrap up\n\nLearn more about Amazon Fraud Detector at https://amzn.to/2Es6BBk\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #KurtKufeld #AWSLaunch",
+        "date": "2020-07-28T15:48:39Z",
+        "duration": 335
     },
     {
         "service": "amazon_fraud_detector",
         "videoId": "FnFckqGa7XE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon Fraud Detector",
+            "ML"
+        ],
         "title": "AWS What's Next ft. Amazon Fraud Detector",
-        "date": "2020/08/31"
+        "description": "AWS What’s Next ft. Amazon Fraud Detector Nick Tostenrude, Senior Manager, Product Amazon Fraud Detector, demonstrates how Amazon Fraud Detector is a fully managed service that uses machine learning (ML) to identify potentially fraudulent activity so customers can catch more online fraud faster. For more information go to - https://amzn.to/30zYOty\n\nWant to tune in live for the next episode? You can find dates and more information about our upcoming streams at - https://amzn.to/3aSswh7\n\nWatch past AWS What’s Next episodes at http://bit.ly/2O3zS75 \n\nCheck out our AWS What’s Next podcast on iTunes and Spotify\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-08-31T19:32:41Z",
+        "duration": 4061
     },
     {
         "service": "amazon_fraud_detector",
         "videoId": "INO3TNT2ECk",
+        "tags": [
+            "AWS",
+            "AWS Summit Online",
+            "May 13",
+            "2020",
+            "United States",
+            "Level 200",
+            "Amazon",
+            "Fraud Detector",
+            "track: interact",
+            "Track: machine learnin",
+            "track 2",
+            "track: machine learning",
+            "track 1",
+            "AWS Events"
+        ],
         "title": "Fraud Detection: Using ML to Identify and Manage Fraudulent Activities - L200 (United States)",
-        "date": "2020/07/24"
+        "description": "Amazon Fraud Detector is a fully managed service that you can use to identify potentially fraudulent online activities, such as online payment fraud and fake accounts. The service uses ML and 20 years of fraud detection expertise to automatically identify potentially fraudulent activity and enable you to can catch more fraud faster. In this session, learn how to use Amazon Fraud Detector to create a fraud detection model with just a few clicks and no prior ML experience. Learn how to implement a customized fraud detection solution for online activities using ML, identify use cases, and implement changes to protect your company and customers.\n\nLearn more about AWS at - https://amzn.to/3fK3YZv\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
+        "date": "2020-07-24T18:59:03Z",
+        "duration": 2329
     }
 ]

@@ -2,325 +2,1077 @@
     {
         "service": "workspaces",
         "videoId": "NiPZgy1nIDs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I create a WorkSpace image in Amazon WorkSpaces?",
-        "date": "2020/04/23"
+        "description": "For more details see the Knowledge Center article with this video:  https://aws.amazon.com/premiumsupport/knowledge-center/create-image-workspaces/\nZwivhuya shows you how to create a WorkSpace image in Amazon WorkSpaces.",
+        "date": "2020-04-23T20:03:33Z",
+        "duration": 274
     },
     {
         "service": "workspaces",
         "videoId": "TGXQrk4dmI8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "cloud desktops",
+            "desktops as a service",
+            "amazon workspaces"
+        ],
         "title": "Intro to Amazon WorkSpaces",
-        "date": "2019/02/22"
+        "description": "Amazon WorkSpaces - https://amzn.to/2X7evoB are secure, managed cloud desktops. You can use Amazon WorkSpaces to provision either Windows or Linux desktops in just a few minutes and quickly scale to provide thousands of desktops to workers across the globe.",
+        "date": "2019-02-22T08:00:02Z",
+        "duration": 49
     },
     {
         "service": "workspaces",
         "videoId": "vansN5WHHTY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "workspaces",
+            "cloud desktop",
+            "vdi",
+            "virtual desktop infrastructure",
+            "daas",
+            "desktop-as-a-service",
+            "euc",
+            "end user computing"
+        ],
         "title": "Dive into Amazon WorkSpaces with Jeff Barr",
-        "date": "2019/04/12"
+        "description": "Learn more about Amazon WorkSpaces at – https://amzn.to/2X5mQZ8 \nJoin Nathan Thomas, General Manager of Amazon WorkLink, and Jeff Barr to dive into Amazon WorkSpaces: a managed, secure cloud desktop service",
+        "date": "2019-04-12T16:00:12Z",
+        "duration": 1391
     },
     {
         "service": "workspaces",
         "videoId": "Spko2ZQXjsE",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Business Apps",
+            "BAP323",
+            "Amazon AppStream",
+            "Amazon AppStream 2.0",
+            "Amazon WorkSpaces"
+        ],
         "title": "AWS re:Invent 2018: Desktops & Applications to AWS with Amazon WorkSpaces & AppStream 2.0 (BAP323)",
-        "date": "2018/12/01"
+        "description": "IT organizations today need to support a modern, flexible, global workforce and ensure that their users can be productive anywhere. Moving desktops and applications to the AWS Cloud offers improved security, scale, and performance with cloud economics. In this session, we provide an overview of Amazon WorkSpaces and Amazon AppStream 2.0, and we discuss the use cases for each. Then, we dive deep into best practices for implementing Amazon WorkSpaces and AppStream 2.0, including how to integrate with your existing identity, security, networking, and storage solutions. Complete Title: AWS re:Invent 2018: Move Your Desktops & Applications to AWS with Amazon WorkSpaces & AppStream 2.0 (BAP323)",
+        "date": "2018-12-01T21:31:07Z",
+        "duration": 2824
     },
     {
         "service": "workspaces",
         "videoId": "bObeTwFN9yA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon WorkSpaces",
+            "Samsung DeX Station",
+            "Samsung Galaxy S8"
+        ],
         "title": "Introduction to Amazon WorkSpaces Virtual Desktop Running on the Samsung Galaxy S8 with DeX Station",
-        "date": "2017/04/27"
+        "description": "To learn more about Amazon WorkSpaces, visit - http://amzn.to/2pEmn3f.\nAmazon WorkSpaces is a fully managed desktop as a service (DaaS) in the cloud that allows anywhere, any time, access, to a secure Windows desktop. You can run your Amazon WorkSpaces virtual desktop on almost any device, including smartphones like the Samsung Galaxy S8 with the DeX Station.\n\nTo learn more about the Samsung DeX Station, visit - http://amzn.to/2qc39Cb",
+        "date": "2017-04-28T00:52:45Z",
+        "duration": 144
     },
     {
         "service": "workspaces",
         "videoId": "9lYPIfh2lM4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "119667"
+        ],
         "title": "Automating Amazon WorkSpaces Desktop and AppStream 2.0 Application Provisioning (119667)",
-        "date": "2017/06/20"
+        "description": "Amazon WorkSpaces is a fully managed, secure desktop computing service which runs on the AWS Cloud. Amazon AppStream 2.0 is a fully managed, secure application streaming service that allows you to stream desktop applications from AWS to any device running a web browser. This session will demonstrate how to automate Amazon WorkSpaces desktop and Appstream 2.0 application provisioning to provide users the appropriate experience as they enter, change roles, and leave an organization. Topics presented will include the Amazon WorkSpaces Cost Optimizer, AppStream 2.0 federated sign-in using SAML 2.0, and customer use cases.",
+        "date": "2017-06-20T17:19:11Z",
+        "duration": 3188
     },
     {
         "service": "workspaces",
         "videoId": "0dAWld31HWo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Workspaces",
+            "Autodesk University",
+            "event management",
+            "virtual workstations",
+            "workstations"
+        ],
         "title": "Amazon Workspaces Helps Improve Efficiency at Autodesk University",
-        "date": "2017/12/23"
+        "description": "To learn more about fully managed, secure virtual cloud desktops running on AWS, visit http://amzn.to/2pgMcqO. \nUsing AWS, Autodesk is able to set up and deploy 450 workstations at its Autodesk University events, saving nearly a week’s worth of time and thousands of dollars. Autodesk develops software for the engineering, design, and entertainment industries. Instead of renting physical hardware, Autodesk uses Amazon WorkSpaces to host its virtual workstations on zero clients, improving setup efficiency and reducing its carbon footprint.",
+        "date": "2017-12-23T21:41:21Z",
+        "duration": 150
     },
     {
         "service": "workspaces",
         "videoId": "7bvVbouQhKg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "How do I configure WorkSpaces to be accessed from Android?",
-        "date": "2018/12/14"
+        "description": "Michael, an AWS Cloud Support Engineer, shows you how to configure WorkSpaces accessed from Android.\nVisit the AWS Knowledge Center for more articles and videos: http://amzn.to/1SEgYvC",
+        "date": "2018-12-14T18:51:21Z",
+        "duration": 103
     },
     {
         "service": "workspaces",
         "videoId": "76fHZC3iF8c",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing"
+        ],
         "title": "Amazon IT uses Amazon WorkSpaces Globally to Enable Remote Work",
-        "date": "2020/08/03"
+        "description": "The Amazon Client Engineering team manages and supports IT services within Amazon and is responsible for managing the company’s devices. Amazon WorkSpaces has become the de facto model for onboarding new remote employees, contract workers, and subsidiaries. We see it as a way to help Client Engineering be more agile and more responsive to business needs. \n\nThe team uses Amazon WorkSpaces, Amazon AppStream 2.0, and Amazon WorkDocs as its tools to enable remote work and access to specific applications and documents inside Amazon.\n\nLearn more about AWS Workspaces at - https://amzn.to/33k8IBy\n\nRead the full case study here - https://amzn.to/2PlUo3a\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSCustomer",
+        "date": "2020-08-03T21:02:25Z",
+        "duration": 170
     },
     {
         "service": "workspaces",
         "videoId": "6OXMgOKPhAc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "amazon workspaces",
+            "image",
+            "VM",
+            "backup",
+            "duplicate"
+        ],
         "title": "AWS Knowledge Center Videos: How do I create a WorkSpace image in Amazon WorkSpaces?",
-        "date": "2016/10/11"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/create-image-workspaces/\nMichael, an AWS Cloud Support Engineer, shows how you can create a WorkSpace image in Amazon WorkSpaces",
+        "date": "2016-10-11T15:09:55Z",
+        "duration": 349
     },
     {
         "service": "workspaces",
         "videoId": "uE4x5kWVox4",
+        "tags": [
+            "Software (Industry)",
+            "Management",
+            "Technology",
+            "Data",
+            "System",
+            "Business",
+            "Office",
+            "coding",
+            "code",
+            "deployment",
+            "infrastructure",
+            "cloud infrastructure",
+            "AWS Summit Series 2016",
+            "Chicago Summit",
+            "AWS Chicago Summit",
+            "AWS Chicago 2016",
+            "2016 Summit Series",
+            "AWS Summits 2016",
+            "Amazon Workspaces",
+            "Application Manager"
+        ],
         "title": "AWS Summit Series 2016 | Chicago - Amazon WorkSpaces and Amazon WorkSpaces Application Manager",
-        "date": "2016/04/22"
+        "description": "Amazon WorkSpaces provides businesses with secure, managed desktops in the Amazon cloud, and offers an enhanced security posture, the ability to support the needs of a modern mobile workforce, and the flexibility to scale globally. In this session, you’ll hear about how organizations can simplify end user computing by moving desktops to the cloud. The session will cover identity and access management, network access and design, integration with on-premises IT infrastructure, application delivery, and the end user experience. This session is for enterprise IT professionals interested in learning best practices for deploying Amazon WorkSpaces at scale. Topics will include security and network access, identity and access management, application delivery, and end user experience.",
+        "date": "2016-04-22T21:00:05Z",
+        "duration": 2745
     },
     {
         "service": "workspaces",
         "videoId": "yfJb6Eoapsg",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Thomas",
+            "Business Apps",
+            "BAP303",
+            "AI",
+            "Lex",
+            "WorkSpaces"
+        ],
         "title": "AWS re:Invent 2017: Migrate Your Desktops to Amazon WorkSpaces (BAP303)",
-        "date": "2017/11/30"
+        "description": "Are you tired of maintaining and upgrading the PC infrastructure for your organization? Do you want to provide your users with a fast, fluid desktop that is accessible from anywhere, on any device? With Amazon WorkSpaces, you can do both simultaneously by running your desktops on AWS. In this session, we demonstrate the flexibility of Amazon WorkSpaces and show you how easy it is to get started. We also cover more advanced topics, including using Microsoft Active Directory for end-user management and authentication, and using Amazon WorkSpaces to implement a bring-your-own-device policy.",
+        "date": "2017-11-30T17:08:12Z",
+        "duration": 2525
     },
     {
         "service": "workspaces",
         "videoId": "9Q-ahnw2Lsc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Business Apps",
+            "BAP402",
+            "Justin Bradley",
+            "Jeff Ferris"
+        ],
         "title": "AWS re:Invent 2016: Best Practices from the Trenches: Deploy Amazon WorkSpaces Like a Pro (BAP402)",
-        "date": "2016/12/03"
+        "description": "Amazon WorkSpaces is an enterprise desktop computing service that runs in the cloud. In this deep-dive session, we discuss advanced topics and best practices for deploying Amazon WorkSpaces in your organization. We discuss Amazon VPC design and public endpoints, AWS Directory Service, integrating with your on-premises Microsoft Active Directory, using multi-factor authentication, and monitoring and logging with Amazon CloudWatch metrics. We walk through how to do all this using a combination of the AWS Command Line Interface, the AWS Management Console, and AWS CloudFormation templates.",
+        "date": "2016-12-03T18:33:12Z",
+        "duration": 3215
     },
     {
         "service": "workspaces",
         "videoId": "XOJy6DBj-yQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon WorkSpaces",
+            "DaaS",
+            "virtual desktops",
+            "cloud desktops",
+            "VDI",
+            "Endemol"
+        ],
         "title": "Endemol Shine Group Streamlines Desktop Operations with Amazon WorkSpaces",
-        "date": "2016/08/18"
+        "description": "Learn More:  http://amzn.to/2alCwPy\nEndemol Shine Group is a world leading creator, producer, and distributor of multiplatform entertainment with a portfolio that includes American Idol, Big Brother, MasterChef, Man vs. Food, The Biggest Loser, and Wipeout. Endemol Shine Group provides contract video crews with Amazon WorkSpaces for the duration of their video projects. Amazon WorkSpaces has allowed them to save 30 percent on desktop operations costs and 70 percent on capital expenditure. Amazon WorkSpaces also allows contract crews to use their own devices, while Endemol Shine Group improves their security by having physical laptops and file servers at video sites. Learn more about how Endemol Shine Group is benefiting from Amazon WorkSpaces by watching this video.",
+        "date": "2016-08-19T01:55:11Z",
+        "duration": 187
     },
     {
         "service": "workspaces",
         "videoId": "aCsrKqaO4OQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "WorkSpaces",
+            "alwayson",
+            "autostop",
+            "monthly",
+            "hourly",
+            "billing"
+        ],
         "title": "AWS Knowledge Center Videos: How do I enable hourly WorkSpaces?",
-        "date": "2017/03/22"
+        "description": "Find more details in the AWS Knowledge Center:  https://aws.amazon.com/premiumsupport/knowledge-center/workspace-modify-running-mode/\n\nMichael, an AWS Cloud Support Engineer, shows you how to enable hourly WorkSpaces.",
+        "date": "2017-03-22T16:45:07Z",
+        "duration": 162
     },
     {
         "service": "workspaces",
         "videoId": "ikCwILfdiCY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Move Your Desktops to AWS with Amazon WorkSpaces",
-        "date": "2018/11/06"
+        "description": "IT organizations today need to support a modern, flexible, global workforce and ensure their users can be productive from anywhere. Moving desktops and applications to AWS offers improved security, scale, and performance with cloud economics. In this session, we provide an overview of Amazon WorkSpaces and discuss the use cases for it. Then, we dive deep into best practices for implementing Amazon WorkSpaces, including integrating with your existing identity, security, networking, and storage solutions.",
+        "date": "2018-11-06T19:10:17Z",
+        "duration": 2708
     },
     {
         "service": "workspaces",
         "videoId": "cVk8HTGudeE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reboot",
+            "rebuild",
+            "update",
+            "crash"
+        ],
         "title": "AWS Knowledge Center Videos: How do I rebuild a WorkSpace in Amazon WorkSpaces?",
-        "date": "2016/10/12"
+        "description": "Find more details in the AWS Knowledge Center:  https://aws.amazon.com/premiumsupport/knowledge-center/rebuild-workspace/\nMichael, an AWS Cloud Support Engineer, shows how you can resolve WorkSpaces system errors by rebuilding a WorkSpace.",
+        "date": "2016-10-12T14:04:18Z",
+        "duration": 120
     },
     {
         "service": "workspaces",
         "videoId": "ICdabdrC964",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Johnson & Johnson (Award Winner)",
+            "J&J",
+            "Amazon WorkSpaces",
+            "Deploying Amazon WorkSpaces"
+        ],
         "title": "Deploying Amazon WorkSpaces at Scale with Johnson & Johnson",
-        "date": "2015/07/20"
+        "description": "Amazon WorkSpaces is an enterprise desktop computing service in the cloud. In this session, we will discuss configuration and management of Amazon WorkSpaces as part of your private network. \n\nWe will also introduce Amazon WorkSpaces Application Manager, a fast, flexible, and secure way for you to deploy and manage applications for your Amazon WorkSpaces.\n\nLearn more: https://aws.amazon.com/workspaces",
+        "date": "2015-07-20T17:23:05Z",
+        "duration": 3482
     },
     {
         "service": "workspaces",
         "videoId": "lOChwAEDIvQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Wokspaces",
+            "Service Now"
+        ],
         "title": "Set Up Amazon WorkSpaces as a Product in Your ServiceNow Portal",
-        "date": "2020/03/02"
+        "description": "In this video, you’ll see how to set up Amazon WorkSpaces as a product in your ServiceNow portal. When AWS Service Catalog is integrated into ServiceNow, you can add WorkSpaces to your Service Catalog products, enabling end users to request and receive provisioned virtual desktops on demand.\n\nLearn more about AWS Management and Governance at https://go.aws/3c82lTT\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-03-02T17:00:07Z",
+        "duration": 565
     },
     {
         "service": "workspaces",
         "videoId": "Q6r_QbYXFpg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Workspaces",
+            "AWS Lambda",
+            "AWS Step Functions",
+            "Amazon S3",
+            "Amazon RDS",
+            "Amazon API Gateway",
+            "Amazon Simple Queue Service (SQS)",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon Cognito",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "SynchroNet: Extending User Automation and Amazon WorkSpaces Provisioning with AWS Step Functions",
-        "date": "2019/08/10"
+        "description": "Learn more about This Is My Architecture at - https://amzn.to/2KegiTc. \nA common denominator across enterprise customers is a directory of users and a need to automate their resource provisioning at scale. Learn how SynchroNet uses a lightweight, serverless, event-driven architecture to ensure that the right user personas get the right workspace resources every time by automating Amazon Workspaces provisioning. \n\nHost: Todd Escalona, GSI Solutions Architect Evangelist, AWS\nCustomer: Mike Hapner, Chief Technology Officer, SynchroNet\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-08-10T16:00:06Z",
+        "duration": 282
     },
     {
         "service": "workspaces",
         "videoId": "6oNC-Vxekxo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "WorkSpaces"
+        ],
         "title": "AWS Symposium - Washington, DC | Amazon Workspaces Application Manager",
-        "date": "2015/08/14"
+        "description": "View this video to learn more about the new application delivery and management solution by AWS. Amazon Workspaces Application Manager is a service that offers customers on-demand access to desktop applications, flexibility to build and curate a selection of applications in a catalog and control access to applications for their users. All the while administrators maintain secure, scalable and streamlined delivery of these applications to Amazon WorkSpaces, a managed desktop computing service in the cloud. With a few clicks, Amazon WorkSpaces allows customers to easily provision cloud-based desktops that allow end-users to access the documents, applications and resources they need with the device of their choice. \n\nSpeaker:\n\nAlan Halachmi\nPrincipal Solutions Architect, Amazon Web Services\n\nView more here http://oak.ctx.ly/r/3cz00",
+        "date": "2015-08-14T17:17:29Z",
+        "duration": 2426
     },
     {
         "service": "workspaces",
         "videoId": "sLPZkDO_c4A",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon WorkSpaces",
+            "Amazon WorkSpaces Web Access"
+        ],
         "title": "Amazon WorkSpaces - Web Access",
-        "date": "2016/11/18"
+        "description": "Learn more about Amazon WorkSpaces at - http://amzn.to/2fcnUav\nYou can now access your Amazon WorkSpaces through Chrome and Firefox web browsers, using a new feature called Amazon WorkSpaces Web Access. Web Access establishes a secure connection to your Amazon WorkSpace from the browser, giving you safe access to your cloud desktop from almost anywhere you can connect to the public internet, without having to install a client.",
+        "date": "2016-11-19T00:49:07Z",
+        "duration": 67
     },
     {
         "service": "workspaces",
         "videoId": "Of9NAz0ze6Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "WorkSpace",
+            "Connect",
+            "RDP",
+            "unhealthy",
+            "troubleshoot"
+        ],
         "title": "AWS Knowledge Center Videos: How do I connect to my WorkSpace using RDP?",
-        "date": "2016/10/10"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/connect-workspace-rdp/\nMichael, an AWS Cloud Support Engineer, shows how to connect to your Amazon WorkSpace using RDP.",
+        "date": "2016-10-10T16:25:38Z",
+        "duration": 184
     },
     {
         "service": "workspaces",
         "videoId": "1eotXYBko3U",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Ploessel",
+            "Demo Theater",
+            "16960",
+            "WorkSpaces",
+            "Management Tools",
+            "Migration"
+        ],
         "title": "AWS re:Invent 2017: Top 5 Tips and Tricks for Amazon WorkSpaces (DEM51)",
-        "date": "2017/11/30"
+        "description": "Amazon WorkSpaces, a Desktop as a Service (DaaS) AWS service, is becoming popular in small and large companies. During this session, LG Electronics and RedNight Consulting share our top five tips for a successful implementation of an Amazon WorkSpaces environment, and tricks to accelerate adoption and migration. We cover common items missed in planning, the importance of management tools, and ways to optimize performance. If you are looking to implement Amazon WorkSpaces in the next 6-12 months, this LG Electronics and RedNight Consulting session will empower you to use every tool at your disposal to create a successful deployment.\n\n\n\nSession sponsored by LG",
+        "date": "2017-11-30T16:34:44Z",
+        "duration": 871
     },
     {
         "service": "workspaces",
         "videoId": "SmPro7FR-tQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Introducing AWS Marketplace for Desktop Apps and Amazon WorkSpaces Application Manager",
-        "date": "2015/04/10"
+        "description": "Amazon WorkSpaces customers now have new ways to manage their enterprise applications. You can access AWS Marketplace for Desktop Apps and choose from a broad selection of applications. To simplify deployment of these desktop applications use Amazon WorkSpaces Application Manager (Amazon WAM), which makes it possible to package, deploy, and manage applications to Amazon WorkSpaces.",
+        "date": "2015-04-10T16:06:51Z",
+        "duration": 148
     },
     {
         "service": "workspaces",
         "videoId": "fbYqaz2oTq4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "workspaces",
+            "cloudwatch"
+        ],
         "title": "AWS Knowledge Center Videos: How do I monitor Amazon WorkSpaces with Amazon CloudWatch?",
-        "date": "2017/11/15"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/failed-connections-workspaces-cloudwatch/\n\nMichael, an AWS Cloud Support Engineer, shows you how to monitor Amazon WorkSpaces with Amazon CloudWatch.",
+        "date": "2017-11-15T15:13:26Z",
+        "duration": 174
     },
     {
         "service": "workspaces",
         "videoId": "2VplSa54iWM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon.com (Venture Funded Company)",
+            "Software",
+            "Management",
+            "Data",
+            "System",
+            "Office",
+            "Security",
+            "Computer Security (Software Genre)",
+            "Training",
+            "Business",
+            "Information",
+            "deepak sury",
+            "supreeth sheshadri"
+        ],
         "title": "Amazon WorkSpaces: Advanced Topics and Application Delivery",
-        "date": "2015/04/10"
+        "description": "Amazon WorkSpaces is an enterprise desktop computing service in the cloud. In this session we will discuss configuration and management of Amazon WorkSpaces as part of your private network. We will also introduce Amazon WorkSpaces Application Manager, a fast, flexible, and secure way for you to deploy and manage applications for your Amazon WorkSpaces.",
+        "date": "2015-04-10T21:42:54Z",
+        "duration": 3225
     },
     {
         "service": "workspaces",
         "videoId": "8-UndQZWys0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I connect to my Amazon Linux WorkSpaces using SSH?",
-        "date": "2019/11/08"
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/2BlUQHU\nSangavi shows you how to connect to your Amazon Linux WorkSpaces using SSH.",
+        "date": "2019-11-08T17:55:34Z",
+        "duration": 294
     },
     {
         "service": "workspaces",
         "videoId": "Zd2CWEdrN7o",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Suryanarayanan",
+            "Public Sector",
+            "WPS207",
+            "AppStream 2.0",
+            "Connect",
+            "WorkSpaces",
+            "Storage"
+        ],
         "title": "AWS re:Invent 2017: Building On-Demand Classrooms and Labs Using Amazon WorkSpaces a (WPS207)",
-        "date": "2017/11/28"
+        "description": "Explore how education can create equitable learning experiences in the era of bring-your-own-device and Google Chromebooks, by delivering Microsoft Windows applications to students with Amazon WorkSpaces and Amazon AppStream 2.0. We discuss how students of all ages can use design applications, business intelligence tools, technical programs, and even desktop games such as Minecraft as part of their class curriculum, and still have a unified end-user experience, regardless of the hardware they are using. We dive into the steps for setting up WorkSpaces and AppStream 2.0 within a classroom, choosing the right option for your school, connecting existing storage and identity, enabling applications for students, and managing costs.",
+        "date": "2017-11-28T18:09:40Z",
+        "duration": 3032
     },
     {
         "service": "workspaces",
         "videoId": "ytYfYRj0E98",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Using Amazon WorkSpaces to Support Compute Intensive Curricula at a Distance",
-        "date": "2019/06/12"
+        "description": "Increasing market demands for data analytics skills are producing a greater need for hands-on analytics coursework; this, in turn, is dramatically increasing high-end computing requirements at many institutions. To address this, University of Virginia McIntire School of Commerce extended its desktop environment to the cloud using Amazon WorkSpaces, deploying preconfigured environments that are accessible on personal devices and from a distance. Join this session to learn how Amazon WorkSpaces can support your compute intensive curricula at a distance.",
+        "date": "2019-06-12T16:55:41Z",
+        "duration": 3425
     },
     {
         "service": "workspaces",
         "videoId": "bNyCC7fJ-uU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013getting-started",
+            "enterprise-apps",
+            "enterprise",
+            "WorkSpace",
+            "Deepak-Suryanarayan",
+            "ent"
+        ],
         "title": "Amazon WorkSpaces: Desktop Computing in the Cloud (ENT104) | AWS re:Invent 2013",
-        "date": "2013/11/29"
+        "description": "Desktop virtualization has long held the promise of productivity and security benefits, but has been held back by large CapEx requirements and complicated installation and management. In this session, we provide a detailed introduction to Amazon WorkSpaces, a new AWS service that combines the benefits of desktop virtualization and a cloud-based, pay-as-you-go model. You learn about the key steps for setting up and delivering a secure cloud-based workspace accessed through purpose-built client applications.",
+        "date": "2013-11-29T22:28:01Z",
+        "duration": 1735
     },
     {
         "service": "workspaces",
         "videoId": "anuFhaL-oyA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Directory Services",
+            "Amazon WorkSpaces",
+            "Amazon WorkMail",
+            "Amazon WorkDocs"
+        ],
         "title": "Amazon Directory Services, Amazon WorkSpaces, Amazon WorkMail, and Amazon WorkDocs",
-        "date": "2015/08/14"
+        "description": "Are you ready to leverage enterprise applications on AWS? In this session the speakers explore Amazon Directory Services, Amazon WorkSpaces, Amazon WorkMail, and Amazon WorkDocs. Amazon Directory Service is a managed service that allows you to connect your AWS resources with an existing on-premises Microsoft Active Directory or to set up a new, stand-alone directory in the AWS Cloud. A mazon WorkSpaces is a managed desktop computing service in the cloud. Amazon WorkSpaces allows customers to easily provision cloud-based desktops that allow end-users to access the documents, applications and resources they need with the device of their choice. Amazon WorkMail, a secure and managed business email and calendaring service. Amazon WorkMail gives users the ability to seamlessly access their email, contacts, and calendars while maintaining control over both the keys that encrypt their data and the location in which their data is stored. The speakers also dives into Amazon WorkDocs, a fully managed and secure enterprise storage and sharing service with strong administrative controls and feedback capabilities. \n\nSpeaker:\nJerry Rhoads\nSolutions Architect, Amazon Web Services\n\nView more here http://oak.ctx.ly/r/3cz00",
+        "date": "2015-08-14T17:17:29Z",
+        "duration": 2540
     },
     {
         "service": "workspaces",
         "videoId": "gSairkcFJFI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Wokspaces",
+            "Service Now",
+            "amazon workspaces",
+            "amazon workspaces demo"
+        ],
         "title": "Enable Self-Service Actions for Amazon WorkSpaces through ServiceNow",
-        "date": "2020/03/02"
+        "description": "In this video, you’ll see how to enable self-service actions for Amazon Workspaces through ServiceNow. If you’ve made Workspaces available as a product in ServiceNow, you can reduce support overhead by setting up custom service actions for Workspaces that allow users to perform common tasks on their own through the ServiceNow portal.\n\nLearn more about AWS Management and Governance at https://go.aws/2R2VIsh\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS",
+        "date": "2020-03-02T17:00:09Z",
+        "duration": 384
     },
     {
         "service": "workspaces",
         "videoId": "eK-P1cv50N8",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Business Apps",
+            "BAP305",
+            "Amazon WorkSpaces"
+        ],
         "title": "AWS re:Invent 2018: How to Move to Amazon WorkSpaces and Replace Your Legacy VDI (BAP305)",
-        "date": "2018/11/30"
+        "description": "Learn why more customers than ever are leaving the complexity and costs of virtual desktop infrastructure (VDI) for cloud desktop solutions like Amazon WorkSpaces. In this session, we discuss how you can use Amazon WorkSpaces to give your employees a responsive, secure, and delightful desktop experience while simplifying your own processes. We demonstrate the flexibility of Amazon WorkSpaces and show how easy it is to get started. We also cover more advanced topics, including using Microsoft Active Directory for end-user management and authentication, and using Amazon WorkSpaces to implement a bring- your-own-device policy.",
+        "date": "2018-11-30T16:37:49Z",
+        "duration": 3737
     },
     {
         "service": "workspaces",
         "videoId": "iAkkuuUJVUk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summits",
+            "AWS Public sector summit",
+            "2016AWSPSSummit",
+            "AWS Government summit"
+        ],
         "title": "Managing WorkSpaces at Scale | AWS Public Sector Summit 2016",
-        "date": "2016/07/07"
+        "description": "Amazon WorkSpaces provides businesses with secure, managed desktops in the Amazon cloud, and offers an enhanced security posture, the ability to support the needs of a modern mobile workforce, and the flexibility to scale globally. In this session, you’ll hear about how organizations can simplify end user computing by moving desktops to the cloud. The session will cover identity and access management, network access and design, integration with on-premises IT infrastructure, application delivery, and the end user experience. Generalized deployment model and office in the box with a deconstructed network. You will also hear first-hand from customers who have implemented WorkSpaces and best practices for deploying Amazon WorkSpaces at scale. Topics will include security and network access, identity and access management, application delivery, and end user experience.",
+        "date": "2016-07-08T02:29:53Z",
+        "duration": 2804
     },
     {
         "service": "workspaces",
         "videoId": "lEZsm4hx_C4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "linux",
+            "windows",
+            "workspaces",
+            "amazon web services",
+            "launch"
+        ],
         "title": "AWS Launchpad on twitch.tv/aws | AWS Introduces Amazon Linux WorkSpaces",
-        "date": "2018/07/30"
+        "description": "Amazon WorkSpaces now offers a Linux desktop based on Amazon Linux 2. With this launch, Amazon WorkSpaces customers have the flexibility to choose either a Windows 7, Windows 10, or Amazon Linux 2 desktop. Learn more at - https://amzn.to/2AlMmTn.\n\nCustomers can easily provision Amazon Workspaces for a growing range of use cases that now includes Linux developer desktops, kiosks like point of sale devices, and economical general-purpose desktops.",
+        "date": "2018-07-30T22:03:47Z",
+        "duration": 3498
     },
     {
         "service": "workspaces",
         "videoId": "cfJLHqle80Y",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Business Apps",
+            "BAP210",
+            "Salman Paracha",
+            "Introductory"
+        ],
         "title": "AWS re:Invent 2016: Hardware-Accelerating Graphics Desktop Workloads with Amazon WorkSpaces (BAP210)",
-        "date": "2016/12/05"
+        "description": "Amazon WorkSpaces is a desktop computing service that runs in the cloud, and now offers GPU configurations to support design and engineering applications and three-dimensional modeling. We show you how running these applications on Amazon WorkSpaces graphics bundles, in close proximity to data you already store on AWS, can help you process and visualize the results you need. We discuss the economics of running Amazon WorkSpaces graphics bundles, and demonstrate the experience of running a graphics-intensive application on a GPU-enabled Amazon WorkSpace. We also invite Autodesk (or TRC or ESRi) to discuss how they are using Amazon WorkSpaces graphics bundles in their business.",
+        "date": "2016-12-05T21:12:29Z",
+        "duration": 2841
     },
     {
         "service": "workspaces",
         "videoId": "feeJ07QzAiY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Services Deep Dive",
+            "Expert",
+            "Amazon WorkSpaces",
+            "Business Applications",
+            "Architect",
+            "Technical Decision Maker",
+            "IT Executive",
+            "Enterprise",
+            "Deepak Suryanarayanan",
+            "Eric Schultze"
+        ],
         "title": "AWS re:Invent 2014 | (SDD420) Amazon WorkSpaces: Advanced Topics and Deep Dive",
-        "date": "2014/11/17"
+        "description": "Amazon WorkSpaces is an enterprise desktop computing service in the cloud. In this session, we dive deep into configuration, administration, and advanced networking topics for WorkSpaces. We also discuss integration of WorkSpaces to your corporate active directory and best practices for enabling your WorkSpaces to access resources on your corporate intranet.",
+        "date": "2014-11-17T23:39:35Z",
+        "duration": 2697
     },
     {
         "service": "workspaces",
         "videoId": "KPUDKjUcc5E",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "GPSTechnical",
+            "GPSTEC316",
+            "WorkSpaces",
+            "Enterprise"
+        ],
         "title": "AWS re:Invent 2017: GPS: Image management Best Practices for Amazon WorkSpaces (GPSTEC316)",
-        "date": "2017/11/28"
+        "description": "Desktop and Application Streaming solutions provide the \"last mile” between users and their applications and data. In this session, we will review the elements and benefits of the layered desktop image, application dependencies, and lifecycle management of desktops. Liquidware Labs, a APN partner, will showcase their toolset that helps customers deploy on AWS with ease. This deep dive on desktop image management for Amazon WorkSpaces will focus on enterprise organizations migrating to the cloud and will benefit engineers and system administrators that are new to this space as well as experienced architects with existing deployments on AWS.",
+        "date": "2017-11-28T18:56:44Z",
+        "duration": 2953
     },
     {
         "service": "workspaces",
         "videoId": "mHfvz4UGifE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "dropbox",
+            "software",
+            "internet",
+            "analytics",
+            "storage",
+            "Amazon S3"
+        ],
         "title": "Dropbox Innovates Smart Workspace, Analytics Platform on AWS",
-        "date": "2020/06/26"
+        "description": "With more than 600 million registered users across 180 countries, Dropbox is a smart workspace platform for file-sharing and collaboration. Andrew Fong, Dropbox’s senior director of engineering, discusses the platform’s evolution on Amazon Web Services (AWS), starting from object storage on Amazon Simple Storage Service (Amazon S3) to now building a scalable, responsive business intelligence and analytics platform with a data lake on Amazon S3. “We really don’t believe it would be possible to build the Dropbox product without this deep partnership with AWS,” says Fong.\n\nTo learn more, visit https://amzn.to/2YCYLwh\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSCustomer",
+        "date": "2020-06-26T20:27:16Z",
+        "duration": 92
     },
     {
         "service": "workspaces",
         "videoId": "kawZBGCLBJU",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "IT Strategy & Migration",
+            "ISM403",
+            "Jeff Barr - Amazon Web Services",
+            "Todd Beckett - Amazon.com",
+            "Amazon Web Services",
+            "Expert (400 level)",
+            "Steve Mueller"
+        ],
         "title": "AWS re:Invent 2015 | (ISM403) How Amazon.com is Moving to Amazon WorkSpaces",
-        "date": "2015/10/09"
+        "description": "As a global company, Amazon.com employs over 100,000 individuals worldwide, with a range of full-time employees, contractors, partners, subsidiaries, and vendors, all of whom need some level of secure and potentially restricted access to the Amazon.com corporate network. By starting the move to Amazon WorkSpaces in 2015, Amazon.com centralized access to its corporate network without relying on VPN remote access or complex office networking topologies. In this session, we will dive deep to show exactly how Amazon.com approached its WorkSpaces design, implementation, and rollout. The talk provides detailed working knowledge on multiple Amazon VPC design considerations, including challenging IPv4 address space issues, AWS Direct Connect integrations with transitive routing, global Active Directory and GPO deployment, content filtering, patch management, virtualized applications with Amazon WorkSpaces Application Manager (Amazon WAM), offline access with Amazon WorkDocs, device management, and disaster recovery considerations. This session will also look at the long-pole migration to WorkSpaces, including the dependencies on office networking bandwidth and access points, and the move to a more decentralized networking infrastructure. Representatives from both AWS and Amazon.com will be presenting.",
+        "date": "2015-10-10T00:20:49Z",
+        "duration": 3675
     },
     {
         "service": "workspaces",
         "videoId": "zf7V3ezwnQQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Services Overview",
+            "Amazon WorkSpaces",
+            "Amazon Zocalo",
+            "Architect",
+            "Technical Decision Maker",
+            "Startup",
+            "Public Sector",
+            "Partner: Technology",
+            "Partner: Consulting",
+            "IT Executive",
+            "Enterprise",
+            "Developer",
+            "Alaa Badr"
+        ],
         "title": "AWS re:Invent 2014 | (SOV208) Amazon WorkSpaces and Amazon Zocalo",
-        "date": "2014/11/24"
+        "description": "This session provides an overview and demonstrations of the key features and benefits of Amazon WorkSpaces and Amazon Zocalo.   Amazon WorkSpaces is a fully managed desktop computing service in the cloud that allows you to easily provision cloud-based desktops that allow users to access the documents, applications, and resources they need. Amazon Zocalo is a fully managed enterprise storage and sharing service that offers enhanced security, strong administrative controls, and feedback capabilities. Users can access both services wherever they are with a device of their choice, including PCs and Macs as well as iPad, Kindle Fire, or Android tablets. Attend this session to learn more about these services, including how to manage them, what the experience is like for users, and how to get the most out of these services.",
+        "date": "2014-11-24T23:16:30Z",
+        "duration": 2467
     },
     {
         "service": "workspaces",
         "videoId": "mBPVA1RI5sg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Citrix",
+            "mobility",
+            "workspaces",
+            "digital workspaces"
+        ],
         "title": "Improve Enterprise Productivity with Secure Digital Workspaces",
-        "date": "2018/04/25"
+        "description": "Learn more about the AWS Partner Webinar Series at - https://amzn.to/2I19Ayf.\nEmployees want the flexibility to work from wherever and whenever, but to support workplace mobility organizations must provide access to corporate resources without sacrificing either security or performance. Citrix and AWS can help by providing a secure digital workspace with a great user experience for even the most demanding users to seamlessly access their business applications, desktops, and data. Register for our upcoming webinar to find out how leading enterprise reseller, MTM technologies helps its customers use the fully integrated Citrix Workspace Solution on AWS to reduce costs, strengthen security, and improve productivity in an increasingly mobile world.",
+        "date": "2018-04-25T21:15:01Z",
+        "duration": 2751
     },
     {
         "service": "workspaces",
         "videoId": "N45klH3ojBI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "elastic ip",
+            "workspace"
+        ],
         "title": "AWS Knowledge Center Videos: How do I associate an Elastic IP address with a WorkSpace?",
-        "date": "2017/10/17"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/associate-elastic-ip-workspace/\n\nQaisar, an AWS Cloud Support Engineer, shows you how to associate an Elastic IP address with a WorkSpace",
+        "date": "2017-10-17T13:58:25Z",
+        "duration": 152
     },
     {
         "service": "workspaces",
         "videoId": "dppP7rrkqc8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "ENT201",
+            "Introductory (200 level)",
+            "Enterprise & Migration"
+        ],
         "title": "AWS re:Invent 2016: Deploying Amazon WorkSpaces at Enterprise Scale (ENT201)",
-        "date": "2016/12/03"
+        "description": "Your enterprise has decided it is exiting the traditional desktop business and migrating to Amazon WorkSpaces. Your challenge: how do you provide end users a high quality experience using DaaS while integrating key enterprise services? Focusing on user adoption and simplified operational management DaaS offers significant benefits over traditional physical desktops and VDI solutions. These benefits include hourly consumption pricing, sizing flexibility, linear scalability, and simplified management.\n\nWe will dive into the methodology and design decisions that Informa, a global leader in business intelligence and part of the Information Economy, made to migrate to Amazon WorkSpaces. The goal of this strategy for Informa was to provide their end users with a Windows 10 desktop that could scale across three AWS regions. \n\nFollowing this session you will be equipped with a methodology for migrating to Amazon WorkSpaces and key design decision points that will assist your organization in rolling out this service for your end users. Best practices will be presented and there will be discussion on the capabilities required to build an enterprise-scale solution around WorkSpaces. All of this will include the fundamental value proposition AWS has brought to market with their industry-leading DaaS offering. Session sponsored by AHEAD.",
+        "date": "2016-12-03T19:21:11Z",
+        "duration": 2812
     },
     {
         "service": "workspaces",
         "videoId": "nBG0sGe04kY",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Ferris",
+            "Enterprise",
+            "ENT329",
+            "AppStream 2.0",
+            "Lex",
+            "WorkSpaces",
+            "ML",
+            "Security"
+        ],
         "title": "AWS re:Invent 2017: End-User Computing on AWS with Amazon WorkSpaces and Amazon AppS (ENT329)",
-        "date": "2017/12/01"
+        "description": "IT organizations today need to support a modern, flexible, global workforce and ensure their users can be productive from anywhere. Moving desktops and applications to AWS offers improved security, scale, and performance, with cloud economics. In this session, we provide an overview of Amazon WorkSpaces and Amazon AppStream 2.0, and talk through best practices for moving your end-user computing to AWS. We also dive deep into Amazon AppStream 2.0, and demonstrate some of the newest capabilities, including Microsoft Active Directory integration, single sign-on with SAML 2.0, and new graphics instances.",
+        "date": "2017-12-01T16:53:39Z",
+        "duration": 2843
     },
     {
         "service": "workspaces",
         "videoId": "BVxh3GfqrbM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos"
+        ],
         "title": "AWS Knowledge Center Videos: How do I update directory details for a WorkSpace?",
-        "date": "2017/06/12"
+        "description": "Find more details in the AWS Knowledge Center:  https://aws.amazon.com/premiumsupport/knowledge-center/workspaces-update-directory-settings/\n\nMichael, an AWS Cloud Support Engineer, shows you how to update directory details for your WorkSpace.",
+        "date": "2017-06-12T14:43:01Z",
+        "duration": 129
     },
     {
         "service": "workspaces",
         "videoId": "7wd8q5gMp98",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "ENT307"
+        ],
         "title": "AWS Summit SF 2018: Move your Desktops & Apps to AWS with Amazon WorkSpaces & AppStream 2 (ENT307)",
-        "date": "2018/04/11"
+        "description": "IT organizations today need to support a modern, flexible, global workforce and ensure their users can be productive from anywhere. Moving desktops and applications to AWS offers improved security, scale, and performance with cloud economics. In this session, we provide an overview of Amazon WorkSpaces and Amazon AppStream 2.0, and we discuss the use cases for each. Then, we dive deep into best practices for implementing Amazon WorkSpaces and AppStream 2.0, including integrating with your existing identity, security, networking, and storage solutions.",
+        "date": "2018-04-11T23:03:47Z",
+        "duration": 2902
     },
     {
         "service": "workspaces",
         "videoId": "OEUA3aSyEHs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "BAP202",
+            "Salman Paracha",
+            "Introductory",
+            "Business Apps"
+        ],
         "title": "AWS re:Invent 2016: Extra! News UK Saves Money with Hourly Amazon WorkSpaces (BAP202)",
-        "date": "2016/12/01"
+        "description": "Amazon WorkSpaces is a desktop computing service that runs in the cloud, and now supports both monthly and hourly billing. In this session, we help you determine the right billing method for your use cases, show you how to provision Amazon WorkSpaces for monthly or hourly billing, and work through a real-world example. News UK, a media organization that owns a stable of news and media brands, describes how they use Amazon WorkSpaces to solve a unique business need.",
+        "date": "2016-12-01T23:30:39Z",
+        "duration": 3069
     },
     {
         "service": "workspaces",
         "videoId": "r2Bh1hc-fak",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "BAP201",
+            "Salman Paracha",
+            "Introductory",
+            "Business Apps"
+        ],
         "title": "AWS re:Invent 2016: Move your desktops to the cloud with Amazon WorkSpaces (BAP201)",
-        "date": "2016/12/01"
+        "description": "Organizations today are striving to provide a more flexible environment for their end users, allowing them access to corporate resources from any device, anytime. At the same time, securing corporate information remains a top priority for CIOs. Traditional solutions such as Virtual Desktop Infrastructure (VDI) offer worker flexibility and security benefits, but they are expensive to purchase, complex to deploy, and they don’t scale well. In this session, you’ll learn how Amazon WorkSpaces combines the benefits of VDI with the economics of the cloud to deliver better value for organizations. We’ll show you just how easy it is to get started, and talk through how customers are using Amazon WorkSpaces today.",
+        "date": "2016-12-01T20:47:01Z",
+        "duration": 2774
     },
     {
         "service": "workspaces",
         "videoId": "wYOHMQoYWIA",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "EUC404",
+            "End User Computing",
+            "Business Apps",
+            "Facebook"
+        ],
         "title": "AWS re:Invent 2019: How Facebook deployed Amazon WorkSpaces globally (EUC404)",
-        "date": "2019/12/06"
+        "description": "Learn how enterprises like Facebook deploy and manage Amazon WorkSpaces at scale. Dive deep into Facebook’s technical deployment from start to finish, and walk through key Amazon WorkSpaces features that can benefit your enterprise’s global deployment.",
+        "date": "2019-12-07T05:56:19Z",
+        "duration": 2509
     },
     {
         "service": "workspaces",
         "videoId": "kjTcfPoIYXk",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "End User Computing",
+            "Business Apps",
+            "EUC330-P"
+        ],
         "title": "AWS re:Invent 2019: How to use Amazon Linux WorkSpaces for agile development (EUC330-P)",
-        "date": "2019/12/05"
+        "description": "This presentation was recorded prior to re:Invent. In this session, learn how Amazon Linux WorkSpaces can be customized to provide ready-to-go development cloud workstation environments for developers in your organization. We discuss how developers working with different programming languages, such as .NET, C++, Java, and Go, or with tools like Docker containers, can become agile using Amazon Linux WorkSpaces. We also cover best practices for getting the most out of a cloud-based development desktop service.",
+        "date": "2019-12-05T22:34:48Z",
+        "duration": 3401
     },
     {
         "service": "workspaces",
         "videoId": "LSVi_b3DUUs",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "EUC338",
+            "End User Computing",
+            "Business Apps",
+            "Carnival Cruise Lines",
+            "Carnival Cruise Line"
+        ],
         "title": "AWS re:Invent 2019: Carnival Cruise Line moved from on-premises VDI to Amazon WorkSpaces (EUC338)",
-        "date": "2019/12/06"
+        "description": "Learn why enterprises like Carnival Cruise Line are leaving the complexity and costs of virtual desktop infrastructure (VDI) for Amazon WorkSpaces. We dive into the business value that Amazon WorkSpaces provides Carnival, and how Carnival quickly and easily deployed solutions for multiple use cases.",
+        "date": "2019-12-07T06:03:39Z",
+        "duration": 3668
     },
     {
         "service": "workspaces",
         "videoId": "IhPGkdalG-s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Singapore",
+            "AWS Summit Series 2015",
+            "SMB",
+            "SMB in cloud",
+            "Cloud SMB infrastructure"
+        ],
         "title": "AWS Summit 2015 | Singapore - Grow Your SMB Infrastructure on the AWS Cloud",
-        "date": "2015/05/29"
+        "description": "Mark Statham, Senior SA and Shaun Norris, SA (both from AWS -ASEAN) guide this session on best practices for building an SMB infrastructure on the AWS Cloud.",
+        "date": "2015-05-29T14:37:11Z",
+        "duration": 3108
     }
 ]

@@ -2,109 +2,321 @@
     {
         "service": "elasticsearch_service",
         "videoId": "4Zw1IOxW-oA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Elasticsearch Service is a fully managed service that makes it easy for you to deploy",
+            "secure",
+            "Amazon Elasticsearch"
+        ],
         "title": "Amazon Elasticsearch Service",
-        "date": "2018/11/05"
+        "description": "Amazon Elasticsearch Service is a fully managed service that makes it easy for you to deploy, secure, and manage Elasticsearch at petabyte scale. Learn more at - https://amzn.to/2F0uvUp.",
+        "date": "2018-11-05T17:06:06Z",
+        "duration": 137
     },
     {
         "service": "elasticsearch_service",
         "videoId": "WuonfW-zQJ8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Elasticsearch"
+        ],
         "title": "Amazon Elasticsearch Service",
-        "date": "2018/07/06"
+        "description": "Amazon Elasticsearch service is a popular, open-source and fully managed, easily scalable service that allows to set up cluster in minutes, detect failures and replace failed nodes along with other benefits. Learn more at - https://amzn.to/2tY551N. \n\nIt has built-in integration with Kibana, Logstash and AWS services including Amazon Kinesis Firehose, AWS Lambda, and Amazon CloudWatch allowing you to go from raw data to actionable insights quickly.",
+        "date": "2018-07-06T15:59:49Z",
+        "duration": 3727
     },
     {
         "service": "elasticsearch_service",
         "videoId": "u_7xMcZl3D0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Analytics",
+            "ANT203",
+            "Amazon Elasticsearch Service"
+        ],
         "title": "AWS re:Invent 2018: Search at Nike with Amazon Elasticsearch Service (ANT203)",
-        "date": "2018/12/03"
+        "description": "Amazon Elasticsearch Service (Amazon ES) provides powerful, natural-language-based search features and a rich API to enable relevant search for applications like ecommerce, data lakes, and your application data. Nike upgraded the search engines for its web properties, including the Nike online store, standardizing on Amazon ES for these mission-critical workloads. With Amazon ES, Nike can focus on its core mission—enabling customers to find and purchase its products—without worrying about the hassle of deploying and scaling hardware, deploying Elasticsearch, configuring and securing its clusters, upgrading with security patches, or any of the low-value, operational tasks necessary to keep Elasticsearch maintained. Come to this session to learn the factors that Nike used in choosing Amazon ES. Get an overview of its architecture, and hear about the results of its migration.",
+        "date": "2018-12-04T00:47:43Z",
+        "duration": 2346
     },
     {
         "service": "elasticsearch_service",
         "videoId": "95kQkS51VnU",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Analytics",
+            "ANT334-R1",
+            "Amazon Elasticsearch Service"
+        ],
         "title": "AWS re:Invent 2018: Get the Most out of Your Amazon Elasticsearch Service Domain (ANT334-R1)",
-        "date": "2018/11/29"
+        "description": "Amazon Elasticsearch Service (Amazon ES) makes it easy to deploy and use Elasticsearch in the AWS Cloud to search your data and analyze your logs. In this session, you get key insights into Elasticsearch, including information on how you can optimize your expenditure, minimize your index sizes to lower costs, as well as best practices for keeping your data secure. Also hear from youth sports technology company SportsEngine, about their experience engineering a member-management product of over 260 million documents on top of Elasticsearch. Relive their harrowing journey through tens of thousands of shards, crushed clusters, mountains of pending tasks, and never-ending snapshots. Hear how they went from disaster to delight with Amazon ES. Complete Title: AWS re:Invent 2018: [REPEAT 1] Get the Most out of Your Amazon Elasticsearch Service Domain (ANT334-R1)",
+        "date": "2018-11-29T18:23:26Z",
+        "duration": 3505
     },
     {
         "service": "elasticsearch_service",
         "videoId": "QBwmVGlMOZU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Elastisearch",
+            "analytics",
+            "Kibana 5"
+        ],
         "title": "Elasticsearch 5 Now Available on Amazon Elasticsearch Service",
-        "date": "2017/01/30"
+        "description": "Learn more about Amazon Elasticsearch Service at - http://amzn.to/2jvVzKV.A\nYour analytics and search applications can now benefit from Amazon Elasticsearch Service’s support for Elasticsearch 5 and Kibana 5.\n\nElasticsearch is a popular search and analytics engine for log analytics, full text search, application monitoring, and more. Amazon Elasticsearch Service delivers Elasticsearch’s easy-to-use APIs and real-time capabilities along with the availability, scalability, and security required by production workloads.\n\nWhen creating an Amazon Elasticsearch Service domain, you can now select Elasticsearch version 5.1.1. All Amazon Elasticsearch Service domains using Elasticsearch 5.1.1 are bundled with Kibana 5.1.1, the latest version of the open-source visualization tool.\n\nElasticsearch 5 offers powerful new features that make it faster, more secure, and easier to use. Some of the highlights of Elasticsearch 5 include:\n• Support for Painless Scripting\n• Better Indexing Performance\n• New Ingestion API\n\nAs part of this release, Amazon Elasticsearch Service now supports 15 new Elasticsearch APIs including shrink and reindex, and 6 new plugins including Mapper Mumur3, Ingest Processor Attachment, and Smart Chinese Analysis.",
+        "date": "2017-01-30T20:03:39Z",
+        "duration": 113
     },
     {
         "service": "elasticsearch_service",
         "videoId": "Puwi_G3d4GQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I migrate data from one Amazon Elasticsearch Service domain to another?",
-        "date": "2020/06/23"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/migrate-amazon-es-domain/\n\nKashif shows you how to migrate data from one Amazon Elasticsearch Service domain to another.",
+        "date": "2020-06-23T14:00:59Z",
+        "duration": 345
     },
     {
         "service": "elasticsearch_service",
         "videoId": "3NE8rtSQUyY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Elasticsearch Service"
+        ],
         "title": "Webinar on Data to Insights using Amazon Elasticsearch Service",
-        "date": "2018/10/30"
+        "description": "Check all our On-demand webinars at - https://amzn.to/2z97dp4.\nAmazon Elasticsearch Service is an open-source, RESTful, distributed search and analytics engine and has quickly become the most popular search engine, and is commonly used for log analytics, full-text search, and operational intelligence use cases. Amazon Elasticsearch Service is a fully managed service that delivers Elasticsearch’s easy-to-use APIs and real-time analytics capabilities alongside the availability, scalability, and security that production workloads require. \nWe will cover:\n-What is Elasticsearch and how does it work\n-Typical use cases it is used for\n-What advantages does Amazon Elasticsearch Service offer compared to a DIY approach\n-Best Practices for sizing and managing your Amazon Elasticsearch Service workloads",
+        "date": "2018-10-30T16:22:17Z",
+        "duration": 3806
     },
     {
         "service": "elasticsearch_service",
         "videoId": "oJUpUQ_yNVw",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Analytics & Big Data",
+            "ABD331",
+            "AI",
+            "Elasticsearch Service",
+            "Analytics",
+            "AWS CloudTrail"
+        ],
         "title": "AWS re:Invent 2017: Log Analytics at Expedia Using Amazon Elasticsearch Service (ABD331)",
-        "date": "2017/11/28"
+        "description": "Expedia uses Amazon Elasticsearch Service (Amazon ES) for a variety of mission-critical use cases, ranging from log aggregation to application monitoring and pricing optimization. In this session, the Expedia team reviews how they use Amazon ES and Kibana to analyze and visualize Docker startup logs, AWS CloudTrail data, and application metrics. They share best practices for architecting a scalable, secure log analytics solution using Amazon ES, so you can add new data sources almost effortlessly and get insights quickly.",
+        "date": "2017-11-28T18:07:35Z",
+        "duration": 2404
     },
     {
         "service": "elasticsearch_service",
         "videoId": "Vt9TfgDRCXI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "BDA308"
+        ],
         "title": "AWS Summit SF 2018: Deep Dive: Log Analytics with Amazon Elasticsearch Service (BDA308)",
-        "date": "2018/04/11"
+        "description": "Amazon Elasticsearch Service makes it easy to deploy, secure, operate, and scale Elasticsearch for log analytics, full text search, application monitoring, and more. In this session you learn how to configure a secure, petabyte-scale Amazon Elasticsearch Service cluster and build Kibana dashboards to analyze your data. In addition, we discuss best practices to make your cluster reliable, take backups, and debug slow-running queries and indexing operations.",
+        "date": "2018-04-11T22:03:41Z",
+        "duration": 3395
     },
     {
         "service": "elasticsearch_service",
         "videoId": "s7dJESec_dY",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Big Data & Analytics",
+            "BDT209",
+            "Jon Handler - Amazon Web Services",
+            "Pravin Pillai - Amazon Web Services",
+            "Introductory (200 level)"
+        ],
         "title": "AWS re:Invent 2015 | (BDT209) New! Amazon Elasticsearch Service for Real-time Analytics",
-        "date": "2015/10/13"
+        "description": "Organizations are collecting an ever-increasing amount of data from numerous sources such as log systems, click streams, and connected devices. Launched in 2009, Elasticsearch —an open-source analytics and search engine— has emerged as a popular tool for real-time analytics and visualization of data. Some of the most common use cases include risk assessment, error detection, and sentiment analysis. However, as data volumes and applications grow, managing Elasticsearch clusters can consume significant IT resources while adding little or no differentiated value to the organization. Amazon Elasticsearch Service (Amazon ES) is a managed service that makes it easy to deploy, operate, and scale Elasticsearch clusters in the AWS Cloud. Amazon ES offers the benefits of a managed service, including cluster provisioning, easy configuration, replication for high availability, scaling options, data durability, security, and node monitoring. This session presents a technical deep dive on Amazon ES. Attendees learn: Common challenges with real-time data analytics and visualization and how to address them; the benefits, reference architecture, and best practices for using Amazon ES; and data ingestion options with Amazon DynamoDB, AWS Lambda, and Amazon Kinesis.",
+        "date": "2015-10-13T18:32:28Z",
+        "duration": 2610
     },
     {
         "service": "elasticsearch_service",
         "videoId": "uryHucNEZXk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How many shards are too many shards?",
-        "date": "2018/11/13"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2OI23q1\nKriti, an AWS Cloud Support Engineer, shows you what to do when your Amazon Elasticsearch Service cluster is unresponsive or the domain is stuck in the Processing state.",
+        "date": "2018-11-13T14:52:37Z",
+        "duration": 429
     },
     {
         "service": "elasticsearch_service",
         "videoId": "fTHdFJfG5G0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "אמזון ווב סרביסס",
+            "תשתיות ענן",
+            "אמזון ישראל",
+            "סאמיט",
+            "AWS Summit Tel Aviv"
+        ],
         "title": "AWS Summit Tel Aviv 2017: Deep Dive: Log Analytics with Amazon Elasticsearch Service",
-        "date": "2017/07/31"
+        "description": "Learn more about AWS at - https://aws.amazon.com/.\nEverything generates logs. Applications, infrastructure, security... everything. Keeping track of the flood of log data is a big challenge, yet critical to your ability to understand your systems and troubleshoot (or prevent) issues. In this session, we will use both Amazon CloudWatch and application logs to show you how to build an end-to-end log analytics solution. First, we cover how to configure an Amazon Elasticsearch Service domain and ingest data into it using Amazon Kinesis Firehose, demonstrating how easy it is to transform data with Firehose. We look at best practices for choosing instance types, storage options, shard counts, and index rotations based on the throughput of incoming data and configure a secure analytics environment. We demonstrate how to set up a Kibana dashboard and build custom dashboard widgets. Finally, we dive deep into the Elasticsearch query DSL and review approaches for generating custom, ad-hoc reports.",
+        "date": "2017-07-31T20:15:24Z",
+        "duration": 2771
     },
     {
         "service": "elasticsearch_service",
         "videoId": "3t-Xe8_wdRc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS Knowledge Center Videos: How Do I Process Amazon CloudFront logs with AWS Elasticsearch Service?",
-        "date": "2019/04/09"
+        "description": "Find more details in the AWS Knowledge Center:\nhttps://amzn.to/2Up7qlD\n\nDilip, an AWS Cloud Support Engineer, shows you how to process Amazon CloudFront logs with AWS Elasticsearch Service.",
+        "date": "2019-04-09T16:06:10Z",
+        "duration": 443
     },
     {
         "service": "elasticsearch_service",
         "videoId": "6fQo0tFgyOE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS in the Public Sector",
+            "Public Sector"
+        ],
         "title": "Taking a Dip in the Muni Bond Data Lake: Amazon Elasticsearch",
-        "date": "2019/06/20"
+        "description": "Full Session Title: Taking a Dip in the Muni Bond Data Lake: Unlocking Municipal Market Data Using NLP Powered Searches with Amazon Elasticsearch\n\nAmazon Elasticsearch Service is a fully managed service that makes it easy for you to deploy, secure, and operate Elasticsearch at scale with zero down time. This session focuses on best practices to get the most out of search applications using Amazon Elasticsearch and highlights how Municipal Securities Rulemaking Board (MSRB) used this service to modernize their analytics platform. The MSRB engaged REANCloud to develop a prototype data analytics platform that enabled natural language and free-text search using Amazon ElasticSearch along with Amazon Comprehend, Amazon Neptune, AWS Step Functions, AWS Lambda, and more. The result was an astonished Board of Directors, who saw the potential of leveraging the cloud to generate tremendous and transformative value for the municipal securities market.",
+        "date": "2019-06-20T22:11:24Z",
+        "duration": 3136
     },
     {
         "service": "elasticsearch_service",
         "videoId": "iGBzO9-mt-A",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "mattwood",
+            "amazon elastic seach",
+            "Elasticsearch",
+            "dr matt wood"
+        ],
         "title": "Support for Amazon Elasticsearch version 2.3",
-        "date": "2016/07/27"
+        "description": "Learn more: http://amzn.to/2aajoFx\n\nAmazon Elasticsearch Service now supports Elasticsearch version 2.3. Amazon Elasticsearch Service makes it easy to run Elasticsearch, which is a popular tool for real-time analytics use cases such as log analytics and application monitoring.",
+        "date": "2016-07-27T21:34:45Z",
+        "duration": 59
     },
     {
         "service": "elasticsearch_service",
         "videoId": "8OIbomasiN8",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ANT229",
+            "Analytics"
+        ],
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Introducing UltraWarm for Amazon Elasticsearch Service (ANT229)",
-        "date": "2019/12/10"
+        "description": "The transition from on premises to the cloud, centralized to microservices-based architectures, and IT to DevOps has resulted in three trends: an exponential growth in machine-generated data, the increasing need for near real-time monitoring and interactive analytics of that data, and democratized access to that data to derive actionable insights by anyone, anywhere, and anytime in a secured manner. In this talk, we discuss how Amazon Elasticsearch Service provides a secure, scalable, and cost-effective log analytics solution.",
+        "date": "2019-12-10T18:18:12Z",
+        "duration": 2354
     },
     {
         "service": "elasticsearch_service",
         "videoId": "6VjyCt8UR5g",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ANT203",
+            "Analytics",
+            "Sophos",
+            "Amazon ES"
+        ],
         "title": "AWS re:Invent 2019: Sophos: Build security solutions using Amazon Elasticsearch Service (ANT203)",
-        "date": "2019/12/06"
+        "description": "As a leader in building security solutions, Sophos knows that simple security is better security. In this talk, learn how the company has applied these same principles to developing a large-scale security monitoring and alerting system leveraging Amazon Elasticsearch Service (Amazon ES) and other AWS components. They also share why Amazon ES is well suited for security use cases, and cover best practices, lessons learned, and how to design for scale.",
+        "date": "2019-12-07T05:57:40Z",
+        "duration": 2765
     },
     {
         "service": "elasticsearch_service",
         "videoId": "EqPxPJZD87M",
+        "tags": [
+            "programming",
+            "aws",
+            "reinvent",
+            "ai",
+            "ml",
+            "developer",
+            "cloud computing",
+            "software",
+            "Aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "reinvent 2019",
+            "aws launchpad",
+            "UltraWarm"
+        ],
         "title": "AWS re:Invent 2019 Launchpad | UltraWarm for Amazon Elasticsearch Service",
-        "date": "2020/03/17"
+        "description": "Subscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #reInvent2019 #AWSLaunchpad",
+        "date": "2020-03-17T20:42:28Z",
+        "duration": 1094
     }
 ]

@@ -2,181 +2,581 @@
     {
         "service": "elasticache",
         "videoId": "v0GfpL5jfns",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT208",
+            "Databases",
+            "Lyft",
+            "Amazon ElastiCache",
+            "Amazon RDS"
+        ],
         "title": "AWS re:Invent 2019: Supercharge your real-time apps with Amazon ElastiCache (DAT208)",
-        "date": "2019/12/05"
+        "description": "With the rapid growth in cloud adoption and the new scenarios that it empowers, applications need microsecond latency and high throughput to support millions of requests per second. Developers have traditionally relied on specialized hardware and workarounds, such as disk-based databases combined with data reduction techniques, to manage data for real-time applications. These approaches can be expensive and not scalable. Learn how you can boost the performance of real-time applications by using the fully managed, in-memory Amazon ElastiCache for extreme performance, high scalability, availability, and security.",
+        "date": "2019-12-05T17:56:44Z",
+        "duration": 3414
     },
     {
         "service": "elasticache",
         "videoId": "SaGW_Bln3qA",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT323-R1",
+            "Databases",
+            "Amazon ElastiCache",
+            "Amazon RDS"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Whatʼs new with Amazon ElastiCache (DAT323-R1)",
-        "date": "2019/12/08"
+        "description": "Since re:Invent 2018, the Amazon ElastiCache team has been hard at work innovating on behalf of customers. In this session, we review the work that has been done in 2019 to make sure that ElastiCache is the most cost-effective and best performing Redis- and Memcached-compatible cloud service.",
+        "date": "2019-12-08T23:28:49Z",
+        "duration": 2952
     },
     {
         "service": "elasticache",
         "videoId": "Rpni5uPe0uI",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT358",
+            "Databases"
+        ],
         "title": "AWS re:Invent 2019: Best practices: migrating Redis clusters from Amazon EC2 to ElastiCache (DAT358)",
-        "date": "2019/12/05"
+        "description": "Managing Redis clusters on your own can be hard. You have to provision hardware, patch software, back up data, and monitor workloads constantly. With the newly released Online Migration feature for Amazon ElastiCache, you can now easily move your data from self-hosted Redis on Amazon EC2 to fully managed Amazon ElastiCache, with cluster mode disabled. In this session, you learn about the new Online Migration tool, see a demo, and, more importantly, learn hands-on best practices for a smooth migration to Amazon ElastiCache.",
+        "date": "2019-12-05T17:51:12Z",
+        "duration": 3652
     },
     {
         "service": "elasticache",
         "videoId": "HoBFic0OONE",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT374-S",
+            "Gap",
+            "Alliance Data",
+            "Redis Labs"
+        ],
         "title": "AWS re:Invent 2019: Using Redis beyond caching (DAT374-S)",
-        "date": "2019/12/09"
+        "description": "With new use cases emerging every day and with wider adoption of microservices and cloud-native architectures, more complexities continue to shift to developers. In this session, representatives from Redis demonstrate how you can use Redis beyond caching to solve for some modern use cases. They also show you how to use Redis for event-based architectures to reduce some of these complexities. Finally, they discuss and demonstrate how to use conflict-free replicated data types (CRDTs) for geo-distributed deployments and use cases. This presentation is brought to you by Redis Labs, an APN Partner.",
+        "date": "2019-12-09T18:53:26Z",
+        "duration": 3515
     },
     {
         "service": "elasticache",
         "videoId": "GoNsuTqeMto",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon ElastiCache",
+            "Redis",
+            "ElastiCache for Redis",
+            "In-Memory Data Store",
+            "Caching",
+            "Leaderboards",
+            "Fully-Managed Redis"
+        ],
         "title": "Introduction to Amazon ElastiCache for Redis",
-        "date": "2018/06/05"
+        "description": "Learn more about Amazon ElastiCache at - https://amzn.to/2kOpt0i.\nAmazon ElastiCache for Redis is a blazing fast in-memory data store that provides sub-millisecond latency to power internet-scale real-time applications. Built on open-source Redis and compatible with the Redis APIs, ElastiCache for Redis works with your Redis clients and uses the open Redis data format to store your data. Your self-managed Redis applications can work seamlessly with ElastiCache for Redis without any code changes. ElastiCache for Redis combines the speed, simplicity, and versatility of open-source Redis with manageability, security, and scalability from Amazon to power the most demanding real-time applications in Gaming, Ad-Tech, E-Commerce, Healthcare, Financial Services, and IoT. This video provides an overview of the service including use cases, key features, and differentiators.",
+        "date": "2018-06-05T23:54:28Z",
+        "duration": 151
     },
     {
         "service": "elasticache",
         "videoId": "QxcB53mL_oA",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT302-R1",
+            "Amazon ElastiCache"
+        ],
         "title": "AWS re:Invent 2018: ElastiCache Deep Dive: Design Patterns for In-Memory Data Stores (DAT302-R1)",
-        "date": "2018/11/29"
+        "description": "In this session, we provide a behind the scenes peek to learn about the design and architecture of Amazon ElastiCache. See common design patterns with our Redis and Memcached offerings and how customers use them for in-memory data processing to reduce latency and improve application throughput. We review ElastiCache best practices, design patterns, and anti-patterns. Complete Title: AWS re:Invent 2018: [REPEAT 1] ElastiCache Deep Dive: Design Patterns for In-Memory Data Stores (DAT302-R1)",
+        "date": "2018-11-29T18:31:26Z",
+        "duration": 3054
     },
     {
         "service": "elasticache",
         "videoId": "VGKbTnzyD_o",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "ElastiCache",
+            "Memcached",
+            "In-Memory database",
+            "In-Memory"
+        ],
         "title": "Introduction to Amazon ElastiCache for Memcached",
-        "date": "2018/08/24"
+        "description": "Amazon ElastiCache for Memcached is a Memcached-compatible in-memory key-value store service that can be used as a cache or a data store. Learn more at - https://amzn.to/2MsZzQ3.It delivers the performance, ease-of-use, and simplicity of Memcached. ElastiCache for Memcached is fully managed, scalable, and secure - making it an ideal candidate for use cases where frequently accessed data must be in-memory. It is a popular choice for use cases such as Web, Mobile Apps, Gaming, Ad-Tech, and E-Commerce.",
+        "date": "2018-08-24T16:37:37Z",
+        "duration": 133
     },
     {
         "service": "elasticache",
         "videoId": "fefDpHE44g0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "AWS re: Invent",
+            "re: Invent Conference",
+            "Amazon ElastiCache",
+            "HealthGuru"
+        ],
         "title": "AWS re: Invent DAT 301: Accelerating Amazon RDS Performance with Amazon ElastiCache",
-        "date": "2012/12/07"
+        "description": "Learn how you can use Amazon ElastiCache to easily deploy a Memcached-compatible, in-memory caching system to speed up your application performance. We show you how to use ElastiCache to improve your application latency and reduce the load on your database servers. We'll also show you how to build a caching layer that is easy to manage and scale as your application grows.",
+        "date": "2012-12-07T22:01:24Z",
+        "duration": 2754
     },
     {
         "service": "elasticache",
         "videoId": "_YYBdsuUq2M",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Databases",
+            "DAT305",
+            "ElastiCache"
+        ],
         "title": "AWS re:Invent 2017: ElastiCache Deep Dive: Best Practices and Usage Patterns (DAT305)",
-        "date": "2017/11/29"
+        "description": "In this session, we provide a peek behind the scenes to learn about Amazon ElastiCache's design and architecture. See common design patterns with our Redis and Memcached offerings and how customers have used them for in-memory operations to reduce latency and improve application throughput. During this session, we review ElastiCache best practices, design patterns, and anti-patterns.",
+        "date": "2017-11-29T16:59:04Z",
+        "duration": 3409
     },
     {
         "service": "elasticache",
         "videoId": "ZCfuWSsMgws",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon ElastiCache",
+            "Redis",
+            "IOPS",
+            "Redis 3.2"
+        ],
         "title": "Amazon ElastiCache | Redis Cluster Support",
-        "date": "2016/10/12"
+        "description": "Learn more about Amazon ElastiCache - http://amzn.to/2e7FKJy\nAmazon ElastiCache for Redis is a fully-managed, Redis-compatible in-memory data structure service that can be used as a data store or cache. We are adding sharding support with Redis Cluster, allowing improved availability and running at multi-terabyte in-memory scale with millions of IOPS. We also added geospatial support through Redis 3.2, allowing indexing, analyzing and processing location based data.",
+        "date": "2016-10-12T20:49:41Z",
+        "duration": 61
     },
     {
         "service": "elasticache",
         "videoId": "QqXRnZWRuLU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Database Deep Dive | S1 E8 – Redis & Amazon ElastiCache: Building Real Time Apps",
-        "date": "2019/06/27"
+        "description": "Real-Time applications such as caching, chat/messaging, session management, and leaderboards need microsecond latency and high throughput. Amazon offers fully managed Redis - a fast, in-memory data store and cache service that delivers microsecond latency for millions of reads and writes per second to power real-time applications.Join co-hosts Nick and Randall for Database Deep Dive as they welcome special guest Mohan Varthakavi to learn how you can use Amazon's Redis offering and build high-performance real-time applications.\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/live-video",
+        "date": "2019-06-27T18:03:50Z",
+        "duration": 4048
     },
     {
         "service": "elasticache",
         "videoId": "4VfIINg9DYI",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Databases",
+            "DAT407",
+            "Nate Wiger - Amazon Web Services",
+            "Tom Kerr - Riot Games",
+            "Expert (400 level)"
+        ],
         "title": "AWS re:Invent 2015 | (DAT407) Amazon ElastiCache: Deep Dive",
-        "date": "2015/10/09"
+        "description": "Peek behind the scenes to learn about Amazon ElastiCache's design and architecture. See common design patterns of our Memcached and Redis offerings and how customers have used them for in-memory operations and achieved improved latency and throughput for applications. During this session, we review best practices, design patterns, and anti-patterns related to Amazon ElastiCache.",
+        "date": "2015-10-09T22:04:29Z",
+        "duration": 3578
     },
     {
         "service": "elasticache",
         "videoId": "LoVp5Ww8W-4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I assign a new parameter group to an Elasticache cluster on the fly?",
-        "date": "2018/12/17"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2OGpEar\nDiwakar, an AWS Cloud Support Engineer, shows you how to assign a new parameter group to an Elasticache cluster on the fly.",
+        "date": "2018-12-18T00:25:16Z",
+        "duration": 168
     },
     {
         "service": "elasticache",
         "videoId": "me0Tw13O1H4",
+        "tags": [
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "web-apps",
+            "enterprise",
+            "Elasticache",
+            "Memcached",
+            "Redis",
+            "Nate-Wiger",
+            "dat"
+        ],
         "title": "Deep Dive into Amazon ElastiCache Architecture and Design Patterns (DAT307) | AWS re:Invent 2013",
-        "date": "2013/11/21"
+        "description": "Peek behind the scenes to learn about Amazon ElastiCache's design and architecture. See common design patterns of our Memcached and Redis offerings and how customers have used them for in-memory operations and achieved improved latency and throughput for applications. During this session, we review best practices, design patterns, and anti-patterns related to Amazon ElastiCache. We also include a demo where we enable Amazon ElastiCache for a web application and show the resulting performance improvements.",
+        "date": "2013-11-21T22:00:09Z",
+        "duration": 3276
     },
     {
         "service": "elasticache",
         "videoId": "odMmdPBV8hM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "databases",
+            "media-entertainment",
+            "performance",
+            "app performance",
+            "application performance",
+            "elasticache",
+            "memcached",
+            "redis",
+            "Nick-Dor",
+            "DAT207"
+        ],
         "title": "Accelerating Application Performance with Amazon ElastiCache (DAT207) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "Learn how you can use Amazon ElastiCache to easily deploy a Memcached or Redis compatible, in-memory caching system to speed up your application performance. We show you how to use Amazon ElastiCache to improve your application latency and reduce the load on your database servers. We'll also show you how to build a caching layer that is easy to manage and scale as your application grows. During this session, we go over various scenarios and use cases that can benefit by enabling caching, and discuss the features provided by Amazon ElastiCache.",
+        "date": "2013-11-26T19:55:26Z",
+        "duration": 2651
     },
     {
         "service": "elasticache",
         "videoId": "H2AwyOkTq6w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Dream11",
+            "Rohini Gaonkar",
+            "Amit Sharma",
+            "sports tech startup",
+            "Amazon Aurora",
+            "Amazon ElastiCache",
+            "Redis",
+            "Amazon EC2",
+            "Amazon CloudFront",
+            "MySQL",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Dream11: Scaling Fantasy Sports Platform with Amazon ElastiCache and Amazon Aurora",
-        "date": "2018/08/23"
+        "description": "Learn more about This Is My Architecture at - https://amzn.to/2O8FLOf\nDream11 is India’s leading Sports-Tech startup with a growing base of 40 million+ users playing multiple sports such as fantasy cricket, football, kabaddi and the NBA. Dream11 uses Amazon Aurora with Amazon ElastiCache to serve 1M concurrent users within 50ms response time, serving at an average 3 Million Requests Per Minute (rpm) which can surge upto 3X in a 30-second timespan. In this video, we'll be shedding some light on our architecture, along with our battle plan to handle transactions without locking. We’ll also talk about the features of Amazon Aurora and Amazon ElastiCache that helped Dream11 to handle 5M Daily Active Users with 4X growth YoY.\n\nHost: Rohini Gaonkar, Solutions Architect, AWS\nSpeaker: Amit Sharma, CTO, Dream11\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2018-08-23T16:10:56Z",
+        "duration": 408
     },
     {
         "service": "elasticache",
         "videoId": "4FQAtbgXrdY",
+        "tags": [
+            "amazon web services",
+            "elasticache",
+            "aws",
+            "caching",
+            "cache"
+        ],
         "title": "Turbocharge Your Apps with Amazon Elasticache",
-        "date": "2011/08/22"
+        "description": "This video provides an overview of Amazon ElastiCache -- a web service that makes it easy to deploy, operate and scale an in-memory cache in the cloud -- and includes a short demonstration. Amazon ElastiCache improves the performance of web applications by allowing you to retrieve information from a fast, managed, in-memory caching system, instead of relying entirely on slower disk-based databases. The service is Memcached compatible, so your existing code, applications and popular tools will work seamlessly with the service.  Learn more by visiting: http://aws.amazon.com/elasticache. AWS Evangelist --  Simone Brunozzi.",
+        "date": "2011-08-22T21:19:31Z",
+        "duration": 427
     },
     {
         "service": "elasticache",
         "videoId": "eyd_8efUCwM",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT319",
+            "Amazon ElastiCache"
+        ],
         "title": "AWS re:Invent 2018: Airbnb's Journey from Self-Managed Redis to ElastiCache for Redis (DAT319)",
-        "date": "2018/11/28"
+        "description": "At Airbnb, we use Redis extensively as an in-memory data store to reduce latency and provide sub-millisecond response for our website, search, images, payments, and more. We migrated our self-managed Redis environment from EC2 classic to fully-managed Amazon ElastiCache for Redis to reduce operational overhead and improve availability. Now, all our Redis is in an AWS managed service that provides multi-Availability Zone support, automatic failover, and maintenance. Attend this session to learn how we migrated our Redis environment while ensuring data integrity and zero downtime.",
+        "date": "2018-11-28T18:36:50Z",
+        "duration": 1805
     },
     {
         "service": "elasticache",
         "videoId": "hIPOLeEjVQY",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "-",
+            "STP11",
+            "Amazon Aurora",
+            "Amazon ElastiCache"
+        ],
         "title": "AWS re:Invent 2018: Scaling a Fantasy Sports Platform with Amazon ElastiCache & Amazon Aurora STP11",
-        "date": "2018/11/29"
+        "description": "Dream11 is India’s leading sports-tech startup. It has a growing base of 40 million+ users playing multiple sports, including fantasy cricket, football, and basketball, and it currently serves one million concurrent users, who produce three million requests per minute under a 50-millisecond response time. In this talk, Dream11 CTO Amit Sharma explains how the company uses Amazon Aurora and Amazon ElastiCache to handle flash traffic, which can triple within a 30-second response window. Sharma also talks about scaling transactions without locking, and he shares the steps for handling flash traffic—thereby serving five million daily active users. Complete Title: AWS re:Invent 2018: Scaling a Fantasy Sports Platform with Amazon ElastiCache & Amazon Aurora (STP11)",
+        "date": "2018-11-29T18:29:43Z",
+        "duration": 1661
     },
     {
         "service": "elasticache",
         "videoId": "hIPOLeEjVQY",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "-",
+            "STP11",
+            "Amazon Aurora",
+            "Amazon ElastiCache"
+        ],
         "title": "AWS re:Invent 2018: Scaling a Fantasy Sports Platform with Amazon ElastiCache & Amazon Aurora STP11",
-        "date": "2018/11/29"
+        "description": "Dream11 is India’s leading sports-tech startup. It has a growing base of 40 million+ users playing multiple sports, including fantasy cricket, football, and basketball, and it currently serves one million concurrent users, who produce three million requests per minute under a 50-millisecond response time. In this talk, Dream11 CTO Amit Sharma explains how the company uses Amazon Aurora and Amazon ElastiCache to handle flash traffic, which can triple within a 30-second response window. Sharma also talks about scaling transactions without locking, and he shares the steps for handling flash traffic—thereby serving five million daily active users. Complete Title: AWS re:Invent 2018: Scaling a Fantasy Sports Platform with Amazon ElastiCache & Amazon Aurora (STP11)",
+        "date": "2018-11-29T18:29:43Z",
+        "duration": 1661
     },
     {
         "service": "elasticache",
         "videoId": "pgXEnAcTNPI",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT202",
+            "Amazon ElastiCache"
+        ],
         "title": "AWS re:Invent 2018: Reliable & Scalable Redis in the Cloud with Amazon ElastiCache (DAT202)",
-        "date": "2018/11/28"
+        "description": "This session covers the features and enhancements in our Redis-compatible service, Amazon ElastiCache for Redis. We cover key features, such as Redis 5, scalability and performance improvements, security and compliance, and much more. We also discuss upcoming features and customer case studies.",
+        "date": "2018-11-28T18:46:00Z",
+        "duration": 3657
     },
     {
         "service": "elasticache",
         "videoId": "hwBkMfm30Os",
+        "tags": [
+            "memcached",
+            "in-memory caching",
+            "applications",
+            "cache cluster",
+            "cache nodes",
+            "AWS",
+            "EC2",
+            "RDS"
+        ],
         "title": "Webinar: Turbo Charge your apps using Amazon ElastiCache",
-        "date": "2012/01/11"
+        "description": "Learn more about Amazon ElastiCache, a web service that makes it easy to deploy, operate and scale in-memory cache in the cloud.  We will introduce Amazon ElastiCache, go over the benefits it provides to you, demo how the service works, and walk you through how you can plug it into your applications in minutes. Recorded December 6, 2011.",
+        "date": "2012-01-11T20:07:21Z",
+        "duration": 2729
     },
     {
         "service": "elasticache",
         "videoId": "cQRrpeSrpgU",
+        "tags": [
+            "amazon web services",
+            "elasticache",
+            "cloud computing",
+            "software tutorial"
+        ],
         "title": "How to Create 1 Terabyte of Cache using Amazon ElastiCache",
-        "date": "2011/08/18"
+        "description": "This short demonstration explains how to quickly get started with Amazon ElastiCache -- a web service that makes it easy to deploy, operate and scale an in-memory cache in the cloud. The service improves the performance of web applications by allowing you to retrieve information from a fast, managed, in-memory caching system, instead of relying entirely on slower disk-based databases. Amazon ElastiCache is Memcached compatible, so your existing code, applications and popular tools will work seamlessly with the service.  Learn more by visiting: http://aws.amazon.com/elasticache. AWS Evangelist --  Simone Brunozzi.",
+        "date": "2011-08-18T20:35:38Z",
+        "duration": 130
     },
     {
         "service": "elasticache",
         "videoId": "Yp_nMyJ48lU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Building Low Latency Apps with a Serverless Architecture and In-Memory Data",
-        "date": "2018/04/25"
+        "description": "Learn more about AWS and check out the upcoming schedule, previous recordings, and links to the resources discussed at - https://amzn.to/2qXLI6s.\n\nAWS DevDay Munich 2018:\nMemory data stores such as ElastiCache for Redis enables applications with response times in microseconds. By using Aurora, DynamoDB, DAX, Lambda, and ElastiCache, we explored how to design and deploy high-perfomance applications. Learn more here: https://aws.amazon.com/products/databases/",
+        "date": "2018-04-25T17:17:31Z",
+        "duration": 3474
     },
     {
         "service": "elasticache",
         "videoId": "cEkHBqhQnog",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Services Deep Dive",
+            "Advanced",
+            "Amazon ElastiCache",
+            "Database",
+            "Adobe Systems",
+            "Architect",
+            "Developer",
+            "Frank Wiebe",
+            "Sami Zuhuruddin"
+        ],
         "title": "AWS re:Invent 2014 | (SDD402) Amazon ElastiCache Deep Dive",
-        "date": "2014/11/17"
+        "description": "Peek behind the scenes to learn about Amazon ElastiCache's design and architecture. See common design patterns of our Memcached and Redis offerings and how customers have used them for in-memory operations and achieved improved latency and throughput for applications. During this session, we review best practices, design patterns, and anti-patterns related to Amazon ElastiCache.",
+        "date": "2014-11-17T23:20:40Z",
+        "duration": 2897
     },
     {
         "service": "elasticache",
         "videoId": "CNaQx0oh8q8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "broker",
+            "Amulya Sharma",
+            "Toby Knight",
+            "Amazon API Gateway",
+            "Amazon ElastiCache",
+            "Amazon VPC",
+            "Amazon ElastiCache for Redis",
+            "Amazon EC2",
+            "Redis",
+            "Predix Platform",
+            "Digital",
+            "AMER"
+        ],
         "title": "GE Predix Platform: Using AWS Elasticache with Open Service Broker",
-        "date": "2018/02/12"
+        "description": "Learn more at - http://amzn.to/2C6xhR3.\nPredix Platform from GE Digital implemented Open Service Broker API on EC2 to present standard, consistent services to their developers, who develop container-based applications on AWS. Their developers needed to manage state for those applications (e.g. session state data). Predix Platform used AWS Elasticache with Redis then presented it to developers via the service broker based on open service broker. This allowed developers to easily create Redis clusters with standard, pre-configured parameters, sizing and network security. To manage data security on their multi-tenant solution, they used the Redis Auth Key. \n\nSpeaker: Amulya Sharma, Senior Staff Software Engineer Predix Platform, GE Digital",
+        "date": "2018-02-12T17:52:22Z",
+        "duration": 380
     },
     {
         "service": "elasticache",
         "videoId": "e9sN15a7utI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "DAT306",
+            "Michael Labib",
+            "Advanced (300 Level)",
+            "Databases"
+        ],
         "title": "AWS re:Invent 2016: ElastiCache Deep Dive: Best Practices and Usage Patterns (DAT306)",
-        "date": "2016/12/01"
+        "description": "In this session, we provide a peek behind the scenes to learn about Amazon ElastiCache's design and architecture. See common design patterns with our Redis and Memcached offerings and how customers have used them for in-memory operations to reduce latency and improve application throughput. During this session, we review ElastiCache best practices, design patterns, and anti-patterns.",
+        "date": "2016-12-01T22:38:22Z",
+        "duration": 3339
     },
     {
         "service": "elasticache",
         "videoId": "eQbsXN0kcc0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Databases",
+            "DAT317",
+            "Darin Briskman",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2016: How IFTTT uses ElastiCache for Redis to predict events (DAT317)",
-        "date": "2016/12/03"
+        "description": "IFTTT is a free service that empowers people to do more with the services they love, from automating simple tasks to transforming how someone interacts with and controls their home. IFTTT uses ElastiCache for Redis to store transaction run history and schedule predictions as well as indexes for log documents on S3. Join this session to learn how the scripting power of Lua and the data types of Redis allowed them to accomplish something they would not have been able to elsewhere.",
+        "date": "2016-12-03T22:00:48Z",
+        "duration": 1898
     },
     {
         "service": "elasticache",
         "videoId": "37Zkoh4tdFg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws startups",
+            "Relationship Science",
+            "Brett Brown",
+            "AWS New York Summit 2018"
+        ],
         "title": "How Relationship Science Expands From Zero Using Elasticache, SQS, and DynamoDB",
-        "date": "2018/08/08"
+        "description": "Brett Brown, Director of Technology at Relationship Science, speaks at the 2018 AWS NYC Summit about how his startup expands from zero using Elasticache, SQS, and DynamoDB. Learn more about AWS Startups at - https://amzn.to/2ATeHAK.",
+        "date": "2018-08-08T19:03:19Z",
+        "duration": 648
     },
     {
         "service": "elasticache",
         "videoId": "eWSUXdUUpQI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "elasticache",
+            "performance improvements",
+            "webcast",
+            "webinar",
+            "cache"
+        ],
         "title": "AWS Webcast - Accelerating Application Performance Using In-Memory Caching in AWS",
-        "date": "2013/06/03"
+        "description": "This webinar covers both introductory as well as advanced topics related to ElastiCache and is intended for current memcached users as well as those already using ElastiCache. During this session we will go over various scenarios and use-cases that can benefit by enabling caching, discuss the features provided by ElastiCache, and review best-practices, design patterns, and anti-patterns related to ElastiCache. The webinar will also include a demo where we enable ElastiCache for a web application and show the resulting performance improvements.",
+        "date": "2013-06-04T03:23:44Z",
+        "duration": 3388
     }
 ]

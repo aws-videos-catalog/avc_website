@@ -2,127 +2,397 @@
     {
         "service": "cognito",
         "videoId": "abTy-Yyo6lI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Amazon Cognito",
+            "Mobile",
+            "Mobile Backend",
+            "Mobile Sync",
+            "animated",
+            "user authentication",
+            "mobile data service"
+        ],
         "title": "Introduction to Amazon Cognito - User Authentication and Mobile Data Service on AWS",
-        "date": "2014/07/10"
+        "description": "Amazon Cognito is a simple user identity and data synchronization service that helps you securely manage and synchronize app data for your users across their mobile devices. Learn more at: http://amzn.to/2iZQNqj",
+        "date": "2014-07-10T14:36:17Z",
+        "duration": 142
     },
     {
         "service": "cognito",
         "videoId": "bj3yVT6j3XU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I authorize access to API Gateway APIs using custom scopes in Amazon Cognito?",
-        "date": "2019/10/29"
+        "description": "or more details see the Knowledge Center article with this video: https://amzn.to/2VqPwfv\nMuthu, an AWS Cloud Support Engineer, shows you how to authorize access to API Gateway APIs using custom scopes in Amazon Cognito.",
+        "date": "2019-10-29T18:19:04Z",
+        "duration": 375
     },
     {
         "service": "cognito",
         "videoId": "BN3SBeqaq0g",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I set up Cognito's hosted UI?",
-        "date": "2019/01/10"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2GqrLAn\nElton, an AWS Cloud Support Engineer, shows you how to configure the hosted web UI for Amazon Cognito.",
+        "date": "2019-01-10T17:40:16Z",
+        "duration": 266
     },
     {
         "service": "cognito",
         "videoId": "TowcW1aTDqE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "Amazon Cognito"
+        ],
         "title": "Live Coding with AWS: API Authentication with Amazon Cognito",
-        "date": "2017/04/21"
+        "description": "Visit the AWS Twitch Channel - http://bit.ly/2oy83V4.\n\nJoin us for live coding on Twitch.TV/AWS every week to build exciting interactive applications. We cover almost every AWS service from the developer perspective. Occasionally we’ll have guests from throughout Amazon and the community to talk about their projects. You can always submit your ideas or questions via AWS-Twitch@amazon.com.",
+        "date": "2017-04-21T23:19:43Z",
+        "duration": 10081
     },
     {
         "service": "cognito",
         "videoId": "M6qTrI7kmZk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon",
+            ".NET",
+            "Cognito",
+            "Serverless"
+        ],
         "title": "Authenticating Serverless ASP.NET Core Web APP Using Amazon Cognito",
-        "date": "2018/11/21"
+        "description": "Amazon Cognito lets you add user sign-up, sign-in, and access control to your web and mobile apps quickly and easily. Amazon Cognito scales to millions of users and supports sign-in with social identity providers, such as Facebook, Google, and Amazon, and enterprise identity providers via SAML 2.0.\n\nFor more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2t7AHBA.",
+        "date": "2018-11-21T20:45:58Z",
+        "duration": 1499
     },
     {
         "service": "cognito",
         "videoId": "g_6XP0AsBb0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "Amazon Cognito isn't delivering SMS messages to my app's users",
-        "date": "2020/02/21"
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/2rAWl3a\nSylvester shows why Amazon Cognito isn't delivering SMS messages to my app's users.",
+        "date": "2020-02-21T21:24:34Z",
+        "duration": 222
     },
     {
         "service": "cognito",
         "videoId": "LcD_-p1gCww",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Cognito",
+            ".Net",
+            "Core"
+        ],
         "title": "Using AWS Cognito in your .Net Core App",
-        "date": "2018/11/21"
+        "description": "Amazon Cognito lets you add user sign-up, sign-in, and access control to your web and mobile apps quickly and easily. Amazon Cognito scales to millions of users and supports sign-in with social identity providers, such as Facebook, Google, and Amazon, and enterprise identity providers via SAML 2.0.\n\nFor more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2t7AHBA.",
+        "date": "2018-11-21T20:44:39Z",
+        "duration": 274
     },
     {
         "service": "cognito",
         "videoId": "GDkkDUnICrs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos",
+            "Amazon Cognito"
+        ],
         "title": "How do I allow API users to run AWS Lambda with their Amazon Cognito permissions?",
-        "date": "2019/02/26"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2Tsny0N\nNivea, an AWS Cloud Support Engineer, shows you how to allow API users to run AWS Lambda using the execution role from an Amazon Cognito user pool group.",
+        "date": "2019-02-26T22:46:06Z",
+        "duration": 332
     },
     {
         "service": "cognito",
         "videoId": "FKU3Ai1AzNM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I set up OneLogin as a SAML identity provider with Amazon Cognito user pool?",
-        "date": "2020/06/24"
+        "description": "For more details see the Knowledge Center article with this video: (https://aws.amazon.com/premiumsupport/knowledge-center/cognito-saml-onelogin/). \n\nMohammad shows you how to set up OneLogin as a SAML identity provider with Amazon Cognito user pool.",
+        "date": "2020-06-24T16:26:28Z",
+        "duration": 275
     },
     {
         "service": "cognito",
         "videoId": "E3VDZvPuS44",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I set up Okta as a SAML identity provider with an Amazon Cognito user pool?",
-        "date": "2020/07/07"
+        "description": "For more details see the Knowledge Center article with this video: (https://aws.amazon.com/premiumsupport/knowledge-center/cognito-okta-saml-identity-provider/). \n\nKashif shows you how to set up Okta as a SAML identity provider with an Amazon Cognito user pool.",
+        "date": "2020-07-07T21:06:15Z",
+        "duration": 382
     },
     {
         "service": "cognito",
         "videoId": "ruo-1XT9xVU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Canberra Summit 2017",
+            "Amazon Cognito",
+            "AWS Public Sector Summit 2017 Canberra"
+        ],
         "title": "Managing Identity and Securing Your Mobile and Web Applications with Amazon Cognito",
-        "date": "2017/09/11"
+        "description": "Learn more about AWS at - http://amzn.to/2yezXgV.\nAmazon Cognito lets you easily add user sign-up and sign-in to your mobile and web apps. Finding the right identity solution can often be challenging. In this session, we will look at how Cognito can support a wide range of authentication scenarios including customers, employees and systems to help you make the right choices.",
+        "date": "2017-09-11T16:39:42Z",
+        "duration": 1525
     },
     {
         "service": "cognito",
         "videoId": "G4cuZmDXRks",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "live coding",
+            "aws",
+            "amazon web services",
+            "serverless applications",
+            "cloud",
+            "applications",
+            "cognito",
+            "chatbot",
+            "security",
+            "Tara Walker",
+            "Lex Bot",
+            ".NET"
+        ],
         "title": "Tech Bytes | Build a .NET Chatbot | Adding Authentication with Amazon Cognito",
-        "date": "2018/04/02"
+        "description": "To catch up on more AWS Twitch streams and to see the upcoming calendar, visit https://amzn.to/2pVs1vx.\nIn this interactive coding session, AWS Senior Technical Evangelist Tara Walker used Amazon Cognito to add authentication, for making the order flowers Lex Bot securely access the AWS cloud. \nStart building your .NET chatbot today: https://aws.amazon.com/net/build-a-bot/.",
+        "date": "2018-04-02T14:51:21Z",
+        "duration": 2783
     },
     {
         "service": "cognito",
         "videoId": "tTQ36qQF_vA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Multi-region Replication",
+            "HA",
+            "AWS Solutions",
+            "reInvent 2019",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon DynamoDB",
+            "Amazon Cognito",
+            "This is My Architecture",
+            "TMA"
+        ],
         "title": "AWS Solutions: Multi-Region Availability with Amazon DynamoDB, Amazon S3, and Amazon Cognito (LIVE)",
-        "date": "2020/01/13"
+        "description": "George Bearden from the AWS Solutions Builders team sheds light on common challenges of multi-region availability. In many cases, data redundancy can be achieved through built-in features such as Amazon S3's cross-region replication and versioning. However, services like Amazon Cognito require a bit more work. Learn what AWS has done to help you minimize your effort.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-01-14T00:02:04Z",
+        "duration": 312
     },
     {
         "service": "cognito",
         "videoId": "NVKUQctvpUE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I set up Auth0 as SAML identity provider with an Amazon Cognito user pool?",
-        "date": "2020/08/18"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/auth0-saml-cognito-user-pool/ .\n\nRimpy shows you how to set up Auth0 as SAML identity provider with an Amazon Cognito user pool.",
+        "date": "2020-08-18T17:09:04Z",
+        "duration": 620
     },
     {
         "service": "cognito",
         "videoId": "wpafE1hLvB8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "How to Build a .NET Chatbot with Amazon Lex, AWS Lambda, and Amazon Cognito Identity",
-        "date": "2018/11/21"
+        "description": "For more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2t7AHBA.",
+        "date": "2018-11-21T20:40:07Z",
+        "duration": 1493
     },
     {
         "service": "cognito",
         "videoId": "yOQmpfRxJ00",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Cognito",
+            "re:Invent 2017",
+            "re:Invent Launchpad",
+            "Twitch"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - Cognito Frontline & Adaptive Authentication",
-        "date": "2017/12/08"
+        "description": "Advanced security features for Amazon Cognito enable you to secure access to your applications using risk-based adaptive authentication and compromised credentials protection. When Amazon Cognito detects unusual sign-in activity, such as sign-in attempts from new locations and devices, it prompts users for additional verification. Learn more at - http://amzn.to/2AeUZut.\n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:22:20Z",
+        "duration": 943
     },
     {
         "service": "cognito",
         "videoId": "JT2xOYOdUvM",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Gaming",
+            "GAM401",
+            "Dhruv Thukral - Amazon Web Services",
+            "Tara Walker - Amazon Web Services",
+            "Expert (400 level)"
+        ],
         "title": "AWS re:Invent 2015 | (GAM401) Build a Serverless Mobile Game with Amazon Cognito, Lambda & DynamoDB",
-        "date": "2015/10/09"
+        "description": "Get a hands-on walkthrough of how to quickly build a mobile game with online services like user authentication, downloadable content, and social features. Using the AWS Mobile SDK for Unity, iOS, and Android, it's easier than ever to build a game with these services. This session provides a step-by-step approach to add features to your game such as user identity management, dynamic content updates, cross-platform data sync, and more. We demonstrate how to use the AWS Mobile SDK to securely interact with services such as Amazon Cognito, Amazon DynamoDB, Amazon S3, and AWS Lambda.",
+        "date": "2015-10-09T23:19:53Z",
+        "duration": 3468
     },
     {
         "service": "cognito",
         "videoId": "jX6pEWf344I",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Financial Services",
+            "Mobile Developer & IoT",
+            "MBL402",
+            "Stephen Johnson - Amazon Web Services",
+            "Valentin Polouchkine - Twitter",
+            "Expert (400 level)"
+        ],
         "title": "AWS re:Invent 2015 | (MBL402) Mobile Identity Management & Data Sync Using Amazon Cognito",
-        "date": "2015/10/21"
+        "description": "Developing mobile apps can be complex and time-consuming. Learn how to simplify mobile identity management and data synchronization across devices. In addition, learn how to follow security best practices to give your app access to the resources it needs to provide a great user experience without hard-coding security credentials. We will cover how to easily and securely onboard users as anonymous guests using public login providers like Amazon, Facebook, Twitter, or your own user identity system. We are very excited to have Twitter representatives join us on stage for a deep dive on authenticating users with Twitter and Digits, which enables users to sign in with their phone numbers.",
+        "date": "2015-10-21T16:32:26Z",
+        "duration": 3154
     },
     {
         "service": "cognito",
         "videoId": "vcDExCBHDP8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Cognito",
+            "Mysfits",
+            "Amplify",
+            ".NET",
+            "API",
+            "JavaScript",
+            "modern application",
+            "live coding",
+            ".NET Web API",
+            "AWS Amplify JavaScript Library",
+            "Mythical Mysfits"
+        ],
         "title": "Live with AM & Nicki - Secure Your API with Amazon Cognito",
-        "date": "2018/10/24"
+        "description": "With our API created and the data about our Mysfits persisted, we needed to make some actions through the API available only to users who create accounts and are logged in. We used Cognito to add user sign in, sign up, and other authentication features to our app. Additionally, we utilized AWS Amplify to help us create our user authentication service in Cognito and easily add these features to our web app using the AWS Amplify JavaScript library. We also added certain authorized endpoints such as our “like” and “adopt” actions to our .NET Web API, and we used AWS Amplify to call these API endpoints using credentials from signed in users.\n\nGithub to follow along: \nhttps://github.com/aws-samples/aws-modern-application-workshop/tree/dotnet\n\nLearn more about AWS on Twitch: \nhttps://aws.amazon.com/developer/community/twitch/?sc_channel=EL&sc_campaign=Twitch_2018_vid&sc_medium=YouTube&sc_content=video3292&sc_detail=LIVECODING&sc_country=US\n\nSee past Twitch.tv/aws Videos: \nhttps://aws.amazon.com/developer/community/twitch/recordings/\n\nRSVP for updates of Season 2 of Live with AM & Nicki: \nhttps://www.twitch.tv/events/YloQaohcShOCbAgC4de-Yg\n\nFor more information on .NET: https://aws-preview.aka.amazon.com/developer/language/net/\n\nLearn more about Amazon Cognito: https://aws.amazon.com/cognito/",
+        "date": "2018-10-24T20:02:10Z",
+        "duration": 3995
     },
     {
         "service": "cognito",
         "videoId": "EB226VmI2vQ",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Mobile",
+            "MBL305",
+            "Cognito",
+            "Enterprise",
+            "ML"
+        ],
         "title": "AWS re:Invent 2017: Implement User Onboarding, Sign-Up, and Sign-In for Mobile and W (MBL305)",
-        "date": "2017/11/30"
+        "description": "Learn how to use Amazon Cognito to build the user identity management workflows, including user on-boarding, sign-up, and sign-on for mobile and web applications. Learn how to customize the look and feel of the UI and UX of the screens and pages, integrate with third-party social identity providers such as Facebook, Google, and Twitter, and use SAML to federate with enterprise directory services.",
+        "date": "2017-11-30T17:19:30Z",
+        "duration": 2931
     },
     {
         "service": "cognito",
         "videoId": "uoZ3l0CG4uw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I modify the attributes of a User Pool after creation?",
-        "date": "2019/08/12"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/31xlMiJ\nKarthik, an AWS Cloud Support Engineer, shows you how to modify the attributes of a User Pool after creation.",
+        "date": "2019-08-12T21:02:34Z",
+        "duration": 174
     }
 ]

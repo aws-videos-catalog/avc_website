@@ -2,325 +2,1102 @@
     {
         "service": "lambda",
         "videoId": "WbHw14hF7lU",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Munns",
+            "Enterprise",
+            "ENT332",
+            "AI",
+            "API Gateway",
+            "DynamoDB",
+            "AWS Lambda",
+            "AWS Step Functions",
+            "Big Data",
+            "Mobile"
+        ],
         "title": "AWS re:Invent 2017: Getting Started with Serverless Computing Using AWS Lambda (ENT332)",
-        "date": "2017/12/01"
+        "description": "With serverless computing, you can build and run applications without the need for provisioning or managing servers. Serverless computing means that you can build web, mobile, and IoT backends, run stream processing or big data workloads, run chatbots, and more. In this session, learn how to get started with serverless computing with AWS Lambda, which lets you run code without provisioning or managing servers. We introduce you to the basics of building with Lambda. As part of that, we show how you can benefit from features such as continuous scaling, built-in high availability, integrations with AWS and third-party apps, and subsecond metering pricing. We also introduce you to the broader portfolio of AWS services that help you build serverless applications with Lambda, including Amazon API Gateway, Amazon DynamoDB, AWS Step Functions, and more.",
+        "date": "2017-12-01T16:54:33Z",
+        "duration": 2764
     },
     {
         "service": "lambda",
         "videoId": "QdzV04T_kec",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Serverless",
+            "SRV409-R1"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] A Serverless Journey: AWS Lambda Under the Hood (SRV409-R1)",
-        "date": "2018/11/30"
+        "description": "Serverless computing allows you to build and run applications and services without thinking about servers. Serverless applications don't require you to provision, scale, and manage any servers. However, under the hood, there is a sophisticated architecture that takes care of all the undifferentiated heavy lifting for the developer. Join Holly Mesrobian, Director of Engineering, and Marc Brooker, Senior Principal of Engineering, to learn how AWS architected one of the fastest-growing AWS services. In this session, we show you how Lambda takes care of everything required to run and scale your code with high availability",
+        "date": "2018-11-30T16:27:34Z",
+        "duration": 3553
     },
     {
         "service": "lambda",
         "videoId": "9eHoyUVo-yg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Lambda",
+            "Lambda",
+            "event-driven computing",
+            "event computing",
+            "Lambda functions",
+            "AWS functions",
+            "AWS compute"
+        ],
         "title": "AWS re:Invent 2014 | Announcing AWS Lambda",
-        "date": "2014/11/13"
+        "description": "Learn more: https://aws.amazon.com/lambda/\nAWS Lambda is a compute service that runs your code in response to events and automatically manages the compute resources for you, making it easy to build applications that respond quickly to new information. AWS Lambda starts running your code within milliseconds of an event such as an image upload, in-app activity, website click, or output from a connected device. You can also use AWS Lambda to create new back-end services where compute resources are automatically triggered based on custom requests. With Amazon Lambda you pay only for the requests served and the compute time required to run your code, making it cost-effective and easy to scale automatically from a few requests per day to thousands per second.",
+        "date": "2014-11-13T23:48:55Z",
+        "duration": 427
     },
     {
         "service": "lambda",
         "videoId": "ZBxWZ9bgd44",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Developer Tools",
+            "DEV203",
+            "Stefano Buliani - Amazon Web Services",
+            "Introductory (200 level)",
+            "API Gateway",
+            "Lambda",
+            "Scalable API",
+            "Application program interface",
+            "cloud computing event"
+        ],
         "title": "AWS re:Invent 2015 | (DEV203) Amazon API Gateway & AWS Lambda to Build Secure and Scalable APIs",
-        "date": "2015/10/12"
+        "description": "Amazon API Gateway is a fully managed service that makes it easy for developers to create, deploy, secure, and monitor APIs at any scale.  In this presentation, you’ll find out how to quickly declare an API interface and connect it with code running on AWS Lambda.  Amazon API Gateway handles all of the tasks involved in accepting and processing up to hundreds of thousands of concurrent API calls, including traffic management, authorization and access control, monitoring, and API version management.  We will demonstrate how to build an API that uses AWS Identity and Access Management (IAM) for authorization and Amazon Cognito to retrieve temporary credentials for your API calls. We will write the AWS Lambda function code in Java and build an iOS sample application in Objective C.\n\nLearn more: http://amzn.to/2iNiAul",
+        "date": "2015-10-12T20:15:45Z",
+        "duration": 2671
     },
     {
         "service": "lambda",
         "videoId": "ecT4eyy0CyU",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Security",
+            "Identity",
+            "and Compliance",
+            "SEC322-R1",
+            "AWS Lambda"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] Using AWS Lambda as a Security Team (SEC322-R1)",
-        "date": "2018/11/29"
+        "description": "Operating a security practice on AWS brings many new challenges and opportunities that have not been addressed in data center environments. The dynamic nature of infrastructure, the relationship between development team members and their applications, and the architecture paradigms have all changed as a result of building software on top of AWS. In this session, learn how your security team can leverage AWS Lambda as a tool to monitor, audit, and enforce your security policies within an AWS environment.",
+        "date": "2018-11-29T18:13:33Z",
+        "duration": 3655
     },
     {
         "service": "lambda",
         "videoId": "wRaPw1tx6LA",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Content Delivery",
+            "CTD201",
+            "CloudFront",
+            "AWS Lambda",
+            "Compute"
+        ],
         "title": "AWS re:Invent 2017: Introduction to Amazon CloudFront and AWS Lambda@Edge (CTD201)",
-        "date": "2017/11/29"
+        "description": "End users expect to be able to view static, dynamic, and streaming content anytime, anywhere, and on any device. Amazon CloudFront is a web service that accelerates delivery of your websites, APIs, video content, or other web assets to end users around the globe with low latency, high data transfer speeds, and no commitments. In this session, learn what a content delivery network (CDN) such as Amazon CloudFront is and how it works, the benefits it provides, common challenges and needs, performance, recently released features and examples of how customers are using CloudFront. You will also learn about recustomizing content delivery through AWS Lambda@Edge - a serverless compute service that lets you execute functions to customize the content delivered through CloudFront.",
+        "date": "2017-11-29T16:58:00Z",
+        "duration": 3205
     },
     {
         "service": "lambda",
         "videoId": "UFj27laTWQA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Mobile & Connected Devices",
+            "Introductory",
+            "Amazon DynamoDB",
+            "Mobile",
+            "Architect",
+            "Startup",
+            "Developer",
+            "Tim Wagner",
+            "MBL202"
+        ],
         "title": "AWS re:Invent 2014 | (MBL202) NEW LAUNCH: Getting Started with AWS Lambda",
-        "date": "2014/11/14"
+        "description": "AWS Lambda is a new compute service that runs your code in response to events and automatically manages compute resources for you. In this session, you learn what you need to get started quickly, including a review of key features, a live demonstration, how to use AWS Lambda with Amazon S3 event notifications and Amazon DynamoDB streams, and tips on getting the most out of Lambda functions.",
+        "date": "2014-11-14T23:10:17Z",
+        "duration": 2745
     },
     {
         "service": "lambda",
         "videoId": "oMlGHP8-yHU",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Security",
+            "Compliance",
+            "& Identity",
+            "SID301",
+            "AWS Lambda"
+        ],
         "title": "AWS re:Invent 2017: Using AWS Lambda as a Security Team (SID301)",
-        "date": "2017/11/28"
+        "description": "Operating a security practice on AWS brings many new challenges that haven't been faced in data center environments. The dynamic nature of infrastructure, the relationship between development team members and their applications, and the architecture paradigms have all changed as a result of building software on top of AWS. In this session, learn how your security team can leverage AWS Lambda as a tool to monitor, audit, and enforce your security policies within an AWS environment.",
+        "date": "2017-11-28T19:07:20Z",
+        "duration": 2796
     },
     {
         "service": "lambda",
         "videoId": "YwHxvKhBQ_g",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Application Integration",
+            "API306",
+            "AWS Lambda"
+        ],
         "title": "AWS re:Invent 2018: Build High-Throughput, Bursty Data Apps with Amazon SQS, SNS, & Lambda (API306)",
-        "date": "2018/11/29"
+        "description": "In this session, we discuss best practices for building serverless applications that handle high throughput and bursty data using Amazon SQS, Amazon SNS, and AWS Lambda, including new features such as message filtering and SNS/SQS as event sources for Lambda will be covered in depth. Hear from our customers Enel and Letgo as they share their experiences and deployment strategies. Enel is a multinational energy company that is present in 34 countries across 5 continents, and serves nearly 71 million end-users. The company uses AWS as its platform for IoT and energy management. Letgo is one of the largest and fastest-growing apps to buy and sell locally, with over 100 million downloads and hundreds of millions of listings. Letgo uses AWS to process their online marketplace transactions.",
+        "date": "2018-11-29T18:31:26Z",
+        "duration": 3282
     },
     {
         "service": "lambda",
         "videoId": "VFLKOy4GKXQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "SVR301",
+            "Cecilia Deng",
+            "Amazon Web Service",
+            "Serverless Computing Mini Con"
+        ],
         "title": "AWS re:Invent 2016: Real-time Data Processing Using AWS Lambda (SVR301)",
-        "date": "2016/12/02"
+        "description": "Serverless architecture can eliminate the need to provision and manage servers required to process files or streaming data in real time.\nIn this session, we will cover the fundamentals of using AWS Lambda to process data in real-time from push sources such as AWS Iot and pull sources such as Amazon DynamoDB Streams or Amazon Kinesis.  We will walk through sample use cases and demonstrate how to set up some of these real-time data processing solutions. We'll also discuss best practices and do a deep dive into AWS Lambda real-time stream processing.   \n\nYou also hear from speakers from Thomson Reuters, who discuss how the company leverages AWS for its Product Insight service. The service provides insights to collect usage analytics for Thomson Reuters products. The speakers walk through its architecture and demonstrate how they leverage Amazon Kinesis Streams, Amazon Kinesis Firehose, AWS Lambda, Amazon S3, Amazon Route 53, and AWS KMS for near real-time access to data being collected around the globe. They also outline how applying AWS methodologies benefited its business, such as time-to-market and cross-region ingestion, auto-scaling capabilities, low-latency, security features, and extensibility.",
+        "date": "2016-12-03T02:40:34Z",
+        "duration": 2374
     },
     {
         "service": "lambda",
         "videoId": "EBSdyoO3goc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Introduction to AWS Lambda & Serverless Applications",
-        "date": "2019/01/31"
+        "description": "In this session we take a high-level overview of Lambda, a serverless compute platform that has changed the way that developers around the world build applications. We explore how Lambda works under the hood, the capabilities it has, and how it is used. Join expert guest Chris Munns, Principal Developer Advocate of Serverless Applications, and by the end of this talk you’ll know how to create Lambda based applications and deploy and manage them easily.\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-01-31T23:06:19Z",
+        "duration": 3362
     },
     {
         "service": "lambda",
         "videoId": "CwxWhyGteNc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "SVR202",
+            "Tim Wagner",
+            "Serverless Computing Mini Con"
+        ],
         "title": "AWS re:Invent 2016: What’s New with AWS Lambda (SVR202)",
-        "date": "2016/12/02"
+        "description": "In this session, you'll learn what’s new and hot with AWS Lambda. Come on a tour with Dr. Tim Wagner, General Manager of AWS Lambda, to learn what we’ve been working on and what we are planning for the future. You'll get a hands-on demonstration of some our newest features which will provide you with a launching pad for some of the later sessions in the day.",
+        "date": "2016-12-02T20:16:27Z",
+        "duration": 3472
     },
     {
         "service": "lambda",
         "videoId": "Gr2TH277EdA",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Serverless",
+            "SRV335",
+            "Kinesis",
+            "Lex",
+            "AWS Lambda",
+            "AWS Step Functions"
+        ],
         "title": "AWS re:Invent 2017: Best Practices for Orchestrating AWS Lambda Workloads (SRV335)",
-        "date": "2017/12/01"
+        "description": "Serverless and AWS Lambda specifically enable developers to build super-scalable application components with minimal effort. You can use Amazon Kinesis and Amazon SQS to create a universal event stream to orchestrate Lambdas into much more complex applications. Now, using AWS Step Functions, we can build large distributed applications with Lambdas using visual workflows. See how Step Functions are different from Amazon SWF, how to get started with Step Functions, and how to use them to take your Lambda-based applications to the next level. We start with a few granular functions and stitch them up using Step Functions. As we build out the application, we add monitoring to ensure that changes we make actually improve things, not make them worse. Leave the session with actionable learnings for using Step Functions in your environment right away.\n\n\n\nSession sponsored by Datadog",
+        "date": "2017-12-01T16:50:06Z",
+        "duration": 2904
     },
     {
         "service": "lambda",
         "videoId": "I2JE-JGHOKw",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Serverless",
+            "SRV303",
+            "CloudWatch",
+            "AWS X-Ray"
+        ],
         "title": "AWS re:Invent 2017: Monitoring and Troubleshooting in a Serverless World (SRV303)",
-        "date": "2017/12/01"
+        "description": "How do you monitor and troubleshoot an application made up of many ephemeral, stateless functions? How do you debug a distributed application in production? In this talk, we walk you through best practices, tools, and conventions using common troubleshooting scenarios. We'll discuss how you can use AWS services to address these scenarios, such as using Amazon CloudWatch for alarms and using AWS X-Ray to detect cross service calls.\n\nYou will also learn how Financial Engines leverages AWS X-Ray to debug, monitor, and analyze latency data for its serverless applications. It will also share some best practices for debugging and reporting.",
+        "date": "2017-12-01T16:47:32Z",
+        "duration": 2976
     },
     {
         "service": "lambda",
         "videoId": "FFmKOq033lg",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Content Delivery",
+            "CTD409",
+            "Amazon Athena",
+            "Amazon CloudFront",
+            "Amazon CloudWatch",
+            "AWS CodeStar",
+            "AWS Marketplace",
+            "AWS CloudFormation"
+        ],
         "title": "AWS re:Invent 2018: Running Serverless at The Edge (CTD302)",
-        "date": "2018/11/27"
+        "description": "AWS Lambda enables you to run code without provisioning or managing servers in an AWS Region. Lambda@Edge provides the same benefits, but runs closer to your end users, enabling you to assemble and deliver content, on-demand, to create low-latency web experiences. Come and join us for examples of how customers can move significant workloads they previously managed with server fleets to truly serverless website backends. Sentient Technologies, an artificial intelligence technology company, will share how they use Lambda@Edge for solving various use cases such as leveraging AI to improve customer engagement and uplift website conversions, and many more.",
+        "date": "2018-11-27T19:14:54Z",
+        "duration": 2967
     },
     {
         "service": "lambda",
         "videoId": "sMYAQtrsapM",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "GPSTechnical",
+            "GPSTEC313",
+            "AI",
+            "DynamoDB",
+            "EMR",
+            "Kinesis",
+            "Machine Learning",
+            "ML",
+            "Security",
+            "Storage"
+        ],
         "title": "AWS re:Invent 2017: GPS: Real-Time Data Processing with AWS Lambda Quickly, at Scale (GPSTEC313)",
-        "date": "2017/11/28"
+        "description": "Real-time data processing is a powerful technique that allows businesses to make agile automated decisions. This process is particularly powerful when applied to workloads like security, analyzing access logs, parsing audit logs, and monitoring API activity to detect behavior anomalies. Combined with automation, business can quickly take action to remediate security concerns, or even train a machine learning (ML) model. We explore different techniques for analyzing real-time streams on AWS using Lambda, Amazon Kinesis, Spark with Amazon EMR, and Amazon DynamoDB. We also cover best practices around short- and long-term storage and analysis of data and, briefly, the possibility of leveraging ML.",
+        "date": "2017-11-28T18:56:44Z",
+        "duration": 3558
     },
     {
         "service": "lambda",
         "videoId": "OzZH4rDghO8",
-        "title": "AWS re:Invent 2018: Trek10 Uses Datadog's Tracing to Improve AWS Lambda Projects (SRV304-S)",
-        "date": "2018/11/30"
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Serverless",
+            "SRV304-S",
+            "AWS Lambda",
+            "AWS X-Ray"
+        ],
+        "title": "AWS re:Invent 2018: Trek10 Uses Datadog's  Tracing to Improve AWS Lambda Projects (SRV304-S)",
+        "description": "Tracing is always a challenge, no matter what your architecture is. Creating an application with serverless functions, such as with AWS Lambda, provides agility and scalability to your application, but it also creates an added challenge for code tracing. In this session, we review Datadog's distributed tracing capabilities and how Trek10 uses those capabilities to improve its customers’ applications. Learn how to use AWS X-Ray in a serverless environment. Also, learn strategies for working with traces and logs that explain application errors. Finally, learn how Trek10 uses AWS X-Ray with Datadog to measure and improve its applications' performance. This session is brought to you by AWS partner, Datadog. Complete Title: AWS re:Invent 2018: How Trek10 Uses Datadog's Distributed Tracing to Improve AWS Lambda Projects (SRV304-S)",
+        "date": "2018-11-30T16:27:30Z",
+        "duration": 3676
     },
     {
         "service": "lambda",
         "videoId": "iz90fHia-Wk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "SVR305",
+            "Vyom Nagrani",
+            "Amazon Web Service",
+            "Serverless Computing Mini Con"
+        ],
         "title": "AWS re:Invent 2016: ↑↑↓↓←→←→ BA Lambda Start (SVR305)",
-        "date": "2016/12/02"
+        "description": "Ever wished you had a list of cheat codes to unleash the full power of AWS Lambda for your production workload? Come learn how to build a robust, scalable, and highly available serverless application using AWS Lambda. In this session, we discuss hacks and tricks for maximizing your AWS Lambda performance, such as leveraging customer reuse, using the 500 MB scratch space and local cache, creating custom metrics for managing operations, aligning upstream and downstream services to scale along with Lambda, and many other workarounds and optimizations across your entire function lifecycle. \n\nYou also learn how Hearst converted its real-time clickstream analytics data pipeline from a server-based model to a serverless one. The infrastructure of the data pipeline relied on Amazon EC2 instances and cron jobs to shepherd data through the process. In 2016, Hearst converted its data pipeline architecture to a serverless process that relies on event triggers and the power of AWS Lambda. By moving from a time-based process to a trigger-based process, Hearst improved its pipeline latency times by 50%.",
+        "date": "2016-12-03T02:10:44Z",
+        "duration": 3580
     },
     {
         "service": "lambda",
         "videoId": "-9mvx_ry24s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon",
+            "awsreinvent2017",
+            "Demo Theater",
+            "DEM85",
+            "Storage"
+        ],
         "title": "AWS re:Invent 2017: Enterprise Use Cases for AWS Lambda (DEM85)",
-        "date": "2017/12/12"
+        "description": "AWS Lambda provides serverless computing service to build and run applications without having to worry about servers. In this session, we will look at popular enterprise use cases of AWS Lambda liked Data Lakes, DR, CI/CD and Cloud Operations.\n\nSession sponsored by Cognizant",
+        "date": "2017-12-12T23:22:56Z",
+        "duration": 610
     },
     {
         "service": "lambda",
         "videoId": "Xi_WrinvTnM",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Architecture",
+            "ARC401",
+            "API Gateway",
+            "Athena",
+            "DynamoDB",
+            "Kinesis",
+            "RDS",
+            "Analytics",
+            "AWS Config",
+            "AWS Lambda",
+            "AWS Step Functions",
+            "AWS X-Ray",
+            "Security"
+        ],
         "title": "AWS re:Invent 2017: Serverless Architectural Patterns and Best Practices (ARC401)",
-        "date": "2017/11/29"
+        "description": "As serverless architectures become more popular, customers need a framework of patterns to help them identify how they can leverage AWS to deploy their workloads without managing servers or operating systems. This session describes reusable serverless patterns while considering costs. For each pattern, we provide operational and security best practices and discuss potential pitfalls and nuances. We also discuss the considerations for moving an existing server-based workload to a serverless architecture. The patterns use services like AWS Lambda, Amazon API Gateway, Amazon Kinesis Streams, Amazon Kinesis Analytics, Amazon DynamoDB, Amazon S3, AWS Step Functions, AWS Config, AWS X-Ray, and Amazon Athena. This session can help you recognize candidates for serverless architectures in your own organizations and understand areas of potential savings and increased agility. What’s new in 2017: using X-Ray in Lambda for tracing and operational insight; a pattern on high performance computing (HPC) using Lambda at scale; how a query can be achieved using Athena; Step Functions as a way to handle orchestration for both the Automation and Batch patterns; a pattern for Security Automation using AWS Config rules to detect and automatically remediate violations of security standards; how to validate API parameters in API Gateway to protect your API back-ends; and a solid focus on CI/CD development pipelines for serverless, which includes testing, deploying, and versioning (SAM tools).",
+        "date": "2017-11-29T16:49:39Z",
+        "duration": 3468
     },
     {
         "service": "lambda",
         "videoId": "xJcm9V2jagc",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Serverless",
+            "SRV213-R",
+            "Connect",
+            "AWS Lambda"
+        ],
         "title": "AWS re:Invent 2017: [REPEAT] Thirty Serverless Architectures in 30 Minutes (SRV213-R)",
-        "date": "2017/11/28"
+        "description": "Don’t blink because in this session, we quickly show you thirty different architectural patterns that you can use with AWS Lambda to solve everything from basic infrastructure automation tasks to building chatbots. We cover the services that connect to AWS Lambda and help you create serverless applications that can respond to requests from many AWS services today. We will also discuss how to secure these serverless applications, deploy them, monitor them, and profile them for issues. By the end of this session, expect to have ideas on how serverless architecture can improve your life.",
+        "date": "2017-11-28T18:11:12Z",
+        "duration": 3073
     },
     {
         "service": "lambda",
         "videoId": "hU25CIRPIJo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "re:Invent",
+            "reInvent",
+            "keynote",
+            "netflix",
+            "Lambda",
+            "AWS Lambda",
+            "Video streaming"
+        ],
         "title": "AWS re:Invent 2014 | Netflix Gains New Efficiencies using AWS Lambda",
-        "date": "2014/12/03"
+        "description": "Learn more: http://aws.amazon.com/lambda/\nDiscover how Netflix uses AWS Lambda to replace inefficient procedural systems with event-based triggers and automate the management of compute resources.",
+        "date": "2014-12-03T18:11:21Z",
+        "duration": 256
     },
     {
         "service": "lambda",
         "videoId": "U8ODkSCJpJU",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Architecture",
+            "ARC308",
+            "Vyom Nagrani - Amazon Web Services",
+            "Jay Sandhaus - PlayOn Sports",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (ARC308) The Serverless Company Using AWS Lambda",
-        "date": "2015/10/12"
+        "description": "In today's competitive environment, startups are increasingly focused on eliminating any undifferentiated heavy lifting. Come learn about various architectural patterns for building a scalable, function-rich data processing systems, using AWS Lambda and other AWS managed services. Come see how PlayOn! Sports went from a multi-layered architecture for video streaming to a streamlined and serverless system using Lambda and Amazon S3.",
+        "date": "2015-10-12T16:28:05Z",
+        "duration": 2927
     },
     {
         "service": "lambda",
         "videoId": "FhJxTIq81AU",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Compute",
+            "CMP407",
+            "Guy Davies - Sophos Ltd",
+            "Expert (400 level)"
+        ],
         "title": "AWS re:Invent 2015 | (CMP407) Lambda as Cron: Scheduling Invocations in AWS Lambda",
-        "date": "2015/10/09"
+        "description": "Learn more about AWS: http://amzn.to/1LE1Tgv\nDo you need to run an AWS Lambda function on a schedule, without an event to trigger the invocation? This session shows how to use an Amazon CloudWatch metric and CloudWatch alarms, Amazon SNS, and Lambda so that Lambda triggers itself every minute—no external services required! From here, other Lambda jobs can be scheduled in crontab-like format, giving minute-level resolution to your Lambda scheduled tasks. During the session, we build this functionality up from scratch with a Lambda function, CloudWatch metric and alarms, sample triggers, and tasks.",
+        "date": "2015-10-09T21:40:52Z",
+        "duration": 2168
     },
     {
         "service": "lambda",
         "videoId": "eQ549RvQDeI",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Financial Services",
+            "FSV325"
+        ],
         "title": "AWS re:Invent 2018: How Nubank Automates Fine-Grained Security with IAM, AWS Lambda, & CI/CD FSV325",
-        "date": "2018/11/29"
+        "description": "Cloud-native and with security integrated early in the software development process, Nubank is the largest digital bank in the world outside of Asia. Demand for higher levels of service and value, constantly evolving technology capabilities, and stringent regulatory requirements are all powerful forces reshaping retail banking. In this session, Nubank CTO Edward Wible discusses how the company mixes engineering culture, security philosophy and structure, automation, and integration with AWS security services. Learn how to leverage the day-to-day software development workflow for extensive security and maximum engineering throughput while minimizing the operational pain of running a large infrastructure. Complete Title: AWS re:Invent 2018: How Nubank Automates Fine-Grained Security with IAM, AWS Lambda, & CI/CD (FSV325)",
+        "date": "2018-11-29T18:26:53Z",
+        "duration": 3481
     },
     {
         "service": "lambda",
         "videoId": "08AjVGGQaKQ",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Architecture",
+            "ARC305-R2"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 2] Serverless Architectural Patterns and Best Practices (ARC305-R2)",
-        "date": "2018/11/27"
+        "description": "As serverless architectures become more popular, customers need a framework of patterns to help them identify how to leverage AWS to deploy their workloads without managing servers or operating systems. This session describes reusable serverless patterns while considering costs. For each pattern, we provide operational and security best practices and discuss potential pitfalls and nuances. We also discuss the considerations for moving an existing server-based workload to a serverless architecture. This session can help you recognize candidates for serverless architectures in your own organizations and understand areas of potential savings and increased agility.",
+        "date": "2018-11-27T18:59:22Z",
+        "duration": 3483
     },
     {
         "service": "lambda",
         "videoId": "PsI4pc0NtoI",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Devops",
+            "DEV313-S",
+            "AWS Lambda"
+        ],
         "title": "AWS re:Invent 2018: Shift-Left SRE: Self-Healing with AWS Lambda Functions (DEV313-S)",
-        "date": "2018/11/30"
+        "description": "Even the best continuous delivery and DevOps practices cannot guarantee that there will be no issues in production. The rise of Site Reliability Engineering (SRE) has promoted new ways to automate resilience into your system and applications to circumvent potential problems, but it’s time to “shift-left” this effort into engineering. In this session, learn to leverage AWS Lambda functions as “remediation as code.” We show how to make it part of your continuous delivery process and orchestrate the invocation of Self-Healing Lambda functions in case of unexpected situations impacting the reliability of your system. Gone are the days of traditional operation teams—it’s the rise of “shift-lefters”! This session is brought to you by AWS partner, Dynatrace.",
+        "date": "2018-11-30T16:31:01Z",
+        "duration": 3077
     },
     {
         "service": "lambda",
         "videoId": "pBLdMCksM3A",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Compute",
+            "CMP301",
+            "Tim Wagner - Amazon Web Services",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (CMP301) AWS Lambda and the Serverless Cloud",
-        "date": "2015/10/14"
+        "description": "With AWS Lambda you can easily build scalable microservices for mobile, web, and IoT applications or respond to events from other AWS services without managing infrastructure. In this session you’ll see demonstrations and hear more about newly launched features, as well as a recap of the languages, tools, and features added over the last several months. We’ll show you how to use Lambda to build mobile backends, create web, IoT, and voice-enabled apps, and extend both AWS and third party services by triggering Lambda functions – all without the need for servers or other infrastructure. We’ll also provide productivity and performance tips for getting the most out of your Lambda functions and show how cloud native architectures use Lambda to eliminate “cold servers” and excess capacity without sacrificing scalability or responsiveness.",
+        "date": "2015-10-14T23:39:37Z",
+        "duration": 2125
     },
     {
         "service": "lambda",
         "videoId": "Hy2n-fC-r98",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Broadway",
+            "Serverless",
+            "SRV315",
+            "DynamoDB"
+        ],
         "title": "AWS re:Invent 2017: How We Built a Mission-Critical, Serverless File Processing Pipe (SRV315)",
-        "date": "2017/11/28"
+        "description": "In this session, principal architect Mike Broadway describes how HomeAway built a high-throughput, scalable pipeline for manipulating, storing, and serving hundreds of image files every second with Lambda, Amazon S3, DynamoDB, and Amazon SNS. He also shares best practices and lessons learned as they scaled their mission-critical On Demand Image Service (ODIS) system into production. Lambda functions form the backbone of ODIS, which handles over 100 million photographs that are uploaded to HomeAway's vacation rental platform. HomeAway is a vacation rental marketplace with more than 2 million rentals in 190 countries and is part of Expedia.",
+        "date": "2017-11-28T17:50:58Z",
+        "duration": 2819
     },
     {
         "service": "lambda",
         "videoId": "lYYLGBdFXqM",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Devops",
+            "DEV315",
+            "AI",
+            "AWS Lambda",
+            "Enterprise"
+        ],
         "title": "AWS re:Invent 2017: GitHub to AWS Lambda: Developing, Testing, and Deploying Serverl (DEV315)",
-        "date": "2017/11/29"
+        "description": "AWS Lambda has emerged as a powerful and cost-effective way for enterprises to quickly deploy services without the need to provision and manage virtual servers. This session includes a hands-on demo of how to use GitHub as the core of a DevOps toolchain. Learn how to leverage AWS integrations with Jenkins, the AWS CLI, and open source software to build, test, and deploy a service to AWS Lambda. We also explore key product updates to GitHub and GitHub Enterprise that are designed to make serverless development easier and more efficient.\n\nSession sponsored by GitHub, Inc.",
+        "date": "2017-11-29T17:23:39Z",
+        "duration": 2595
     },
     {
         "service": "lambda",
         "videoId": "hLRL1ik5Nk0",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Application Integration",
+            "API302",
+            "AWS Step Functions"
+        ],
         "title": "AWS re:Invent 2018: Serverless State Management & Orchestration for Modern Apps (API302)",
-        "date": "2018/11/28"
+        "description": "Keeping track of state and orchestrating the components of a distributed application is complex. AWS Step Functions makes the job simpler, faster, and more intuitive. In this session, learn how to leverage AWS Step Functions to design and run workflows for your serverless, containerized, and instance-based architectures. We explore practical applications of orchestration spanning different industries and workloads. For each, we walk through the architecture, lessons learned, and business outcomes. Expect to leave this session with a practical understanding of how to use orchestration to express your application’s business logic more productively while improving its resilience.",
+        "date": "2018-11-28T18:43:03Z",
+        "duration": 2871
     },
     {
         "service": "lambda",
         "videoId": "Hy2n-fC-r98",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Broadway",
+            "Serverless",
+            "SRV315",
+            "DynamoDB"
+        ],
         "title": "AWS re:Invent 2017: How We Built a Mission-Critical, Serverless File Processing Pipe (SRV315)",
-        "date": "2017/11/28"
+        "description": "In this session, principal architect Mike Broadway describes how HomeAway built a high-throughput, scalable pipeline for manipulating, storing, and serving hundreds of image files every second with Lambda, Amazon S3, DynamoDB, and Amazon SNS. He also shares best practices and lessons learned as they scaled their mission-critical On Demand Image Service (ODIS) system into production. Lambda functions form the backbone of ODIS, which handles over 100 million photographs that are uploaded to HomeAway's vacation rental platform. HomeAway is a vacation rental marketplace with more than 2 million rentals in 190 countries and is part of Expedia.",
+        "date": "2017-11-28T17:50:58Z",
+        "duration": 2819
     },
     {
         "service": "lambda",
         "videoId": "pBLdMCksM3A",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Compute",
+            "CMP301",
+            "Tim Wagner - Amazon Web Services",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (CMP301) AWS Lambda and the Serverless Cloud",
-        "date": "2015/10/14"
+        "description": "With AWS Lambda you can easily build scalable microservices for mobile, web, and IoT applications or respond to events from other AWS services without managing infrastructure. In this session you’ll see demonstrations and hear more about newly launched features, as well as a recap of the languages, tools, and features added over the last several months. We’ll show you how to use Lambda to build mobile backends, create web, IoT, and voice-enabled apps, and extend both AWS and third party services by triggering Lambda functions – all without the need for servers or other infrastructure. We’ll also provide productivity and performance tips for getting the most out of your Lambda functions and show how cloud native architectures use Lambda to eliminate “cold servers” and excess capacity without sacrificing scalability or responsiveness.",
+        "date": "2015-10-14T23:39:37Z",
+        "duration": 2125
     },
     {
         "service": "lambda",
         "videoId": "JT2xOYOdUvM",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Gaming",
+            "GAM401",
+            "Dhruv Thukral - Amazon Web Services",
+            "Tara Walker - Amazon Web Services",
+            "Expert (400 level)"
+        ],
         "title": "AWS re:Invent 2015 | (GAM401) Build a Serverless Mobile Game with Amazon Cognito, Lambda & DynamoDB",
-        "date": "2015/10/09"
+        "description": "Get a hands-on walkthrough of how to quickly build a mobile game with online services like user authentication, downloadable content, and social features. Using the AWS Mobile SDK for Unity, iOS, and Android, it's easier than ever to build a game with these services. This session provides a step-by-step approach to add features to your game such as user identity management, dynamic content updates, cross-platform data sync, and more. We demonstrate how to use the AWS Mobile SDK to securely interact with services such as Amazon Cognito, Amazon DynamoDB, Amazon S3, and AWS Lambda.",
+        "date": "2015-10-09T23:19:53Z",
+        "duration": 3468
     },
     {
         "service": "lambda",
         "videoId": "vkWGZ3uY0p0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "SVR401",
+            "Randall Hunt",
+            "Amazon Web Service",
+            "Serverless Computing Mini Con"
+        ],
         "title": "AWS re:Invent 2016: Using AWS Lambda to Build Control Systems for Your AWS Infrastructure (SVR401)",
-        "date": "2016/12/02"
+        "description": "Defining infrastructure resource policies in an organized manner can help your company better manage its infrastructure resources.\n\nThis session familiarizes you with using AWS Lambda to process data and provide control logic for your infrastructure. You can use Amazon CloudWatch Events to monitor infrastructure resources in real-time, and you can use AWS Lambda to react to events based on a set of rules. We demonstrate how you can build a rules engine for creating, monitoring, and managing policies. This is all done using Alexa and Alexa Skills Kit.",
+        "date": "2016-12-02T20:11:56Z",
+        "duration": 2458
     },
     {
         "service": "lambda",
         "videoId": "zq-JsNC0LPU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws builders day",
+            "builders day",
+            "developers",
+            "buildon",
+            "serverless",
+            "lamda layers",
+            "runtime api"
+        ],
         "title": "AWS Builders' Day | re:Invent Deep Dive on Lambda Layers and Runtime API",
-        "date": "2018/12/19"
+        "description": "See what you can build: https://amzn.to/2ryQs3a.\nGet started with Serverless at https://aws.amazon.com/serverless/.\n\nServerless architectures allow you to build and run applications and services without needing to provision, manage, and scale infrastructure. You will learn how to build serverless architectures on AWS using AWS Lambda and integrate with Amazon API Gateway and Amazon Cognito to create a range of applications from data processing systems to mobile backends to web applications.",
+        "date": "2018-12-19T21:32:34Z",
+        "duration": 3409
     },
     {
         "service": "lambda",
         "videoId": "WWDHxy4zuqg",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Compute",
+            "CMP403",
+            "Martin Holste - FireEye",
+            "Expert (400 level)"
+        ],
         "title": "AWS re:Invent 2015 | (CMP403) AWS Lambda: Simplifying Big Data Workloads",
-        "date": "2015/10/12"
+        "description": "AWS Lambda allows any Node.js app to be run at scale in a massively parallel environment with no up-front costs or planning. This session shows how to use Lambda to build dynamic analytic data flows that can be tuned as they execute, based on initial results, to provide real-time output streamed to web clients. This process enables a cost-effective and responsive user experience for ad hoc big data jobs and lets developers focus on how data is consumed and presented, instead of how it is obtained.",
+        "date": "2015-10-12T20:16:17Z",
+        "duration": 2152
     },
     {
         "service": "lambda",
         "videoId": "lleCVR2Mupw",
-        "title": "AWS re:Invent 2017: Building a Serverless Pipeline to Transcode a Two-Hour Video in (SRV314)",
-        "date": "2017/11/28"
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Serverless",
+            "SRV314",
+            "AI",
+            "EC2",
+            "AWS Lambda"
+        ],
+        "title": "AWS re:Invent 2017: Building a Serverless Pipeline to Transcode a Two-Hour Video in  (SRV314)",
+        "description": "Learn how Verizon’s Revvel team built a world-class video transcoding pipeline on AWS. This session shows how Revvel migrated from transcoding video on EC2 instances to a serverless pipeline using AWS Lambda and Amazon S3. You will gain insights on how they were able to achieve massive parallelization that gives Revvel the ability to transcode an entire movie or TV series into multiple device formats and bitrates within minutes, while never paying for idle resources. In addition, the Revvel team will cover best practices and lessons learned in creating a custom CI/CD pipeline for Lambda functions that allows them to test code quality during an upgrade to a Lambda function. Revvel is a team within Verizon, chartered with building and innovating video solutions. In November 2016, Verizon acquired Vessel to accelerate their efforts in building a next-generation television service, and Revvel was born.",
+        "date": "2017-11-28T18:10:42Z",
+        "duration": 1682
     },
     {
         "service": "lambda",
         "videoId": "oGawhLx3Dxo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Demo Theater",
+            "20799"
+        ],
         "title": "AWS re:Invent 2017: Local Serverless Development using SAM Local (DEM77)",
-        "date": "2017/12/06"
+        "description": "Learn how to use SAM Local as part of your serverless development workflow.\n\nLambda Tuner is a tool that helps you benchmark your Lambda functions, determining the most appropriate memory setting for your Lambda functions. By using Lambda Tuner, you can optimize the bill of your function executions by selecting the most cost-optimized memory setting.",
+        "date": "2017-12-06T23:20:59Z",
+        "duration": 1243
     },
     {
         "service": "lambda",
         "videoId": "_juTubrOwJs",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Radhakrishnan",
+            "Content Delivery",
+            "CTD309",
+            "AWS Lambda"
+        ],
         "title": "AWS re:Invent 2017: Building Serverless Websites with Lambda@Edge (CTD309)",
-        "date": "2017/12/01"
+        "description": "AWS Lambda enables you to run code without provisioning or managing servers in one AWS Region. Today, Lambda@Edge provides the same benefits closer to your end users, enabling you to assemble and deliver content on-demand to create low-latency web experiences. Come and join us for examples of how customers can move significant workloads they previously managed server fleets into Lambda for truly serverless website backends.",
+        "date": "2017-12-02T05:04:32Z",
+        "duration": 3349
     },
     {
         "service": "lambda",
         "videoId": "pMyniSCOJdA",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Serverless",
+            "SRV311",
+            "AI",
+            "API Gateway",
+            "DynamoDB",
+            "AWS Lambda"
+        ],
         "title": "AWS re:Invent 2017: Authoring and Deploying Serverless Applications with AWS SAM (SRV311)",
-        "date": "2017/12/01"
+        "description": "Serverless applications can be composed of multiple AWS resources, such as AWS Lambda functions, Amazon API Gateway APIs, Amazon DynamoDB tables, and Amazon S3 buckets. When building a serverless application, what is the most straightforward way to group all your resources into one serverless application? Once you define your serverless application, how quickly can you develop, test, and iterate on your local machine, before deploying to AWS? In this session, learn how to define serverless applications with the AWS Serverless Application Model (AWS SAM), and how to use the AWS SAM Local CLI tool to develop and test locally, before deploying to AWS.",
+        "date": "2017-12-02T05:04:32Z",
+        "duration": 2873
     },
     {
         "service": "lambda",
         "videoId": "xaFaVeoA9V8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "DevOps & Tools",
+            "DEV301",
+            "Bob Wilkinson",
+            "Advanced"
+        ],
         "title": "AWS re:Invent 2016: Amazon CloudWatch Logs and AWS Lambda: A Match Made in Heaven (DEV301)",
-        "date": "2016/12/03"
+        "description": "In this session, we cover three common scenarios that include Amazon CloudWatch Logs and AWS Lambda. First, you learn how to build an Elasticsearch cluster from historical data using Amazon S3, Lambda, and CloudWatch Logs. Next, you learn how to add details to CloudWatch alarm notifications using Amazon SNS and Lambda. Finally, we show you how to bring Elastic Load Balancing logs to CloudWatch Logs using S3 bucket triggers from Lambda.",
+        "date": "2016-12-03T22:28:29Z",
+        "duration": 2313
     },
     {
         "service": "lambda",
         "videoId": "xcKOBfemVtY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "IOT309",
+            "Marc Brooker",
+            "Advanced (300 Level)",
+            "IoT Mini Con"
+        ],
         "title": "AWS re:Invent 2016: NEW LAUNCH! Lambda Everywhere (IOT309)",
-        "date": "2016/12/03"
+        "description": "You can now execute Lambda’s almost anywhere – originating in the cloud, and on connected devices with AWS Greengrass. This advanced technical session explores Lambda Functions and what it means to use them across these diverse environments. We will treat the cloud as the ‘brain’, using local Lambda’s for local executions. This way devices can react instinctively, much like the autonomic nervous system, operating in the periphery and responsible for collecting and filtering information, implementing simple and time-sensitive local actions reflexively.",
+        "date": "2016-12-03T23:55:07Z",
+        "duration": 1923
     },
     {
         "service": "lambda",
         "videoId": "Ymn6WGCSjE4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2437aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "DEV207",
+            "Norman Johanson",
+            "Steven Roberts",
+            "Introductory (200 level)",
+            "DevOps & Tools"
+        ],
         "title": "AWS re:Invent 2016: NEW LAUNCH! Developing Serverless C# Applications (DEV207)",
-        "date": "2016/12/03"
+        "description": "Just as serverless application development is rapidly becoming the most popular way to bring highly scalable applications to the cloud, .NET has undergone radical changes with .NET Core to become a premier development platform for the cloud. In this session, you will learn how to use the newly launched C# support for .NET Core with AWS Lambda to create highly scalable serverless applications that target platforms from the traditional desktop to mobile devices. We will demonstrate how to write, test, and deploy C# code to AWS Lambda and see how we can leverage our serverless back end from mobile applications.",
+        "date": "2016-12-03T22:17:01Z",
+        "duration": 2987
     },
     {
         "service": "lambda",
         "videoId": "8Zd-8GV-1mY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Serverless Computing Mini Con",
+            "SVR307",
+            "Orr Weinstein"
+        ],
         "title": "AWS re:Invent 2016: Application Lifecycle Management in a Serverless World (SVR307)",
-        "date": "2016/12/02"
+        "description": "Amazon API Gateway and AWS Lambda provide a new way of building applications by removing servers from the picture. But what does the removal of servers mean to tasks like deployment, monitoring, and debugging? How should you set up blue-green deployments or set alarms? Come learn all this and more, including how to use AWS services and tools like AWS CodePipeline, AWS CloudFormation, and Amazon CloudWatch to manage your serverless applications at high quality.",
+        "date": "2016-12-03T02:08:41Z",
+        "duration": 2410
     },
     {
         "service": "lambda",
         "videoId": "j26novaqF6M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "CTD206",
+            "Nihar Bihani",
+            "Introductory (200 Level)",
+            "Content Delivery"
+        ],
         "title": "AWS re:Invent 2016: NEW LAUNCH! Bringing AWS Lambda to the Edge (CTD206)",
-        "date": "2016/12/02"
+        "description": "This session introduces Lambda@Edge, a new AWS Lambda feature that allows developers to perform simple computations at AWS edge locations in response to CloudFront events. This will be of interest to developers who want to build low-latency, customized web experiences. We cover product functionality and details of the programming model, and we walk through potential use cases.",
+        "date": "2016-12-02T21:01:50Z",
+        "duration": 2785
     },
     {
         "service": "lambda",
         "videoId": "0ytBy4-fvo4",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Compute",
+            "CMP211",
+            "API Gateway",
+            "Lex",
+            "AWS Lambda",
+            "AWS Step Functions",
+            "Database"
+        ],
         "title": "AWS re:Invent 2017: Getting Started with Serverless Architectures (CMP211)",
-        "date": "2017/11/29"
+        "description": "Serverless architectures let you build and deploy applications and services with infrastructure resources that require zero administration. In the past, you had to provision and scale servers to run your application code, install and operate distributed databases, and build and run custom software to handle API requests. Now, AWS provides a stack of scalable, fully-managed services that eliminates these operational complexities. In this session, you will learn about serverless architectures, their benefits, and the basics of the AWS’s serverless stack (e.g., AWS Lambda, Amazon API Gateway, and AWS Step Functions).\n\nWe will discuss how to use serverless architectures for a variety of use cases including data processing, website backends, serverless applications, and “operational glue.” You will also get practical tips and tricks, best practices, and architecture patterns that you can take back and implement immediately.",
+        "date": "2017-11-29T16:52:45Z",
+        "duration": 2510
     },
     {
         "service": "lambda",
         "videoId": "mujSmlfK7CQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "What are some best practices for implementing Lambda-backed custom CloudFormation resources?",
-        "date": "2018/10/18"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2AjoygZ\nCraig, an AWS Cloud Support Engineer, walks you through some best practices for implementing Lambda-backed custom CloudFormation resources.",
+        "date": "2018-10-18T19:08:33Z",
+        "duration": 1715
     },
     {
         "service": "lambda",
         "videoId": "QQjJHK2qEOs",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Serverless",
+            "SRV310-R",
+            "AI",
+            "Lex",
+            "AWS Lambda"
+        ],
         "title": "AWS re:Invent 2017: [REPEAT] Designing Microservices with Serverless (SRV310-R)",
-        "date": "2017/11/29"
+        "description": "When designing microservices there are a number of things to think about. Just for starters, the bounds of their functionality, how they communicate with their dependencies, and how they provide an interface for their own consumers. Serverless technologies such as AWS Lambda change paradigms around code structure, usage of libraries, and how you deploy and manage your applications. In this session, we show you how by combining microservices and serverless technologies, you can achieve the ultimate flexibility and agility that microservices aim for, while providing business value in how serverless greatly reduces operational overhead and cost.\n\nIn addition, National Geographic will share how it built its NG1 platform using a serverless, microservices architecture. The NG1 platform provides National Geographic consumers with content personalized to their preferences and behaviors in an intuitive, easy-to-use way on smartphones.",
+        "date": "2017-11-29T16:11:09Z",
+        "duration": 3519
     },
     {
         "service": "lambda",
         "videoId": "jV8DwutbXbg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "FSI",
+            "AWS Lambda",
+            "Amazon Kinesis",
+            "Amazon Simple Queue Service (SQS)",
+            "Amazon RDS",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Tandem Bank: Processing Transaction Data using AWS Lambda with NLP",
-        "date": "2019/04/29"
+        "description": "Learn more about This Is My Architecture at - https://amzn.to/2GHqOjR.\nTandem wanted to help their customers make sense of bank account statements. In this episode, they share how they built a data pipeline that ingests data from customer bank statements from third-party banks. They use Amazon Kinesis to store the ingested data, then Amazon Simple Queueing Service and AWS Lambda process the data using ANTLR for NLP parser generation. The processed transaction data is then stored in Amazon Relational Database Service so it can be presented to the customer.\n\nHost: Toby Knight, Manager, Solutions Architecture\nCustomer: Damian Moore, Principal Data Engineer, Tandem\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-04-29T21:55:17Z",
+        "duration": 418
     },
     {
         "service": "lambda",
         "videoId": "01ewawuL-IY",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Devops",
+            "DEV309-R",
+            "AWS CodeBuild",
+            "AWS CodeDeploy",
+            "AWS CodePipeline"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT] CI/CD for Serverless and Containerized Applications (DEV309-R)",
-        "date": "2018/11/28"
+        "description": "To get the most out of the agility afforded by serverless and containers, it is essential to build CI/CD pipelines that help teams iterate on code and quickly release features. In this talk, we demonstrate how developers can build effective CI/CD release workflows to manage their serverless or containerized deployments on AWS. We cover infrastructure-as-code (IaC) application models, such as AWS Serverless Application Model (AWS SAM) and new imperative IaC tools. We also demonstrate how to set up CI/CD release pipelines with AWS CodePipeline and AWS CodeBuild, and we show you how to automate safer deployments with AWS CodeDeploy.",
+        "date": "2018-11-28T18:23:05Z",
+        "duration": 3432
     },
     {
         "service": "lambda",
         "videoId": "n5Jf6Vi2whI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "SVR302",
+            "Balaji Iyer",
+            "Serverless Computing Mini Con"
+        ],
         "title": "AWS re:Invent 2016: Optimizing the Data Tier in Serverless Web Applications (SVR302)",
-        "date": "2016/12/02"
+        "description": "AWS Lambda empowers developers to build cloud-native web applications or platforms using microservices architecture. The three-tier web app has been a cornerstone architecture pattern for decades in this space. This session walks you through the process of identifying the presentation, logic, and data tiers required to build web applications with AWS Lambda at the core. By using AWS Lambda as your logic tier, you have a wide number of data storage options for your data tier. AWS offers a wide range of database services to fit your application requirements. We dive into methodologies for picking the right database technology based on your application requirements.\n\nYou learn the benefits of SQL vs. NoSQL database architectures for the data tier of your serverless app. We demonstrate connecting your serverless app to various AWS database offerings including Amazon RDS, Amazon Aurora, Amazon DynamoDB, and Amazon ElastiCache, and elaborate on the setup of each option with AWS Lambda. We also provide guidelines and best practices for implementing this architecture pattern, such as setting up a VPC on Lambda to connect to private resources, leveraging local caching for opportunistic performance improvement, choosing the right language runtime for different workload patterns, managing database connections, and more.",
+        "date": "2016-12-03T02:25:39Z",
+        "duration": 3980
     },
     {
         "service": "lambda",
         "videoId": "P7i01eqmzrs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Lambda",
+            "CodePipeline",
+            "CI/CD",
+            "CI",
+            "CD",
+            "Automation",
+            "Deployment",
+            "Build",
+            "Serverless"
+        ],
         "title": "How to Do Continuous Integration and Continuous Deployment with AWS Lambda and AWS CodePipeline",
-        "date": "2017/03/01"
+        "description": "Learn how to create a CI/CD pipeline with AWS Lambda and AWS CodePipeline!\nAWS Lambda is a serverless compute service that runs your code in response to events and automatically manages the underlying compute resources for you. Learn more at: http://amzn.to/2lUqVj4 & https://github.com/awslabs/aws-serverless-samfarm.",
+        "date": "2017-03-01T19:48:11Z",
+        "duration": 2144
     },
     {
         "service": "lambda",
         "videoId": "1KNGC9GgJKk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Lambda",
+            "S3",
+            "serverless",
+            "serverless design pattern"
+        ],
         "title": "The S3-to-Lambda Serverless Design Pattern",
-        "date": "2020/04/30"
+        "description": "The S3-to-Lambda serverless design pattern can become a flexible core for your serverless applications. In this pattern, you configure S3 to notify Lambda when events happen, to run your custom code. This video shows how this works in detail, reviewing the characteristics of both services, and how to use the integration for building highly scalable applications.\n\nThis is the first video in a series showing specific examples of how you can use this pattern to provide useful functionality in your business applications. Learn how you can do things like automated language translation, workflow management, and bringing sentiment analysis to audio recordings. \n\nLearn more about AWS S3-to-Lambda serverless at https://go.aws/3aVywUx\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-04-30T21:21:20Z",
+        "duration": 462
     }
 ]

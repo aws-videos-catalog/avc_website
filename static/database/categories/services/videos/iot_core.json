@@ -2,49 +2,154 @@
     {
         "service": "iot_core",
         "videoId": "VxY9m_DYgms",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference 2018"
+        ],
         "title": "Connecting Devices to AWS IoT Core (Level 300)",
-        "date": "2018/08/24"
+        "description": "Learn more about the AWS Innovate Online Conference at - https://amzn.to/2Mwiut6.\nAWS IoT Core is a managed cloud platform that lets connected devices easily and securely interact with cloud applications and other devices. The IoT device landscape ranges from highly constrained sensor nodes to industrial gateways with a large amount of processing power. In this session, we discuss the different SDKs, edge computing software, and real-time operating systems you can use to seamlessly connect a wide array of devices to the AWS IoT Core. Learn how easy it is to develop and deploy a program on an ESP32 microcontroller running Amazon FreeRTOS, and leave this session understanding the different ways you can connect your devices to the AWS IoT Core.\n\nSpeaker: Simith Nambiar, Partner Solution Architect - IoT, Amazon Web Services",
+        "date": "2018-08-24T19:52:19Z",
+        "duration": 1550
     },
     {
         "service": "iot_core",
         "videoId": "2I08hnySAGo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Netafim",
+            "mPrest",
+            "irrigation",
+            "agriculture",
+            "LoRA",
+            "MQTT",
+            "IoT",
+            "AWS IoT Core",
+            "MariaDB",
+            "Redshift",
+            "Amazon Kinesis",
+            "Amazon Redshift",
+            "Amazon ElastiCache",
+            "Amazon RDS",
+            "Amazon Simple Storage Service (S3)",
+            "AWS Elastic Beanstalk",
+            "AWS Lambda",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "mPrest & Netafim: Smarter Irrigation with AWS IoT Core",
-        "date": "2019/03/06"
+        "description": "In this episode of This is My Architecture - https://amzn.to/2RpOFbm, \nmPrest shows how they helped Netafim build a multi-tenant SaaS solution for irrigation systems that uses AWS IoT Core and other AWS services. We'll explore how they leverage the LoRA and MQTT protocols along with on-site hardware units to handle intermittent connectivity and offline data collection. We'll also see how they use AWS IoT Core, S3 and Kinesis to capture and store data, plus other services such as Amazon Redshift to provide analytics.\n\nHost: Matt Yanchyshyn, Global Tech Lead, AWS Partner Program\nCustomer: Aviad Kaminski, Software Development Manager, mPrest\nCustomer: Amnon Raviv, Head of Global Customer Support, Digital Farming, Netafim\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-03-06T17:00:00Z",
+        "duration": 538
     },
     {
         "service": "iot_core",
         "videoId": "_0us6NzlaoQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Building Smart Devices with AWS IoT Services (Level 300)",
-        "date": "2017/12/21"
+        "description": "Learn more about AWS at - http://amzn.to/2mjFHzG.\nInternet of Things (IoT) allows us to build products that slowly gets smarter over time as we are able to use the products to sense the physical world and, fine-tune products to meet customers’ needs. In this session will cover AWS IoT, and how it allows you to securely connect billions of devices to AWS.\n\nSpeaker: Olivier Klein, Emerging Technologies Solutions Architect, Amazon Web Services",
+        "date": "2017-12-22T01:40:19Z",
+        "duration": 1386
     },
     {
         "service": "iot_core",
         "videoId": "4HZzXi-yDgA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I start publishing messages to AWS IoT Core from my device?",
-        "date": "2020/09/01"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/iot-core-publish-mqtt-messages-python/ Paritosh shows you how to start publishing messages to AWS IoT Core from your device.",
+        "date": "2020-09-01T17:07:01Z",
+        "duration": 263
     },
     {
         "service": "iot_core",
         "videoId": "ZhiBrx1lJEs",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "IoT",
+            "IOT312",
+            "AWS Greengrass"
+        ],
         "title": "AWS re:Invent 2017: IoT @ Enel: a New Generation IoT Core Platform (IOT312)",
-        "date": "2017/11/29"
+        "description": "This session provides a technical overview of a new-generation core IoT platform, designed and implemented by Enel in partnership with AWS IoT. The core IoT platform provides a single architecture and a common set of services that will be adopted by existing and future IoT applications across different business units at Enel. We analyze use cases with a live showcase of platform capabilities. We also demonstrate how the core platform enables Enel to build resilient and scalable business solutions by leveraging existing and leading-edge AWS services, such as the AWS IoT Device Gateway, AWS IoT Device Shadow, and AWS Greengrass.",
+        "date": "2017-11-29T16:24:08Z",
+        "duration": 3074
     },
     {
         "service": "iot_core",
         "videoId": "JC3YitPgl7E",
-        "title": "WS re:Invent 2019: Create digital twins using AWS IoT Core and Amazon Sumerian (ARV203)",
-        "date": "2019/12/05"
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ARV203",
+            "AR/VR",
+            "AWS IoT Core",
+            "Amazon Sumerian",
+            "Amazon DynamoDB",
+            "AWS IoT Greengrass"
+        ],
+        "title": "AWS re:Invent 2019: Create digital twins using AWS IoT Core and Amazon Sumerian (ARV203)",
+        "description": "Smart manufacturing is just the beginning. The increase in IoT devices, combined with the rise in AR/VR technology, is increasing the use of digital twins. This enables real-time data visualization through virtual representations of machines and equipment to more effectively and expertly solve real-time problems or support training applications. In this session, learn how to create a digital twin that can be deployed over the web to desktops, laptops, mobile devices, and head-mounted devices.",
+        "date": "2019-12-05T17:48:08Z",
+        "duration": 3103
     },
     {
         "service": "iot_core",
         "videoId": "FAZxfL7JUgg",
+        "tags": [
+            "AWS",
+            "Events",
+            "IoT",
+            "Internet of things",
+            "alexa integration",
+            "iot core",
+            "re:invent 2019",
+            "alexa",
+            "build on alexa",
+            "connected home"
+        ],
         "title": "Introducing Alexa Voice Service Integration for AWS IoT Core",
-        "date": "2020/02/24"
+        "description": "Dirk Didascalou, VP of AWS IoT, introduces the new Alexa Voice Service (AVS) Integration for AWS IoT Core at re:invent 2019.\n\nLearn more about AWS IoT at https://go.aws/32BB8Vr\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #IoT #Alexa",
+        "date": "2020-02-24T17:00:07Z",
+        "duration": 125
     },
     {
         "service": "iot_core",
         "videoId": "tlYUJ8mLAeU",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "Architecture",
+            "AWS IoT Core",
+            "AWS Lambda",
+            "Amazon API Gateway",
+            "ARC370-P"
+        ],
         "title": "AWS re:Invent 2019: Building resilient, scalable IoT workloads with AWS IoT Core (ARC370-P)",
-        "date": "2019/12/05"
+        "description": "This presentation was recorded prior to re:Invent. In this session, learn how AWS teams used AWS IoT Core to provide more advantage to their architectures. These teams got operational by connecting multiple devices, managing their device fleet, learning lessons along the way, and deploying their workloads to production. Gain insights from tried and tested architectures that you can use to supplement your own workloads. We also discuss other AWS IoT offerings, such as AWS IoT Greengrass and Amazon FreeRTOS.",
+        "date": "2019-12-05T22:35:30Z",
+        "duration": 1940
     }
 ]

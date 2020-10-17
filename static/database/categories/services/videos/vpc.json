@@ -2,206 +2,629 @@
     {
         "service": "vpc",
         "videoId": "t7keOHhYYE0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "vpc",
+            "virtual private cloud",
+            "public sector",
+            "whiteboarding"
+        ],
         "title": "AWS SA Whiteboarding | Amazon Virtual Private Cloud (VPC)",
-        "date": "2016/08/29"
+        "description": "Whiteboard with our AWS Worldwide Public Sector Solutions Architects for step-by-step instructions and demos on topics important to you.  In this quick video, learn how to design your Amazon Virtual Private Cloud, or VPC for short. Warren Santner, AWS SA, shows you how to plan and deploy your VPC to have complete control over your virtual networking environment, including selection of your own IP address range, creation of subnets, and configuration of route tables and network gateways. Learn more at aws.amazon.com/vpc/ \n\nHave a question about cloud computing? Our public sector SAs are here to help! Send us your question at aws-wwps-blog@amazon.com.",
+        "date": "2016-08-29T15:15:48Z",
+        "duration": 223
     },
     {
         "service": "vpc",
         "videoId": "jZAvKgqlrjY",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Networking",
+            "NET201",
+            "AWS Direct Connect"
+        ],
         "title": "AWS re:Invent 2018: Your Virtual Data Center: VPC Fundamentals and Connectivity Options (NET201)",
-        "date": "2018/11/27"
+        "description": "In this session, we walk through the fundamentals of Amazon VPC. First, we cover build-out and design fundamentals for VPCs, including picking your IP space, subnetting, routing, security, NAT, and much more. We then transition to different approaches and use cases for optionally connecting your VPC to your physical data center with VPN or AWS Direct Connect. This mid-level architecture discussion is aimed at architects, network administrators, and technology decision makers interested in understanding the building blocks that AWS makes available with Amazon VPC. Learn how you can connect VPCs with your offices and current data center footprint.",
+        "date": "2018-11-27T19:11:02Z",
+        "duration": 3051
     },
     {
         "service": "vpc",
         "videoId": "hiKPPy584Mg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit"
+        ],
         "title": "AWS Networking Fundamentals",
-        "date": "2019/06/03"
+        "description": "Learn more about AWS at – https://amzn.to/31203Qx \nIn this session, we walk through the fundamentals of Amazon VPC. First, we cover build-out and design fundamentals for VPCs, including picking your IP space, subnetting, routing, security, NAT, and much more. We then transition to different approaches and use cases for optionally connecting your VPC to your physical data center with VPN or AWS Direct Connect. This mid-level architecture discussion is aimed at architects, network administrators, and technology decision makers interested in understanding the building blocks that AWS makes available with Amazon VPC. Learn how you can connect VPCs with your offices and current data center footprint.",
+        "date": "2019-06-03T17:27:17Z",
+        "duration": 2409
     },
     {
         "service": "vpc",
         "videoId": "rQvl-V3tLiQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS London Summit 2018",
+            "breakout session",
+            "VPC",
+            "Amazon VPC"
+        ],
         "title": "VPC Design and New Capabilities for Amazon VPC",
-        "date": "2018/05/23"
+        "description": "Learn more about AWS at - https://amzn.to/2IGESdl.\nAWS London Summit 2018 - Breakout Session:\nAmazon’s Virtual Private Cloud (Amazon VPC) gives you the ability to have complete control over your AWS virtual networking environment. Given this control, have you ever wondered how new Amazon VPC features will affect the way you design your AWS networking infrastructure, or even change existing architectures that you use today?",
+        "date": "2018-05-23T16:56:03Z",
+        "duration": 2681
     },
     {
         "service": "vpc",
         "videoId": "fnxXNZdf6ew",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Networking",
+            "NET303",
+            "Amazon Virtual Private Cloud"
+        ],
         "title": "AWS re:Invent 2018: Advanced VPC Design and New Capabilities for Amazon VPC (NET303)",
-        "date": "2018/11/29"
+        "description": "Amazon Virtual Private Cloud (Amazon VPC) enables you to have complete control over your AWS virtual networking environment. Given this control, have you ever wondered how new Amazon VPC features might affect the way you design your AWS networking infrastructure, or even change existing architectures that you use today? In this session, we explore the new design and capabilities of Amazon VPC and how you might use them. Please join us for a speaker meet-and-greet following this session at the Speaker Lounge (ARIA East, Level 1, Willow Lounge). The meet-and-greet starts 15 minutes after the session and runs for half an hour.",
+        "date": "2018-11-29T18:28:35Z",
+        "duration": 3403
     },
     {
         "service": "vpc",
         "videoId": "q_BcLQkLOG0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "I've deleted my default VPC. How do I get it back?",
-        "date": "2018/10/08"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2nMCmcR\nShravan, an AWS Cloud Support Engineer, shows you how to get your default VPC back if you've deleted it.",
+        "date": "2018-10-08T13:41:26Z",
+        "duration": 103
     },
     {
         "service": "vpc",
         "videoId": "caJ7zh9qzmw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos"
+        ],
         "title": "What is an Interface VPC Endpoint and how can I create Interface Endpoint for my VPC?",
-        "date": "2018/08/07"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/create-an-interface-vpc-endpoint/\n\nNishita, an AWS Cloud Support Engineer, shows you what an Interface VPC Endpoint is and how can you can create a Interface Endpoint for your VPC.",
+        "date": "2018-08-07T13:52:06Z",
+        "duration": 308
     },
     {
         "service": "vpc",
         "videoId": "5_bQ6Dgk6k8",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Networking",
+            "NET201",
+            "Becky Weiss - Amazon Web Services",
+            "Introductory (200 level)",
+            "vpc",
+            "vpc fundamentals",
+            "Virtual private cloud",
+            "virtual server",
+            "direct connect",
+            "cloud computing event"
+        ],
         "title": "AWS re:Invent 2015: VPC Fundamentals and Connectivity Options (NET201)",
-        "date": "2015/10/09"
+        "description": "Discover the fundamentals, different approaches, and use cases for Amazon Virtual Private Cloud (VPC). Learn more: http://amzn.to/2jkEsQZ\n\nFirst, we will cover build-out and design fundamentals for VPC, including picking your IP space, subnetting, routing, security, NAT, and much more. We will then transition into different approaches and use cases for optionally connecting your VPC to your physical data center with VPN or AWS Direct Connect.  This mid-level architecture discussion is aimed at architects, network administrators, and technology decision-makers interested in understanding the building blocks AWS makes available with VPC and how you can connect this with your offices and current data center footprint.",
+        "date": "2015-10-10T00:18:37Z",
+        "duration": 3152
     },
     {
         "service": "vpc",
         "videoId": "UP7wDBjZ37o",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Networking",
+            "NET313",
+            "Amazon Virtual Private Cloud",
+            "Amazon VPC)"
+        ],
         "title": "AWS re:Invent 2018: Amazon VPC: Security at the Speed Of Light (NET313)",
-        "date": "2018/11/28"
+        "description": "With Amazon Virtual Private Cloud (Amazon VPC) you can build your own virtual data center networks in seconds. Every VPC is free, but it comes with enterprise-grade capabilities that would cost millions of dollars in a traditional data center. How is this possible? Come hear how Amazon VPC works under the hood. We uncover how we use Amazon-designed hardware to deliver high-assurance security and ultra-fast performance that makes the speed of light feel slow. Leave with insights and tips for how to optimize your own applications, and even whole organizations, to deliver faster than ever.",
+        "date": "2018-11-28T18:21:18Z",
+        "duration": 2984
     },
     {
         "service": "vpc",
         "videoId": "i1A1eH8vLtk",
-        "title": "AWS Knowledge Center Videos: 'What is VPC Peering?'",
-        "date": "2016/08/02"
+        "tags": [
+            "aws knowledge center videos",
+            "vpc peering",
+            "configuration",
+            "troubleshooting",
+            "private IP address"
+        ],
+        "title": "AWS Knowledge Center Videos: \"What is VPC Peering?\"",
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/create-vpc-console/\r\nBen, an AWS Cloud Support Engineer, explains the concept of VPC peering, configuration, and troubleshooting steps.",
+        "date": "2016-08-02T15:30:00Z",
+        "duration": 247
     },
     {
         "service": "vpc",
         "videoId": "gXzYnMiLNPI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I share a subnet in a VPC with another AWS account?",
-        "date": "2020/03/16"
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/2tfdTCV\nVictor shows you how to share a subnet in a VPC with another AWS account.",
+        "date": "2020-03-16T19:16:06Z",
+        "duration": 320
     },
     {
         "service": "vpc",
         "videoId": "8K7GZFff_V0",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Architecture",
+            "ARC309-R1",
+            "AWS Direct Connect"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] From One to Many: Evolving VPC Design (ARC309-R1)",
-        "date": "2018/11/28"
+        "description": "As more customers adopt Amazon VPC architectures, the features and flexibility of the service are encountering the obstacles of evolving design requirements. In this session, we follow the evolution of a single regional VPC to a multi-VPC, multi-region design with diverse connectivity into on-premises systems and infrastructure. Along the way, we investigate creative customer solutions for scaling and securing outbound VPC traffic, securing private access to Amazon S3, managing multi-tenant VPCs, integrating existing customer networks through AWS Direct Connect, and building a full VPC mesh network across global regions. Please join us for a speaker meet-and-greet following this session at the Speaker Lounge (ARIA East, Level 1, Willow Lounge). The meet-and-greet starts 15 minutes after the session and runs for half an hour.",
+        "date": "2018-11-28T18:45:57Z",
+        "duration": 3763
     },
     {
         "service": "vpc",
         "videoId": "pAnZPKJ9EFY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "paesslerAG",
+            "cainde9",
+            "StepFunctions",
+            "TMA Munich",
+            "AWS Step Functions",
+            "Amazon API Gateway",
+            "Amazon DynamoDB",
+            "Amazon EC2",
+            "Amazon Simple Notification Service (SNS)",
+            "AWS CloudFormation",
+            "Amazon VPC",
+            "AWS Lambda",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Paessler AG: VPC Mass Creation with Lambda and Step Functions",
-        "date": "2019/01/09"
+        "description": "Learn more about This Is My Architecture at - https://amzn.to/2CaO5Zf.\nLearn about how Paessler AG uses Step Functions to create hundreds of VPC's. Paessler AG configures and instantiates VPC's in order to run its PRTG Network Monitoring product. In this episode, you'll see how Paessler AG uses Lambda and Step Functions to conduct and monitor VPC mass creation.\n\nHost: Peter Tilsen, Solutions Architect, AWS\nCustomer: Greg Campion, Systems Admin, Paessler AG\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-01-09T20:49:46Z",
+        "duration": 273
     },
     {
         "service": "vpc",
         "videoId": "WFL6a1IX-F4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Aviatrix",
+            "TMA",
+            "This is my architecture",
+            "Sherry Wei",
+            "datacenters",
+            "VPC",
+            "on-prem",
+            "VPN",
+            "Amazon VPC"
+        ],
         "title": "Aviatrix: Using a Transit VPC to Connect Many VPCs to On-Prem Network",
-        "date": "2018/01/19"
+        "description": "Learn more about This Is My Architecture - http://amzn.to/2Djn4lI.\nSherry from Aviatrix talks about the evolution of connecting many AWS VPCs and regions to on premise datacenters. With architectures like services and transport VPC, policy driven VPN connectivity simplifies the setup process, enforce network segmentation and extending the global reach. No BGP runs in the Spoke VPCs.\n\nHost: Benjamin Feldon, Principal Solutions Architect\nSpeakers: Sherry Wei, Founder and CTO",
+        "date": "2018-01-19T17:33:53Z",
+        "duration": 392
     },
     {
         "service": "vpc",
         "videoId": "O64ukMVf7ok",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I launch an Amazon EMR cluster in a VPC environment?",
-        "date": "2018/09/11"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2OC0jPe\n\nBhawna, an AWS Cloud Support Engineer, shows you how to launch an Amazon EMR cluster in a VPC environment.",
+        "date": "2018-09-11T14:27:47Z",
+        "duration": 854
     },
     {
         "service": "vpc",
         "videoId": "mNjExgP97VM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I modify the IP address range of my Amazon VPC or VPC subnet?",
-        "date": "2018/10/28"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2w4o8Iy\nShravan, an AWS Cloud Support Engineer, shows you how to modify the IP address range of my Amazon Virtual Private Cloud (VPC) or VPC subnet.",
+        "date": "2018-10-29T03:35:21Z",
+        "duration": 148
     },
     {
         "service": "vpc",
         "videoId": "-6-4QVJuQGo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I move my Redshift cluster from one VPC to another VPC?",
-        "date": "2018/09/17"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2OxrACW\n\nSuvendu, an AWS Cloud Support Engineer, shows you how to move your Redshift cluster from one VPC to another VPC.",
+        "date": "2018-09-17T23:39:00Z",
+        "duration": 294
     },
     {
         "service": "vpc",
         "videoId": "Tff1mekxOJ4",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Networking",
+            "NET201",
+            "AI",
+            "Connect",
+            "VPC",
+            "AWS Direct Connect",
+            "Security"
+        ],
         "title": "AWS re:Invent 2017: Creating Your Virtual Data Center: VPC Fundamentals and Connecti (NET201)",
-        "date": "2017/11/29"
+        "description": "In this session, we walk through the fundamentals of Amazon VPC. First, we cover build-out and design fundamentals for VPCs, including picking your IP space, subnetting, routing, security, NAT, and much more. We then transition into different approaches and use cases for optionally connecting your VPC to your physical data center with VPN or AWS Direct Connect. This mid-level architecture discussion is aimed at architects, network administrators, and technology decision-makers interested in understanding the building blocks that AWS makes available with Amazon VPC. Learn how you can connect VPCs with your offices and current data center footprint.",
+        "date": "2017-11-29T17:31:54Z",
+        "duration": 2793
     },
     {
         "service": "vpc",
         "videoId": "U4TDYrpcimE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "What can I check if my VPC route tables are not working?",
-        "date": "2018/09/07"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2QcXA0v\n\nRavi, an AWS Cloud Support Engineer, shows you how what to troubleshoot if your VPC route tables are not working.",
+        "date": "2018-09-07T13:15:26Z",
+        "duration": 423
     },
     {
         "service": "vpc",
         "videoId": "0UiMgsM5QHs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos",
+            "RDS"
+        ],
         "title": "How do I change the VPC for an RDS DB instance?",
-        "date": "2019/02/21"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2N4PrKe\nSuvendu, an AWS Cloud Support Engineer, shows you how to change the VPC for an RDS DB instance.",
+        "date": "2019-02-21T18:11:27Z",
+        "duration": 379
     },
     {
         "service": "vpc",
         "videoId": "8idAaDMHHHY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "EC2",
+            "ClassicLink",
+            "VPC",
+            "peering",
+            "peered"
+        ],
         "title": "How do I enable communication between an EC2-Classic instance and resources in a peered VPC?",
-        "date": "2017/03/15"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/enable-communication-classic-peered-vpc/\n\nJay, an AWS Cloud Support Engineer shows you how to enable communication between an EC2-Classic instance and resources in a VPC.",
+        "date": "2017-03-15T17:20:28Z",
+        "duration": 246
     },
     {
         "service": "vpc",
         "videoId": "Pj11NFXDbLY",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Networking",
+            "NET305",
+            "VPC"
+        ],
         "title": "AWS re:Invent 2017: Advanced VPC Design and New Capabilities for Amazon VPC (NET305)",
-        "date": "2017/12/01"
+        "description": "Amazon Virtual Private Cloud (Amazon VPC) enables you to have complete control over your AWS virtual networking environment. Given this control, have you ever wondered how new Amazon VPC features will affect the way you design your AWS networking infrastructure, or even change existing architectures that you use today? In this session, we explore the new design and capabilities and how you might use them.?",
+        "date": "2017-12-01T17:14:58Z",
+        "duration": 3024
     },
     {
         "service": "vpc",
         "videoId": "rDAeyByyFKI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "Why can't I delete my security group in a VPC?",
-        "date": "2018/09/11"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2wLSAYo\nRavi, an AWS Cloud Support Engineer, shows you what to do if you encounter errors when trying to delete a security group in a VPC.",
+        "date": "2018-09-11T14:33:02Z",
+        "duration": 220
     },
     {
         "service": "vpc",
         "videoId": "6g6Z6w0DK6Y",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "knowledge center videos"
+        ],
         "title": "I received a dependency error when I tried to delete my Amazon VPC. How do I delete my Amazon VPC?",
-        "date": "2018/06/04"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/troubleshoot-dependency-error-delete-vpc/\n\nBehnaz, an AWS Cloud Support Engineer, shows you what to do if you receive a dependency error when trying to delete an Amazon Virtual Private Cloud.",
+        "date": "2018-06-04T13:55:21Z",
+        "duration": 370
     },
     {
         "service": "vpc",
         "videoId": "JVBbqkVEbXY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I change the VPC of an Amazon Aurora Cluster?",
-        "date": "2020/06/08"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/rds-vpc-aurora-cluster/\nNiranjan shows you how to change the VPC of an Amazon Aurora Cluster.",
+        "date": "2020-06-08T21:01:27Z",
+        "duration": 430
     },
     {
         "service": "vpc",
         "videoId": "sThQD7wjpgA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws summit singapore 2019",
+            "machine learning",
+            "Eric Rennie",
+            "Cisco Stealthwatch Cloud"
+        ],
         "title": "AWS Summit Singapore 2019 | Learn How to Use VPC Flow Logs and Other AWS Tools",
-        "date": "2019/05/01"
+        "description": "Learn more about AWS at – https://amzn.to/2J7DzHf \nSpeakers: Eric Rennie, Principal Cybersecurity Systems Engineer\nCisco Stealthwatch Cloud – Automated Advanced Threat Detection\n\nAccess slide: https://www.slideshare.net/AWSSummits/aws-summit-singapore-2019-learn-how-to-achieve-complete-visibility-strong-security-and-receive-actionable-alerts-using-vpc-flow-logs-and-other-aws-tools",
+        "date": "2019-05-01T18:24:15Z",
+        "duration": 1793
     },
     {
         "service": "vpc",
         "videoId": "5KWh1F24sJE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "VPC Endpoints",
+            "Amazon DynamoDB",
+            "NAT gateway access",
+            "IAM policies"
+        ],
         "title": "VPC Endpoints for Amazon DynamoDB",
-        "date": "2017/08/16"
+        "description": "Learn more about Amazon DynamoDB at - http://amzn.to/2vE750m.\nVPC Endpoints for DynamoDB enables you to have all network traffic between your Amazon Virtual Private Cloud (VPC) and Amazon DynamoDB stay within the AWS cloud instead of traversing the public internet. If you’re connecting to DynamoDB from a VPC, here are four reasons that make using VPC Endpoints for DynamoDB a no-brainer. First, while normal charges apply for NAT gateway access, there is no additional cost for using VPC Endpoints for DynamoDB. Second, with VPC Endpoints for DynamoDB, you do not need an Internet gateway or NAT gateway. This ensures your VPC remains closed and isolated from the public Internet. Third, VPC endpoints offer simplified network configuration that removes the need for you to set up and maintain firewalls to keep you VPC secure from network attacks. Fourth, you can use IAM policies to allow DynamoDB access through VPC endpoints only from your corporate network, and only from specific applications. VPC Endpoints for DynamoDB is now generally available in all public AWS regions.",
+        "date": "2017-08-16T18:41:58Z",
+        "duration": 95
     },
     {
         "service": "vpc",
         "videoId": "d5k6dFrL0xo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "public sector",
+            "VPC",
+            "Virtual Private Cloud",
+            "Q&A"
+        ],
         "title": "AWS Q&A with an SA: | How should I design my first VPC?",
-        "date": "2016/08/29"
+        "description": "Learn from our AWS Worldwide Public Sector Solutions Architects as they answer your most pressing questions, such as “How should I design my first VPC?” Amazon Virtual Private Cloud (VPC) lets you provision an isolated section of the cloud to run your AWS resources in a network you control. For more detailed answers on VPC design, please visit aws.amazon.com/answers. \n\nHave a question about cloud computing? Our public sector SAs are here to help! Send us your question at aws-wwps-blog@amazon.com.",
+        "date": "2016-08-29T15:15:48Z",
+        "duration": 98
     },
     {
         "service": "vpc",
         "videoId": "5KWh1F24sJE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "VPC Endpoints",
+            "Amazon DynamoDB",
+            "NAT gateway access",
+            "IAM policies"
+        ],
         "title": "VPC Endpoints for Amazon DynamoDB",
-        "date": "2017/08/16"
+        "description": "Learn more about Amazon DynamoDB at - http://amzn.to/2vE750m.\nVPC Endpoints for DynamoDB enables you to have all network traffic between your Amazon Virtual Private Cloud (VPC) and Amazon DynamoDB stay within the AWS cloud instead of traversing the public internet. If you’re connecting to DynamoDB from a VPC, here are four reasons that make using VPC Endpoints for DynamoDB a no-brainer. First, while normal charges apply for NAT gateway access, there is no additional cost for using VPC Endpoints for DynamoDB. Second, with VPC Endpoints for DynamoDB, you do not need an Internet gateway or NAT gateway. This ensures your VPC remains closed and isolated from the public Internet. Third, VPC endpoints offer simplified network configuration that removes the need for you to set up and maintain firewalls to keep you VPC secure from network attacks. Fourth, you can use IAM policies to allow DynamoDB access through VPC endpoints only from your corporate network, and only from specific applications. VPC Endpoints for DynamoDB is now generally available in all public AWS regions.",
+        "date": "2017-08-16T18:41:58Z",
+        "duration": 95
     },
     {
         "service": "vpc",
         "videoId": "d5k6dFrL0xo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "public sector",
+            "VPC",
+            "Virtual Private Cloud",
+            "Q&A"
+        ],
         "title": "AWS Q&A with an SA: | How should I design my first VPC?",
-        "date": "2016/08/29"
+        "description": "Learn from our AWS Worldwide Public Sector Solutions Architects as they answer your most pressing questions, such as “How should I design my first VPC?” Amazon Virtual Private Cloud (VPC) lets you provision an isolated section of the cloud to run your AWS resources in a network you control. For more detailed answers on VPC design, please visit aws.amazon.com/answers. \n\nHave a question about cloud computing? Our public sector SAs are here to help! Send us your question at aws-wwps-blog@amazon.com.",
+        "date": "2016-08-29T15:15:48Z",
+        "duration": 98
     },
     {
         "service": "vpc",
         "videoId": "9xS-MIxHp8o",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I use SGW private link (SGW VPC Endpoint) with my SGW?",
-        "date": "2020/04/16"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/storage-gateway-file-gateway-private-s3/\nSumit shows you how to use SGW private link (SGW VPC Endpoint) with your SGW.",
+        "date": "2020-04-16T14:22:27Z",
+        "duration": 334
     },
     {
         "service": "vpc",
         "videoId": "Ul2NsPNh9Ik",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "NET201",
+            "Becky Weiss",
+            "Introductory (200 Level)",
+            "Networking"
+        ],
         "title": "AWS re:Invent 2016: Creating Your Virtual Data Center: VPC Fundamentals and Connectivity (NET201)",
-        "date": "2016/12/03"
+        "description": "In this session, we walk through the fundamentals of Amazon VPC. First, we cover build-out and design fundamentals for VPC, including picking your IP space, subnetting, routing, security, NAT, and much more. We then transition into different approaches and use cases for optionally connecting your VPC to your physical data center with VPN or AWS Direct Connect.  This mid-level architecture discussion is aimed at architects, network administrators, and technology decision-makers interested in understanding the building blocks that AWS makes available with Amazon VPC and how you can connect this with your offices and current data center footprint.",
+        "date": "2016-12-03T22:27:03Z",
+        "duration": 3034
     },
     {
         "service": "vpc",
         "videoId": "HexrVfuIY1k",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Services Deep Dive",
+            "Expert",
+            "Amazon EC2",
+            "Security",
+            "Networking",
+            "Amazon VPC",
+            "Architect",
+            "Technical Decision Maker",
+            "Enterprise",
+            "Developer",
+            "Kevin Miller"
+        ],
         "title": "AWS re:Invent 2014 | (SDD422) Amazon VPC Deep Dive",
-        "date": "2014/11/17"
+        "description": "Amazon Virtual Private Cloud (Amazon VPC) lets you provision a logically isolated section of the AWS cloud where you can launch AWS resources in a virtual network that you define. In this talk, we discuss advanced tasks in Amazon VPC, including the implementation of VPC peering, the creation of multiple network zones, the establishment of private connections, and the use of multiple routing tables. We also provide information for current EC2-Classic network customers and help you prepare to adopt Amazon VPC.",
+        "date": "2014-11-17T23:41:24Z",
+        "duration": 2620
     },
     {
         "service": "vpc",
         "videoId": "PxFZt8MG2ss",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I troubleshoot connectivity to an RDS instance that uses a public/private subnet of a VPC?",
-        "date": "2019/05/22"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2IKO4RK\nArnab, an AWS Cloud Support Engineer, shows you how to troubleshoot connectivity to an Amazon RDS instance that uses a public or private subnet of a VPC.",
+        "date": "2019-05-22T20:33:35Z",
+        "duration": 875
     },
     {
         "service": "vpc",
@@ -212,313 +635,1025 @@
     {
         "service": "vpc",
         "videoId": "JcRKdEP94jM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "aws lambda",
+            "vpc"
+        ],
         "title": "AWS Knowledge Center Videos: How do I give internet access to my Lambda function in a VPC?",
-        "date": "2018/02/25"
+        "description": "Find more details in the AWS Knowledge Center:  https://aws.amazon.com/premiumsupport/knowledge-center/internet-access-lambda-function/\n\nKien, an AWS Cloud Support Engineers, shows you how to use AWS Lambda in a VPC.",
+        "date": "2018-02-25T20:57:48Z",
+        "duration": 450
     },
     {
         "service": "vpc",
         "videoId": "vJY9X-kdd9Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "redshift"
+        ],
         "title": "Why isn't the VPC I want to launch my Amazon Redshift cluster listed in the drop-down list?",
-        "date": "2018/07/01"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/vpc-redshift-associate/\n\nFrank, an AWS Cloud Support Engineer, shows you what to do if the VPC you want to launch your Amazon Redshift cluster to listed in the 'Choose a VPC' drop-down is not showing.",
+        "date": "2018-07-02T04:07:48Z",
+        "duration": 569
     },
     {
         "service": "vpc",
         "videoId": "xoy16zChUK0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I find an unknown IP address in my VPC?",
-        "date": "2020/02/06"
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/2DeOVFn\nManuel shows you how to find an unknown IP address in your VPC.",
+        "date": "2020-02-06T20:43:54Z",
+        "duration": 97
     },
     {
         "service": "vpc",
         "videoId": "YoX_frLHbEs",
-        "title": "From One to Many: Evolving VPC Design (ARC401) | AWS re:Invent 2013",
-        "date": "2013/11/22"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "enterprise",
+            "vpc",
+            "direct connect",
+            "Robert-Alexander"
+        ],
+        "title": "From One to Many:  Evolving VPC Design (ARC401) | AWS re:Invent 2013",
+        "description": "As more customers adopt Amazon Virtual Private Cloud architectures, the features and flexibility of the service are squaring off against increasingly complex design requirements. This session follows the evolution of a single regional VPC into a multi-VPC, multi-region design with diverse connectivity into on-premises systems and infrastructure. Along the way, we investigate creative customer solutions for scaling and securing outbound VPC traffic, managing multi-tenant VPCs, conducting VPC-to-VPC traffic, extending corporate federation and name services into VPC, running multiple hybrid environments over AWS Direct Connect, and integrating corporate  multiprotocol label switching (MPLS)  clouds into multi-region VPCs.",
+        "date": "2013-11-22T17:38:37Z",
+        "duration": 3457
     },
     {
         "service": "vpc",
         "videoId": "k5mS4kxWWEI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS Knowledge Center Videos: How do I create and attach an Internet gateway to a VPC?",
-        "date": "2018/01/22"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/create-attach-igw-vpc/\n\nAbiola, an AWS Cloud Support Engineer, shows you how to create and attach an Internet gateway to a VPC.",
+        "date": "2018-01-22T15:33:36Z",
+        "duration": 310
     },
     {
         "service": "vpc",
         "videoId": "jjk_zZRLXXw",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2014",
+            "Architecture",
+            "Expert",
+            "AWS Direct Connect",
+            "Load Balancing",
+            "High Availability",
+            "Amazon VPC",
+            "Amazon EC2",
+            "Amazon Web Services",
+            "Architect",
+            "Yinal Ozkan"
+        ],
         "title": "AWS re:Invent 2014 | (ARC403) From One to Many: Evolving VPC Design",
-        "date": "2014/11/14"
+        "description": "As more customers adopt Amazon VPC architectures, the features and flexibility of the service are squaring off against increasingly complex design requirements. This session follows the evolution of a single regional VPC into a multi-VPC, multiregion design with diverse connectivity into on-premises systems and infrastructure. Along the way, we investigate creative customer solutions for scaling and securing outbound VPC traffic, managing multitenant VPCs, conducting VPC-to-VPC traffic, running multiple hybrid environments over AWS Direct Connect, and integrating corporate multiprotocol label switching (MPLS) clouds into multiregion VPCs.",
+        "date": "2014-11-14T23:31:34Z",
+        "duration": 3024
     },
     {
         "service": "vpc",
         "videoId": "AwmTjyQXs6E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Networking",
+            "NET304",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2016: Moving Mountains: Netflix's Migration into VPC (NET304)",
-        "date": "2016/12/03"
+        "description": "Netflix was one of the earliest very large AWS customers.  By 2014, we were running hundreds of applications in Amazon EC2.  That was great, until we needed to move to VPC.  Given our scale, uptime requirements, and the decentralized nature of how we manage our production environment, the VPC migration (still ongoing) presented particular challenges for us and for AWS as it sought to support our move.  In this talk, we discuss the starting state, our requirements and the operating principles we developed for how we wanted to drive the migration, some of the issues we ran into, and how the tight partnership with AWS helped us migrate from an EC2-Classic platform to an EC2-VPC platform.",
+        "date": "2016-12-03T21:50:06Z",
+        "duration": 2556
     },
     {
         "service": "vpc",
         "videoId": "m6Q5dWjFdiU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "compute-networking",
+            "startups",
+            "vpc",
+            "vpc network",
+            "ec2",
+            "Phil-Schulz",
+            "CPN208",
+            "cpn"
+        ],
         "title": "Selecting the Best VPC Network Architecture (CPN208) | AWS re:Invent 2013",
-        "date": "2013/11/27"
+        "description": "Which is better:   a single VPC with multiple subnets or multiple accounts with many VPCs? Should you simplify management with a single VPC or use multiple VPCs to lessen the blast radius of network changes?   In this session, we hear from customers who've implemented each approach and discuss how they addressed management, security, and connectivity for their Amazon EC2 environments.",
+        "date": "2013-11-28T05:33:30Z",
+        "duration": 3018
     },
     {
         "service": "vpc",
         "videoId": "xeIWpyst0P4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "private hosted zone",
+            "name resolution",
+            "BIND",
+            "DNS forwarder"
+        ],
         "title": "AWS KC Videos: How do I resolve records in a private hosted zone from outside the VPC?",
-        "date": "2017/04/02"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/r53-private-ubuntu/\n\nSujana, an AWS Cloud Support Engineer, shows you how to resolve records in a private hosted zone from outside your VPC.",
+        "date": "2017-04-02T20:36:58Z",
+        "duration": 653
     },
     {
         "service": "vpc",
         "videoId": "LnFLipj31ic",
+        "tags": [
+            "Spot",
+            "in",
+            "VPC",
+            "v2"
+        ],
         "title": "Launching Spot Instances in Amazon VPC",
-        "date": "2011/12/06"
+        "description": "Learn how to use spot instance in your Amazon Virtual",
+        "date": "2011-12-06T20:04:27Z",
+        "duration": 460
     },
     {
         "service": "vpc",
         "videoId": "moM6SGbiDvs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos"
+        ],
         "title": "How can I configure NAT on my VPC CIDR for traffic traversing a VPN connection?",
-        "date": "2018/08/01"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/configure-nat-for-vpn-traffic/\n\nJimmy, an AWS Cloud Support Engineer, shows you how to configure NAT on your VPC CIDR for traffic traversing a VPN connection.",
+        "date": "2018-08-01T13:40:10Z",
+        "duration": 587
     },
     {
         "service": "vpc",
         "videoId": "3Gv47NASmU4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "ARC302",
+            "Rob Alexander",
+            "Expert (400 Level)",
+            "Architecture"
+        ],
         "title": "AWS re:Invent 2016: From One to Many: Evolving VPC Design (ARC302)",
-        "date": "2016/12/01"
+        "description": "As more customers adopt Amazon VPC architectures, the features and flexibility of the service are squaring off against evolving design requirements. This session follows this evolution of a single regional VPC into a multi-VPC, multi-region design with diverse connectivity into on-premises systems and infrastructure. Along the way, we investigate creative customer solutions for scaling and securing outbound VPC traffic, securing private access to Amazon S3, managing multi-tenant VPCs, integrating existing customer networks through AWS Direct Connect, and building a full VPC mesh network across global regions.",
+        "date": "2016-12-01T22:49:54Z",
+        "duration": 3965
     },
     {
         "service": "vpc",
         "videoId": "WRr1MOMfgvk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "ec2 linux",
+            "network performance"
+        ],
         "title": "How do I troubleshoot network performance between EC2 Linux instances in a VPC and an on-prem host?",
-        "date": "2018/01/08"
+        "description": "Find more details in the AWS Knowledge Center:  https://aws.amazon.com/premiumsupport/knowledge-center/network-issue-vpc-onprem-ig/\n\nIshita, an AWS Cloud Support Engineer, shows you how to troubleshoot packet loss or latency issues between an Amazon EC2 Linux instance in a VPC and on-premises host over the internet.",
+        "date": "2018-01-08T18:08:34Z",
+        "duration": 472
     },
     {
         "service": "vpc",
         "videoId": "hWwG0hBu6e8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "VPC",
+            "endpoint",
+            "subnet",
+            "private"
+        ],
         "title": "AWS Knowledge Center Videos: How do I create a VPC endpoint only for a private subnet?",
-        "date": "2017/03/16"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/create-vpc-endpoint/\n\nRohith, an AWS Cloud Support Engineer shows you how to create a VPC endpoint only for a private subnet.",
+        "date": "2017-03-16T14:52:29Z",
+        "duration": 181
     },
     {
         "service": "vpc",
         "videoId": "dwm1Y-GxPv8",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Networking",
+            "NET307",
+            "Kaartik Viswanath - Amazon Web Services",
+            "Jayme Cox - Pinterest",
+            "Advanced (300 level)",
+            "Pinterest"
+        ],
         "title": "AWS re:Invent 2015 | (NET307) Pinterest: The road from EC2-Classic to EC2-VPC",
-        "date": "2015/10/09"
+        "description": "Pinterest is rolling out a phased platform migration from EC2-Classic to EC2-VPC. We used ClassicLink to link our EC2-Classic instances to VPCs, and we applied AWS best practices to configure VPC subnets and security groups. In this session, we share the lessons we learned along the way, and we also show you how to create a migration strategy and track migration costs.",
+        "date": "2015-10-10T00:33:50Z",
+        "duration": 1542
     },
     {
         "service": "vpc",
         "videoId": "5fEHhBX7YKE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013getting-started",
+            "architecture",
+            "startups",
+            "vpc",
+            "Chaos Monkey",
+            "Brett-Hollman",
+            "ARC202",
+            "ARC"
+        ],
         "title": "High Availability Application Architectures in Amazon VPC (ARC202) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "Amazon Virtual Private Cloud (Amazon VPC) lets you provision a logically isolated section of the Amazon Web Services (AWS) cloud where you can launch AWS resources in a virtual data center   that you define. In this session you learn how to leverage the VPC networking constructs to configure a highly available and secure virtual data center on AWS for your application.   We cover best practices around choosing an IP range for your VPC, creating subnets, configuring routing, securing your VPC, establishing VPN connectivity, and much more.   The session culminates in creating a highly available web application stack inside of VPC and testing its availability with Chaos Monkey.",
+        "date": "2013-11-26T17:08:28Z",
+        "duration": 3357
     },
     {
         "service": "vpc",
         "videoId": "Ja_zcw74gfE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "ENT203",
+            "Pawan Agnihotri",
+            "Sh",
+            "Enterprise & Migration"
+        ],
         "title": "AWS re:Invent 2016: Enterprise Fundamentals: Design Your Account and VPC Architecture (ENT203)",
-        "date": "2016/12/01"
+        "description": "Customers looking to migrate to AWS often ask the following questions at the beginning of their journey “What is the right AWS account structure and VPC design for me?” and “How do I minimize the impact to my IT operations?”  This session discusses the different account structures, VPC design patterns and network deployment architectures to align to different Enterprise IT Operating Models. We will also discuss the implications each pattern has with respect to Security, Finance and Operations.  Nielsen, a global enterprise providing an understanding of what consumers watch and what consumers buy, will discuss the decision making process for their AWS account and VPC design.  Nielsen will also discuss the implications of their decision.  This session will benefit IT architects, managers and technology strategists to:\n\n• Understand the 4 common Enterprise IT Operating Models and the VPC design patterns associated with each\n• The security, operational and financial considerations associated with each design pattern\n• Ask the correct questions to determine how best to set up their AWS accounts",
+        "date": "2016-12-01T21:43:50Z",
+        "duration": 3272
     },
     {
         "service": "vpc",
         "videoId": "xA97GUzLAls",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws",
+            "loft",
+            "ad tech",
+            "yellowhammer",
+            "startups"
+        ],
         "title": "AWS Loft Talks - Multi-Region Application Using Amazon VPC",
-        "date": "2015/10/28"
+        "description": "To learn more, visit http://aws.amazon.com/start-ups/loft/lofttalks/\n  \nJimmy Coppens, from YellowHammer Media Group, presents best practices for managing, monitoring, and deploying a multi-region application using Amazon VPC at the AWS Pop-up Loft - New York.",
+        "date": "2015-10-28T23:12:50Z",
+        "duration": 308
     },
     {
         "service": "vpc",
         "videoId": "nk_kUUQXuJA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Reducing Costs and Strengthening Your Security Posture with a Transit VPC",
-        "date": "2018/12/21"
+        "description": "Presenter: Dominic Caputo, Cloud Consulting Engineer APAC, Palo Alto Networks",
+        "date": "2018-12-21T20:38:04Z",
+        "duration": 1729
     },
     {
         "service": "vpc",
         "videoId": "HbIv2qZMefU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Managed AD",
+            "VPC"
+        ],
         "title": "AWS Managed Microsoft AD Cross-account/ Cross-VPC Overview",
-        "date": "2018/11/21"
+        "description": "AWS Managed Microsoft AD creates a fully managed, Microsoft Active Directory in the AWS Cloud and is powered by Windows Server 2012 R2 and operates at the 2012 R2 functional level.\n\nFor more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2t7AHBA.",
+        "date": "2018-11-21T20:43:22Z",
+        "duration": 185
     },
     {
         "service": "vpc",
         "videoId": "tH6jtC92yh0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws",
+            "amazon web services",
+            "aws cloud",
+            "awsome day",
+            "virtual awsome day",
+            "cloud training",
+            "aws training"
+        ],
         "title": "Virtual AWSome Day June 2018 - Module 1: AWS Cloud Concepts, VPC, and Security Groups",
-        "date": "2018/06/20"
+        "description": "- To get started on AWS, visit - https://amzn.to/2I7Etzm.\n- For more information on AWS training and certifications, visit - https://amzn.to/2tnfhQg.\n\nModule 1: AWS Cloud Concepts / Infrastructure, VPC, and Security Groups \n\nVirtual AWSome Day:\n- Step-by-step introduction to the core AWS services for compute, storage, database, and networking.\n- ideal for IT managers, system engineers, system administrators, and architects who are eager to learn more about cloud computing.\n\nWatch Module 2: https://youtu.be/JDM2XOrwEQU\nWatch Module 3: https://youtu.be/yWhqYi-In2s",
+        "date": "2018-06-20T16:52:39Z",
+        "duration": 3332
     },
     {
         "service": "vpc",
         "videoId": "MJ6auMlWGBc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "s3",
+            "diagnose connectivity issues"
+        ],
         "title": "How do I diagnose connectivity issues to an Amazon S3 bucket using a gateway VPC endpoint?",
-        "date": "2018/05/07"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/connect-s3-vpc-endpoint/\n\nShiva, an AWS Cloud Support Engineer, shows you how to diagnose connectivity issues to an Amazon Simple Storage Service (S3) bucket using a gateway VPC endpoint.",
+        "date": "2018-05-07T15:43:45Z",
+        "duration": 476
     },
     {
         "service": "vpc",
         "videoId": "Ws0hIKf81MQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Architecture",
+            "Introductory",
+            "AWS Direct Connect",
+            "Hybrid",
+            "Amazon VPC",
+            "Architect",
+            "Technical Decision Maker",
+            "Enterprise",
+            "Brett Hollman"
+        ],
         "title": "AWS re:Invent 2014 | (ARC205) Creating Your Virtual Data Center: VPC and Connectivity",
-        "date": "2014/11/14"
+        "description": "In this session, we will walk through the fundamentals of Amazon Virtual Private Cloud (VPC). First, we will cover build-out and design fundamentals for VPC, including picking your IP space, subnetting, routing, security, NAT, and much more. We will then transition into different approaches and use cases for optionally connecting your VPC to your physical data center with VPN or AWS Direct Connect.  This mid-level architecture discussion is aimed at architects, network administrators, and technology decision-makers interested in understanding the building blocks AWS makes available with VPC and how you can connect this with your offices and current data center footprint.",
+        "date": "2014-11-14T23:15:31Z",
+        "duration": 2718
     },
     {
         "service": "vpc",
         "videoId": "dTMlg5hY6Mk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos",
+            "splunk",
+            "amazon kinesis"
+        ],
         "title": "How do I push VPC flow logs to Splunk using Amazon Kinesis Firehose?",
-        "date": "2018/12/05"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2zGs6Jm\nUmesh, an AWS Cloud Infrastructure Architect, shows you how to push Amazon VPC flow logs to Splunk using Amazon Kinesis Data Firehose instead of using the pull method.",
+        "date": "2018-12-05T16:04:07Z",
+        "duration": 508
     },
     {
         "service": "vpc",
         "videoId": "KGKrVO9xlqI",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Networking",
+            "NET404",
+            "Connect",
+            "VPC",
+            "Security"
+        ],
         "title": "AWS re:Invent 2017: Networking Many VPCs: Transit and Shared Architectures (NET404)",
-        "date": "2017/12/01"
+        "description": "This session focuses on best practices for connectivity between many virtual private clouds (VPCs), including the Transit VPC. We review how the Transit VPC works and use cases for centralization, network security, and connectivity. We include best practices for multiple accounts, multiple regions, and designing for scale. In addition, we also review some of the variants and extensions to the Transit VPC, including how to customize your own.",
+        "date": "2017-12-02T05:04:32Z",
+        "duration": 4037
     },
     {
         "service": "vpc",
         "videoId": "nQuXJ6H7Kpw",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "GPSTechnical",
+            "GPSTEC322",
+            "AI",
+            "Connect",
+            "VPC",
+            "AWS Direct Connect",
+            "Networking",
+            "Security"
+        ],
         "title": "AWS re:Invent 2017: GPS: Creating Your Virtual Data Center: VPC Fundamentals, Connec (GPSTEC322)",
-        "date": "2017/11/29"
+        "description": "In this session, we walk through the fundamentals of Amazon VPC. First, we cover build-out and design fundamentals for VPC, including picking your IP space, subnetting, routing, security, NAT, and much more. We then transition into different approaches and use cases for optionally connecting your VPC to your physical data center with VPN or AWS Direct Connect. This midlevel architecture discussion is aimed at architects, network administrators, and technology decision-makers interested in understanding the building blocks that AWS makes available with VPC. Learn how you can connect your VPC with your offices and current data center footprint. This session adds a focus on AWS Partners and where they are relevant in AWS networking.",
+        "date": "2017-11-29T16:54:14Z",
+        "duration": 2786
     },
     {
         "service": "vpc",
         "videoId": "ar6sLmJ45xs",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Networking",
+            "NET402"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH] AWS Transit Gateway & Transit VPCs, Ref Arch for Many VPCs (NET402)",
-        "date": "2018/11/30"
+        "description": "AWS re:Invent 2018: [NEW LAUNCH!] AWS Transit Gateway and Transit VPCs - Reference Architectures for Many VPCs (NET402)\n\nIn this session, we will review the new AWS Transit Gateway and new networking features. We compare AWS Transit Gateway and Transit VPCs and discuss how to architect your accounts and VPCs. This session will be helpful if the developers have been let loose, and you are planning lots of VPCs or accounts. How should you connect them; what limits do you need to be aware of; and how does routing work with many VPCs? We dive into the details of recent launches and how to work with concepts like Transit VPCs, account strategies, scaling services, using firewalls, and direct connect gateways to solve problems of many VPCs.",
+        "date": "2018-11-30T16:28:09Z",
+        "duration": 3612
     },
     {
         "service": "vpc",
         "videoId": "MYvYyuWNHiU",
-        "title": "AWS KC Videos: How do I move my EC2 instance to another subnet, Availability Zone, VPC, or region?",
-        "date": "2018/07/18"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "ec2",
+            "move ec2"
+        ],
+        "title": "AWS KC Videos: How do I  move my EC2 instance to another subnet, Availability Zone, VPC, or region?",
+        "description": "Find more details in the AWS Knowledge Center:  https://aws.amazon.com/premiumsupport/knowledge-center/move-ec2-instance/\n\nWalter, an AWS Cloud Support Engineer, shows you how to move your EC2 instance to another subnet, Availability Zone, VPC, or region.",
+        "date": "2018-07-18T14:02:26Z",
+        "duration": 412
     },
     {
         "service": "vpc",
         "videoId": "UnoVqaTGwzM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I access an API Gateway private REST API in another account using an interface VPC endpoint?",
-        "date": "2020/06/09"
+        "description": "For more details see the Knowledge Center article with this video: (https://aws.amazon.com/premiumsupport/knowledge-center/api-gateway-private-cross-account-vpce/). \n\nRuiling shows you how to access an API Gateway private REST API in another account using an interface VPC endpoint.",
+        "date": "2020-07-09T22:22:03Z",
+        "duration": 405
     },
     {
         "service": "vpc",
         "videoId": "FRvzfjKmczQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "tagging",
+            "transit VPC",
+            "VPN",
+            "partner",
+            "security",
+            "Check Point",
+            "Cybersecurity",
+            "Amazon VPC",
+            "Amazon API Gateway",
+            "AWS Lambda",
+            "AZ",
+            "AWS Managed VPN",
+            "AWS CloudFormation",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Check Point CloudGuard: Secured Transit VPC Architecture that Scales and Automatically Connects",
-        "date": "2018/10/09"
+        "description": "Transit VPC architectures allow customers to direct all traffic through a central inspection point and run firewalls, threat prevention, access control and other security mechanisms with minimal impact on developers and users. Using Check Point’s CloudGuard solution it’s possible to create an automated transit VPC architecture with CloudFormation that deploys Check Point Security Gateways in a hub VPC connected to spoke VPCs deployed with either an AWS Managed VPN or Check Point Security Gateway. Check Point offers the automated solution for discovering newly tagged spoke VPCs and adding them to the VPN transit network based on the central Security Management Server (AWS deployment guide below) or by using AWS Lambda (currently in limited availability).\n\nHost: Benjamin Feldin, Sr. Manager, Solutions Architecture, AWS\nCustomer: Lior Cohen, Cloud Solutions Architect, Check Point\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2018-10-09T20:06:22Z",
+        "duration": 462
     },
     {
         "service": "vpc",
         "videoId": "0xDYDTss2jQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos",
+            "DNS Server",
+            "Ec2"
+        ],
         "title": "How do I assign a custom DNS server to an EC2 instance (VPC) which persists across reboots?",
-        "date": "2019/01/07"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2OLohHq\nPooja, an AWS Cloud Support Engineer, shows you how to assign a custom DNS server to an EC2 instance (VPC) which persists across reboots.",
+        "date": "2019-01-07T17:13:37Z",
+        "duration": 305
     },
     {
         "service": "vpc",
         "videoId": "rSvfq7E5uzQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Fintech Day 2019",
+            "Fintech Startup Talk",
+            "AWS Startups",
+            "Amazon VPC",
+            "Amazon S3",
+            "Amazon EC2"
+        ],
         "title": "Niyo Uses Amazon S3 and Amazon VPC to Make Banking Smarter, Simpler & Safer",
-        "date": "2019/06/12"
+        "description": "To learn more about how AWS supports Startups, please visit - https://amzn.to/2K8hObV.\nNiYO is a fintech company founded in 2015 that offers digital banking solutions.\n\nAWS Fintech Day 2019: Startup Talk by Vinay Bagri, CEO & Co-founder and Kugesh Veeraraghavan, VP of Engineering, Niyo Solutions",
+        "date": "2019-06-12T16:00:14Z",
+        "duration": 164
     },
     {
         "service": "vpc",
         "videoId": "utFb5mHiP94",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Architecture",
+            "ARC304-R",
+            "AI",
+            "Connect",
+            "Lex",
+            "VPC",
+            "AWS Direct Connect"
+        ],
         "title": "AWS re:Invent 2017: [REPEAT] From One to Many: Evolving VPC Design (ARC304-R)",
-        "date": "2017/11/30"
+        "description": "As more customers adopt Amazon VPC architectures, the features and flexibility of the service are squaring off against evolving design requirements. This session follows this evolution of a single regional VPC into a multi-VPC, multi-region design with diverse connectivity into on-premises systems and infrastructure. Along the way, we investigate creative customer solutions for scaling and securing outbound VPC traffic, securing private access to Amazon S3, managing multi-tenant VPCs, integrating existing customer networks through AWS Direct Connect, and building a full VPC mesh network across global regions.",
+        "date": "2017-11-30T18:20:11Z",
+        "duration": 4380
     },
     {
         "service": "vpc",
         "videoId": "8toveAOL5eA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws",
+            "awsnysummit2019",
+            "nysummit2019",
+            "Amazon EC2",
+            "Amazon DynamoDB",
+            "Amazon VPC",
+            "Amazon S3",
+            "SVC211",
+            "AWS VPN",
+            "AWS Direct Connect"
+        ],
         "title": "AWS New York Summit 2019: Exploring the Fundamentals of AWS Networking (SVC211)",
-        "date": "2019/07/22"
+        "description": "Learn more about AWS Global Summits  at – https://amzn.to/2Z8bHIq\nAlthough the basic concepts underpinning traditional networks and networks for the cloud are similar, there are many issues that are specific to each. In this session, we explore the fundamentals of networking in AWS. First we look at the basics of designing and building VPCs, including selecting your IP space, subnetting, routing, security, and more. We then discuss different approaches and scenarios for connecting your VPC to your data center with AWS VPN or AWS Direct Connect. This mid-level architecture discussion is for architects, network administrators, and technology decision-makers interested in understanding the building blocks that are available with Amazon VPC.",
+        "date": "2019-07-22T22:04:35Z",
+        "duration": 3501
     },
     {
         "service": "vpc",
         "videoId": "i6Zf9lwXRcY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon VPC",
+            "Amazon Virtual Private Cloud",
+            "Virtual Private Cloud",
+            "DirectConnect",
+            "Amazon Direct Connect",
+            "Summit Series 2015",
+            "AWS SUmmits 2015",
+            "AWS Summit Tel Aviv",
+            "Tel Aviv Summit 2015",
+            "AWS Israel"
+        ],
         "title": "AWS Summit Series 2015 | Tel Aviv: Amazon VPC and AWS Direct Connect",
-        "date": "2015/07/31"
+        "description": "Steve Seymour and Ronnen Slasky deliver a fascinating Deep-Dive session on Amazon Virtual Private Cloud (Amazon VPC) and New networking capabilities, including Direct Connect service. Learn more: https://aws.amazon.com/vpc/ \nhttps://aws.amazon.com/directconnect/",
+        "date": "2015-07-31T21:28:58Z",
+        "duration": 2573
     },
     {
         "service": "vpc",
         "videoId": "jxvVYRFJCuc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "compute-networking",
+            "startups",
+            "vpc",
+            "ec2",
+            "Lucidchart",
+            "Matthew-Barlocker",
+            "CPN301",
+            "cpn"
+        ],
         "title": "Amazon EC2 to Amazon VPC: A case study (CPN301) | AWS re:Invent 2013",
-        "date": "2013/11/28"
+        "description": "In this session, you learn about Amazon Virtual Private Cloud and why you should consider using it for your applications. You also hear from the makers of Lucidchart, an online diagramming tool, which was originally launched in 2008 on the Amazon EC2 Classic platform. As the user base grew, so did their need for a more robust, secure infrastructure. After much debate about other vendors and colocation, Lucidchart chose Amazon VPC. To find out why, check out this session for a comparison of Amazon  EC2 Classic against Amazon VPC. Matthew Barlocker, Chief Architect at Lucidchart, discusses their migration plan, pain points, and unexpected issues.",
+        "date": "2013-11-28T14:52:44Z",
+        "duration": 2601
     },
     {
         "service": "vpc",
         "videoId": "liHbeghc5EI",
+        "tags": [
+            "AWS",
+            "AWS Cloud",
+            "cloud",
+            "cloud computing",
+            "Amazon Web Services",
+            "AWS Summit Series 2017 - San Francisco",
+            "VPC Endpoints for Amazon DynamoDB"
+        ],
         "title": "AWS Summit Series 2017 - SF: Announcing VPC Endpoints for Amazon DynamoDB, Now in Public Preview",
-        "date": "2017/04/20"
+        "description": "You can now access Amazon DynamoDB from your Amazon Virtual Private Cloud (VPC) using VPC endpoints, enabling you to have all network traffic between your application and DynamoDB traverse the public Internet or stay within the AWS cloud.\n \nDynamoDB offers data protection and security using TLS endpoints for encryption-in-transit, a client-side encryption library, and fine-grained access control using AWS Identity and Access Management (IAM), providing control at the item and attribute level. VPC Endpoints for DynamoDB further improves privacy and security, especially for applications with strict compliance and audit requirements, or that handle sensitive data.\n \nLearn more at: http://amzn.to/2o96kKs.",
+        "date": "2017-04-20T20:20:02Z",
+        "duration": 48
     },
     {
         "service": "vpc",
         "videoId": "j4UpXDhqK6M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "How to visualize Amazon VPC Flow Logs in AWS GovCloud (US)",
-        "date": "2020/01/08"
+        "description": "Learn how to visualize VPC Flow Logs in AWS GovCloud (US). VPC Flow Logs is a feature that enables you to capture information about the IP traffic going to and from network interfaces in your Amazon VPC.\n \nSource code to enable this functionality is available on GitHub: https://github.com/aws-samples/aws-govcloud-continuous-monitoring/tree/master/vpc-flowlog-visualization\nLearn more about AWS GovCloud (US): https://aws.amazon.com/govcloud-us/",
+        "date": "2020-01-08T17:42:46Z",
+        "duration": 126
     },
     {
         "service": "vpc",
         "videoId": "kBCbz7L52-Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Security",
+            "Advanced",
+            "AWS Identity and Access Management (IAM)",
+            "Amazon VPC",
+            "iSEC Partners",
+            "Architect",
+            "Startup",
+            "Enterprise",
+            "Jason Bubolz"
+        ],
         "title": "AWS re:Invent 2014 | (SEC309) Amazon VPC Configuration: When Least Privilege Meets the Tester",
-        "date": "2014/11/17"
+        "description": "Enterprises trying to deploy infrastructure to the cloud and independent software companies trying to deliver a service have similar problems to solve. They need to know how to create an environment in AWS that enforces least-privilege access between components while also allowing administration and change management. Amazon Elastic Cloud Compute (EC2) and Identity and Access Management (IAM), coupled with services like AWS Security Token Service (STS), offer the necessary building blocks.  In this session, we walk through some of the mechanisms available to control access in an Amazon Virtual Private Cloud (VPC). Next, we focus on using IAM and STS to create a least-privilege access model. Finally, we discuss auditing strategies to catch common mistakes and discuss techniques to audit and maintain your infrastructure.",
+        "date": "2014-11-18T00:20:28Z",
+        "duration": 2412
     },
     {
         "service": "vpc",
         "videoId": "OPy3V2ujIDs",
+        "tags": [
+            "aws knowledge center videos",
+            "amazon vpc",
+            "vpn",
+            "direct connect",
+            "vpc peering",
+            "vpc endpoint",
+            "ec2 classiclink",
+            "internet gateway",
+            "NAT Gateway"
+        ],
         "title": "AWS Knowledge Center Videos: What are some options to connect to my Amazon VPC?",
-        "date": "2016/06/23"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/connect-vpc/\n\nBen, an AWS Cloud Support Engineer, shows several different ways to connect to your Amazon VPC.",
+        "date": "2016-06-23T15:38:32Z",
+        "duration": 340
     },
     {
         "service": "vpc",
         "videoId": "-CS5g8LSi2Y",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing"
+        ],
         "title": "APAC Webinar Series - A Walk through the AWS Cloud: Using Virtual Private Cloud (VPC)",
-        "date": "2013/03/27"
+        "description": "Amazon Virtual Private Cloud (VPC) lets you provision a private, isolated section of the Amazon Web Services (AWS) Cloud where you can launch AWS resources in a virtual network that you define. This service is utilized by many of our Enterprise clients. Learn about how to leverage VPC to create secure, isolated network topologies. Integrate these techniques into your production and development environments. VPC is also commonly used by organizations to extend their data center progressively into the AWS Cloud.",
+        "date": "2013-03-28T05:12:46Z",
+        "duration": 3451
     },
     {
         "service": "vpc",
         "videoId": "YnPAXVa6CEc",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Networking",
+            "NET204",
+            "AI",
+            "Connect",
+            "VPC"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! PrivateLink: Bringing SaaS Solutions into Your VPC a (NET204)",
-        "date": "2017/12/01"
+        "description": "Many customers are hesitant to adopt SaaS solutions due to the concerns on the safety of the network connectivity traversing internet. It is also difficult to manage the firewall rules, NAT Gateway or VPN connections. AWS PrivateLink provided solution that let our customers’ applications, whether in a VPC or in their own data center, to connect to SaaS solutions in a highly scalable and highly available manner, while keeping all the network traffic within the AWS network.",
+        "date": "2017-12-01T16:48:35Z",
+        "duration": 3050
     },
     {
         "service": "vpc",
         "videoId": "7acKgdDOOu4",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "NET305-R1",
+            "Networking & Content Delivery",
+            "AWS PrivateLink",
+            "Amazon VPC"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Advanced VPC design and new capabilities for Amazon VPC (NET305-R1)",
-        "date": "2019/12/06"
+        "description": "Amazon Virtual Private Cloud (Amazon VPC) enables you to have complete control over your AWS virtual networking environment. Given this control, have you ever wondered how new Amazon VPC features might affect the way you design your AWS networking infrastructure, or even change existing architectures that you use today? In this session, we explore the new design and capabilities of Amazon VPC and how you might use them.",
+        "date": "2019-12-07T05:54:59Z",
+        "duration": 3629
     },
     {
         "service": "vpc",
         "videoId": "S9NMA3ACZDM",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "NET322-R1",
+            "Networking & Content Delivery",
+            "Atlassian",
+            "Amazon VPC"
+        ],
         "title": "AWS re:Invent 2019: Shared VPC: Simplify your AWS Cloud scale network with VPC sharing (NET322-R1)",
-        "date": "2020/01/09"
+        "description": "Shared VPC launched in 2018 as a new approach to multi-account Amazon Virtual Private Cloud (Amazon VPC) management. Since adopting shared VPC in production, development teams are moving faster than ever before. In this session, hear about some best practices, and a guest speaker from Atlassian will explain how they reduced management efforts through a simplified shared VPC model.",
+        "date": "2020-01-10T00:48:26Z",
+        "duration": 3322
     },
     {
         "service": "vpc",
         "videoId": "gj4CD73Wmns",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "NET201-R2",
+            "Networking & Content Delivery",
+            "Amazon VPC"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 2] AWS networking fundamentals (NET201-R2)",
-        "date": "2019/12/08"
+        "description": "In this session, we walk through the fundamentals of Amazon VPC. First, we cover build-out and design fundamentals for VPCs, including picking your IP space, subnetting, routing, security, NAT, and much more. We then transition to different approaches and use cases for connecting your VPC to your physical data center with VPN or AWS Direct Connect. This mid-level architecture discussion is aimed at architects, network administrators, and technology decision-makers interested in understanding the building blocks that AWS makes available with Amazon VPC. Learn how you can connect VPCs with your offices and current data center footprint.",
+        "date": "2019-12-08T23:34:16Z",
+        "duration": 3632
     },
     {
         "service": "vpc",
         "videoId": "gj4CD73Wmns",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "NET201-R2",
+            "Networking & Content Delivery",
+            "Amazon VPC"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 2] AWS networking fundamentals (NET201-R2)",
-        "date": "2019/12/08"
+        "description": "In this session, we walk through the fundamentals of Amazon VPC. First, we cover build-out and design fundamentals for VPCs, including picking your IP space, subnetting, routing, security, NAT, and much more. We then transition to different approaches and use cases for connecting your VPC to your physical data center with VPN or AWS Direct Connect. This mid-level architecture discussion is aimed at architects, network administrators, and technology decision-makers interested in understanding the building blocks that AWS makes available with Amazon VPC. Learn how you can connect VPCs with your offices and current data center footprint.",
+        "date": "2019-12-08T23:34:16Z",
+        "duration": 3632
     },
     {
         "service": "vpc",
         "videoId": "qb-4PdLTsJs",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ARC334-R2",
+            "Architecture",
+            "AWS Direct Connect",
+            "Amazon VPC",
+            "AWS Transit Gateway"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 2] From one to many: Evolving VPC design (ARC334-R2)",
-        "date": "2019/12/10"
+        "description": "As more customers adopt Amazon VPC architectures, the features and flexibility of the service are encountering the obstacles of evolving design requirements. In this session, we follow the evolution of a single regional VPC to a multi-VPC, multi-region design with diverse connectivity into on-premises systems and infrastructure. Along the way, we investigate creative customer solutions for scaling and securing outbound VPC traffic, securing private access to Amazon Simple Storage Service (Amazon S3), managing multi-tenant VPCs, integrating existing customer networks through AWS Direct Connect, and building a full VPC mesh network across global regions.",
+        "date": "2019-12-10T18:48:28Z",
+        "duration": 4023
     },
     {
         "service": "vpc",
         "videoId": "OLS5uiXVImw",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DEM13-S"
+        ],
         "title": "AWS re:Invent 2019: Unlock the power of Amazon VPC traffic mirroring (DEM13-S)",
-        "date": "2019/12/03"
+        "description": "Amazon VPC traffic mirroring is here! What does this mean for you? In this session, learn how traffic mirroring enables you to access application-layer network data without deploying agents or sensors. This allows network detection and response (NDR) platforms like ExtraHop Reveal(x) Cloud to deploy instantly, passively analyze network traffic, and deliver immediate asset discovery, real-time threat detection, and machine learning-powered responses. Cloud-first NDR is the missing piece that allows SecOps to complete the SOC visibility triad. Come learn how combining NDR, SIEM, and EDR makes it possible for SecOps to achieve a holistic detection approach and eliminate the risks of misconfiguration, undetected attacks, lateral movement, and data exfiltration. This presentation is brought to you by ExtraHop Networks, an APN Partner.",
+        "date": "2019-12-03T18:01:53Z",
+        "duration": 1057
     },
     {
         "service": "vpc",
         "videoId": "X_4ekgRc4C8",
+        "tags": [
+            "AWS",
+            "AWS Summit Online",
+            "May 13",
+            "2020",
+            "United States",
+            "Level 400",
+            "Amazon",
+            "Virtual Private Cloud",
+            "Amazon VPC",
+            "AWS Direct Connect",
+            "AWS Transit Gateway",
+            "track: operate",
+            "track: compute & networking",
+            "AWS Events"
+        ],
         "title": "Advanced VPC Connectivity Patterns - Level 400 (United States)",
-        "date": "2020/07/24"
+        "description": "Amazon Virtual Private Cloud enables you to have complete control over your AWS virtual networking environment. It has evolved with enterprise-grade networking features. This session will look at design patterns for AWS Direct Connect, AWS Transit Gateway and AWS PrivateLink that will enable you to get the best from your network.\n\nLearn more about AWS at - https://amzn.to/3eDoUQw\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
+        "date": "2020-07-24T18:47:13Z",
+        "duration": 1765
     },
     {
         "service": "vpc",
         "videoId": "9Nikqn_02Oc",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "NET406-R1",
+            "Networking & Content Delivery",
+            "AWS Direct Connect",
+            "Amazon VPC"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] AWS Transit Gateway reference architectures for many VPCs (NET406-R1)",
-        "date": "2019/12/04"
+        "description": "In this advanced session, we review common architectural patterns for designing networks with many VPCs. Segmentation, security, scalability, cross-region connectivity, and flexibility become more important as you scale on AWS. We review designs that include AWS Transit Gateway, AWS Direct Connect, VPN, AWS PrivateLink, VPC peering, and more.",
+        "date": "2019-12-04T17:36:40Z",
+        "duration": 3980
     },
     {
         "service": "vpc",
         "videoId": "DcvTAYxtoRU",
+        "tags": [
+            "AWS",
+            "AWS Summit Online",
+            "May 13",
+            "2020",
+            "United States",
+            "level 200",
+            "Amazon",
+            "Virtual Private Cloud",
+            "Amazon VPC",
+            "AWS Direct Connect",
+            "compute & networking",
+            "AWS Events"
+        ],
         "title": "AWS Networking Fundamentals - Level 200 (United States)",
-        "date": "2020/07/24"
+        "description": "In this session, we walk through the fundamentals of Amazon Virtual Private Cloud (Amazon VPC). First, we cover build-out and design fundamentals for VPCs, including picking your IP space, subnetting, routing, security, NAT, and much more. We then transition to different approaches and use cases for connecting a VPC to a physical data center with a VPN or AWS Direct Connect. This mid-level architecture discussion is aimed at architects, network administrators, and technology decision-makers interested in understanding the building blocks that AWS makes available with Amazon VPC. Learn how you can connect VPCs with your offices and current data center footprint.\n\nLearn more about AWS at - https://amzn.to/32nkz1k\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
+        "date": "2020-07-24T18:57:22Z",
+        "duration": 1704
     },
     {
         "service": "vpc",
         "videoId": "PF7HaD567rM",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "SVS404-R1",
+            "Serverless",
+            "AWS Lambda",
+            "Amazon VPC"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Networking best practices for serverless applications (SVS404-R1)",
-        "date": "2019/12/06"
+        "description": "Serverless technologies such as AWS Lambda have removed the burden of server management, but what about networking? When should you put a Lambda in an Amazon VPC? How do you balance security vs. the flexibility offered by Lambda? What are the best practices for working with private endpoints, NATs, and peering? In this session, we go over the best practices of working with Lambda functions from a networking perspective. We talk about how networking impacts performance and cost and how to make sure that your network design allows for scale and meeting strict security concerns.",
+        "date": "2019-12-07T05:48:50Z",
+        "duration": 2070
     }
 ]

@@ -2,43 +2,155 @@
     {
         "service": "mobile_hub",
         "videoId": "6uMjZ1hYgQk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Dennis Hill",
+            "AWS Mobile Hub",
+            "mobile apps",
+            "AWS Mobile SDK",
+            "Mobile",
+            "iOS",
+            "Android",
+            "Mobile Web",
+            "Amazon API Gateway",
+            "AWS Lambda",
+            "Swift",
+            "Objective-C",
+            "MBAAS",
+            "Mobile Backend",
+            "Mobile Cloud",
+            "Push Notifications",
+            "Engagement",
+            "Mobile Analytics"
+        ],
         "title": "Introduction to AWS Mobile Hub",
-        "date": "2017/11/16"
+        "description": "Learn more about AWS Mobile Hub at - http://amzn.to/2mtNJZ9.\nAWS Mobile Hub guides you through feature selection and configuration, automatically provisions the AWS services required, and generates working code that helps you integrate the Mobile SDK with your app in minutes. The AWS Mobile SDK makes it easy for your app to directly access AWS services, including Amazon Lambda, S3, DynamoDB, Mobile Analytics, Machine Learning, Auto Scaling, and more. The Mobile SDK supports iOS, Android, Xamarin, React Native, and Unity apps.",
+        "date": "2017-11-16T17:43:31Z",
+        "duration": 320
     },
     {
         "service": "mobile_hub",
         "videoId": "MgpGROhgO8w",
+        "tags": [
+            "reinvent",
+            "2015 aws reinvent",
+            "Mobile App Development",
+            "iOS",
+            "Android",
+            "mobile SDKs",
+            "Amazon Web Services (Website)"
+        ],
         "title": "Introducing AWS Mobile Hub",
-        "date": "2015/10/09"
+        "description": "Learn more about AWS Mobile Hub: http://amzn.to/1L2invu\nAWS Mobile Hub is the the fastest way to build mobile apps on AWS. It lets you quickly add and configure features to your apps, including user authentication, data storage, backend logic, push notifications, content delivery, and analytics – all from a single, integrated console. AWS Mobile Hub then automatically provisions and configures the AWS services required to power these features and generates a quickstart app for iOS and Android.",
+        "date": "2015-10-10T00:08:40Z",
+        "duration": 110
     },
     {
         "service": "mobile_hub",
         "videoId": "vWiJ6hOrfFE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Mobile Hub",
+            "Dennis Hills",
+            "mobile apps",
+            "Mobile",
+            "iOS",
+            "Android",
+            "Mobile Web",
+            "Amazon API Gateway",
+            "AWS Lambda",
+            "Swift",
+            "Objective-C",
+            "MBAAS",
+            "Mobile Backend",
+            "Mobile Cloud",
+            "Push Notifications",
+            "Engagement",
+            "Mobile Analytics"
+        ],
         "title": "Exploring AWS Mobile Hub Features",
-        "date": "2017/11/16"
+        "description": "Learn more about AWS Mobile Hub at - http://amzn.to/2yJMVB0\nAWS Mobile Hub lets you easily add and configure features for your mobile apps, including user authentication, data storage, backend logic, push notifications, content delivery, and analytics. After you build your app, AWS Mobile Hub gives you easy access to testing on real devices, as well as analytics dashboards to track usage of your app – all from a single, integrated console.",
+        "date": "2017-11-16T17:44:13Z",
+        "duration": 499
     },
     {
         "service": "mobile_hub",
         "videoId": "MMz0XwRPY98",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Mobile Developer & IoT",
+            "MBL317",
+            "John Burry - Amazon Web Services",
+            "Andy Kelm - Amazon Web Services",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (MBL317) NEW! Introducing AWS Mobile Hub",
-        "date": "2015/10/09"
+        "description": "Mobile app development is complex and time-consuming. Learn how to rapidly deliver mobile apps with AWS Mobile Hub. We will demonstrate how AWS Mobile Hub abstracts the undifferentiated heavy lifting by providing a single, integrated experience for discovering, provisioning and configuring AWS cloud resources you need to build, test, and monitor usage of your mobile apps.",
+        "date": "2015-10-10T00:33:10Z",
+        "duration": 3398
     },
     {
         "service": "mobile_hub",
         "videoId": "aj0DXMOcYbk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS Summit Series 2015 | Barcelona: AWS Mobile Hub Overview",
-        "date": "2015/12/14"
+        "description": "Ver aquí todos los videos del evento: http://amzn.to/1OTZWdT\n\nPresentación del AWS Summit Barcelona 2015: AWS Mobile Hub Overview",
+        "date": "2015-12-14T17:40:55Z",
+        "duration": 3033
     },
     {
         "service": "mobile_hub",
         "videoId": "QG2Dl9Yscy4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AI",
+            "Artificial Intelligence",
+            "Mobile Hub",
+            "Mobile Beat Conference 2017",
+            "Amazon Lex"
+        ],
         "title": "Amazon AI and Mobile Hub Integration for Conversation Bot Interface",
-        "date": "2017/09/20"
+        "description": "Learn more at - http://amzn.to/2vPM9Bf.\nThis video is a keynote from the 2017 Mobile Beat conference that introduces Amazon AI services and the integration with AWS Mobile Hub that supports building conversational bot interfaces based on Amazon Lex with natural language understanding and automatic speech recognition directly into your mobile application.",
+        "date": "2017-09-20T16:32:52Z",
+        "duration": 1254
     },
     {
         "service": "mobile_hub",
         "videoId": "mjcmYA_PZCY",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Mobile",
+            "MBL202",
+            "AWS Mobile Hub"
+        ],
         "title": "AWS re:Invent 2017: DevOps for a Mobile World: Building an iOS or Android Mobile App (MBL202)",
-        "date": "2017/12/01"
+        "description": "Have you ever thought about building a mobile app, but you’re daunted by the technology? Join this session to learn the basics of building native cloud-enabled mobile apps with AWS Mobile Hub. Learn about the tools you need, and then follow along to learn how to build your first mobile app. Understand what AWS offers for mobile app developers, and learn how to build a native app and distribute it through AWS Mobile Hub.",
+        "date": "2017-12-01T16:42:51Z",
+        "duration": 1732
     }
 ]

@@ -2,19 +2,73 @@
     {
         "service": "cloudendure_migration",
         "videoId": "-rv78DsrpNY",
-        "title": "Example title1",
-        "date": "2020/06/19"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS DeepRacer",
+            "Daniel Ricciardo",
+            "Tatiana Calderón",
+            "Rob Smedley",
+            "Machine Learning",
+            "Reinforcement Learning",
+            "Autonomous Racing",
+            "AIML",
+            "DeepRacer",
+            "AWS DeepRacer F1"
+        ],
+        "title": "Daniel Ricciardo Outtakes – AWS DeepRacer League F1 ProAm",
+        "description": "The race continues at https://amzn.to/2NIybvl\nWhen it comes to racing, @Daniel Ricciardo gets serious. Otherwise, he’s just about the most cheerful guy there is. And we have proof.\n\n✅ Watch AWS DeepRacer TV: https://amzn.to/3aDwjhs\n✅ Subscribe to AWS Channel: http://bit.ly/2O3zS75\n✅ Start racing now: https://go.aws/2yvDBWu\n✅ DeepRacer Instagram: https://amzn.to/2w7V3iH\n✅ AWS Twitter: http://amzn.to/2sK4jr0\n✅ AWS LinkedIn: https://amzn.to/2R3d0WW\n✅ AWS Instagram: https://amzn.to/344osqN\n✅ AWS Facebook: https://amzn.to/2wd52DC\n \n#AWSDeepRacer #DanielRicciardo #TatianaCalderón #RobSmedley #MachineLearning #ReinforcementLearning #AutonomousRacing #AIML #DeepRacer #AWSDeepRacerF1 #GrandPrix #F1 #Formula1 #TataCalde #RIC3",
+        "date": "2020-07-02T19:21:43Z",
+        "duration": 46
     },
     {
         "service": "cloudendure_migration",
         "videoId": "8RNRssCiR_E",
-        "title": "Example title2",
-        "date": "2020/06/17"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing"
+        ],
+        "title": "AWS Snowcone Launch - A Small, Rugged, and Secure Edge Computing and Data Transfer Device (:30)",
+        "description": "AWS Snowcone is the smallest member of the AWS Snow Family of edge computing and data transfer devices. Snowcone is portable, rugged, and secure – small and light enough to fit in a backpack, and able to withstand harsh environments. \n\nCustomers use Snowcone to deploy applications at the edge, and to collect data, process it locally, and move it to AWS either offline (by shipping the device to AWS) or online (by using AWS DataSync on Snowcone to send the data to AWS over the network).\n\nLearn more about AWS Snowcone at https://go.aws/3d16fx6\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSSnowcone",
+        "date": "2020-06-17T16:40:30Z",
+        "duration": 30
     },
     {
         "service": "cloudendure_migration",
         "videoId": "k8O9KJKSswM",
-        "title": "Example title3",
-        "date": "2020/06/18"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "wener vogels",
+            "now go build",
+            "Porto",
+            "Portugal",
+            "Veniam",
+            "Ceiia",
+            "smart city",
+            "tech city",
+            "future city",
+            "cloud technology",
+            "aws now go build",
+            "digital revolution",
+            "tech for good",
+            "ML for good",
+            "ML city",
+            "ai city",
+            "dr wener vogels"
+        ],
+        "title": "Now Go Build with Werner Vogels – S1E7 Porto",
+        "description": "View the full Now Go Build Playlist: https://bit.ly/2YRaS8A\nFollow Dr. Werner Vogels, Amazon CTO, to the city of Porto, Portugal as he meets with the founders of Veniam and CEiiA and to explore how an ancient city is transforming itself into a smart city to meet the needs of a growing population within the confines of a city that dates back to 300 BC.\n\n✅  Prefer to watch on Amazon Prime Video? Check it out here: https://amzn.to/2IJeUHV\n✅  Subscribe to AWS YouTube: http://bit.ly/2O3zS75 \n\n#NowGoBuild #WernerVogels #Porto #Portugal #CEiiA #Veniam #AWS #AmazonWebServices #Cloud #CloudComputing #AWScloud #SmartCity #TechCity #AWSNowGoBuild #MLforGood",
+        "date": "2019-12-04T18:33:02Z",
+        "duration": 930
     }
 ]

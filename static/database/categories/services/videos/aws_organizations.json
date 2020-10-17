@@ -2,67 +2,236 @@
     {
         "service": "aws_organizations",
         "videoId": "fxo67UeeN1A",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Inforce",
+            "AWS re:Inforce 2019",
+            "security",
+            "identity",
+            "compliance",
+            "cloud security",
+            "AWS security",
+            "cloud security community",
+            "learning conference",
+            "Detective Controls",
+            "Infrastructure Security",
+            "Data Protection",
+            "Incident Response",
+            "Governance",
+            "Risk",
+            "Compliance",
+            "security best practices",
+            "The Foundation",
+            "AWS re:Inforce 2019 Sessions",
+            "Session",
+            "FND314",
+            "Raymond Ma",
+            "300 - Advanced"
+        ],
         "title": "AWS re:Inforce 2019: Managing Multi-Account AWS Environments Using AWS Organizations (FND314)",
-        "date": "2019/06/26"
+        "description": "As you continue to grow your footprint on AWS, centralized tools and features are required to help govern multiple AWS accounts for account management, security and access control, and resource sharing. This session discusses how you can use AWS Organizations to manage and govern multi-account environments on AWS with security and compliance in mind. This session covers AWS Organizations, IAM, AWS Config, AWS Firewall Manager, CloudTrail, CloudWatch Events, Directory Service, License Manager, Resource Access Manager, and Single Sign-On.\n\nComplete Title: AWS re:Inforce 2019: Managing and Governing Multi-Account AWS Environments Using AWS Organizations (FND314)",
+        "date": "2019-06-26T17:29:52Z",
+        "duration": 2811
     },
     {
         "service": "aws_organizations",
         "videoId": "T4NK8fv8YdI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Organizations"
+        ],
         "title": "Introducing AWS Organizations",
-        "date": "2017/06/16"
+        "description": "AWS Organizations offers policy-based management for multiple AWS Accounts. Learn how Organizations helps you more easily manage policies for groups of accounts and automate account creation. Learn more at http://amzn.to/2rT6xlv.",
+        "date": "2017-06-16T15:57:33Z",
+        "duration": 117
     },
     {
         "service": "aws_organizations",
         "videoId": "mScBPL8VV48",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "aws organizations"
+        ],
         "title": "AWS Knowledge Center Videos: How do I get started with AWS Organizations?",
-        "date": "2017/12/04"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/get-started-organizations/\n\nDaniel, an AWS Support team member, shows you how to get started with AWS Organizations.",
+        "date": "2017-12-04T15:15:17Z",
+        "duration": 239
     },
     {
         "service": "aws_organizations",
         "videoId": "MuB_OeLs98Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Public Sector Summit 2017",
+            "Canberra",
+            "AWS Public Sector Summit 2017 Canberra"
+        ],
         "title": "Wrangling Multiple AWS Accounts with AWS Organizations - Part 1: Blake Chism",
-        "date": "2017/09/11"
+        "description": "Learn more about AWS at - http://amzn.to/2gbf5RH.\nPart 1: In this session we'll look at aspects affecting your account management before and after AWS Organizations, how AWS Organizations can programmatically create and manage your AWS accounts and apply organisational controls with familiar policies across these accounts to meet your business needs. We'll also cover best practices and troubleshooting tips to get you started.",
+        "date": "2017-09-11T16:59:42Z",
+        "duration": 1511
     },
     {
         "service": "aws_organizations",
         "videoId": "8VKMrkKXu2w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Organizations",
+            "AWS accounts"
+        ],
         "title": "Introducing AWS Organizations",
-        "date": "2016/11/29"
+        "description": "Learn more about AWS Organizations at: http://amzn.to/2gANbsS\nAWS Organizations enables IT teams to centrally manage security and automation settings for multiple AWS accounts.",
+        "date": "2016-11-29T23:30:11Z",
+        "duration": 76
     },
     {
         "service": "aws_organizations",
         "videoId": "W30sx0hpY0Y",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Inforce",
+            "AWS re:Inforce 2019",
+            "security",
+            "identity",
+            "compliance",
+            "cloud security",
+            "AWS security",
+            "cloud security community",
+            "learning conference",
+            "Detective Controls",
+            "Infrastructure Security",
+            "Data Protection",
+            "Incident Response",
+            "Governance",
+            "Risk",
+            "Compliance",
+            "security best practices",
+            "Security Deep Dive",
+            "AWS re:Inforce 2019 Sessions",
+            "Session",
+            "SDD314",
+            "Becky Weiss",
+            "300 - Advanced"
+        ],
         "title": "AWS re:Inforce 2019: Enforcing Security Invariants with AWS Organizations (SDD314)",
-        "date": "2019/06/26"
+        "description": "The builder in you wants to move fast in the cloud, taking advantage of the agility, flexibility, and scale that it offers. The security professional in you needs to ensure that—no matter what your team is doing in the cloud—certain security and compliance invariants are guaranteed to hold. This session is for the security builders among you. We show you how to take advantage of the security perimeters offered by AWS Organizations to simply, securely, and definitively assert your security rules at the perimeter.",
+        "date": "2019-06-26T20:16:06Z",
+        "duration": 2437
     },
     {
         "service": "aws_organizations",
         "videoId": "aEOEwoDSYlA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Public Sector Summit 2017",
+            "Canberra",
+            "AWS Public Sector Summit 2017 Canberra"
+        ],
         "title": "Wrangling Multiple AWS Accounts with AWS Organizations - Part 2: James Kingsmill",
-        "date": "2017/09/11"
+        "description": "Learn more about AWS at - http://amzn.to/2kCaZ6c.\nPart 2: practical advice and how to's around creating AWS accounts from a customer's experience.",
+        "date": "2017-09-11T17:00:49Z",
+        "duration": 346
     },
     {
         "service": "aws_organizations",
         "videoId": "ZKpkF17d0Oo",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Security",
+            "Compliance",
+            "& Identity",
+            "SID321",
+            "AWS Organizations"
+        ],
         "title": "AWS re:Invent 2017: How Capital One Applies AWS Organizations Best Practices to Mana (SID321)",
-        "date": "2017/12/01"
+        "description": "In this session, we review best practices for managing multiple AWS accounts using AWS Organizations. We cover how to think about the master account and your account strategy, as well as how to roll out changes. You learn how Capital One applies these best practices to manage its AWS accounts, which number over 160, and PCI workloads.",
+        "date": "2017-12-01T16:59:16Z",
+        "duration": 3221
     },
     {
         "service": "aws_organizations",
         "videoId": "KL9SICG52zY",
-        "title": "AWS Resource Access Manage",
-        "date": "2020/06/19"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Organizations",
+            "AWS RAM",
+            "AWS IAM"
+        ],
+        "title": "AWS Resource Access Manager",
+        "description": "This short demo shows how you can use AWS Resource Access Manager (RAM) to share your resources with any AWS account or through AWS Organizations. If you have many AWS accounts, you can create a resource centrally and share it with multiple accounts.\n\nLearn more about AWS RAM at - https://go.aws/2NajTU4\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-06-19T21:45:36Z",
+        "duration": 272
     },
     {
         "service": "aws_organizations",
         "videoId": "lMUvzJlkoKs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "member accounts",
+            "aws organizations"
+        ],
         "title": "AWS Knowledge Center Videos: How do I access member accounts created using AWS Organizations?",
-        "date": "2017/08/29"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/organizations-member-account-access/\n\nAshwin, an AWS Support Team Member, shows you how to access member accounts using AWS Organizations.",
+        "date": "2017-08-29T15:02:24Z",
+        "duration": 340
     },
     {
         "service": "aws_organizations",
         "videoId": "Oeb7PDyiT2A",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reinvent 2016",
+            "SAC323",
+            "Security & Compliance",
+            "Anders Samuelsson",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2016: NEW SERVICE: Manage Multiple AWS Accounts with AWS Organizations (SAC323)",
-        "date": "2017/05/24"
+        "description": "AWS Organizations is a new administrative capability, which allows you to control multiple AWS accounts centrally. With Organizations, you can hierarchically organize and manage your AWS accounts and apply organizational controls across these accounts to meet your business needs. In this session, we cover the capabilities of AWS Organizations and discuss best practices when managing multiple AWS accounts.",
+        "date": "2017-05-24T20:05:01Z",
+        "duration": 2505
     }
 ]

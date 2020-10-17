@@ -2,31 +2,106 @@
     {
         "service": "swf",
         "videoId": "y7Mff1ceypo",
+        "tags": [
+            "Amazon Web Services",
+            "AWS",
+            "AWS Report",
+            "Cloud Computing",
+            "web services",
+            "Jeff Barr",
+            "Balan Subramanian",
+            "workflow",
+            "simple workflow",
+            "amazon simple workflow service"
+        ],
         "title": "Amazon Simple Workflow",
-        "date": "2020/10/09"
+        "description": "Balan Subramanian explains how Amazon Simple Workflow (SWF) works and how the product helps to track and maximize your applications on AWS. You can get it started with SWF now.",
+        "date": "2012-10-09T15:59:46Z",
+        "duration": 185
     },
     {
         "service": "swf",
         "videoId": "rKeS3RpMEOw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Infor",
+            "AWS Lambda",
+            "Amazon SWF",
+            "Amazon Simple Workflow Service (SWF)",
+            "Amazon DynamoDB",
+            "Amazon CloudWatch",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Infor: Serverless Application Testing with AWS Lambda, Amazon SWF and Amazon DynamoDB",
-        "date": "2017/04/25"
+        "description": "David Lowry, Sr. Cloud Manager at @Infor, explains how they built Windsor, a serverless application testing solution. Infor uses Windsor to setup, tear down, and run test cases on over 50 multi-tenant enterprise applications that are deployed on #AWS. It is built with a combination of Amazon SWF, AWS Lambda, Amazon DynamoDB, and Amazon CloudWatch Events. This serverless approach to application testing costs Infor about $1 a month, or less than a cup of coffee!\n\nLearn more about This Is My Architecture at - http://amzn.to/2oHtp2d\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2017-04-25T20:30:11Z",
+        "duration": 240
     },
     {
         "service": "swf",
         "videoId": "lBUQiek8Jqk",
+        "tags": [
+            "swf",
+            "aws",
+            "amazon swf",
+            "workflow",
+            "asynchronous",
+            "event driven",
+            "distributed computing",
+            "cloud applications",
+            "simple workflow",
+            "simple workflow service",
+            "business process"
+        ],
         "title": "Webinar: Introduction to Amazon SWF",
-        "date": "2012/03/19"
+        "description": "See how Amazon Simple Workflow Service helps you build scalable, resilient applications and durable business process implementations. In this webinar we walk through how Amazon SWF works, the different distributed computing problems it solves and various use cases addressed by Amazon SWF. This recording of the live webinar also includes various questions from attendees, answered by the Amazon SWF team.\r\n\r\nRecorded on March 13, 2012 \r\n\r\nFor more details about Amazon SWF please visit http://aws.amazon.com/swf",
+        "date": "2012-03-20T00:56:00Z",
+        "duration": 3471
     },
     {
         "service": "swf",
         "videoId": "Z_dvXy4AVEE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Amazon Web Service",
+            "Amazon Simple Workflow",
+            "Ruby"
+        ],
         "title": "Getting Started with AWS Flow Framework for Ruby for Amazon SWF",
-        "date": "2013/08/01"
+        "description": "A brief introduction to Amazon Simple Workflow (Amazon SWF) with step-by-step instructions on how to run the hello-world application using the AWS Flow Framework for Ruby. The example interacts directly with the Amazon SWF. Please note that as of March 2018, the AWS Flow Framework for Ruby is no longer under active development. While existing code will continue to work indefinitely, there will be no new features or versions. To learn more, please visit: aws.amazon.com/swf/flow/.",
+        "date": "2013-08-02T03:30:09Z",
+        "duration": 707
     },
     {
         "service": "swf",
         "videoId": "sXGlQruUrWE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013getting-started",
+            "web-apps",
+            "startups",
+            "sqf",
+            "crm",
+            "ec2",
+            "Jeff-Winner",
+            "svc"
+        ],
         "title": "7 Use Cases in 7 Minutes Each : The Power of Workflows and Automation (SVC101) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "The Amazon Simple Workflow (Amazon SWF) service is a building block for highly scalable applications. Where Amazon EC2 helps developers scale compute and Amazon S3 helps developers scale storage, Amazon SWF helps developers scale their business logic. Customers use Amazon SWF to coordinate, operate, and audit work across multiple machines—across the cloud or their own data centers. In this power-packed session, we demonstrate the power of workflows through 7 customer stories and 7 use cases, in 7 minutes each. We show how you can use Amazon SWF for curating social media streams, processing user-generated video, managing CRM workflows, and more. We show how customers are using Amazon SWF to automate virtually any script, library, job, or workflow and scale their application pipeline cost-effectively.",
+        "date": "2013-11-26T19:24:48Z",
+        "duration": 2884
     }
 ]

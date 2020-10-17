@@ -2,43 +2,121 @@
     {
         "service": "fsx",
         "videoId": "hAftP5QqppQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Storage",
+            "STG322-R1"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Deep Dive on Amazon FSx for Windows File Server (STG322-R1)",
-        "date": "2018/12/03"
+        "description": "In this session, we explore the new fully managed service that makes it easy to launch and use shared file storage for Windows applications. FSx for Windows provides fully managed file storage built on Microsoft Windows Server, providing native support for Windows file system features and for the Server Message Block (SMB) protocol. Learn about Amazon FSx for Windows File Server features and benefits, and details about its performance and security models. The target audience is storage administrators, application developers, and applications owners and infrastructure operations personnel who build or operate file-based Windows applications or NAS.",
+        "date": "2018-12-03T20:24:49Z",
+        "duration": 3610
     },
     {
         "service": "fsx",
         "videoId": "FSO9r0UbH2E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Storage",
+            "STG317"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Amazon FSx for Lustre: A new fully managed file system (STG317)",
-        "date": "2018/12/01"
+        "description": "An introduction of Amazon FSx for Lustre, a new service that provides a fully managed parallel file system that enables compute-intensive applications to process large data sets at up to hundreds of gigabytes per second of throughput, millions of IOPS, and consistent low latencies. Learn how Amazon FSx is seamlessly integrated with Amazon S3, making your in-cloud data sets available to your compute-intensive applications. In this introductory session, we will provide a deep dive on this new service, discuss performance capabilities, AWS integrations, and highlight use cases for this high-performance file storage offering.",
+        "date": "2018-12-01T22:22:21Z",
+        "duration": 3675
     },
     {
         "service": "fsx",
         "videoId": "mMDrUuZFm8M",
+        "tags": [
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Storage",
+            "STG318"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Scale out file system performance using Amazon FSx (STG318)",
-        "date": "2018/12/13"
+        "description": "Increase application performance of your IO intensive workloads by ‘sharding’ data across multiple FSx for Windows file systems. This allows applications to read and write data in parallel from 10’s, 100’s, or 1000’s of Amazon EC2 instances and achieve greater performance then what’s available from a single file system.  Scale out your compute and scale out or file storage to achieve AWSome performance.",
+        "date": "2018-12-13T16:33:02Z",
+        "duration": 1000
     },
     {
         "service": "fsx",
         "videoId": "s482kj_xMeE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "FSX",
+            "Shadow Copies",
+            "File Server",
+            "Windows"
+        ],
         "title": "Using DFS Namespaces with Amazon FSx for Windows File Server",
-        "date": "2020/03/12"
+        "description": "In this video, you’ll learn how to integrate Amazon FSx for Windows File Server with Microsoft’s Distributed File System (DFS). We’ll walkthrough how to integrate the Amazon FSx file system into a DFS namespace which can simplify user access, scale performance, and help organize large amounts of data.\n\nLearn more about Amazon FSx for Windows File Server at https://go.aws/2vdKfiJ\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #AmazonFSx",
+        "date": "2020-03-12T16:28:12Z",
+        "duration": 891
     },
     {
         "service": "fsx",
         "videoId": "_x_Geur93oc",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "STG306-R1",
+            "Storage",
+            "Not Applicable"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Deep dive on Amazon FSx for Windows File Server (STG306-R1)",
-        "date": "2019/12/10"
+        "description": "Amazon FSx for Windows File Server is a service that offers fully managed native Microsoft Windows file systems on AWS. It provides the compatibility and features that your Windows-based applications rely on, including full support for the SMB protocol, Windows NTFS, and Active Directory integration, and the fast performance your Windows applications and users expect, with high levels of throughput and IOPS, and consistent sub-millisecond latencies. In this session, storage administrators and application owners learn how to deploy, scale, and use highly available, highly durable, and elastic Windows file storage integrated with their organization’s existing Active Directory environments.",
+        "date": "2019-12-10T18:45:56Z",
+        "duration": 3850
     },
     {
         "service": "fsx",
         "videoId": "ZADHiZa3Hjo",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "STG307-R1",
+            "Storage",
+            "Amazon S3"
+        ],
         "title": "AWS re:Invent 2019: Amazon S3 & FSx for Lustre: Dive on high-performance file storage (STG307-R1)",
-        "date": "2019/12/06"
+        "description": "A technical deep dive into the Amazon FSx for Lustre service that provides customers a fully managed high-performance file system optimized for workloads such as machine learning, high performance computing (HPC), video processing, financial modeling, and electronic design automation (EDA). In this session, data scientists, researchers, and system administrators learn how to launch a file system that allows applications to access data at hundreds of gigabytes per second with sub-millisecond latencies, allowing them to rapidly process large data stored on long-term data stores like Amazon S3 or on-premises filers.",
+        "date": "2019-12-07T05:52:53Z",
+        "duration": 3664
     },
     {
         "service": "fsx",
         "videoId": "ttCAqwnN_Qo",
+        "tags": [
+            "AWS",
+            "Events",
+            "Amazon FSx",
+            "FSx for Lustre"
+        ],
         "title": "Amazon FSx for Lustre: Persistent Storage Overview",
-        "date": "2020/04/23"
+        "description": "Amazon FSx for Lustre is a fully managed high-performance file system integrated with S3 and makes it easy and cost-effective to run the world's most popular file system. In this video, we will cover persistent performance options with FSx for Lustre and walk-through a common HPC use case example. \n\nLearn more about Amazon FSx for Lustre at https://go.aws/2S509nQ\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-04-23T18:10:57Z",
+        "duration": 530
     }
 ]

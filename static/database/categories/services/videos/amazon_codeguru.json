@@ -2,55 +2,171 @@
     {
         "service": "amazon_codeguru",
         "videoId": "ZFoGBUGRqUY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "ai",
+            "ml",
+            "machine learning",
+            "developer",
+            "tools",
+            "devtools",
+            "programming",
+            "aws",
+            "coding",
+            "Jeff Barr"
+        ],
         "title": "Jeff Barr Announces Amazon CodeGuru General Availability - Find Your Most Expensive Lines of Code",
-        "date": "2020/06/29"
+        "description": "Amazon CodeGuru is a developer tool powered by machine learning that provides intelligent recommendations for improving code quality and identifying an application’s most expensive lines of code. Now generally available and free for the first 90 days!\n\n0:32 Challenges in the application life cycle\n1:18 Life cycle impacts on code review\n1:29 Why we're launching Amazon CodeGuru\n1:44 Trained on Amazon's code bases\n2:06 Amazon CodeGuru Reviewer\n2:16 Amazon CodeGuru Profiler\n2:34 Estimate your costs with Amazon CodeGuru\n2:46 CodeGuru Reviewer console\n3:29 Codeguru Profiler in console\n4:00 Customers already using CodeGuru\n5:20 Useful for AWS APIs\n5:40 Free for 90-days\n\nLearn more about Amazon CodeGuru at https://amzn.to/31rBkrz\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonCodeGuru",
+        "date": "2020-06-29T21:42:23Z",
+        "duration": 372
     },
     {
         "service": "amazon_codeguru",
         "videoId": "NT9QChUWHVw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing"
+        ],
         "title": "AWS What’s Next ft. Amazon CodeGuru Reviewer",
-        "date": "2020/08/07"
+        "description": "Nikunj Vaidya – Senior Solutions Architect, DevOps – Profiler demonstrates how Amazon CodeGuru is a developer tool powered by machine learning that provides intelligent recommendations for improving code quality and identifying an application’s most expensive lines of code. Get more information at - https://amzn.to/323fKds.\n\nWant to tune in live for the next episode? You can find dates and more information about our upcoming streams at - https://amzn.to/32CNWwI\n\nWatch past AWS What’s Next episodes at http://bit.ly/2O3zS75 \n\nCheck out our AWS What’s Next podcast on iTunes and Spotify\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-08-07T18:24:45Z",
+        "duration": 2813
     },
     {
         "service": "amazon_codeguru",
         "videoId": "cI607fYFVto",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "ai",
+            "ml",
+            "machinelearning",
+            "devtools",
+            "programming",
+            "aws",
+            "coding"
+        ],
         "title": "AWS What's Next ft Amazon CodeGuru Profiler",
-        "date": "2020/08/07"
+        "description": "Daniela Tzvetkova, Senior Product Manager demonstrates how Amazon CodeGuru is a developer tool powered by machine learning that provides intelligent recommendations for improving code quality and identifying an application’s most expensive lines of code. Get more information at https://amzn.to/323fKds.\n\nWant to tune in live for the next episode? You can find dates and more information about our upcoming streams at - https://amzn.to/39dt28B\n\nWatch past AWS What’s Next episodes at http://bit.ly/2O3zS75 \n\nCheck out our AWS What’s Next podcast on iTunes and Spotify\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-08-07T18:24:45Z",
+        "duration": 2859
     },
     {
         "service": "amazon_codeguru",
         "videoId": "PVarNpPjvBM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Events",
+            "machine learning",
+            "Twitch",
+            "learn machine learning",
+            "demo",
+            "video",
+            "artificial intelligence",
+            "developers",
+            "learn ML",
+            "learn AI",
+            "Amazon CodeGuru"
+        ],
         "title": "Get Started with Machine Learning | AWS Power Hour: Machine Learning | Episode 4: Amazon CodeGuru",
-        "date": "2020/08/28"
+        "description": "Learn about Amazon CodeGuru, a developer tool powered by ML that provides intelligent recommendations for improving code quality and identifying an application’s most expensive lines of code.  See a quick overview of the service and then deep dive into some of the most important features to help you get started. \n\nAWS Power Hour: Machine Learning is a weekly live-streamed program that premiered Thursday, July 23, at 4 p.m. PST and aired at that time every Thursday for seven weeks. Each show features the AWS hosts and a special guest as they demonstrate how to build apps with AI Services from AWS.\n\nLearn more about AWS Machine Learning at - https://bit.ly/34JWvqu\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-08-29T01:40:30Z",
+        "duration": 3928
     },
     {
         "service": "amazon_codeguru",
         "videoId": "WYuo0bIZre0",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DOP211",
+            "DevOps"
+        ],
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Introduction to Amazon CodeGuru (DOP211)",
-        "date": "2019/12/10"
+        "description": "Even for the most seasoned engineers, it can be difficult to detect some types of code issues and challenging to identify the most expensive lines of code without performance engineering expertise. Amazon CodeGuru is a new machine learning service that helps you catch code issues faster and improve application performance. In this session, you get the details and a demo on how CodeGuru works. CodeGuru reviews Java code in your GitHub and AWS CodeCommit source code repositories, and it profiles your applications and searches for optimizations even in production. It also provides intelligent recommendations so that you can take action immediately to fix and improve code issues and inefficiencies.",
+        "date": "2019-12-10T18:13:52Z",
+        "duration": 3631
     },
     {
         "service": "amazon_codeguru",
         "videoId": "EoNJ_u0In04",
+        "tags": [
+            "AWS",
+            "Events",
+            "Amazon AI Conclave 2019",
+            "AI Talks",
+            "AI Thought Leadership",
+            "Artificial Intelligence Videos",
+            "Machine Learning",
+            "AIML"
+        ],
         "title": "Amazon AI Conclave 2019 - Amazon CodeGuru for Auto Code Reviews and App Performance Recommendations",
-        "date": "2020/03/02"
+        "description": "Speaker - Srinivasan Sengamedu SHS, Senior ML Manager, AWS\n\nAmazon AI Conclave 2019 is the leading Artificial Intelligence and Machine learning conference held on Dec 19 -20, 2019 in Bangalore. It hosted over 1200 delegates comprising business and technology leaders from startups and enterprises, data scientists, ML developers, data engineers and architects. Sessions at the event covered some of the Amazon’s broadest and deepest set of machine learning and AI services. Learn more about Amazon AI Conclave at https://aws.amazon.com/events/ai_conclave/\n\nLearn more about AWS Machine Learning at - https://go.aws/32KlGGq\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #MachineLearning",
+        "date": "2020-03-02T23:35:01Z",
+        "duration": 3350
     },
     {
         "service": "amazon_codeguru",
         "videoId": "1pU4VddsBRw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "codeguru",
+            "profiler"
+        ],
         "title": "Improve Code Efficiency Using Amazon CodeGuru Profiler",
-        "date": "2020/10/01"
+        "description": "In this video, you’ll see how to improve code efficiency using Amazon CodeGuru Profiler. With this service, you can analyze your application performance, visualize profiling data, and receive automated recommendations for resolving inefficiencies. Amazon CodeGuru Profiler is a service that uses machine learning to collect runtime performance data from your live applications and then show you the methods that take the most time and CPU capacity to execute.\n\nLearn more about Amazon CodeGuru Profiler at - https://amzn.to/30fSQgV\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-10-01T22:29:25Z",
+        "duration": 580
     },
     {
         "service": "amazon_codeguru",
         "videoId": "m2w5UdBqZ7E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "codeguru",
+            "reviewer"
+        ],
         "title": "Improve the Quality of Your Java Code Using Amazon CodeGuru Reviewer",
-        "date": "2020/10/01"
+        "description": "In this video, you’ll see how to improve the quality of your Java code using Amazon CodeGuru Reviewer. With this service, you can detect potential defects, receive recommendations for code fixes, and provide feedback to increase the effectiveness of future code analyses. Amazon CodeGuru Reviewer is a service that uses program analysis and machine learning to detect potential defects in Java code that are difficult for developers to find and provides recommendations for fixing those defects.\n\nLearn more about Amazon CodeGuru at - https://amzn.to/36gFghq\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-10-01T22:31:12Z",
+        "duration": 350
     },
     {
         "service": "amazon_codeguru",
         "videoId": "X2MuaBylL2o",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing"
+        ],
         "title": "Connect to GitHub Enterprise Server to Associate a Repository with CodeGuru",
-        "date": "2020/10/01"
+        "description": "This short video (7:50) describes how to complete a CodeGuru Reviewer task to associate a repository to GitHub Enterprise Server. In this video, you will learn how to create a host resource that represents the server where your GitHub Enterprise Server instance is installed, complete the host setup, and create a connection to your repository. \n\nLearn more about Amazon CodeGuru at https://amzn.to/3aL5yZ2\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS AWSDemo #CodeGuru",
+        "date": "2020-10-08T16:29:33Z",
+        "duration": 471
     }
 ]

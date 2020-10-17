@@ -2,289 +2,943 @@
     {
         "service": "systems_manager",
         "videoId": "MK4ZoCs-muo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws ec2 systems manager",
+            "aws systems manager parameter store",
+            "aws system manager",
+            "microsoft operations management suite",
+            "IT operations management",
+            "IToM"
+        ],
         "title": "What is AWS Systems Manager?",
-        "date": "2019/05/13"
+        "description": "Learn more about AWS Systems Manager at – https://amzn.to/2WESkW0 \nAWS Systems Manager gives you visibility and control of your infrastructure on AWS. Systems Manager provides a unified user interface so you can view operational data from multiple AWS services and allows you to automate operational tasks across your AWS resources. \n\nWith Systems Manager, you can group resources, like Amazon EC2 instances, Amazon S3 buckets, or Amazon RDS instances, by application, view operational data for monitoring and troubleshooting, and take action on your groups of resources. Systems Manager simplifies resource and application management, shortens the time to detect and resolve operational problems, and makes it easy to operate and manage your infrastructure securely at scale.",
+        "date": "2019-05-13T22:43:36Z",
+        "duration": 103
     },
     {
         "service": "systems_manager",
         "videoId": "zwS8lssaY_k",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Configuration Management",
+            "Management",
+            "Systems Management",
+            "AWS Patching",
+            "AWS Patch",
+            "EC2 Patching",
+            "EC2 Patch",
+            "AWS Scheduler",
+            "EC2 Scheduler",
+            "System Inventory",
+            "EC2 Systems Manager",
+            "SSM",
+            "AWS Systems Manager",
+            "SM",
+            "EC2 Managed Instance"
+        ],
         "title": "Amazon EC2 Systems Manager Introduction",
-        "date": "2017/09/22"
+        "description": "Learn more about Amazon EC2 Systems Manager at - http://amzn.to/2faOqjJ.\nAmazon EC2 Systems Manager, helps you easily automate key management tasks such as collecting system inventory, applying OS patches, automating image creation, and configuring OS and applications at scale. These capabilities help you define and track system configurations, establish maintenance windows, and maintain software compliance.\n\nAccomplishing these tasks across hybrid cloud configurations is often complex, time consuming, and costly because existing management tools often provide limited automation support, require specialized infrastructure and skill sets, and have complex licensing requirements.\n\nAmazon EC2 Systems Manager helps you save time, reduce costs, and improve your security posture by helping prevent configuration drift from your specified system policies.\n\nIn this video, we will provide an introduction to Amazon EC2 Systems Manager capabilities and different use cases that these capabilities can help with.",
+        "date": "2017-09-22T15:00:07Z",
+        "duration": 502
     },
     {
         "service": "systems_manager",
         "videoId": "BmpxZsk9N48",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "ENT401",
+            "Chicago Summit Series 2017"
+        ],
         "title": "Deep Dive with Amazon EC2 Systems Manager [ENT401]",
-        "date": "2017/08/07"
+        "description": "CWhether you are a traditional enterprise exploring migrating workloads to the cloud or are already “all-in” on AWS, performing common tasks of inventory collection, OS patch management, and image creation at scale is increasingly complicated in hybrid infrastructure environments. Amazon EC2 Systems Manager allows you to perform automated configuration and ongoing management of your hybrid environment systems at scale. This session provides an overview of key EC2 Systems Manager capabilities that help you define and track system configurations, prevent drift, and maintain software compliance of your EC2 and on-premises configurations. We will also discuss common use cases for EC2 Systems Manager and give you a demonstration of a hybrid-cloud management scenario.",
+        "date": "2017-08-07T21:11:00Z",
+        "duration": 3334
     },
     {
         "service": "systems_manager",
         "videoId": "_RYL90VQgtI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Patch",
+            "SSM",
+            "Systems manager",
+            "Windows"
+        ],
         "title": "Patching Windows Servers using AWS Systems Manager",
-        "date": "2019/10/04"
+        "description": "Learn more about AWS at – https://amzn.to/30MxyVy\nAWS Systems Manager Patch Manager automates the process of patching managed instances with both security related and other types of updates. You can use Patch Manager to apply patches for both operating systems and applications. (On Windows Server, application support is limited to updates for Microsoft applications.) You can patch fleets of Amazon EC2 instances or your on-premises servers and virtual machines (VMs) by operating system type.",
+        "date": "2019-10-04T18:11:19Z",
+        "duration": 793
     },
     {
         "service": "systems_manager",
         "videoId": "D91UJ69dcww",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Enterprise & Hybrid",
+            "ENT227-R1",
+            "AWS Systems Manager"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] Managing Modern Infrastructure in Enterprises (ENT227-R1)",
-        "date": "2018/11/29"
+        "description": "In this session, Verizon shares how it uses AWS Systems Manager for inventory, compliance, and patch management solutions. Learn about the challenges that large enterprises face when they attempt to retrofit legacy solutions for cloud environments, and discover best practices for using AWS Systems Manager for minimal access policies, custom Amazon Machine Images, tagging policies, encryption, and more.",
+        "date": "2018-11-29T18:12:56Z",
+        "duration": 3130
     },
     {
         "service": "systems_manager",
         "videoId": "ABtwRb9BFY4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Systems Manager",
+            "Patch Manager",
+            "Patch Group​"
+        ],
         "title": "Patching for your Amazon EC2 Instances",
-        "date": "2019/07/05"
+        "description": "Learn more about AWS Management and Governance at – https://amzn.to/2JlN2t3 \nIn this video we show you how to automate your patching of your Amazon EC2 instances by using Systems Manager Patch Manager, Patch Groups and setting up a patch schedule.",
+        "date": "2019-07-05T17:44:27Z",
+        "duration": 501
     },
     {
         "service": "systems_manager",
         "videoId": "DQ619NSwoGg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "EC2 Systems Manager",
+            "SSM",
+            "AWS Systems Manager",
+            "EC2 Managed Instance",
+            "Setting up EC2 Systems Manager"
+        ],
         "title": "Registering Instances with Systems Manager",
-        "date": "2017/09/22"
+        "description": "For an EC2 instance or an on-premise server to be managed by Amazon EC2 Systems Manager, it needs to be registered/enrolled with EC2 Systems Manager. Learn more at - http://amzn.to/2xnCncI.\n\nIn this video, we will show a few common scenarios for registering instances with Systems Manager:\n1. Launching a new EC2 instance as a managed instance\n2. Enrolling existing instances under EC2 Systems manager\n3. Configuring an on-premise server as a managed instance",
+        "date": "2017-09-22T15:00:01Z",
+        "duration": 521
     },
     {
         "service": "systems_manager",
         "videoId": "tnyDHqC8nDM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "EC2 Systems Manager",
+            "SSM",
+            "AWS Systems Manager",
+            "EC2 Managed Instance",
+            "EC2 Systems Manager Patch Manager"
+        ],
         "title": "Systems Manager Patch Manager - Introduction",
-        "date": "2017/09/22"
+        "description": "Amazon EC2 Systems Manager ‘Patch Manager’ helps you automate and simplify your operating system patching process. Learn more at http://amzn.to/2xnDIjK. You can create Patch Baselines, scan instances for missing patches and automatically install them, select the timing for patch roll-outs, control instance reboots, and perform many other patching tasks. In this video, we will provide an overview of Patch Manager capabilities.",
+        "date": "2017-09-22T15:00:04Z",
+        "duration": 74
     },
     {
         "service": "systems_manager",
         "videoId": "nzjTIjFLiow",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Systems Manager",
+            "SSM",
+            "acess",
+            "session"
+        ],
         "title": "Controlling User Session Access to Instances in AWS System Manager Session Manager",
-        "date": "2019/10/04"
+        "description": "Learn more about AWS at – https://amzn.to/31NCT0h\nSession Manager is a fully managed AWS Systems Manager capability that lets you manage your Amazon EC2 instances through an interactive one-click browser-based shell or through the AWS CLI. Session Manager provides secure and auditable instance management without the need to open inbound ports, maintain bastion hosts, or manage SSH keys. Session Manager also makes it easy to comply with corporate policies that require controlled access to instances, strict security practices, and fully auditable logs with instance access details, while still providing end users with simple one-click cross-platform access to your Amazon EC2 instances.",
+        "date": "2019-10-04T18:11:21Z",
+        "duration": 767
     },
     {
         "service": "systems_manager",
         "videoId": "T7f-Qi7mR48",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Collect",
+            "Inventory",
+            "SSM",
+            "Systems Manager"
+        ],
         "title": "Collect Inventory Data with Systems Manager Inventory",
-        "date": "2019/10/04"
+        "description": "Learn more about AWS at – https://amzn.to/354wz6E\nAWS Systems Manager Inventory provides visibility into your Amazon EC2 and on-premises computing environment. You can use Inventory to collect metadata from your managed instances. You can store this metadata in a central Amazon Simple Storage Service (Amazon S3) bucket, and then use built-in tools to query the data and quickly determine which instances are running the software and configurations required by your software policy, and which instances need to be updated. You can configure Inventory on all of your managed instances by using a one-click procedure. You can also configure and view inventory data from multiple AWS Regions and accounts.",
+        "date": "2019-10-04T17:47:59Z",
+        "duration": 381
     },
     {
         "service": "systems_manager",
         "videoId": "7YIan_5Kj38",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Too Many Tools? How AWS Systems Manager Bridges Operational Models",
-        "date": "2018/11/21"
+        "description": "Presenter: Andra Christie, Public Sector Solution Architect, Amazon Web Services",
+        "date": "2018-11-21T19:18:05Z",
+        "duration": 1729
     },
     {
         "service": "systems_manager",
         "videoId": "JBB__HbwFtQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            ".NET",
+            "SSM",
+            "Automation",
+            "deploy",
+            "deployment"
+        ],
         "title": "Using AWS Systems Manager Automation Documents to Deploy a .NET Application on AWS",
-        "date": "2020/08/28"
+        "description": "Would you like to learn how to automatically run scripts and deploy software on your fleet of Amazon Elastic Compute Cloud (or EC2) instances? In this video, join Andy Hopper to explore a capability of AWS Systems Manager called Automation Documents and how you can use these documents to execute commands on your EC2 instances, including the ability to deploy your own applications.\n\nLearn more about .NET applications on AWS at https://amzn.to/2YEGHl9\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-08-28T19:16:29Z",
+        "duration": 1301
     },
     {
         "service": "systems_manager",
         "videoId": "2P3ajglqbKw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "EC2 Systems Manager",
+            "SSm",
+            "AWS Systems Manager",
+            "Getting Started with EC2 Systems Manager",
+            "EC2 Managed Instance",
+            "Setting up EC2 Systems Manager"
+        ],
         "title": "Setting Up IAM Roles for Systems Manager",
-        "date": "2017/09/22"
+        "description": "Amazon EC2 Systems Manager requires an IAM role for EC2 instances that will process commands and a separate role for users executing those commands. Learn more at - http://amzn.to/2xwvR3B. Both roles require permission policies that enable them to communicate with the Systems Manager.\nIn this video, we will show how to use Systems Manager managed policies or create your own roles and specify permissions.",
+        "date": "2017-09-22T15:00:00Z",
+        "duration": 247
     },
     {
         "service": "systems_manager",
         "videoId": "r6ilQdxLcqY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Systems Manager",
+            "SSM",
+            "OppsCenter"
+        ],
         "title": "Aggregate and Resolve Operational Issues Using AWS Systems Manager OpsCenter",
-        "date": "2019/11/26"
+        "description": "Learn more about AWS Management and Governance at https://amzn.to/34osUQu\nIn this video, you'll see how to aggregate and resolve operational issues using AWS Systems Manager OpsCenter. With OpsCenter, you can view operational work items across AWS services from one central location, investigate issues with contextual information, and remediate using quick solution steps.",
+        "date": "2019-11-26T20:45:53Z",
+        "duration": 557
     },
     {
         "service": "systems_manager",
         "videoId": "cUEFGKaZOyU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Session Manager",
+            "Systems manager"
+        ],
         "title": "AWS Sessions Manager Overview",
-        "date": "2018/11/21"
+        "description": "Session Manager is a fully managed AWS Systems Manager capability that lets you manage your Amazon EC2 instances through an interactive one-click browser-based shell or through the AWS CLI. Session Manager provides secure and auditable instance management without the need to open inbound ports, maintain bastion hosts, or manage SSH keys.\n\nFor more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2t7AHBA.",
+        "date": "2018-11-21T20:45:48Z",
+        "duration": 279
     },
     {
         "service": "systems_manager",
         "videoId": "cjSuHarpQJg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I use Systems Manager to manage private EC2 instances without internet access?",
-        "date": "2020/06/10"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/ec2-systems-manager-vpc-endpoints/ Amrutha shows you how to create VPC endpoints so that you can use Systems Manager to manage private EC2 instances without internet access.",
+        "date": "2020-06-10T19:31:27Z",
+        "duration": 364
     },
     {
         "service": "systems_manager",
         "videoId": "K2JISD4aymY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS London Summit 2018",
+            "breakout session"
+        ],
         "title": "Operational Control and Insights using Amazon Systems Manager",
-        "date": "2018/05/22"
+        "description": "Learn more about AWS at - https://amzn.to/2rYVK8O\nAWS London Summit 2018 - Breakout Session:\nWouldn't it be great to have a single dashboard to report the patch status for your entire estate? AWS Systems Manager gives you visibility and control of your infrastructure on AWS. Systems Manager provides a unified user interface so you can view operational data from multiple AWS services and allows you to automate maintenance and deployment tasks not only Amazon EC2 but on-premises instances as well. But what if, you have instances running in AWS, on-premise VM’s, desktops, and network devices: all disparate systems with unique patching methods. Come and find out how one of our Enterprise Support customers built a patch compliance status dashboard across all their entire estate. AWS Systems Manager to collect the data, process using Athena & Lambda and Grafana Dashboard to monitor and visualization.",
+        "date": "2018-05-22T21:04:49Z",
+        "duration": 2820
     },
     {
         "service": "systems_manager",
         "videoId": "BqnRmuTEpY8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "EC2 Systems Manager",
+            "SSM",
+            "AWS Systems Manager",
+            "EC2 Managed Instance",
+            "EC2 Systems Manger State Manager"
+        ],
         "title": "State Manager - Demo",
-        "date": "2017/09/22"
+        "description": "Amazon EC2 Systems Manager ‘State Manager’ is a secure and scalable configuration management service that ensures your EC2 instances or an on-premise servers are in a desired or consistent state. Learn more at - http://amzn.to/2xvWp59. \n\nState Manager helps you define and maintain consistent configuration of operating systems and applications. Using State Manager, you can control configuration details (e.g. EC2 instance configurations, anti-virus definitions, firewall settings) and define configuration policies in a few clicks. In this video, we will demonstrate how you can use State Manager for common use cases such as kicking-off antivirus every Saturday, turn off SSH on a Linux system and turn off RDP on a Windows system.",
+        "date": "2017-09-22T15:00:03Z",
+        "duration": 272
     },
     {
         "service": "systems_manager",
         "videoId": "G5X-FjFQTos",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "EC2 Systems Manager",
+            "SSM",
+            "AWS Systems Manager",
+            "EC2 Managed Instance",
+            "EC2 Systems Manager Patch Manager"
+        ],
         "title": "Systems Manager Patch Manager - How to Enable Patch Management for Windows Systems",
-        "date": "2017/09/22"
+        "description": "Amazon EC2 Systems Manager ‘Patch Manager’ helps you automate and simplify your operating system patching process. Learn more at -  http://amzn.to/2xfNcy1. You can create Patch Baselines, scan instances for missing patches and automatically install them, select the timing for patch roll-outs, control instance reboots, and perform many other patching tasks. In this video, we will show how to use Patch Manager for scheduling and rolling out patch updates for Windows systems.",
+        "date": "2017-09-22T15:00:03Z",
+        "duration": 560
     },
     {
         "service": "systems_manager",
         "videoId": "V1Yi3uDPaxc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Scheduler",
+            "EC2 Scheduler",
+            "Scheduler",
+            "EC2 Systems Manager",
+            "SSM",
+            "AWS Systems Manager",
+            "EC2 Managed Instance",
+            "EC2 Systems Manager Maintenance Window"
+        ],
         "title": "Systems Manager Maintenance Window - Introduction",
-        "date": "2017/09/22"
+        "description": "Maintenance Window is a feature of EC2 Systems Manager which provide you the ability to define and schedule one or more recurring windows of time for any disruptive operation such as patching an operating system, updating drivers or installing software. Learn more http://amzn.to/2yeBdxK. In this video, we will provide you an overview of Maintenance Window capabilities and how to define and schedule a Maintenance Window.",
+        "date": "2017-09-22T15:00:03Z",
+        "duration": 66
     },
     {
         "service": "systems_manager",
         "videoId": "1r3YU2KoK5s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Scheduler",
+            "EC2 Scheduler",
+            "Scheduler",
+            "EC2 Systems Manager",
+            "SSM",
+            "AWS Systems Manager",
+            "EC2 Managed Instance",
+            "EC2 Systems Manager Maintenance Window"
+        ],
         "title": "Systems Manager Maintenance Window - How to Create a Maintenance Window (2)",
-        "date": "2017/09/22"
+        "description": "Maintenance Window is a feature of EC2 Systems Manager which provide you the ability to define and schedule one or more recurring windows of time for any disruptive operation such as patching an operating system, updating drivers or installing software. Learn more http://amzn.to/2w7axOP. In this video, we will show you how to create a Maintenance Window.",
+        "date": "2017-09-22T15:00:00Z",
+        "duration": 365
     },
     {
         "service": "systems_manager",
         "videoId": "Me2xbKzxbq8",
+        "tags": [
+            "EC2 Systems Manager",
+            "reinvent",
+            "AWS",
+            "Amazon Web Services",
+            "cloud",
+            "cloud computing",
+            "re:Invent 2016"
+        ],
         "title": "AWS re:Invent 2016: EC2 Systems Manager for automated configuration management",
-        "date": "2016/12/01"
+        "description": "Amazon EC2 Systems Manager is a management service that helps you automatically collect software inventory, apply Windows OS patches, create system images, and configure Windows and Linux operating systems. These capabilities help you define and track system configurations, prevent drift, and maintain software compliance. Accomplishing these tasks across hybrid cloud architectures is often complex, time consuming, and costly because existing management tools typically provide limited automation support, require specialized infrastructure, and have complex licensing requirements.",
+        "date": "2016-12-01T22:27:23Z",
+        "duration": 64
     },
     {
         "service": "systems_manager",
         "videoId": "AvQWkfgEQI8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Patching",
+            "Systems Manager",
+            "Automation"
+        ],
         "title": "Manage Distribution of Software Packages with AWS Systems Manager Distributor.",
-        "date": "2019/10/04"
+        "description": "Learn more about AWS at – https://amzn.to/2o50lI1\nAWS Systems Manager Distributor is a  feature that you can use to securely store and distribute software packages, such as software agents, in your accounts. Distributor integrates with existing Systems Manager features to simplify and scale the package distribution, installation, and update process.",
+        "date": "2019-10-04T17:47:55Z",
+        "duration": 316
     },
     {
         "service": "systems_manager",
         "videoId": "SWisT0jMT70",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Sydney Summit 2018",
+            "AWS Systems Manager",
+            "AWS Lambda",
+            "DevOps"
+        ],
         "title": "AWS Sydney Summit 2018: Break Glass using AWS Systems Manager and Lambda",
-        "date": "2018/05/21"
+        "description": "Breakglass approach is needed to break into a system when Active directory is down. Demo will showcase the SSM capabilities to and serverless approach to handle break glass situation.\n\nVisit the following links to learn more: \n- AWS DevOps Blog - Build a Secure Cross-Account Continuous Delivery Pipeline:  https://aws.amazon.com/blogs/devops/aws-building-a-secure-cross-account-continuous-delivery-pipeline/\n- AWS Management Tools Blog – Supercharge Multi-Account Management with AWS CloudFormation: https://aws.amazon.com/blogs/mt/supercharge-multi-account-management-with-aws-cloudformation/",
+        "date": "2018-05-21T18:56:02Z",
+        "duration": 938
     },
     {
         "service": "systems_manager",
         "videoId": "zSRmdQMRkQg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "EC2 Systems Manager",
+            "SSM",
+            "AWS Systems Manager",
+            "EC2 Managed Instance",
+            "EC2 Systems Manager State Manager"
+        ],
         "title": "State Manager - Introduction",
-        "date": "2017/09/22"
+        "description": "Amazon EC2 Systems Manager ‘State Manager’ is a secure and scalable configuration management service that ensures your EC2 instances or an on-premise servers are in a desired or consistent state. Learn more at - http://amzn.to/2yqNZtT. \n\nState Manager helps you define and maintain consistent configuration of operating systems and applications. Using State Manager, you can control configuration details (e.g. EC2 instance configurations, anti-virus definitions, firewall settings) and define configuration policies in a few clicks. In this video, we will provide an overview of State Manager capabilities and common use cases.",
+        "date": "2017-09-22T15:00:05Z",
+        "duration": 128
     },
     {
         "service": "systems_manager",
         "videoId": "X0ribZxevZw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Systems Manager",
+            "SSM"
+        ],
         "title": "Automate remediation actions with AWS Systems Manager",
-        "date": "2019/10/04"
+        "description": "Learn more about AWS at – https://amzn.to/332wvT5\nYou can quickly remediate patch and association compliance issues by using Systems Manager Run Command. You can target either instance IDs or Amazon EC2 tags and run the AWS-RunPatchBaseline document or the AWS-RefreshAssociation document.",
+        "date": "2019-10-04T18:11:27Z",
+        "duration": 318
     },
     {
         "service": "systems_manager",
         "videoId": "Ix9u24lW6PY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Windows",
+            "AMI",
+            "Systems Manager",
+            "Automation"
+        ],
         "title": "Building up-to-date Golden Windows AMIs using AWS Systems Manager Automation",
-        "date": "2018/11/21"
+        "description": "In this video we will show you how you create up-to-date golden Windows AMIs using AWS Systems Manager Automation.\n\nFor more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2t7AHBA.",
+        "date": "2018-11-21T20:42:27Z",
+        "duration": 377
     },
     {
         "service": "systems_manager",
         "videoId": "nt6NTWQ-h6o",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Systems Manager",
+            "Session Manager",
+            "Remote Desktop",
+            "RDP",
+            "port redirection",
+            "Managed AD",
+            "manage domain server"
+        ],
         "title": "Securely Access Windows Instances Using RDP and AWS Systems Manager Session Manager",
-        "date": "2020/05/06"
+        "description": "In this video, you'll see how to securely access Windows instances using Remote Desktop Protocol (RDP) and AWS Systems Manager Session Manager. With Session Manager, you can improve the security of your remote instances, limit their surface of attack, and access instances without enabling the RDP port.\n\nLearn more about AWS Management & Governance at - https://go.aws/2xJLszA\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-05-06T19:59:31Z",
+        "duration": 396
     },
     {
         "service": "systems_manager",
         "videoId": "z4n3Oh1MJDQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Software Inventory",
+            "Application Inventory",
+            "AWS Inventory",
+            "EC2 Systems Manager",
+            "SSM",
+            "AWS Systems Manager",
+            "EC2 Managed Instance",
+            "EC2 Systems Manager Inventory"
+        ],
         "title": "Inventory Services - 1",
-        "date": "2017/09/22"
+        "description": "Amazon EC2 Systems Manager Inventory service provides the capability to collect and query operating system (OS), application, and instance metadata from EC2 instances and on-premises servers. Learn more at - http://amzn.to/2xfyMy7. In this video, we will provide an overview on Inventory service including common use cases and integration with ‘AWS Config’ for historic view of the inventory data.",
+        "date": "2017-09-22T15:00:05Z",
+        "duration": 168
     },
     {
         "service": "systems_manager",
         "videoId": "eXVxr5FUr1c",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "EC2 Systems Manager",
+            "AWS Summit Series 2017 London"
+        ],
         "title": "AWS Summit Series 2017: London - Deep Dive with EC2 Systems Manager",
-        "date": "2017/10/25"
+        "description": "Learn more about AWS at - http://amzn.to/2y8XjFo.\nWhether you are a traditional enterprise exploring migrating workloads to the cloud or are already “all-in” on AWS, performing common tasks of inventory collection, OS patch management, and image creation at scale is increasingly complicated in hybrid infrastructure environments. Amazon EC2 Systems Manager allows you to perform automated configuration and ongoing management of your hybrid environment systems at scale. This session provides an overview of key EC2 Systems Manager capabilities that help you define and track system configurations, prevent drift, and maintain software compliance of your EC2 and on-premises configurations. We will also discuss common use cases for EC2 Systems Manager and give you a demonstration of a hybrid-cloud management scenario.\n\nSpeaker: Matt Johnson, Solutions Architect, AWS",
+        "date": "2017-10-25T18:08:36Z",
+        "duration": 2884
     },
     {
         "service": "systems_manager",
         "videoId": "sriNozVSj0U",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Systems Manager",
+            "SSM",
+            "AWS Systems Manager",
+            "CloudWatch",
+            "Amazon CloudWatch"
+        ],
         "title": "Streamline Configuration Management Automation Using AWS Systems Manager Run Command",
-        "date": "2020/04/21"
+        "description": "In this video, you’ll see how to streamline configuration management automation using AWS Systems Manager Run Command. With enhancements in Run Command, you can now copy and modify execution documents, rerun entire executions without changes, and monitor Run Command metrics with CloudWatch. \n\nLearn more about AWS Management and Governance at https://go.aws/3cBClQ3\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-04-21T19:44:43Z",
+        "duration": 369
     },
     {
         "service": "systems_manager",
         "videoId": "2ZqmRSIqQ6Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "WIN205",
+            "Adnan Ijaz",
+            "Introductory (200 Level)",
+            "Windows"
+        ],
         "title": "AWS re:Invent 2016: NEW LAUNCH! Amazon EC2 Systems Manager for Hybrid Cloud Management (WIN205)",
-        "date": "2016/12/02"
+        "description": "Today, we are announcing EC2 Systems Manager.  Amazon EC2 Systems Manager is a management service that helps you automatically collect software inventory, apply OS patches, create system images, and configure Windows and Linux operating systems. These capabilities help you define and track system configurations, prevent drift, and maintain software compliance of your EC2 and on-premises configurations. This session provides an overview of these newly announced services and how they work together within the larger AWS ecosystem to provide comprehensive management capabilities.",
+        "date": "2016-12-03T01:03:04Z",
+        "duration": 3096
     },
     {
         "service": "systems_manager",
         "videoId": "jihhLckop6A",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Devops",
+            "DEV338",
+            "EC2",
+            "EC2 Systems Manager"
+        ],
         "title": "AWS re:Invent 2017: Use Amazon EC2 Systems Manager to Perform Automated Resilience T (DEV338)",
-        "date": "2017/11/30"
+        "description": "Do you know how your applications will behave when things go wrong, either naturally or artificially? See how Expedia uses Amazon EC2 Systems Manager to perform automatic resilience tests as part of CI/CD pipelines, giving application owners confidence they are prepared for the worst.",
+        "date": "2017-11-30T17:17:56Z",
+        "duration": 3381
     },
     {
         "service": "systems_manager",
         "videoId": "S2yiPu5dMrc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Systems Manager",
+            "Session Manager",
+            "RunAs",
+            "Control Access"
+        ],
         "title": "Configure Session Permissions Using Run As in AWS Systems Manager Session Manager",
-        "date": "2020/05/06"
+        "description": "In this video, you’ll see how to configure session permissions using Run As in AWS System Manager Session Manager. With Run As, you can control access, set preferences, and define users for Linux instances.\n\nLearn more about AWS Management & Governance at - https://go.aws/2W7Q77N\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-05-06T19:59:31Z",
+        "duration": 278
     },
     {
         "service": "systems_manager",
         "videoId": "qHRMim32dhk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Simplify Operations, Compliance and Governance using AWS Systems Manager",
-        "date": "2018/07/02"
+        "description": "AWS Public Sector Summit 2018 - Washington, D.C.\n\nThis session will discuss how government organizations can employ AWS Systems Manager to gain insights into their environments and simplify operational tasks such as patching the OS or loading applications, for both on-premises instances as well as those within AWS. We will also look into how SSM can simplify governance and compliance from Central IT perspective by demonstrating how  Systems Manager can automate credential rotation on servers in order to maintain compliance for various regulatory or compliance workloads.\n\nSpeakers: Sohaib Tahir, Brian Tracy",
+        "date": "2018-07-02T18:02:36Z",
+        "duration": 2430
     },
     {
         "service": "systems_manager",
         "videoId": "aR02m1Xsz1E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Scheduler",
+            "EC2 Scheduler",
+            "Scheduler",
+            "EC2 Systems Manager",
+            "SSM",
+            "AWS Systems Manager",
+            "EC2 Managed Instance",
+            "EC2 Systems Manager Maintenance Window"
+        ],
         "title": "Systems Manager Maintenance Window - How to Configure Access to Maintenance Window (1)",
-        "date": "2017/09/22"
+        "description": "Maintenance Window is a feature of EC2 Systems Manager which provide you the ability to define and schedule one or more recurring windows of time for any disruptive operation such as patching an operating system, updating drivers or installing software. Learn more at http://amzn.to/2xnTY4l. \nIn this video, we will show you how to configure access to Maintenance Window.",
+        "date": "2017-09-22T15:00:00Z",
+        "duration": 260
     },
     {
         "service": "systems_manager",
         "videoId": "mJo0KL9VNic",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "IAM",
+            "security group",
+            "SCVMM",
+            "vpc",
+            "EC2",
+            "security settings",
+            "Windows",
+            "spl98",
+            "AWS Systems Manager",
+            "Microsoft System Center Virtual Machine Manager",
+            "domain controller",
+            "System Center Virtual Machine Manager (Software)",
+            "Technology",
+            "Management",
+            "Security (Literature Subject)",
+            "Computer",
+            "Data",
+            "Office",
+            "Software (Industry)"
+        ],
         "title": "Using the AWS Systems Manager for Microsoft System Center Virtual Machine Manager",
-        "date": "2015/06/01"
+        "description": "In this video, you will be able to explain how System Center Virtual Machine Manager or SCVMM can be used to administer AWS resources. You will also be able to connect to AWS instances from SCVMM and perform common maintenance tasks.",
+        "date": "2015-06-01T20:01:54Z",
+        "duration": 283
     },
     {
         "service": "systems_manager",
         "videoId": "zWfhV66cMFE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "אמזון ווב סרביסס",
+            "תשתיות ענן",
+            "אמזון ישראל",
+            "סאמיט",
+            "AWS Summit Tel Aviv"
+        ],
         "title": "AWS Summit Tel Aviv 2017: Deep Dive with EC2 Systems Manager",
-        "date": "2017/07/31"
+        "description": "Learn more about AWS at - https://aws.amazon.com/.\nWhether you are a traditional enterprise exploring migrating workloads to the cloud or are already “all-in” on AWS, performing common tasks of inventory collection, OS patch management, and image creation at scale is increasingly complicated in hybrid infrastructure environments. Amazon EC2 Systems Manager allows you to perform automated configuration and ongoing management of your hybrid environment systems at scale. This session provides an overview of key EC2 Systems Manager capabilities that help you define and track system configurations, prevent drift, and maintain software compliance of your EC2 and on-premises configurations. We will also discuss common use cases for EC2 Systems Manager and give you a demonstration of a hybrid-cloud management scenario.",
+        "date": "2017-07-31T20:06:27Z",
+        "duration": 2438
     },
     {
         "service": "systems_manager",
         "videoId": "gd05wJ39acE",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "GPSTechnical",
+            "GPSTEC307",
+            "AI",
+            "EC2",
+            "EC2 Systems Manager",
+            "Security"
+        ],
         "title": "AWS re:Invent 2017: GPS: Too Many Tools? Amazon EC2 Systems Manager Bridges Operatio (GPSTEC307)",
-        "date": "2017/11/28"
+        "description": "Come see first-hand how Amazon EC2 Systems Manager can help you manage your servers at scale with the agility and security you need in today's dynamic cloud-enabled world. To be truly agile, you need a way to define and track system configurations, prevent drift, and maintain software compliance. At the same time, you need to collect software inventory, apply OS patches, automate your system image maintenance, and configure anything in the OSs of your EC2 instances and on-premises servers. Amazon EC2 Systems Manager does all of that and more for both Linux and Windows systems. In this session, learn about the seven services that make up Amazon EC2 Systems Manager and see them in action. No matter if you are managing 10 or 10,000 instances, see how you can manage your systems, increasing your agility and security with EC2 Systems Manager.",
+        "date": "2017-11-28T19:06:47Z",
+        "duration": 2940
     },
     {
         "service": "systems_manager",
         "videoId": "YNoGjBhncZ0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Remote Management",
+            "Remote Execution",
+            "EC2 Systems Manager",
+            "SSM",
+            "AWS Systems Manger",
+            "EC2 Managed Instance"
+        ],
         "title": "Run Command - Introduction",
-        "date": "2017/09/22"
+        "description": "Amazon EC2 Systems Manager “Run Command” service enables secure remote management at scale. Learn more at - http://amzn.to/2xipCyl. The service enables you to define and automate common administrative tasks and perform ad hoc configuration changes remotely and without SSH or RDP access.\nIn this video, we will explain what Run Command is, what its common use cases are and how it works.",
+        "date": "2017-09-22T15:00:03Z",
+        "duration": 305
     },
     {
         "service": "systems_manager",
         "videoId": "lD4e1A_OhX4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "EC2 Systems Manager",
+            "SSM",
+            "AWS Systems Manager",
+            "EC2 Managed Instance",
+            "EC2 Systems Manager Automation"
+        ],
         "title": "Creating Custom Automation - How To",
-        "date": "2017/09/22"
+        "description": "Amazon EC2 Systems Manager Automation simplifies ongoing maintenance and deployment tasks, such as updating Amazon Machine Images (AMIs). Learn more at - http://amzn.to/2w7Udx5. You can use Automation to quickly build workflows to accomplish complex tasks. You can start by using pre-defined workflows, or build and execute your own through a JSON-based document. In this video, we will show how you can create your own custom workflows using Automation service.",
+        "date": "2017-09-22T15:00:05Z",
+        "duration": 274
     },
     {
         "service": "systems_manager",
         "videoId": "O4pIH3kJr-o",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "ECS",
+            "Systems Manager",
+            "troubleshoot"
+        ],
         "title": "Automatically Fix EC2 Windows Activation Issues Using AWS Systems Manager",
-        "date": "2018/11/21"
+        "description": "In this video we will show you how you can automatically troubleshoot EC2 Windows Activation issues using AWS Systems Manager.\n\nFor more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2t7AHBA.",
+        "date": "2018-11-21T20:42:17Z",
+        "duration": 395
     },
     {
         "service": "systems_manager",
         "videoId": "UfSrb3HOYPM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I use EC2 Systems Manager to join an instance to my AWS Directory Service domain?",
-        "date": "2018/10/28"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2Pt7HOc\nNitya, an AWS Cloud Support Engineer, shows you how to join an instance to your AWS Directory Service domain.",
+        "date": "2018-10-29T03:49:48Z",
+        "duration": 239
     },
     {
         "service": "systems_manager",
         "videoId": "apGmSG-CCEE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I use AWS Systems Manager to join a new instance to my AWS Directory Service domain?",
-        "date": "2020/05/15"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/systems-manager-domain-join-new/ Charles shows you how to use AWS Systems Manager to join a new instance to your AWS Directory Service domain.",
+        "date": "2020-05-15T14:19:16Z",
+        "duration": 315
     },
     {
         "service": "systems_manager",
         "videoId": "HA59eSImPaw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Automation",
+            "Across",
+            "Accounts",
+            "Regions",
+            "SSM"
+        ],
         "title": "Run Automations Across Multiple AWS Regions and Accounts",
-        "date": "2019/10/04"
+        "description": "Learn more about AWS at – https://amzn.to/31WPNtb\nYou can run AWS Systems Manager Automations across multiple AWS Regions and AWS accounts or AWS Organizational Units (OUs) from an Automation management account. Running Automations in multiple Regions and accounts or OUs reduces the time required to administer your AWS resources while enhancing the security of your computing environment.",
+        "date": "2019-10-04T17:48:01Z",
+        "duration": 525
     },
     {
         "service": "systems_manager",
         "videoId": "hjm6sGHtoNc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon EC2"
+        ],
         "title": "AWS Config/EC2 Systems Manager Integration",
-        "date": "2016/12/21"
+        "description": "Learn more about Amazon EC2 here - http://amzn.to/2hRAyOj\n\nTaylor Anderson demonstrates EC2 and Config integration that allows users to see historical configuration data about their EC2 instances.",
+        "date": "2016-12-21T19:10:59Z",
+        "duration": 62
     },
     {
         "service": "systems_manager",
         "videoId": "qpbAAqsRX-k",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "AWS re:Invent Launchpad 2017",
+            "AWS Systems Manager",
+            "re:Invent 2017"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - Announcement: AWS Systems Manager",
-        "date": "2017/12/08"
+        "description": "AWS Systems Manager provides a unified user interface so you can view operational data from multiple AWS services and allows you to automate operational tasks across your AWS resources. Learn more at - http://amzn.to/2z1vbne.  It simplifies resource and application management, shortens the time to detect and resolve operational problems, and makes it easy to operate and manage your infrastructure securely at scale.\n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:29:17Z",
+        "duration": 1118
     },
     {
         "service": "systems_manager",
         "videoId": "9HT0KXR3F58",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Chef",
+            "Chef Recipes",
+            "AWS Systems Manager",
+            "SSM",
+            "Systems Manager",
+            "runbooks",
+            "recipes",
+            "configuration management"
+        ],
         "title": "Configure Amazon EC2 Instances at Scale by Executing Chef Recipes with AWS Systems Manager",
-        "date": "2020/07/15"
+        "description": "In this video, you’ll see how to configure Amazon Elastic Compute Cloud (Amazon EC2) instances at scale by executing Chef recipes with AWS Systems Manager. With Systems Manager, you can use Chef recipes as command documents, specify your parameters and targets, and deploy recipes using Run Command and State Manager. \n\nLearn more about AWS Management & Governance at - https://amzn.to/2Dl4u1v\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-07-15T16:46:36Z",
+        "duration": 221
     }
 ]

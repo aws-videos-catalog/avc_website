@@ -2,13 +2,50 @@
     {
         "service": "aws_deepcomposer",
         "videoId": "XH2EbK9dQlg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "deepcomposer",
+            "matt wood",
+            "dr matt wood",
+            "ai",
+            "Jonathan Coulton",
+            "joco",
+            "live demo"
+        ],
         "title": "Announcing AWS DeepComposer with Dr. Matt Wood, feat. Jonathan Coulton",
-        "date": "2019/12/02"
+        "description": "Learn more about Amazon DeepComposer at https://amzn.to/33Dk1RT\nDevelopers, make some noise! Watch the AWS DeepComposer announcement by Dr. Matt Wood and hear Jonathan Coulton play the original song he wrote using AWS DeepComposer.",
+        "date": "2019-12-02T10:02:39Z",
+        "duration": 858
     },
     {
         "service": "aws_deepcomposer",
         "videoId": "2vdg_45HsTo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "jonathan coulton",
+            "deep composer",
+            "joco",
+            "musician joco",
+            "ai",
+            "machine learning",
+            "matt wood",
+            "generative ai",
+            "reInvent",
+            "reinvent performance",
+            "aws music",
+            "aws keyboard"
+        ],
         "title": "AWS DeepComposer - Jonathan Coulton Performance at AWS re:Invent 2019",
-        "date": "2019/12/02"
+        "description": "Learn more about AWS DeepComposer at - https://amzn.to/34HNH1t\nWatch Jonathan Coulton perform the song written collaboratively with AWS DeepComposer.",
+        "date": "2019-12-02T09:20:19Z",
+        "duration": 98
     }
 ]

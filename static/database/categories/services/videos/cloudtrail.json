@@ -2,80 +2,239 @@
     {
         "service": "cloudtrail",
         "videoId": "4ztTv5rIRv8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I use CloudTrail to review what API calls and actions have occured in my AWS account?",
-        "date": "2019/07/23"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2GwWRUN\nHamish, an AWS Support team member, shows you how you can use CloudTrail to review what API calls and actions have occurred in your AWS account.",
+        "date": "2019-07-23T12:03:21Z",
+        "duration": 372
     },
     {
         "service": "cloudtrail",
         "videoId": "mXQSnbc9jMs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "troubleshooting",
+            "security analysis",
+            "resource change tracking",
+            "CloudTrail"
+        ],
         "title": "AWS CloudTrail: Simplify Security Analysis, Resource Change Tracking, and Troubleshooting",
-        "date": "2019/11/15"
+        "description": "AWS CloudTrail is a service that enables governance, compliance, operational auditing, and risk auditing of your AWS account. Learn more at - https://amzn.to/2XjfXEF.",
+        "date": "2019-11-15T20:29:20Z",
+        "duration": 91
     },
     {
         "service": "cloudtrail",
         "videoId": "YWzmoDzzg4U",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Security",
+            "Identity",
+            "and Compliance",
+            "SEC323-R1",
+            "AWS CloudTrail",
+            "AWS Lambda"
+        ],
         "title": "AWS re:Invent 2018: Augmenting Security & Improving Operational Health w/ AWS CloudTrail (SEC323)",
-        "date": "2018/11/30"
+        "description": "Enabling AWS CloudTrail for auditing purposes is often a corporate mandate, but do you know how to use CloudTrail events to improve your security and operational posture? Come learn how CloudTrail can help improve your operational monitoring and troubleshooting, security analysis, and compliance auditing processes. Discover best practices for setting up and using CloudTrail; explore use cases for data mining CloudTrail event data; learn how to set up alerts based on activity in your account; and learn about advanced use cases. Also learn how to implement data plane governance automation using data events from Amazon S3 and AWS Lambda. Complete Title: AWS re:Invent 2018: [REPEAT 1] Augmenting Security Posture & Improving Operational Health with AWS CloudTrail (SEC323-R1)",
+        "date": "2018-11-30T16:38:25Z",
+        "duration": 3518
     },
     {
         "service": "cloudtrail",
         "videoId": "t0e-mz_I2OU",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Financial Services",
+            "Security & Compliance",
+            "SEC318",
+            "Sivakanth Mundru - Amazon Web Services",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (SEC318) AWS CloudTrail Deep Dive",
-        "date": "2015/10/12"
+        "description": "Ever wondered how can you find out which user made a particular API call, when the call was made, and which resources were acted upon? In this session, you will learn how to turn on AWS CloudTrail for hundreds of AWS accounts in all AWS regions to ensure you have full visibility into API activity in all your AWS accounts. We will demonstrate how to use CloudTrail Lookup in the AWS Management Console to troubleshoot operational and security issues and how to use the AWS CLI or SDKs to integrate your applications with CloudTrail.\n \n We will also demonstrate how you can monitor for specific API activity by using Amazon CloudWatch and receive email notifications, when such activity occurs. Using CloudTrail Lookup and CloudWatch Alarms, you can take immediate action to quickly remediate any security or operational issues. We will also share best practices and ready-to-use scripts, and dive deep into new features that help you configure additional layers of security for CloudTrail log files.",
+        "date": "2015-10-12T23:46:59Z",
+        "duration": 2249
     },
     {
         "service": "cloudtrail",
         "videoId": "Nky1DUj9s1M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS CloudTrail",
+            "CloudTrail",
+            "Anomaly",
+            "Anomaly Detection",
+            "Unusual behavior"
+        ],
         "title": "Monitor Unusual Activity in AWS Accounts Using CloudTrail Insights",
-        "date": "2020/05/06"
+        "description": "In this video, you’ll see how to detect unusual activity in AWS accounts using CloudTrail Insights. With this feature, you can continuously analyze management events from your CloudTrail trails, uncover unusual patterns in these events, and investigate anomalies to determine their causes.\n\nLearn more about AWS Management & Governance at - https://go.aws/3ftn2uY\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-05-06T19:59:31Z",
+        "duration": 195
     },
     {
         "service": "cloudtrail",
         "videoId": "U968FoLmwms",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I search CloudTrail logs using Amazon Athena?",
-        "date": "2018/08/29"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2BYu4IB\n\nDeren, an AWS Cloud Support Engineer, shows you how to search CloudTrail logs using Amazon Athena.",
+        "date": "2018-08-29T15:15:52Z",
+        "duration": 228
     },
     {
         "service": "cloudtrail",
         "videoId": "mbdC6IhOROk",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "O'Dell",
+            "Devops",
+            "DEV311",
+            "AI",
+            "AWS CloudTrail"
+        ],
         "title": "AWS re:Invent 2017: Using AWS CloudTrail to Enhance Governance and Compliance of Ama (DEV311)",
-        "date": "2017/12/01"
+        "description": "As organizations move their workloads to the cloud, companies must take steps to protect and audit their private and confidential information. This session focuses on Amazon S3 best practices and using AWS CloudTrail Data Events to help better protect data residing within Amazon S3. The session includes a demonstration to show how CloudTrail, in combination with other AWS services, can help with Amazon S3 governance and compliance requirements.",
+        "date": "2017-12-01T16:39:44Z",
+        "duration": 3162
     },
     {
         "service": "cloudtrail",
         "videoId": "cfojAdWoMWo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Athena",
+            "AWS CloudTrail",
+            "serverless"
+        ],
         "title": "Querying AWS CloudTrail logs with Amazon Athena",
-        "date": "2017/07/05"
+        "description": "To learn more or request help with your proof-of-concept, please visit: http://amzn.to/2sSJ5oA.\nGet started with Amazon Athena by analyzing valuable log data directly from Amazon S3. Amazon Athena is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL. Athena is serverless, so there is no infrastructure to manage, and you pay only for the queries that you run.\n\nIn this short video, we first show you how to enable Amazon CloudTrail logging and collect them in Amazon S3. Then, we'll define the table schema for the Cloudtrail logs through the Athena console. Finally, we run a few analytic queries to show you the type of insights you can easily get from your data.",
+        "date": "2017-07-05T16:58:00Z",
+        "duration": 221
     },
     {
         "service": "cloudtrail",
         "videoId": "pOsLIb_hwHY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "CloudTrail",
+            "API Activity History",
+            "New York City Summit 2017"
+        ],
         "title": "AWS Summit Series 2017 – New York: AWS CloudTrail Event History Available to All Customers",
-        "date": "2017/08/17"
+        "description": "To learn more, please visit - http://amzn.to/2x89Zsf.\nAWS CloudTrail Event History is now available to all customers. CloudTrail Event History (formerly known as API Activity History) lets you view, search, and download your recent AWS account activity. This allows you to gain visibility into your account actions taken through the AWS Management Console, SDKs, and CLI to enable governance, compliance, and operational and risk auditing of your AWS account.",
+        "date": "2017-08-17T18:33:09Z",
+        "duration": 57
     },
     {
         "service": "cloudtrail",
         "videoId": "MdBp3BC6NOs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I search for IAM access key activity using the CloudTrail console?",
-        "date": "2019/06/03"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2U4aM8j\nDeren, an AWS Cloud Support Engineer, shows you how to search for IAM access key activity using the CloudTrail console.",
+        "date": "2019-06-03T22:14:28Z",
+        "duration": 86
     },
     {
         "service": "cloudtrail",
         "videoId": "oZ8HswQSbNQ",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Security & Compliance",
+            "SEC403",
+            "Will Kruse - Amazon Web Services",
+            "Expert (400 level)"
+        ],
         "title": "AWS re:Invent 2015 | (SEC403) Diving into AWS CloudTrail Events w/Apache Spark on EMR",
-        "date": "2015/10/12"
+        "description": "Do you want to analyze AWS CloudTrail events within minutes of them arriving in your Amazon S3 bucket? Would you like to learn how to run expressive queries over your CloudTrail logs? We will demonstrate Apache Spark and Apache Spark Streaming as two tools to analyze recent and historical security logs for your accounts. To do so, we will use Amazon Elastic MapReduce (EMR), your logs stored in S3, and Amazon SNS to generate alerts. With these tools at your fingertips, you will be the first to know about security events that require your attention, and you will be able to quickly identify and evaluate the relevant security log entries.",
+        "date": "2015-10-12T23:57:41Z",
+        "duration": 3025
     },
     {
         "service": "cloudtrail",
         "videoId": "sovSF3lsBUA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Why can't I find the user name that created an EBS volume by searching CloudTrail?",
-        "date": "2019/09/25"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2jXqo1u\nLucas and Attalla, AWS Cloud Support Engineers, show you how to find the user name that created an EBS volume by searching CloudTrail.",
+        "date": "2019-09-25T07:59:06Z",
+        "duration": 335
     },
     {
         "service": "cloudtrail",
         "videoId": "kCmMeP1jPbU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS CloudTrail",
+            "CloudTrail Event History",
+            "AWS Management Console",
+            "SDKs",
+            "CLI"
+        ],
         "title": "AWS CloudTrail Event History is Now Available to All Customers",
-        "date": "2017/08/15"
+        "description": "Learn more at AWS CloudTrail http://amzn.to/2wbmR3x.\nAWS CloudTrail Event History is now available to all customers. CloudTrail Event History (formerly known as API Activity History) lets you view, search, and download your recent AWS account activity. This allows you to gain visibility into your account actions taken through the AWS Management Console, SDKs, and CLI to enable governance, compliance, and operational and risk auditing of your AWS account.",
+        "date": "2017-08-15T17:58:59Z",
+        "duration": 90
     },
     {
         "service": "cloudtrail",
@@ -86,43 +245,161 @@
     {
         "service": "cloudtrail",
         "videoId": "5J9zzJZC7CY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "sec",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "security",
+            "enterprise",
+            "DDoS",
+            "Nathan-Dye",
+            "SEC305"
+        ],
         "title": "AWS CloudTrail to Track AWS Resources in Your Account (SEC207) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "Customers using AWS resources such as EC2 instances, EC2 Security Groups and RDS instances would like to track changes made to such resources and who made those changes. In this session, customers will learn about gaining visibility into user activity in their account and aggregating logs across multiple accounts into a single bucket. Customers will also learn about how they can use the user activity logs to meet the logging guidelines/requirements of different compliance standards. AWS Advanced Technology Partners Splunk/Sumologic (exact partners TBD) will demonstrate applications for analyzing user activity within an AWS account.",
+        "date": "2013-11-26T20:33:11Z",
+        "duration": 2497
     },
     {
         "service": "cloudtrail",
         "videoId": "BJprWgompq0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Security",
+            "Advanced",
+            "AWS CloudTrail",
+            "Healthcare & Life Sciences",
+            "Compliance",
+            "AWS Identity and Access Management (IAM)",
+            "Merck & Co.",
+            "Inc.",
+            "Architect",
+            "Technical Decision Maker",
+            "Public Sector",
+            "IT Executive",
+            "Enterprise",
+            "Steve Toback",
+            "Sivakanth Mundru"
+        ],
         "title": "AWS re:Invent 2014 | (SEC306) Turn on CloudTrail: Log API Activity in Your AWS Account",
-        "date": "2014/11/17"
+        "description": "Do you need to know who made an API call? What resources were acted upon in an API call? Do you need to find the source IP address of an API call? AWS CloudTrail helps you answer these questions. In this session we review the basics of CloudTrail and  then dive into CloudTrail features. We demo solutions that you can use to analyze API activity recorded and delivered by CloudTrail. Join us if you are interested in security or compliance and how you can architect, build, and maintain compliant applications on AWS.",
+        "date": "2014-11-18T00:17:35Z",
+        "duration": 2431
     },
     {
         "service": "cloudtrail",
         "videoId": "ZrGa25--j8E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "cross region",
+            "AWS Regions",
+            "Elasticsearch",
+            "Amazon ES",
+            "Kibana",
+            "visualization",
+            "centralized logging",
+            "loggin",
+            "devops",
+            "AWS manage services",
+            "AWS solutions"
+        ],
         "title": "Solving with AWS Solutions: Centralized Logging",
-        "date": "2020/03/20"
+        "description": "The Centralized Logging AWS Solution ( https://tinyurl.com/SolvingwithAWSSolutionsCenLog ) enables organizations to collect, analyze, and display logs on AWS across multiple accounts and AWS Regions. The solution uses Amazon Elasticsearch Service (Amazon ES), a managed service that simplifies the deployment, operation, and scaling of Elasticsearch clusters in the AWS Cloud, as well as Kibana, an analytics and visualization platform that is integrated with Amazon ES. In combination with other AWS managed services, this solution offers customers a customizable, multi-account environment to begin logging and analyzing their AWS environment and applications.\n\nSolution Link: https://tinyurl.com/SolvingwithAWSSolutionsCenLog\n\nLearn more about AWS Solutions by visiting the AWS Solutions portal. https://aws.amazon.com/solution\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-03-20T22:34:25Z",
+        "duration": 365
     },
     {
         "service": "cloudtrail",
         "videoId": "YF2-moQNq-8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - Announcement: CloudTrail Support for Lambda Invoke API Activity",
-        "date": "2017/12/08"
+        "description": "You can now log the execution activity of your AWS Lambda functions with AWS CloudTrail Lambda data events. Previously, you could only log Lambda management events, which provide information on when and by whom a function was created, modified, or deleted. Learn more at - http://amzn.to/2AfR3JG. Now, you can also record Lambda data events and get additional details on when and by whom an Invoke API call was made and which Lambda function was executed. \n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:34:26Z",
+        "duration": 987
     },
     {
         "service": "cloudtrail",
         "videoId": "lX5wDHYBw4s",
+        "tags": [
+            "programming",
+            "aws",
+            "reinvent",
+            "ai",
+            "ml",
+            "developer",
+            "cloud computing",
+            "software",
+            "Aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "reinvent 2019",
+            "aws launchpad"
+        ],
         "title": "AWS re:Invent 2019 Launchpad | Cloudtrail Insights",
-        "date": "2020/03/17"
+        "description": "Subscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #reInvent2019 #AWSLaunchpad",
+        "date": "2020-03-17T20:59:15Z",
+        "duration": 984
     },
     {
         "service": "cloudtrail",
         "videoId": "kNtiskRtfeY",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "SEC339",
+            "Security",
+            "Compliance",
+            "and Identity",
+            "WarnerMedia"
+        ],
         "title": "AWS re:Invent 2019: Actionable threat hunting in AWS (SEC339)",
-        "date": "2019/12/09"
+        "description": "Learn how WarnerMedia leveraged Amazon GuardDuty, AWS CloudTrail, and its own serverless inventory tool (Antiope) to root out cloud vulnerabilities, insecure behavior, and potential account compromise activities across a large number of accounts. We cover how WarnerMedia centralizes and automates its security tooling, offer detailed Splunk queries for GuardDuty and CloudTrail, and discuss how Antiope is used for vulnerability hunting. We cover the scaling issues incurred during a large enterprise merger. Leave this session with a strategy and an actionable set of detections for finding potential data breaches and account compromises.",
+        "date": "2019-12-09T18:45:13Z",
+        "duration": 2099
     },
     {
         "service": "cloudtrail",
         "videoId": "QMBkq6MrT2w",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "SEC205-R2",
+            "Security",
+            "Compliance",
+            "and Identity",
+            "AWS Identity",
+            "Access Management",
+            "Amazon VPC",
+            "AWS KMS"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 2] The fundamentals of AWS cloud security (SEC205-R2)",
-        "date": "2019/12/08"
+        "description": "The services that make up AWS are many and varied, but the set of concepts you need to secure your data and infrastructure is simple and straightforward. By the end of this session, you know the fundamental patterns that you can apply to secure any workload you run in AWS with confidence. We cover the basics of network security, the process of reading and writing access management policies, and data encryption.",
+        "date": "2019-12-08T23:31:02Z",
+        "duration": 3435
     }
 ]

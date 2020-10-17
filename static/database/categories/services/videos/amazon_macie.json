@@ -2,14 +2,38 @@
     {
         "service": "amazon_macie",
         "videoId": "8piwEQJJXdo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon Macie",
+            "Data Protection",
+            "Data Discovery"
+        ],
         "title": "The New Amazon Macie - Demonstration",
-        "date": "2020/09/02"
+        "description": "Amazon Macie is a fully managed data security and privacy service that enables you to easily discover and protect your sensitive data. Learn more about the new Macie and its capabilities through this demonstration.\n\nLearn more about Amazon Macie at - https://amzn.to/2Z1LMUB\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-09-02T23:38:12Z",
+        "duration": 854
     },
     {
         "service": "amazon_macie",
         "videoId": "LCjX2rsQ2wA",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Security",
+            "Compliance",
+            "& Identity",
+            "SID325",
+            "Machine Learning",
+            "Macie"
+        ],
         "title": "AWS re:Invent 2017: Amazon Macie: Data Visibility Powered by Machine Learning (SID325)",
-        "date": "2017/12/01"
+        "description": "AWS re:Invent 2017: Amazon Macie: Data Visibility Powered by Machine Learning for Security and Compliance Workloads (SID325)\n\nIn this session, Edmunds discusses how they create workflows to manage their regulated workloads with Amazon Macie, a newly-released security and compliance management service that leverages machine learning to classify your sensitive data and business-critical information. Amazon Macie uses Recurrent Neural Networks (RNN) to identify and alert potential misuse of intellectual property. They do a deep dive into machine learning within the security ecosystem.",
+        "date": "2017-12-01T17:00:16Z",
+        "duration": 3691
     },
     {
         "service": "amazon_macie",
@@ -20,14 +44,37 @@
     {
         "service": "amazon_macie",
         "videoId": "VwGXXn0RhCM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference 2018"
+        ],
         "title": "Using ML for Security at Scale with Amazon GuardDuty and Amazon Macie",
-        "date": "2018/04/12"
+        "description": "Learn more at - https://amzn.to/2JBIJJD\nMachine Learning has number of practical applications within the field of Information Security. Amazon uses Machine Learning to detect anomalies in AWS account and workload activity with Amazon GuardDuty. Amazon Macie also uses Machine Learning to automatically discover and classify sensitive data. Both of these services are recently released and provide new mechanisms and a new paradigm for customers to protect themselves in the AWS cloud. This talk will cover both services and provide examples of the output of the Machine Learning they use to help customers stay secure at scale on AWS. \n\nSpeaker: \n- Phil Rodrigues, Principal Security Solutions Architect , Amazon Web Services, ANZ",
+        "date": "2018-04-12T19:00:20Z",
+        "duration": 1668
     },
     {
         "service": "amazon_macie",
         "videoId": "UV5vM2zBOp0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "awsreinvent2017",
+            "Amazon",
+            "Macie",
+            "DEM88"
+        ],
         "title": "AWS re:Invent 2017: Applying Intelligent Data Protection with Amazon Macie (DEM88)",
-        "date": "2017/12/14"
+        "description": "Applying Intelligent Data Protection with Amazon Macie",
+        "date": "2017-12-14T23:20:16Z",
+        "duration": 1425
     },
     {
         "service": "amazon_macie",
@@ -38,7 +85,28 @@
     {
         "service": "amazon_macie",
         "videoId": "Awy04VNIFJg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Service Teams",
+            "Automated Reasoning Group",
+            "ARG",
+            "Neha Rungta",
+            "AWS Security Automated Reasoning Group",
+            "AWS Config",
+            "Amazon Macie",
+            "security",
+            "AWS Lambda",
+            "AWS Identity and Access Management (IAM)",
+            "Amazon EC2",
+            "VPC"
+        ],
         "title": "ARG: How AWS Service Teams use Automated Reasoning for Security",
-        "date": "2017/12/12"
+        "description": "Neha from the AWS Security Automated Reasoning Group explains how her team built new rules for AWS Config and Amazon Macie. You'll learn about semantics-based reasoning and formal verification techniques, and how we use these at AWS to improve and automate security, both internally and for customers. Learn more at - http://amzn.to/2z1NSXY.",
+        "date": "2017-12-12T16:49:51Z",
+        "duration": 438
     }
 ]

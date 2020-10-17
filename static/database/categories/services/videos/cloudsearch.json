@@ -2,109 +2,338 @@
     {
         "service": "cloudsearch",
         "videoId": "mdj8RQhqOEg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Amazon CloudSearch",
+            "CloudSearch",
+            "Software Tutorial",
+            "AWS Management Console"
+        ],
         "title": "Getting Started with Amazon CloudSearch",
-        "date": "2012/07/09"
+        "description": "Learn how to create and configure a search domain, upload data, and submit search requests through the AWS Management Console. \n\nFor step-by-step instructions: http://docs.amazonwebservices.com/cloudsearch/latest/developerguide/SvcIntro.html?r=3259\n\nGetting Started tutorial: http://docs.amazonwebservices.com/cloudsearch/latest/developerguide/SvcIntro.html?r=1462 \n\nFor more information about formatting your own data for Amazon CloudSearch, see http://aws.amazon.com/articles/8871401284621700",
+        "date": "2012-07-09T18:35:49Z",
+        "duration": 450
     },
     {
         "service": "cloudsearch",
         "videoId": "gpG16MFnEH8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Getting Started with Amazon CloudSearch: Product Tour Screencast",
-        "date": "2015/04/21"
+        "description": "A quick product tour of Amazon CloudSearch using the IMDB movies data set.",
+        "date": "2015-04-22T01:49:52Z",
+        "duration": 378
     },
     {
         "service": "cloudsearch",
         "videoId": "OeHaj1a66I4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Services Deep Dive",
+            "Expert",
+            "Amazon CloudSearch",
+            "Architect",
+            "Developer",
+            "Jon Handler"
+        ],
         "title": "AWS re:Invent 2014 | (SDD411) Amazon CloudSearch Deep Dive and Best Practices",
-        "date": "2014/11/17"
+        "description": "Amazon CloudSearch is a fully-managed search service in the cloud that lets you quickly and easily set up and use a search solution for your application. The latest version of CloudSearch includes tons of new and advanced search and administrative features. This session covers how to design for high scale at low cost, as well as best practices for handling multiple languages, ranking your search results, securing your CloudSearch domains, achieving cost-effective multi-tenancy, sourcing from many different systems, and getting the most out of your CloudSearch instances.",
+        "date": "2014-11-17T23:26:50Z",
+        "duration": 2709
     },
     {
         "service": "cloudsearch",
         "videoId": "EQYy2hZnR38",
+        "tags": [
+            "Amazon CloudSearch",
+            "CloudSearch",
+            "AWS",
+            "Amazon Web Services",
+            "Amazon EC2",
+            "EC2",
+            "enterprise search",
+            "search",
+            "information retrieval"
+        ],
         "title": "Introduction to Amazon CloudSearch",
-        "date": "2012/04/11"
+        "description": "Amazon CloudSearch is a fully-managed search service that's easy to set up, manage, and automatically scales with the demands of your application or website. This video provides an overview of key Amazon CloudSearch features. You will learn how to get started to create and configure a search domain, upload your data, and submit search requests. \r\n\r\nFor more information go to: http://aws.amazon.com/cloudsearch/",
+        "date": "2012-04-12T05:17:07Z",
+        "duration": 291
     },
     {
         "service": "cloudsearch",
         "videoId": "eOVRt46RwT8",
+        "tags": [
+            "Amazon CloudSearch",
+            "CloudSearch",
+            "AWS",
+            "Amazon Web Services",
+            "Amazon EC2",
+            "EC2",
+            "enterprise search",
+            "search"
+        ],
         "title": "Amazon CloudSearch Overview, a fully managed and highly scalable search service",
-        "date": "2012/04/11"
+        "description": "Amazon CloudSearch is a fully-managed search service that's easy to set up, manage, and automatically scales with the demands of your application or website. This video provides a high-level overview of Amazon CloudSearch features and benefits. \r\n\r\nFor more information go to: http://aws.amazon.com/cloudsearch/",
+        "date": "2012-04-12T05:17:36Z",
+        "duration": 148
     },
     {
         "service": "cloudsearch",
         "videoId": "jYiNmoY088E",
+        "tags": [
+            "Amazon CloudSearch",
+            "CloudSearch",
+            "AWS",
+            "Amazon Web Services",
+            "Amazon EC2",
+            "EC2",
+            "enterprise search",
+            "search",
+            "information retrieval",
+            "free text search",
+            "web search",
+            "search application"
+        ],
         "title": "Building a Search Application Using Amazon CloudSearch",
-        "date": "2012/04/11"
+        "description": "Amazon CloudSearch is a fully-managed search service that's easy to set up, manage, and automatically scales with the demands of your application or website. In this video you will see how to use Amazon CloudSearch to develop a search application, including uploading and indexing a large public data set, setting up index fields, customizing ranking, and embedding search in a sample application. \r\n\r\nFor more information go to: http://aws.amazon.com/cloudsearch/",
+        "date": "2012-04-12T05:17:24Z",
+        "duration": 361
     },
     {
         "service": "cloudsearch",
         "videoId": "f0XkMKXknl4",
+        "tags": [
+            "Amazon CloudSearch",
+            "CloudSearch",
+            "AWS",
+            "EC2",
+            "enterprise search",
+            "search",
+            "information retrieval",
+            "free text search",
+            "web search",
+            "search application",
+            "solr",
+            "lucene"
+        ],
         "title": "Webinar: Introduction to Amazon CloudSearch",
-        "date": "2012/05/15"
+        "description": "See how you can use Amazon CloudSearch to add powerful search capabilities to your website or app without the administrative burdens of operating and scaling a search engine. This webinar will provide details about using CloudSearch, reviews the key components, and will show you how search can be added to applications.\n\nYou will learn how to create an Amazon CloudSearch search domain, upload your data, and submit search requests.\n\nSpeakers:\nPuneet Gupta\nJon Handler\n\nThis recording of the live webinar includes answers to a variety of questions on Amazon CloudSearch from attendees.\n\n\nRecorded on March 10, 2012\n\nFor more details about Amazon CloudSearch please visit: http://aws.amazon.com/cloudsearch",
+        "date": "2012-05-15T23:37:34Z",
+        "duration": 3563
     },
     {
         "service": "cloudsearch",
         "videoId": "eAecJKLnqRk",
+        "tags": [
+            "Amazon CloudSearch",
+            "CloudSearch",
+            "Search service",
+            "Cloud Computing (Industry)",
+            "aws search",
+            "Amazon Web Services (Website)",
+            "search"
+        ],
         "title": "Getting Started with Amazon CloudSearch: Product tour screencast",
-        "date": "2015/02/12"
+        "description": "A quick product tour of Amazon CloudSearch using the IMDB movies data set.",
+        "date": "2015-02-12T17:58:00Z",
+        "duration": 377
     },
     {
         "service": "cloudsearch",
         "videoId": "b5_bJCUffXg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "AWS re: Invent",
+            "re: Invent Conference",
+            "Amazon CloudSearch",
+            "search service",
+            "search engine",
+            "Cloud Search"
+        ],
         "title": "AWS re: Invent SVC 101: Amazon CloudSearch",
-        "date": "2012/12/03"
+        "description": "Amazon CloudSearch is a fully-managed search service in the cloud that allows customers to easily integrate fast and highly scalable search functionality into their applications. In this session, we cover the basics of search and search engines. We take an introductory look at CloudSearch along with a deep dive showing how to build a CloudSearch-based web application.  Learn more:  http://aws.amazon.com/cloudsearch/",
+        "date": "2012-12-04T00:55:19Z",
+        "duration": 2187
     },
     {
         "service": "cloudsearch",
         "videoId": "DAr-9swjlcU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Amazon CloudSearch",
+            "cloud search",
+            "search",
+            "enterprise search",
+            "ranking",
+            "relevance"
+        ],
         "title": "Webinar: Get The Most From Your Search Results with Amazon CloudSearch",
-        "date": "2012/12/19"
+        "description": "This webinar describes how to deliver better results for your search applications using Amazon CloudSearch. You will learn how to:\n- use facets to deliver a better user experience\n- personalize search results by tailoring ranking for each search request\n- use relative field weighting to boost results\n\nYou will see how Amazon CloudSearch can help you rapidly iterate and test changes for your search results - without having to rebuild your index. For more information go to: http://aws.amazon.com/cloudsearch/",
+        "date": "2012-12-19T16:50:28Z",
+        "duration": 3601
     },
     {
         "service": "cloudsearch",
         "videoId": "ddq2uLlrJGE",
+        "tags": [
+            "Amazon CloudSearch",
+            "CloudSearch",
+            "AWS",
+            "Amazon Web Services",
+            "EC2",
+            "enterprise"
+        ],
         "title": "Building Better Search For Wikipedia: How We Did It Using Amazon CloudSearch",
-        "date": "2012/08/15"
+        "description": "View this webinar to learn how Paul Nelson, CTO and search guru at Search Technologies, implemented improved search capabilities for Wikipedia using Amazon CloudSearch, a fully-managed search service in the AWS cloud. See how Wikipedia search can now deliver a richer experience that includes faceted navigation, better and more relevant results, and an improved user interface. Topics that will be discussed include data acquisition and clean-up, indexing, handling queries, relevance ranking, and building the search user interface.\n\nFor more information please see: http://aws.amazon.com/cloudsearch/",
+        "date": "2012-08-15T21:08:25Z",
+        "duration": 3607
     },
     {
         "service": "cloudsearch",
         "videoId": "7iX35TaKFOs",
+        "tags": [
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS",
+            "CloudSearch",
+            "search",
+            "SDF"
+        ],
         "title": "Generating SDF for Amazon CloudSearch",
-        "date": "2013/06/24"
+        "description": "Learn how to represent your data in the Amazon CloudSearch Search Data Format (SDF) and upload SDF batches to a search domain. For more information about formatting your data in SDF, search the AWS website with this: articles/8871401284621700",
+        "date": "2013-06-24T17:59:50Z",
+        "duration": 452
     },
     {
         "service": "cloudsearch",
         "videoId": "YlZsckQ7Flo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing"
+        ],
         "title": "AWS Webcast - Building Location-Based Search With Amazon CloudSearch",
-        "date": "2013/06/18"
+        "description": "No description available.",
+        "date": "2013-06-19T02:10:20Z",
+        "duration": 1939
     },
     {
         "service": "cloudsearch",
         "videoId": "cLB60zDqKMw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "web-apps",
+            "startups",
+            "CloudSearch",
+            "Amazon CloudSearch",
+            "s3",
+            "NoSQL",
+            "Peter-Simpkin",
+            "SVC302",
+            "svc"
+        ],
         "title": "Enrich Search User Experience Using Amazon CloudSearch (SVC302) | AWS re:Invent 2013",
-        "date": "2013/11/25"
+        "description": "Today's applications work across many different data assets - documents stored in Amazon S3, metadata stored in NoSQL data stores, catalogs and orders stored in relational database systems, raw files in filesystems, etc.  Building a great search experience across all these disparate datasets and contexts can be daunting. Amazon CloudSearch provides simple, low-cost search, enabling your users to find the information they are looking for. In this session, we will show you how to integrate search with your application, including key areas such as data preparation, domain creation and configuration, data upload, integration of search UI, search performance and relevance tuning. We will cover search applications that are deployed for both desktop and mobile devices.",
+        "date": "2013-11-26T02:47:54Z",
+        "duration": 3713
     },
     {
         "service": "cloudsearch",
         "videoId": "QEVpENfRlr0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "CloudSearch"
+        ],
         "title": "AWS Webcast - Getting Started With CloudSearch: Add Powerful Search To Your Web Application",
-        "date": "2013/04/21"
+        "description": " ",
+        "date": "2013-04-22T03:44:04Z",
+        "duration": 3464
     },
     {
         "service": "cloudsearch",
         "videoId": "sQyMS2vKi_E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "CloudSearch",
+            "rank expressions",
+            "ranking",
+            "search",
+            "enterprise search",
+            "elastic search",
+            "Solr",
+            "EC2",
+            "S3"
+        ],
         "title": "Improving Search Results By Comparing Rank Expressions",
-        "date": "2012/12/18"
+        "description": "This tutorial steps you through the creation of CloudSearch rank expressions, and how can tune your rank expressions  and see the change in result ranking side-by-side. You will will learn how to use changes in rank expressions to push some results to the top, and move others to the bottom. Learn more: http://aws.amazon.com/cloudsearch/",
+        "date": "2012-12-18T20:53:39Z",
+        "duration": 423
     },
     {
         "service": "cloudsearch",
         "videoId": "w3HqmjCuats",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "social",
+            "mobile",
+            "apps",
+            "CloudSearch"
+        ],
         "title": "Delivering Search for Today's Local, Social, and Mobile Applications",
-        "date": "2013/05/04"
+        "description": "Search is a crucial component of local, social, and mobile web applications. This session will provide an overview of Amazon CloudSearch -- a fully managed search service that scales with data & traffic. We'll show how to design, build, deploy a search solution, and tune it for best results. You will hear from customers that quickly integrated CloudSearch into their applications to deliver powerful search capabilities.",
+        "date": "2013-05-04T20:21:37Z",
+        "duration": 3654
     },
     {
         "service": "cloudsearch",
         "videoId": "TQ96Rrys4Ks",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "WordPress (Software)",
+            "wordpress search",
+            "AWS search",
+            "cloudsearch",
+            "Jon Handler"
+        ],
         "title": "AWS Webinar: Delivering Great Search For Your WordPress Content",
-        "date": "2013/09/24"
+        "description": "Want to offer your users more accurate search results for your WordPress websites and content? We will show you how to install and set up the Lift WordPress plugin for Amazon CloudSearch to improve your default WordPress search functionality. You will learn how to get better search relevancy, with faceting and search filters for post types and date ranges. Lift integrates with your existing Wordpress theme, with no need for customization, and runs on top of your WordPress installation with no additional servers, services or hosting configuration required. Customer examples will be provided. Best for:  Developers, Solution Architects, IT Directors and Development Leaders, WordPress and search developers, admins, and managers. Presenters: Chris Scott, Voce Communications, Jon Handler, Solution Architect, Amazon CloudSearch",
+        "date": "2013-09-24T22:38:22Z",
+        "duration": 3075
     }
 ]

@@ -2,31 +2,102 @@
     {
         "service": "worklink",
         "videoId": "Si2q7rhinMo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "worklink",
+            "end user computing",
+            "EUC",
+            "mobility",
+            "end user mobility",
+            "work",
+            "VPN",
+            "MDM",
+            "EMM",
+            "internal access",
+            "content"
+        ],
         "title": "Amazon WorkLink",
-        "date": "2019/01/24"
+        "description": "Amazon WorkLink is a fully managed service that provides your employees with secure, one-click access to your internal corporate websites and web apps using their mobile phones. Visit - https://amzn.to/2R8Ut8O to learn more.",
+        "date": "2019-01-24T17:32:28Z",
+        "duration": 83
     },
     {
         "service": "worklink",
         "videoId": "6l6HaUNYSOI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Introducing Amazon WorkLink",
-        "date": "2019/02/12"
+        "description": "Discover how you can use Amazon WorkLink to help your employees get work done on the go. Amazon WorkLink delivers secure and convenient access to internal corporate web content from mobile devices without any hassle. During this live session, you will hear from Amazon Service leaders and from some of your peers, who were the first to try out this new service.\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-02-12T19:15:56Z",
+        "duration": 4808
     },
     {
         "service": "worklink",
         "videoId": "uTAwXHQU3gA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "MDM",
+            "mobile security",
+            "mobile device management",
+            "secure phone"
+        ],
         "title": "Learn about Amazon WorkLink with Jeff Barr",
-        "date": "2019/04/12"
+        "description": "Learn more about Amazon WorkLink at – https://amzn.to/2TSNmms \nJoin Muneer Mirza, General Manager of Amazon WorkLink, and Jeff Barr to learn about Amazon WorkLink: a new way to provide secure mobile access to your internal websites and web apps.",
+        "date": "2019-04-12T16:00:09Z",
+        "duration": 641
     },
     {
         "service": "worklink",
         "videoId": "vansN5WHHTY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "workspaces",
+            "cloud desktop",
+            "vdi",
+            "virtual desktop infrastructure",
+            "daas",
+            "desktop-as-a-service",
+            "euc",
+            "end user computing"
+        ],
         "title": "Dive into Amazon WorkSpaces with Jeff Barr",
-        "date": "2019/04/12"
+        "description": "Learn more about Amazon WorkSpaces at – https://amzn.to/2X5mQZ8 \nJoin Nathan Thomas, General Manager of Amazon WorkLink, and Jeff Barr to dive into Amazon WorkSpaces: a managed, secure cloud desktop service",
+        "date": "2019-04-12T16:00:12Z",
+        "duration": 1391
     },
     {
         "service": "worklink",
         "videoId": "aLtfnK2XrXU",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "EUC210-L",
+            "End User Computing",
+            "Business Apps",
+            "GE Renewable Energy",
+            "Johnson & Johnson"
+        ],
         "title": "AWS re:Invent 2019: Leadership session: End-user computing (EUC210-L)",
-        "date": "2019/12/04"
+        "description": "In this session, Nathan Thomas, GM of Amazon WorkSpaces, and Muneer Mirza, GM of Amazon AppStream 2.0 and Amazon WorkLink, share our vision for end-user computing at AWS. We show how the world's largest companies are deploying global solutions for their users, and dive into recent feature updates.",
+        "date": "2019-12-04T17:43:55Z",
+        "duration": 3799
     }
 ]

@@ -2,91 +2,273 @@
     {
         "service": "freertos",
         "videoId": "vge8RKkAI1Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "freertos riscv amazon-freertos embeddedsoftware iot"
+        ],
         "title": "Opening the IoT with FreeRTOS",
-        "date": "2019/10/31"
+        "description": "Learn more about AWS at - https://amzn.to/324QkZc.\nThe open source FreeRTOS kernel has been helping embedded developers manage the complexity of their MCU designs for 15 years, during which time FreeRTOS has gained a reputation for reliability, ease of use, and responsive support. AWS provides stewardship over the FreeRTOS kernel and makes continuous investments in its functionality and community. Most recently, the FreeRTOS kernel was updated to use an MIT license, extended with MIT-licensed security and connectivity libraries, and contributed support for the open RISC-V instruction set architecture (ISA).\n\nRichard Elberger dives deep into how additions to the MIT-licensed FreeRTOS ecosystem help MCU device developers overcome the new security and connectivity challenges presented when connecting small microcontrollers to the IoT.",
+        "date": "2019-10-31T18:27:58Z",
+        "duration": 2079
     },
     {
         "service": "freertos",
         "videoId": "aeP0A67eNEg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon FreeRTOS",
+            "AWS Greengrass",
+            "microcontrollers"
+        ],
         "title": "What is Amazon FreeRTOS?",
-        "date": "2017/11/29"
+        "description": "Learn more about Amazon FreeRTOS at - http://amzn.to/2AGon0t.\nAmazon FreeRTOS is an IoT operating system for microcontrollers that makes small, low-power edge devices easy to program, deploy, secure, connect, and manage. Amazon FreeRTOS is based on the FreeRTOS kernel, a popular open source operating system for microcontrollers, and extends it with software libraries that make it easy to securely connect your small, low-power devices to AWS cloud services like AWS IoT Core or to more powerful edge devices running AWS Greengrass.",
+        "date": "2017-11-29T23:55:59Z",
+        "duration": 99
     },
     {
         "service": "freertos",
         "videoId": "7fNFKYAuHls",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "IoT",
+            "IOT208-R1",
+            "Amazon FreeRTOS"
+        ],
         "title": "AWS re:Invent 2018: Amazon FreeRTOS: IoT Operating System for Microcontrollers (IOT208-R1)",
-        "date": "2018/11/29"
+        "description": "In this presentation, we take a deeper look at Amazon FreeRTOS. As OEMs work to squeeze more functionality onto cheaper and smaller IoT devices, they face a series of challenges in development and operations that results in security vulnerabilities, inefficient code, compatibility issues, and unclear licensing. With Amazon FreeRTOS, it is now easier to build, deploy, and update connected microcontroller-based devices quickly and economically, while retaining confidence that the devices are secure. Also, learn how Pentair, a leading water treatment company, is developing an IoT solution with the help of Amazon FreeRTOS and Espressif Systems, a hardware partner. Complete Title: AWS re:Invent 2018: [REPEAT 1] Amazon FreeRTOS: IoT Operating System for Microcontrollers (IOT208-R1)",
+        "date": "2018-11-29T18:25:44Z",
+        "duration": 3975
     },
     {
         "service": "freertos",
         "videoId": "a0MQ0LQ7OrY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Inforce",
+            "AWS re:Inforce 2019",
+            "security",
+            "identity",
+            "compliance",
+            "cloud security",
+            "AWS security",
+            "cloud security community",
+            "learning conference",
+            "Detective Controls",
+            "Infrastructure Security",
+            "Data Protection",
+            "Incident Response",
+            "Governance",
+            "Risk",
+            "Compliance",
+            "security best practices",
+            "The Foundation",
+            "AWS re:Inforce 2019 Sessions",
+            "Session",
+            "FND212",
+            "Dan Griffin",
+            "200 - Intermediate"
+        ],
         "title": "AWS re:Inforce 2019: Amazon FreeRTOS Security Best Practices (FND212)",
-        "date": "2019/06/26"
+        "description": "Amazon FreeRTOS is an open-source operating system for cloud-connected embedded devices. As customers start working on embedded Internet of Things projects, they ask AWS for security best practices. In this session, we discuss provisioning, device authentication and authorization, secure software updates, and monitoring. Finally, we show these lifecycle considerations in context by demonstrating an over-the-air firmware update to an embedded developer board, highlighting the many security-relevant steps in the workflow.",
+        "date": "2019-06-26T12:37:44Z",
+        "duration": 2836
     },
     {
         "service": "freertos",
         "videoId": "yYzOuyWH_ks",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Free RTOS"
+        ],
         "title": "IoT All the Things | S2 Ep2 | Tiny Hardware, Big Cloud: Set Yourself Free[RTOS]",
-        "date": "2020/05/04"
+        "description": "This episode, our hosts are joined by guest Dan Griffin, Sr. Software Development Engineer, to show how you can start with a single device using Amazon FreeRTOS! We dive deep into automation and your production environments using Lambda, Device Defender and other features of the AWS Cloud. Even on small hardware, security, operations, and application best practices are at your fingertips. #iotallthethings\n\nFind all resources shared in this episode below:\n* AWS Training: https://www.aws.training/Details/Video?id=16652\n* LTS roadmap: https://www.freertos.org/ltsroadmap.html\n* Discover qualified hardware and devices: devices.amazonaws.com https://devices.amazonaws.com/search?page=1&sv=freertos\n* AWS Well-Architected: https://aws.amazon.com/architecture/well-architected/\n* Course Descriptions: https://aws.amazon.com/training/course-descriptions/architect/\n* Qualifying boards for FreeRTOS: https://docs.aws.amazon.com/freertos/latest/qualificationguide/freertos-qualification.html\n* Free(RTOS) Getting Started: https://docs.aws.amazon.com/freertos/latest/userguide/getting_started_st.html\n* Amazon Key for Business story: https://www.youtube.com/watch?v=1Pxe5Gasta0\n* The simulator: https://freertos.org/FreeRTOS-Windows-Simulator-Emulator-for-Visual-Studio-and-Eclipse-MingW.html\n\n~Filmed prior to COVID-19~\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-05-04T18:09:51Z",
+        "duration": 2513
     },
     {
         "service": "freertos",
         "videoId": "RFP_1HoR4aU",
+        "tags": [
+            "re:Invent 2017",
+            "keynote",
+            "Andy Jassy",
+            "Amazon FreeRTOS",
+            "FreeRTOS",
+            "cloud",
+            "cloud computing",
+            "AWS cloud",
+            "AWS",
+            "Amazon Web Services",
+            "open source",
+            "microcontrollers"
+        ],
         "title": "AWS re:Invent 2017 - Introducing Amazon FreeRTOS",
-        "date": "2017/12/05"
+        "description": "Learn more and get started with Amazon FreeRTOS at - http://amzn.to/2igKcIT\nFreeRTOS is an IoT operating system for microcontrollers that makes small, low-power edge devices easy to program, deploy, secure, connect, and maintain. Amazon FreeRTOS is open source and there is no charge to use it.",
+        "date": "2017-12-06T00:17:53Z",
+        "duration": 226
     },
     {
         "service": "freertos",
         "videoId": "Omj324zSHko",
+        "tags": [
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "IoT",
+            "DEM125",
+            "Amazon FreeRTOS",
+            "AWS IoT Core"
+        ],
         "title": "AWS re:Invent 2018: Use Bluetooth Low Energy (BLE) to Connect Amazon FreeRTOS devices (DEM125)",
-        "date": "2018/12/13"
+        "description": "Bluetooth Low Energy (BLE) enables local connectivity for Amazon FreeRTOS devices at a fraction of the power budget required by WiFi, with up to 90% savings. Amazon FreeRTOS support for BLE enables developers to securely connect to the AWS Cloud through Android and iOS devices and consume AWS IoT Core services, such as Over-The-Air (OTA) firmware updates. Come see Amazon FreeRTOS in action.",
+        "date": "2018-12-13T16:44:03Z",
+        "duration": 863
     },
     {
         "service": "freertos",
         "videoId": "iKXzcRnIvWA",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "IoT",
+            "IOT213",
+            "AWS Greengrass"
+        ],
         "title": "AWS re:Invent 2018: Computing at the Edge with AWS Greengrass & Amazon FreeRTOS, ft. Enel (IOT213)",
-        "date": "2018/11/28"
+        "description": "Edge computing is all about moving compute power to the source of the data instead of having to bring it to the cloud. The edge is a fundamental part of IoT, and it is not only about connecting things to the internet. In this sesssion, we discuss how AWS Greengrass, which is an IoT edge software, can power devices small and large, from a sensor all the way to a wind turbine. With AWS Greengrass, these IoT devices can securely gather data, keep device data in sync, and communicate with each other while still using the cloud for management, analytics, and durable storage. Join us to learn more about the edge of IoT.",
+        "date": "2018-11-28T18:22:31Z",
+        "duration": 3285
     },
     {
         "service": "freertos",
         "videoId": "7lw9ySOsuzk",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "IoT",
+            "IOT403",
+            "Connect",
+            "Security"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! AWS Greengrass and Amazon FreeRTOS... Integrating th (IOT403)",
-        "date": "2017/12/01"
+        "description": "This is a 400 level session that will discuss how customers can use Amazon FreeRTOS on microcontrollers with Greengrass at the edge. It will walk through connecting your devices running Amazon FreeRTOS, how to connect devices to Greengrass, and how these two services can work together to solve customer use cases. We will also cover security best practices for key management and TLS implementation across Amazon FreeRTOS and Greengrass.",
+        "date": "2017-12-01T16:42:20Z",
+        "duration": 3793
     },
     {
         "service": "freertos",
         "videoId": "DF0PayBKhAQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - Amazon FreeRTOS",
-        "date": "2017/12/08"
+        "description": "Amazon FreeRTOS is an IoT operating system for microcontrollers that makes small, low-power edge devices easy to program, deploy, secure, connect, and maintain. Learn more at - http://amzn.to/2nSm6tx. Amazon FreeRTOS provides the core operating system as well as software libraries that make it easy to program connected microcontroller-based devices and collect data from them for IoT applications. Amazon FreeRTOS is free of charge, open source, and available to all today. \n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:31:50Z",
+        "duration": 1063
     },
     {
         "service": "freertos",
         "videoId": "PerMQkl1QkE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2017",
+            "Amazon",
+            "IoT",
+            "IOT212",
+            "Connect",
+            "AWS Greengrass"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Amazon FreeRTOS: IoT Operating System for Microcontr (IOT212)",
-        "date": "2017/12/02"
+        "description": "In this presentation, we will take a deeper look at the newly announced Amazon FreeRTOS. Amazon FreeRTOS (a:FreeRTOS) is an operating system for microcontrollers that makes small, low-power edge devices easy to program, deploy, secure, connect, and manage. Amazon FreeRTOS is based on the FreeRTOS kernel, a popular open source operating system for microcontrollers, and extends it with software libraries that make it easy to securely connect your small, low-power devices to AWS cloud services like AWS IoT Core or to more powerful edge devices and gateways running AWS Greengrass.",
+        "date": "2017-12-03T01:45:34Z",
+        "duration": 2887
     },
     {
         "service": "freertos",
         "videoId": "J8DIbV-I3fk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "IoT All The Things | S1 E2 – Going to the Edge of the Edge with Amazon FreeRTOS",
-        "date": "2019/04/17"
+        "description": "In this episode, we go to the edge of the edge by diving into microcontrollers (MCUs) and Amazon FreeRTOS. How can constrained devices talk directly to the cloud? And how can MCUs use Amazon FreeRTOS to facilitate different types of communications over Bluetooth Low Energy, Wifi, and NB-IoT? We are joined by Gennadiy Borisov and Andrew Mazur from Klika-Tech who will help us dive into the answers to these questions through several hardware demonstrations and discussion. Get ready to IoT all the things in the world of embedded systems and IoT software and services.\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-04-17T17:03:38Z",
+        "duration": 3406
     },
     {
         "service": "freertos",
         "videoId": "MXEBjUZtT8Y",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "IoT",
+            "IOT206",
+            "AWS Greengrass"
+        ],
         "title": "AWS re:Invent 2018: Computing at the Edge with AWS Greengrass & Amazon FreeRTOS (IOT206)",
-        "date": "2018/12/01"
+        "description": "Edge computing is all about moving compute power to the source of the data instead of having to bring it to the cloud. The edge is a fundamental part of IoT, and it is not only about connecting things to the internet. In this sesssion, we discuss how AWS Greengrass, which is an IoT edge software, can power devices small and large, from a sensor all the way to a wind turbine. With AWS Greengrass, these IoT devices can securely gather data, keep device data in sync, and communicate with each other while still using the cloud for management, analytics, and durable storage. Join us to learn more about the edge of IoT. Complete Title: AWS re:Invent 2018: Computing at the Edge with AWS Greengrass & Amazon FreeRTOS, ft. General Electric (IOT206)",
+        "date": "2018-12-01T21:29:43Z",
+        "duration": 1993
     },
     {
         "service": "freertos",
         "videoId": "1Pxe5Gasta0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "IoT All The Things | S1 E3 – Connecting Buildings to New Opportunities with IoT",
-        "date": "2019/05/09"
+        "description": "In this episode, we discuss how you can build IoT applications for connected buildings using Amazon Web Services IoT services such as IoT Core and Amazon FreeRTOS. We are also joined by a special guest from Amazon Key for Business who will discuss how IoT helped them overcome delivery driver accessibility to apartments and condos when the reception is closed or not available. AWS IoT enables Amazon delivery drivers to now make deliveries with greater ease.\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-05-09T17:49:49Z",
+        "duration": 2669
     },
     {
         "service": "freertos",
         "videoId": "PI3ZwRo4_JU",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "IOT214",
+            "IoT"
+        ],
         "title": "AWS re:Invent 2019: What's new with AWS IoT Device Software? (IOT214)",
-        "date": "2020/01/15"
+        "description": "AWS IoT device software enables you to connect your IoT devices and operate them at the edge. In this session, you’ll learn what’s new with AWS IoT device software including Amazon FreeRTOS, AWS IoT Greengrass, and AWS IoT Device Tester. You will leave this session ready to connect, manage, and update your IoT devices with AWS IoT.",
+        "date": "2020-01-15T18:58:21Z",
+        "duration": 3169
     }
 ]

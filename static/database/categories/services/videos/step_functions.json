@@ -2,151 +2,532 @@
     {
         "service": "step_functions",
         "videoId": "c797gM0f_Pc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Building Business Workflows with AWS Step Functions",
-        "date": "2019/02/01"
+        "description": "With AWS Step Functions you can build workflows to coordinate applications from single AWS Lambda functions up through complex multi-step workflows. Step Functions can help developers greatly reduce the code they need to maintain by providing a standardized way to handle failures, retries, parallelization, and basic decision tree logic. As of AWS re:Invent 2018 you can also create workflows without any custom code, leveraging new capabilities of Step Functions to interface directly with AWS services such as Amazon DynamoDB, Amazon SNS, and Glue. In this session join expert guest Chris Munns, Principal Developer Advocate of Serverless Applications, and walk through the capabilities of Step Functions and how it can help simplify and improve your application development.\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-02-01T19:47:47Z",
+        "duration": 2105
     },
     {
         "service": "step_functions",
         "videoId": "wFAjRUyuzik",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Step Functions",
-        "date": "2019/05/24"
+        "description": "https://aws.amazon.com/developer/community/twitch/\nMissed the AWS Sydney Summit 2019? Learn how cloud technology can help your business lower costs, improve efficiency, and innovate at scale. This session is a recording from Summit Day 2.",
+        "date": "2019-05-24T16:18:22Z",
+        "duration": 765
     },
     {
         "service": "step_functions",
         "videoId": "hLRL1ik5Nk0",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Application Integration",
+            "API302",
+            "AWS Step Functions"
+        ],
         "title": "AWS re:Invent 2018: Serverless State Management & Orchestration for Modern Apps (API302)",
-        "date": "2018/11/28"
+        "description": "Keeping track of state and orchestrating the components of a distributed application is complex. AWS Step Functions makes the job simpler, faster, and more intuitive. In this session, learn how to leverage AWS Step Functions to design and run workflows for your serverless, containerized, and instance-based architectures. We explore practical applications of orchestration spanning different industries and workloads. For each, we walk through the architecture, lessons learned, and business outcomes. Expect to leave this session with a practical understanding of how to use orchestration to express your application’s business logic more productively while improving its resilience.",
+        "date": "2018-11-28T18:43:03Z",
+        "duration": 2871
     },
     {
         "service": "step_functions",
         "videoId": "co4_t2gN1T8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "geospatial",
+            "datalake",
+            "AWS Lambda",
+            "AWS Step Functions",
+            "Amazon Simple Notification Service (SNS)",
+            "Amazon DynamoDB",
+            "Amazon API Gateway",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "AC3: Multi-stage Geospatial Data Lake with Step Functions (LIVE)",
-        "date": "2019/09/03"
+        "description": "Hear about how AC3 helped their customer to build one of the worlds first geospatial data lakes for their customer - NSW Department of Financial Services and Innovation – Spatial Services. This solution takes GeoTIFF files from surveyors and converts them into a descriptive XML based file format, which is stored in the Amazon S3 data lake along with meta data stored in Amazon DynamoDB, with AWS Lambda and AWS Step Functions to orchestrate the process. This solution has decreased the turnaround time by 2 days, and is enabling the Spatial Services department to process a bak catalogue of 170 years worth of documents.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-09-03T13:32:25Z",
+        "duration": 335
     },
     {
         "service": "step_functions",
         "videoId": "rlQHN1D9lpA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Step Functions",
+            "AWS Lambda",
+            "Amazon Simple Queue Service (SQS)"
+        ],
         "title": "Zapproved: Automating Data Processing with Step Functions on AWS",
-        "date": "2017/10/11"
+        "description": "On this episode of \"This is My Architecture\", Lee from Zapproved demonstrates how they use Step Functions, Lambda, and SQS to automate data processing. Learn more at - http://amzn.to/2yALIQ9.",
+        "date": "2017-10-11T16:20:33Z",
+        "duration": 279
     },
     {
         "service": "step_functions",
         "videoId": "pAnZPKJ9EFY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "paesslerAG",
+            "cainde9",
+            "StepFunctions",
+            "TMA Munich",
+            "AWS Step Functions",
+            "Amazon API Gateway",
+            "Amazon DynamoDB",
+            "Amazon EC2",
+            "Amazon Simple Notification Service (SNS)",
+            "AWS CloudFormation",
+            "Amazon VPC",
+            "AWS Lambda",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Paessler AG: VPC Mass Creation with Lambda and Step Functions",
-        "date": "2019/01/09"
+        "description": "Learn more about This Is My Architecture at - https://amzn.to/2CaO5Zf.\nLearn about how Paessler AG uses Step Functions to create hundreds of VPC's. Paessler AG configures and instantiates VPC's in order to run its PRTG Network Monitoring product. In this episode, you'll see how Paessler AG uses Lambda and Step Functions to conduct and monitor VPC mass creation.\n\nHost: Peter Tilsen, Solutions Architect, AWS\nCustomer: Greg Campion, Systems Admin, Paessler AG\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-01-09T20:49:46Z",
+        "duration": 273
     },
     {
         "service": "step_functions",
         "videoId": "mQBGsdWplBs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon CloudWatch",
+            "Amazon EC2 Spot Instances",
+            "Amazon Elastic Container Service (ECS)",
+            "Amazon Simple Storage Service (S3)",
+            "AWS Step Functions",
+            "AWS Lambda",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Frame.io: High Scale Cost Effective Video Encoding with EC2 Spot and Step Functions",
-        "date": "2018/11/30"
+        "description": "On the next This Is My Architecture - https://amzn.to/2AB7QbN, Frame.io, shows-off their encoding pipeline and how it provides encoding at scale. You'll learn how Frame.io solution leverages Step Functions, S3, Lambda, Cloudwatch, ECS and EC2 Spot. We'll also cover they leverage Spot market to ensure that they always have low cost capacity available to encode any number of videos, including error handling, retries and security.\n\nHost: Liam Morrison, Principal Solutions Architect, AWS\nCustomer: Billy Shambrook, Site Reliability Engineer, Frame.io\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2018-11-30T16:22:17Z",
+        "duration": 400
     },
     {
         "service": "step_functions",
         "videoId": "CFelZoLjF50",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Step Functions",
+            "Microservices",
+            "Monolith",
+            "State Machine",
+            "cloud native",
+            "image processing",
+            "rekognition",
+            "lambda",
+            "aws",
+            "serverless",
+            "Twitch",
+            "ngela Wang",
+            "Ronald Widha Sunarno"
+        ],
         "title": "Build on Serverless | Breaking the Monolith with Step Functions",
-        "date": "2018/08/02"
+        "description": "Join our Solutions Architect Angela Wang and Ronald Widha Sunarno, as they  break a monolithic image processing application into multiple functions  and show some secret sauce as to how to address the communication  challenge between microservices.\n\nLearn More about Serverless: \nhttps://aws.amazon.com/serverless/\n\nWatch past Build on Serverless broadcasts: \nhttps://aws.amazon.com/developer/community/twitch/recordings\n\nSee the upcoming Build on Serverless Schedule: \nhttps://aws.amazon.com/developer/community/twitch/\n\nJoin the Serverless conversation on Slack: \nhttps://awssamopensource.splashthat.com/\n\nGet an overview of the Serverless Applications Lens: \nhttps://d1.awsstatic.com/whitepapers/architecture/AWS-Serverless-Applications-Lens.pdf\n\nLearn more about AWS Step Functions:\n https://amzn.to/2LMjCsc\n\nRSVP for future Build on Serverless episodes: \nhttps://www.twitch.tv/events/umX-DTI8Q3qWl0pXKgxhUw",
+        "date": "2018-08-02T22:18:54Z",
+        "duration": 7135
     },
     {
         "service": "step_functions",
         "videoId": "JGMUeybF4Qw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Step Functions",
+            "startups",
+            "serverless",
+            "EC2/ECS"
+        ],
         "title": "Segment on EC2/ECS Operations Magic with Step Functions",
-        "date": "2018/04/27"
+        "description": "Learn more about AWS Startups at - https://amzn.to/2HyfUwf.\nSegment provides a service used by businesses to collect customer data in a single hub for later use in analytics, marketing, and for other purposes. Listen as Michael Fischer, lead site reliability engineer at Segment, gives a startup talk on \"EC2/ECS Operations Magic with Step Functions\".",
+        "date": "2018-04-27T17:45:09Z",
+        "duration": 1544
     },
     {
         "service": "step_functions",
         "videoId": "gva4dtn8iKM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "SSM",
+            "gamestop",
+            "Amazon EC2",
+            "Amazon Simple Notification Service (SNS)",
+            "AWS Lambda",
+            "AWS Step Functions",
+            "AWS Systems Manager",
+            "Amazon EC2 Windows",
+            "PowerShell",
+            "This is My Code",
+            "TMC"
+        ],
         "title": "GameStop: Creating an Automated AMI Factory with AWS Step Functions",
-        "date": "2019/03/04"
+        "description": "On this episode of This Is My Code -  https://amzn.to/2UsJ5Ha, Hampton from GameStop walks us through the automation documents that they use with AWS Step Functions to automate the creation, configuration, and testing of Amazon EC2 Windows AMIs. They combine Amazon SNS, AWS Lambda, Step Functions, and AWS Systems Manager with a pinch of PowerShell to create an AMI factory that speeds up their deployments while also making them more reliable. To find the code seen in this video go to: https://github.com/GameStopCorp/AMIFactory\n\nHost: Matt Yanchyshyn, Director, Solutions Architecture, AWS\nCustomer: Hampton Reese, Advanced Cloud Engineer, GameStop\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-03-04T21:19:06Z",
+        "duration": 460
     },
     {
         "service": "step_functions",
         "videoId": "MGvqRowfkVI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit Singapore 2018"
+        ],
         "title": "AWS Summit Singapore - Lambda, Step Functions and Datadog: A Symphony",
-        "date": "2018/05/22"
+        "description": "OK, you have built your first Lambda function. It may even be useful (and not just a thumbnail generator). But an application is more than just a single function; you need a lot of them. How do you get your functions working together? How do you know each function is performing well and how do you ensure that they improve over time. In this session I’ll make sure you are on the right track with AWS Lambda, get you started with Step Functions, and help you get the most out of your functions with a little monitoring.\n\nSpeaker\n- Alex Poe, Solutions Engineer Team Lead, Datadog",
+        "date": "2018-05-22T20:20:20Z",
+        "duration": 1634
     },
     {
         "service": "step_functions",
         "videoId": "1sPAEU6-gQo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Orchestrate ML Workflows in Amazon SageMaker & AWS Step Functions",
-        "date": "2018/11/30"
+        "description": "oin us as we talk about the newly announced features for orchestrating machine learning workflows with Amazon SageMaker and AWS Step Functions. SageMaker enables you to build, train, and deploy machine learning models quickly and easily and at scale. With Step Functions, you can add resilient server less workflows to your applications. Workflows on Step Functions require less code to write and maintain. What if we were to combine the best of SageMaker and Step Functions. Yes, you can now use Step Functions to automate and orchestrate ML workflows with SageMaker in an end-to-end workflow. Step Functions will monitor SageMaker jobs in a seamless experience. Learn more: https://aws.amazon.com/blogs/machine-learning/new-features-for-amazon-sagemaker-workflows-algorithms-and-accreditation/ Continuing on the journey of making it easy for developers, we will also talk about the newly announced SageMaker Search that is available now in beta. With SageMaker Search, you can quickly find and evaluate model training runs from thousands of your model training jobs quickly and easily. Lastly, we will talk about the ability to associate any self hosted Git repository with Amazon SageMaker Notebook instances, making it easy to setup your notebook instances to work with Git repositories. \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:30:23Z",
+        "duration": 1173
     },
     {
         "service": "step_functions",
         "videoId": "ICEhR3mshyg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "nib health funds",
+            "AWS Step Functions",
+            "Amazon Simple Email Service (SES)",
+            "Amazon API Gateway",
+            "AWS Identity and Access Management (IAM)",
+            "AWS Lambda",
+            "Amazon Data Pipeline",
+            "Amazon CloudWatch",
+            "AWS CloudTrail",
+            "AWS Key Management Service",
+            "(KMS)",
+            "Amazon EC2"
+        ],
         "title": "nib health funds: Building an Auditable Access Pipeline with Step Functions",
-        "date": "2017/12/13"
+        "description": "Regulated workloads need more than rock solid security to be compliant. In this episode of This is my Architecture, Adam from CMD Solutions and Mat from nib health funds talk us through a clever way to use Step Functions to automatically spin up as well tear down security posture. Apart from services like IAM, CloudWatch and CloudTrail to maintain full auditability, you'll learn how to use Lambda tie it all together. Learn more at - http://amzn.to/2ygjxBw.",
+        "date": "2017-12-13T17:40:29Z",
+        "duration": 319
     },
     {
         "service": "step_functions",
         "videoId": "sMaqd5J69Ns",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Bray",
+            "Serverless",
+            "SRV306",
+            "AI",
+            "AWS Lambda",
+            "AWS Step Functions"
+        ],
         "title": "AWS re:Invent 2017: State Machines in the Wild! How Customers use AWS Step Functions (SRV306)",
-        "date": "2017/12/01"
+        "description": "AWS Step Functions makes it easy to coordinate AWS Lambda functions, run business workflows, and automate operations using state machines. The product has been live in the field for a year now, and it’s time to learn from what people are doing with it. In this session, we’ll present a series of innovative, high-impact, and just plain crazy applications of state machines from all sorts of customers. Guest-star Coca-Cola will show how they used Step Functions to support vending loyalty programs and product nutrition syndication. Managing application state is a central problem of building the serverless apps of the future; learn how Step Functions does it simply and scalably. Warning: there will be code!",
+        "date": "2017-12-01T16:48:04Z",
+        "duration": 3259
     },
     {
         "service": "step_functions",
         "videoId": "W5qVQr-n5M8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Lambda",
+            "AWS Step Functions",
+            "Amazon CloudWatch",
+            "Amazon EC2",
+            "Amazon Machine Image",
+            "AMI",
+            "AWS Batch",
+            "Amazon Simple Queue Service (SQS)",
+            "Amazon Simple Storage Service (S3)",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "FICO: Fraud Detection and Anti-Money Laundering with AWS Lambda and AWS Step Functions",
-        "date": "2019/04/13"
+        "description": "In this episode of This is My Architecture - https://amzn.to/2GcuycR, Sven from FICO explains how they use a combination of AWS Lambda and AWS Step Functions to architect an on-demand solution for fraud detection and anti-money laundering.\n\nHost: Tom Jones, Solutions Architect, AWS\nCustomer: Sven Ahlfeld, Software Lead Engineer, FICO\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-04-13T16:00:04Z",
+        "duration": 425
     },
     {
         "service": "step_functions",
         "videoId": "qE_ZD98K43I",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "serverless",
+            "Twitch",
+            "re:Invent"
+        ],
         "title": "AWS Builders' Day | Building Advanced Serverless Applications with AWS Step Functions",
-        "date": "2018/02/14"
+        "description": "For more information on Amazon SageMaker, visit - http://amzn.to/2o1hlvd.\n\nServerless computing allows you to build and run applications and services without thinking about servers. Serverless applications don't require you to provision, scale, and manage any servers. You can build them for nearly any type of application or backend service, and everything required to run and scale your application with high availability is handled for you.\n\nBuilding serverless applications means that your developers can focus on their core product instead of worrying about managing and operating servers or runtimes, either in the cloud or on-premises. This reduced overhead lets developers reclaim time and energy that can be spent on developing great products which scale and that are reliable.\n\nGet started with Serverless Computing at https://aws.amazon.com/serverless/",
+        "date": "2018-02-14T19:45:32Z",
+        "duration": 3524
     },
     {
         "service": "step_functions",
         "videoId": "-PWjI6Ri2aY",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Application Integration",
+            "API325",
+            "Amazon SageMaker",
+            "AWS Glue",
+            "AWS Step Functions"
+        ],
         "title": "AWS re:Invent 2018: ML Workflows with Amazon SageMaker and AWS Step Functions (API325)",
-        "date": "2018/11/29"
+        "description": "Learn how you can build, train, and deploy machine learning workflows for Amazon SageMaker on AWS Step Functions. Learn how to stitch together services, such as AWS Glue, with your Amazon SageMaker model training to build feature-rich machine learning applications, and you learn how to build serverless ML workflows with less code. Cox Automotive also shares how it combined Amazon SageMaker and Step Functions to improve collaboration between data scientists and software engineers. We also share some new features to build and manage ML workflows even faster.",
+        "date": "2018-11-29T18:23:29Z",
+        "duration": 3077
     },
     {
         "service": "step_functions",
         "videoId": "75MRve4nv8s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "SVR201",
+            "Tim Bray",
+            "Intermediate (200 Level)",
+            "Serverless Computing Mini Con"
+        ],
         "title": "AWS re:Invent 2016: NEW LAUNCH! Serverless Apps with AWS Step Functions (SVR201)",
-        "date": "2016/12/02"
+        "description": "AWS Step Functions is a new, fully-managed service that makes it easy to coordinate the components of distributed applications and microservices using visual workflows. Step Functions is a reliable way to connect and step through a series of AWS Lambda functions so that you can build and run multi-step applications in a matter of minutes. This session shows how to use AWS Step Functions to create, run, and debug cloud state machines to execute parallel, sequential, and branching steps of your application, with automatic catch and retry conditions. We share how customers are using AWS Step Functions to reliably scale multi-step applications such as order processing, report generation, and data transformation–all without managing any infrastructure.",
+        "date": "2016-12-03T02:49:49Z",
+        "duration": 3077
     },
     {
         "service": "step_functions",
         "videoId": "Q6r_QbYXFpg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Workspaces",
+            "AWS Lambda",
+            "AWS Step Functions",
+            "Amazon S3",
+            "Amazon RDS",
+            "Amazon API Gateway",
+            "Amazon Simple Queue Service (SQS)",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon Cognito",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "SynchroNet: Extending User Automation and Amazon WorkSpaces Provisioning with AWS Step Functions",
-        "date": "2019/08/10"
+        "description": "Learn more about This Is My Architecture at - https://amzn.to/2KegiTc. \nA common denominator across enterprise customers is a directory of users and a need to automate their resource provisioning at scale. Learn how SynchroNet uses a lightweight, serverless, event-driven architecture to ensure that the right user personas get the right workspace resources every time by automating Amazon Workspaces provisioning. \n\nHost: Todd Escalona, GSI Solutions Architect Evangelist, AWS\nCustomer: Mike Hapner, Chief Technology Officer, SynchroNet\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-08-10T16:00:06Z",
+        "duration": 282
     },
     {
         "service": "step_functions",
         "videoId": "zwD157KKEWg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "DevDays Nordics",
+            "Cloud technologies",
+            "Cloudcomputing",
+            "Serverless",
+            "Serverless Applications",
+            "AWS Step Functions"
+        ],
         "title": "AWS DevDays Nordics - Building Advanced Serverless Applications with AWS Step Functions",
-        "date": "2018/01/30"
+        "description": "Find out more about how to build advanced Serverless Applications with AWS Step Functions.\n\nLearn more about AWS at - http://amzn.to/2GA4MyN\nSlideshare - https://www.slideshare.net/AmazonWebServices/tag/devdaysnordics2018.",
+        "date": "2018-01-30T22:49:09Z",
+        "duration": 3244
     },
     {
         "service": "step_functions",
         "videoId": "Ei6u2EU_0qc",
+        "tags": [
+            "re:Invent 2016",
+            "AWS",
+            "amazon web services",
+            "cloud",
+            "cloud computing",
+            "Werner Vogels"
+        ],
         "title": "AWS re:Invent 2016 - AWS Step Functions: Build Distributed Applications & Microservices on AWS",
-        "date": "2016/12/05"
+        "description": "Learn more about AWS Step Functions here - http://amzn.to/2g2bgga.\nAWS Step Functions makes it easy to coordinate the components of distributed applications and microservices using visual workflows. Step Functions provides a graphical console to arrange and visualize the components of your app as a series of steps. This makes it simple to build and run multi-step applications. Step Functions automatically triggers and tracks each step, and retries when there are errors, so your application executes in order and as expected.",
+        "date": "2016-12-05T23:07:42Z",
+        "duration": 118
     },
     {
         "service": "step_functions",
         "videoId": "tqMnssbPtbM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I invoke AWS Lambda whenever execution status changes in AWS Step Functions?",
-        "date": "2020/04/09"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/lambda-state-change-step-functions/\nDerrick shows you how to invoke AWS Lambda whenever execution status changes in AWS Step Functions.",
+        "date": "2020-04-09T19:36:13Z",
+        "duration": 316
     },
     {
         "service": "step_functions",
         "videoId": "-qCFLXY1xa8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "CMP319",
+            "Andy Katz",
+            "Advanced (300 level)",
+            "Compute"
+        ],
         "title": "AWS re:Invent 2016: NEW LAUNCH! Building Distributed Applications with AWS Step Functions (CMP319)",
-        "date": "2016/12/02"
+        "description": "AWS Step Functions is a new, fully managed service that makes it easy to coordinate the components of distributed applications and microservices using visual workflows. Step Functions is a reliable way to coordinate components and step through the functions of your application. A graphical console helps you arrange and visualize the components of your application as a series of steps. Step Functions automatically triggers and tracks each step and retries when there are errors so that your application executes in order―and as expected―every time. This session shows how to use Step Functions to create, run, and debug multi-service applications in a matter of minutes. We also share how customers are using Step Functions to reliably build and scale multi-step applications such as order processing, report generation, and data transformation―and to innovate faster.",
+        "date": "2016-12-02T21:42:00Z",
+        "duration": 2429
     },
     {
         "service": "step_functions",
         "videoId": "27BNsSLlXHg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Coinbase",
+            "Lambda",
+            "Step Functions",
+            "Serverless",
+            "Orchestration",
+            "Deployments",
+            "AWS infrastructure",
+            "product engineering",
+            "engineering culture",
+            "Developers"
+        ],
         "title": "How Coinbase Scales Using Odin, Their Serverless, Open-Source Secure Deployment Pipeline",
-        "date": "2019/03/18"
+        "description": "Learn more about AWS Step Functions at – https://amzn.to/2Fkxd4Y \nGraham Jenson, Infrastructure Engineer at Coinbase, discusses the goal behind building Odin, Coinbase's secure deployment pipeline. Hear how Coinbase uses AWS Step Functions and AWS Lambda to perform hundreds of deployments a day, and how Step Functions and Lambda have enabled the team to achieve a 97% success rate for deployments.\n\nTo learn more, watch our tech talk \"Serverless Orchestration with AWS Step Functions\": https://www.youtube.com/watch?v=8rmgF-SbcIk",
+        "date": "2019-03-18T17:05:16Z",
+        "duration": 82
     },
     {
         "service": "step_functions",
         "videoId": "4hQK0hAgD-k",
+        "tags": [
+            "AWS",
+            "AWS Summit Online",
+            "May 13",
+            "2020",
+            "United States",
+            "Level 200",
+            "AWS Step Functions",
+            "Track: build",
+            "track: modern application",
+            "development",
+            "development track 1",
+            "AWS Events"
+        ],
         "title": "The Art of the State: Coordinating Services Using AWS Step Functions -Level 200 (United States)",
-        "date": "2020/07/24"
+        "description": "Microservice architectures give us increased agility and scale, but as they grow, they can become complicated to coordinate and debug. In this session, we review common service coordination patterns and how AWS Step Functions can help us quickly build fully managed and resilient workflows powered by easy-to-understand state machines.\n\nLearn more about AWS at - https://amzn.to/2ZvJn5d\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
+        "date": "2020-07-24T19:01:58Z",
+        "duration": 1689
     }
 ]

@@ -2,289 +2,881 @@
     {
         "service": "elastic_kubernetes_service",
         "videoId": "gUFtUU7qvSQ",
+        "tags": [
+            "re:Invent 2017",
+            "Andy Jassy",
+            "Amazon Elastic Container Service",
+            "Kubernetes",
+            "Amazon Elastic Container Service for Kubernetes Announcement",
+            "AWS",
+            "Amazon Web Services",
+            "cloud",
+            "cloud computing"
+        ],
         "title": "AWS re:Invent 2017 - Amazon Elastic Container Service for Kubernetes Announcement",
-        "date": "2017/11/29"
+        "description": "Watch Andy Jassy's re:Invent keynote announcement of Amazon Elastic Container Service for Kubernetes (EKS), a managed service that makes it easy to run Kubernetes on AWS. Learn more about Amazon EKS at - http://amzn.to/2zHcW7v.",
+        "date": "2017-11-29T21:57:00Z",
+        "duration": 76
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "EoC60KddIXE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - Amazon ECS for Kubernetes (EKS)",
-        "date": "2017/12/08"
+        "description": "Amazon Elastic Container Service for Kubernetes (Amazon EKS) is a managed service that makes it easy for you to run Kubernetes on AWS without needing to become an expert in operating Kubernetes. Learn more at - http://amzn.to/2iTNkL8. Amazon EKS fully manages the availability and scalability of the Kubernetes control plane for each cluster. Amazon EKS automatically performs all the cluster management operations, such as handling version upgrades, scaling the Kubernetes masters and etcd persistence layer, and detecting and replacing unhealthy masters.\n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:37:14Z",
+        "duration": 1010
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "iNjjhWJqgDI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS containers",
+            "containers",
+            "kubernetes",
+            "serverless",
+            "EKS",
+            "Fargate",
+            "Application modernization",
+            "application platforms",
+            "modern application development",
+            "devops"
+        ],
         "title": "Deploying Containerized Applications with Amazon Elastic Container Service for Kubernetes (EKS)",
-        "date": "2019/02/04"
+        "description": "Learn how to deploy your containerized application on EKS. We’ll walk you through the steps to deploy a container image to Amazon Elastic Container Service, create a Kubernetes manifest file, and deploy it to an EKS cluster. \n\nWatch the whole Application Modernization series at - https://www.youtube.com/playlist?list=PLhr1KZpdzukfWFTsOD_WynnY2-e8TY8fH.\n\nFollow along with our hands-on Application Modernization Workshop: https://modernize.awsworkshop.io",
+        "date": "2019-02-04T16:32:03Z",
+        "duration": 898
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "lef1qR7C_GE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "DevDay Munich 2018"
+        ],
         "title": "Amazon Elastic Container Service for Kubernetes (Amazon EKS)",
-        "date": "2018/04/25"
+        "description": "Learn more about AWS and check out the upcoming schedule, previous recordings, and links to the resources discussed at - https://amzn.to/2r29GxJ.\n\nAWS DevDay Munich 2018:\nContainers are an increasingly important way for developers to package and deploy their applications  and AWS offers multiple container products to help you deploy, manage, and scale containers in production. In this session we we cover the state of containerized application development and deployment trends, new container capabilities on AWS that are available now, options for running containerized applications on AWS, and how AWS customers successfully run container workloads in production.\nLearn more about containers here: https://aws.amazon.com/containers/",
+        "date": "2018-04-25T17:15:40Z",
+        "duration": 3085
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "EDaGpxZ6Qi0",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Containers",
+            "CON361-R1",
+            "Elastic Container Service",
+            "Kubernetes"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] Deep Dive on Amazon EKS (CON361-R1)",
-        "date": "2018/12/01"
+        "description": "In this talk, we cover the configuration and networking details needed to run a production-ready Kubernetes cluster with Amazon Elastic Container Service for Kubernetes (Amazon EKS). We walk through the new features and updates for Amazon EKS in 2018.",
+        "date": "2018-12-01T21:30:36Z",
+        "duration": 3022
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "q6kqL_GAcGo",
+        "tags": [
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Conference Event",
+            "DEM07"
+        ],
         "title": "AWS re:Invent 2018: Logging and Monitoring Kubernetes Using Elasticsearch (DEM07)",
-        "date": "2018/12/13"
+        "description": "Are you running Kubernetes on AWS? In this session, we show you how to use the Elastic Stack—Elasticsearch, Kibana, Beats, and Logstash—to gain visibility into all your Kubernetes logs and metrics in a single place. With the Elasticsearch Service from Elastic, you can spin up a cluster in a few clicks and go from data to insights in minutes. Also, through a live demo, we highlight how you can apply Elasticsearch machine learning and alerting features to your Kubernetes data to automate anomaly detection and speed up troubleshooting. This presentation is brought to you by AWS partner, Elasticsearch Inc.",
+        "date": "2018-12-13T16:45:13Z",
+        "duration": 1120
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "WdmOB6R-Rjs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS DevDay Munich"
+        ],
         "title": "Amazon Elastic Container Service for Kubernetes (Amazon EKS)",
-        "date": "2018/04/25"
+        "description": "Learn more about AWS and check out the upcoming schedule, previous recordings, and links to the resources discussed at - https://amzn.to/2r29GxJ.\n\nAWS DevDay Munich 2018:\nContainers are an increasingly important way for developers to package and deploy their applications  and AWS offers multiple container products to help you deploy, manage, and scale containers in production. Different containerized services have different needs. You may want to deploy containers to ensure availability, maximize resource utilization, or ensure data security. As you build and run production microservices based on containers, having powerful tools to manage the placement and scheduling of these workloads is critical. In this talk, we will focus on the capabilities of the Amazon EC2 Container Service task placement engine, options for task scheduling, and explore the use cases and construction of custom task schedulers.\nLearn more about containers here: https://aws.amazon.com/containers/",
+        "date": "2018-04-25T17:16:42Z",
+        "duration": 3236
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "K3Dft5-D3sQ",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Containers",
+            "CON307-S",
+            "AECS for Kubernetes"
+        ],
         "title": "AWS re:Invent 2018: Production-Ready Environments for Kubernetes (CON307-S)",
-        "date": "2018/11/28"
+        "description": "Kubernetes is taking off and being rapidly adopted both on-premises and in the AWS Cloud. Today, enterprises are struggling to build, deploy, and manage production-ready environments at scale. The Cisco Hybrid Solution for Kubernetes on AWS makes it easy for customers to run production-grade Kubernetes on-premises. This is achieved by configuring on-premises Kubernetes environments to be consistent with Amazon Elastic Container Service for Kubernetes (Amazon EKS) and by combining Cisco's networking, security, management, and monitoring software with the world-class cloud services of AWS. This enables customers to focus on building and using applications instead of being constrained by where they run.",
+        "date": "2018-11-28T18:39:39Z",
+        "duration": 3006
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "YQWt6wdAZMU",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Containers",
+            "CON318-R1",
+            "Elastic Container",
+            "Service for Kubernetes"
+        ],
         "title": "AWS re:Invent 2018: Running a High-Performance Kubernetes Cluster with Amazon EKS (CON318-R1)",
-        "date": "2018/11/29"
+        "description": "How do you ensure that a containerized system can handle the needs of your application? Designing and testing for performance is a critical aspect of operating containerized architectures at scale. In this session, we cover best practices for designing perfomant containerized applications on AWS using Kubernetes. We also show you how State Street deployed a high-performance database at scale using Amazon Elastic Container Service for Kubernetes (Amazon EKS). Complete Title: AWS re:Invent 2018: [REPEAT 1] Running a High-Performance Kubernetes Cluster with Amazon EKS (CON318-R1)",
+        "date": "2018-11-29T18:21:46Z",
+        "duration": 3265
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "zERUDnag2rI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit Tel Aviv",
+            "summit",
+            "Adrian Cockroft",
+            "amazon web services",
+            "כנס אמזון",
+            "אמזון ווב סרביסס",
+            "סאמיט 2019"
+        ],
         "title": "AWS Summit Tel Aviv 2019 | Mastering Amazon Elastic Container Service for Kubernetes (Amazon EKS)",
-        "date": "2019/03/27"
+        "description": "Learn more about AWS at - https://amzn.to/2U6LGd0   \nIn this talk, we cover the configuration and networking details needed to run a production-ready Kubernetes cluster with Amazon Elastic Container Service for Kubernetes (Amazon EKS). We walk through the new features and updates for Amazon EKS in 2018.",
+        "date": "2019-03-27T17:11:59Z",
+        "duration": 2703
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "WHTejF3W0s4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Containers",
+            "CON215"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Introducing Amazon EKS (CON215)",
-        "date": "2017/12/02"
+        "description": "A preview of the new managed-Kubernetes service on AWS.",
+        "date": "2017-12-03T01:44:12Z",
+        "duration": 2898
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "8OPkt93WyPA",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Containers",
+            "CON301-R1",
+            "Amazon Elastic Container",
+            "Service for Kubernetes"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] Mastering Kubernetes on AWS (CON301-R1)",
-        "date": "2018/11/28"
+        "description": "Kubernetes offers a powerful abstraction layer for managing containerized infrastructure. Amazon Elastic Container Service for Kubernetes (Amazon EKS) makes it easy to run Kubernetes on AWS without having to manage master nodes or the etcd operator. In this session, we cover what you need to know to get your application up and running with Kubernetes on AWS. We show how Amazon EKS makes deploying Kubernetes on AWS simple and scalable, including networking, security, monitoring, and logging.",
+        "date": "2018-11-28T18:25:59Z",
+        "duration": 3541
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "gl131UXp5yo",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Containers",
+            "CON309-R1",
+            "Elastic Container",
+            "Service for Kubernetes"
+        ],
         "title": "AWS re:Invent 2018: Building PaaS with Amazon EKS for Highly Regulated Enterprise (CON309-R1)",
-        "date": "2018/11/29"
+        "description": "Containers make it easy to build and deploy applications by abstracting away the underlying operating system. But how do you build secure and compliant containerized applications in a distributed environment, and without direct access to the operating system your code is running on? In this session, hear how Amazon Elastic Container Service for Kubernetes (Amazon EKS) is integrated into a large-scale regulated enterprise in the areas of network, security, CI/CD, and monitoring to cater to the needs of various business units. We cover the basics in each of these areas in Amazon EKS, and we hear from Fidelity on how it is driving its cloud strategy with Amazon EKS in the heavily regulated finance sector. We also share best practices and common architectures for building containerized application in highly regulated industries. Complete Title: AWS re:Invent 2018: [REPEAT 1] Building PaaS with Amazon EKS for the Large-Scale, Highly Regulated Enterprise (CON309-R1)",
+        "date": "2018-11-29T18:21:43Z",
+        "duration": 3297
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "SETdr1g9-Ek",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Zadeh",
+            "Machine Learning",
+            "MCL305",
+            "AI",
+            "Compute",
+            "TensorFlow"
+        ],
         "title": "AWS re:Invent 2017: Scaling Convolutional Neural Networks with Kubernetes and Tensor (MCL305)",
-        "date": "2017/11/30"
+        "description": "In this session, Reza Zadeh, CEO of Matroid, presents a Kubernetes deployment on Amazon Web Services that provides customized computer vision to a large number of users. Reza offers an overview of Matroid’s pipeline and demonstrates how to customize computer vision neural network models in the browser, followed by building, training, and visualizing TensorFlow models, which are provided at scale to monitor video streams.",
+        "date": "2017-11-30T15:59:43Z",
+        "duration": 2216
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "vrYLrx-a_Wg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon",
+            "awsreinvent2017",
+            "Containers",
+            "CON409",
+            "AI",
+            "Auto Scaling",
+            "Elastic Load Balancing"
+        ],
         "title": "AWS re:Invent 2017: Deep Dive into Amazon EKS (CON409)",
-        "date": "2017/12/12"
+        "description": "Amazon Elastic Container Service for Kubernetes (Amazon EKS) is a new managed service for running Kubernetes on AWS. Get a sneak peek into how Amazon EKS works, from provisioning nodes, launching pods, and integrations with AWS services such as Elastic Load Balancing and Auto Scaling.",
+        "date": "2017-12-12T23:22:56Z",
+        "duration": 3648
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "PJ1WXx1SACM",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "GPS-Technical",
+            "GPSTEC309"
+        ],
         "title": "AWS re:Invent 2018: Day Two Operations of Kubernetes on AWS (GPSTEC309)",
-        "date": "2018/11/30"
+        "description": "You've spent the time designing, architecting, setting up, and configuring your Kubernetes cluster. Now, it's on to day two. \"Day two\" refers to the functions of scaling, optimizing, monitoring, securing, and in general keeping the lights on. In this talk, we discuss the tools that you have available to help you build a reliable and resilient Kubernetes cluster and run workloads in production. We discuss how to control the network, secure your environment using threat detection, scan your containers for vulnerabilities, use monitoring tools, and create scalable containers and clusters.",
+        "date": "2018-11-30T16:37:15Z",
+        "duration": 3577
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "yxEDRkaaPg0",
+        "tags": [
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Conference Event",
+            "DEM08",
+            "Elastic Container",
+            "Service for Kubernetes"
+        ],
         "title": "AWS re:Invent 2018: Reinvent Your Pipeline with GitLab, Kubernetes, and Amazon EKS (DEM08)",
-        "date": "2018/12/13"
+        "description": "It can take weeks to set deployment pipelines in the enterprise. At GitLab, we want to get developers started in minutes and build an experience where the only thing developers need to get live in production is commit their code. GitLab does the rest. Join this talk to learn how we automated CI/CD configuration based on learnings from over 2,000 contributors and over 100,000 organizations using GitLab. Learn how we integrated Kubernetes with our auto-configuration capabilities to make setup as simple as just a few clicks. We also demonstrate Amazon Elastic Container Service for Kubernetes (Amazon EKS) and show you how quickly you can go from code to production. This presentation is brought to you by AWS partner,GitLab.",
+        "date": "2018-12-13T16:45:15Z",
+        "duration": 1247
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "Aq-mdUkm_i0",
-        "title": "AWS Builders' Day | Amazon Elastic Container Service for Kubernetes (Amazon EKS)",
-        "date": "2018/02/14"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "re:Invent",
+            "Containers"
+        ],
+        "title": "AWS Builders' Day | Amazon Elastic Container Service for Kubernetes (Amazon EKS)",
+        "description": "Check out the upcoming schedule, previous recordings, and links to the resources discussed at - http://amzn.to/2EspKOu.\n\nContainers are an increasingly important way for developers to package and deploy their applications. They are lightweight and provide a consistent, portable software environment for applications to easily run and scale anywhere. Building and deploying microservices, running batch jobs, for machine learning applications, and moving existing applications into the cloud are just some of the popular use cases for containers. AWS offers multiple container products to help you deploy, manage, and scale containers in production. \n\nGet started with Containers at https://aws.amazon.com/containers/.",
+        "date": "2018-02-14T18:56:07Z",
+        "duration": 2893
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "AU7EBRViwhE",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Compute",
+            "CMP310-S"
+        ],
         "title": "AWS re:Invent 2018: Application Portability with Kubernetes (CMP310-S)",
-        "date": "2018/11/28"
+        "description": "Application portability has always been the goal that operators aspire towards. The deployment simplicity in Kubernetes has made this goal attainable, especially when using Kubernetes-as-a-Service like VMware Kubernetes Engine (VKE), built natively on AWS. In this talk, using an application running in the data center, we show how easy it is to implement a hybrid cloud strategy and deploy the same application onto a VKE-managed Kubernetes cluster using Helm. We share best practices on how to implement end-to-end network configuration automation and application monitoring with open-source tooling like Prometheus and Grafana. This session is brought to you by AWS partner, VMware, Inc.",
+        "date": "2018-11-28T18:36:47Z",
+        "duration": 3508
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "fUSf6wH3c3s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            ".NET",
+            "Kubernetes",
+            "EKS",
+            "Container"
+        ],
         "title": "Deploying Your First .NET Application to Amazon Elastic Container Service for Kubernetes",
-        "date": "2018/11/21"
+        "description": "Amazon Elastic Container Service for Kubernetes (Amazon EKS) makes it easy to deploy, manage, and scale containerized applications using Kubernetes on AWS.\n\nAmazon EKS runs the Kubernetes management infrastructure for you across multiple AWS availability zones to eliminate a single point of failure. Amazon EKS is certified Kubernetes conformant so you can use existing tooling and plugins from partners and the Kubernetes community. Applications running on any standard Kubernetes environment are fully compatible and can be easily migrated to Amazon EKS.\n\nFor more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2t7AHBA.",
+        "date": "2018-11-21T20:42:08Z",
+        "duration": 1267
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "w34txLmpEuM",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Containers",
+            "CON308",
+            "AI",
+            "Enterprise",
+            "Security"
+        ],
         "title": "AWS re:Invent 2017: Mastering Kubernetes on AWS (CON308)",
-        "date": "2017/11/30"
+        "description": "A lot of progress has been made on how to bootstrap a cluster since Kubernetes' first commit and is now only a matter of minutes to go from zero to a running cluster on Amazon Web Services. However, evolving a simple Kubernetes architecture to be ready for production in a large enterprise can quickly become overwhelming with options for configuration and customization. \n\nIn this session, Arun Gupta, Open Source Strategist for AWS and Raffaele Di Fazio, software engineer at leading European fashion platform Zalando, will show common practices for running Kubernetes on AWS and share insights from experience in operating tens of Kubernetes clusters in production on AWS. We will cover options and recommendations on how to install and manage clusters, configure high availability, perform rolling upgrades and handle disaster recovery, as well as continuous integration and deployment of applications, logging, and security.",
+        "date": "2017-11-30T16:41:22Z",
+        "duration": 3646
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "Sj99RdqI-as",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "GPSTechnical",
+            "GPSTEC304",
+            "AI"
+        ],
         "title": "AWS re:Invent 2017: GPS: Shipping with Porpoise, a Kubernetes Story (GPSTEC304)",
-        "date": "2017/11/29"
+        "description": "You've gotten up and running with containers, and now you're trying to understand how to take them to production. In this session, we deep-dive into tools that help you build and manage development and production clusters. We explore CI/CD pipelines that test your code and scan for vulnerabilities, use Docker multistage builds to efficiently use resources, monitor your network, debug issues in development, and monitor your applications as they go to production.",
+        "date": "2017-11-29T17:01:52Z",
+        "duration": 3215
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "tNlbcBrx_s8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Running Kubernetes with Amazon EKS",
-        "date": "2019/06/20"
+        "description": "Kubernetes offers a powerful abstraction layer for managing containerized infrastructure. Amazon Elastic Container Service for Kubernetes (Amazon EKS) makes it easy to run Kubernetes on AWS without having to manage master nodes or the etcd operator. In this session, we cover what you need to know to get your application up and running with Kubernetes on AWS. We show how Amazon EKS makes deploying Kubernetes on AWS simple and scalable, including networking, security, monitoring, and logging.",
+        "date": "2019-06-20T15:04:55Z",
+        "duration": 2495
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "0iT7ecFa4BY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws builders day",
+            "builders day",
+            "developers",
+            "buildon",
+            "containers",
+            "amazon elastic container service",
+            "ecs",
+            "kubernetes"
+        ],
         "title": "AWS Builders' Day | Amazon Elastic Container Service for Kubernetes (Amazon EKS)",
-        "date": "2018/12/19"
+        "description": "See what you can build: https://amzn.to/2ryQs3a.\nGet started with Containers at https://aws.amazon.com/containers/.\n\nContainers allow you to easily package your application's code, configurations, and dependencies into easy to use building blocks that deliver environmental consistency, operational efficiency, developer productivity, and version control, regardless of deployment environment. Running containers in the AWS Cloud allows you to build robust, scalable applications and services by leveraging the benefits of the AWS Cloud such as elasticity, availability, security, and economies of scale. Learn how to run Docker-enabled applications at scale on AWS.",
+        "date": "2018-12-19T18:49:22Z",
+        "duration": 2621
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "0iT7ecFa4BY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws builders day",
+            "builders day",
+            "developers",
+            "buildon",
+            "containers",
+            "amazon elastic container service",
+            "ecs",
+            "kubernetes"
+        ],
         "title": "AWS Builders' Day | Amazon Elastic Container Service for Kubernetes (Amazon EKS)",
-        "date": "2018/12/19"
+        "description": "See what you can build: https://amzn.to/2ryQs3a.\nGet started with Containers at https://aws.amazon.com/containers/.\n\nContainers allow you to easily package your application's code, configurations, and dependencies into easy to use building blocks that deliver environmental consistency, operational efficiency, developer productivity, and version control, regardless of deployment environment. Running containers in the AWS Cloud allows you to build robust, scalable applications and services by leveraging the benefits of the AWS Cloud such as elasticity, availability, security, and economies of scale. Learn how to run Docker-enabled applications at scale on AWS.",
+        "date": "2018-12-19T18:49:22Z",
+        "duration": 2621
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "xvXy2BiaWrQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Spire Labs",
+            "Amazon EC2 Auto Scaling",
+            "Amazon Elastic Container Service for Kubernetes (EKS)",
+            "Amazon ElastiCache",
+            "Amazon RDS",
+            "Elastic Load Balancing",
+            "Amazon EC2",
+            "AZ",
+            "Kubernetes",
+            "Redis",
+            "MySQL",
+            "ACM",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Spire Labs: Fault-tolerance with Kubernetes on AWS",
-        "date": "2017/09/31"
+        "description": "Learn more about This Is My Architecture here - http://amzn.to/2nrVTxh.\n\nOn this episode of This Is My Architecture, @robertjscott, VP of Software Architecture at @spire, explains how they built a fault-tolerant solution across three #AWS Availability Zones with Amazon RDS, Amazon ElastiCache, and Kubernetes on Amazon EC2 with Auto Scaling. Their design allows them to tolerate the temporary loss of both Kubernetes pods/containers and EC2 instances, keeping them up and running smoothly for customers.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2017-03-31T21:58:11Z",
+        "duration": 549
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "mfx7whOKUH0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Tel Aviv Summit 2018",
+            "Kubernetes"
+        ],
         "title": "AWS Tel Aviv Summit 2018: Kubernetes on AWS",
-        "date": "2018/03/30"
+        "description": "Want to learn more about past and upcoming AWS Israel events and activities? Visit us at - https://amzn.to/2pGLdy0.\nA lot of progress has been made on how to bootstrap a cluster since Kubernetes' first commit and is now only a matter of minutes to go from zero to a running cluster on Amazon Web Services. However, evolving a simple Kubernetes architecture to be ready for production in a large enterprise can quickly become overwhelming with options for configuration and customization. In this session, Arun Gupta, Open Source Strategist for AWS will show common practices for running Kubernetes on AWS. We will cover options and recommendations on how to install and manage clusters, configure high availability, perform rolling upgrades and handle disaster recovery, as well as continuous integration and deployment of applications, logging, and security.\n\n[12/26]",
+        "date": "2018-03-30T18:40:50Z",
+        "duration": 2611
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "7vxDWDD2YnM",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CON421-R1",
+            "Containers",
+            "Snap Inc"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Amazon EKS under the hood (CON421-R1)",
-        "date": "2019/12/09"
+        "description": "Kubernetes allows you to run containerized workloads and services using declarative configuration and automation. Amazon Elastic Kubernetes Service (Amazon EKS) is a managed service that makes it easy to run Kubernetes on AWS without needing to stand up or maintain your own Kubernetes clusters. Amazon EKS takes care of the undifferentiated heavy lifting around securing, patching, qualifying, and upgrading Kubernetes clusters. Join us for a look under the hood at how Amazon EKS manages Kubernetes at scale. We also discuss some of the key design decisions in building out the infrastructure to manage one of the industry’s fastest-growing open-source projects.",
+        "date": "2019-12-09T18:49:44Z",
+        "duration": 3761
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "P29eL_51iYU",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "GPSTEC337",
+            "Partner",
+            "Amazon EKS"
+        ],
         "title": "AWS re:Invent 2019: Architecting multi-tenant PaaS offerings with Amazon EKS (GPSTEC337)",
-        "date": "2019/12/03"
+        "description": "Although this Global Partner Summit session is open to anyone, it is geared toward current and potential AWS Partner Network (APN) Partners. In it, we describe the value proposition of architecting a multi-tenant platform as a service (PaaS) offering on Amazon Web Services, and the technical considerations for securing, scaling, and automating the provisioning of your customer instances within Amazon Elastic Kubernetes Service (Amazon EKS). Learn a number of the strategies for isolating customers (tenants), workloads, and data in an EKS cluster, and learn a number of the open-source and APN Partner technologies that can enable an automated delivery for the typical PaaS use cases customers are looking for.",
+        "date": "2019-12-03T18:03:18Z",
+        "duration": 3583
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "OWRWDXszR-4",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CON334-R1",
+            "Containers",
+            "HSBC",
+            "AWS Identity",
+            "Access Management",
+            "Amazon EKS"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Running high-security workloads on Amazon EKS (CON334-R1)",
-        "date": "2019/12/10"
+        "description": "AWS's rich set of features enable running high-security workloads on Amazon Elastic Kubernetes Service (Amazon EKS). In this session, we explore solutions with the real-life example of how HSBC's cloud services team built a secure multi-tenant platform for the company's application teams to run mission-critical containerized applications on Amazon EKS. Amazon EKS and HSBC engineers discuss security features, best practices, and lessons learned from operating secure Amazon EKS clusters. Topics include network security, Linux host security, AWS Identity and Access Management (IAM)integrations, IAM for service accounts, Kubernetes RBAC and Namespaces, and integrating logging and monitoring of the Kubernetes control-plane and worker nodes.",
+        "date": "2019-12-10T18:47:47Z",
+        "duration": 3504
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "m-3tMXmWWQw",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CON326-R1",
+            "Containers",
+            "AWS Fargate",
+            "Amazon EKS"
+        ],
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Running Kubernetes Applications on AWS Fargate (CON326-R1)",
-        "date": "2019/12/10"
+        "description": "Fargate is a serverless compute engine for containers that supports multiple orchestrators. Come to this session to learn how the new integration between EKS and Fargate allows developers to deploy containers on a kubernetes cluster without thinking about infrastructure.",
+        "date": "2019-12-10T18:15:57Z",
+        "duration": 3467
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "Eeil2VBsgT8",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DEM24-S",
+            "GitLab"
+        ],
         "title": "AWS re:Invent 2019: Reinvent your pipeline with GitLab, Kubernetes, and Amazon EKS (DEM24-S)",
-        "date": "2019/12/09"
+        "description": "In the enterprise, setting up deployment pipelines can take weeks. Join this session, and hear how GitLab automated CI/CD configuration based on what it learned from 2,200+ contributors and 100,000+ organizations. GitLab’s goal is to help developers get started in minutes, and the company wants to build an experience where the only thing needed to release software to production is to commit your code—with GitLab doing the rest. Learn how GitLab integrated Kubernetes with its auto-configuration capabilities to make setup as simple as just a few clicks. Watch a live demo on Amazon EKS and learn how fast you can go from code to production. This presentation is brought to you by GitLab, an APN Partner.",
+        "date": "2019-12-09T18:53:32Z",
+        "duration": 1425
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "ULlqukKVKBo",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CON306-R1",
+            "Containers",
+            "Babylon Health",
+            "Amazon EKS"
+        ],
         "title": "AWS re:Invent 2019: Building machine-learning infrastructure on Amazon EKS with Kubeflow (CON306-R1)",
-        "date": "2019/12/05"
+        "description": "Data science, machine learning (ML), and artificial intelligence have exploded in popularity in the last few years, with companies building out dedicated  ML teams. Kubeflow is the ML toolkit for Kubernetes and provides useful components resolving problems in multiple areas. For enterprise users, it still cannot fulfill all the requirements for out-of-the-box deployment. Some customizations need to be made, like authentication, training job monitoring, user profile, and resource quota management. In this session, we show you a real use case of how to build ML using Kubeflow, along with challenges and solutions to address them.",
+        "date": "2019-12-05T17:55:06Z",
+        "duration": 3355
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "nCqiueBd4R4",
+        "tags": [
+            "Container Day San Diego",
+            "Session Eswar Bala",
+            "Amazon EKS roadmap",
+            "AWS",
+            "AWS Events",
+            "Amazon Event",
+            "Amazon devops",
+            "Amazon Web Services",
+            "EKS"
+        ],
         "title": "Amazon EKS Roadmap - Eswar Bala",
-        "date": "2019/12/30"
+        "description": "Learn more about EKS on AWS at - https://amzn.to/2Q40pCE.\nIn this session, hear from Eswar Bala, Sr. Manager, Software Development, about the past, present and future of Amazon Elastic Kubernetes Service (EKS), including features launched, EKS tenets and investment areas.",
+        "date": "2019-12-30T16:40:34Z",
+        "duration": 675
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "Lsxv0Ae63Jk",
+        "tags": [
+            "Container Day San Diego",
+            "Session Arthur Petitpierre",
+            "EC2",
+            "Spot",
+            "A1 Instances",
+            "AWS",
+            "Amazon Event",
+            "Amazon devops",
+            "Amazon Web Services",
+            "EKS",
+            "EKS Cost Optimization",
+            "EC2 Spot",
+            "Arthur Petitpierre"
+        ],
         "title": "EKS Cost Optimization with EC2 Spot and A1 Instances - Arthur Petitpierre",
-        "date": "2019/12/30"
+        "description": "Learn more about EKS on AWS at - https://amzn.to/350BPXU.\nHear from Arthur Petitpierre, Specialist Solutions Architect, about EKS Cost Optimization with EC2 Spot and A1 Instances.",
+        "date": "2019-12-30T16:51:53Z",
+        "duration": 1847
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "gY9wK8xxQm8",
+        "tags": [
+            "Container Day San Diego - Session Stefan Prodan",
+            "Weaveworks",
+            "Progressive delivery",
+            "Flagger",
+            "AWS",
+            "Amazon Web Services",
+            "EKS",
+            "Event",
+            "Amazon"
+        ],
         "title": "Progressive Delivery with AWS App Mesh & Amazon EKS - Flagger - Stefan Prodan",
-        "date": "2019/12/30"
+        "description": "Learn more about EKS on AWS at - https://amzn.to/2F0PNy8.\nIn this session, hear from Stefan Prodan from Weaveworks, about progressive Delivery with AWS App Mesh & Amazon EKS, using Flagger, a service mesh progressive delivery operator.",
+        "date": "2019-12-30T16:45:34Z",
+        "duration": 1502
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "Edb57ru3cTk",
+        "tags": [
+            "Container Day San Diego",
+            "Session Nathan Taber",
+            "Amazon EKS roadmap",
+            "AWS",
+            "Amazon devops",
+            "Amazon Web Services",
+            "EKS",
+            "Event",
+            "2019",
+            "Amazon Event 2019",
+            "AWS Event 2019"
+        ],
         "title": "Amazon EKS Roadmap - Nathan Taber",
-        "date": "2019/12/30"
+        "description": "Learn more about EKS on AWS at - https://amzn.to/2SHsmlR.\nIn this session, hear from Nathan Taber, Sr. Product Manager, about the vision, new regions, high performance and features coming for EKS.",
+        "date": "2019-12-30T16:43:32Z",
+        "duration": 1176
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "GIH-MfkZPJA",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "WIN309",
+            "Windows & .Net",
+            "AWS CodeBuild",
+            "AWS Fargate",
+            "AWS CodeDeploy"
+        ],
         "title": "AWS re:Invent 2019: Containerize .NET Apps with Amazon EKS and AWS Fargate (WIN309)",
-        "date": "2019/12/04"
+        "description": "Packaging software into containers gives your code everything needed to run with consistency from your laptop into production. But how do you run containers at scale in the cloud? In this session, learn how to run containerized Windows and .NET applications in production on AWS. We show you how to run Windows containers on Kubernetes with Amazon Elastic Kubernetes Service (Amazon EKS). We also demonstrate the benefits of running .NET Core Linux containers serverlessly with AWS Fargate. We cover core concepts and use demos to help you feel comfortable getting started with building and deploying .NET containerized applications on AWS.",
+        "date": "2019-12-04T17:31:00Z",
+        "duration": 3893
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "gsGT0CYAPW4",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "STP301",
+            "Startup",
+            "Personal Capital",
+            "Amazon EKS"
+        ],
         "title": "AWS re:Invent 2019: Personal Capital: Lessons from a year with Amazon EKS (STP301)",
-        "date": "2019/12/06"
+        "description": "Personal Capital is an online financial advisor and wealth management company. In this session, learn how the company went from one week of development and one week of testing to multiple releases per day, and along the way significantly increased its team's productivity using Amazon Elastic Kubernetes Service (Amazon EKS). Specifically, hear how managed Kubernetes let Personal Capital focus on its core financial business, how the company built a true engineering DevOps team, and how byproducts of Kubernetes on AWS helped.",
+        "date": "2019-12-07T05:52:14Z",
+        "duration": 3613
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "M-Fh0OzliJI",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CON212-R1",
+            "Containers",
+            "Amazon.com",
+            "Amazon EKS"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Running Kubernetes at Amazon scale using Amazon EKS (CON212-R1)",
-        "date": "2019/12/06"
+        "description": "Amazon.com has built a hosted infrastructure on Amazon Elastic Kubernetes Service (Amazon EKS) to power part of the shopping experience that delights tens of millions of shoppers. During this session, we dive into the details of how Amazon EKS empowers a small team to own this highly available, multi-tenant solution.  We explore how using Amazon EKS helped move the needle on agility for developers and innovation for shoppers. Finally, we dive into how this hosted platform enables Amazon.com developers to focus on building great shopping experiences and remain blissfully ignorant of changes happening at the infrastructure level.",
+        "date": "2019-12-07T06:00:21Z",
+        "duration": 3060
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "1ybId6DyHls",
+        "tags": [
+            "AWS",
+            "Events",
+            "ml",
+            "spark",
+            "pytorch",
+            "eks",
+            "inferentia",
+            "kubeflow",
+            "kubernetes",
+            "machine learning"
+        ],
         "title": "AWS Cloud Containers Conference - Machine Learning on EKS",
-        "date": "2020/08/07"
+        "description": "Amazon EKS has quickly emerged as a leading choice for machine learning workloads. In this session, we’ll walk through some of the recent ML related enhancements the Kubernetes team at AWS has released. We will then dive deep with walkthroughs of how to optimize your machine learning workloads on Amazon EKS, including demos of the latest features we’ve contributed to popular open source projects like Spark and Kubeflow.\n\nLearn more about Amazon EKS at - https://amzn.to/39ZXBio\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSWebinar",
+        "date": "2020-08-07T23:46:23Z",
+        "duration": 3283
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "fwzInJm1DC4",
+        "tags": [
+            "programming",
+            "aws",
+            "reinvent",
+            "ai",
+            "ml",
+            "developer",
+            "cloud computing",
+            "software",
+            "Amazon EKS",
+            "Amazon Elastic Container Service",
+            "Aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "reinvent 2019",
+            "aws launchpad"
+        ],
         "title": "AWS re:Invent 2019 Launchpad | Amazon EKS and Amazon Elastic Container Service",
-        "date": "2020/03/17"
+        "description": "Subscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #reInvent2019 #AWSLaunchpad",
+        "date": "2020-03-17T19:36:19Z",
+        "duration": 1133
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "X9CMtcfB_5c",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DEM08-S",
+            "SAS"
+        ],
         "title": "AWS re:Invent 2019: Building a high-performance analytics ecosystem on Amazon EKS (DEM08-S)",
-        "date": "2019/12/06"
+        "description": "Analytics software applications have dramatically varied compute patterns, from single containers for experimentation to massively parallel, multi-container architectures for production or model development. So how do you build a cloud-native platform using Amazon EKS that exceeds the performance expectations of thousands of open-source and commercial analytics users? Join Jason Tucker, senior cloud services development manager at SAS, as he reveals technology and operations best practices for building a global cloud-native platform. This presentation is brought to you by SAS, an APN Partner.",
+        "date": "2019-12-07T06:04:55Z",
+        "duration": 856
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "bG9NrjznH3U",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CON307-S",
+            "New Relic"
+        ],
         "title": "AWS re:Invent 2019: Top 5 container and Kubernetes best practices (CON307-S)",
-        "date": "2019/12/03"
+        "description": "Yes, technologies like containers and Kubernetes can help make your software delivery processes easier and faster. However, these new deployment tools and orchestration methods are very different from a traditional environment in terms of management and monitoring. How should you architect your container so that it works the way that you want—and need—it to? Through the live examples provided in this session, you learn best practices for ensuring the efficiency and quality of the next application that you migrate to AWS. This presentation is brought to you by New Relic, an APN Partner.",
+        "date": "2019-12-03T18:13:39Z",
+        "duration": 2663
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "Yk9UNdF-QsA",
+        "tags": [
+            "AWS",
+            "Events",
+            "Amazon AI Conclave 2019",
+            "AI Talks",
+            "AI Thought Leadership",
+            "Artificial Intelligence Videos",
+            "Machine Learning",
+            "AIML",
+            "aws events",
+            "aws events 2019"
+        ],
         "title": "Amazon AI Conclave 2019 - ML on Amazon EKS",
-        "date": "2020/02/14"
+        "description": "Speaker - Arun Gupta, Principal OS Technologist, AWS\n\nAmazon AI Conclave 2019 is the leading Artificial Intelligence and Machine learning conference held on Dec 19 -20, 2019 in Bangalore. It hosted over 1200 delegates comprising business and technology leaders from startups and enterprises, data scientists, ML developers, data engineers and architects. Sessions at the event covered some of the Amazon’s broadest and deepest set of machine learning and AI services.\n\nLearn more about AWS Machine Learning at - https://go.aws/2Sxs7YJ\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSEvents #AmazonAIConclave2019",
+        "date": "2020-02-14T22:31:46Z",
+        "duration": 3621
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "gNDi6l2tIws",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CON322-R1",
+            "Containers",
+            "The Vanguard Group",
+            "AWS Fargate"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] All in on AWS Fargate for high-security workloads (CON322-R1)",
-        "date": "2019/12/06"
+        "description": "AWS Fargate enables a serverless operational model for containers and offers a rich set of capabilities that support high-security workloads. In this session, you learn the security features and choices Fargate offers. You also learn how Vanguard chose to go all in on Fargate by running mission-critical applications that require enhanced security controls.",
+        "date": "2019-12-07T06:05:32Z",
+        "duration": 3246
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "62g8KCRJ_1Y",
+        "tags": [
+            "programming",
+            "aws",
+            "reinvent",
+            "ai",
+            "ml",
+            "developer",
+            "cloud computing",
+            "software",
+            "Aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "reinvent 2019",
+            "aws launchpad"
+        ],
         "title": "AWS re:Invent 2019 Launchpad | EKS Support Fargate Pods",
-        "date": "2020/03/17"
+        "description": "Subscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #reInvent2019 #AWSLaunchpad",
+        "date": "2020-03-17T21:06:14Z",
+        "duration": 1104
     },
     {
         "service": "elastic_kubernetes_service",
         "videoId": "MGcaaGgs82w",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CON329",
+            "Containers",
+            "Cash App",
+            "Amazon EKS"
+        ],
         "title": "AWS re:Invent 2019: Running Kubernetes clusters at scale: Square (CON329)",
-        "date": "2019/12/03"
+        "description": "Cash App, part of the Square ecosystem, has amassed over 15 million monthly active users and continues to grow. Building its next-gen stack on top of AWS-managed open-source technologies has allowed Cash App platform teams to focus on security and increase developer velocity and permitted the app’s product engineering teams to focus on business value. Come and learn how Cash App built its stack on top of Amazon EKS while leveraging AWS’s first-rate managed services. If you are running at scale any application that requires operational excellence and fine-grained security policies, this session is for you.",
+        "date": "2019-12-03T18:02:41Z",
+        "duration": 2253
     }
 ]

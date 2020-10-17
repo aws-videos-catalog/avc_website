@@ -1,20 +1,61 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=8tnxId2Q90Q",
-        "thumbnail": "",
-        "title": "Closing Keynote: How Amazon Migrated to AWS by Dr Werner Vogels",
-        "date": "2011/12/09"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=AyOAjFNPAbA",
-        "thumbnail": "",
-        "title": "AWS re:Invent 2016: Tuesday Night Live with James Hamilton",
-        "date": "2016/11/30"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=8vQmTZTq7nw",
-        "thumbnail": "",
+        "service": "legendary",
+        "videoId": "8vQmTZTq7nw",
+        "tags": [
+            "snowmobile",
+            "aws",
+            "amazon web services",
+            "andy jassy",
+            "exabyte-scale data transfer service",
+            "reinvent 2016",
+            "reinvent",
+            "cloud services",
+            "AWS Snowmobile"
+        ],
         "title": "AWS re:Invent 2016: Move Exabyte-Scale Data Sets with AWS Snowmobile",
-        "date": "2016/11/30"
+        "description": "Learn more about AWS Snowmobile at - http://amzn.to/2gKUiTd\nAWS Snowmobile is an exabyte-scale data transfer service used to move extremely large amounts of data to AWS. You can transfer up to 100PB per Snowmobile, a 45-foot long rugged sized shipping container, pulled by a semi-trailer truck. Snowmobile makes it easy to move massive volumes of data to the cloud, including video libraries, image repositories, or even a complete data center migration. Transferring data with Snowmobile is secure, fast and cost effective.",
+        "date": "2016-12-01T05:53:04Z",
+        "duration": 219
+    },
+    {
+        "service": "legendary",
+        "videoId": "AyOAjFNPAbA",
+        "tags": [
+            "James Hamilton",
+            "aws reinvent",
+            "2016 reinvent",
+            "reinvent keynote",
+            "amazon web services",
+            "cloud computing",
+            "las vegas",
+            "nasa",
+            "tech",
+            "cloud",
+            "matt wood",
+            "NASA JPL",
+            "Tom Soderstrom",
+            "technology",
+            "innovation"
+        ],
+        "title": "AWS re:Invent 2016: Tuesday Night Live with James Hamilton",
+        "description": "Learn more about AWS at: http://amzn.to/2g4uGgn\nWatch AWS VP & Distinguished Engineer James Hamilton kick off re:Invent 2016 discussing AWS innovation at scale. Also hear Tom Soderstrom talk about how NASA JPL is answering cosmic questions in new ways using AWS.",
+        "date": "2016-11-30T09:36:06Z",
+        "duration": 5607
+    },
+    {
+        "service": "legendary",
+        "videoId": "8tnxId2Q90Q",
+        "tags": [
+            "AWS Cloud Tour",
+            "Amazon Web Services",
+            "Cloud Computing",
+            "#awstour",
+            "Dr Werner Vogels"
+        ],
+        "title": "Closing Keynote: How Amazon Migrated to AWS by Dr Werner Vogels",
+        "description": "Closing Keynote: How Amazon Migrated to AWS, Dr Werner Vogels, CTO, Amazon",
+        "date": "2011-12-10T02:33:47Z",
+        "duration": 3037
     }
 ]

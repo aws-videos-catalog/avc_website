@@ -2,103 +2,356 @@
     {
         "service": "data_pipeline",
         "videoId": "6tBp2JuYmSg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference 2018"
+        ],
         "title": "Data Pipelines with AWS Glue (Level 200)",
-        "date": "2018/08/24"
+        "description": "Learn more about the AWS Innovate Online Conference at - https://amzn.to/2w87ZCc.\nCompanies need to gain insight and knowledge as a result of the growing number of IoT devices, APIs, clickstreams, unstructured, and log data sources. However, they are also often limited by legacy data warehouses and ETL processes designed for transactional data. In this session, we introduce the key ETL features of AWS Glue and explore how to build scalable, efficient, and serverless ETL pipelines using AWS Glue. In addition, learn how our customer, NEXTY Electronics, a Toyota Tsusho Group company, built their real-time data ingestion and batch analytics pipeline using AWS big data and analytics services.\n\nSpeakers:\n- Unni Pillai, Specialist Solution Architect, Big Data and Analytics, Amazon Web Services\n- Thanomsak Ajjanapanya, Data Engineering Manager, Toyota Tsusho – Thailand",
+        "date": "2018-08-24T19:53:07Z",
+        "duration": 1690
     },
     {
         "service": "data_pipeline",
         "videoId": "ziorTgT0Zac",
+        "tags": [
+            "aws",
+            "amazon web services",
+            "cloud computing",
+            "big data",
+            "hadoop",
+            "data pipeline",
+            "reinvent",
+            "BDT"
+        ],
         "title": "AWS re:Invent BDT 201: AWS Data Pipeline: A guided tour",
-        "date": "2012/12/03"
+        "description": "In this session, we'll review the features and architecture of the new AWS Data Pipeline service and explain how you can use it to better manage your data-driven workloads. We'll then go over a few examples of setting up and provisioning a pipeline in the system.",
+        "date": "2012-12-03T21:41:14Z",
+        "duration": 1856
     },
     {
         "service": "data_pipeline",
         "videoId": "0qAoKh3ghLI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Data Pipeline",
+            "Amazon RDS",
+            "Troubleshooting",
+            "Amazon EC2"
+        ],
         "title": "Basic Troubleshooting with AWS Data Pipeline",
-        "date": "2013/07/03"
+        "description": "In this video, you will learn how to troubleshoot a failed pipeline with the AWS Data Pipeline web console by viewing scheduled instances/attempts, locating error messages, correcting errors, and rerunning failed instances.\n\nLearn more about AWS Data Pipeline at aws.amazon.com/datapipeline",
+        "date": "2013-07-03T20:42:54Z",
+        "duration": 321
     },
     {
         "service": "data_pipeline",
         "videoId": "uNAmsoLed1E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "ServerlessDatamart",
+            "BHFL",
+            "Amazon Aurora",
+            "AWS Database Migration Service",
+            "AWS Glue",
+            "AWS Lambda",
+            "AWS Key Management Service (KMS)",
+            "This is My Architecture",
+            "TMA"
+        ],
         "title": "Bajaj Housing Finance Limited: Serverless Data Pipelines with AWS Glue and Amazon Aurora PGSQL",
-        "date": "2019/11/09"
+        "description": "Aniruddha from BHFL shares their experience of creating a secure, serverless data pipeline to power BHFL’s Enterprise DataMart on Amazon Postgres. He delves into the details of  how his team leveraged AWS Glue, Lambda, KMS, and Database Migration Service to build the DataMart in less than 90 days.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-11-09T16:16:00Z",
+        "duration": 373
     },
     {
         "service": "data_pipeline",
         "videoId": "rsh5F66wI9c",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Data Pipeline",
+            "Amazon EMR",
+            "Hive",
+            "Amazon Elastic MapReduce",
+            "Apache",
+            "logs",
+            "time series",
+            "cron",
+            "job flow"
+        ],
         "title": "Process Web Logs with AWS Data Pipeline, Amazon EMR, and Hive",
-        "date": "2013/07/25"
+        "description": "In this video, you will learn how to use AWS Data Pipeline and a console template to create a functional pipeline.\n\nThe pipeline uses an Amazon EMR cluster and a Hive script to read Apache web access logs, select certain columns, and write the reformatted output to an Amazon S3 bucket.\n\nLearn more about AWS Data Pipeline at http://aws.amazon.com/datapipeline",
+        "date": "2013-01-25T17:10:42Z",
+        "duration": 274
     },
     {
         "service": "data_pipeline",
         "videoId": "npPGAlNJXlU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013customer-presentation",
+            "bigdata",
+            "startups",
+            "Data Pipeline",
+            "S3",
+            "RDS",
+            "DynamoDB",
+            "Redshift",
+            "Anthony-Accardi",
+            "bdt"
+        ],
         "title": "Big Data Integration & Analytics Data Flows with AWS Data Pipeline (BDT207) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "AWS offers many data services, each optimized for a specific set of structure, size, latency, and concurrency requirements. Making the best use of all specialized services has historically required custom, error-prone data transformation and transport. Now, users can use the AWS Data Pipeline service to orchestrate data flows between Amazon S3, Amazon RDS, Amazon DynamoDB, Amazon Redshift, and on-premise data stores, seamlessly and efficiently applying EC2 instances and EMR clusters to process and transform data. In this session, we demonstrate how you can use AWS Data Pipeline to coordinate your Big Data workflows, applying the optimal data storage technology to each part of your data integration architecture.   Swipely's Head of Engineering shows how Swipely uses AWS Data Pipeline to build batch analytics, backfilling all their data, while using resources efficiently. Consequently, Swipely launches novel product features with less development time and less operational complexity.",
+        "date": "2013-11-26T19:45:31Z",
+        "duration": 2756
     },
     {
         "service": "data_pipeline",
         "videoId": "oOIgMSv2rug",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Big Data & HPC",
+            "Advanced",
+            "AWS Data Pipeline",
+            "Big Data",
+            "Architecture",
+            "Amazon Redshift",
+            "Amazon Elastic MapReduce",
+            "Coursera",
+            "Architect",
+            "Technical Decision Maker",
+            "Enterprise",
+            "Developer",
+            "P. Thomas Barthelemy",
+            "Roy Ben-Alta"
+        ],
         "title": "AWS re:Invent 2014 | (BDT303) Construct ETL Pipeline w/ AWS Data Pipeline, Amazon EMR & Redshift",
-        "date": "2014/11/17"
+        "description": "An advantage to leveraging Amazon Web Services for your data processing and warehousing use cases is the number of services available to construct complex, automated architectures easily. Using AWS Data Pipeline, Amazon EMR, and Amazon Redshift, we show you how to build a fault-tolerant, highly available, and highly scalable ETL pipeline and data warehouse.  Coursera will show how they built their pipeline, and share best practices from their architecture.",
+        "date": "2014-11-18T00:16:21Z",
+        "duration": 2472
     },
     {
         "service": "data_pipeline",
         "videoId": "OLDILtIqI_M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "startups",
+            "data pipelines"
+        ],
         "title": "Unravel: Migrating and Scaling Data Pipelines with AI on Amazon EMR, Redshift & Athena",
-        "date": "2019/04/05"
+        "description": "Learn more about AWS Startups at – https://amzn.to/2YV4iN0 \nUnravel CEO Kunal Agarwal and CTO Shivnath Babu talk about migrating and salcing data pipelines on AWS at the 2019 AWS Santa Clara Summit.",
+        "date": "2019-04-05T20:41:30Z",
+        "duration": 1022
     },
     {
         "service": "data_pipeline",
         "videoId": "9_jC8z5UgvQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Jae Young Lee",
+            "AWS Startups",
+            "Dots"
+        ],
         "title": "How Dots Uses AWS Data Pipeline to Punch Above Its Weight",
-        "date": "2018/07/10"
+        "description": "Dots Data Scientist Jae Young Lee talks about how the startup behind the popular puzzle game punches above its weight with the help of AWS Data Pipeline. Learn more about AWS Startups at - https://amzn.to/2zcT3Xj.",
+        "date": "2018-07-10T16:02:42Z",
+        "duration": 122
     },
     {
         "service": "data_pipeline",
         "videoId": "YGNu6SLCk50",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "BDM303",
+            "Advanced (300 level)",
+            "Big Data Mini Con"
+        ],
         "title": "AWS re:Invent 2016: JustGiving: Serverless Data Pipelines, ETL & Stream Processing (BDM303)",
-        "date": "2016/12/01"
+        "description": "Organizations need to gain insight and knowledge from a growing number of Internet of Things (IoT), application programming interfaces (API), clickstreams, unstructured and log data sources. However, organizations are also often limited by legacy data warehouses and ETL processes that were designed for transactional data. Building scalable big data pipelines with automated extract-transform-load (ETL) and machine learning processes can address these limitations. JustGiving is the world’s largest social platform for online giving. In this session, we describe how we created several scalable and loosely coupled event-driven ETL and ML pipelines as part of our in-house data science platform called RAVEN. You learn how to leverage AWS Lambda, Amazon S3, Amazon EMR, Amazon Kinesis, and other services to build serverless, event-driven, data and stream processing pipelines in your organization. We review common design patterns, lessons learned, and best practices, with a focus on serverless big data architectures with AWS Lambda.",
+        "date": "2016-12-01T20:50:25Z",
+        "duration": 3246
     },
     {
         "service": "data_pipeline",
         "videoId": "AaRawf9vcZ4",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Serverless",
+            "SRV319",
+            "Kinesis",
+            "RDS",
+            "Redshift",
+            "Networking"
+        ],
         "title": "AWS re:Invent 2017: How Nextdoor Built a Scalable, Serverless Data Pipeline for Bill (SRV319)",
-        "date": "2017/11/30"
+        "description": "In this session, learn how Nextdoor replaced their home-grown data pipeline based on a topology of Flume nodes with a completely serverless architecture based on Kinesis and Lambda. By making these changes, they improved both the reliability of their data and the delivery times of billions of records of data to their Amazon S3–based data lake and Amazon Redshift cluster. Nextdoor is a private social networking service for neighborhoods.",
+        "date": "2017-11-30T15:56:37Z",
+        "duration": 3646
     },
     {
         "service": "data_pipeline",
         "videoId": "xwbKvmOxb8g",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "HadoopActivity",
+            "dynamodb backup"
+        ],
         "title": "AWS Knowledge Center Videos: How do I run concurrent jobs in an EMR cluster using AWS Data Pipeline?",
-        "date": "2016/12/12"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/concurrent-emr-jobs-data-pipeline/\nMagesh, an AWS Cloud Support Engineer, shows you how to run concurrent jobs in an EMR cluster using AWS Data Pipeline.",
+        "date": "2016-12-12T15:17:19Z",
+        "duration": 437
     },
     {
         "service": "data_pipeline",
         "videoId": "nR6FVwpiUSo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "gaming",
+            "Chef",
+            "League of Legends",
+            "Trotter-Cashion",
+            "arc"
+        ],
         "title": "Deploying the 'League of Legends' Data Pipeline with Chef (ARC205) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "Over the past year, the data team at Riot Games has been using Chef to both configure instances in Amazon Elastic Compute Cloud (EC2) and build AMIs. With Chef as an integral part of the workflow, we've autoscaled thousands of instances in support of the data pipeline for League of Legends and have found that Chef doesn't always play perfectly in the world of autoscaling groups and ephemeral instances. In this talk, we cover what's worked and what's failed and explain how to best utilize Chef in the world of Amazon Web Services.",
+        "date": "2013-11-26T19:40:34Z",
+        "duration": 3423
     },
     {
         "service": "data_pipeline",
         "videoId": "NLCLoJnhDOM",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Financial Services",
+            "Public Sector",
+            "Big Data & Analytics",
+            "BDT404",
+            "Sourabh Bajaj - Coursera Inc",
+            "Expert (400 level)"
+        ],
         "title": "AWS re:Invent 2015 | (BDT404) Large-Scale ETL Data Flows w/AWS Data Pipeline & Dataduct",
-        "date": "2015/10/12"
+        "description": "As data volumes grow, managing and scaling data pipelines for ETL and batch processing can be daunting. With more than 13.5 million learners worldwide, hundreds of courses, and thousands of instructors, Coursera manages over a hundred data pipelines for ETL, batch processing, and new product development.\n \nIn this session, we dive deep into AWS Data Pipeline and Dataduct, an open source framework built at Coursera to manage pipelines and create reusable patterns to expedite developer productivity. We share the lessons learned during our journey: from basic ETL processes, such as loading data from Amazon RDS to Amazon Redshift, to more sophisticated pipelines to power recommendation engines and search services.\n \nAttendees learn:\nDo's and don’ts of Data Pipeline Using Dataduct to streamline your data pipelines\nHow to use Data Pipeline to power other data products, such as recommendation systems\nWhat’s next for Dataduct",
+        "date": "2015-10-12T19:26:53Z",
+        "duration": 2309
     },
     {
         "service": "data_pipeline",
         "videoId": "iFeb7wL4ch8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I create an SNS notification that includes error information for a Data Pipeline activity?",
-        "date": "2020/05/20"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/sns-notification-error-data-pipeline/\nSnehal shows you how to create an SNS notification that includes error information for a Data Pipeline activity.",
+        "date": "2020-05-20T17:58:56Z",
+        "duration": 233
     },
     {
         "service": "data_pipeline",
         "videoId": "2SGOyhwcbV4",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "SVS317-R1",
+            "Serverless",
+            "Comcast",
+            "AWS Lambda",
+            "Amazon Kinesis"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Serverless stream processing pipeline best practices (SVS317-R1)",
-        "date": "2019/12/06"
+        "description": "Streaming data pipelines are increasingly used to replace batch processing with real-time decision-making for use cases including log processing, real-time monitoring, data lake analytics, and machine learning. Join this session to learn how to leverage Amazon Kinesis and AWS Lambda to solve real-time ingestion, processing, storage, and analytics challenges. We introduce design patterns and best practices as well as share a customer journey in building large-scale real-time serverless analytics capabilities.",
+        "date": "2019-12-07T05:50:08Z",
+        "duration": 3627
     },
     {
         "service": "data_pipeline",
         "videoId": "U3tff9U3LG0",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CMY305",
+            "BOOTCAMP INSTITUTE",
+            "AWS IoT Core",
+            "Amazon Kinesis",
+            "Amazon EMR"
+        ],
         "title": "AWS re:Invent 2019: IoT big data pipeline for serverless analytics and anomaly detection (CMY305)",
-        "date": "2019/12/03"
+        "description": "In this talk, we walk through the process of building an end-to-end big data pipeline using AWS managed services. Follow along and learn how to detect anomalous trajectories across different transportation industries ingesting IoT geo-referenced data and receiving real-time insights with Amazon Kinesis Data Analytics and AWS Glue. At the end of this session, you’ll understand how to customize and deploy this solution at scale.",
+        "date": "2019-12-03T18:02:37Z",
+        "duration": 2946
     }
 ]

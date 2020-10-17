@@ -2,73 +2,220 @@
     {
         "service": "amazon_comprehend",
         "videoId": "hdXvVyVjPLg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Comprehend",
+            "re:Invent 2017",
+            "Andy Jassy",
+            "product launch",
+            "NLP",
+            "natural language processing",
+            "machine learning"
+        ],
         "title": "AWS re:Invent 2017 - Introducing Amazon Comprehend",
-        "date": "2018/01/12"
+        "description": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning to find insights and relationships in text. Learn more at - http://amzn.to/2D7LSBr.",
+        "date": "2018-01-12T17:39:27Z",
+        "duration": 186
     },
     {
         "service": "amazon_comprehend",
         "videoId": "Q1RWpB2juKI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Comprehend",
+            "Natural Language processing",
+            ".NET"
+        ],
         "title": "How to Use AWS Comprehend to Perform Sentiment Analysis on a Text",
-        "date": "2018/11/21"
+        "description": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning to find insights and relationships in text. No machine learning experience required.\nFor more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2t7AHBA.",
+        "date": "2018-11-21T20:40:48Z",
+        "duration": 514
     },
     {
         "service": "amazon_comprehend",
         "videoId": "6ZK5uGc6-js",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "text analytics",
+            "amazon comprehend",
+            "amazon translate"
+        ],
         "title": "Build Text Analytics Solutions with Amazon Comprehend & Amazon Translate",
-        "date": "2018/08/27"
+        "description": "Learn more about Machine Learning at AWS - https://amzn.to/2oe0Mfm.\nWe met with industry experts to discuss machine learning at our San Francisco Loft. In this episode we discussed how to build text analytics solutions with Amazon Comprehend and Amazon Translate.\n\nVisit https://aws.amazon.com/twitch for more information on the current live coding shows, upcoming episode schedule, or for recordings of previous broadcasts.",
+        "date": "2018-08-27T19:27:00Z",
+        "duration": 3145
     },
     {
         "service": "amazon_comprehend",
         "videoId": "m1z6GOezK1E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Comprehend",
+            "Twitch",
+            "re:Invent 2017",
+            "re:Invent Launchpad"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - Amazon Comprehend",
-        "date": "2017/12/08"
+        "description": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning to find insights and relationships in text. Learn more at - http://amzn.to/2Actmlv. Amazon Comprehend identifies the language of the text; extracts key phrases, places, people, brands, or events; understands how positive or negative the text is; and automatically organizes a collection of text files by topic. You can use the Amazon Comprehend APIs to analyze text and use the results in a wide range of applications including voice of customer analysis, intelligent document search, and content personalization for web applications. \n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:30:13Z",
+        "duration": 1009
     },
     {
         "service": "amazon_comprehend",
         "videoId": "cJ3eUPOXV4Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AIM398",
+            "reinvent 2018",
+            "re:Invent 2018"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing Amazon Comprehend Medical (AIM398)",
-        "date": "2018/12/07"
+        "description": "Amazon Comprehend Medical is a service that makes it easier for developers to leverage state-of-the-art machine learning to extract medical entities—such as medical condition and medication, its dosage, strength, and frequency—from unstructured text, such as doctor’s notes, clinical trial reports, and patient health records, with high accuracy. Come learn more about how you can use Amazon Comprehend Medical to help healthcare providers and clinical researchers reduce the cost, time, and effort in processing large amounts of unstructured medical text.",
+        "date": "2018-12-07T16:52:24Z",
+        "duration": 3337
     },
     {
         "service": "amazon_comprehend",
         "videoId": "Ku_CTsCWxFA",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Machine Learning",
+            "MCL343",
+            "AI",
+            "Lex",
+            "Analytics"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Natural Language Processing with Amazon Comprehend (MCL343)",
-        "date": "2017/12/01"
+        "description": "The need for Natural Language Processing (NLP) is gaining more importance as the amount of unstructured text data doubles every 18 months and customers are looking to extend their existing analytics workloads to include natural language capabilities. Historically, this data had been prohibitively expensive to store and early manual processing evolved into rule-based systems, which were expensive to operate and inflexible. In this session we will show you how you can address this problem using [DeepInsight].",
+        "date": "2017-12-01T16:48:03Z",
+        "duration": 3611
     },
     {
         "service": "amazon_comprehend",
         "videoId": "yMnDpUk36Z8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            ".NET",
+            "Framwork",
+            "Core",
+            "Amazon Comprehend"
+        ],
         "title": "Using Amazon Comprehend with .NET",
-        "date": "2019/10/04"
+        "description": "Learn more about AWS at – https://amzn.to/2InxnKd\nIn this video we will show you how to using Amazon Comprehend in your .NET application. Amazon Comprehend is a machine learning powered service that makes it easy to find insights and relationships in text.",
+        "date": "2019-10-04T18:11:15Z",
+        "duration": 311
     },
     {
         "service": "amazon_comprehend",
         "videoId": "nnKXxFNiYQg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Turn Your Words into Pictures with Amazon Transcribe & Amazon Comprehend",
-        "date": "2019/05/24"
+        "description": "https://aws.amazon.com/developer/community/twitch/\nMissed the AWS Sydney Summit 2019? Learn how cloud technology can help your business lower costs, improve efficiency, and innovate at scale. This session is a recording from Innovation Day.",
+        "date": "2019-05-24T16:18:10Z",
+        "duration": 819
     },
     {
         "service": "amazon_comprehend",
         "videoId": "jihc4nAWy14",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Modernize Your Contact Center with AI: Gain Valuable Insights by Transcribing Recordings",
-        "date": "2019/01/14"
+        "description": "Learn more about Amazon Transcribe at https://amzn.to/2sfzmHW, \nAmazon Comprehend at https://amzn.to/2VAfSv8, \nand Amazon Connect at https://amzn.to/2ACTlF2.\n\nGain insights into your Amazon Connect contact center from transcribed call recordings. Analyze call recordings using Amazon Transcribe, a fully managed and continuously trained automatic speech recognition service, and Amazon Comprehend, a natural language processing (NLP) service that uses machine learning to find insights and relationships in text.",
+        "date": "2019-01-14T18:06:18Z",
+        "duration": 334
     },
     {
         "service": "amazon_comprehend",
         "videoId": "AKDUZdvMLK8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Events",
+            "machine learning",
+            "Twitch",
+            "learn machine learning",
+            "demo",
+            "video",
+            "artificial intelligence",
+            "developers",
+            "learn ML",
+            "learn AI",
+            "Amazon Comprehend"
+        ],
         "title": "Get Started with Machine Learning | AWS Power Hour: Machine Learning | Episode 3: Amazon Comprehend",
-        "date": "2020/08/28"
+        "description": "Learn about Amazon Comprehend, a natural language processing service that uses Machine Learning to find insights and relationships in text.  Building on the previous episode about using ML to extract text and data from documents, this episode shows how Amazon Comprehend can help you start gaining greater insights from that text. \n\nAWS Power Hour: Machine Learning is a weekly live-streamed program that premiered Thursday, July 23, at 4 p.m. PST and aired at that time every Thursday for seven weeks. Each show features the AWS hosts and a special guest as they demonstrate how to build apps with AI Services from AWS.\n\nLearn more about AWS Machine Learning at - https://bit.ly/2D86evk\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-08-29T01:30:37Z",
+        "duration": 3877
     },
     {
         "service": "amazon_comprehend",
         "videoId": "0SVtt5wz_rE",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Digital User Engagement",
+            "DIG301",
+            "Amazon Comprehend",
+            "Amazon Pinpoint"
+        ],
         "title": "AWS re:Invent 2018: Listen to Your Customers Voice & Engage Them w/ Delightful Experiences (DIG301)",
-        "date": "2018/11/30"
+        "description": "In this session, we demonstrate how to easily deploy an AWS solution that ingests all Tweets from any Twitter handle, uses Amazon Comprehend to generate a sentiment score, and then automatically engages customers with a personalized message. The intended audience includes developers and marketers who want to leverage AWS to create powerful user engagement scenarios. We highlight how quickly a machine-learning marketing solution can be deployed. We cover the AWS services Amazon Pinpoint, a digital user engagement service, and Amazon Comprehend, a natural language processing service that uses artificial intelligence and machine learning to find insights and relationships in text. Complete Title: AWS re:Invent 2018: Listen to Your Customers' Social Voice & Engage Them with Delightful Experiences (DIG301)",
+        "date": "2018-11-30T16:38:23Z",
+        "duration": 2625
     },
     {
         "service": "amazon_comprehend",
         "videoId": "x9HD0tT6pDk",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "GPSTEC341",
+            "Partner"
+        ],
         "title": "AWS re:Invent 2019: Insights into patient health with Amazon Comprehend Medical (GPSTEC341)",
-        "date": "2019/12/08"
+        "description": "Although this Global Partner Summit session is open to anyone, it is geared toward current and potential AWS Partner Network (APN) Partners. In Healthcare, the patient is our end customer. Yet building a holistic view of the patient is often manual, error-prone, and requires integrating siloed information. In this session, we show how patient centricity can be simplified using services like Amazon Comprehend Medical, including features such as protected health information (PHI), relationship extraction, negation, and diagnosis traits. We also show how to enforce data privacy using masking methods on AWS and discuss how you as an APN Partner can take on this challenge.",
+        "date": "2019-12-08T23:36:13Z",
+        "duration": 2444
     }
 ]

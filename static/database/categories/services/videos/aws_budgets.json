@@ -2,13 +2,41 @@
     {
         "service": "aws_budgets",
         "videoId": "-Luvf6UlhiI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "awspssummit",
+            "asean",
+            "singapore 2019"
+        ],
         "title": "Making Friends with Finance: How to Manage Cost Efficiency and Budget on AWS",
-        "date": "2019/10/06"
+        "description": "Learn more about AWS at – https://amzn.to/2Bk64fL \nThis session summarizes lessons learned from customers on how they maximize value on AWS by spending efficiently and spend to budget. We will cover in depth the power of cost visibility and transparency, estimated spend, many commons ways to save, and popular tools used in the world of cost management and optimisation.",
+        "date": "2019-10-16T21:10:32Z",
+        "duration": 2235
     },
     {
         "service": "aws_budgets",
         "videoId": "BZO8AEMSUcM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit Tel Aviv",
+            "summit",
+            "Adrian Cockroft",
+            "amazon web services",
+            "כנס אמזון",
+            "אמזון ווב סרביסס",
+            "סאמיט 2019"
+        ],
         "title": "AWS Summit Tel Aviv 2019 | Budget Management with Cloud Economics",
-        "date": "2019/03/27"
+        "description": "Learn more about AWS at - https://amzn.to/2HzfA3V   \nCloud Computing lets you pay for what you actually use.How can you deliver innovation efficiently and cost effectively?In this session, we will discuss the various options that will help you manage your costs and developing a cost-conscious culture in the cloud.We will review a wide range of cost planning, monitoring and optimization strategies. Starting with the meaning of moving from CAPEX to variable IT expenses, to how you can optimize by using multiple purchasing options and how to monitor your operational expense.\n\nView Slides: https://www.slideshare.net/AWSSummits/budget-management-with-cloud-economics-aws-summit-tel-aviv-2019-137465870",
+        "date": "2019-03-27T17:12:06Z",
+        "duration": 2175
     }
 ]

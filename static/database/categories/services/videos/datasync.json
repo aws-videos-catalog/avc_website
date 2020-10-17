@@ -2,85 +2,309 @@
     {
         "service": "datasync",
         "videoId": "_qhTF-gB-JE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "DataSync",
+            "data transfer",
+            "aws datasync walkthrough",
+            "data transfer tool",
+            "data transfer service",
+            "data transfer methods",
+            "data transfer rate"
+        ],
         "title": "AWS DataSync Demo - Easily Transfer Data to and From AWS Up to 10x Faster",
-        "date": "2020/05/12"
+        "description": "AWS DataSync makes it simple and fast to move large amounts of data between on-premises storage and AWS. DataSync makes it easy for you to move data by automating both the management of data transfer processes and the infrastructure required for high-performance, secure data transfer. \n\nIn this video we demonstrate how you can use DataSync to quickly move data between on-premises storage systems and Amazon S3, Amazon EFS, and Amazon FSx for Windows File Server.\n\nLearn more about Amazon DataSync at https://go.aws/2WrlTg8\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDataSync",
+        "date": "2020-05-12T22:35:57Z",
+        "duration": 331
     },
     {
         "service": "datasync",
         "videoId": "jPRquig6Nrw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws datasync",
+            "data transfer",
+            "data migration",
+            "data processing",
+            "data protection",
+            "Amazon"
+        ],
         "title": "AWS DataSync",
-        "date": "2020/01/24"
+        "description": "AWS DataSync is a data transfer service that makes it easy for you to automate moving data between on-premises storage and Amazon S3, Amazon Elastic File System (Amazon EFS), or Amazon FSx for Windows File Server. The service enables one-time data migrations, recurring data processing workflows, and automated replication for data protection and recovery. \n\nDataSync automatically handles many of the tasks related to data transfers that can slow down migrations or burden your IT operations, including running your own instances, handling encryption, managing scripts, network optimization, and data integrity validation. You can use DataSync to transfer data at speeds up to 10 times faster than open-source tools.\n\nLearn more about AWS DataSync at https://amzn.to/35iVQJq",
+        "date": "2020-01-24T19:26:25Z",
+        "duration": 93
     },
     {
         "service": "datasync",
         "videoId": "PA3PuU3beFI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Storage",
+            "STG324"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] AWS DataSync - Automate & accelerate online data transfer (STG324)",
-        "date": "2018/01/01"
+        "description": "Lear more about AWS DataSync at - https://amzn.to/2HW9DNA\nAWS DataSync is a new online data transfer service that automates movement of data between on-premises storage and Amazon S3 or Amazon Elastic File System (Amazon EFS). In this session, we will introduce the service, showing how you can use DataSync to move active on-premises data to the cloud for one-time migration, timely in-cloud analysis, and replication for data protection and recovery. We’ll demonstrate how to get started with DataSync, and you’ll hear how it is helping Cox Automotive to move their archive of millions of images to AWS.",
+        "date": "2018-12-01T22:29:25Z",
+        "duration": 3078
     },
     {
         "service": "datasync",
         "videoId": "YO-i6GIGD1E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "FSX",
+            "DataSync",
+            "File Server",
+            "Windows"
+        ],
         "title": "Migrating your Data to Amazon FSx for Windows File Server with AWS DataSync",
-        "date": "2020/03/12"
+        "description": "Learn how to easily migrate your on-premises file servers to Amazon FSx for Windows File Server using AWS DataSync which is AWS’s data transfer service. In this video, we’ll walkthrough how to setup AWS DataSync and then how to migrate your files from on-premises servers to Amazon FSx.\n\nLearn more about Amazon FSx for Windows File Server at https://go.aws/2TZ9Ioi\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #AmazonFSx",
+        "date": "2020-03-12T16:25:37Z",
+        "duration": 803
     },
     {
         "service": "datasync",
         "videoId": "A3mhkTnlmmc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws datasync",
+            "data transfer",
+            "data migration",
+            "data processing",
+            "data protection"
+        ],
         "title": "AWS DataSync in 30 Seconds",
-        "date": "2020/02/24"
+        "description": "Learn more about AWS DataSync at – https://amzn.to/2IlaE1H \nAWS DataSync is a data transfer service that makes it easy for you to automate moving data between on-premises storage and Amazon S3 or Amazon Elastic File System (Amazon EFS). The service enables one-time data migrations, recurring data processing workflows, and automated replication for data protection and recovery. \n\nDataSync automatically handles many of the tasks related to data transfers that can slow down migrations or burden your IT operations, including running your own instances, handling encryption, managing scripts, network optimization, and data integrity validation. You can use DataSync to transfer data at speeds up to 10 times faster than open-source tools.\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #AWSDataSync",
+        "date": "2020-02-24T18:19:41Z",
+        "duration": 32
     },
     {
         "service": "datasync",
         "videoId": "6wXZj-OT6Ko",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I set up a notification when my DataSync task execution is complete?",
-        "date": "2019/12/23"
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/2nWHZZ4\nRohit, an AWS Cloud Support Engineer, shows you how to set up a notification when your DataSync task execution is complete.",
+        "date": "2019-12-23T20:27:10Z",
+        "duration": 349
     },
     {
         "service": "datasync",
         "videoId": "IHMZT2S_XuI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "AWS Cloud",
+            "Cloud Computing",
+            "aws storage",
+            "cloud storage",
+            "file gateway",
+            "storage gateway",
+            "datasync",
+            "amazon s3",
+            "data lake",
+            "backup",
+            "archive",
+            "data transfer",
+            "data migration"
+        ],
         "title": "Accelerate the Migration of 10,000 Small Files From NFS to Amazon S3 Using AWS DataSync",
-        "date": "2020/08/13"
+        "description": "In this demo video, we will use two methods to transfer 10,000 very small files from an NFS share to an Amazon S3 bucket. We will discuss scenarios where you want to accelerate the transfer of application data, or backup and archive data to Amazon S3 and its storage classes. First, we will use a copy script and then AWS DataSync, then we will compare the benefits AWS DataSync provides from a simplicity, performance, metadata, and data integrity checking perspective.\n\nLearn more about AWS Storage at - https://amzn.to/3fSyYp4\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-08-13T16:34:10Z",
+        "duration": 492
     },
     {
         "service": "datasync",
         "videoId": "sEefsQjOIzE",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Storage",
+            "DEM103",
+            "AWS Storage Gateway"
+        ],
         "title": "AWS re:Invent 2018: How to Move Data to Amazon S3 and Access It On-Premises (DEM103)",
-        "date": "2018/11/28"
+        "description": "Join this demo-driven session to learn about a simple way to move data rapidly into Amazon S3. Then, see how to access it on-premises with AWS Storage Gateway for local applications. You’ll leave understanding how to improve data transfer performance without the manual labor of extensive scripting or the cost of third-party licensed software.",
+        "date": "2018-11-28T18:31:31Z",
+        "duration": 1151
     },
     {
         "service": "datasync",
         "videoId": "jX6pEWf344I",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Financial Services",
+            "Mobile Developer & IoT",
+            "MBL402",
+            "Stephen Johnson - Amazon Web Services",
+            "Valentin Polouchkine - Twitter",
+            "Expert (400 level)"
+        ],
         "title": "AWS re:Invent 2015 | (MBL402) Mobile Identity Management & Data Sync Using Amazon Cognito",
-        "date": "2015/10/21"
+        "description": "Developing mobile apps can be complex and time-consuming. Learn how to simplify mobile identity management and data synchronization across devices. In addition, learn how to follow security best practices to give your app access to the resources it needs to provide a great user experience without hard-coding security credentials. We will cover how to easily and securely onboard users as anonymous guests using public login providers like Amazon, Facebook, Twitter, or your own user identity system. We are very excited to have Twitter representatives join us on stage for a deep dive on authenticating users with Twitter and Digits, which enables users to sign in with their phone numbers.",
+        "date": "2015-10-21T16:32:26Z",
+        "duration": 3154
     },
     {
         "service": "datasync",
         "videoId": "D2HtAxncbls",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "STG342",
+            "Storage",
+            "Millennium Management",
+            "Walt Disney Imagineering"
+        ],
         "title": "AWS re:Invent 2019: Rapid online data transfer with AWS DataSync (STG342)",
-        "date": "2019/12/10"
+        "description": "AWS DataSync is an online data transfer service that automates movement of data between on-premises storage and Amazon Simple Storage Service (Amazon S3) or Amazon Elastic File System (Amazon EFS). This session shows how you can use DataSync to move active on-premises data to the cloud for one-time migration, timely in-cloud analysis, and replication for data protection and recovery. We demonstrate how to get started with DataSync, and you hear how an enterprise customer rapidly moved hundreds of terabytes of data into AWS and what they learned from their experiences.",
+        "date": "2019-12-10T18:45:10Z",
+        "duration": 3315
     },
     {
         "service": "datasync",
         "videoId": "7kZUZa65xPs",
+        "tags": [
+            "AWS",
+            "Events",
+            "aws reinvent 2019",
+            "aws reinvent",
+            "data transfer",
+            "cloud storage",
+            "aws datasync",
+            "amazon s3",
+            "hybrid cloud storage",
+            "cloud migration",
+            "walt disney imagineering",
+            "data migration",
+            "online data transfer",
+            "hybrid workloads"
+        ],
         "title": "Rapid Online Data Transfer with AWS DataSync - Walt Disney Imagineering",
-        "date": "2020/02/28"
+        "description": "Learn how Walt Disney Imagineering uses AWS DataSync to rapidly move hundreds of terabytes of data into AWS and what they learned from their experience.\n\nView the full re:Invent session at http://bit.ly/2w8mHM6\nLearn more about AWS DataSync at https://go.aws/382KwCq\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSEvents #AWSDataSync",
+        "date": "2020-02-28T17:00:02Z",
+        "duration": 537
     },
     {
         "service": "datasync",
         "videoId": "lNb418V-rC0",
+        "tags": [
+            "AWS",
+            "Events",
+            "aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "aws reinvent",
+            "storage",
+            "cloud storage",
+            "aws datasync",
+            "transfer data",
+            "data transfer",
+            "migrate data",
+            "data migration",
+            "online data transfer",
+            "compliance",
+            "millenium management",
+            "disaster recovery",
+            "amazon s3",
+            "amazon s3 glacier",
+            "backup architecture",
+            "backup process"
+        ],
         "title": "Rapid Online Data Transfer with AWS DataSync (STG342) - Millenium Management",
-        "date": "2020/02/20"
+        "description": "Learn how Millenium Management uses AWS DataSync to automate the movement of hundreds of TBs of data from on-premises to the AWS Cloud.\n\nView the full re:Invent session at http://bit.ly/2w8mHM6\nLearn more about AWS DataSync at https://go.aws/2So3NcM\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSEvents #AWSDataSync",
+        "date": "2020-02-20T20:07:15Z",
+        "duration": 881
     },
     {
         "service": "datasync",
         "videoId": "c3CKrxcrjIs",
+        "tags": [
+            "AWS",
+            "Events",
+            "cloud storage",
+            "aws datasync",
+            "amazon s3",
+            "hybrid cloud storage",
+            "cloud migration",
+            "walt disney imagineering",
+            "data transfer",
+            "data migration",
+            "online data transfer",
+            "hybrid workloads"
+        ],
         "title": "Rapid Online Data Transfer with AWS DataSync - Walt Disney Imagineering Benefits",
-        "date": "2020/02/28"
+        "description": "Learn how Walt Disney Imagineering uses AWS DataSync to rapidly move hundreds of terabytes of data into AWS and what they learned from their experience.\n\nView the full re:Invent session at http://bit.ly/2w8mHM6\nLearn more about AWS DataSync at https://go.aws/32u765G\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSEvents #AWSDataSync",
+        "date": "2020-02-28T17:00:09Z",
+        "duration": 213
     },
     {
         "service": "datasync",
         "videoId": "sEWJgCwxumA",
+        "tags": [
+            "AWS",
+            "Events",
+            "aws events",
+            "aws reinvent 2019",
+            "aws reinvent",
+            "aws datasync",
+            "aws datasync tutorial",
+            "storage",
+            "cloud storage",
+            "transfer data",
+            "data transfer",
+            "migrate data",
+            "data migration",
+            "online data transfer",
+            "compliance",
+            "millenium management",
+            "disaster recovery",
+            "amazon s3",
+            "amazon s3 glacier",
+            "backup architecture",
+            "backup process",
+            "aws data sync demo"
+        ],
         "title": "Rapid Online Data Transfer with AWS DataSync (STG342) - Millenium Management's Benefits",
-        "date": "2020/02/20"
+        "description": "Learn how Millenium Management uses AWS DataSync to automate the movement of hundreds of TBs of data from on-premises to the AWS Cloud.\n\nView the full Millenium Management session at http://bit.ly/2w8mHM6\nLearn more about AWS DataSync at https://go.aws/2uzGEeD\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSEvents #AWSDataSync",
+        "date": "2020-02-20T20:09:16Z",
+        "duration": 108
     }
 ]

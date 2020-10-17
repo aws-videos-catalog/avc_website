@@ -2,91 +2,274 @@
     {
         "service": "x-ray",
         "videoId": "JBOo2L4sqt8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Xray",
+            "Application",
+            "Monitoring",
+            "thoubleshoot"
+        ],
         "title": "Instrument Applications for AWS X-Ray",
-        "date": "2019/12/20"
+        "description": "Learn more about AWS Management and Governance at – https://amzn.to/36Upgi0\nIn this video, you’ll see how to instrument applications for AWS X-Ray. With X-Ray, you can understand how your application and its underlying services are performing to identify and troubleshoot the root cause of performance issues and errors.",
+        "date": "2019-12-20T20:34:49Z",
+        "duration": 572
     },
     {
         "service": "x-ray",
         "videoId": "Td7ZSS8p6DA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS X-Ray"
+        ],
         "title": "Announcing AWS X-Ray",
-        "date": "2017/04/19"
+        "description": "Learn more about AWS X-Ray at - http://amzn.to/2okrYro.\nAWS X-Ray helps developers analyze and debug production, distributed applications, such as those built using a microservices architecture. With X-Ray, you can understand how your application and its underlying services are performing to identify and troubleshoot the root cause of performance issues and errors. X-Ray provides an end-to-end view of requests as they travel through your application, and shows a map of your application’s underlying components. You can use X-Ray to analyze both applications in development and in production, from simple three-tier applications to complex microservices applications consisting of thousands of services.",
+        "date": "2017-04-19T20:31:41Z",
+        "duration": 121
     },
     {
         "service": "x-ray",
         "videoId": "5lIdNrrO_o8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "X-Ray",
+            "AWS X-Ray"
+        ],
         "title": "Optimize Application Performance with AWS X-Ray",
-        "date": "2020/04/21"
+        "description": "In this video, you’ll see how to optimize application performance with AWS X-Ray. With this service, you can determine the root cause of an issue, understand which end users are impacted and to what extent, and create sampling rules.\n\nLearn more about AWS Management and Governance at https://go.aws/2VLNSFQ\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-04-21T19:44:43Z",
+        "duration": 506
     },
     {
         "service": "x-ray",
         "videoId": "yYNh369pJTY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Chest X-Ray Analysis with Machine Learning",
-        "date": "2018/11/30"
+        "description": "Speaker: Ray Liao from the MIT Computer Science & Artificial Intelligence Lab\n \nLearn how MIT is using machine learning algorithms to automatically quantify the severity of pulmonary edema from chest x-rays.\n\n\nCatch up on the excitement of re:Invent 2018 with the launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:54:22Z",
+        "duration": 278
     },
     {
         "service": "x-ray",
         "videoId": "kTX4hphiCtQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "X-Ray",
+            "AWS X-Ray"
+        ],
         "title": "Analyze Your Applications Performance with AWS X-Ray Analytics",
-        "date": "2020/04/21"
+        "description": "In this video, you’ll see how to analyze your application’s performance with AWS X-Ray Analytics. Using the X-Ray Analytics console, you can visualize traces collected by the AWS X-Ray service, analyze trace data for your application and its underlying services, and identify issues. \n\nLearn more about AWS Management and Governance at https://go.aws/3cGrmEX\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-04-21T19:45:43Z",
+        "duration": 238
     },
     {
         "service": "x-ray",
         "videoId": "d6IodUXzg5o",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS X-Ray",
+            "AWS Summit Series 2017",
+            "London Summit"
+        ],
         "title": "AWS Summit Series 2017: London - Deep Dive: AWS X-Ray",
-        "date": "2017/10/25"
+        "description": "Learn more about AWS at - http://amzn.to/2yDennB.\nWhen you’re running a large, multi-faceted serverless application with AWS Lambda, how can you effectively diagnose issues in your application’s performance? In this session, we’ll show you how to peek under the hood of your function executions so you can determine where performance issues are occurring in your serverless application. We’ll demonstrate a live demo of a new service, AWS X-Ray, which is a distributed tracing service that helps developers analyze and debug distributed applications. We’ll show you how you can use X-Ray to diagnose your serverless applications using dynamic stack tracing, call analysis, and the X-Ray service graph which visually depicts service calls made to your application.  \n\nSpeaker: Randall Hunt, Technical Evangelist, AWS",
+        "date": "2017-10-25T18:10:29Z",
+        "duration": 2268
     },
     {
         "service": "x-ray",
         "videoId": "5MQkX57eTh8",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Devops",
+            "DEV324",
+            "Elastic Container",
+            "Service (Amazon ECS)",
+            "Service for Kubernetes",
+            "AWS",
+            "Fargate",
+            "AWS Lambda",
+            "AWS X-Ray"
+        ],
         "title": "AWS re:Invent 2018: Deep Dive into AWS X-Ray: Monitor Modern Applications (DEV324)",
-        "date": "2018/11/29"
+        "description": "Are you spending hours trying to understand how customers are impacted by performance issues and faults in your service-oriented applications? In this session, we show you how customers are using AWS X-Ray to reduce mean time to resolution, get to the root cause faster, and determine customer impact. In addition, one of our X-Ray customers, ConnectWise, presents a case study and best practices on how it is leveraging X-Ray in its production environment. We also show you how to use X-Ray with applications built using AWS services, such as Amazon Elastic Container Service for Kubernetes (Amazon EKS), AWS Fargate, Amazon Elastic Container Service (Amazon ECS), and AWS Lambda to achieve the above.",
+        "date": "2018-11-29T18:19:26Z",
+        "duration": 3208
     },
     {
         "service": "x-ray",
         "videoId": "s8tB3YhZd9U",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "DevOps & Tools",
+            "DEV316",
+            "Abhishek Singh",
+            "Advanced (3"
+        ],
         "title": "AWS re:Invent 2016: NEW LAUNCH! Introduction to AWS X-Ray (DEV316)",
-        "date": "2016/12/06"
+        "description": "Analyzing and debugging production distributed applications built using a service-oriented or microservices architecture is a challenging task. In this session, we will introduce AWS X-Ray, a new service that makes it easier to identify performance bottlenecks and errors, pinpoint issues to specific service(s) in your application, identify the impact of issues on users of your application, and visualize a request call graph and service call graph for your applications. We will show interactive demos, and code samples for the demo will be available to all session attendees.",
+        "date": "2016-12-06T22:23:34Z",
+        "duration": 2402
     },
     {
         "service": "x-ray",
         "videoId": "hD-vIPOjQRk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            ".Net",
+            ".Net Core",
+            "monitoring",
+            "x-ray"
+        ],
         "title": "AWS for Microsoft Workloads: Monitoring of .NET Applications with AWS X-Ray",
-        "date": "2018/06/18"
+        "description": "For more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2t6swp4.\nAWS X-Ray helps developers analyze and debug production, distributed applications, such as those built using a microservices architecture. With X-Ray, you can understand how your application and its underlying services are performing to identify and troubleshoot the root cause of performance issues and errors. X-Ray provides an end-to-end view of requests as they travel through your application, and shows a map of your application’s underlying components. You can use X-Ray to analyze both applications in development and in production, from simple three-tier applications to complex microservices applications consisting of thousands of services.",
+        "date": "2018-06-18T23:30:05Z",
+        "duration": 548
     },
     {
         "service": "x-ray",
         "videoId": "kFsIZsaqpzE",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Devops",
+            "DEV204",
+            "Pinpoint",
+            "AWS X-Ray"
+        ],
         "title": "AWS re:Invent 2017: Monitoring Modern Applications: Introduction to AWS X-Ray (DEV204)",
-        "date": "2017/11/29"
+        "description": "Analyzing and debugging production distributed applications built using a service oriented, microservices, or serverless architectures is a challenging task. In this session, we introduce AWS X-Ray, an AWS service that makes it easier to identify performance bottlenecks and errors, pinpoint issues to specific services in your application, identify the impact of issues on application users, and visualize the service call graph and the request timelines for your applications. We will also showcase a customer, Chick-fil-A and how they have adopted AWS X-Ray to play a role throughout the microservice lifecycle in order to ensure quality, transparency, and operational visibility for their services on AWS",
+        "date": "2017-11-29T17:13:06Z",
+        "duration": 3916
     },
     {
         "service": "x-ray",
         "videoId": "dMmurZGwamM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "CTOs",
+            "distributed monitoring",
+            "x.ai",
+            "Mat Casey",
+            "NY Summit",
+            "new york summit"
+        ],
         "title": "x.ai's Distributed Monitoring with X-Ray",
-        "date": "2018/08/02"
+        "description": "x.ai CTO Matt Casey speaks at Startup Central at the 2018 AWS NYC Summit on the topic of distributed monitoring with X-Ray. Learn more at - https://amzn.to/2KmIAbV.",
+        "date": "2018-08-02T17:26:31Z",
+        "duration": 1005
     },
     {
         "service": "x-ray",
         "videoId": "DnzEyzwJDOw",
+        "tags": [
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Conference Event",
+            "DEM81",
+            "AWS X-Ray"
+        ],
         "title": "AWS re:Invent 2018: AWS X-Ray Distributed Tracing with HAProxy Enterprise (DEM81)",
-        "date": "2018/12/13"
+        "description": "You’ve surely noticed a unique problem when taking your applications to the cloud: the need to find modern ways to observe your traffic. Today’s applications, especially those designed as microservices, are composed of a score of distributed services. We need to seek out new tools for observing and troubleshooting them. AWS provides a distributed tracing framework called AWS X-Ray that enables you to visualize how requests flow through your cloud infrastructure. In this talk, we demonstrate how your HAProxy Enterprise load balancer can send traces to X-Ray so you get a full and accurate picture of your distributed architecture. This presentation is brought to you by AWS partner, HAProxy Technologies.",
+        "date": "2018-12-13T16:33:37Z",
+        "duration": 1119
     },
     {
         "service": "x-ray",
         "videoId": "QNlkAClqYiY",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Devops",
+            "DEV402",
+            "AI",
+            "AWS X-Ray"
+        ],
         "title": "AWS re:Invent 2017: Deep-Dive for AWS X-Ray (DEV402)",
-        "date": "2017/12/01"
+        "description": "Are you using the AWS X-Ray service to gather insights into your distributed applications and want to learn how to do more? Or are you still learning about the service and want to understand its full power and potential? This session is a deep dive into the AWS X-Ray service and how the API’s can be used to derive new and interesting insights. The session will walk through the creation of a custom analytical application, and show code samples that will be available to all attendees. An initial short overview of the service will be provided, but is recommended that for those unfamiliar with the AWS X-Ray service they attend an introductory session.",
+        "date": "2017-12-01T16:40:46Z",
+        "duration": 3122
     },
     {
         "service": "x-ray",
         "videoId": "eddKO7APILc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS San Francisco Summit 2017",
+            "AWS X-Ray"
+        ],
         "title": "AWS Summit Series 2017 - San Francisco: AWS X-Ray Now Generally Available",
-        "date": "2017/04/20"
+        "description": "AWS X-Ray helps developers analyze and debug production applications with distributed tracing.\n\nLearn more here - http://amzn.to/2oUqFjN",
+        "date": "2017-04-20T16:41:39Z",
+        "duration": 39
     },
     {
         "service": "x-ray",
         "videoId": "Y_bbbDPvjB8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Sydney Summit 2018",
+            "AWS X-Ray"
+        ],
         "title": "AWS Sydney Summit 2018: Gaining Visibility Into Your Distributed Applications with AWS X-Ray",
-        "date": "2018/05/21"
+        "description": "It's difficult to use traditional tools to monitor, debug and optimise distributed applications. In this talk, we will discuss how to build state machines to orchestrate multi-step serverless applications and gain operational visibility into your distributed applications using AWS X-Ray. \n\nVisit the Following Links to Learn More: \n- AWS re:Invent 2017: Monitoring Modern Applications: Introduction to AWS X-Ray (DEV204): https://www.youtube.com/watch?v=kFsIZsaqpzE&t=463s\n- AWS re:Invent 2017: Deep-Dive for AWS X-Ray (DEV402): https://www.youtube.com/watch?v=QNlkAClqYiY&t=102s\n- AWS X-Ray Blog: https://aws.amazon.com/blogs/aws/category/aws-x-ray/",
+        "date": "2018-05-21T18:56:48Z",
+        "duration": 954
     }
 ]

@@ -2,43 +2,168 @@
     {
         "service": "mediaconvert",
         "videoId": "2OwNvsJIrUk",
-        "title": "Build Your Own VOD Series: Ingesting, Scheduling and Transcoding Data (Level 200)",
-        "date": "2018/08/24"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference 2018"
+        ],
+        "title": "Build Your Own VOD Series:  Ingesting, Scheduling and Transcoding Data (Level 200)",
+        "description": "Learn more about the AWS Innovate Online Conference at - https://amzn.to/2MNC6YR.\nThe first step in building your VOD solution is setting up the secure AWS landing zone. In this session, learn how to deploy a preconfigured, secure AWS environment into which to migrate your data and raw video content. Then, learn how to ingest your data into AWS by leveraging Amazon S3 Transfer Acceleration, AWS Direct Connect, and AWS Storage Gateway. We also cover how to use AWS Snowball and AWS Snowmobile to migrate or transport exabyte-scale datasets into AWS. \n\nSpeakers:\nGirish Nesaratnam, Migration Success Consultant, Amazon Web Services, Professional Services\nPeter Stanski, Solution Architect Manager, Amazon Web Services\n\nOnce you have your raw video content in the cloud, the next step is to transcode it into a format by which users can consume it. In this session, we describe how to automate this process using a combination of AWS Step Functions, AWS Lambda, and AWS Elemental MediaConvert. We also discuss the importance of metadata for cataloging and managing content within the VOD solution.\n\nSpeakers:\nJarrod Spiga, Solution Architect , Amazon Web Services\nShaun Ray, Evangelist Manager, Amazon Web Services",
+        "date": "2018-08-24T19:50:55Z",
+        "duration": 1561
     },
     {
         "service": "mediaconvert",
         "videoId": "d-XCfp97pX0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Elemental",
+            "Media Convert",
+            "Encoding",
+            "Video",
+            "Video on Demand",
+            "Node.js",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon S3 Glacier",
+            "AWS Lambda",
+            "Amazon DynamoDB",
+            "Amazon CloudWatch",
+            "Amazon CloudFront",
+            "AWS Step Functions",
+            "AWS Elemental MediaConvert",
+            "AWS CloudFormation",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "AWS Solutions: Video on Demand (VOD)",
-        "date": "2019/09/24"
+        "description": "Tom from our very own AWS Solutions Builder team walks us through an end-to-end solution that he built for video on demand (VOD) on AWS. Customers are already using this solution to run over 60,000 encoding jobs every month. You'll learn how Tom used Step Functions for the orchestration layer, Lambda for Node.js microservices, Elemental Media Convert to generate videos in a variety of file formats, and many more services to complete the solution, including S3, CloudFront, CloudWatch, DynamoDB and CloudFormation.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-09-24T15:25:59Z",
+        "duration": 514
     },
     {
         "service": "mediaconvert",
         "videoId": "uLrTcaLh0Uk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon S3",
+            "AWS Step Functions",
+            "AWS Elemental MediaConvert",
+            "Amazon CloudWatch",
+            "Amazon S3 Glacier",
+            "AWS Lambda",
+            "serverless",
+            "Amazon DynamoDB",
+            "Amazon SNS",
+            "Amazon CloudFront",
+            "media and entertainment",
+            "video on demand",
+            "media transcoding",
+            "variable video formats",
+            "video ingest",
+            "video playback",
+            "solutions architecture",
+            "AWS Solutions"
+        ],
         "title": "Solving with AWS Solutions: Video on Demand on AWS",
-        "date": "2020/03/24"
+        "description": "Video on Demand on AWS ( https://tinyurl.com/SolvingwithAWSSolutionsVideo ) automatically provisions the AWS services necessary to build a scalable, distributed video-on-demand workflow. The video-on-demand solution ingests metadata files and source videos, processes the videos for playback on a wide range of devices, stores the transcoded media files, and delivers the videos to end users through Amazon CloudFront.\n\nSolution Link: https://tinyurl.com/SolvingwithAWSSolutionsVideo\n\nLearn more about AWS Solutions by visiting the AWS Solutions portal. https://aws.amazon.com/solutions\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-03-24T07:29:43Z",
+        "duration": 432
     },
     {
         "service": "mediaconvert",
         "videoId": "KW5NXWK8j0Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "#solvingwithawssolutions",
+            "AWS Elemental",
+            "AWS Elemental MediaLive",
+            "AWS Elemental MediaPackage",
+            "Amazon CloudFront",
+            "Cloudfront",
+            "Media and Entertainment",
+            "Solutions",
+            "Transcription",
+            "Video Streaming",
+            "solutions architecture",
+            "developer",
+            "devops"
+        ],
         "title": "Solving with AWS Solutions: Live Streaming on AWS with Automated Multi-Language Subtitling",
-        "date": "2020/03/20"
+        "description": "AWS provides a Live Streaming on AWS Solution (https://tinyurl.com/SolvingwithAWSSolutionsLive)  that combines AWS Elemental MediaLive and AWS Elemental MediaPackage with Amazon CloudFront to build a highly resilient and scalable architecture that delivers your live content worldwide.  We also discuss Live Streaming with Automated Multi Language Subtitling, which adds transcription capabilities.  \n\nSolution Link: https://tinyurl.com/SolvingwithAWSSolutionsLive\n\nLearn more about AWS Solutions by visiting the AWS Solutions portal. (https://aws.amazon.com/solutions/?did=sl_card&trk=solving_with_aws_solutions)\nLearn more about AWS Solutions by visiting the AWS Solutions portal. https://aws.amazon.com/solutions\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-03-20T22:35:08Z",
+        "duration": 393
     },
     {
         "service": "mediaconvert",
         "videoId": "XaDJHU4SJTI",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "MDS202-R1",
+            "Media Solutions",
+            "Discovery",
+            "AWS Elemental MediaLive",
+            "AWS Elemental MediaStore",
+            "AWS Elemental MediaPackage"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Optimizing live video feeds to the cloud and the consumer (MDS202-R1)",
-        "date": "2019/12/05"
+        "description": "Viewers want more content on more devices, with top quality and low, broadcast-like latency allowing them to enjoy the action without delay. They also demand features such as enhanced graphics and real-time stats that go beyond traditional TV offerings. Learn how Discovery delivers live cooking classes with America’s favorite chefs on its Food Network Kitchen platform, and multi-language/multi-market sports on its Eurosport platform. This talk explores how today’s top content providers like Discovery are serving audiences with media solutions, machine learning, and core services from AWS.",
+        "date": "2019-12-05T17:54:49Z",
+        "duration": 3416
     },
     {
         "service": "mediaconvert",
         "videoId": "A5YG_9Uv6IM",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "MDS201",
+            "Media Solutions",
+            "Guardian News & Media",
+            "CBS Sports Digital",
+            "AWS Elemental MediaLive",
+            "Amazon Rekognition",
+            "Amazon EC2"
+        ],
         "title": "AWS re:Invent 2019: Latest Media & Entertainment industry news from AWS (MDS201)",
-        "date": "2020/01/10"
+        "description": "Learn how the latest AWS services, including media solutions, will help you create content in the cloud, modernize your broadcast and over-the-top distribution, and better engage with your customers. Hear how CBS is using the cloud to automate its media supply chain and deliver streaming at scale to millions of viewers for events like the Super Bowl. And hear how The Guardian is innovating with AI/ML to better engage its readers and build a more inclusive reader community by using Amazon Comprehend and other AI services to moderate user comments at scale.",
+        "date": "2020-01-10T17:27:54Z",
+        "duration": 2378
     },
     {
         "service": "mediaconvert",
         "videoId": "cd40-l-6EmI",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "MDS313-R1",
+            "Media Solutions",
+            "Hotstar",
+            "AWS Elemental MediaConnect",
+            "AWS Elemental MediaPackage",
+            "AWS Elemental MediaLive"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Hotstar: Live streaming at record scale (MDS313-R1)",
-        "date": "2019/12/08"
+        "description": "Learn how Hotstar has been powering its live sports channels to a world-record live streaming audience. Hotstar has architected its video pipeline that handles close to a thousand hours of live encoding using AWS services like AWS Elemental MediaLive, AWS Elemental MediaPackage, and AWS Elemental MediaConnect. Hear about the challenges and solutions needed to manage backend and analytics systems to serve ads at scale to 15 million users, track live streaming usage in real time, and build broadcast-level resiliency into their architecture to handle world-record-level traffic.",
+        "date": "2019-12-08T23:34:49Z",
+        "duration": 2863
     }
 ]

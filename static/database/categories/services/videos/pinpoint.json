@@ -2,67 +2,221 @@
     {
         "service": "pinpoint",
         "videoId": "MK98YQ0pcts",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "End User Computing",
+            "Business Apps",
+            "EUC230-P"
+        ],
         "title": "AWS re:Invent 2019: Build immersive experiences with Amazon Pinpoint Journeys (EUC230-P)",
-        "date": "2019/12/05"
+        "description": "This presentation was recorded prior to re:Invent. In this session, we discuss how to build immersive customer journeys using the newly launched Amazon Pinpoint Journeys. In this fast-moving session, we cover marketing on AWS and how we built Amazon Pinpoint Journeys on AWS. We also provide a live demo to demonstrate the flexibility that Amazon Pinpoint Journeys can provide.",
+        "date": "2019-12-05T22:34:45Z",
+        "duration": 1797
     },
     {
         "service": "pinpoint",
         "videoId": "S8zcgBLCm-E",
+        "tags": [
+            "AWS",
+            "amazon web services",
+            "aws lambda",
+            "amazon pinpoint",
+            "amazon lex",
+            "aws events",
+            "aws event 2019",
+            "sms chatbot",
+            "ai",
+            "chatbot"
+        ],
         "title": "SMS Chatbot with Amazon Pinpoint, Amazon Lex, and AWS Lambda",
-        "date": "2020/02/04"
+        "description": "In this webinar you will learn how to build an AI-powered chatbot that your customers can engage with by sending SMS messages. This chatbot can help customers quickly ask questions, get answers, book appointments, check order status, and much more.\n\nLearn more at https://go.aws/39dA7oB\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4\n\n#AWSEvents #AmazonPinpoint #AmazonLamda",
+        "date": "2020-02-04T18:06:10Z",
+        "duration": 1971
     },
     {
         "service": "pinpoint",
         "videoId": "qJF1pErxqKQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "marketing automation",
+            "amazon pinpoint",
+            "email marketing",
+            "marketing",
+            "email",
+            "aws",
+            "customer engagement"
+        ],
         "title": "Introducing Amazon Pinpoint Journeys | Build the Experiences Your Customers Want",
-        "date": "2019/11/05"
+        "description": "Building lasting relationships with your customers is tough, though it doesn't have to be. Pinpoint Journeys is an outbound engagement orchestration tool, designed to help product, growth, and marketing teams build lasting relationships with their customers. With Pinpoint Journeys you give independence to your non-technical teams, via the no-code required functionality of Pinpoint Journeys. Click here to learn more -  http://www.amzn.to/34vSAKw",
+        "date": "2019-11-05T20:15:44Z",
+        "duration": 121
     },
     {
         "service": "pinpoint",
         "videoId": "sdyBfHmLztE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Pinpoint SMS"
+        ],
         "title": "AWS Pinpoint SMS and Email Campaigns Support",
-        "date": "2017/06/09"
+        "description": "Learn more about at Amazon Pinpoint at http://amzn.to/2rSmHM9.\nThis video introduces the new support in AWS Pinpoint for running SMS and Email campaigns as part of your application's user engagement strategy.",
+        "date": "2017-06-09T18:38:36Z",
+        "duration": 113
     },
     {
         "service": "pinpoint",
         "videoId": "3id6srjB5A8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Solving with AWS Solutions",
+            "Customer Retention",
+            "Amazon Pinpoint",
+            "Amazon Kinesis Data Stream",
+            "Amazon Kinesis",
+            "Amazon Kinesis Data Firehose",
+            "Amazon SageMaker",
+            "developer",
+            "Amazon Athena",
+            "Amazon Glue",
+            "AWS Lambda",
+            "serverless",
+            "Predictive Consumer Segmentation"
+        ],
         "title": "Solving with AWS Solutions: Predictive Segmentation using Amazon Pinpoint and Amazon SageMaker",
-        "date": "2020/04/27"
+        "description": "Solution Link: https://tinyurl.com/SolvingwithAWSSolutionsPredSeg\nPredictive Segmentation Using Amazon Pinpoint and Amazon SageMaker combines Amazon Pinpoint with Amazon SageMaker to help automate the process of collecting customer data, predicting customer churn using ML, and maintaining a tailored audience segment for messaging.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-04-27T15:57:38Z",
+        "duration": 348
     },
     {
         "service": "pinpoint",
         "videoId": "eq3hKt0XxQE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Mobile",
+            "MBL304",
+            "Georgie Mathews",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2016: NEW LAUNCH! Enable Real-Time Mobile App Engagement with Amazon Pinpoint (MBL304)",
-        "date": "2016/12/03"
+        "description": "Amazon Pinpoint, a new AWS service, makes it easy to run targeted campaigns to improve user engagement. Pinpoint helps you understand app user behavior, define who to target, what push notification to send, when to deliver the notifications, and track results.",
+        "date": "2016-12-03T23:22:45Z",
+        "duration": 2550
     },
     {
         "service": "pinpoint",
         "videoId": "nPVkewp8-vo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Serverless",
+            "Mobile",
+            "Business Productivity",
+            "Amazon DynamoDB",
+            "Amazon Pinpoint",
+            "Amazon Simple Notification Service (SNS)",
+            "Amazon Simple Storage Service (S3)",
+            "AWS Batch",
+            "AWS Lambda",
+            "AWS Step Functions",
+            "This is My Architecture",
+            "TMA"
+        ],
         "title": "snaq.me: Snack Time's Subscription Service Sends Attractive Notifications Using Amazon Pinpoint (JP)",
-        "date": "2020/04/17"
+        "description": "You can get notifications from snaq.me through the channels such as email and LINE, with awesome messages customized for you. Hayato, a CTO from snaq.me, is talking about their architecture and well designed points.\n\n~Filmed prior to Covid-19~\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-04-17T17:52:15Z",
+        "duration": 333
     },
     {
         "service": "pinpoint",
         "videoId": "9y1hDKJQIRE",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Mobile",
+            "MOB304",
+            "Amazon Pinpoint"
+        ],
         "title": "AWS re:Invent 2018: Building Hulu’s Real-Time Platform for Live TV with Amazon Pinpoint (MOB304)",
-        "date": "2018/11/29"
+        "description": "At Hulu, notifying our viewers when their favorite teams are playing helps us drive growth and improve viewer engagement. However, building this feature was a complex process. Managing our live TV metadata, while generating audiences in real time in high-scalability scenarios, posed unique challenges for the engineering team. In this session, we discuss the challenges in building our real-time notification platform, how Amazon Pinpoint helped us with our goals, and how we architected the solution for global scale and deliverability. Complete Title: AWS re:Invent 2018: Game On! Building Hulu’s Real-Time Notification Platform for Live TV with Amazon Pinpoint (MOB304)",
+        "date": "2018-11-29T18:18:18Z",
+        "duration": 2921
     },
     {
         "service": "pinpoint",
         "videoId": "9Qz15ifiL3g",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Customer Spotlight: Disney Streaming Services uses Amazon Pinpoint for powerful user engagement",
-        "date": "2018/11/30"
+        "description": "Amazon Pinpoint is a service that allows you to engage your customers by sending them targeted and transactional email, SMS, push notifications, and voice messages. In this session, you’ll learn how Disney Streaming Solutions uses Amazon Pinpoint to deliver timely and personalized messages at scale to their users. Learn more | https://aws.amazon.com/pinpoint/ \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:55:23Z",
+        "duration": 972
     },
     {
         "service": "pinpoint",
         "videoId": "lLSVXVGzh_U",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Mobile",
+            "MBL303",
+            "Pinpoint",
+            "Analytics"
+        ],
         "title": "AWS re:Invent 2017: Learn How Amazon Leverages Amazon Pinpoint to Drive Growth and E (MBL303)",
-        "date": "2017/11/30"
+        "description": "Amazon Music is a popular music streaming service that uses Amazon Pinpoint to help drive growth of the service through effective engagement with its user base. In this session, learn the ins and outs of how the Amazon Music team uses the Amazon Pinpoint service to drive user growth and retention to achieve the desired business outcomes, achieve KPIs, and use app and user analytics for insight for further improvement projects.",
+        "date": "2017-11-30T17:18:28Z",
+        "duration": 2486
     },
     {
         "service": "pinpoint",
         "videoId": "RVMHlFlzABI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "San Francisco Loft",
+            "AWS Mobile"
+        ],
         "title": "AWS Mobile Week - San Francisco: Mobile Messaging from Analytics to Engagement",
-        "date": "2018/10/30"
+        "description": "Learn more about AWS Mobile at - https://amzn.to/2O43YEW.\nIn this session, you’ll learn how to use Amazon Pinpoint to implement user engagement strategies via data and event capture, advanced analytics, and integrated multi-channel messaging to drive campaigns based on demographics and audience segmentation.\n\nSpeaker: Zach Barbitta – Sr. Product Manager Tech, AWS Messaging & Targeting",
+        "date": "2018-10-30T16:49:56Z",
+        "duration": 2625
     }
 ]

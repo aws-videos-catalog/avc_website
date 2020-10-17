@@ -2,25 +2,68 @@
     {
         "service": "aws_migration_hub",
         "videoId": "2VF9Hs9q7HY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Migration Hub"
+        ],
         "title": "Introducing AWS Migration Hub",
-        "date": "2017/08/15"
+        "description": "AWS Migration Hub provides a single location to track migrations across multiple AWS and partner solutions, giving you visibility into the status of migrations across your portfolio of applications. Learn more at - http://amzn.to/2uYOSHg.",
+        "date": "2017-08-15T17:53:12Z",
+        "duration": 120
     },
     {
         "service": "aws_migration_hub",
         "videoId": "sELhuj4bF84",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "TWITCH"
+        ],
         "title": "Live from the NY Summit | AWS Migration Hub Launch",
-        "date": "2017/08/21"
+        "description": "Host: Ian Massingham\nGuests: Sr Product Managers of Migration Services, Michael Sciscenti and David Zipkin\nDate: August 14, 2017\nLive from the AWS Summit in NYC, Ian Massingham, Michael Sciscenti and David Zipkin discuss the launch of AWS Migration Hub on twitch.tv/aws. For more information on the AWS Twitch Channel and upcoming live coding episodes, visit https://aws.amazon.com/twitch. To learn more about AWS Migration Hub, please visit http://amzn.to/2x7wEFU.",
+        "date": "2017-08-21T22:17:47Z",
+        "duration": 613
     },
     {
         "service": "aws_migration_hub",
         "videoId": "tuGu7HzVkC8",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Enterprise & Hybrid",
+            "ENT331",
+            "Application",
+            "Discovery Service",
+            "AWS Application",
+            "AWS Migration Hub"
+        ],
         "title": "AWS re:Invent 2018: Save Money and Migrate Faster with Rapid Discovery and Analysis (ENT331)",
-        "date": "2018/12/04"
+        "description": "In this session, learn how to use AWS Application Discovery Service and AWS Migration Hub to quickly discover your existing infrastructure, calculate the cost of running these servers, identify the network dependencies among different servers, and group them as applications for planning your migration.",
+        "date": "2018-12-04T17:26:10Z",
+        "duration": 3378
     },
     {
         "service": "aws_migration_hub",
         "videoId": "qQU9RTFmA3M",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Enterprise & Hybrid",
+            "ENT319",
+            "AWS Migration Hub"
+        ],
         "title": "AWS re:Invent 2018: Eliminate Migration Confusion: Speed Migration with Automated Tracking (ENT319)",
-        "date": "2018/11/30"
+        "description": "Customers migrating to AWS can use AWS Migration Hub to obtain a single view of all migrations into AWS. In this session, we provide an in-depth walkthrough of migration execution best practices and automated migration tracking. Learn how to use the Migration Hub migration dashboard to quickly understand the current state and velocity of your application migrations and effortlessly provide your CEO, CIO, and other key stakeholders an up-to-date status of migrating your portfolio.",
+        "date": "2018-11-30T16:37:13Z",
+        "duration": 3641
     }
 ]

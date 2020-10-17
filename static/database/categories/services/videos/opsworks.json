@@ -2,115 +2,395 @@
     {
         "service": "opsworks",
         "videoId": "BhNfhHXvhhc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Ops Works",
+            "OpsWorks",
+            "EC2",
+            "Amazon OpsWorks"
+        ],
         "title": "Introduction to AWS OpsWorks",
-        "date": "2014/10/17"
+        "description": "Learn more: http://aws.amazon.com/opsworks\nAWS OpsWorks is a cloud application management service that makes it easy to deploy and operate applications of all shapes and sizes. You can define the application’s architecture and the specification of each component including package installation, software configuration and resources such as storage. Start from templates for common technologies like application servers and databases or build your own to perform any task that can be scripted.",
+        "date": "2014-10-17T18:52:01Z",
+        "duration": 197
     },
     {
         "service": "opsworks",
         "videoId": "cj_LoG6C2xk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "DevOps",
+            "Amazon EC2",
+            "AWS OpsWorks",
+            "application management"
+        ],
         "title": "AWS OpsWorks Overview and Demo",
-        "date": "2013/04/04"
+        "description": "AWS OpsWorks Overview and Demo",
+        "date": "2013-04-04T17:06:07Z",
+        "duration": 855
     },
     {
         "service": "opsworks",
         "videoId": "9NnWJsS4Y2c",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Amazon EC2",
+            "AWS OpsWorks",
+            "application management"
+        ],
         "title": "Getting Started with AWS OpsWorks",
-        "date": "2013/02/18"
+        "description": "This video provides an overview of AWS OpsWorks.\nLearn More at: http://aws.amazon.com/opsworks",
+        "date": "2013-02-19T07:22:25Z",
+        "duration": 353
     },
     {
         "service": "opsworks",
         "videoId": "1Zw4g3o2O0M",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Rambow",
+            "Devops",
+            "DEV331",
+            "AI",
+            "AWS OpsWorks"
+        ],
         "title": "AWS re:Invent 2017: Automate and Scale Configuration Management with AWS OpsWorks (DEV331)",
-        "date": "2017/12/01"
+        "description": "Using the DevOps model to treat your infrastructure environments as code enables you to automate and scale your development and production environments. Companies such as Puppet and Chef have built popular infrastructure automation solutions and have a thriving community interested in helping others succeed. AWS OpsWorks helps you succeed in using Puppet and Chef on AWS by removing the undifferentiated heavy lifting. In this session, discover how OpsWorks helps you focus on the core task of configuration management using Puppet and Chef, by setting up and maintaining your environment in just a few clicks.",
+        "date": "2017-12-01T16:40:15Z",
+        "duration": 2729
     },
     {
         "service": "opsworks",
         "videoId": "WxSu015Zgak",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "DevOps",
+            "DVO301",
+            "Thomas Kaschwig - Amazon Web Services",
+            "Jonathan Weiss - Amazon Web Services",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (DVO301) AWS OpsWorks Under the Hood",
-        "date": "2015/10/23"
+        "description": "AWS OpsWorks helps you deploy and operate applications of all shapes and sizes. With AWS OpsWorks, you can model your application stack with layers that define the building blocks of your application: load balancers, application servers, databases, etc. But did you know that you can also use AWS OpsWorks to run commands or scripts on your instances? Whether you need to perform a specific task or install a new software package, AWS OpsWorks gives you the tools to install and configure your instances consistently and help them evolve in an automated and predictable fashion.\n \nIn this session, we dive into how you can create custom layers and a runtime system for your operational tooling, understand the lifecycle events, and show how to develop and test locally.",
+        "date": "2015-10-23T18:49:41Z",
+        "duration": 2772
     },
     {
         "service": "opsworks",
         "videoId": "5xlqk9bFkYM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS OpsWorks",
+            "DevOps"
+        ],
         "title": "Introducing AWS OpsWorks, a DevOps application management platform",
-        "date": "2013/05/04"
+        "description": "AWS gives developers programmatic control of resources and the ability to grow as application needs dictate. However, managing an application can take more than simply starting EC2 instances. Software may need to be configured on the instances and changes to existing resources may be required. AWS now has an easier way to automate and control applications of any scale or complexity. In this session we will demonstrate OpsWorks, an integrated experience for managing the complete application lifecycle, including resource provisioning, configuration management, application deployment, software updates, monitoring, and access control. Attendees will leave this session with an understanding of how to control any aspect of an application's configuration using OpsWorks Layers and Chef recipes, and automate common tasks to streamline operations.",
+        "date": "2013-05-04T18:22:25Z",
+        "duration": 1981
     },
     {
         "service": "opsworks",
         "videoId": "08VGANn3UTs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "webcast",
+            "webinar",
+            "OpsWorks",
+            "deployment",
+            "Chef",
+            "AWS OpsWorks"
+        ],
         "title": "AWS Webcast - AWS OpsWorks Continuous Integration Demo",
-        "date": "2013/05/28"
+        "description": "In this session we'll discuss and demonstrate key concepts and design patterns for continuous deployment and integration using technologies like AWS OpsWorks and Chef to enable better control of applications and infrastructures.",
+        "date": "2013-05-28T17:40:37Z",
+        "duration": 2567
     },
     {
         "service": "opsworks",
         "videoId": "M8DfBZbvJTk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "cloudwatch",
+            "cloudwatch logs",
+            "aws opsworks"
+        ],
         "title": "How do I use CloudWatch Logs with AWS OpsWorks Stacks?",
-        "date": "2019/02/04"
+        "description": "Find more details in the AWS Knowledge Center:\nhttps://amzn.to/2HCMjpW\nMaruful, an AWS Cloud Support Engineer, shows you how to use CloudWatch Logs with AWS OpsWorks Stacks.",
+        "date": "2019-02-04T20:28:45Z",
+        "duration": 185
     },
     {
         "service": "opsworks",
         "videoId": "cuf7Rqlgeq4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Application Deployment & Management",
+            "Advanced",
+            "AWS OpsWorks",
+            "Ruby",
+            "DevOps",
+            "Auto Scaling",
+            "Architecture",
+            "Architect",
+            "Technical Decision Maker",
+            "Startup",
+            "Developer",
+            "Jonathan Weiss",
+            "Reza Spagnolo"
+        ],
         "title": "AWS re:Invent 2014 | (APP301) AWS OpsWorks Under the Hood",
-        "date": "2014/11/14"
+        "description": "AWS OpsWorks helps you deploy and operate applications of all shapes and sizes. With AWS OpsWorks, you can model your application stack with layers that define the building blocks of your application: load balancers, application servers, databases, etc.\nBut did you know that you can also extend AWS OpsWorks layers or build your own custom layers? Whether you need to perform a specific task or install a new software package, AWS OpsWorks gives you the tools to install and configure your instances consistently and help them evolve in an automated and predictable fashion.\nIn this session, we dive into the development process including how to use attributes, recipes, and lifecycle events; show how to develop your environment locally; and provide troubleshooting steps that reduce your development time.",
+        "date": "2014-11-14T19:35:38Z",
+        "duration": 2721
     },
     {
         "service": "opsworks",
         "videoId": "913oT6xV-Qk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "web-apps",
+            "enterprise",
+            "OpsWorks",
+            "Jonathan-Weiss",
+            "dmg"
+        ],
         "title": "AWS OpsWorks Under the Hood (DMG304) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "AWS OpsWorks lets you model your application with layers that define the building blocks of your application: load balancers, application servers, databases, etc. But did you know that you can also extend OpsWorks layers or build your own custom layers? Whether you need to perform a specific task or install a new software package, OpsWorks gives you the tools to install and configure your instances consistently, and evolve them in an automated and predictable fashion through your application's lifecycle. We'll dive into the development process including how to use attributes, recipes, and lifecycle events; show how to develop your environment locally; and provide troubleshooting steps that reduce your development time.",
+        "date": "2013-11-26T20:17:02Z",
+        "duration": 3320
     },
     {
         "service": "opsworks",
         "videoId": "LgncEGEf7d0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I troubleshoot issues deleting instances when using AWS OpsWorks Stacks?",
-        "date": "2019/08/12"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2XHl8g9\nNitheesha, an AWS Support Cloud Support Engineer, shows you how to troubleshoot issues deleting instances when using AWS OpsWorks Stacks.",
+        "date": "2019-08-12T20:57:22Z",
+        "duration": 194
     },
     {
         "service": "opsworks",
         "videoId": "dvYz2kFIKU0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS OpsWorks",
+            "Amazon OpsWorks"
+        ],
         "title": "The AWS Report Dives into AWS OpsWorks",
-        "date": "2013/10/22"
+        "description": "Chris Barclay had an opportunity to drop by the studio and talk with Jeff Barr all about AWS OpsWorks, Later in the show, co-host Lee Zen explores multi-region vs.single region set ups.",
+        "date": "2013-10-22T13:16:52Z",
+        "duration": 354
     },
     {
         "service": "opsworks",
         "videoId": "fZ8HmekZabo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013customer-presentation",
+            "web-apps",
+            "OpsWorks",
+            "Intutit",
+            "PaaS",
+            "Capen-Brinkley",
+            "dmg"
+        ],
         "title": "How Intuit Leveraged AWS OpsWorks as the Engine of Our PaaS (DMG305) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "In this talk, the engineering team behind the Intuit PaaS takes you through the design of our shared PaaS and its integration with AWS OpsWorks. We give an overview of why we decided to build our own PaaS, why we chose OpsWorks as the engine, technical details of the implementation as well as all the challenges in building a shared runtime environment for different applications. Anyone interested in OpsWorks or building a PaaS should attend for key lessons from our journey.",
+        "date": "2013-11-26T20:17:13Z",
+        "duration": 2057
     },
     {
         "service": "opsworks",
         "videoId": "njMOaQ8hDcA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Websites",
+            "Advanced",
+            "AWS OpsWorks",
+            "Web App",
+            "Monitoring",
+            "Amazon CloudWatch",
+            "FillZ",
+            "Architect",
+            "Technical Decision Maker",
+            "Startup",
+            "Public Sector",
+            "IT Executive",
+            "Developer",
+            "Jonathan Quail",
+            "Cliff Mccollum",
+            "Chris Barclay"
+        ],
         "title": "AWS re:Invent 2014 | (WEB307) Scalable Site Management Using AWS OpsWorks",
-        "date": "2014/11/14"
+        "description": "Migrating from a hosted environment to AWS is a good opportunity to streamline deployment and site operations. This session shows how FillZ used AWS OpsWorks with other tools to automate site operations and deliver a highly available site that is used by large numbers of customers. Through code and examples, this session shows you how to automate deployments across an entire fleet, configure a patching strategy, use common tools to create useful alarms and monitor system performance, and employ security best-practices in AWS.",
+        "date": "2014-11-14T22:33:17Z",
+        "duration": 2584
     },
     {
         "service": "opsworks",
         "videoId": "uicCmpMRwsI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS OpsWorks for Chef Automate",
+            "DevOps"
+        ],
         "title": "Achieve Scale & Velocity with AWS OpsWorks for Chef Automate",
-        "date": "2017/04/17"
+        "description": "Companies are frequently using outdated process and tools for delivering infrastructure and applications, and are finding it to be difficult to migrate from on-premises data centers to the cloud. AWS OpsWorks for Chef Automate is a complete solution for the automation of infrastructure, applications, and compliance across the entire technology stack. Learn more about AWS OpsWorks for Chef Automate here - http://amzn.to/2oG9sMF.\n\nJoin us to learn more how Chef Automate can help by delivering, deploying, and managing infrastructure and apps with increasing speed, improved efficiency, and decreasing risk.",
+        "date": "2017-04-17T16:52:32Z",
+        "duration": 3384
     },
     {
         "service": "opsworks",
         "videoId": "R68eq-lL5lA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Chris Barclay",
+            "cloud application",
+            "cloud configuring",
+            "opsworks",
+            "AWS OpsWorks"
+        ],
         "title": "Customizing AWS OpsWorks with Chef 11 and Amazon Machine Images",
-        "date": "2013/09/03"
+        "description": "AWS OpsWorks lets you model and visualize your application with layers that define how to configure a set of resources that are managed together. Did you also know that you have two ways to customize your instances? In this session we'll show you how use custom AMIs as the foundation for your instances to improve boot speeds and Chef recipes to dynamically install, configure, and update software. Presenter: Chris Barclay",
+        "date": "2013-09-03T20:16:50Z",
+        "duration": 3359
     },
     {
         "service": "opsworks",
         "videoId": "KZoTh3hZTyo",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2014",
+            "Application Deployment & Management",
+            "Introductory",
+            "AWS CloudFormation",
+            "Websites",
+            "Web App",
+            "Load Balancing",
+            "Development",
+            "DevOps",
+            "Database",
+            "AWS OpsWorks",
+            "AWS Elastic Beanstalk",
+            "Amazon Web Services",
+            "Architect",
+            "Technical Decision Maker",
+            "Startup",
+            "Developer",
+            "Abhishek Singh",
+            "Chris Barclay"
+        ],
         "title": "AWS re:Invent 2014 | (APP202) Deploy, Manage, Scale Apps w/ AWS OpsWorks & AWS Elastic Beanstalk",
-        "date": "2014/11/14"
+        "description": "AWS offers a number of services that help you easily deploy and run applications in the cloud. Come to this session to learn how to choose among these options. Through interactive demonstrations, this session shows you how to get an application running using AWS OpsWorks and AWS Elastic Beanstalk application management services. You also learn how to use AWS CloudFormation templates to document, version control, and share your application configuration. This session covers application updates, customization, and working with resources such as load balancers and databases.",
+        "date": "2014-11-14T18:58:02Z",
+        "duration": 2536
     },
     {
         "service": "opsworks",
         "videoId": "WVSiwUkv3jw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "in-place restore",
+            "opsworks",
+            "chef automate server"
+        ],
         "title": "AWS KC Videos: How do I perform an in-place restore of my OpsWorks Chef Automate server?",
-        "date": "2018/01/22"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/restore-opsworks-chef-backup/\n\nKiranjith, an AWS Cloud Support Engineer, shows you how to perform an in-place restore of your OpsWorks Chef Automate server.",
+        "date": "2018-01-22T15:01:25Z",
+        "duration": 314
     },
     {
         "service": "opsworks",
         "videoId": "oOQkXp4U6qY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "ebs volume",
+            "opsworks"
+        ],
         "title": "AWS Knowledge Center Videos: How do I assign an additional EBS volume to an OpsWorks instance?",
-        "date": "2018/04/09"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/additional-ebs-volumes-opsworks/\n\nSai, an AWS Cloud Support Engineer, shows you how to assign an additional EBS volume to an OpsWorks instance.",
+        "date": "2018-04-09T13:58:02Z",
+        "duration": 319
     }
 ]

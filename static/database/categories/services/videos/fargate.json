@@ -2,229 +2,695 @@
     {
         "service": "fargate",
         "videoId": "Hr-zOaBGyEA",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CON423-R1",
+            "Containers",
+            "AWS Fargate"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] AWS Fargate under the hood (CON423-R1)",
-        "date": "2019/12/09"
+        "description": "AWS Fargate is a completely serverless, container-native compute experience on AWS. Fargate doesn’t require users to provision, scale, and manage any servers. Under the hood of Fargate, there is a sophisticated architecture where AWS is innovating both vertically to build a container-optimized virtualization platform and horizontally to build the right integrations with surrounding AWS services to take care of undifferentiated heavy lifting for the developer. In this session, learn from senior engineers how AWS Fargate is designed to deliver a scalable, secure, serverless developer experience with containers.",
+        "date": "2019-12-09T18:54:17Z",
+        "duration": 2930
     },
     {
         "service": "fargate",
         "videoId": "m-3tMXmWWQw",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CON326-R1",
+            "Containers",
+            "AWS Fargate",
+            "Amazon EKS"
+        ],
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Running Kubernetes Applications on AWS Fargate (CON326-R1)",
-        "date": "2019/12/10"
+        "description": "Fargate is a serverless compute engine for containers that supports multiple orchestrators. Come to this session to learn how the new integration between EKS and Fargate allows developers to deploy containers on a kubernetes cluster without thinking about infrastructure.",
+        "date": "2019-12-10T18:15:57Z",
+        "duration": 3467
     },
     {
         "service": "fargate",
         "videoId": "gNDi6l2tIws",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CON322-R1",
+            "Containers",
+            "The Vanguard Group",
+            "AWS Fargate"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] All in on AWS Fargate for high-security workloads (CON322-R1)",
-        "date": "2019/12/06"
+        "description": "AWS Fargate enables a serverless operational model for containers and offers a rich set of capabilities that support high-security workloads. In this session, you learn the security features and choices Fargate offers. You also learn how Vanguard chose to go all in on Fargate by running mission-critical applications that require enhanced security controls.",
+        "date": "2019-12-07T06:05:32Z",
+        "duration": 3246
     },
     {
         "service": "fargate",
         "videoId": "GIH-MfkZPJA",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "WIN309",
+            "Windows & .Net",
+            "AWS CodeBuild",
+            "AWS Fargate",
+            "AWS CodeDeploy"
+        ],
         "title": "AWS re:Invent 2019: Containerize .NET Apps with Amazon EKS and AWS Fargate (WIN309)",
-        "date": "2019/12/04"
+        "description": "Packaging software into containers gives your code everything needed to run with consistency from your laptop into production. But how do you run containers at scale in the cloud? In this session, learn how to run containerized Windows and .NET applications in production on AWS. We show you how to run Windows containers on Kubernetes with Amazon Elastic Kubernetes Service (Amazon EKS). We also demonstrate the benefits of running .NET Core Linux containers serverlessly with AWS Fargate. We cover core concepts and use demos to help you feel comfortable getting started with building and deploying .NET containerized applications on AWS.",
+        "date": "2019-12-04T17:31:00Z",
+        "duration": 3893
     },
     {
         "service": "fargate",
         "videoId": "7FVK0i9edyg",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CON333-R",
+            "Containers",
+            "AWS CodeBuild",
+            "Amazon ECS",
+            "AWS CodeDeploy"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT] Best practices for CI/CD using AWS Fargate and Amazon ECS (CON333-R)",
-        "date": "2019/12/11"
+        "description": "CI/CD techniques enable teams to increase agility and quickly release a high-quality product. In this talk, we walk you through the best practices for building CI/CD workflows to enable you to manage your containerized applications. We cover infrastructure as code application models with the AWS Cloud Development Kit, and we show you how to set up CI/CD release pipelines with AWS CodePipeline and AWS CodeBuild. Finally, we discuss automating safer deployments using AWS CodeDeploy.",
+        "date": "2019-12-11T18:33:09Z",
+        "duration": 3410
     },
     {
         "service": "fargate",
         "videoId": "1hWLBw-Qv8Y",
+        "tags": [
+            "AWS",
+            "Events",
+            "fargate",
+            "ecs",
+            "eks",
+            "pv 1.4"
+        ],
         "title": "AWS Cloud Containers Conference - Fargate Platform Version 1.4",
-        "date": "2020/08/07"
+        "description": "In this session we cover a brief introduction of AWS Fargate, what it is, its relation to EKS and ECS and the problems it addresses for customers. We introduce the concept of Fargate “platform versions” and then dive deeper into the new features that the new platform version 1.4 enables.\n\nLearn more about AWS Fargate at - https://amzn.to/2XxY0DN\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSWebinars",
+        "date": "2020-08-07T23:46:23Z",
+        "duration": 2733
     },
     {
         "service": "fargate",
         "videoId": "O1NQrIm_4cg",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CON328-R1",
+            "Containers",
+            "AWS App Mesh",
+            "Amazon CloudWatch",
+            "AWS Fargate"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Improving observability of your containers (CON328-R1)",
-        "date": "2019/12/06"
+        "description": "With CloudWatch Container Insights, FireLens, and AWS App Mesh working across Amazon Elastic Container Service (Amazon ECS), Amazon Elastic Kubernetes Service (Amazon EKS), and AWS Fargate, customers now have the tools to gain visibility into their deployments across environments. In this session, we dive deep into an architecture that enables the company to have a unified view across containers.",
+        "date": "2019-12-07T05:56:59Z",
+        "duration": 3126
     },
     {
         "service": "fargate",
         "videoId": "62g8KCRJ_1Y",
+        "tags": [
+            "programming",
+            "aws",
+            "reinvent",
+            "ai",
+            "ml",
+            "developer",
+            "cloud computing",
+            "software",
+            "Aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "reinvent 2019",
+            "aws launchpad"
+        ],
         "title": "AWS re:Invent 2019 Launchpad | EKS Support Fargate Pods",
-        "date": "2020/03/17"
+        "description": "Subscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #reInvent2019 #AWSLaunchpad",
+        "date": "2020-03-17T21:06:14Z",
+        "duration": 1104
     },
     {
         "service": "fargate",
         "videoId": "IEvLkwdFgnU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "DevDay Munich 2018"
+        ],
         "title": "Deep Dive into AWS Fargate",
-        "date": "2018/04/25"
+        "description": "Learn more about AWS and check out the upcoming schedule, previous recordings, and links to the resources discussed at - https://amzn.to/2Hoaho9.\n\nAWS DevDay Munich 2018:\nContainers are an increasingly important way for developers to package and deploy their applications  and AWS offers multiple container products to help you deploy, manage, and scale containers in production. In this session we we cover the state of containerized application development and deployment trends, new container capabilities on AWS that are available now, options for running containerized applications on AWS, and how AWS customers successfully run container workloads in production.\nLearn more about containers here: https://aws.amazon.com/containers/",
+        "date": "2018-04-25T17:15:32Z",
+        "duration": 3399
     },
     {
         "service": "fargate",
         "videoId": "xBgiArJHv7E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS London Summit 2018 - Breakout Session",
+            "AWS London Summit 2018",
+            "beakout session",
+            "Fargate"
+        ],
         "title": "Deep Dive into AWS Fargate",
-        "date": "2018/05/22"
+        "description": "Learn more about AWS at - https://amzn.to/2LoB4PB.\nAWS London Summit 2018 - Breakout Session:\nA look at running containers in AWS Fargate without managing infrastructure.",
+        "date": "2018-05-22T18:11:07Z",
+        "duration": 1519
     },
     {
         "service": "fargate",
         "videoId": "4CHu1ErN51o",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Serverless Containers",
+            "Fargate"
+        ],
         "title": "Introduction to AWS Fargate",
-        "date": "2019/04/29"
+        "description": "Learn more about AWS Fargate at – https://amzn.to/2DFrTrR \nAWS Fargate is a compute engine for Amazon ECS that allows you to run containers without having to manage servers or clusters. With AWS Fargate, you no longer have to provision, configure, and scale clusters of virtual machines to run containers. This removes the need to choose server types, decide when to scale your clusters, or optimize cluster packing. AWS Fargate removes the need for you to interact with or think about servers or clusters. Fargate lets you focus on designing and building your applications instead of managing the infrastructure that runs them.",
+        "date": "2019-04-29T22:21:16Z",
+        "duration": 47
     },
     {
         "service": "fargate",
         "videoId": "RxiPfZr2kBs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS DevDay Munich"
+        ],
         "title": "Deep Dive into AWS Fargate",
-        "date": "2018/04/25"
+        "description": "Learn more about AWS and check out the upcoming schedule, previous recordings, and links to the resources discussed at - https://amzn.to/2Hoaho9.\n\nAWS DevDay Munich 2018:\nContainers are an increasingly important way for developers to package and deploy their applications  and AWS offers multiple container products to help you deploy, manage, and scale containers in production. Different containerized services have different needs. You may want to deploy containers to ensure availability, maximize resource utilization, or ensure data security. As you build and run production microservices based on containers, having powerful tools to manage the placement and scheduling of these workloads is critical. In this talk, we will focus on the capabilities of the Amazon EC2 Container Service task placement engine, options for task scheduling, and explore the use cases and construction of custom task schedulers.\nLearn more about containers here: https://aws.amazon.com/containers/",
+        "date": "2018-04-25T17:16:49Z",
+        "duration": 3995
     },
     {
         "service": "fargate",
         "videoId": "FJlHXBcDJiw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "aws",
+            "amazon",
+            "amazon web services",
+            "aws efs",
+            "amazon efs",
+            "secure efs",
+            "elastic file system",
+            "elastic filesystem",
+            "ecs",
+            "amazon ecs",
+            "fargate",
+            "aws fargate",
+            "elastic container service",
+            "aws demo",
+            "aws tutorial"
+        ],
         "title": "Amazon EFS: Secure data persistence with Amazon ECS and AWS Fargate",
-        "date": "2020/05/20"
+        "description": "In this demo, we’re going to use Amazon EFS to create a shared file system, and then attach it to existing Amazon ECS and AWS Fargate services. We’ll also explore how AWS IAM Authorization and EFS Access Points can simplify configuring more granular access to our data for different scenarios. \n\nAmazon Elastic File System (EFS) provides a simple, scalable, and fully-managed shared file system for use with AWS Cloud services and on-premises resources. Whether you’re developing a new containerized application or modernizing an existing monolith, there are many types of applications where a shared persistence layer is an essential ingredient in achieving a resilient and durable architecture.\n\nLearn more about AWS Storage at - https://go.aws/3e7MdSF\n\nPersistent File Storage for Modern Applications: https://go.aws/2LKgsmd\nGitHub sample code repository: https://bit.ly/2TlBewC\nTutorial on using Amazon EFS File Systems with Amazon ECS: https://amzn.to/3g5FPNr\nAWS News Blog launch announcement: https://go.aws/3bLWLoP\nDevelopers guide to using Amazon EFS with Amazon ECS and AWS Fargate: https://go.aws/3e53pZ0\n\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonEFS",
+        "date": "2020-05-20T21:25:32Z",
+        "duration": 852
     },
     {
         "service": "fargate",
         "videoId": "4xqOoRPrnAw",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Containers",
+            "CON315-R1",
+            "AWS Fargate"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] Deploying Microservices using AWS Fargate (CON315-R1)",
-        "date": "2018/11/28"
+        "description": "KPMG have built a customer due diligence solution for a high-profile banking client in AWS. The solution is made up of a number of microservices which are deployed to containers using AWS Fargate. This presentation will dive into the details of the architecture of the solution, how the infrastructure and applications are deployed using third party tools such as Hashicorp’s Terraform and Jenkins, and the best practices when running containers in production workloads. The presentation will cover details on the AWS resources used in the solution, including DynamoDB, ECS, Fargate and S3, CI/CD and automation, with a focus around security to meet banking regulatory requirements. We will look at how KPMG have configured for canary deployments to ECS Fargate, how we manage secrets management and encryption, and how we manage service discovery between the microservices using ECS Service Discovery and Route 53.",
+        "date": "2018-11-28T18:35:34Z",
+        "duration": 2437
     },
     {
         "service": "fargate",
         "videoId": "0SceSgOTyrw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Containers",
+            "CON214",
+            "AI"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Introducing Amazon Fargate (CON214)",
-        "date": "2017/12/02"
+        "description": "Amazon Fargate is a highly scalable Docker container management service. Fargate’s new Container Mode runs Docker-enabled applications and automatically manages scaling, load balancing, and availability – all with zero administration. Join us to learn more about how Container Mode works, why we built it, and how you can get started using this powerful new service today.",
+        "date": "2017-12-03T01:43:15Z",
+        "duration": 2379
     },
     {
         "service": "fargate",
         "videoId": "3biyy4HO1S8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Migrating from EC2 to Fargate on ECS",
-        "date": "2019/05/24"
+        "description": "https://aws.amazon.com/developer/community/twitch/\nMissed the AWS Sydney Summit 2019? Learn how cloud technology can help your business lower costs, improve efficiency, and innovate at scale. This session is a recording from Summit Day 1.",
+        "date": "2019-05-24T16:17:16Z",
+        "duration": 852
     },
     {
         "service": "fargate",
         "videoId": "0zV_p29Yw50",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "CI/CD with AWS Developer Tools and Fargate",
-        "date": "2018/07/02"
+        "description": "CI/CD for a Docker Node.JS application using Code* services. This session will walkthrough what a solution like this would look like, what Code* services are used, how your build will work, and how deploys will work. The purpose of this session is to allow customers to see how to deploy their containerized applications in Amazon Elastic Container Service (ECS) Fargate using our CI/CD solutions. Come with your questions and pain points. We will also talk about how to use Bitbucket as your source control rather than Code Commit for the many customers already using BitBucket and Jenkins.\n\nSpeaker: Len Henry",
+        "date": "2018-07-02T17:30:45Z",
+        "duration": 3304
     },
     {
         "service": "fargate",
         "videoId": "HEesvngKNfc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "startups",
+            "AWS Fargate"
+        ],
         "title": "Life360: Processing Billions of Events Per Day with Fargate",
-        "date": "2019/04/05"
+        "description": "Learn more about AWS Startups at – https://amzn.to/2FVKHDq \nLife360 Cofounder and President Alex Haro talks about processing billions of events per day with AWS Fargate at the 2019 AWS Santa Clara Summit.",
+        "date": "2019-04-05T20:41:30Z",
+        "duration": 1199
     },
     {
         "service": "fargate",
         "videoId": "ye3-gUwu9tI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "re:Invent",
+            "Containers",
+            "microservices"
+        ],
         "title": "AWS Builders' Day | Deep Dive into AWS Fargate",
-        "date": "2018/02/14"
+        "description": "Check out the upcoming schedule, previous recordings, and links to the resources discussed at - http://amzn.to/2GcSHhW.\n\nContainers are an increasingly important way for developers to package and deploy their applications. They are lightweight and provide a consistent, portable software environment for applications to easily run and scale anywhere. Building and deploying microservices, running batch jobs, for machine learning applications, and moving existing applications into the cloud are just some of the popular use cases for containers. AWS offers multiple container products to help you deploy, manage, and scale containers in production. \n\nGet started with Containers at https://aws.amazon.com/containers/.",
+        "date": "2018-02-14T19:04:47Z",
+        "duration": 2763
     },
     {
         "service": "fargate",
         "videoId": "8i82i9QYUGs",
+        "tags": [
+            "re:Invent 2017",
+            "Andy Jassy",
+            "keynote",
+            "Fargate",
+            "AWS",
+            "Amazon Web Services",
+            "cloud",
+            "cloud computing"
+        ],
         "title": "AWS re:Invent 2017 - Introducing AWS Fargate",
-        "date": "2017/11/29"
+        "description": "Watch Andy Jassy's re:Invent keynote announcement of AWS Fargate, a technology for deploying and managing containers with having to worry about the underlying infrastructure. Learn more about Fargate at - http://amzn.to/2hwtNQ8.",
+        "date": "2017-11-29T21:59:19Z",
+        "duration": 105
     },
     {
         "service": "fargate",
         "videoId": "cpqvIEgngcY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS containers",
+            "containers",
+            "kubernetes",
+            "serverless",
+            "EKS",
+            "Fargate",
+            "Application modernization",
+            "application platforms",
+            "modern application development",
+            "devops"
+        ],
         "title": "Orchestrating Containers with Amazon Elastic Container Service and Fargate",
-        "date": "2019/02/04"
+        "description": "Learn how to deploy a container image to Amazon Elastic Container Service (ECS) and Fargate, and then scale into multiple environments. \n\nWatch the whole Application Modernization series at - https://www.youtube.com/playlist?list=PLhr1KZpdzukfWFTsOD_WynnY2-e8TY8fH.\n\nFollow along with our hands-on Application Modernization Workshop: https://modernize.awsworkshop.io",
+        "date": "2019-02-04T16:30:10Z",
+        "duration": 495
     },
     {
         "service": "fargate",
         "videoId": "RRzgUyyDA70",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "New York Summit"
+        ],
         "title": "CloudWatch Container Insights for Amazon ECS and AWS Fargate",
-        "date": "2019/07/29"
+        "description": "Learn more about Amazon CloudWatch at – https://amzn.to/2K2yHUc \nCloudWatch introduces observability with Container Insights by collecting highly granular metrics, state data from your running containers and providing deep linking into your application, host, and control plane logs.",
+        "date": "2019-07-29T22:19:55Z",
+        "duration": 1169
     },
     {
         "service": "fargate",
         "videoId": "5VPIzKDyLvo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS Developer Tools Improve Continuous Delivery Support for AWS Fargate and Amazon ECS",
-        "date": "2018/11/30"
+        "description": "The AWS Developer Tools now offer improved continuous delivery support for the Amazon Container Services. Principal Engineer Clare Liguori will show you how to implement blue/green deployments for AWS Fargate and Amazon ECS via AWS CodeDeploy. Additionally, AWS CodePipeline now supports Amazon ECR as a source provider. Clare will demonstrate how to set-up a continuous delivery pipeline with a blue/green deployment that is triggered by uploading a new image to Amazon ECR. To learn more about implementing blue/green deployments for your containerized applications with AWS CodeDeploy check out our blog post: https://aws.amazon.com/blogs/devops/use-aws-codedeploy-to-implement-blue-green-deployments-for-aws-fargate-and-amazon-ecs.  You can learn how to set-up Amazon ECR as a source provider for AWS CodePipeline in this blog post: https://aws.amazon.com/blogs/devops/build-a-continuous-delivery-pipeline-for-your-container-images-with-amazon-ecr-as-source/. \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:20:37Z",
+        "duration": 1165
     },
     {
         "service": "fargate",
         "videoId": "j-M8F3eKUOg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Ekosystem day",
+            "Devops automation",
+            "security",
+            "monitoring",
+            "machine learning",
+            "serverless"
+        ],
         "title": "EkoSystem Day - Monitoring AWS Fargate and Amazon EKS with Datadog",
-        "date": "2018/10/10"
+        "description": "AWS is streaming on twitch.tv/aws with interactive live coding, technical discussions, demos, tutorials and events. Learn more at - \nhttps://amzn.to/2C7igSO.\n\nJoin AWS and our partners for a hands-on day of learning about accelerating your development using the cloud, containers, and serverless technologies.\n\nThroughout the day, we learned how to use containers, microservices architectures, DevOps automation, security tools, and monitoring systems to build scalable and reliable applications. We covered the key changes you can make to help accelerate your ability to safely deliver code intro production and showcased best practices from our engineers and partners.",
+        "date": "2018-10-10T17:34:00Z",
+        "duration": 752
     },
     {
         "service": "fargate",
         "videoId": "rIfQT4ZGI3Y",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Containers",
+            "CON311-R1",
+            "AWS Fargate"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] Migrating to AWS Fargate (CON311-R1)",
-        "date": "2018/11/28"
+        "description": "AWS Fargate makes it easy to run containers by removing the need to provision, scale, or manage servers. In this session, learn the rationale behind some of the design decisions by the Fargate team and how that should influence your application design and best practices for building on Fargate. In addition, Turner Broadcasting System (TBS) dives deep into how it migrated to Fargate, the decisions that helped it along the way, and the tools it created in the process.",
+        "date": "2018-11-28T18:30:56Z",
+        "duration": 2988
     },
     {
         "service": "fargate",
         "videoId": "jkK190gckOs",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Containers",
+            "CON312-R1",
+            "AWS Fargate"
+        ],
         "title": "AWS re:Invent 2018: Visibility into Serverless Applications built using AWS Fargate (CON312-R1)",
-        "date": "2018/11/29"
+        "description": "Ever wondered how you would get visibility into your application when you go serverless? In this session, we will dive deep into various visibility aspects of your serverless applications on AWS Fargate. We will cover best practices around logging, alerting, metric collection and monitoring health of your containers. We will also learn several ways to troubleshoot container start up issues or application errors. Catalytic will then show how they’re using Fargate to perform parallelized bioinformatics workflows and how they gain better visibility into their applications running on Fargate. Complete Title: AWS re:Invent 2018: [REPEAT 1] Visibility into Serverless Applications built using AWS Fargate (CON312-R1)",
+        "date": "2018-11-29T18:21:45Z",
+        "duration": 3249
     },
     {
         "service": "fargate",
         "videoId": "900XiZZ-KPY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Ekosystem day",
+            "Devops automation",
+            "security",
+            "monitoring",
+            "machine learning",
+            "serverless"
+        ],
         "title": "EkoSystem Day - How Twistlock Provides Runtime Protection for Applications with AWS Fargate",
-        "date": "2018/10/10"
+        "description": "AWS is streaming on twitch.tv/aws with interactive live coding, technical discussions, demos, tutorials and events. Learn more at - \nhttps://amzn.to/2CzFvGd.\n\nJoin AWS and our partners for a hands-on day of learning about accelerating your development using the cloud, containers, and serverless technologies.\n\nThroughout the day, we learned how to use containers, microservices architectures, DevOps automation, security tools, and monitoring systems to build scalable and reliable applications. We covered the key changes you can make to help accelerate your ability to safely deliver code intro production and showcased best practices from our engineers and partners.",
+        "date": "2018-10-10T17:34:10Z",
+        "duration": 777
     },
     {
         "service": "fargate",
         "videoId": "dkhAetCMxb8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "DevDays Nordics",
+            "Cloud technologies",
+            "Cloudcomputing",
+            "Fargate"
+        ],
         "title": "AWS DevDays Nordics - Deep dive into Fargate",
-        "date": "2018/01/30"
+        "description": "Find out more about AWS Fargate and about scaling, service mesh, underlying\ninfrastructure, cluster resources, capacity, setup.\n\nLearn more about AWS at  - http://amzn.to/2Gz2Dn1\nSlideshare -\n https://www.slideshare.net/AmazonWebServices/tag/devdaysnordics2018.",
+        "date": "2018-01-30T22:41:57Z",
+        "duration": 3254
     },
     {
         "service": "fargate",
         "videoId": "jfvIhvFLK2I",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference 2018"
+        ],
         "title": "Run Containers without Managing Servers or Clusters with AWS Fargate (Level 300)",
-        "date": "2018/08/24"
+        "description": "Learn more about the AWS Innovate Online Conference at - https://amzn.to/2MufIEK.\nAWS Fargate is a technology for Amazon ECS and Amazon EKS that enables you to run containers without having to manage servers or clusters. In this session, we share the history of our container offerings and explain how AWS Fargate removes the requirement of choosing server types, deciding when to scale your clusters, or deciding how to optimize cluster packing. We also cover how AWS Fargate removes the undifferentiated heavy lifting of managing infrastructure and enables you to focus on designing and building your containerized applications. Finally, we demonstrate how easy it is to get started with AWS Fargate, and we discuss its key features, including networking, integrating with load balancers, security, and monitoring.\n\nSpeaker: Santanu Dutt, Senior Solution Architect Manager, Amazon Web Services",
+        "date": "2018-08-24T20:06:58Z",
+        "duration": 1566
     },
     {
         "service": "fargate",
         "videoId": "y9mzpGAoOuE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - AWS Fargate",
-        "date": "2017/12/08"
+        "description": "AWS Fargate is a technology for deploying and managing containers without having to manage any of the underlying infrastructure. Learn more at - http://amzn.to/2koMVjR. You no longer have to provision, configure, and scale clusters of virtual machines to run containers. Simply upload your container image, specify resource requirements, and Fargate launches containers for you in seconds. AWS Fargate enables you to focus on designing and running the application, not the infrastructure. \n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:36:58Z",
+        "duration": 934
     },
     {
         "service": "fargate",
         "videoId": "YlUoa3hLz78",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "machine learning",
+            "apache mxnet",
+            "aws fargate",
+            "Twitch"
+        ],
         "title": "Serving Machine Learning Models with Apache MXNet & AWS Fargate",
-        "date": "2018/08/27"
+        "description": "Learn more about Machine Learning at AWS - https://amzn.to/2PJ0nOA.\nWe met with industry experts to discuss machine learning at our San Francisco Loft. In this episode we discussed serving machine learning models with Apache MXNet & AWS Fargate.\n\nVisit https://aws.amazon.com/twitch for more information on the current live coding shows, upcoming episode schedule, or for recordings of previous broadcasts.",
+        "date": "2018-08-27T19:26:25Z",
+        "duration": 3966
     },
     {
         "service": "fargate",
         "videoId": "AZo6W3gUksA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "SRV314",
+            "awsnysummit2018",
+            "nysummit2018",
+            "BYOIP",
+            "Amazon VPC",
+            "Amazon EC2"
+        ],
         "title": "AWS New York Summit 2018 - Develop Containerized Apps with AWS Fargate (SRV314)",
-        "date": "2018/07/23"
+        "description": "Learn more about AWS at - https://amzn.to/2Km1rUA.\nAWS Fargate makes running containerized workloads on AWS easier than ever. In this session, we provide a technical foundation for using AWS Fargate with your existing containerized services. We also provide best practices for building images, configuring task definitions, task networking, secrets management, and monitoring.",
+        "date": "2018-07-23T21:41:20Z",
+        "duration": 2742
     },
     {
         "service": "fargate",
         "videoId": "hhUAYig-FnY",
-        "title": "CI/CD with AWS Developer Tools and AWS Fargate",
-        "date": "2018/10/10"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
+        "title": "CI/CD with AWS Developer Tools and  AWS Fargate",
+        "description": "",
+        "date": "2018-10-11T04:38:44Z",
+        "duration": 1604
     },
     {
         "service": "fargate",
         "videoId": "zr3Kib0i-OQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Fargate",
+            "Serverless",
+            "Asset Tracking",
+            "Amazon Simple Storage Service (S3)",
+            "AWS Lambda",
+            "Amazon Elasticsearch Service",
+            "Amazon CloudWatch",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Accenture: Large Scale Asset Inventory Tracking with AWS Fargate",
-        "date": "2019/08/27"
+        "description": "Accenture runs large scale resource inventory discovery jobs against the AWS platform every few minutes to create a close to real-time view of tens of thousands of elements. In a prior iteration, Accenture had chosen Lambda as the way to analyze each resource component individually, leading to thousands of Lambda invocations per minute. Containers on AWS Fargate provided a better, memory-optimized alternative to Lambda. In this episode, Accenture will introduce you how they pivoted their AWS architecture.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-08-27T19:33:06Z",
+        "duration": 378
     },
     {
         "service": "fargate",
         "videoId": "bmO6szTCKaU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Fargate",
+            "Network Load Balancer",
+            "CI/CD",
+            "TWITCH"
+        ],
         "title": "Live with AM & Nicki - Create the AWS Fargate Service and Automate Your Backend Deployment",
-        "date": "2018/10/10"
+        "description": "In this episode, we picked up where we left off by creating a Network Load Balancer to enable our Fargate service to be load balanced. Once we did that, we were finally ready to create our Fargate service where our containers will run and register themselves to the load balancer to receive traffic. After we tested the service and updated our angular app to call the Network Load Balancer, we created and tested a CI/CD pipeline using Code Services to automate all future deployments of our backend moving forward.\n\nGithub to follow along: \nhttps://github.com/aws-samples/aws-modern-application-workshop/tree/dotnet\n\nLearn more about AWS on Twitch: \nhttps://aws.amazon.com/developer/community/twitch/?sc_channel=EL&sc_campaign=Twitch_2018_vid&sc_medium=YouTube&sc_content=video3292&sc_detail=LIVECODING&sc_country=US\n\nSee past Twitch.tv/aws Videos: \nhttps://aws.amazon.com/developer/community/twitch/recordings/\n\nRSVP for updates of Season 2 of Live with AM & Nicki: \nhttps://www.twitch.tv/events/YloQaohcShOCbAgC4de-Yg",
+        "date": "2018-10-10T19:15:38Z",
+        "duration": 3718
     },
     {
         "service": "fargate",
         "videoId": "CdxdjDpF8Eo",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Containers",
+            "CON333",
+            "AI",
+            "Networking"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Deep Dive into Amazon Fargate (CON333)",
-        "date": "2017/12/01"
+        "description": "Amazon Fargate Container Mode makes running containerized workloads on AWS easier than ever before. This session will provide a technical background for implementing Fargate Container Mode with your existing containerized services, including best practices for building images, configuring task definitions, task networking, secrets management, and monitoring.\n\nSee the demo used in this presentation: https://github.com/awslabs/eb-java-scorekeep/tree/fargate",
+        "date": "2017-12-01T16:23:10Z",
+        "duration": 3242
     },
     {
         "service": "fargate",
         "videoId": "iF6932-WGc0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS New York Summit 2018",
+            "AWS Launchpad",
+            "Twitch"
+        ],
         "title": "AWS NY Summit - Improving Continuous Integration & Buying Kia's with AWS Fargate",
-        "date": "2018/07/26"
+        "description": "Learn more about the AWS Twitch Channel at - https://amzn.to/2JXXfdB.\nThe AWS Summit was a free event designed to bring together the cloud computing community to connect, collaborate, and learn about AWS. AWS live streamed the event with the AWS Launchpad, featuring technical discussions, announcements, demos, customer interviews and live Q&A with the Twitch community. Learn more about the AWS Twitch Channel at https://aws.amazon.com/twitch.\n\nAaptiv Inc. is a leading provider of premium digital health and wellness content with a fast-growing community of nearly 200,000 members who take on average 30,000 of Aaptiv's exclusive classes each day. They migrated over to Fargate to eliminate the need for their infratructure team to manage the upkeep of underlying infrastructure such as servers and their patching, upgrading, etc. Apptiv have built a continuous integration Pipeline with AWS Fargate and Amazon CloudFormation to realize massive cost savings which they track in terms of the number Kia's they could buy with the money they save though Fargate+ CloudFormation!\n\nHost: Abby Fuller, Sr. Technical Evangelist, AWS\nGuest: Jem Altieri, Infrastructure Engineer, Aaptiv",
+        "date": "2018-07-26T20:10:58Z",
+        "duration": 667
     },
     {
         "service": "fargate",
         "videoId": "rbOFx9LcNKk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Ekosystem day",
+            "Devops automation",
+            "security",
+            "monitoring",
+            "machine learning",
+            "serverless"
+        ],
         "title": "EkoSystem Day - Monitoring on Fargate",
-        "date": "2018/10/10"
+        "description": "AWS is streaming on twitch.tv/aws with interactive live coding, technical discussions, demos, tutorials and events. Learn more at - \nhttps://amzn.to/2INgyHu.\n\nJoin AWS and our partners for a hands-on day of learning about accelerating your development using the cloud, containers, and serverless technologies.\n\nThroughout the day, we learned how to use containers, microservices architectures, DevOps automation, security tools, and monitoring systems to build scalable and reliable applications. We covered the key changes you can make to help accelerate your ability to safely deliver code intro production and showcased best practices from our engineers and partners.",
+        "date": "2018-10-10T17:34:40Z",
+        "duration": 683
     }
 ]

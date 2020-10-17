@@ -2,61 +2,199 @@
     {
         "service": "amazon_eventbridge",
         "videoId": "TXh5oU_yo9M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon EventBridge",
+            "serverless",
+            "serverless computing",
+            "serverless aws",
+            "aws serverless",
+            "aws services"
+        ],
         "title": "Intro to Amazon EventBridge",
-        "date": "2020/02/04"
+        "description": "Learn about Amazon EventBridge and how it can help simplify your application architecture. In this video, we'll cover common challenges and the benefits of an event-driven design supported by EventBridge. \n\nEventBridge is a serverless event bus designed to help you address some of the common architectural pitfalls of distributed systems, and also help simplify your serverless systems architecture. \n\nLearn more about Amazon EventBridge at https://go.aws/3b9XxwI\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #AmazonEventBridge #AWSServerless",
+        "date": "2020-02-04T23:25:40Z",
+        "duration": 554
     },
     {
         "service": "amazon_eventbridge",
         "videoId": "ea9SCYDJIm4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon EventBridge",
+            "serverless",
+            "serverless computing",
+            "serverless aws",
+            "aws serverless"
+        ],
         "title": "How To Get Started With Amazon EventBridge",
-        "date": "2020/02/04"
+        "description": "Amazon EventBridge is a serverless event bus that is both powerful and easy to use. In this video we will demonstrate how you can get started with EventBridge including creating an event bus, setting up rules, and adding a target. You can use EventBridge to decouple your applications and simplify your serverless architecture. \n\nLearn more about Amazon EventBridge at https://go.aws/2OqxHuC\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonEventBridge #AWSServerless",
+        "date": "2020-02-04T23:38:28Z",
+        "duration": 539
     },
     {
         "service": "amazon_eventbridge",
         "videoId": "tvELVa9D9qU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS New York Summit 2019: Intro to Event-driven Architectures and Amazon EventBridge (MAD205)",
-        "date": "2019/07/23"
+        "description": "Learn more about AWS Global Summits  at – https://amzn.to/30QxdBW\nCompanies are increasingly opting to build applications using event-driven architectures, that is, architectures in which actions are triggered in response to changes in data, called events. In this session, we detail how event-driven architectures improve application scalability and reliability and why they are important in both serverless and traditional compute models. We cover the architectural patterns and best practices for successfully building event-driven systems in the context of real-world use cases, and we discuss the AWS services that support events, including Amazon CloudWatch Events, Amazon SQS, and Amazon SNS. Expect to leave with a deeper understanding of how to introduce and optimize an event-based architecture in your application.",
+        "date": "2019-07-23T22:47:31Z",
+        "duration": 3099
     },
     {
         "service": "amazon_eventbridge",
         "videoId": "-Nv-Gejpkhc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon EventBridge",
+            "Serverless",
+            "Serverless Computing",
+            "Serverless AWS",
+            "AWS Serverless",
+            "SAM",
+            "AWS Demo",
+            "AWS Demo Video",
+            "SDK"
+        ],
         "title": "How To Set Up A Custom Event Bus With Amazon EventBridge",
-        "date": "2020/02/04"
+        "description": "Learn how to set up a custom event bus in Amazon EventBridge using the AWS Management Console or the AWS CLI. You can then send events to your custom bus using the SDK or automate the integration entirely using SAM.\n\nLearn more about Amazon EventBridge at https://go.aws/2RXFEcO\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonEventBridge #AWSServerless",
+        "date": "2020-02-04T23:41:32Z",
+        "duration": 463
     },
     {
         "service": "amazon_eventbridge",
         "videoId": "54VU9x7qGhQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon EventBridge",
+            "Serverless",
+            "Serverless Computing",
+            "Serverless AWS",
+            "AWS Serverless",
+            "Schema Registry"
+        ],
         "title": "How to Use Amazon EventBridge Schema Registry",
-        "date": "2020/02/04"
+        "description": "Learn how to use Amazon EventBridge schema registry to search, find, and track different event schemas used and generated by your applications. \n\nIn this video, we will demonstrate how to automate processes around event schema management with the Amazon EventBridge schema discovery feature.\n\nLearn more about Amazon EventBridge at https://go.aws/2GYCBe4\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #AmazonEventBridge #AWSServerless",
+        "date": "2020-02-04T23:48:15Z",
+        "duration": 685
     },
     {
         "service": "amazon_eventbridge",
         "videoId": "3-cR1Ga-7zQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "New York Summit",
+            "EventBridge"
+        ],
         "title": "Introducing Amazon EventBridge",
-        "date": "2019/07/29"
+        "description": "Learn more about Amazon EventBridge at – https://amzn.to/2Yenet4 \nToday we launched Amazon EventBridge, a serverless event bus that connects applications together. EventBridge delivers a stream of real-time data from AWS resources, SaaS applications, and data from your own applications. EventBridge makes building event-driven application easy because it takes care of event ingestion and delivery, security, authorization, and error-handling for you. It also automatically routes events from their source to one or more targets such as AWS Lambda functions and Amazon Kinesis streams We see our customers building event-driven applications more and more because they increase the speed at which teams can build applications. EventBridge simplified the building and management of eventdrive apps.",
+        "date": "2019-07-29T22:19:49Z",
+        "duration": 800
     },
     {
         "service": "amazon_eventbridge",
         "videoId": "NakNmzsN6LI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon EventBridge",
+            "Serverless",
+            "Serverless Computing",
+            "Serverless AWS",
+            "AWS Serverless",
+            "zendesk",
+            "saas"
+        ],
         "title": "Amazon EventBridge: Integrating with Zendesk",
-        "date": "2020/02/04"
+        "description": "In this video we will demonstrate how to integrate Zendesk with a custom serverless application using Amazon EventBridge. \n\nWe will demo an example application that performs sentiment analysis on your Zendesk tickets, using EventBridge between the SaaS application and your custom code.\n\nLearn more about Amazon EventBridge at https://go.aws/2Oqxs2G\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #AmazonEventBridge #AWSServerless",
+        "date": "2020-02-04T23:45:45Z",
+        "duration": 662
     },
     {
         "service": "amazon_eventbridge",
         "videoId": "KAlSXOjsRg8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon EventBridge",
+            "Serverless",
+            "Serverless Computing",
+            "Serverless AWS",
+            "AWS Serverless"
+        ],
         "title": "Amazon EventBridge: Integrating with PagerDuty",
-        "date": "2020/02/04"
+        "description": "In this video, we will demonstrate how to integrate PagerDuty with Amazon EventBridge to take customized automated action on incident tickets. Learn how to extend the functionality of this popular SaaS provider, using minimal code to process events in near-real time.\n\nLearn more about Amazon EventBridge at https://go.aws/2GTdtpf\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #AmazonEventBridge #AWSServerless",
+        "date": "2020-02-04T23:29:29Z",
+        "duration": 455
     },
     {
         "service": "amazon_eventbridge",
         "videoId": "2kVHoB8V0U8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon EventBridge",
+            "Serverless",
+            "Serverless Computing",
+            "Serverless AWS",
+            "AWS Serverless",
+            "SaaS",
+            "webhooks"
+        ],
         "title": "Amazon EventBridge: Integrating with Auth0",
-        "date": "2020/02/04"
+        "description": "In this video, we will demonstrate how to integrate Auth0 with Amazon EventBridge to extend the functionality of this popular SaaS provider. You can run custom code or workflows in response to events generated by user actions, all without using polling or webhooks.\n\nLearn more about Amazon EventBridge at https://go.aws/2GTdtpf\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonEventBridge #AWSServerless",
+        "date": "2020-02-04T23:33:12Z",
+        "duration": 430
     },
     {
         "service": "amazon_eventbridge",
         "videoId": "Hih-bF8qYgU",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "API320-R1",
+            "Application Integration",
+            "Amazon EventBridge"
+        ],
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Building event-driven architectures w/ Amazon EventBridge (API320)",
-        "date": "2019/12/12"
+        "description": "Companies are increasingly opting to build applications using event-driven architectures to improve application scalability and reliability. In this session we’ll review the basics of event-driven architectures, and reveal how new features in Amazon EventBridge can dramatically reduce the time and code required to build applications that react to events. EventBridge can now discover the available events and automatically generate code from their structure and contents. Through use cases and examples, we’ll review how to simplify the process of ingesting, routing, and processing events from your own apps, AWS services, or SaaS apps. With the launch of schema registry, Amazon EventBridge can now discover the available events and automatically generate code from their structure and contents.",
+        "date": "2019-12-12T20:25:39Z",
+        "duration": 3178
     }
 ]

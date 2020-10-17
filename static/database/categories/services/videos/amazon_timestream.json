@@ -2,13 +2,36 @@
     {
         "service": "amazon_timestream",
         "videoId": "oTPpIyXoE3k",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS re:Invent 2018 - Announcing Amazon Timestream",
-        "date": "2018/11/30"
+        "description": "Amazon Timestream is a fast, scalable, fully managed time series database service for IoT and operational applications that makes it easy to store and analyze trillions of events per day at 1/10th the cost of relational databases. Learn more at - https://amzn.to/2reMjBb.\n\nWith Timestream, you can easily store and analyze log data for DevOps, sensor data for IoT applications, and industrial telemetry data for equipment maintenance.",
+        "date": "2018-11-30T18:05:24Z",
+        "duration": 126
     },
     {
         "service": "amazon_timestream",
         "videoId": "a_O3fBAzZIs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Quick Start",
+            "Getting Started",
+            "data streaming",
+            "IoT",
+            "Amazon Kinesis"
+        ],
         "title": "AWS Quick Start - Get Started with Real-Time Streaming Data in Under 5 Minutes (Demo)",
-        "date": "2018/11/25"
+        "description": "Learn more at - https://amzn.to/2zrUDCq.\nWant to learn how to capture and analyse IoT device data, VPC flow logs, or clickstream data in real-time? In this session, we discuss how to do so with Amazon Kinesis and get up and running in 5 minutes or less. Amazon Kinesis makes it easy to collect, process, and analyse real-time, streaming data so you can get timely insights and react quickly to new information. We also walk you through through common problems that streaming data can help solve, what AWS services are typically involved, and provide a demo and explanation of several streaming solutions you can use to get started.\n\nPresenter: \n- Najah Naaji, Solutions Architect, Amazon Web Services",
+        "date": "2018-11-26T04:05:20Z",
+        "duration": 1828
     }
 ]

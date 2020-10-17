@@ -2,523 +2,1733 @@
     {
         "service": "amazon_aurora",
         "videoId": "4DqNk7ZTYjA",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT336",
+            "Amazon Aurora"
+        ],
         "title": "AWS re:Invent 2018: Aurora Serverless: Scalable, Cost-Effective Application Deployment (DAT336)",
-        "date": "2018/11/27"
+        "description": "Amazon Aurora Serverless is an on-demand, autoscaling configuration for Aurora (MySQL-compatible edition) where the database automatically starts up, shuts down, and scales up or down capacity based on your application's needs. It enables you to run your database in the cloud without managing any database instances. Aurora Serverless is a simple, cost-effective option for infrequent, intermittent, or unpredictable workloads. In this session, we explore these use cases, take a look under the hood, and delve into the future of serverless databases. We also hear a case study from a customer building new functionality on top of Aurora Serverless.",
+        "date": "2018-11-27T19:01:48Z",
+        "duration": 3305
     },
     {
         "service": "amazon_aurora",
         "videoId": "bPUVq_1Knm8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "PostgreSQL",
+            "Amazon",
+            "Aurora",
+            "RDS"
+        ],
         "title": "Aurora PostgreSQL University: Intro to Amazon Aurora with PostgreSQL Compatibility",
-        "date": "2019/08/21"
+        "description": "Learn more about Amazon Relational Database Service (RDS)\n at – https://amzn.to/33JEIwN\nOverview of Amazon Aurora with PostgreSQL compatibility. Learn about the availability, performance, scalability, and enterprise features of Aurora PostgreSQL - all at 1/10th the cost of commercial databases. There is a reason Aurora is the fastest growing service in AWS history!",
+        "date": "2019-08-21T18:51:45Z",
+        "duration": 1186
     },
     {
         "service": "amazon_aurora",
         "videoId": "cMJV2vvNsts",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "PostgreSQL",
+            "Amazon",
+            "Aurora",
+            "RDS"
+        ],
         "title": "Deep Dive on Amazon Aurora with PostgreSQL Compatibility",
-        "date": "2019/04/01"
+        "description": "Learn more about Amazon Relational Database Service (RDS) at – https://amzn.to/2FO3m5e \nJim Mlodgenski at AWS Migration Day - PostgresConf NYC, March 18, 2019",
+        "date": "2019-04-01T19:13:36Z",
+        "duration": 3236
     },
     {
         "service": "amazon_aurora",
         "videoId": "XKPHbYe-fHQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "PostgreSQL",
+            "Amazon",
+            "Aurora",
+            "RDS"
+        ],
         "title": "Deep Dive on Amazon Aurora PostgreSQL Performance Tuning",
-        "date": "2019/04/01"
+        "description": "Learn more about Amazon Relational Database Service (RDS) at – https://amzn.to/2Umohok \nJames Finnerty at AWS Migration Day - PostgresConf NYC, March 18, 2019",
+        "date": "2019-04-01T19:13:34Z",
+        "duration": 3505
     },
     {
         "service": "amazon_aurora",
         "videoId": "DAJhvRMniqo",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Databases",
+            "DAT202",
+            "AI",
+            "Aurora",
+            "Database"
+        ],
         "title": "AWS re:Invent 2017: Getting Started with Amazon Aurora (DAT202)",
-        "date": "2017/11/28"
+        "description": "Amazon Aurora services are MySQL and PostgreSQL -compatible relational database engines with the speed, reliability, and availability of high-end commercial databases at one-tenth the cost. This session introduces you to Amazon Aurora, explores the capabilities and features of Aurora, explains common use cases, and helps you get started with Aurora.",
+        "date": "2017-11-28T18:19:31Z",
+        "duration": 3238
     },
     {
         "service": "amazon_aurora",
         "videoId": "U42mC_iKSBg",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT304-R1",
+            "Amazon Aurora"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] Deep Dive on Amazon Aurora with MySQL Compatibility (DAT304-R1)",
-        "date": "2018/11/28"
+        "description": "Amazon Aurora is a fully managed relational database service that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases. With Aurora, we've completely reimagined how databases are built for the cloud, providing you higher performance, availability, and durability than previously possible. In this session, we dive deep into the architectural details of Aurora with MySQL compatibility, and we review recent innovations, such as parallel query, backtrack, serverless, and multi-master. We also share best practices for utilizing the power of relational databases at cloud scale.",
+        "date": "2018-11-28T18:30:22Z",
+        "duration": 3744
     },
     {
         "service": "amazon_aurora",
         "videoId": "SnCWucCEFLw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Cloud database",
+            "Database as a Service",
+            "Database",
+            "Storage",
+            "MySQL",
+            "PostgreSQL",
+            "Amazon Aurora",
+            "Amazon RDS"
+        ],
         "title": "How To Create Your First Database Cluster on Amazon Aurora",
-        "date": "2017/04/17"
+        "description": "Watch a step-by-step guide on creating your first database cluster on Amazon Aurora, a relational database offering up to 5 times performance for one-tenth the cost of commercial databases. Learn more about Amazon Aurora at http://amzn.to/2os4h0W.\n\nThe Amazon Aurora How To Video Series provides step-by-step guidance on common database operations. In this video, you'll learn how to create a database cluster running Amazon Aurora with MySQL compatibility, with a primary instance and a read replica. You'll learn about selecting the right instance type and other key options, understand key scalability and security considerations, and find out how to access your database from a MySQL client.",
+        "date": "2017-04-17T16:29:52Z",
+        "duration": 256
     },
     {
         "service": "amazon_aurora",
         "videoId": "--jED3W8Qy4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "PostgreSQL",
+            "Amazon",
+            "Aurora",
+            "RDS"
+        ],
         "title": "PostgreSQL In-Depth Training: Aurora Part 1",
-        "date": "2019/06/17"
+        "description": "Learn more about Amazon Relational Database Service (Amazon RDS) at – https://amzn.to/2WJGcSO \nPart of a five day PostgreSQL In-Depth Training given in Dublin, Ireland in 2019. Covers AWS Aurora PostgreSQL. The content targets a support teams, but is valuable to all who want to learn more about PostgreSQL. This video covers the first part of day 3 of the training.",
+        "date": "2019-06-17T17:34:13Z",
+        "duration": 4525
     },
     {
         "service": "amazon_aurora",
         "videoId": "cN_R5JteUgA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "What's New in Amazon Aurora",
-        "date": "2018/11/30"
+        "description": "Amazon Aurora is a MySQL- and PostgreSQL-compatible relational database with the speed, reliability, and availability of commercial databases at one-tenth the cost. 2018 was a busy year for Aurora, with major new features including Serverless, Performance Insights, Backtrack and Parallel Query. We'll recap the news from 2018 and provide examples of customers running their databases in the cloud. Learn more here: https://aws.amazon.com/rds/aurora/resources. \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:53:05Z",
+        "duration": 1138
     },
     {
         "service": "amazon_aurora",
         "videoId": "ERMHycDc8ck",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon Aurora",
+            "Amazon Demo"
+        ],
         "title": "High Availability and Failover in Amazon Aurora",
-        "date": "2020/05/18"
+        "description": "High Availability and Failover in Amazon Aurora - Amazon Aurora is a relational database built for the cloud. It has an innovative cluster architecture with a distributed fault-tolerant and self-healing storage system than helps minimizes the impact of failures. This video will show you how high availability and automatic failure recovery work in practice in Amazon Aurora.\n\nLearn more about Amazon Aurora at https://go.aws/3cDLGri\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonAurora #AWSDemo",
+        "date": "2020-05-18T19:54:21Z",
+        "duration": 899
     },
     {
         "service": "amazon_aurora",
         "videoId": "kDBcoCUn7LI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "PayU",
+            "Amazon Aurora",
+            "Direct Connect",
+            "Fin Tech.",
+            "TMA Mumbai",
+            "AWS Key Management Service (KMS)",
+            "AWS Identity and Access Management (IAM)",
+            "Elastic Load Balancing",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "PayU: Scaling E-commerce Flash Sales using Amazon Aurora",
-        "date": "2018/10/11"
+        "description": "Learn more about This Is My Architecture at - https://amzn.to/2QkasRF\nWhen PayU had to scale to for e-commerce Flash Sales , they had to rethink their architecture. Prashanth explains how they scaled their architecture on AWS , using Amazon Aurora for their Database. PayU have also implemented strong security controls using AWS IAM and KMS.\n\nHost: Shailesh Albuquerque, Solutions Architect, Amazon Internet Services Pvt Ltd.\nSpeaker: Prashanth Susarla, CTO, PayU Payments Pvt. Ltd.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2018-10-11T13:41:02Z",
+        "duration": 400
     },
     {
         "service": "amazon_aurora",
         "videoId": "HAITkZr9pUk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Services Deep Dive",
+            "Expert",
+            "Database",
+            "Architect",
+            "Developer",
+            "Anurag Gupta",
+            "Manish Dalwadi"
+        ],
         "title": "AWS re:Invent 2014 | (SDD415) NEW LAUNCH: Amazon Aurora: Amazon’s New Relational Database Engine",
-        "date": "2014/11/17"
+        "description": "Amazon Aurora is a MySQL-compatible database engine that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases. Starting today, you can sign up for an invitation to the preview of the service. Come to our session for an overview of the service and learn how Aurora delivers up to five times the performance of MySQL yet is priced at a fraction of what you'd pay for a commercial database with similar performance and availability.",
+        "date": "2014-11-17T23:34:00Z",
+        "duration": 3209
     },
     {
         "service": "amazon_aurora",
         "videoId": "3PshvYmTv9M",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT305-R1",
+            "Amazon Aurora"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] Deep Dive on Amazon Aurora with PostgreSQL Compatibility (DAT305-R1)",
-        "date": "2018/11/28"
+        "description": "Amazon Aurora with PostgreSQL Compatibility is a relational database service that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open-source databases. We review the functionality in order to understand the architectural differences that contribute to improved scalability, availability, and durability. We also dive deep into the capabilities of the service and review the latest available features. Finally, we walk through the techniques that can be used to migrate to Amazon Aurora.",
+        "date": "2018-11-28T18:32:05Z",
+        "duration": 3117
     },
     {
         "service": "amazon_aurora",
         "videoId": "JVBbqkVEbXY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I change the VPC of an Amazon Aurora Cluster?",
-        "date": "2020/06/08"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/rds-vpc-aurora-cluster/\nNiranjan shows you how to change the VPC of an Amazon Aurora Cluster.",
+        "date": "2020-06-08T21:01:27Z",
+        "duration": 430
     },
     {
         "service": "amazon_aurora",
         "videoId": "tAHqBmaOguo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "RDS",
+            "Aurora",
+            "binlog",
+            "binary logging",
+            "parameter group"
+        ],
         "title": "How do I enable the binlog file in an Amazon Aurora cluster to use for external replication?",
-        "date": "2017/05/04"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/enable-binary-logging-aurora/\n\nFrank, an AWS Cloud Support Engineer, shows you how enable the binlog file in an Amazon Aurora cluster to use for external replication.",
+        "date": "2017-05-04T14:43:04Z",
+        "duration": 340
     },
     {
         "service": "amazon_aurora",
         "videoId": "Q0cqKl6ktIg",
+        "tags": [
+            "re:Invent 2017",
+            "Amazon Aurora Serverless",
+            "Andy Jassy",
+            "Keynote",
+            "cloud",
+            "cloud computing",
+            "AWS",
+            "Amazon Web Services"
+        ],
         "title": "AWS re:Invent 2017 - Amazon Aurora Serverless",
-        "date": "2017/11/29"
+        "description": "At re:Invent 2017, AWS announced the preview of Amazon Aurora Serverless, where Aurora will automatically adjust database capacity to match your application needs. Sign up for the preview at http://bit.ly/2zMIarZ.\n\nThis new serverless architecture will save you time and money by automatically adjusting database capacity to match your application needs. The preview is for the MySQL-compatible edition of Amazon Aurora.",
+        "date": "2017-11-29T23:50:55Z",
+        "duration": 57
     },
     {
         "service": "amazon_aurora",
         "videoId": "gdhSG25gSZA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Aurora",
+            "Database Cloning"
+        ],
         "title": "Fast Database Cloning in Amazon Aurora",
-        "date": "2017/08/30"
+        "description": "Amazon Aurora is a MySQL-compatible relational database, offering up to 5 times performance of MySQL for one-tenth the cost of commercial databases. Fast Database Cloning creates copies in minutes for development, QA and IT operations. Learn more about Amazon Aurora at - http://amzn.to/2ofcCIj.\n\nFast Database Cloning allows developers, testers and IT to create as many database copies as they need, in a completely self-service model. It’s the alternative to cloning with high-end storage arrays or software tools that cost hundreds of thousands of dollars. Fast Database Cloning is efficient because it leverages the native Copy on Write capability in the Aurora storage layer. No storage gets used – or charged for – unless you write new data to your cloned database.",
+        "date": "2017-08-30T17:17:55Z",
+        "duration": 85
     },
     {
         "service": "amazon_aurora",
         "videoId": "Dv_8r7w6k0E",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "GPS-Technical",
+            "Global Partner Summit",
+            "GPSTEC313",
+            "Amazon Aurora"
+        ],
         "title": "AWS re:Invent 2018: Accelerate Oracle to Aurora PostgreSQL Migration (GPSTEC313)",
-        "date": "2018/11/30"
+        "description": "There is a lot of interest these days in migrating data from commercial relational databases to open-source relational databases. PostgreSQL is a great choice for migration, offering advanced features, high performance, rock-solid data integrity, and a flexible open-source license. PostgreSQL is compliant with ANSI SQL. It supports drivers for nearly all development languages, and it has a strong community of active committers and companies to provide support. In this talk, we demonstrate an overall approach for migrating an application from your current Oracle database to an Amazon Aurora PostgreSQL database.",
+        "date": "2018-11-30T16:39:37Z",
+        "duration": 4145
     },
     {
         "service": "amazon_aurora",
         "videoId": "H2AwyOkTq6w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Dream11",
+            "Rohini Gaonkar",
+            "Amit Sharma",
+            "sports tech startup",
+            "Amazon Aurora",
+            "Amazon ElastiCache",
+            "Redis",
+            "Amazon EC2",
+            "Amazon CloudFront",
+            "MySQL",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Dream11: Scaling Fantasy Sports Platform with Amazon ElastiCache and Amazon Aurora",
-        "date": "2018/08/23"
+        "description": "Learn more about This Is My Architecture at - https://amzn.to/2O8FLOf\nDream11 is India’s leading Sports-Tech startup with a growing base of 40 million+ users playing multiple sports such as fantasy cricket, football, kabaddi and the NBA. Dream11 uses Amazon Aurora with Amazon ElastiCache to serve 1M concurrent users within 50ms response time, serving at an average 3 Million Requests Per Minute (rpm) which can surge upto 3X in a 30-second timespan. In this video, we'll be shedding some light on our architecture, along with our battle plan to handle transactions without locking. We’ll also talk about the features of Amazon Aurora and Amazon ElastiCache that helped Dream11 to handle 5M Daily Active Users with 4X growth YoY.\n\nHost: Rohini Gaonkar, Solutions Architect, AWS\nSpeaker: Amit Sharma, CTO, Dream11\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2018-08-23T16:10:56Z",
+        "duration": 408
     },
     {
         "service": "amazon_aurora",
         "videoId": "CwWFrZGMDds",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Databases",
+            "DAT405",
+            "Anurag Gupta - Amazon Web Services",
+            "Expert (400 level)"
+        ],
         "title": "AWS re:Invent 2015 | (DAT405) Amazon Aurora Deep Dive",
-        "date": "2015/10/09"
+        "description": "Amazon Aurora is a MySQL-compatible relational database engine that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases. Amazon Aurora is disruptive technology in the database space, bringing a new architectural model and distributed systems techniques to provide far higher performance, availability and durability than previously available using conventional monolithic database techniques. In this session, we will do a deep-dive into some of the key innovations behind Amazon Aurora, discuss best practices and configurations, and share early customer experience from the field.",
+        "date": "2015-10-09T22:02:39Z",
+        "duration": 3705
     },
     {
         "service": "amazon_aurora",
         "videoId": "IwyOyGs69N4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Cloud database",
+            "database",
+            "MySQL",
+            "Aurora",
+            "Amazon Aurora",
+            "Amazon RDS",
+            "Amazon Relational Database Service",
+            "SQL",
+            "database scalability",
+            "relational database",
+            "auto scaling",
+            "Postgres",
+            "PostgreSQL"
+        ],
         "title": "Amazon Aurora Serverless Brings Serverless Computing to Your Database",
-        "date": "2018/11/30"
+        "description": "Amazon Aurora Serverless automatically starts, scales, and shuts down an Aurora database, so you don't need to manage any servers. Learn more at - https://amzn.to/2RpSsX0.\n\nMany applications have intermittent, cyclical or unpredictable usage patterns. This creates a capacity planning dilemma, since you must either over-provision database capacity upfront and pay for resources you won’t use, or under-provision resources and risk performance problems and a poor user experience. Learn how Aurora Serverless provides an easy and cost-effective cloud database solution, where you pay only for what you actually use.",
+        "date": "2018-11-30T16:20:58Z",
+        "duration": 52
     },
     {
         "service": "amazon_aurora",
         "videoId": "erEBSsEXGBU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Aurora Database Cluster",
+            "failover",
+            "Multi-AZ",
+            "Availability Zone",
+            "Cloud database",
+            "Database as a Service",
+            "Database",
+            "Storage",
+            "MySQL",
+            "PostgreSQL",
+            "Amazon Aurora",
+            "Amazon RDS"
+        ],
         "title": "How to Configure Your Amazon Aurora Database Cluster for Failover",
-        "date": "2017/09/11"
+        "description": "Watch a step-by-step guide on configuring your Amazon Aurora database cluster for failover, using a Multi-AZ (Availability Zone) configuration to ensure high availability. Learn more about Amazon Aurora at - http://amzn.to/2xQFl73.\n\nThe Amazon Aurora How To Video Series provides step-by-step guidance on common database operations. In this video, you’ll learn how to configure your Amazon Aurora database cluster for Multi-AZ failover. You’ll learn how to add an Aurora replica in another Availability Zone, set the failover properties and test that failover is working properly.",
+        "date": "2017-09-11T15:32:43Z",
+        "duration": 188
     },
     {
         "service": "amazon_aurora",
         "videoId": "GzrMMjzK_nY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate",
+            "Blair Layton",
+            "Amazon Aurora database"
+        ],
         "title": "Migrating Databases to Amazon Aurora (Level 200)",
-        "date": "2017/12/21"
+        "description": "Learn more about AWS at - http://amzn.to/2CJRqxG.\nWhen customers are migrating to AWS they are increasingly choosing Amazon Aurora, our fastest growing service, to deploy their business critical workloads. This session will provide a quick overview of the Amazon Aurora database platform and explain how you can use the AWS Database Migration Service and the AWS Schema Conversion Tool to help migrate your databases to the cloud with minimal downtime for your users.\n\nSpeaker: Blair Layton, APAC Business Development, Database, AWS APAC",
+        "date": "2017-12-22T01:45:28Z",
+        "duration": 1521
     },
     {
         "service": "amazon_aurora",
         "videoId": "-9_Gat9cJn4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I publish RDS MySQL and Aurora MySQL logs to Amazon CloudWatch?",
-        "date": "2019/09/10"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2ZSgyOa\nAnshul, an AWS Cloud Support Engineer, shows you how to publish RDS MySQL and Aurora MySQL logs to Amazon CloudWatch.",
+        "date": "2019-09-10T18:35:03Z",
+        "duration": 299
     },
     {
         "service": "amazon_aurora",
         "videoId": "FzxqIdIZ9wc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Aurora",
+            "Relational Database",
+            "RDBMS",
+            "Relational Database Management System",
+            "Cloud Database",
+            "MySQL",
+            "PostgreSQL",
+            "Oracle",
+            "SQL Server",
+            "DB2",
+            "Amazon RDS",
+            "Amazon Relational Database Services",
+            "AWS Databases"
+        ],
         "title": "Introduction to Amazon Aurora - Relational Database Built for the Cloud - AWS",
-        "date": "2019/07/19"
+        "description": "Learn more about Amazon Aurora at – https://amzn.to/2Yv2pWt \nThis animated video of Amazon Aurora gives an overview of this built for the cloud relational database management system (RDBMS). Amazon Aurora is a MySQL and PostgreSQL-compatible relational database that gives you the performance and availability of commercial-grade databases at 1/10th the cost.",
+        "date": "2019-07-03T20:08:19Z",
+        "duration": 106
     },
     {
         "service": "amazon_aurora",
         "videoId": "2WG01wJIGSQ",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT204-R1",
+            "Amazon Aurora"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] What's New in Amazon Aurora (DAT204-R1)",
-        "date": "2018/11/28"
+        "description": "Amazon Aurora is a MySQL- and PostgreSQL-compatible relational database with the speed, reliability, and availability of commercial databases at one-tenth the cost. This session provides an overview of Aurora, explores recently announced features, such as Serverless, Multi-Master, and Performance Insights, and helps you get started.",
+        "date": "2018-11-28T18:24:52Z",
+        "duration": 2701
     },
     {
         "service": "amazon_aurora",
         "videoId": "lmEtkt-z1y0",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT318",
+            "Amazon Aurora"
+        ],
         "title": "AWS re:Invent 2018: Migrating Your Oracle & SQL Server Databases to Amazon Aurora (DAT318)",
-        "date": "2018/11/27"
+        "description": "Organizations today are looking to free themselves from the constraints of on-premises commercial databases and leverage the power of cloud-native and open-source systems. Amazon Aurora is a MySQL- and PostgreSQL-compatible relational database that is built for the cloud, with the speed, reliability, and availability of commercial databases at one-tenth the cost. In this session, we provide an overview of Aurora and its features. We talk about the latest advances in migration tooling and automation, and we explain how many of the common legacy features of Oracle and SQL Server map to modern cloud variants. We also hear from Dow Jones about its migration journey to the cloud.",
+        "date": "2018-11-27T19:10:28Z",
+        "duration": 3943
     },
     {
         "service": "amazon_aurora",
         "videoId": "4462hcfkApM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Performance Insights",
+            "Aurora Postgres"
+        ],
         "title": "Using Performance Insights to Analyze Performance of Amazon Aurora PostgreSQL",
-        "date": "2017/09/05"
+        "description": "Watch a step-by-step demonstration of using Amazon RDS Performance Insights to analyze performance of an Amazon Aurora PostgreSQL database instance. Learn more at http://amzn.to/2wDKNwg.\n\nPerformance Insights is a database performance dashboard that helps you quickly assess performance of your relational database workloads, and tells you when and where to take action. Performance Insights collects detailed database performance data through lightweight mechanisms, and presents it in an intuitive graphical interface.",
+        "date": "2017-09-05T23:49:45Z",
+        "duration": 314
     },
     {
         "service": "amazon_aurora",
         "videoId": "rPmKo2g9znA",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Databases",
+            "DAT301",
+            "AI",
+            "Aurora",
+            "Database",
+            "Storage"
+        ],
         "title": "AWS re:Invent 2017: Deep Dive on the Amazon Aurora MySQL-compatible Edition (DAT301)",
-        "date": "2017/11/30"
+        "description": "The Amazon Aurora MySQL-compatible Edition is a fully managed relational database engine that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases. It is purpose-built for the cloud using a new architectural model and distributed systems techniques. It provides far higher performance, availability, and durability than previously possible using conventional monolithic database architectures. Amazon Aurora packs a lot of innovations in the engine and storage layers. In this session, we do a deep-dive into some key innovations behind Amazon Aurora MySQL-compatible edition. We explore new improvements to the service and discuss best practices and optimal configurations.",
+        "date": "2017-11-30T16:46:30Z",
+        "duration": 3620
     },
     {
         "service": "amazon_aurora",
         "videoId": "I37e0Xzzp5Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Aurora",
+            "Amazon Aurora",
+            "Aurora Demo",
+            "Amazon Tel Aviv",
+            "AWS Summit 2015",
+            "AWS SUmmit Tel Aviv",
+            "Tel Aviv AWS",
+            "AWS Israel"
+        ],
         "title": "AWS Summit Tel Aviv 2015 | Amazon Aurora Demo",
-        "date": "2015/07/27"
+        "description": "Amazon Aurora Live Demo by Carlos Conde at the AWS Summit Tel Aviv 2015",
+        "date": "2015-07-27T22:19:36Z",
+        "duration": 961
     },
     {
         "service": "amazon_aurora",
         "videoId": "-ychuATbqPY",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DEM113",
+            "Amazon Aurora"
+        ],
         "title": "AWS re:Invent 2018: Building Your Application with an Amazon Aurora Database (DEM113)",
-        "date": "2018/11/30"
+        "description": "Develop and test your applications more quickly with Amazon Aurora, a MySQL- and PostgreSQL-compatible database built for the cloud. We'll show you how Aurora helps you scale your applications, prepare data for testing, and optimize your database queries.",
+        "date": "2018-11-30T16:30:57Z",
+        "duration": 1222
     },
     {
         "service": "amazon_aurora",
         "videoId": "3PshvYmTv9M",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT305-R1",
+            "Amazon Aurora"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] Deep Dive on Amazon Aurora with PostgreSQL Compatibility (DAT305-R1)",
-        "date": "2018/11/28"
+        "description": "Amazon Aurora with PostgreSQL Compatibility is a relational database service that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open-source databases. We review the functionality in order to understand the architectural differences that contribute to improved scalability, availability, and durability. We also dive deep into the capabilities of the service and review the latest available features. Finally, we walk through the techniques that can be used to migrate to Amazon Aurora.",
+        "date": "2018-11-28T18:32:05Z",
+        "duration": 3117
     },
     {
         "service": "amazon_aurora",
         "videoId": "RYiQSvqjab0",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Databases",
+            "DAT331",
+            "AI",
+            "Aurora",
+            "Database",
+            "Migration"
+        ],
         "title": "AWS re:Invent 2017: Airbnb Runs on Amazon Aurora (DAT331)",
-        "date": "2017/11/30"
+        "description": "Airbnb has served over 200,000,000 customers across 191 countries and is one of the largest database consumers on AWS. They have heavily adopted MySQL and have recently completed a migration to Amazon Aurora. In this session, Airbnb shares their story, including design considerations for operating at Airbnb scale, tips, tricks, and advice for others startups, and thoughts on why they decided to run on Aurora.",
+        "date": "2017-11-30T16:56:02Z",
+        "duration": 2021
     },
     {
         "service": "amazon_aurora",
         "videoId": "IwyOyGs69N4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Cloud database",
+            "database",
+            "MySQL",
+            "Aurora",
+            "Amazon Aurora",
+            "Amazon RDS",
+            "Amazon Relational Database Service",
+            "SQL",
+            "database scalability",
+            "relational database",
+            "auto scaling",
+            "Postgres",
+            "PostgreSQL"
+        ],
         "title": "Amazon Aurora Serverless Brings Serverless Computing to Your Database",
-        "date": "2018/11/30"
+        "description": "Amazon Aurora Serverless automatically starts, scales, and shuts down an Aurora database, so you don't need to manage any servers. Learn more at - https://amzn.to/2RpSsX0.\n\nMany applications have intermittent, cyclical or unpredictable usage patterns. This creates a capacity planning dilemma, since you must either over-provision database capacity upfront and pay for resources you won’t use, or under-provision resources and risk performance problems and a poor user experience. Learn how Aurora Serverless provides an easy and cost-effective cloud database solution, where you pay only for what you actually use.",
+        "date": "2018-11-30T16:20:58Z",
+        "duration": 52
     },
     {
         "service": "amazon_aurora",
         "videoId": "GRm1fA42Z58",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Amazon RDS",
+            "Amazon RDS for Aurora",
+            "Amazon Aurora",
+            "database",
+            "relational database",
+            "RDBMS",
+            "managed database service",
+            "MySQL"
+        ],
         "title": "AWS re:Invent 2014 | Announcing Amazon Aurora for RDS",
-        "date": "2014/11/12"
+        "description": "Learn more:  https://aws.amazon.com/rds/aurora/ \nAmazon Aurora is a MySQL-compatible, relational database engine that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases. Amazon Aurora provides up to five times better performance than MySQL at a price point one tenth that of a commercial database while delivering similar performance and availability. Amazon Aurora joins MySQL, Oracle, Microsoft SQL Server, and PostgreSQL as the fifth database engine available to customers through Amazon RDS. Amazon RDS handles routine database tasks such as provisioning, patching, backup, recovery, failure detection, and repair.",
+        "date": "2014-11-13T00:59:48Z",
+        "duration": 366
     },
     {
         "service": "amazon_aurora",
         "videoId": "y2QsuwZGZ54",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWSDemo",
+            "Amazon Aurora MySQL",
+            "IAM",
+            "EC2",
+            "RDS MySQL",
+            "IAM Authentication"
+        ],
         "title": "IAM Authentication with Amazon Aurora MySQL",
-        "date": "2020/07/29"
+        "description": "Database administrators can associate database users with IAM users and roles. With this authentication method, you don't need to use a password when you connect to a DB cluster. Instead, you use an authentication token for greater security. Also, the network traffic to and from the database is encrypted using Secure Sockets Layer (SSL).  \n\nLearn more about AWS Database at - https://amzn.to/2Bqkwqh\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo #AmazonAurora #IAM",
+        "date": "2020-07-29T17:05:04Z",
+        "duration": 869
     },
     {
         "service": "amazon_aurora",
         "videoId": "qvMKKDbzaxo",
+        "tags": [
+            "Software (Industry)",
+            "Management",
+            "Technology",
+            "Data",
+            "System",
+            "Business",
+            "Office",
+            "coding",
+            "code",
+            "deployment",
+            "infrastructure",
+            "cloud infrastructure",
+            "AWS Summit Series 2016",
+            "Chicago Summit",
+            "AWS Chicago Summit",
+            "AWS Chicago 2016",
+            "2016 Summit Series",
+            "AWS Summits 2016",
+            "Puneet Agarwal",
+            "Dave Lang",
+            "Getting Started",
+            "Amazon Aurora"
+        ],
         "title": "AWS Summit Series 2016 | Chicago - Getting Started with Amazon Aurora",
-        "date": "2016/04/22"
+        "description": "Amazon Aurora is a MySQL-compatible database engine that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases. This session introduces you to Amazon Aurora, explains common use cases for the service, and helps you get started with building your first Amazon Aurora–powered application.",
+        "date": "2016-04-22T21:00:04Z",
+        "duration": 3469
     },
     {
         "service": "amazon_aurora",
         "videoId": "DZFPYzp1JJA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Databases",
+            "DAT301",
+            "Steve Abraham",
+            "Puneet Agarwal"
+        ],
         "title": "AWS re:Invent 2016: Amazon Aurora Best Practices: Getting the Best Out of Your Databases (DAT301)",
-        "date": "2016/12/01"
+        "description": "Amazon Aurora is a fully managed relational database engine that provides higher performance, availability and durability than previously possible using conventional monolithic database architectures.  After launching a year ago, we continued adding many new features and capabilities to Aurora. In this session AWS Aurora experts will discuss the best practices that will help you put these capabilities to the best use. You will also hear from Amazon Aurora customer Intercom on the best practices they adopted for moving live databases with over two billion rows to a new datastore in Amazon Aurora with almost no downtime or lost records.\n\nIntercom was founded to provide a fundamentally new way for Internet businesses to communicate with customers at scale. For growing startups like Intercom, it’s natural for the load on datastores to grow on a weekly basis. The usual solution to this problem is to get a bigger box from AWS. But very soon you reach a point where bigger boat is not an option anymore.  You will learn about the benefits of moving to such a datastore, the problems it introduced, and all about the new ability for scaling that was not there before.",
+        "date": "2016-12-02T00:26:52Z",
+        "duration": 3885
     },
     {
         "service": "amazon_aurora",
         "videoId": "gdhSG25gSZA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Aurora",
+            "Database Cloning"
+        ],
         "title": "Fast Database Cloning in Amazon Aurora",
-        "date": "2017/08/30"
+        "description": "Amazon Aurora is a MySQL-compatible relational database, offering up to 5 times performance of MySQL for one-tenth the cost of commercial databases. Fast Database Cloning creates copies in minutes for development, QA and IT operations. Learn more about Amazon Aurora at - http://amzn.to/2ofcCIj.\n\nFast Database Cloning allows developers, testers and IT to create as many database copies as they need, in a completely self-service model. It’s the alternative to cloning with high-end storage arrays or software tools that cost hundreds of thousands of dollars. Fast Database Cloning is efficient because it leverages the native Copy on Write capability in the Aurora storage layer. No storage gets used – or charged for – unless you write new data to your cloned database.",
+        "date": "2017-08-30T17:17:55Z",
+        "duration": 85
     },
     {
         "service": "amazon_aurora",
         "videoId": "0hXXmcmSqHw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Lambda",
+            "Amazon Aurora database"
+        ],
         "title": "Amazon Aurora – AWS Lambda Integration",
-        "date": "2016/10/18"
+        "description": "Learn more about AWS Lambda Integration at - http://amzn.to/2dnluRY\nNow you can invoke AWS Lambda functions directly from an Amazon Aurora database via stored procedures or user defined functions. Lambda integration allows you to extend the capabilities of the database and invoke external applications to act upon data changes.  A simple example is a Lambda function that sends emails to customers whenever their address in the database is updated.",
+        "date": "2016-10-18T21:17:35Z",
+        "duration": 61
     },
     {
         "service": "amazon_aurora",
         "videoId": "g5N_kFRqCh8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Database (Software Genre)",
+            "Relational Database",
+            "Software (Industry)",
+            "Management"
+        ],
         "title": "Amazon Aurora: Amazon’s New Relational Database Engine",
-        "date": "2015/04/10"
+        "description": "Amazon Aurora is a MySQL-compatible database engine that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases. The service is now in preview. Come to our session for an overview of the service and learn how Aurora delivers up to five times the performance of MySQL yet is priced at a fraction of what you'd pay for a commercial database with similar performance and availability.",
+        "date": "2015-04-10T21:57:04Z",
+        "duration": 4864
     },
     {
         "service": "amazon_aurora",
         "videoId": "Q0cqKl6ktIg",
+        "tags": [
+            "re:Invent 2017",
+            "Amazon Aurora Serverless",
+            "Andy Jassy",
+            "Keynote",
+            "cloud",
+            "cloud computing",
+            "AWS",
+            "Amazon Web Services"
+        ],
         "title": "AWS re:Invent 2017 - Amazon Aurora Serverless",
-        "date": "2017/11/29"
+        "description": "At re:Invent 2017, AWS announced the preview of Amazon Aurora Serverless, where Aurora will automatically adjust database capacity to match your application needs. Sign up for the preview at http://bit.ly/2zMIarZ.\n\nThis new serverless architecture will save you time and money by automatically adjusting database capacity to match your application needs. The preview is for the MySQL-compatible edition of Amazon Aurora.",
+        "date": "2017-11-29T23:50:55Z",
+        "duration": 57
     },
     {
         "service": "amazon_aurora",
         "videoId": "tJ0TWdIocz0",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Databases",
+            "DAT313",
+            "Amazon Aurora"
+        ],
         "title": "AWS re:Invent 2018: Accelerate Database Development and Testing with Amazon Aurora (DAT313)",
-        "date": "2018/11/29"
+        "description": "Build faster, more scalable database applications with Amazon Aurora, a MySQL- and PostgreSQL-compatible relational database built for the cloud. We cover Aurora Serverless, which automatically scales your database up and down to meet demand; Fast Database Cloning, which makes data instantly available for application development; Backtrack, which rolls back your database between test runs; and Performance Insights, which helps assess the load on your database and optimize your SQL queries.",
+        "date": "2018-11-29T18:27:26Z",
+        "duration": 3649
     },
     {
         "service": "amazon_aurora",
         "videoId": "gYDggcrinjE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I enable Audit logging for Amazon Aurora MySQL and publish the logs to Amazon CloudWatch?",
-        "date": "2019/11/17"
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/2JxTDSj\nSunday shows you how to enable Audit logging for Amazon Aurora MySQL and publish the logs to Amazon CloudWatch.",
+        "date": "2019-12-17T15:06:46Z",
+        "duration": 361
     },
     {
         "service": "amazon_aurora",
         "videoId": "EcS9PC_TnG0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Migrating Oracle to Aurora PostgreSQL Utilizing AWS Database Migration Service (DMS)",
-        "date": "2018/07/02"
+        "description": "AWS Public Sector Summit 2018 - Washington, D.C.\n\nAppriss creates actionable information and insights gained from their data and analytics solutions, their customers are able to more effectively save lives, mitigate fraud, and reduce risk. They call it “knowledge for good”.  One of the many challenges facing Appriss was how to migrate a multi-terabyte Oracle database from one of their own data centers into AWS with minimal disruption to their applications and customers while reducing cost and not sacrificing security, availability, and reliability.  This session provides an overview and demo of Aurora PostgreSQL and AWS Database Migration Service (DMS) as Appriss discusses their primary drivers for choosing the combination, preparation, challenges faced throughout the process, results, and future plans.\n\nSpeakers: Brett Hensley, Bobby Johnson, Greg Keith, Dean Langford, Mark Porter",
+        "date": "2018-07-02T17:57:17Z",
+        "duration": 3112
     },
     {
         "service": "amazon_aurora",
         "videoId": "wqXD8WxOBYA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Database Deep Dive | S1 E3 – Amazon Aurora: Architect a Relational Database for the Cloud",
-        "date": "2019/05/16"
+        "description": "Join us as we dive deep on Amazon Aurora: the database built for the cloud. We are joined by Yoav Eilat, Senior Product Manager for Aurora, MySQL, and MariaDB, who can help us understand how Aurora fits into the larger set of relational databases, and teach us about how Aurora achieves the high scalability, availability, and durability that it’s known for.\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-05-16T18:11:11Z",
+        "duration": 3027
     },
     {
         "service": "amazon_aurora",
         "videoId": "vjvUt3_NCsM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS London Summit 2018"
+        ],
         "title": "AWS Summit - London | twitch.tv/aws | Introducing Amazon Aurora Backtrack",
-        "date": "2018/05/18"
+        "description": "Catch up with the action from the 2018 AWS Summit in London with the AWS Launchpad, which featured technical discussions, demos and live Q&A on twitch.tv/aws. Each session covered topics such as serverless computing, machine learning, augmented reality and virtual reality, containers, databases, analytics, IoT, and more. For past recordings and to see the upcoming schedule, visit https://amzn.to/2GoLwmk.\n\nLearn more about the Amazon Aurora Backtrack launch here: https://aws.amazon.com/blogs/aws/amazon-aurora-backtrack-turn-back-time/.",
+        "date": "2018-05-18T18:37:01Z",
+        "duration": 1283
     },
     {
         "service": "amazon_aurora",
         "videoId": "_3iolNvnmOE",
+        "tags": [
+            "Software (Industry)",
+            "Management",
+            "Technology",
+            "Data",
+            "System",
+            "Business",
+            "Office",
+            "coding",
+            "code",
+            "deployment",
+            "infrastructure",
+            "cloud infrastructure",
+            "AWS Summit Series 2016",
+            "Chicago Summit",
+            "AWS Chicago Summit",
+            "AWS Chicago 2016",
+            "2016 Summit Series",
+            "AWS Summits 2016",
+            "Scott Ward",
+            "KD Sing",
+            "Amazon Aurora",
+            "Deep Dive"
+        ],
         "title": "AWS Summit Series 2016 | Chicago - Deep Dive on Amazon Aurora",
-        "date": "2016/05/22"
+        "description": "Amazon Aurora is a MySQL-compatible relational database engine that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases. Amazon Aurora is disruptive technology in the database space, bringing a new architectural model and distributed systems techniques to provide far higher performance, availability and durability than previously available using conventional monolithic database techniques. In this session, we will do a deep-dive into some of the key innovations behind Amazon Aurora, discuss best practices and configurations, and share early customer experience from the field.",
+        "date": "2016-04-22T21:00:07Z",
+        "duration": 3526
     },
     {
         "service": "amazon_aurora",
         "videoId": "tAHqBmaOguo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "RDS",
+            "Aurora",
+            "binlog",
+            "binary logging",
+            "parameter group"
+        ],
         "title": "How do I enable the binlog file in an Amazon Aurora cluster to use for external replication?",
-        "date": "2017/05/04"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/enable-binary-logging-aurora/\n\nFrank, an AWS Cloud Support Engineer, shows you how enable the binlog file in an Amazon Aurora cluster to use for external replication.",
+        "date": "2017-05-04T14:43:04Z",
+        "duration": 340
     },
     {
         "service": "amazon_aurora",
         "videoId": "yaqrTBgHk-k",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I find actual Amazon Aurora storage usage in an Aurora cluster?",
-        "date": "2019/05/29"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2G57HAf\nPuru, an AWS Cloud Support Engineer, shows you how to find actual Amazon Aurora storage usage in an Aurora cluster.",
+        "date": "2019-05-29T17:04:30Z",
+        "duration": 157
     },
     {
         "service": "amazon_aurora",
         "videoId": "f3hOKNIZvRU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "PostgreSQL",
+            "Amazon",
+            "Aurora",
+            "RDS"
+        ],
         "title": "PostgreSQL In-Depth Training: Aurora Part 2",
-        "date": "2019/06/17"
+        "description": "Learn more about Amazon Relational Database Service (Amazon RDS) at – https://amzn.to/31B2Gt8 \nPart of a five day PostgreSQL In-Depth Training given in Dublin, Ireland in 2019. Covers AWS Aurora PostgreSQL. The content targets a support teams, but is valuable to all who want to learn more about PostgreSQL. This video covers the second part of day 3 of the training.",
+        "date": "2019-06-17T17:34:14Z",
+        "duration": 4241
     },
     {
         "service": "amazon_aurora",
         "videoId": "mAS5buLRQ1s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS London Summit",
+            "Amazon Aurora Backtrack",
+            "database",
+            "cloud database",
+            "MySQL",
+            "Aurora",
+            "Amazon RDS",
+            "Amazon Relational Database Service",
+            "database recovery",
+            "database backup",
+            "backtrack",
+            "Aurora Backtrack"
+        ],
         "title": "AWS Summit London 2018: Amazon Aurora Backtrack",
-        "date": "2018/05/11"
+        "description": "Amazon Aurora with MySQL compatibility now offers a quick way to recover from user errors, such as dropping the wrong table or deleting the wrong row. Learn more at - https://amzn.to/2rBF1Io.\nBacktrack allows you to move your database to a prior point in time without needing to restore from a backup, and it completes within seconds, even for large databases. Backtrack is also useful for development & test, particularly in situations where your test deletes or otherwise invalidates the data. Simply backtrack to the original database state, and you're ready for another test run.",
+        "date": "2018-05-11T13:59:54Z",
+        "duration": 72
     },
     {
         "service": "amazon_aurora",
         "videoId": "43ArVne9Qa4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Database Deep Dive | S1 E5 - Aurora Storage: Scalability & Reliability for Relational Data",
-        "date": "2019/06/05"
+        "description": "Learn about how Amazon Aurora’s subsystems allow for independent scaling of the database's storage and compute layers to fit your workload requirements. In this episode, we dive deep on costs, scaling, and reliability for Aurora Storage.\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/live-video/",
+        "date": "2019-06-05T17:47:57Z",
+        "duration": 2833
     },
     {
         "service": "amazon_aurora",
         "videoId": "uNAmsoLed1E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "ServerlessDatamart",
+            "BHFL",
+            "Amazon Aurora",
+            "AWS Database Migration Service",
+            "AWS Glue",
+            "AWS Lambda",
+            "AWS Key Management Service (KMS)",
+            "This is My Architecture",
+            "TMA"
+        ],
         "title": "Bajaj Housing Finance Limited: Serverless Data Pipelines with AWS Glue and Amazon Aurora PGSQL",
-        "date": "2019/11/09"
+        "description": "Aniruddha from BHFL shares their experience of creating a secure, serverless data pipeline to power BHFL’s Enterprise DataMart on Amazon Postgres. He delves into the details of  how his team leveraged AWS Glue, Lambda, KMS, and Database Migration Service to build the DataMart in less than 90 days.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-11-09T16:16:00Z",
+        "duration": 373
     },
     {
         "service": "amazon_aurora",
         "videoId": "JZnd74HAmq0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon RDS Performance Insights",
+            "Amazon Aurora"
+        ],
         "title": "Amazon RDS Performance Insights for Amazon Aurora",
-        "date": "2017/10/24"
+        "description": "Amazon RDS Performance Insights offers a detailed, easy-to-understand dashboard you can use to detect problems and increase performance of your databases. It works with Amazon Aurora with PostgreSQL Compatibility. Learn more at - http://amzn.to/2gjN7j1.\n\nA key challenge for database developers and administrators is a lack of visibility into SQL query performance. Amazon RDS Performance Insights makes it easy to detect problems and take corrective action, even if you’re not a database performance expert. It collects performance metrics using lightweight methods and provides an easy-to-understand dashboard that visualizes your database load and shows which SQL queries are causing it.",
+        "date": "2017-10-24T15:48:03Z",
+        "duration": 95
     },
     {
         "service": "amazon_aurora",
         "videoId": "K9N59jiMYvU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "DMS SCT",
+            "Migration",
+            "MSSQL",
+            "Database",
+            "PostgreSQL",
+            "#DigitalLending",
+            "WonderLend Hubs",
+            "Amazon API Gateway",
+            "Amazon Aurora",
+            "Amazon EC2",
+            "Amazon Elastic Block Storage (EBS)",
+            "Amazon RDS",
+            "Amazon Route 53",
+            "Amazon Simple Storage Service (S3)",
+            "AWS Database Migration Service (DMS)",
+            "Elastic Load Balancing"
+        ],
         "title": "WonderLend Hubs: Migrating an ISV Solution from MS SQL Server to Aurora Postgres with AWS DMS & SCT",
-        "date": "2018/07/27"
+        "description": "Learn more about the This Is My Architecture series at - https://amzn.to/2LnmzPE.\nWonderLend Hubs (WLH) is a unique multi-product, multi-source, multi entity digital loan processing B2B2C hub that enables rapid origination, data aggregation, assessment and decisioning for retail and small biz (SME/MSME) loans. The customer already had a lending solution running on MS SQL server. They used AWS Schema Conversion Tool (SCT) and AWS Database Migration Service (DMS) and migrated the solution to Amazon Aurora Postgres. They then built upon this solution for the new digital lending hub platform by adding newer micro services and graph databases.",
+        "date": "2018-07-27T16:20:23Z",
+        "duration": 466
     },
     {
         "service": "amazon_aurora",
         "videoId": "-9_Gat9cJn4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I publish RDS MySQL and Aurora MySQL logs to Amazon CloudWatch?",
-        "date": "2019/09/10"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2ZSgyOa\nAnshul, an AWS Cloud Support Engineer, shows you how to publish RDS MySQL and Aurora MySQL logs to Amazon CloudWatch.",
+        "date": "2019-09-10T18:35:03Z",
+        "duration": 299
     },
     {
         "service": "amazon_aurora",
         "videoId": "hpWpBVdY8Ss",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Databases",
+            "DAT207",
+            "Debanjan Saha - Amazon Web Services",
+            "Introductory (200 level)"
+        ],
         "title": "AWS re:Invent 2015 | (DAT207) Amazon Aurora: The New Amazon Relational Database Engine",
-        "date": "2015/10/09"
+        "description": "In July, AWS announced the launch of Amazon Aurora, a MySQL-compatible database engine that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases. This session introduces you to Amazon Aurora, explains common use cases for the service, and helps you get started with building your first Amazon Aurora–powered application.",
+        "date": "2015-10-09T21:56:48Z",
+        "duration": 2198
     },
     {
         "service": "amazon_aurora",
         "videoId": "yHfplfbkJRI",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Databases",
+            "DAT312",
+            "Debanjan Saha - Amazon Web Services",
+            "Robin Mathews - Expedia",
+            "Abdul Sait - Amazon Web Services",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (DAT312) Using Amazon Aurora for Enterprise Workloads",
-        "date": "2015/10/09"
+        "description": "Relational databases are a cornerstone of the enterprise IT landscape, powering business-critical applications of many kinds. Though they have been around for a while, current commercial relational databases have lagged behind in innovation. Amazon Aurora, a managed database service built for the cloud, is intended to change that. It targets the high-performance needs of business-critical applications with an emphasis on cost-effectiveness. In this session, we will look into how Aurora fits the needs of applications built and bought by enterprises to power their business. You will learn about the overall architecture, capabilities, and cost-effectiveness of Aurora, comparing it to current commercial database offerings. We will explore best practices for enterprises adopting Aurora for existing and new workloads, as well as strategies, tools, and techniques for migrating existing databases to Aurora. You will also hear from Expedia, one of world’s leading travel companies on how they are using Amazon Aurora to power application with high performance database needs.",
+        "date": "2015-10-10T00:46:47Z",
+        "duration": 2767
     },
     {
         "service": "amazon_aurora",
         "videoId": "tAHqBmaOguo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "RDS",
+            "Aurora",
+            "binlog",
+            "binary logging",
+            "parameter group"
+        ],
         "title": "How do I enable the binlog file in an Amazon Aurora cluster to use for external replication?",
-        "date": "2017/05/04"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/enable-binary-logging-aurora/\n\nFrank, an AWS Cloud Support Engineer, shows you how enable the binlog file in an Amazon Aurora cluster to use for external replication.",
+        "date": "2017-05-04T14:43:04Z",
+        "duration": 340
     },
     {
         "service": "amazon_aurora",
         "videoId": "f3hOKNIZvRU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "PostgreSQL",
+            "Amazon",
+            "Aurora",
+            "RDS"
+        ],
         "title": "PostgreSQL In-Depth Training: Aurora Part 2",
-        "date": "2019/06/17"
+        "description": "Learn more about Amazon Relational Database Service (Amazon RDS) at – https://amzn.to/31B2Gt8 \nPart of a five day PostgreSQL In-Depth Training given in Dublin, Ireland in 2019. Covers AWS Aurora PostgreSQL. The content targets a support teams, but is valuable to all who want to learn more about PostgreSQL. This video covers the second part of day 3 of the training.",
+        "date": "2019-06-17T17:34:14Z",
+        "duration": 4241
     },
     {
         "service": "amazon_aurora",
         "videoId": "qDRS_vGFjsw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Aurora",
+            "comprehend",
+            "NLP",
+            "databases",
+            "ML",
+            "machine learning"
+        ],
         "title": "Sentiment Analysis using Aurora ML integration",
-        "date": "2020/05/18"
+        "description": "Sentiment Analysis using Aurora ML integration - Learn how to turn relational data into insights using Amazon Aurora and it's integration with Machine learning. In this video you will learn how to take existing data in your relational database, for example product reviews, blog comments, and extract sentiments hidden in it. We will use the Aurora's integration with Amazon Comprehend which uses Natural Learning processing (NLP). We will use simple SQL queries to achieve this, no prior knowledge of Machine learning needed!\n\nLearn more about machine learning on Amazon Aurora at https://go.aws/3cx1Faz\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #MachineLearning #AmazonDemo",
+        "date": "2020-05-18T19:54:10Z",
+        "duration": 938
     },
     {
         "service": "amazon_aurora",
         "videoId": "wy1LCtTo4ns",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Lucidchart",
+            "Amazon EC2",
+            "Amazon Aurora",
+            "Amazon RDS"
+        ],
         "title": "Lucidchart - Database Migration from EC2 to Aurora",
-        "date": "2018/04/27"
+        "description": "David from Lucidchart shares his experience testing multiple database platforms. Learn more at - https://amzn.to/2Jqdn7T.\n\nHost: Yazid Boutejder- Solutions Architect\nSpeakers: David Torgerson - Principal Engineer",
+        "date": "2018-04-27T17:21:13Z",
+        "duration": 792
     },
     {
         "service": "amazon_aurora",
         "videoId": "eq-9_1XMR1o",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "DAT302",
+            "Greg Khairallah",
+            "John Winford",
+            "Advanced",
+            "Databases"
+        ],
         "title": "AWS re:Invent 2016: Practices for Migrating from Commercial Engines to Aurora or PostgreSQL (DAT302)",
-        "date": "2016/12/03"
+        "description": "You can significantly reduce database licensing and operational costs by migrating from commercial database engines to Amazon Aurora or Amazon RDS for PostgreSQL. In addition to cost reduction you also gain flexibility and operational efficiency by avoiding the frustrating usage constraints that the commercial databases licenses come with. Amazon Aurora and Amazon RDS for PostgreSQL are fully managed database services so you no longer need to worry about complex database management tasks. You can launch a single database instance or thousands of them in just a few minutes, and pay only for what you use. In this session we will dive deep into how AWS Database Migration Service and AWS Schema Conversion Tool help you migrate your commercial databases like Oracle and Microsoft SQL Server to Amazon Aurora or Amazon RDS for PostgreSQL easily and securely with minimal downtime.\n\nIn this session you will also learn from Aaron Carerras, Senior Data Architect at FINRA, the approach FINRA has used to migrate their databases to Amazon RDS for PostgreSQL. As a financial regulator, FINRA has strict uptime SLAs and data security requirements and will be using RDS to meet them. The Financial Industry Regulatory Authority (FINRA) is one of the largest independent securities regulators in the United States, tracking up to 75 billion stock market events per day.",
+        "date": "2016-12-03T20:08:18Z",
+        "duration": 3371
     },
     {
         "service": "amazon_aurora",
         "videoId": "BZcdDN5RJWw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS New York Summit 2018",
+            "Abby Fuller",
+            "Kevin Jernigan",
+            "Steve Abraham",
+            "Yoav Eilat",
+            "Amazon Aurora",
+            "database",
+            "AWS Launchpad"
+        ],
         "title": "AWS NY Summit - Develop Database Applications Faster with Amazon Aurora",
-        "date": "2018/07/26"
+        "description": "Learn more about the AWS Twitch Channel at - https://amzn.to/2LPewHv.\nThe AWS Summit was a free event designed to bring together the cloud computing community to connect, collaborate, and learn about AWS. AWS live streamed the event with the AWS Launchpad, featuring technical discussions, announcements, demos, customer interviews and live Q&A with the Twitch community. \n\nThe cloud provides several ways to accelerate development and testing and build faster, more scalable database applications. Learn how several features in the Amazon Aurora database will help you do exactly that.\n\nLearn more here: https://aws.amazon.com/blogs/database/analyzing-amazon-rds-database-workload-with-performance-insights/\n\nHost: \n- Abby Fuller, Sr. Technical Evangelist, AWS\nGuests: \n- Kevin Jernigan, Principal Product Manager, Amazon Aurora\n- Steve Abraham, Principal Database Specialist, AWS\n- Yoav Eilat, Senior Product Marketing Manager, Amazon Aurora",
+        "date": "2018-07-26T22:13:11Z",
+        "duration": 1137
     },
     {
         "service": "amazon_aurora",
         "videoId": "ztmtJJTC8_Y",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2376aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Databases",
+            "DAT206",
+            "Kevin Jernigan",
+            "Mark Porter",
+            "Introductory (200 level)"
+        ],
         "title": "AWS re:Invent 2016: NEW LAUNCH! Introducing Amazon Aurora PostgreSQL-Compatible Edition (DAT206)",
-        "date": "2016/12/05"
+        "description": "After we launched Amazon Aurora, a cloud-native relational database with region-wide durability, high availability, fast failover, up to 15 read replicas, and up to five times the performance of MySQL, many of you asked us whether we could deliver the same features - but with PostgreSQL compatibility. We are now delivering a preview of Amazon Aurora with this functionality: we have built a PostgreSQL-compatible edition of Amazon Aurora, sharing the core Amazon Aurora innovations with the object-oriented capabilities, language interfaces, JSON compatibility, ANSI:SQL:2008 compliance, and broad functional richness of PostgreSQL. Amazon Aurora will provide full PostgreSQL compatibility while delivering more than twice the performance of the community PostgreSQL database on many workloads. At this session, we will be discussing the newest addition to Amazon Aurora in detail.",
+        "date": "2016-12-05T23:35:49Z",
+        "duration": 3394
     },
     {
         "service": "amazon_aurora",
         "videoId": "8vpu3HWkMDw",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Databases",
+            "DAT309",
+            "John Newton - Alfresco Software",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (DAT309) Scaling Massive Content Stores with Amazon Aurora",
-        "date": "2015/10/09"
+        "description": "John Newton, founder and CTO of Alfresco, describes how Amazon Aurora enables the Alfresco Content Management System to store, manage, and retrieve billions of documents and related information with fast and linear scalability. Using new techniques of information modeling, indexing, and processing with the recently launched Aurora database, Alfresco can support cloud-based workloads previously not possible for high-throughput insurance, banking, and case-based applications. This session addresses the challenges of scaling document repositories to this level; architectural approaches for coordinating data; search and storage technologies such as Aurora, Solr, Amazon EBS, and Amazon S3; the breadth of use cases that modern content systems need to support; and how to support user applications that require subsecond response times. The result is a solution that once would have required large data centers to support but can now be handled cost-effectively with AWS and Aurora.",
+        "date": "2015-10-09T22:34:31Z",
+        "duration": 3033
     },
     {
         "service": "amazon_aurora",
         "videoId": "OFsYLOqVJmA",
+        "tags": [
+            "Software (Industry)",
+            "Management",
+            "Technology",
+            "Data",
+            "System",
+            "Business",
+            "Office",
+            "coding",
+            "code",
+            "deployment",
+            "infrastructure",
+            "cloud infrastructure",
+            "AWS Summit Series 2016",
+            "New York Summit",
+            "AWS New York Summit",
+            "AWS New York 2016",
+            "2016 Summit Series",
+            "AWS Summits 2016",
+            "Puneet Agarwal",
+            "Steve Loyd",
+            "Zendesk",
+            "Kalyan Wunnava",
+            "Aurora"
+        ],
         "title": "AWS Summit Series 2016 | New York - Getting Started with Amazon Aurora",
-        "date": "2016/08/16"
+        "description": "Amazon Aurora is a MySQL-compatible relational database that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases. Learn more about Amazon Aurora:  http://amzn.to/2bzKslV\n\nThis session introduces you to Amazon Aurora, explains common use cases for the service, and helps you get started with building your first Amazon Aurora–powered application.",
+        "date": "2016-08-16T16:34:01Z",
+        "duration": 3482
     },
     {
         "service": "amazon_aurora",
         "videoId": "HhBCdiF3vvo",
+        "tags": [
+            "aws",
+            "amazon web services",
+            "Announcing PostgreSQL",
+            "reinvent",
+            "Amazon Aurora",
+            "re:invent 2016",
+            "Andy Jassy"
+        ],
         "title": "AWS re:Invent 2016: Announcing PostgreSQL compatibility for Amazon Aurora",
-        "date": "2016/12/01"
+        "description": "Learn more about PostgreSQL compatibility for Amazon Aurora at - http://amzn.to/2gDHGKx\nWith Amazon Aurora’s new PostgreSQL support, customers can get up to several times better performance than the typical PostgreSQL database and take advantage of the scalability, durability, and security capabilities of Amazon Aurora – all for one-tenth the cost of commercial grade databases.",
+        "date": "2016-12-01T18:10:07Z",
+        "duration": 50
     },
     {
         "service": "amazon_aurora",
         "videoId": "8JyQCOb-Tqk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How to troubleshoot binary logging errors when using AWS DMS with Aurora MySQL as the source?",
-        "date": "2020/06/29"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/dms-binary-logging-aurora-mysql/\nAlex shows you how to troubleshoot binary logging errors that I received when using AWS DMS with Aurora MySQL as the source.",
+        "date": "2020-06-29T16:02:07Z",
+        "duration": 468
     },
     {
         "service": "amazon_aurora",
         "videoId": "rUyHYlng3Xk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I migrate MySQL data to an Amazon Aurora cluster using Amazon S3?",
-        "date": "2020/06/10"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/migrate-mysql-aurora-innobackup/\nBrijesh shows you how to migrate MySQL data to an Amazon Aurora cluster using Amazon S3.",
+        "date": "2020-06-10T14:10:08Z",
+        "duration": 249
     },
     {
         "service": "amazon_aurora",
         "videoId": "18bkspeypf8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Aurora",
+            "t2.Medium Instances",
+            "relational database engine",
+            "MySQL"
+        ],
         "title": "Amazon Aurora Now Supports T2.Medium Instances",
-        "date": "2016/11/23"
+        "description": "To learn more about Amazon Aurora, please visit our product page at http://amzn.to/2jEY3fF.\nYou can now launch t2.medium instances when using Amazon Aurora https://aws.amazon.com/rds/aurora/ in addition to the R3 class instances previously available. Using t2.medium instances of Amazon Aurora will be a cost effective option for your smaller workloads like dev/test, still giving you the option to use larger R3 class instances for production deployment.\n\nAmazon Aurora is a fully managed relational database engine that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases. Aurora provides up to five times better performance than MySQL with the security, availability, and reliability of a commercial database at one tenth the cost.",
+        "date": "2016-11-23T21:28:34Z",
+        "duration": 62
     },
     {
         "service": "amazon_aurora",
         "videoId": "O9P1lfQkF78",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos"
+        ],
         "title": "How do I troubleshoot problems connecting to an RDS cluster or instance running Amazon Aurora?",
-        "date": "2019/05/20"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2UKOTA6\nPeter, an AWS Cloud Support Engineer, shows you how to troubleshoot problems connecting to an RDS cluster or instance running Amazon Aurora.",
+        "date": "2019-05-20T15:02:19Z",
+        "duration": 661
     },
     {
         "service": "amazon_aurora",
         "videoId": "fydTVOdDV70",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summits",
+            "AWS public sector summit",
+            "2016AWSPSSummit",
+            "AWS Government summit"
+        ],
         "title": "Amazon RDS with Amazon Aurora | AWS Public Sector Summit 2016",
-        "date": "2016/07/13"
+        "description": "This session provides the attendee with an overview of Amazon RDS across different database types and then dives deep into the benefits and performance of Amazon Aurora.",
+        "date": "2016-07-13T15:42:08Z",
+        "duration": 2775
     },
     {
         "service": "amazon_aurora",
         "videoId": "rGzqL2-dIyI",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "IT Strategy & Migration",
+            "ISM304",
+            "Swapan Golla - Gallup",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (ISM304) From Oracle to Amazon RDS MySQL and Amazon Aurora",
-        "date": "2015/10/09"
+        "description": "Amazon RDS MySQL offers a highly scalable, available and high performing database service at a fraction of the cost of a commercially licensed database provider. To take advantage of Amazon RDS MySQL benefits such as Multi-AZ replication and ease of administration, Gallup transitioned its Reporting and Analytics platforms to AWS.\n\nSwapan Golla, Technical Architect at Gallup, will talk about the benefits the company has seen moving from an on-premise Oracle deployment to RDS MySQL. Learn about the solution architecture and how they tuned their schemas and application code to take full advantage of the scalability and performance of RDS. He will also talk about the next steps in the team's roadmap, which involve Amazon Aurora.",
+        "date": "2015-10-09T23:57:49Z",
+        "duration": 2634
     },
     {
         "service": "amazon_aurora",
         "videoId": "rGzqL2-dIyI",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "IT Strategy & Migration",
+            "ISM304",
+            "Swapan Golla - Gallup",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (ISM304) From Oracle to Amazon RDS MySQL and Amazon Aurora",
-        "date": "2015/10/09"
+        "description": "Amazon RDS MySQL offers a highly scalable, available and high performing database service at a fraction of the cost of a commercially licensed database provider. To take advantage of Amazon RDS MySQL benefits such as Multi-AZ replication and ease of administration, Gallup transitioned its Reporting and Analytics platforms to AWS.\n\nSwapan Golla, Technical Architect at Gallup, will talk about the benefits the company has seen moving from an on-premise Oracle deployment to RDS MySQL. Learn about the solution architecture and how they tuned their schemas and application code to take full advantage of the scalability and performance of RDS. He will also talk about the next steps in the team's roadmap, which involve Amazon Aurora.",
+        "date": "2015-10-09T23:57:49Z",
+        "duration": 2634
     },
     {
         "service": "amazon_aurora",
         "videoId": "DrtwAOND1Pc",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT309-R1",
+            "Databases",
+            "Amazon Aurora",
+            "Amazon RDS"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Amazon Aurora storage demystified: How it all works (DAT309-R1)",
-        "date": "2019/12/08"
+        "description": "Amazon Aurora is a high-performance, highly scalable database service with MySQL and PostgreSQL compatibility. One of its key components is an innovative storage system that is optimized for database workloads and specifically designed to take advantage of modern cloud technology. In this session, hear from the team that built Amazon Aurora's storage system about how the system is designed, how it works, and what you need to know to get the most out of it.",
+        "date": "2019-12-08T23:28:49Z",
+        "duration": 3886
     },
     {
         "service": "amazon_aurora",
         "videoId": "uaQEGLKtw54",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT309-R",
+            "Databases",
+            "Amazon Web Services",
+            "Amazon Aurora",
+            "Amazon RDS"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT] Amazon Aurora storage demystified: How it all works (DAT309-R)",
-        "date": "2019/12/04"
+        "description": "Amazon Aurora is a high-performance, highly scalable database service with MySQL and PostgreSQL compatibility. One of its key components is an innovative storage system that is optimized for database workloads and specifically designed to take advantage of modern cloud technology. In this session, hear from the team that built Amazon Aurora's storage system about how the system is designed, how it works, and what you need to know to get the most out of it.",
+        "date": "2019-12-04T17:24:39Z",
+        "duration": 2991
     },
     {
         "service": "amazon_aurora",
         "videoId": "Ul-j5fKfv2k",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT328-R1",
+            "Databases",
+            "Amazon Aurora"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Deep dive on Amazon Aurora with PostgreSQL compatibility (DAT328-R1)",
-        "date": "2019/12/10"
+        "description": "Amazon Aurora with PostgreSQL compatibility is a relational database service that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open-source databases. In this session, we review the functionality in order to understand the architectural differences that contribute to improved scalability, availability, and durability. You'll also get a deep dive into the capabilities of the service and a review of the latest available features. Finally, we walk you through the techniques that you can use to migrate to Amazon Aurora.",
+        "date": "2019-12-10T18:47:51Z",
+        "duration": 3119
     },
     {
         "service": "amazon_aurora",
         "videoId": "GwEtiRZR4g4",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT321-R1",
+            "Databases",
+            "Nintendo Co.",
+            "Ltd.",
+            "Amazon Web Services",
+            "DeNA Co.",
+            "Amazon Aurora"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Deep Dive on Amazon Aurora with MySQL Compatibility (DAT321-R1)",
-        "date": "2019/12/06"
+        "description": "Amazon Aurora is a fully managed relational database service that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open-source databases. With Aurora, we've completely reimagined how databases are built for the cloud, providing higher performance, availability, and durability than previously possible. In this session, we dive deep into the architectural details of Aurora with MySQL compatibility and review recent innovations, such as parallel query, backtrack, serverless, and multi-master. You also hear from Nintendo and DeNA about how they built the popular mobile game Mario Kart Tour with Aurora MySQL.",
+        "date": "2019-12-07T05:59:34Z",
+        "duration": 3471
     },
     {
         "service": "amazon_aurora",
         "videoId": "9mTwxghXvlE",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT382",
+            "Databases",
+            "Amazon Aurora",
+            "Amazon RDS"
+        ],
         "title": "AWS re:Invent 2019: Aurora Serverless: Scalable, cost-effective application deployment (DAT382)",
-        "date": "2019/12/03"
+        "description": "Amazon Aurora Serverless is an on-demand, automatic scaling configuration for Aurora where the database automatically starts up, shuts down, and scales capacity up or down based on your application’s needs. It enables you to run your database in the cloud without managing any database instances. Aurora Serverless is a simple, cost-effective option for infrequent, intermittent, or unpredictable workloads. In this session, we explore these use cases, take a look under the hood, and delve into the future of serverless databases.",
+        "date": "2019-12-03T18:02:44Z",
+        "duration": 3365
     },
     {
         "service": "amazon_aurora",
         "videoId": "QJB1vUlkmWQ",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT202-R1",
+            "Databases",
+            "Amazon Aurora",
+            "Amazon RDS"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] What's new in Amazon Aurora (DAT202-R1)",
-        "date": "2019/12/10"
+        "description": "Amazon Aurora is a MySQL- and PostgreSQL-compatible relational database with the speed, reliability, and availability of commercial databases at one-tenth the cost. In this session you get an overview of Aurora, including recently announced features, such as serverless, multi-master, and performance insights. We also help you get started using Aurora.",
+        "date": "2019-12-10T18:47:49Z",
+        "duration": 3569
     },
     {
         "service": "amazon_aurora",
         "videoId": "2eEKuK5eOC4",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "GAM304",
+            "Games/Game Tech",
+            "Games/GameTech",
+            "The Pokémon",
+            "Company International",
+            "Pokemon",
+            "AWS Lambda",
+            "Amazon DynamoDB",
+            "Amazon Aurora"
+        ],
         "title": "AWS re:Invent 2019: Migrating the live Pokémon database to Aurora PostgreSQL (GAM304)",
-        "date": "2019/12/05"
+        "description": "Learn how the Pokémon Company International stores and supports data for more than 300 million players with the help of AWS. In this session, Jeff Webb (development manager) and David Williams (senior DevOps engineer) discuss how they migrated to Amazon Aurora PostgreSQL and Amazon DynamoDB, resulting in zero downtime for operations. Hear about best practices for migration and get a glimpse into the services supporting Pokémon Go, including AWS Lambda, Amazon Kinesis, Amazon Redshift, and more.",
+        "date": "2019-12-05T17:55:54Z",
+        "duration": 3337
     },
     {
         "service": "amazon_aurora",
         "videoId": "p0C0jakzYuc",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT404-R1",
+            "Databases",
+            "Amazon Aurora"
+        ],
         "title": "AWS re:Invent 2019: Amazon Aurora Multi-Master: Scaling out database write performance (DAT404-R1)",
-        "date": "2019/12/09"
+        "description": "In this session, learn how the Multi-Master capability of Amazon Aurora MySQL enables applications to scale out write performance and achieve continuous read/write availability. Engineering experts dive into the design concepts of Aurora Multi-Master and provide real-world advice on deploying high-throughput, highly available workloads in Aurora.",
+        "date": "2019-12-09T18:49:01Z",
+        "duration": 2755
     },
     {
         "service": "amazon_aurora",
         "videoId": "UsNmIo4ymUo",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "GPSTEC345",
+            "Partner",
+            "Amazon Aurora"
+        ],
         "title": "AWS re:Invent 2019: Operational excellence with Amazon Aurora PostgreSQL (GPSTEC345)",
-        "date": "2019/12/04"
+        "description": "Although this Global Partner Summit session is open to anyone, it is geared toward current and potential AWS Partner Network Partners. While database migrations are a hot topic, a common inhibitor for adoption is operational excellence. Common customer feedback is that they want their staff to be operationally ready before they take the solution to market. This means that the customers don’t just want to choose the best technology based on features and cost, they want to also be operationally successful with that technology to provide a continuous value to their business. In this session, we discuss the top questions of operations teams as well as the top mistakes to avoid when running Amazon Aurora in production.",
+        "date": "2019-12-04T17:38:08Z",
+        "duration": 3890
     },
     {
         "service": "amazon_aurora",
         "videoId": "hUQdY8BERf8",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DEM154"
+        ],
         "title": "AWS re:Invent 2019: Accelerate application development with Amazon Aurora (DEM154)",
-        "date": "2019/12/05"
+        "description": "In this demo, learn how to leverage the unique features of Amazon Aurora to build faster, more scalable database applications optimized for the cloud. We cover features designed to help increase agility so you can develop applications faster to reach the widest possible audience. Such features include Amazon Aurora Serverless, read-replica auto-scaling, cross-region replicas, backtracking, fast database cloning, and performance insights.",
+        "date": "2019-12-05T17:51:18Z",
+        "duration": 1232
     },
     {
         "service": "amazon_aurora",
         "videoId": "Kc3rpV-rhZc",
+        "tags": [
+            "programming",
+            "aws",
+            "reinvent",
+            "ai",
+            "ml",
+            "developer",
+            "cloud computing",
+            "software",
+            "Aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "reinvent 2019",
+            "aws launchpad"
+        ],
         "title": "AWS re:Invent 2019 Launchpad | Amazon Aurora Supports Machine Learning",
-        "date": "2020/03/17"
+        "description": "Subscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #reInvent2019 #AWSLaunchpad",
+        "date": "2020-03-17T21:48:43Z",
+        "duration": 1103
     }
 ]

@@ -2,133 +2,413 @@
     {
         "service": "athena",
         "videoId": "DxAuj_Ky5aw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2280aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Big Data & Analytics",
+            "BDA303",
+            "Rahul Pathak",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2016: NEW LAUNCH! Intro to Amazon Athena - Analyze data in S3, using SQL (BDA303)",
-        "date": "2016/12/03"
+        "description": "Amazon Athena is a new interactive query service that makes it easy to analyze data in Amazon S3, using standard SQL. Athena is serverless, so there is no infrastructure to setup or manage, and you can start analyzing your data immediately. You don’t even need to load your data into Athena, it works directly with data stored in S3.\n\nIn this session, we will show you how easy is to start querying your data stored in Amazon S3, with Amazon Athena. First we will use Athena to create the schema for data already in S3. Then, we will demonstrate how you can run interactive queries through the built-in query editor. We will provide best practices and use cases for Athena. Then, we will talk about supported queries, data formats, and strategies to save costs when querying data with Athena.",
+        "date": "2016-12-03T18:41:24Z",
+        "duration": 1899
     },
     {
         "service": "athena",
         "videoId": "JIviltfpul0",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Analytics & Big Data",
+            "ABD339",
+            "Athena",
+            "Security"
+        ],
         "title": "AWS re:Invent 2017: Deep Dive and Best Practices for Amazon Athena (ABD339)",
-        "date": "2017/11/29"
+        "description": "Amazon Athena is an interactive query service that enables you to process data directly from Amazon S3 without the need for infrastructure. Since its launch at re:invent 2016, several organizations have adopted Athena as the central tool to process all their data. In this talk, we dive deep into the most common use cases, including working with other AWS services. We review the best practices for creating tables and partitions and performance optimizations. We also dive into how Athena handles security, authorization, and authentication. Lastly, we hear from a customer who has reduced costs and improved time to market by deploying Athena across their organization.",
+        "date": "2017-11-29T16:31:54Z",
+        "duration": 3793
     },
     {
         "service": "athena",
         "videoId": "U968FoLmwms",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I search CloudTrail logs using Amazon Athena?",
-        "date": "2018/08/29"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2BYu4IB\n\nDeren, an AWS Cloud Support Engineer, shows you how to search CloudTrail logs using Amazon Athena.",
+        "date": "2018-08-29T15:15:52Z",
+        "duration": 228
     },
     {
         "service": "athena",
         "videoId": "uoLsrKZha0E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "athena",
+            "s3 logs"
+        ],
         "title": "AWS Knowledge Center Videos: How do I analyze my S3 logs using Athena?",
-        "date": "2018/11/07"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2yVRLNY\nMatthew, an AWS Cloud Support Engineer, shows you how to analyze S3 logs using Athena.",
+        "date": "2018-11-07T14:31:19Z",
+        "duration": 508
     },
     {
         "service": "athena",
         "videoId": "afhG5l6GG4w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "When I query an Amazon Athena table that has defined partitions, zero records are returned",
-        "date": "2020/07/14"
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/36DaM71\nKunal shows you why creating a table in Amazon Athena with defined partitions, but when you query the table, zero records are returned.",
+        "date": "2020-01-14T17:46:36Z",
+        "duration": 501
     },
     {
         "service": "athena",
         "videoId": "gGJ4zxeG9PI",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Analytics",
+            "ANT324",
+            "Amazon Athena"
+        ],
         "title": "AWS re:Invent 2018: Amazon Athena: What's New and How SendGrid Innovates (ANT324)",
-        "date": "2018/11/27"
+        "description": "Amazon Athena is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL. Athena is serverless, so there is no infrastructure to manage, and you pay only for the queries that you run. In this session, we live demo exciting new capabilities the team have been heads down building. SendGrid, a leader in trusted email delivery, discusses how they used Athena to reinvent a popular feature of their platform.",
+        "date": "2018-11-27T19:18:38Z",
+        "duration": 3150
     },
     {
         "service": "athena",
         "videoId": "iedrCKE9NNk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I use the results of my Amazon Athena query in another query?",
-        "date": "2019/07/29"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2HZpQmd\nUlhas, an AWS Cloud Support Engineer, shows you how to use the results of my Amazon Athena query in another query.",
+        "date": "2019-07-30T03:01:45Z",
+        "duration": 299
     },
     {
         "service": "athena",
         "videoId": "wEOm6aiN4ww",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "dw",
+            "data warehouse",
+            "redshift",
+            "analytics",
+            "spectrum",
+            "parquet",
+            "big data",
+            "data lake",
+            "OLAP",
+            "OLTP",
+            "Spark",
+            "parquet format",
+            "Amazon Athena",
+            "Amazon Elastic MapReduce (EMR)",
+            "Amazon EMR",
+            "Amazon Kinesis",
+            "Amazon Kinesis Data Firehose",
+            "Amazon Redshift",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon EC2",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Appnext: Kinesis, EMR, Athena, Redshift - Choosing the Right Tool for Your Analytics Jobs",
-        "date": "2018/10/25"
+        "description": "On this episode of This is My Architecture - https://amzn.to/2OX8kip, Vladimir from Appnext walks us through the journey they went on to find the right tool for each of their analytics job types. Having a separation between OLAP and OLTP and running everything on Redshift wasn’t enough. Long-running queries, high concurrency, and ever-growing data volumes made Appnext look for optimization opportunities. Learn how by leveraging a Data Lake architecture, Kinesis, Spark on EMR, parquet format, and directly querying against S3 using Athena and Redshift Spectrum, they were able to improve analytical query run times, and reduce cost at the same time.\n\nHost: Benjamin Feldon, Solutions Architecture, AWS\nCustomer: Vladimir Nevsky, System Architect, Appnext\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2018-10-25T16:00:42Z",
+        "duration": 450
     },
     {
         "service": "athena",
         "videoId": "-nnidKX_LMk",
+        "tags": [
+            "AWS",
+            "Amazon Web Servvices",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Athena",
+            "re:Invent 2016",
+            "re:Invent",
+            "Andy Jassy"
+        ],
         "title": "AWS re:Invent 2016 - Announcing Amazon Athena",
-        "date": "2016/12/06"
+        "description": "Learn more about Amazon Athena at - http://amzn.to/2gh42nd\nAmazon Athena is a serverless, interactive query service that makes it easy to analyze data directly in Amazon S3 using standard SQL. With a few clicks in the AWS Management Console, customers can point Athena at their data stored in S3 and begin using standard SQL to run ad-hoc queries and get results in seconds. With Athena, there are no clusters to manage and tune, there is no infrastructure to setup, and customers pay only for the queries they run. Athena scales automatically – executing queries in parallel – so results are fast, even with large datasets and complex queries. To get started with Athena, visit https://aws.amazon.com/athena.",
+        "date": "2016-12-06T17:17:36Z",
+        "duration": 150
     },
     {
         "service": "athena",
         "videoId": "7sNUOFYWaOg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Athena",
+            "interactive query service",
+            "Amazon S3",
+            "SQL queries",
+            "AWS Key Management Service (AWS KMS)"
+        ],
         "title": "Amazon Athena Adds Support for Querying Encrypted Data in Amazon S3",
-        "date": "2017/04/05"
+        "description": "Amazon Athena is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL, and Athena now supports querying encrypted data stored in S3. Learn more about Amazon Athena here - http://amzn.to/2noO6kp\n\nProtecting sensitive information – such as security logs, financial transactions, healthcare records, and more – is often done by encrypting data. However, in many cases, users need to decide between securing their data or making it available for analytics. One of the big advantages of AWS is that you don’t have to make tough choices with your data. Amazon Redshift and Amazon EMR have long supported analytics on encrypted data. We’re excited to bring this capability to Athena. Now, you can easily run SQL queries directly against your encrypted data in S3 and write encrypted results back to your S3 bucket. Both, server-side encryption and client-side encryption are supported, enabling you to query your data while it’s protected at rest, encrypted in Amazon S3; and in-transit, as it travels to and from Amazon S3; and also via Athena’s JDBC driver, over encrypted communication channels.\n\nWhen you run a query, Athena infers the encryption information from your data automatically. Then it processes the data and encrypts the results with a user specific key before writing them to S3 and sending them back to the console. This means your data is secure at every step of the process. Athena also integrates with the AWS Key Management Service (AWS KMS), a managed service that makes it easy for you to create and control the encryption keys used to encrypt your data.\n\nYou can query data that’s encrypted using Server-Side Encryption with Amazon S3-Managed Encryption Keys, Server-Side Encryption with AWS KMS–Managed Keys, and Client-Side Encryption with keys managed by the AWS Key Management Service.",
+        "date": "2017-04-05T20:35:31Z",
+        "duration": 89
     },
     {
         "service": "athena",
         "videoId": "tZia_5qxPkY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "SQL",
+            "SQL query",
+            "federated query",
+            "Amazon Athena",
+            "Athena",
+            "analytics",
+            "data lake"
+        ],
         "title": "Amazon Athena Federated Query",
-        "date": "2019/11/26"
+        "description": "Learn more about Amazon Athena at https://amzn.to/2XQa95Y\nWatch principal engineer Anthony Virtuoso give a deep dive and demo of Amazon Athena Federated Query. Athena enables you to run SQL queries across data stored in relational, non-relational, object, and custom data sources. You can use familiar SQL constructs to JOIN data across multiple data sources for quick analysis, and store results in Amazon S3 for subsequent use. Athena executes federated queries using Athena Data Source Connectors that run on AWS Lambda. AWS has open source data source connectors for Amazon DynamoDB, Apache HBase, Amazon Document DB, Amazon Redshift, AWS CloudWatch, AWS CloudWatch Metrics, and JDBC-compliant relational databases such MySQL, and PostgreSQL. Additionally, using the Athena Query Federation SDK, you can build connectors to any data source.",
+        "date": "2019-11-27T00:19:41Z",
+        "duration": 2783
     },
     {
         "service": "athena",
         "videoId": "st85EJa-kCY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Business Intelligence in Minutes with Amazon Athena and Amazon QuickSight",
-        "date": "2018/11/12"
+        "description": "Presenter: Aun Iftikhar, Solutions Architect, Amazon Web Services",
+        "date": "2018-11-12T21:59:54Z",
+        "duration": 1704
     },
     {
         "service": "athena",
         "videoId": "mbDHbotrvWA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "London Innovation Series 2018"
+        ],
         "title": "Interactive Genomic Data Analysis Using Amazon Athena",
-        "date": "2018/07/10"
+        "description": "Learn more about AWS at https://amzn.to/2ukXIRd\n\nLondon Innovation Series 2017\nThe session kicks off with an introduction to Big Data in the healthcare realm, along with some Big Data use cases leveraging AWS Big Data platform. This is followed by an overview of Amazon Athena – an interactive query service to analyse data on Amazon S3 – that can query different file types straight from S3 including Parquet files. Pratim then goes on to introduce ADAM – a Spark  Genomics Library and analysis platform with specialized file formats. The latter part of the presentation demonstrates preparation and analysis of genomic data in ADAM parquet files using Spark and conducting quality control of genomic sequencing by analysing ‘variations’.\n \nSpeaker: Pratim Das, Specialist Solutions Architect, AWS",
+        "date": "2018-07-10T21:34:27Z",
+        "duration": 2555
     },
     {
         "service": "athena",
         "videoId": "cfojAdWoMWo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Athena",
+            "AWS CloudTrail",
+            "serverless"
+        ],
         "title": "Querying AWS CloudTrail logs with Amazon Athena",
-        "date": "2017/07/05"
+        "description": "To learn more or request help with your proof-of-concept, please visit: http://amzn.to/2sSJ5oA.\nGet started with Amazon Athena by analyzing valuable log data directly from Amazon S3. Amazon Athena is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL. Athena is serverless, so there is no infrastructure to manage, and you pay only for the queries that you run.\n\nIn this short video, we first show you how to enable Amazon CloudTrail logging and collect them in Amazon S3. Then, we'll define the table schema for the Cloudtrail logs through the Athena console. Finally, we run a few analytic queries to show you the type of insights you can easily get from your data.",
+        "date": "2017-07-05T16:58:00Z",
+        "duration": 221
     },
     {
         "service": "athena",
         "videoId": "ME7Pv1qPFLM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "What do I do if I receive errors when I try to read JSON data in Amazon Athena?",
-        "date": "2019/05/07"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2OShOMD\nUlhas, an AWS Cloud Support Engineer, shows you what you can do if you receive errors when trying to read JSON data in Amazon Athena.",
+        "date": "2019-05-07T07:53:08Z",
+        "duration": 287
     },
     {
         "service": "athena",
         "videoId": "0j6U4gv2Os8",
-        "title": "I get a 403 Access Denied error in Athena when I query an S3 bucket in another account.",
-        "date": "2020/04/22"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
+        "title": "I get a 403 \"Access Denied\" error in Athena when I query an S3 bucket in another account.",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/athena-access-denied-status-code-403/\nAkash shows you why you get a 403 \"Access Denied\" error in Athena when I query an S3 bucket in another account.",
+        "date": "2020-04-22T14:06:27Z",
+        "duration": 281
     },
     {
         "service": "athena",
         "videoId": "ATCXCcrA0oE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS in the Public Sector"
+        ],
         "title": "Course Hero uses Amazon Athena for big data processing, Amazon SageMaker to personalize searches",
-        "date": "2019/11/06"
+        "description": "Course Hero uses Amazon Web Services (AWS) to autoscale its web and mobile applications to meet customer demands 24 hours a day, year round with high availability and disaster recovery and to process big data. Course Hero is an EdTech with a vision of every student graduating confident and prepared for life after school. Course Hero puts all of its data into Amazon S3 and uses Amazon Athena to query big data. To personalize search and recommendations for students, Course Hero uses Amazon SageMaker.",
+        "date": "2019-11-06T16:09:31Z",
+        "duration": 140
     },
     {
         "service": "athena",
         "videoId": "5c5Lgy0TTy0",
+        "tags": [
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Conference Event",
+            "DEM22",
+            "Amazon Athena",
+            "Amazon QuickSight",
+            "Amazon Redshift"
+        ],
         "title": "AWS re:Invent 2018: Data Quakes: Seismic Analysis with Athena and Amazon Redshift (DEM22)",
-        "date": "2018/12/13"
+        "description": "What’s the shakeup in Silicon Valley? Join us as we investigate global subduction zones, highlighting and plotting areas with the deepest earthquakes. Using Amazon Athena, Amazon Redshift, and Matillion ETL for Amazon Redshift, we prepare a semistructured geospatial dataset from the International Federation of Digital Seismograph Networks for visualization. Learn how to build a best-practice architecture using Athena to read and flatten Amazon S3 data, Matillion ETL to perform the more complex data enrichment, and Amazon Redshift for aggregation, before handing off the data to Amazon QuickSight for visualization. This presentation is brought to you by AWS partner, Matillion Limited.",
+        "date": "2018-12-13T16:42:10Z",
+        "duration": 1046
     },
     {
         "service": "athena",
         "videoId": "OLDILtIqI_M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "startups",
+            "data pipelines"
+        ],
         "title": "Unravel: Migrating and Scaling Data Pipelines with AI on Amazon EMR, Redshift & Athena",
-        "date": "2019/04/05"
+        "description": "Learn more about AWS Startups at – https://amzn.to/2YV4iN0 \nUnravel CEO Kunal Agarwal and CTO Shivnath Babu talk about migrating and salcing data pipelines on AWS at the 2019 AWS Santa Clara Summit.",
+        "date": "2019-04-05T20:41:30Z",
+        "duration": 1022
     },
     {
         "service": "athena",
         "videoId": "L61cs9Qrp18",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit Madrid 2018"
+        ],
         "title": "AWS Summit Madrid 2018 - Analítica de datos en segundos con Amazon Athena [Spanish]",
-        "date": "2018/06/18"
+        "description": "Learn more about AWS at - https://amzn.to/2I17EUS.\nEn esta sesión, descrubrirá cómo ejecutar consultas SQL interactivas sobre los datos de su data lake, optimizando el rendimiento y el coste de la analítica. También aprenderá diferentes casos de uso en los que puede aplicar Amazon Athena y beneficiarse de la rápidez, sencillez y ahorro de costes que proporciona el servicio.\n\nSpeaker: Arturo Bayo, Consultant, Big Data, AWS",
+        "date": "2018-06-18T20:10:05Z",
+        "duration": 2806
     },
     {
         "service": "athena",
         "videoId": "lyNGeDg6EII",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "rds",
+            "snapshot",
+            "snapshot export",
+            "s3",
+            "athena",
+            "database",
+            "backup",
+            "aurora",
+            "parquet",
+            "demo",
+            "tutorial"
+        ],
         "title": "Amazon RDS Snapshot Export to S3",
-        "date": "2020/04/03"
+        "description": "In this demo, we'll see how we can export Amazon RDS snapshots to Amazon S3, run queries on them using Amazon Athena, and automate the entire process using RDS event notifications and AWS Lambda. Snapshot exports enable us to make use of our data in a number of different ways without sacrificing the performance of our database or needing to scale it up to handle the increased load!\n\nLearn more in the Amazon RDS documentation at https://amzn.to/347Ox8h\nTry the sample pipeline yourself at https://bit.ly/3aHmcrN\nRead about managing the lifecycle of your snapshot exports in S3 at https://amzn.to/3bMmSfJ\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-04-03T21:22:35Z",
+        "duration": 558
     },
     {
         "service": "athena",
         "videoId": "tzoXRRCVmIQ",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ANT307-R1",
+            "Analytics",
+            "Amazon Athena"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Deep dive into Amazon Athena (ANT307-R1)",
-        "date": "2019/12/05"
+        "description": "Amazon Athena is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL. Athena is serverless, so there is no infrastructure to manage, and you pay only for the queries that you run. Learn how customers are using Athena to query their data lakes, enable self-service for analysts and developers, and build applications. We dive deep into the latest improvements and show demos. New Athena users gain an understanding of service capabilities and customer architecture patterns. Existing Athena users gain understanding of recent improvements, including concurrency, performance, and security.",
+        "date": "2019-12-05T17:49:00Z",
+        "duration": 3642
     }
 ]

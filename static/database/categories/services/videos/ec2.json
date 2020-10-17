@@ -2,133 +2,417 @@
     {
         "service": "ec2",
         "videoId": "vXBeO9vQAI8",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Compute",
+            "CMP208-R1"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] Amazon EC2 Foundations (CMP208-R1)",
-        "date": "2018/12/01"
+        "description": "Amazon EC2 provides resizable compute capacity in the cloud and makes web-scale computing easier for customers. It offers a wide variety of compute instances well suited to every imaginable use case, from static websites to high-performance supercomputing on-demand, all available through highly flexible pricing options. This session covers the latest Amazon EC2 features and capabilities, including new instance families available in Amazon EC2, the differences among their hardware types and capabilities, and their optimal use cases. We also cover some best practices on how you can optimize your expenditure on Amazon EC2 to make the most of your EC2 instances, saving time and money.",
+        "date": "2018-12-01T21:30:51Z",
+        "duration": 3609
     },
     {
         "service": "ec2",
         "videoId": "W0PKclqP3U0",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Compute",
+            "CMP307-R1"
+        ],
         "title": "AWS re:Invent 2018: Amazon EC2 Instances & Performance Optimization Best Practices (CMP307-R1)",
-        "date": "2018/11/29"
+        "description": "Amazon EC2 provides a broad selection of instance types to accommodate a diverse mix of workloads. In this session, we provide an overview of the Amazon EC2 instance platform, key platform features, and the concept of instance generations. We dive into the current generation design choices of the different instance families, including the General Purpose, Compute Optimized, Storage Optimized, Memory Optimized, and GPU instance families. We also detail best practices and share performance tips for getting the most out of your Amazon EC2 instances. Complete Title: AWS re:Invent 2018: [REPEAT 1] Deep Dive on Amazon EC2 Instances & Performance Optimization Best Practices (CMP307-R1)",
+        "date": "2018-11-29T18:22:20Z",
+        "duration": 3139
     },
     {
         "service": "ec2",
         "videoId": "e8DVmwj3OEs",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Compute",
+            "CMP303-R1"
+        ],
         "title": "AWS re:Invent 2018: Powering Next-Gen EC2 Instances: Deep Dive into the Nitro System (CMP303-R1)",
-        "date": "2018/11/29"
+        "description": "The Nitro system is a rich collection of building block technologies that include hardware offload and security components built on AWS. It is powering the next generation of EC2 instances with an ever-broadening selection of compute, storage, memory, and networking options. In this session, we deep dive into the Nitro system, explore its design and architecture, discover how it enables innovative new EC2 instances, and understand how it has made the seemingly impossible, possible. Complete Title: AWS re:Invent 2018: [REPEAT 1] Powering Next-Gen EC2 Instances: Deep Dive into the Nitro System (CMP303-R1)",
+        "date": "2018-11-29T18:22:18Z",
+        "duration": 3906
     },
     {
         "service": "ec2",
         "videoId": "DWiwuYtIgu0",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Compute",
+            "CMP308-R1"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] Optimizing Network Performance for Amazon EC2 Instances (CMP308-R1)",
-        "date": "2018/11/28"
+        "description": "Many customers are using Amazon EC2 instances to run applications with high performance networking requirements. In this session, we provide an overview of Amazon EC2 network performance features— including enhanced networking, ENA, and placement groups—and discuss how we are innovating on behalf of our customers to improve networking performance in a scalable and cost-efficient manner. We share best practices and performance tips for getting the best networking performance out of your Amazon EC2 instances.",
+        "date": "2018-11-28T18:44:16Z",
+        "duration": 3122
     },
     {
         "service": "ec2",
         "videoId": "97Wi7V1wLYA",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Compute",
+            "CMP203",
+            "AI",
+            "EC2",
+            "Lex"
+        ],
         "title": "AWS re:Invent 2017: Amazon EC2 Foundations (CMP203)",
-        "date": "2017/12/01"
+        "description": "Amazon EC2 provides resizable compute capacity in the cloud and makes web scale computing easier for customers. It offers a wide variety of compute instances is well suited to every imaginable use case, from static websites to high performance supercomputing on-demand, all available via highly flexible pricing options. This session covers the latest EC2 features and capabilities, including new instance families available in Amazon EC2, the differences among their hardware types and capabilities, and their optimal use cases. We also will cover some best practices on how you can optimize your spend on EC2 to make the most of your EC2 instances, saving time and money.",
+        "date": "2017-12-01T16:16:55Z",
+        "duration": 3238
     },
     {
         "service": "ec2",
         "videoId": "Jnl29J3RJQ4",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Devops",
+            "DEV317-R1",
+            "AWS CodeDeploy",
+            "AWS CodePipeline",
+            "AWS Fargate",
+            "AWS Lambda"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] Advanced Continuous Delivery Best Practices (DEV317-R1)",
-        "date": "2018/11/28"
+        "description": "Continuous delivery (CD) enables teams to be more agile and quickens the pace of innovation. Too often, however, teams adopt CD without putting the right safety mechanisms in place. In this talk, we discuss opportunities for you to transform your software release process into a safer one. We explore various DevOps best practices, showcasing sample applications and code with AWS CodePipeline and AWS CodeDeploy. We discuss how to set up delivery pipelines with nonproduction testing stages, failure cases, rollbacks, redundancy, canary testing and blue/green deployments, and monitoring. We discuss continuous delivery practices for deploying to Amazon EC2, AWS Lambda, and containers such as Amazon ECS or AWS Fargate.",
+        "date": "2018-11-28T18:23:06Z",
+        "duration": 3037
     },
     {
         "service": "ec2",
         "videoId": "89fYOo1V2pA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon",
+            "awsreinvent2017",
+            "Compute",
+            "CMP325",
+            "EC2"
+        ],
         "title": "AWS re:Invent 2017: How Netflix Tunes Amazon EC2 Instances for Performance (CMP325)",
-        "date": "2017/12/13"
+        "description": "At Netflix, we make the best use of Amazon EC2 instance types and features to create a high- performance cloud, achieving near bare-metal speed for our workloads. This session summarizes the configuration, tuning, and activities for delivering the fastest possible EC2 instances, and helps you improve performance, reduce latency outliers, and make better use of EC2 features. We show how to choose EC2 instance types, how to choose between Xen modes (HVM, PV, or PVHVM), and the importance of EC2 features such SR-IOV for bare-metal performance. We also cover basic and advanced kernel tuning and monitoring, including the use of Java and Node.js flame graphs and performance counters.",
+        "date": "2017-12-13T16:27:04Z",
+        "duration": 3415
     },
     {
         "service": "ec2",
         "videoId": "OzVpynd_2GM",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Compute",
+            "CMP209"
+        ],
         "title": "AWS re:Invent 2018: Amazon EC2 T Instances – Burstable, Cost-Effective Performance (CMP209)",
-        "date": "2018/11/27"
+        "description": "In this session, you will learn how to utilize low cost T2 and T3 instances while still having access to sustainable high performance when needed. Designed for applications with variable CPU usage that experience occasional spikes in demand, T instances enable customers’ applications to burst seamlessly to meet temporary traffic peaks and then scale back down to operate at typical traffic levels. The next generation T3 instances provide up to 30% better price performance over T2 instances and include unlimited bursting by default, making it a cost-effective choice for general-purpose computing.",
+        "date": "2018-11-27T19:12:06Z",
+        "duration": 2590
     },
     {
         "service": "ec2",
         "videoId": "02EbskIXCOc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon EC2 Nitro",
+            "re:Invent 2017",
+            "Nitro"
+        ],
         "title": "AWS re:Invent 2017 - The Amazon EC2 Nitro System Architecture",
-        "date": "2017/11/30"
+        "description": "The Nitro System provides a combination of dedicated hardware and lightweight hypervisor, which delivers practically all of the compute and memory resources of the host hardware to your instances. Learn more at - http://amzn.to/2ioU5En.",
+        "date": "2017-11-30T23:37:23Z",
+        "duration": 45
     },
     {
         "service": "ec2",
         "videoId": "o9_4uGvbvnk",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Compute",
+            "CMP330",
+            "EC2",
+            "Security",
+            "Storage"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Amazon EC2 Bare Metal Instances (CMP330)",
-        "date": "2017/11/30"
+        "description": "When Amazon EC2 launched in 2006 there was a single instance size: m1.small. Over the past eleven years EC2 has evolved to provide an extensive selection of compute resources to customers including specialized resources such as NVMe SSDs, GPUs, and FPGAs. Under the hood, the servers used to host EC2 instances have transformed from off the shelf designs running virtualization software on the host CPUs to purpose built servers with AWS network and storage components implemented in hardware. Now we are happy to announce a new category of EC2 instances: Amazon EC2 Bare Metal Instances. These instances provide customers access to the physical compute resources of the host processors along with the security, scale, and services of EC2. This session will provide an overview of Bare Metal instances, how VMware used EC2 Bare Metal instances to build VMware Cloud on AWS, and other customer use cases for this new EC2 capability.",
+        "date": "2017-11-30T16:45:28Z",
+        "duration": 3495
     },
     {
         "service": "ec2",
         "videoId": "MjzbY74WNeI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Databases",
+            "ENT360",
+            "Amazon EC2"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Scaling HPC Applications on EC2 w/ Elastic Fabric Adapter (ENT360)",
-        "date": "2018/12/01"
+        "description": "\"Elastic Fabric Adapter (EFA) is a network interface for Amazon EC2 instances that enables customers to run HPC applications requiring high levels of inter-instance communications, like computational fluid dynamics, weather modeling, and reservoir simulation, at scale on AWS. It uses a custom-built operating system bypass technique to enhance the performance of inter-instance communications, which is critical to scaling HPC applications. With EFA, HPC applications using popular HPC technologies like Message Passing Interface (MPI) can scale to thousands of CPU cores. Get a deep dive on EFA and learn how to use EFA to enhance application performance for your HPC workloads.\n\"",
+        "date": "2018-12-01T22:30:17Z",
+        "duration": 2619
     },
     {
         "service": "ec2",
         "videoId": "PideBMIcwBQ",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Compute",
+            "CMP377",
+            "Amazon EC2 Auto Scaling"
+        ],
         "title": "AWS re:Invent 2018: Capacity Management Made Easy with Amazon EC2 Auto Scaling (CMP377)",
-        "date": "2018/11/28"
+        "description": "Amazon EC2 Auto Scaling removes the complexity of capacity planning to help customers improve application availability and reduce costs. In this session, we will deep dive on how EC2 Auto Scaling works to simplify health checking, security patching, continuous deployments, and automatic scaling with changing load. Netflix is spending over $8 billion on programming this year, with shows like Lost In Space, Altered Carbon and Money Heist, and plenty more in the future. They will share how Auto Scaling allows their infrastructure to automatically adapt to changing traffic patterns in order to keep their audience entertained and their costs on target.",
+        "date": "2018-11-28T18:39:41Z",
+        "duration": 3232
     },
     {
         "service": "ec2",
         "videoId": "8xJm_wndu28",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Compute",
+            "CMP391"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Amazon EC2 A1 Instances Based on the Arm Architecture (CMP391)",
-        "date": "2018/12/01"
+        "description": "Amazon EC2 offers a comprehensive set of instances targeted at a variety of customer workloads optimized across compute, storage, memory, network, as well as accelerators, such as GPUs. For the first time, Amazon EC2 is introducing instances that are powered by CPUs custom built by Amazon on the Arm architecture. In this session, we will deep dive into Amazon EC2 A1 instances and learn about the key capabilities, target usages, benefits, and the overall ecosystem.",
+        "date": "2018-12-01T22:25:48Z",
+        "duration": 2499
     },
     {
         "service": "ec2",
         "videoId": "agQMFIWr2h4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "CMP301",
+            "Adam Boeglin",
+            "Advanced (300 level)",
+            "Compute"
+        ],
         "title": "AWS re:Invent 2016: Deep Dive on Amazon EC2 Instances, Featuring Performance Optimization (CMP301)",
-        "date": "2016/12/01"
+        "description": "Amazon EC2 provides a broad selection of instance types to accommodate a diverse mix of workloads. In this session, we provide an overview of the Amazon EC2 instance platform, key platform features, and the concept of instance generations. We dive into the current generation design choices of the different instance families, including the General Purpose, Compute Optimized, Storage Optimized, Memory Optimized, and GPU instance families. We also detail best practices and share performance tips for getting the most out of your Amazon EC2 instances.",
+        "date": "2016-12-01T21:34:08Z",
+        "duration": 2446
     },
     {
         "service": "ec2",
         "videoId": "LabltEXk0VQ",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Liguori",
+            "Compute",
+            "CMP332",
+            "EC2",
+            "Storage"
+        ],
         "title": "AWS re:Invent 2017: C5 Instances and the Evolution of Amazon EC2 Virtualization (CMP332)",
-        "date": "2017/11/30"
+        "description": "Over the last 11 years, the Amazon EC2 virtualization platform has quietly evolved to take advantage of unique hardware and silicon, an accelerated network and storage architecture, and with the launch of C5 instances, a bespoke hypervisor to deliver the maximum amount of resources and performance to instances. Come to this deep dive to get a behind-the-scenes look at how our virtualization stack has evolved, including a peak at how our latest generation platform works under the covers.",
+        "date": "2017-11-30T16:34:11Z",
+        "duration": 3596
     },
     {
         "service": "ec2",
         "videoId": "ztEDdKn5hm0",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Compute",
+            "CMP301-R1"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] Backing Up Amazon EC2 with Amazon EBS Snapshots (CMP301-R1)",
-        "date": "2018/11/29"
+        "description": "With Amazon EBS, you can easily create a simple point-in-time backup for your Amazon EC2 instances. In this deep dive session, you learn how to use Amazon EBS snapshots to back up your Amazon EC2 environment. We review how snapshots work, and we share best practices for tagging snapshots, cost management, and snapshot automation.",
+        "date": "2018-11-29T18:22:54Z",
+        "duration": 3760
     },
     {
         "service": "ec2",
         "videoId": "agQMFIWr2h4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "CMP301",
+            "Adam Boeglin",
+            "Advanced (300 level)",
+            "Compute"
+        ],
         "title": "AWS re:Invent 2016: Deep Dive on Amazon EC2 Instances, Featuring Performance Optimization (CMP301)",
-        "date": "2016/12/01"
+        "description": "Amazon EC2 provides a broad selection of instance types to accommodate a diverse mix of workloads. In this session, we provide an overview of the Amazon EC2 instance platform, key platform features, and the concept of instance generations. We dive into the current generation design choices of the different instance families, including the General Purpose, Compute Optimized, Storage Optimized, Memory Optimized, and GPU instance families. We also detail best practices and share performance tips for getting the most out of your Amazon EC2 instances.",
+        "date": "2016-12-01T21:34:08Z",
+        "duration": 2446
     },
     {
         "service": "ec2",
         "videoId": "LabltEXk0VQ",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Liguori",
+            "Compute",
+            "CMP332",
+            "EC2",
+            "Storage"
+        ],
         "title": "AWS re:Invent 2017: C5 Instances and the Evolution of Amazon EC2 Virtualization (CMP332)",
-        "date": "2017/11/30"
+        "description": "Over the last 11 years, the Amazon EC2 virtualization platform has quietly evolved to take advantage of unique hardware and silicon, an accelerated network and storage architecture, and with the launch of C5 instances, a bespoke hypervisor to deliver the maximum amount of resources and performance to instances. Come to this deep dive to get a behind-the-scenes look at how our virtualization stack has evolved, including a peak at how our latest generation platform works under the covers.",
+        "date": "2017-11-30T16:34:11Z",
+        "duration": 3596
     },
     {
         "service": "ec2",
         "videoId": "CBmSl3O-AhI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "CMP315",
+            "Nicholas Matthews",
+            "Advanced (300 Level)",
+            "Compute"
+        ],
         "title": "AWS re:Invent 2016: Optimizing Network Performance for Amazon EC2 Instances (CMP315)",
-        "date": "2016/12/01"
+        "description": "Many customers are using Amazon EC2 instances to run applications with high performance networking requirements. In this session, we provide an overview of Amazon EC2 network performance features (enhanced networking, ENA, placement groups, etc.), and discuss how we are innovating on behalf of our customers to improve networking performance in a scalable and cost-efficient manner. We share best practices and performance tips for getting the best networking performance out of your Amazon EC2 instances.",
+        "date": "2016-12-01T23:55:54Z",
+        "duration": 1675
     },
     {
         "service": "ec2",
         "videoId": "mZy6E2I5Rek",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Boeglin",
+            "Compute",
+            "CMP301",
+            "AI",
+            "EC2",
+            "Storage"
+        ],
         "title": "AWS re:Invent 2017: Deep Dive on Amazon EC2 Instances, Featuring Performance Optimiz (CMP301)",
-        "date": "2017/11/29"
+        "description": "Amazon EC2 provides a broad selection of instance types to accommodate a diverse mix of workloads. In this session, we provide an overview of the Amazon EC2 instance platform, key platform features, and the concept of instance generations. We dive into the current generation design choices of the different instance families, including the General Purpose, Compute Optimized, Storage Optimized, Memory Optimized, and GPU instance families. We also detail best practices and share performance tips for getting the most out of your Amazon EC2 instances.",
+        "date": "2017-11-29T16:53:48Z",
+        "duration": 3074
     },
     {
         "service": "ec2",
         "videoId": "JUw8y_pqD_Y",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Services Deep Dive",
+            "Expert",
+            "Amazon EC2",
+            "Networking",
+            "Architecture",
+            "Architect",
+            "Startup",
+            "Enterprise",
+            "Developer",
+            "Becky Weiss"
+        ],
         "title": "AWS re:Invent 2014 | (SDD419) Amazon EC2 Networking Deep Dive and Best Practices",
-        "date": "2014/11/14"
+        "description": "Amazon EC2 instances give customers a variety of high-bandwidth networking choices. In this session, we discuss how to choose among Amazon EC2 networking technologies and examine how to get the best performance out of Amazon EC2 enhanced networking and cluster networking. We also share best practices and useful tips for success.",
+        "date": "2014-11-14T23:29:49Z",
+        "duration": 2744
     },
     {
         "service": "ec2",
         "videoId": "LNqRvP6Xvrw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "james hamilton",
+            "aws launches",
+            "new cloud launch",
+            "aws services"
+        ],
         "title": "James Hamilton Announces New Amazon EC2, M6g, C6g, and R6g Instances Powered by AWS Graviton2",
-        "date": "2020/06/11"
+        "description": "James Hamilton, VP and Distinguished Engineer at AWS, introduces the new Amazon EC2 M6g, C6g, and R6g instances powered by Arm-based AWS Graviton2 processors provide up to 40% better price performance for a wide variety of workloads, including application servers, micro-services, high performance computing, machine learning inference, electronic design automation, gaming, open-source databases, and in-memory caches. \n\nLearn more at - https://go.aws/2Ads92Y\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSLaunch #JamesHamilton",
+        "date": "2020-06-11T22:29:40Z",
+        "duration": 515
     }
 ]

@@ -2,38 +2,115 @@
     {
         "service": "aws_license_manager",
         "videoId": "ikL5Axehutk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Manage Software Licenses with AWS License Manager",
-        "date": "2019/10/16"
+        "description": "Learn more about AWS at – https://amzn.to/351fwT7\nAWS License Manager makes it easier to manage licenses in AWS and on-premises servers from software vendors such as Microsoft, SAP, Oracle, and IBM. AWS License Manager lets administrators create customized licensing rules that emulate the terms of their licensing agreements, and then enforces these rules when an instance of EC2 gets launched. Administrators can use these rules to limit licensing violations, such as using more licenses than an agreement stipulates or reassigning licenses to different servers on a short-term basis.",
+        "date": "2019-10-16T17:17:39Z",
+        "duration": 420
     },
     {
         "service": "aws_license_manager",
         "videoId": "bmyizvdYYsQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Licensing",
+            "BYOL",
+            "Compliance",
+            "Asset Management"
+        ],
         "title": "Introduction to AWS License Manager",
-        "date": "2019/02/25"
+        "description": "AWS License Manager - https://amzn.to/2TX9xJ3 it makes it easier to manage licenses in AWS and on-premises servers from software vendors such as Microsoft, SAP, Oracle, and IBM. Customers gain control and visibility of all their licenses with the AWS License Manager dashboard and reduce the risk of non-compliance, misreporting, and additional costs due to licensing overages.",
+        "date": "2019-02-25T08:00:08Z",
+        "duration": 75
     },
     {
         "service": "aws_license_manager",
         "videoId": "XXld4atfQ-0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "License Manager",
+            "EC2 Launch Templates",
+            "Service Catalog",
+            "Marketplace"
+        ],
         "title": "Enforce License Rules with AWS License Manager",
-        "date": "2019/11/26"
+        "description": "Learn more about AWS Management and Governance at https://amzn.to/2sfl2T2\nIn this video, you'll see how to enforce license rules (defined as license configurations) in AWS License Manager. AWS License Manager enforces your license rules when you launch new instances using Amazon Machine Images, EC2 launch templates, AWS CloudFormation templates, AWS Service Catalog, or software acquired from AWS Marketplace.",
+        "date": "2019-11-26T20:51:54Z",
+        "duration": 355
     },
     {
         "service": "aws_license_manager",
         "videoId": "kukiDf9Ilcc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS License Manager",
+            "License Manager",
+            "BYOL",
+            "bring your own license",
+            "SQL Server",
+            "SQL Server Licensing",
+            "SQL Server on AWS"
+        ],
         "title": "Simplify your BYOL Experience with Dedicated Host Management Capabilities in AWS License Manager",
-        "date": "2020/05/06"
+        "description": "In this video, you’ll see how to simplify your bring your own license (BYOL) experience with Dedicated Host management capabilities in AWS License Manager. With these new capabilities, you can use your own licenses on Amazon Elastic Compute Cloud (Amazon EC2) Dedicated Hosts, specify management preferences, and seamlessly launch instances on Dedicated Hosts.\n\nLearn more about AWS Management & Governance at - https://go.aws/2LiSQFn\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-05-06T19:59:31Z",
+        "duration": 526
     },
     {
         "service": "aws_license_manager",
         "videoId": "r7pdaM3OAAQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Compute",
+            "CMP393"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] AWS License Manager Deep Dive (CMP393)",
-        "date": "2018/12/01"
+        "description": "AWS License Manager is a new service that makes it easy to bring your existing licenses to the AWS cloud and reduce licensing costs. This service offers a one-stop solution for managing licenses from a variety of software vendors such as Microsoft, Oracle, IBM, SAP, and others, and helps you benefit from the existing investments in enterprise agreements. In this session, we take you through a deep dive of the service capabilities and how to use them. We cover topics such as how to manage your operating system and database licenses using this service, and how to track and report usage on cloud, on-premise and across your organizational accounts.",
+        "date": "2018-12-01T22:31:55Z",
+        "duration": 3752
     },
     {
         "service": "aws_license_manager",
         "videoId": "BjiX41VKZ_c",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "License Manager",
+            "Organizations",
+            "across accounts"
+        ],
         "title": "Manage Licenses Across Multiple AWS Accounts with AWS License Manager",
-        "date": "2019/11/26"
+        "description": "Learn more about AWS Management and Governance at https://amzn.to/2QSFNOI\nIn this video, you’ll see how to manage licenses across multiple AWS accounts with AWS License Manager. With AWS License Manager, you can set up a link to multiple accounts in AWS Organizations, share license configurations among member accounts, and search resources across multiple accounts at once.",
+        "date": "2019-11-26T20:51:16Z",
+        "duration": 260
     },
     {
         "service": "aws_license_manager",

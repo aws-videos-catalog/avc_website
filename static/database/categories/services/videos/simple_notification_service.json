@@ -2,115 +2,373 @@
     {
         "service": "simple_notification_service",
         "videoId": "S8uczd9uUnM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Lambda",
+            "Amazon CloudWatch",
+            "TMA London",
+            "Amazon EC2",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon Simple Notification Service (SNS)",
+            "Amazon Simple Queue Service (SQS)",
+            "ERP",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Gousto: Building a Robust, Asynchronous Message Bus using AWS Lambda, Amazon SNS, and Amazon SQS.",
-        "date": "2019/01/16"
+        "description": "Join this episode of This Is My Architecture - https://amzn.to/2SUQ5Mn, to learn how Gousto built a robust, asynchronous message bus using AWS Lambda, Amazon SNS, and Amazon SQS to integrate a microservices platform with ERP and warehouse management systems (WMS), which enabled a near real-time flow of events. We also discuss their roadmap which includes a virtualised simulation of the entire warehouse!\n\nHost: John Studdert, Partner Solutions Architect, AWS\nCustomer: Abu Shoaib, Lead Architect, Gousto\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-01-16T08:00:02Z",
+        "duration": 449
     },
     {
         "service": "simple_notification_service",
         "videoId": "fVL3rkSrMHs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I use webhooks to publish Amazon SNS messages to Amazon Chime, Slack, or Microsoft Teams?",
-        "date": "2020/06/16"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/sns-lambda-webhooks-chime-slack-teams/\n\nElliot shows you how to use webhooks to publish Amazon SNS messages to Amazon Chime, Slack, or Microsoft Teams?",
+        "date": "2020-06-16T20:35:50Z",
+        "duration": 349
     },
     {
         "service": "simple_notification_service",
         "videoId": "c_WNBmEc6EE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Experian",
+            "Danny Perschonok",
+            "Matt Yanchyshyn",
+            "Amazon EC2",
+            "Amazon Elastic Container Service (ECS)",
+            "Amazon Simple Queue Service (SQS)",
+            "Amazon Simple Notification Service (SNS)",
+            "Amazon DynamoDB"
+        ],
         "title": "Experian: Event-Driven Pub-Sub with SNS and SQS",
-        "date": "2018/02/19"
+        "description": "On the next This Is My Architecture (http://amzn.to/2EhLXib), Danny from Experian explains how they moved from a monolithic architecture on-premises, to an event-driven microservices system in the cloud. You'll learn about how they use ECS, SNS, SQS and DynamoDB to power their next-generation architecture. You'll also hear how they underwent a cultural change to match the tech, by breaking their teams up into smaller groups, each responsible for a set of microservices, leading to easier deployments, reduced dependencies, and faster development.\n\nHost: Matt Yanchyshyn, Director Solutions Architecture\nSpeakers: Danny Perschonok, Solutions Architect and Engineering Manager",
+        "date": "2018-02-19T19:00:23Z",
+        "duration": 371
     },
     {
         "service": "simple_notification_service",
         "videoId": "u5j1U3qFXDY",
+        "tags": [
+            "AWS",
+            "Amazon",
+            "Web",
+            "Services",
+            "SNS",
+            "cloud",
+            "computing",
+            "messaging",
+            "notifications",
+            "simple notification service",
+            "mobile push notifications",
+            "push notifications",
+            "push notification service",
+            "mobile notifications",
+            "getting started with sns"
+        ],
         "title": "Getting Started with Amazon SNS - Push Notification Service on AWS",
-        "date": "2011/12/19"
+        "description": "Learn about Amazon Simple Notification Service  (SNS), the fast, flexible, fully managed push notification service that lets you send individual messages and  messages to large numbers of recipients. Learn more: http://amzn.to/2hZKSQ9",
+        "date": "2011-12-20T05:08:16Z",
+        "duration": 279
     },
     {
         "service": "simple_notification_service",
         "videoId": "ehU12vUj-Vk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I create an Android platform application for push messaging in Amazon SNS?",
-        "date": "2019/06/11"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2VAIhRy\nDavid, an AWS Cloud Support Engineer, shows you how to create an Android platform application for push messaging in Amazon SNS.",
+        "date": "2019-06-11T21:08:18Z",
+        "duration": 116
     },
     {
         "service": "simple_notification_service",
         "videoId": "I7f2c5Qgz9w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I enable SSE for an Amazon SNS Topic with an Encrypted Amazon SQS Queue Subscribed?",
-        "date": "2019/10/08"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2MjVmeu\nRoss, an AWS Cloud Support Engineer, shows you how to enable SSE for an Amazon SNS Topic with an Encrypted Amazon SQS Queue Subscribed.",
+        "date": "2019-10-09T01:08:39Z",
+        "duration": 470
     },
     {
         "service": "simple_notification_service",
         "videoId": "Y6Mlr7lPGq8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            ".Net",
+            ".Net core",
+            "Notification",
+            "SMS",
+            "Text",
+            "email",
+            "microsoft",
+            "SNS"
+        ],
         "title": "AWS for Microsoft Workloads: How to Integrate Your .NET Application with SNS",
-        "date": "2018/06/18"
+        "description": "For more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2K5IF88.\nThere are multiple scenarios that an application might need to talk to Amazon SNS to push notification. This video provides a sample demo for how to connect to Amazon SNS through your C# application.",
+        "date": "2018-06-18T23:30:05Z",
+        "duration": 560
     },
     {
         "service": "simple_notification_service",
         "videoId": "YXl1QUQkRTI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I troubleshoot failed Amazon SNS push notification deliveries?",
-        "date": "2020/02/12"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2RVhfFc\nSithembiso, an AWS Cloud Support Engineer, shows you how to troubleshoot failed Amazon SNS push notification deliveries.",
+        "date": "2020-02-12T21:31:30Z",
+        "duration": 395
     },
     {
         "service": "simple_notification_service",
         "videoId": "-kVhzt7X5Kw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "SES",
+            "SNS"
+        ],
         "title": "How do I configure SES and SNS to receive domain validation emails?",
-        "date": "2019/10/29"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/ses-sns-domain-validation-email/\n\nPrabhakaran, an AWS Cloud Support Engineer, shows you how to configure SES and SNS to receive domain validation emails.",
+        "date": "2019-10-29T18:28:31Z",
+        "duration": 402
     },
     {
         "service": "simple_notification_service",
         "videoId": "qR4aCEEBKAI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "mobile push",
+            "mobile computing",
+            "push notification",
+            "mobile push notification",
+            "Mobile",
+            "Jon Turow",
+            "SNS",
+            "Mobile messaging",
+            "simple notification service",
+            "mobile push notifications",
+            "push notifications",
+            "push notification service",
+            "mobile notifications",
+            "using sns"
+        ],
         "title": "Using Mobile Push Notifications with Amazon SNS - Simply Notification Service on AWS",
-        "date": "2019/08/29"
+        "description": "Learn how to use Amazon Simple Notification Service  (SNS), the fast, flexible, fully managed push notification service that lets you send individual messages and  messages to large numbers of recipients. http://amzn.to/2jdbXQV\n\nPresenter:  Jon Turow\n\nJon Turow is a Senior Product Manager on the AWS Messaging team, responsible for the Mobile Push, SNS and SQS products.  Prior to joining Amazon Web Services, Jon ran a cloud telephony startup called knockknock.  Jon holds an MBA from Kellogg at Northwestern, and a BS from Wharton at Penn.",
+        "date": "2013-08-29T23:25:25Z",
+        "duration": 3103
     },
     {
         "service": "simple_notification_service",
         "videoId": "YwHxvKhBQ_g",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Application Integration",
+            "API306",
+            "AWS Lambda"
+        ],
         "title": "AWS re:Invent 2018: Build High-Throughput, Bursty Data Apps with Amazon SQS, SNS, & Lambda (API306)",
-        "date": "2018/11/29"
+        "description": "In this session, we discuss best practices for building serverless applications that handle high throughput and bursty data using Amazon SQS, Amazon SNS, and AWS Lambda, including new features such as message filtering and SNS/SQS as event sources for Lambda will be covered in depth. Hear from our customers Enel and Letgo as they share their experiences and deployment strategies. Enel is a multinational energy company that is present in 34 countries across 5 continents, and serves nearly 71 million end-users. The company uses AWS as its platform for IoT and energy management. Letgo is one of the largest and fastest-growing apps to buy and sell locally, with over 100 million downloads and hundreds of millions of listings. Letgo uses AWS to process their online marketplace transactions.",
+        "date": "2018-11-29T18:31:26Z",
+        "duration": 3282
     },
     {
         "service": "simple_notification_service",
         "videoId": "oXV7z5h6qW0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Trax",
+            "EC2",
+            "Spot Fleet",
+            "scaling",
+            "microservices",
+            "queue depth",
+            "retail",
+            "event driven",
+            "auto scaling groups",
+            "Amazon Simple Notification Service (SNS)",
+            "Amazon Simple Queue Service (SQS)",
+            "Amazon EC2 Auto Scaling",
+            "Amazon CloudWatch",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Trax Retail: An Innovative Approach to Per-Second Scaling for SNS/SQS Message Processing",
-        "date": "2018/10/29"
+        "description": "On the next This Is My Architecture - https://amzn.to/2QhkrHd, learn how Trax built an EC2 Auto Scaling Groups -based message processing system for SNS/SQS that can scale every second. Their innovative solution goes beyond classic 5-minute queue depth scanning with CloudWatch, allowing them to add and remove capacity more quickly.\n\nHost: Matt Yanchyshyn, Global Tech Lead, AWS Partner Program\nCustomer: Dolev Pomeranz. Chief Architect and Head of Research at Trax\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2018-10-29T18:06:36Z",
+        "duration": 529
     },
     {
         "service": "simple_notification_service",
         "videoId": "5-HdLf_lizI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Video"
+        ],
         "title": "How do I configure a monthly spending limit alarm for SMS messages in Amazon SNS?",
-        "date": "2020/04/08"
+        "description": "For more details see the Knowledge Center article with this video: \nhttps://aws.amazon.com/premiumsupport/knowledge-center/sns-sms-spending-limit-alarm/\nAnirudh shows you how to configure a monthly spending limit alarm for SMS messages in Amazon SNS.",
+        "date": "2020-04-08T20:10:23Z",
+        "duration": 268
     },
     {
         "service": "simple_notification_service",
         "videoId": "DqaXXOOxEUY",
+        "tags": [
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "mobile-apps",
+            "startups",
+            "SNS",
+            "DynamoDB",
+            "Redshift",
+            "Pablo-Varela"
+        ],
         "title": "Engage Your Customers with Amazon SNS Mobile Push (MBL308) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "Amazon SNS mobile push is a scalable, fully-managed, cross-platform mobile push notifications service. In this session, we show you how to implement a massively scalable notification system across multiple platforms (including Apple, Google, and Kindle Fire devices). We cover common design patterns including the code you need, and we demonstrate live on stage just how fast and scalable SNS can be. Also hear from customers who have combined Amazon SNS with Amazon Redshift and Amazon DynamoDB to engage their own customers with precisely targeted messages.",
+        "date": "2013-11-26T20:22:36Z",
+        "duration": 2710
     },
     {
         "service": "simple_notification_service",
         "videoId": "D339iCOjHhc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I monitor automatic recovery of my EC2 instances using CloudWatch alarms and SNS?",
-        "date": "2020/02/20"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2Pt0LTc\nNeelakshi, an AWS Cloud Support Engineer, shows you how to monitor automatic recovery of your EC2 instances using CloudWatch alarms and SNS.",
+        "date": "2020-02-20T23:00:43Z",
+        "duration": 254
     },
     {
         "service": "simple_notification_service",
         "videoId": "LUW_9WN6QD0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I request a spending limit increase for SMS messages in Amazon SNS?",
-        "date": "2020/02/04"
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/2WYuYf1\nUzma shows you how to request a spending limit increase for SMS messages in Amazon SNS.",
+        "date": "2020-02-04T20:10:41Z",
+        "duration": 239
     },
     {
         "service": "simple_notification_service",
         "videoId": "0dBmuv-tgT0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I prevent mailing list recipients from unsubscribing the list from Amazon SNS topic emails?",
-        "date": "2020/04/15"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/prevent-unsubscribe-all-sns-topic/\nOlajide shows you how to prevent mailing list recipients from unsubscribing everyone on the list from my Amazon SNS topic emails.",
+        "date": "2020-04-15T18:35:41Z",
+        "duration": 348
     },
     {
         "service": "simple_notification_service",
         "videoId": "iFeb7wL4ch8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I create an SNS notification that includes error information for a Data Pipeline activity?",
-        "date": "2020/05/20"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/sns-notification-error-data-pipeline/\nSnehal shows you how to create an SNS notification that includes error information for a Data Pipeline activity.",
+        "date": "2020-05-20T17:58:56Z",
+        "duration": 233
     },
     {
         "service": "simple_notification_service",
         "videoId": "zwLC5xmCZUs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "AWS re: Invent",
+            "re: Invent Conference",
+            "messaging",
+            "Amazon SQS",
+            "Amazon SNS",
+            "Amazon Simple Queue Service"
+        ],
         "title": "AWS re:Invent SVC 105: AWS Messaging",
-        "date": "2012/12/04"
+        "description": "Amazon SNS and Amazon SQS are important systems for sending, managing, and queuing system notifications. This session details the fundamentals on how to use these services, demonstrates the value for application developers, and covers some common use cases and customers where they have solved a critical business problem.\n\nLearn more at: http://aws.amazon.com/sns/ and http://aws.amazon.com/sqs/",
+        "date": "2012-12-04T22:27:45Z",
+        "duration": 2639
     }
 ]

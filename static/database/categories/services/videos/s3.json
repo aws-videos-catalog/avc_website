@@ -2,199 +2,670 @@
     {
         "service": "s3",
         "videoId": "rHeTn9pHNKo",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Storage",
+            "STG203-R2"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 2] Best Practices for Amazon S3 and Amazon S3 Glacier (STG203-R2)",
-        "date": "2018/12/01"
+        "description": "Learn best practices for Amazon S3 performance optimization, security, data protection, storage management, and much more. In this session, we look at common Amazon S3 use cases and ways to manage large volumes of data within Amazon S3. We discuss the latest performance improvements and how they impact previous guidance. We also talk about the Amazon S3 data resilience model and how architecture for the AWS Regions and Availability Zones impact architecture for fault tolerance.",
+        "date": "2018-12-01T21:28:52Z",
+        "duration": 3714
     },
     {
         "service": "s3",
         "videoId": "bMhWWkhydFQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Storage",
+            "STG303",
+            "Susan Chan",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2016: Deep Dive on Amazon S3 (STG303)",
-        "date": "2016/12/02"
+        "description": "Come learn about new and existing Amazon S3 features that can help you better protect your data, save on cost, and improve usability, security, and performance. We will cover a wide variety of Amazon S3 features and go into depth on several newer features with configuration and code snippets, so you can apply the learnings on your object storage workloads.",
+        "date": "2016-12-03T03:21:48Z",
+        "duration": 2490
     },
     {
         "service": "s3",
         "videoId": "x25FSsXrBqU",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Storage",
+            "STG303-R1",
+            "cloud",
+            "AWS Cloud"
+        ],
         "title": "AWS re:Invent 2018: [Repeat] Deep Dive on Amazon S3 Security and Management (STG303-R1)",
-        "date": "2018/11/28"
+        "description": "In this session, learn best practices for data security in Amazon S3. We discuss the fundamentals of Amazon S3 security architecture and dive deep into the latest enhancements in usability and functionality. We investigate options for encryption, access control, security monitoring, auditing, and remediation.",
+        "date": "2018-11-28T18:21:52Z",
+        "duration": 3185
     },
     {
         "service": "s3",
         "videoId": "9_vScxbIQLY",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Storage",
+            "STG301",
+            "AI",
+            "Glacier"
+        ],
         "title": "AWS re:Invent 2017: Deep Dive on Amazon S3 & Amazon Glacier Infrastructure, with spe (STG301)",
-        "date": "2017/11/29"
+        "description": "Learn from our engineering experts how we've designed Amazon S3 and Amazon Glacier to be durable, available, and massively scalable. Hear how Sprinklr architected their environment for the ultimate in high availability for their mission-critical applications. In this session, we'll discuss AWS Region and Availability Zone architecture, storage classes, built-in and on-demand data replication, and much more.",
+        "date": "2017-11-29T16:09:04Z",
+        "duration": 3592
     },
     {
         "service": "s3",
         "videoId": "uXHw0Xae2ww",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "stg",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "storage",
+            "enterprise",
+            "s3",
+            "maximizing s3 performance",
+            "s3 performance",
+            "Craig-Carl",
+            "STG304"
+        ],
         "title": "Maximizing Amazon S3 Performance (STG304) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "This advanced session targets Amazon Simple Storage Service (Amazon S3) technical users.  We will discuss the impact of object naming conventions and parallelism on S3 performance, provide real-world examples and code the implements best practices for naming of objects and implementing parallelism of both PUTs and GETs, cover multi-part uploads and byte-range downloads and introduce GNU parallel for a quick and easy way to improve S3 performance.",
+        "date": "2013-11-26T20:39:33Z",
+        "duration": 1977
     },
     {
         "service": "s3",
         "videoId": "FEaFuN03g-o",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Storage",
+            "STG398-R1"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Cost Efficiencies w/ Amazon S3 Storage & S3 Intelligent-Tiering",
-        "date": "2018/11/30"
+        "description": "Amazon S3 supports a range of storage classes that can help you cost-effectively store data without impacting performance or availability. Each of our storage classes offer different data-access levels, retrieval times, and costs to support various use cases. In this session, Amazon S3 experts dive deep into the different Amazon S3 storage classes, their respective attributes, and when you should use them.\n\n Complete Title: AWS re:Invent 2018: [REPEAT 1] Deep Dive on Amazon S3 Storage Classes: Creating Cost Efficiencies across Your S3 Resources (STG398-R1)",
+        "date": "2018-11-30T16:26:22Z",
+        "duration": 3346
     },
     {
         "service": "s3",
         "videoId": "sEefsQjOIzE",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Storage",
+            "DEM103",
+            "AWS Storage Gateway"
+        ],
         "title": "AWS re:Invent 2018: How to Move Data to Amazon S3 and Access It On-Premises (DEM103)",
-        "date": "2018/11/28"
+        "description": "Join this demo-driven session to learn about a simple way to move data rapidly into Amazon S3. Then, see how to access it on-premises with AWS Storage Gateway for local applications. You’ll leave understanding how to improve data transfer performance without the manual labor of extensive scripting or the cost of third-party licensed software.",
+        "date": "2018-11-28T18:31:31Z",
+        "duration": 1151
     },
     {
         "service": "s3",
         "videoId": "SUWqDOnXeDw",
-        "title": "AWS re:Invent 2017: Deep Dive on Amazon S3 & Amazon Glacier Storage Management with (STG311)",
-        "date": "2017/11/28"
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Fisher",
+            "Storage",
+            "STG311",
+            "AI",
+            "Lex",
+            "Macie",
+            "Analytics",
+            "Management Tools",
+            "Security"
+        ],
+        "title": "AWS re:Invent 2017: Deep Dive on Amazon S3 & Amazon Glacier Storage Management with  (STG311)",
+        "description": "As your business grows, you gain more and more data. When managed appropriately, you can make this data a strategic asset to your organization. In this session, you'll learn how to use storage management tools for end to end management of your storage, helping you organize, analyze, optimize and protect your data. You'll see how S3 Analytics - Storage Class Analysis helps you set more intelligent Lifecycle Policies to reduce TCO; Object Tagging gives you more management flexibility; Cross-Region Replication provides efficient data movement; Amazon Macie helps you ensure data security; and much more. Then, Paul Fisher, Technical Fellow at Alert Logic, will demonstrate how his organization uses S3 storage management features in their infrastructure.",
+        "date": "2017-11-28T17:47:52Z",
+        "duration": 3639
     },
     {
         "service": "s3",
         "videoId": "UKuL1K3oWuo",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Storage",
+            "STG302",
+            "Identity & Access Management",
+            "IAM",
+            "Security"
+        ],
         "title": "AWS re:Invent 2017: Best Practices for Amazon S3, with Special Guest, Human Longevit (STG302)",
-        "date": "2017/11/28"
+        "description": "Learn best practices for Amazon Simple Storage Service (Amazon S3) performance optimization, security, data protection, storage management, and much more. Learn how to optimize key naming to increase throughput, apply the appropriate AWS Identity and Access Management (IAM) and encryption configurations, and leverage object tagging and other features to enhance security.",
+        "date": "2017-11-28T17:48:25Z",
+        "duration": 3083
     },
     {
         "service": "s3",
         "videoId": "o52vMQ4Ey9I",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "BDM306",
+            "Advanced (300 level)",
+            "Big Data Mini Con"
+        ],
         "title": "AWS re:Invent 2016: Netflix: Using Amazon S3 as the fabric of our big data ecosystem (BDM306)",
-        "date": "2016/12/01"
+        "description": "Amazon S3 is the central data hub for Netflix's big data ecosystem. We currently have over 1.5 billion objects and 60+ PB of data stored in S3. As we ingest, transform, transport, and visualize data, we find this data naturally weaving in and out of S3. Amazon S3 provides us the flexibility to use an interoperable set of big data processing tools like Spark, Presto, Hive, and Pig. It serves as the hub for transporting data to additional data stores / engines like Teradata, Redshift, and Druid, as well as exporting data to reporting tools like Microstrategy and Tableau. Over time, we have built an ecosystem of services and tools to manage our data on S3. We have a federated metadata catalog service that keeps track of all our data. We have a set of data lifecycle management tools that expire data based on business rules and compliance. We also have a portal that allows users to see the cost and size of their data footprint. In this talk, we’ll dive into these major uses of S3, as well as many smaller cases, where S3 smoothly addresses an important data infrastructure need. We will also provide solutions and methodologies on how you can build your own S3 big data hub.",
+        "date": "2016-12-01T21:26:03Z",
+        "duration": 2813
     },
     {
         "service": "s3",
         "videoId": "gidUa4lJd9Y",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Storage",
+            "STG213-L"
+        ],
         "title": "AWS re:Invent 2018: What's New in Amazon S3, Amazon EFS, Amazon EBS, & more (STG213-L)",
-        "date": "2018/11/30"
+        "description": "Mai-Lan Tomsen Bukovec, VP of Amazon S3, introduces the latest innovations across all AWS storage services. In this keynote address, we announce new storage capabilities, and we talk about features and services that make AWS storage unique. We focus on new innovations in object storage, file storage, block storage, and data transfer services. You also hear from executives from companies that are major AWS storage customers, Sony and Expedia, about how they're using AWS storage to create a competitive advantage in their businesses. Complete Title: AWS re:Invent 2018: AWS Storage Leadership Session: What's New in Amazon S3, Amazon EFS, Amazon EBS, & more (STG213-L)",
+        "date": "2018-11-30T16:26:53Z",
+        "duration": 3523
     },
     {
         "service": "s3",
         "videoId": "GQ2mFuwaYdM",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Storage",
+            "STG212",
+            "Amazon Glacier"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] S3 Batch Operations: Managing Objects in Amazon S3 at Scale STG212",
-        "date": "2018/11/29"
+        "description": "Amazon S3’s newest management feature S3 Batch Operations makes it simple to manage billions of objects with a single API request or a few clicks in the S3 Management Console. With this new feature, customers can change object properties and execute core storage management tasks across any number of their objects stored in Amazon S3. S3 Batch Operations include: copying objects between buckets, replacing tag sets, modifying access controls, applying retention dates, and restoring archived objects from Amazon Glacier. Customers can also use S3 Batch Operations to invoke AWS Lambda functions to execute more complex operations. Attend this session to learn more about S3 Batch Operations and how it can save up to 90% of time spent on managing your S3 objects at scale.",
+        "date": "2018-11-29T18:26:19Z",
+        "duration": 3553
     },
     {
         "service": "s3",
         "videoId": "w1FkL3q3A2U",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Public Sector",
+            "WPS305"
+        ],
         "title": "AWS re:Invent 2018: Fannie Mae Processes over a Quarter Million Loans per Day w/ Amazon S3 (WPS305)",
-        "date": "2018/11/28"
+        "description": "In this session, Fannie Mae discusses how they completely re-architected a mission-critical application using AWS native services that process hundreds of thousands of mortgage loans every day in a highly scalable and reliable manner. The transaction-heavy workload uses over 20+ million Amazon S3 transactions a day, each within 150-millisecond response times, thus providing increased uptime and faster response. Complete Title: AWS re:Invent 2018: How Fannie Mae Processes over a Quarter Million Loans per Day with Amazon S3 (WPS305)",
+        "date": "2018-11-28T18:41:18Z",
+        "duration": 3520
     },
     {
         "service": "s3",
         "videoId": "QZpLNgFEWBo",
-        "title": "AWS re:Invent 2017: Deep Dive on Data Archiving in Amazon S3 & Amazon Glacier, with (STG304)",
-        "date": "2017/12/07"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Storage",
+            "STG304"
+        ],
+        "title": "AWS re:Invent 2017: Deep Dive on Data Archiving in Amazon S3 & Amazon Glacier, with  (STG304)",
+        "description": "Learn about ways to archive data for compliance or cost savings, and balance retrieval speed and cost to fit your specific use case. We examine concepts such as active archiving (archive storage with fast retrieval times), compliance archiving, and many more.",
+        "date": "2017-12-07T23:52:51Z",
+        "duration": 3573
     },
     {
         "service": "s3",
         "videoId": "YYnVRYbUR6A",
+        "tags": [
+            "Amazon S3",
+            "AWS",
+            "Cloud Storage",
+            "S3",
+            "Object Storage"
+        ],
         "title": "AWS re: Invent STG 303: Building Scalable Applications on Amazon Simple Storage Service",
-        "date": "2012/12/03"
+        "description": "Want to build an application that requires minimal up-front investment, and will seamlessly scale from hundreds to millions of users? Amazon S3 is a powerful building block that can enable you to focus your time on the value and functionality of your application, rather than the challenges of scaling it. In this session we'll cover techniques to best take advantage of the platform. We'll discuss structuring your key naming convention to maximize consistency of performance, as well as ways to optimize your upload and download throughput. We'll learn how to eliminate proxies between your application and Amazon S3, and use the platform for your logging needs. Finally, we'll cover simple techniques for efficiently managing the billions of objects your highly scaled application may accumulate.",
+        "date": "2012-12-03T21:49:58Z",
+        "duration": 2426
     },
     {
         "service": "s3",
         "videoId": "nLyppihvhpQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Mai-Lan Tomsen Bukovec",
+            "Amazon S3",
+            "Amazon Glacier",
+            "reinvent 2018",
+            "re:Invent 2018"
+        ],
         "title": "AWS re:Invent 2018 – Building for Durability in Amazon S3 and Glacier with Mai-Lan Tomsen Bukovec",
-        "date": "2018/12/16"
+        "description": "Watch Mai-Lan Tomsen Bukovec, Vice President of Amazon S3 and Glacier, explain how Amazon S3 and Glacier engineer for durability at AWS scale, building unique architectures developed upon the learning of almost 13 years of real-world production experience in cloud storage. Learn more at - https://amzn.to/2SK6D9u.\n\nAmazon S3 and Glacier are designed for 99.999999999% (11 9's) of durability, and store many tens of trillions of objects for millions of applications for companies all around the world. Mai-Lan talks about how S3 and Glacier build systems and a culture of durability to store and protect data for use cases such as data lakes, mobile applications, backup and restore, archive, enterprise business applications, IoT devices, media and imagery, and compliance records.",
+        "date": "2018-12-17T01:37:36Z",
+        "duration": 751
     },
     {
         "service": "s3",
         "videoId": "Yx1y6hwxuuk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Storage",
+            "STG215",
+            "Omair Gillani",
+            "Introductory (200 Level)"
+        ],
         "title": "AWS re:Invent 2016: Amazon S3 Storage Management Optimizes at Scale, with Guest, Pinterest (STG215)",
-        "date": "2016/12/02"
+        "description": "Customers using Amazon S3 at large scale benefit greatly from storage management features. Storage lifecycle policies help them reduce storage costs. Cross-region replication makes it easier to copy data between AWS regions for compliance or disaster recovery. Event notifications allow automatic initiation of processes on objects as they arrive, or capture information about objects and log it for security purposes. In this session, you'll learn about these features, and also several new storage management features in Amazon S3 that give users unmatched visibility into what data they are storing and how that data is being used. These new features make it simpler to analyze usage by users, apps, or organizations, to highlight anomalies, and to optimize business process workflows. They also help identify opportunities to reduce costs, improve performance, and archive infrequently used data. In addition, they can provide insight into who is accessing data stored in S3. As part of this talk, AWS customer Pinterest shows how they have been able to leverage many of the new S3 storage management features to reduce their storage costs significantly by moving a large amount of their data from S3 Standard to S3 Standard – Infrequent Access storage.",
+        "date": "2016-12-03T03:32:13Z",
+        "duration": 2731
     },
     {
         "service": "s3",
         "videoId": "GcH_72tgOyk",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Hui",
+            "Demo Theater",
+            "16721",
+            "Analytics"
+        ],
         "title": "AWS re:Invent 2017: Using Amazon S3 for Intelligent Storage (DEM43)",
-        "date": "2017/11/30"
+        "description": "Amazon S3 is the largest object store in the world and an ideal platform for storing your data. Rubrik helps you get more out of Amazon S3 by leveraging your data intelligently for multiple uses; including archiving, disaster recovery, test/development, and business analytics. In this session we’ll demonstrate how Rubrik reduces your costs by archiving data into Amazon S3, replacing your costly tape solution and enables you to use your Amazon S3 data and AWS resources to create a cost-effective disaster recovery solution in the cloud. We also discuss using your Amazon S3 data to accelerate your application development, giving you a competitive advantage.\n\nSession sponsored by Rubrik",
+        "date": "2017-11-30T17:13:17Z",
+        "duration": 923
     },
     {
         "service": "s3",
         "videoId": "OvoTPdm9cck",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Storage & Content Delivery",
+            "STG203",
+            "Lynn Langit - Lynn Langit Consulting",
+            "Introductory (200 level)"
+        ],
         "title": "AWS re:Invent 2015 | (STG203) Storage Management & Backup Using Amazon S3 & Amazon Glacier",
-        "date": "2015/10/08"
+        "description": "Learn more about AWS: http://amzn.to/1JVI6Se\nThis demo-filled session explores how you can use Amazon S3 and Amazon Glacier to store your data in the cloud. By walking through different use cases, we show you how to determine which service is the best fit for your storage requirements. We share lots of Amazon Glacier tips and tricks, and demo features you may not be aware of, such as lifecycle policies, versioning, and website hosting. You see best security practices in action, including correct usage of AWS Identity and Access Management (IAM) users/groups and security policies with your storage implementation. Typical use cases include using AWS storage services for data backup, archiving, data synchronization, and as a file server in the cloud.  Session sponsored by CloudBerry Lab.",
+        "date": "2015-10-08T23:01:17Z",
+        "duration": 3014
     },
     {
         "service": "s3",
         "videoId": "2DpOS0zu8O0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Services Deep Dive",
+            "Expert",
+            "Amazon Elastic Block Store",
+            "Storage",
+            "Disaster Recovery",
+            "Archive",
+            "Backup & Disaster Recovery",
+            "Amazon S3",
+            "Amazon Glacier",
+            "Architect",
+            "Technical Decision Maker",
+            "Enterprise",
+            "Developer",
+            "Saad Ladki",
+            "Tim Hunt"
+        ],
         "title": "AWS re:Invent 2014 | (SDD413) Amazon S3 Deep Dive and Best Practices",
-        "date": "2014/11/14"
+        "description": "Come learn about new and existing Amazon S3 features that can help you better protect your data, save on cost, and improve usability, security, and performance. We will cover a wide variety of Amazon S3 features and go into depth on several newer features with configuration and code snippets, so you can apply the learnings on your object storage workloads.",
+        "date": "2014-11-14T22:52:29Z",
+        "duration": 2673
     },
     {
         "service": "s3",
         "videoId": "k32FaqM40rw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "storage",
+            "enterprise",
+            "storage on the cloud",
+            "AWS-storage-gateway",
+            "Gateway-VTL",
+            "ajith-Kuttai-Venkatraman",
+            "STG202",
+            "stg"
+        ],
         "title": "Storage TCO using AWS Storage Gateway, Amazon S3 and Amazon Glacier (STG202) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "AWS Storage Gateway allows you to reduce capital costs and simplify operations compared to traditional on-premises storage solutions. This session covers the set of use cases you can address with AWS Storage Gateway and introduces the newly launched Gateway-VTL . Gateway-VTL provides a cost-effective, scalable, and durable virtual tape infrastructure that allows you to eliminate the challenges associated with owning and operating an on-premises physical tape infrastructure.",
+        "date": "2013-11-26T20:38:51Z",
+        "duration": 2266
     },
     {
         "service": "s3",
         "videoId": "1TvJCLl9NNg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "Storage & Content Delivery",
+            "STG401",
+            "Hisham Baz - Amazon",
+            "Omair Gillani - Amazon Web Services",
+            "Expert (400 level)",
+            "simple storage service",
+            "cloud storage",
+            "deep dive",
+            "best practices",
+            "cloud computing event",
+            "object storage"
+        ],
         "title": "AWS re:Invent 2015: Amazon S3 Deep Dive and Best Practices (STG401)",
-        "date": "2015/10/12"
+        "description": "Come learn about Amazon S3 and several newer features with configuration and code snippets, so you can apply the learnings on your object storage workloads. Learn more: http://amzn.to/2iBHZGq",
+        "date": "2015-10-12T16:07:24Z",
+        "duration": 3425
     },
     {
         "service": "s3",
         "videoId": "rRbEcqcpvEA",
-        "title": "AWS re:Invent 2017: Best Practices for Building a Data Lake in Amazon S3 and Amazon (STG312)",
-        "date": "2017/12/01"
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Dutta",
+            "Storage",
+            "STG312",
+            "AI",
+            "Athena",
+            "EMR",
+            "Glacier",
+            "Redshift",
+            "Analytics",
+            "Big Data"
+        ],
+        "title": "AWS re:Invent 2017: Best Practices for Building a Data Lake in Amazon S3 and Amazon  (STG312)",
+        "description": "Learn how to build a data lake for analytics in Amazon S3 and Amazon Glacier. In this session, we discuss best practices for data curation, normalization, and analysis on Amazon object storage services. We examine ways to reduce or eliminate costly extract, transform, and load (ETL) processes using query-in-place technology, such as Amazon Athena and Amazon Redshift Spectrum. We also review custom analytics integration using Apache Spark, Apache Hive, Presto, and other technologies in Amazon EMR. You'll also get a chance to hear from Airbnb & Viber about their solutions for Big Data analytics using S3 as a data lake.",
+        "date": "2017-12-01T16:50:38Z",
+        "duration": 3689
     },
     {
         "service": "s3",
         "videoId": "3L-ryHHX8vE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Storage",
+            "STG308",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2016: Case Study: Analytics Without Limits. FINRA’s Architecture on S3 (STG308)",
-        "date": "2016/12/02"
+        "description": "FINRA partnered with AWS product teams to leverage Amazon EMR and Amazon S3 extensively to build an advanced analytics solution. In this session, you'll hear how FINRA implemented a data lake on S3 to provide a single source for their big data analytics platform. FINRA ingests 75 billion records each day of stock market transactions, with an AWS storage footprint of 20 petabytes across S3 and Amazon Glacier. To deal with this workload, FINRA has architected a platform that separates storage from compute to manage capacity for each independently, leading to improved performance and cost effectiveness. You'll also learn how FINRA was able to leverage Hbase on Amazon EMR to achieve significant benefits over running Hbase on a fixed capacity cluster. FINRA was able to implement a system that seamlessly scales in response to data growth and can scale quickly in response to user traffic. By working with multiple clusters, FINRA can now isolate ETL and user query workloads and has achieved rapid, built-in disaster recovery capability by leveraging data storage on S3 to run from multiple AZs and across regions.",
+        "date": "2016-12-03T03:10:12Z",
+        "duration": 2663
     },
     {
         "service": "s3",
         "videoId": "9kA33krMHXM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Capital One",
+            "re:Invent 2018"
+        ],
         "title": "AWS re:Invent 2018: Deep Dive on Amazon S3 Security and Management (STG303-R1)",
-        "date": "2019/02/05"
+        "description": "In this session, learn best practices for data security in Amazon S3. We discuss the fundamentals of Amazon S3 security architecture and dive deep into the latest enhancements in usability and functionality. We investigate options for encryption, access control, security monitoring, auditing, and remediation.",
+        "date": "2019-02-05T18:02:17Z",
+        "duration": 773
     },
     {
         "service": "s3",
         "videoId": "WRJhdhGzJVg",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Storage & Content Delivery",
+            "STG406",
+            "Tarlochan Cheema - Amazon",
+            "Kevin Christen - Amazon",
+            "Expert (400 level)"
+        ],
         "title": "AWS re:Invent 2015 | (STG406) Using S3 to Build and Scale an Unlimited Storage Service",
-        "date": "2015/10/12"
+        "description": "Amazon Cloud Drive's plans to provide a low cost, unlimited storage service presented a major engineering challenge. In this session, you learn how the Amazon Cloud Drive team designed and optimized the storage back-end, Amazon S3, to handle millions of users while containing infrastructure costs. In this session, the lead engineers share details of how they built the service for massive scale, and the regular steps they take to increase performance and efficiency. They also describe proven techniques for scaling and optimization, learned from experience.",
+        "date": "2015-10-12T16:05:27Z",
+        "duration": 2585
     },
     {
         "service": "s3",
         "videoId": "VvMCVFnLKnQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "STG303-R",
+            "re:Invent 2018",
+            "reinvent 2018"
+        ],
         "title": "AWS re:Invent 2018: Deep Dive on Amazon S3 Security and Management (STG303-R)",
-        "date": "2019/01/03"
+        "description": "Intuit's Use of Amazon S3\n\nIn this session, learn best practices for data security in Amazon S3. We discuss the fundamentals of Amazon S3 security architecture and dive deep into the latest enhancements in usability and functionality. We investigate options for encryption, access control, security monitoring, auditing, and remediation.",
+        "date": "2019-01-03T19:34:38Z",
+        "duration": 786
     },
     {
         "service": "s3",
         "videoId": "zQVeOK7x0_o",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Big Data & Analytics",
+            "BDT322",
+            "Ian Meyers - Amazon Web Services",
+            "Yong Huang - Redfin",
+            "Twitter",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (BDT322) How Redfin & Twitter Leverage Amazon S3 For Big Data",
-        "date": "2015/10/09"
+        "description": "Learn more about AWS: http://amzn.to/1R2LAYq\nAnalyzing large data sets requires significant compute and storage capacity that can vary in size based on the amount of input data and the analysis required. This characteristic of big data workloads is ideally suited to the pay-as-you-go cloud model, where applications can easily scale up and down based on demand. Learn how Amazon S3 can help scale your big data platform. Hear from Redfin and Twitter about how they build their big data platforms on AWS and how they use S3 as an integral piece of their big data platforms.",
+        "date": "2015-10-09T20:52:44Z",
+        "duration": 2972
     },
     {
         "service": "s3",
         "videoId": "cX6XjM7d4rM",
+        "tags": [
+            "Amazon S3",
+            "S3",
+            "Cloud Storage",
+            "Object Storage",
+            "AWS"
+        ],
         "title": "AWS re: Invent STG 205: Amazon S3: Reduce costs, save time, and better protect your data",
-        "date": "2012/12/03"
+        "description": "Amazon Simple Storage Service (Amazon S3) offers an expanding set of capabilities for protecting and managing data, as well as hosting content. We'll cover the breadth of the service's features and show you how you can take advantage of them.",
+        "date": "2012-12-03T21:50:36Z",
+        "duration": 2774
     },
     {
         "service": "s3",
         "videoId": "VZYYjVw9xnA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing"
+        ],
         "title": "System z Mainframe Data with Amazon S3 and Amazon Glacier (ENT107) | AWS re:Invent 2013",
-        "date": "2013/11/25"
+        "description": "(Presented by CA Technologies)  There are a lot of mainframes still out there, with a lot of data to back up and archive. CA Technologies (CA) is the largest mainframe software provider in the world. This session provides an overview and demo of CA's Cloud Storage for System z solution used for mainframe storage backup to the AWS cloud. Traditional mainframe storage solutions are expensive and complex. For IT Directors, VPs of IT, VPs of Storage, and Storage Administrators, this session discusses how CA has partnered with AWS and Riverbed to provide an innovative solution that provides a low cost and secure solution for efficient backup and recovery of critical mainframe data.\nYou see a demo of Chorus managing data flow from the mainframe to the cloud using the Riverbed Whitewater appliance. You also hear from a demanding customer, Mark Behrje, Sr. Director Global Information Services, CA Technologies, about how they implemented quickly, how much they've reduced their backup TCO, and lessons learned.",
+        "date": "2013-11-25T19:45:28Z",
+        "duration": 2164
     },
     {
         "service": "s3",
         "videoId": "bfDpK45Faa0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "126393"
+        ],
         "title": "Deep Dive on Object Storage: Amazon S3 and Amazon Glacier (126393)",
-        "date": "2017/06/19"
+        "description": "In this session, storage experts will walk you through Amazon S3 and Amazon Glacier, bulk data repositories that can deliver 99.999999999% durability and scale past trillions of objects worldwide - with cost points competitive against tape archives. Learn about the different ways you can accelerate data transfer into S3 and get a close look at new tools to secure and manage your data more efficiently. See how Amazon Athena runs \"query in place\" analytics on your data and hear about the new expedited and bulk retrievals from Amazon Glacier. Learn how AWS customers have built solutions that turn their data from a cost into a strategic asset, and bring your toughest questions straight to our experts.",
+        "date": "2017-06-19T20:21:57Z",
+        "duration": 3132
     },
     {
         "service": "s3",
         "videoId": "9vhEqjR2zsc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon S3",
+            "object storage",
+            "cloud storage",
+            "data durability",
+            "data availability",
+            "data protection"
+        ],
         "title": "Amazon S3: Data Durability and Global Resiliency",
-        "date": "2019/03/19"
+        "description": "Learn more about Amazon S3 at – https://amzn.to/2Th6NF8 \nAmazon S3 is designed to deliver 99.999999999% data durability. S3 automatically creates copies of all uploaded objects and stores them across at least three Availability Zones (AZs). This means your data is protected by a multi-AZ resiliency model and against site-level failures. Watch the video to learn more about what the 11 9's of durability means for your data and global resiliency.",
+        "date": "2019-03-19T16:00:01Z",
+        "duration": 196
     },
     {
         "service": "s3",
         "videoId": "J2CVnmUWSi4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon S3",
+            "S3 Transfer",
+            "S3 Transfer Acceleration",
+            "S3 uploads",
+            "S3 downloads",
+            "S3 bucket",
+            "data transfer"
+        ],
         "title": "Introduction to Amazon S3 Transfer Acceleration",
-        "date": "2019/11/14"
+        "description": "Learn more about Amazon S3 Transfer Acceleration at https://amzn.to/33Mmo5C\nThis video introduces Amazon S3 Transfer Acceleration (S3TA) and shows you how to turn it on. S3TA can speed up long-distance content transfers to and from Amazon S3, particularly for applications with widespread users or applications hosted far away from S3 bucket.\n\nS3TA improves transfer performance by routing traffic through Amazon CloudFront’s globally distributed Edge Locations and over AWS backbone networks, and by using network protocol optimizations. You can turn on S3TA with a few clicks in the S3 console.",
+        "date": "2019-11-14T23:52:03Z",
+        "duration": 179
     }
 ]

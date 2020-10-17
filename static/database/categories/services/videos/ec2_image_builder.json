@@ -2,7 +2,16 @@
     {
         "service": "ec2_image_builder",
         "videoId": "9XFuRq0R8nk",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CMP214-R1",
+            "Compute"
+        ],
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] EC2 Image Builder: Virtual machine images made easy (CMP214-R1)",
-        "date": "2019/12/12"
+        "description": "In this session, learn about EC2 Image Builder, a new capability that makes it easier and faster to build and maintain secure images. Keeping server images up-to-date can be time-consuming, resource-intensive, and error-prone. Currently, customers either manually update and snapshot VMs or have teams that build automation scripts to maintain images. Learn how EC2 Image Builder simplifies the creation, patching, testing, distribution, and sharing of Linux or Windows Server images.",
+        "date": "2019-12-12T20:25:42Z",
+        "duration": 3671
     }
 ]

@@ -24,48 +24,140 @@
         ],
         "title": "AWS re:Invent 2016: NEW LAUNCH! Introducing AWS Batch: Easy and efficient batch computing (CMP323)",
         "description": "AWS Batch is a fully-managed service that enables developers, scientists, and engineers to easily and efficiently run batch computing workloads of any scale on AWS. AWS Batch automatically provisions compute resources and optimizes the workload distribution based on the quantity and scale of the workloads. With AWS Batch, there is no need to install or manage batch computing software, allowing you to focus on analyzing results and solving problems. AWS Batch plans, schedules, and executes your batch computing workloads across the full range of AWS compute services and features, such as Amazon EC2, Spot Instances, and AWS Lambda. AWS Batch reduces operational complexities, saving time and reducing costs. In this session, Principal Product Managers Jamie Kinney and Dougal Ballantyne describe the core concepts behind AWS Batch and details of how the service functions.  The presentation concludes with relevant use cases and sample code.",
-        "date": "2016-12-03T19:33:22Z"
+        "date": "2016-12-03T19:33:22Z",
+        "duration": 2970
     },
     {
         "service": "batch",
         "videoId": "tflZjGckK8c",
-        "title": "AWS re:Invent 2018: AWS Batch & How AQR leverages AWS to Identify New Investment Signals (CMP372)",
-        "date": "2018/12/18"
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Compute",
+            "CMP372",
+            "AWS Batch"
+        ],
+        "title": "AWS re:Invent 2018:  AWS Batch & How AQR leverages AWS to Identify New Investment Signals (CMP372)",
+        "description": "AWS Batch is a fully managed service that enables developers to easily and efficiently run batch computing workloads of any scale on AWS. In this session, the Senior Product Manager Rey Wang, describes the core concepts behind AWS Batch and details of how the service functions, latest features, and upcoming roadmap items. Afterwards, we dive deep into AQR Capital’s high-performance computing use case for AWS Batch to develop investment signals. AQR researchers can package and submit a job to evaluate a signal without worrying about the compute resources needed, cost, security, or timing. Given the intelligent use of Amazon EC2 instances and Spot by AWS Batch, AQR has processed more than 75 years of compute workload at a very low cost. Learn how to use AWS Batch and containers to perform HPC workloads to manage, schedule, or scale underlying Amazon EC2 instances. Complete Title: AWS re:Invent 2018: Intro to AWS Batch & How AQR Capital leverages AWS to Identify New Investment Signals (CMP372)",
+        "date": "2018-12-18T18:29:47Z",
+        "duration": 3395
     },
     {
         "service": "batch",
         "videoId": "8dApnlJLY54",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Kinney",
+            "Compute",
+            "CMP323",
+            "AI",
+            "AWS Batch"
+        ],
         "title": "AWS re:Invent 2017: AWS Batch: Easy and Efficient Batch Computing on AWS (CMP323)",
-        "date": "2017/11/29"
+        "description": "AWS Batch is a fully managed service that enables developers to easily and efficiently run batch computing workloads of any scale on AWS. AWS Batch automatically provisions the right quantity and type of compute resources needed to run your jobs. With AWS Batch, you don't need to install or manage batch computing software, so you can focus on analyzing results and solving problems. In this session, the principal product manager for AWS Batch, Jamie Kinney, describes the core concepts behind AWS Batch and details of how the service functions. The presenter then demonstrates the latest features of AWS Batch with relevant use cases and sample code before describing some of the upcoming features for the service. Finally, hear from AWS Batch customers as they describe why and how they are using AWS Batch. This portion of the talk is delivered by representatives from the University of Utah, Autodesk, and AdRoll.",
+        "date": "2017-11-29T16:54:52Z",
+        "duration": 3543
     },
     {
         "service": "batch",
         "videoId": "2QYjrKsmoYI",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Developer Community",
+            "DVC301",
+            "AWS Batch"
+        ],
         "title": "AWS re:Invent 2018: Building Fraud Detection Systems with AWS Batch and Containers (DVC301)",
-        "date": "2018/11/27"
+        "description": "When analyzing information for fraud detection, tasks must be run periodically. When building a fraud detection system, start by preparing the data, and work with small chunks of data and run parallel jobs so your machine learning (ML) models can predict fraudulent activity. For that, you schedule computer resources and, of course, the script. With AWS Batch, you only worry about your application job and run it at scale. With containers, you think in small processes and let AWS Batch run them concurrently. In this session, learn to build a fraud detection system and integrate it with other AWS services. \n\nThis session is part of re:Invent Developer Community Day, a series led by AWS enthusiasts who share first-hand, technical insights on trending topics.",
+        "date": "2018-11-27T19:08:05Z",
+        "duration": 2646
     },
     {
         "service": "batch",
         "videoId": "ICzo9IYUO2U",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Analytics & Big Data",
+            "ABD217",
+            "Aurora",
+            "Kinesis",
+            "Lex",
+            "RDS",
+            "Redshift",
+            "Analytics",
+            "Database",
+            "Mobile"
+        ],
         "title": "AWS re:Invent 2017: From Batch to Streaming: How Amazon Flex Uses Real-time Analytic (ABD217)",
-        "date": "2017/11/29"
+        "description": "Reducing the time to get actionable insights from data is important to all businesses, and customers who employ batch data analytics tools are exploring the benefits of streaming analytics. Learn best practices to extend your architecture from data warehouses and databases to real-time solutions. Learn how to use Amazon Kinesis to get real-time data insights and integrate them with Amazon Aurora, Amazon RDS, Amazon Redshift, and Amazon S3. The Amazon Flex team describes how they used streaming analytics in their Amazon Flex mobile app, used by Amazon delivery drivers to deliver millions of packages each month on time. They discuss the architecture that enabled the move from a batch processing system to a real-time system, overcoming the challenges of migrating existing batch data to streaming data, and how to benefit from real-time analytics.",
+        "date": "2017-11-29T16:22:52Z",
+        "duration": 3650
     },
     {
         "service": "batch",
         "videoId": "Zgqrd0XQwTw",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Containers",
+            "CON304",
+            "AI",
+            "Lex",
+            "AWS Batch",
+            "Compute",
+            "Security"
+        ],
         "title": "AWS re:Invent 2017: Batch Processing with Containers on AWS (CON304)",
-        "date": "2017/12/01"
+        "description": "Batch processing is useful to analyze large amounts of data. But configuring and scaling a cluster of virtual machines to process complex batch jobs can be difficult.\n\nIn this talk, we'll show how to use containers on AWS for batch processing jobs that can scale quickly and cost-effectively. We will also discuss AWS Batch, our fully managed batch-processing service. You'll also hear from GoPro and Here about how they use AWS to run batch processing jobs at scale including best practices for ensuring efficient scheduling, fine-grained monitoring, compute resource automatic scaling, and security for your batch jobs.",
+        "date": "2017-12-01T16:20:35Z",
+        "duration": 3596
     },
     {
         "service": "batch",
         "videoId": "r_arBdn5L7k",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Analytics & Big Data",
+            "ABD330",
+            "AWS Lambda",
+            "Big Data"
+        ],
         "title": "AWS re:Invent 2017: Combining Batch and Stream Processing to Get the Best of Both Wo (ABD330)",
-        "date": "2017/11/28"
+        "description": "Today, many architects and developers are looking to build solutions that integrate batch and real-time data processing, and deliver the best of both approaches. Lambda architecture (not to be confused with the AWS Lambda service) is a design pattern that leverages both batch and real-time processing within a single solution to meet the latency, accuracy, and throughput requirements of big data use cases. Come join us for a discussion on how to implement Lambda architecture (batch, speed, and serving layers) and best practices for data processing, loading, and performance tuning.",
+        "date": "2017-11-28T18:08:07Z",
+        "duration": 1323
     },
     {
         "service": "batch",
         "videoId": "FBALeXG8WTI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "CON310",
+            "Asha Chakrabarty",
+            "Advanced",
+            "Containers Mini Con"
+        ],
         "title": "AWS re:Invent 2016: Running Batch Jobs on Amazon ECS (CON310)",
-        "date": "2016/12/02"
+        "description": "Batch computing is a common way for developers, scientists and engineers to run a series of jobs on a large pool of shared compute resources, such as servers, virtual machines, and containers. Amazon ECS makes it easy to run and manage Docker-enabled applications across a cluster of Amazon EC2 instances. In this session will show you how to run batch jobs using Amazon ECS and together with other AWS services, such as AWS Lambda and Amazon SQS. We will see how you can leverage Amazon EC2 Spot Instances to power your ECS cluster and easily scale your batch workloads. You'll hear from Mapbox on how they use ECS to power their entire batch processing architecture to collect and process over 100 million miles of sensor data per day that they use for powering their maps.  Mapbox will also discuss how they optimize their batch processing framework on ECS using Spot Instances and demo their open source framework that will help you get up and running with ECS in minutes.",
+        "date": "2016-12-02T21:13:42Z",
+        "duration": 2624
     }
 ]

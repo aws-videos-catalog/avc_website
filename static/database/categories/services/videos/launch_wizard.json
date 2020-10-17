@@ -2,7 +2,23 @@
     {
         "service": "launch_wizard",
         "videoId": "Oanip3eMg68",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Launch parameters",
+            "Instance Management",
+            "Launching Instance",
+            "Amazon EC2",
+            "Microsoft SQL Server",
+            "Accelerate Deployments",
+            "Deploy SQL Server"
+        ],
         "title": "Accelerate SQL Server Deployments with AWS Launch Wizard",
-        "date": "2020/07/30"
+        "description": "In this video, you’ll see how to accelerate SQL Server deployments with AWS Launch Wizard. With this service, you can automate AWS resource selection to meet your requirements, dynamically generate cost estimates, and deploy production-ready applications that adhere to AWS best practices. \n\nLearn more about AWS Launch Wizard at https://amzn.to/39EjAve\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS  #AWSDemo",
+        "date": "2020-07-30T21:07:18Z",
+        "duration": 615
     }
 ]

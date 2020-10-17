@@ -2,601 +2,2077 @@
     {
         "service": "amazon_redshift",
         "videoId": "lj8oaSpCFTc",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ANT418",
+            "Analytics",
+            "Amazon Redshift"
+        ],
         "title": "AWS re:Invent 2019: Deep dive and best practices for Amazon Redshift (ANT418)",
-        "date": "2019/12/05"
+        "description": "In this session, we take an in-depth look at best practices for data warehousing with Amazon Redshift. We show you the best way to analyze all your data, inside and outside your data warehouse, without moving the data, which helps you gain deeper insights for running your business. We also cover best practices for how to design optimal schemas, load data efficiently, and optimize your queries to deliver high throughput and performance.",
+        "date": "2019-12-05T17:33:43Z",
+        "duration": 3457
     },
     {
         "service": "amazon_redshift",
         "videoId": "U74vOMzUBoI",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DEM19-S",
+            "Etleap"
+        ],
         "title": "AWS re:Invent 2019: Five data lake considerations w/ Amazon Redshift, Amazon S3 & AWS Glue (DEM19-S)",
-        "date": "2019/12/06"
+        "description": "Building a data lake can be a headache. More often than not, they end up becoming data swamps—bottomless pits that suck up development resources and obscure data transparency. But when done correctly, data lakes can be valuable wells of knowledge that transform your business. Join Etleap and the Amazon Redshift team as we take a deep dive into the issues that plague data lake creators. We give you five refreshing pointers for keeping the development workload sustainable and ensuring data usability for the long term. This presentation is brought to you by Etleap, an APN Partner.",
+        "date": "2019-12-07T05:58:54Z",
+        "duration": 1063
     },
     {
         "service": "amazon_redshift",
         "videoId": "hi0Acr09ruE",
+        "tags": [
+            "AWS",
+            "Events",
+            "amazon redshift",
+            "Amazon Redshift",
+            "data lake",
+            "lake house",
+            "data warehouse",
+            "cloud data warehouse",
+            "elastic resize",
+            "node"
+        ],
         "title": "Easily Upgrade Your Node Type on Amazon Redshift",
-        "date": "2020/04/06"
+        "description": "Using elastic resize, you can now upgrade Amazon Redshift node type in minutes. You can upgrade the node type instantly or schedule it at a later time.\n\nLearn more about managing clusters in Amazon Redshift at https://amzn.to/34gsUmc\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSWebinar",
+        "date": "2020-04-06T21:36:47Z",
+        "duration": 166
     },
     {
         "service": "amazon_redshift",
         "videoId": "SldtNAonxEk",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT363-R1",
+            "Databases",
+            "AWS DMS",
+            "Amazon Redshift"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Migrating your data warehouses to Amazon Redshift (DAT363-R1)",
-        "date": "2019/12/09"
+        "description": "AWS Schema Conversion Tool data extractors can help with migrating from most widely used data warehouses like Teradata, Netezza, and Oracle to Amazon Redshift. You can also use the AWS SCT to optimize your Amazon Redshift database and use the right sort and distribution keys along with modernizing ETL from sources like Oracle and Teradata to AWS Glue. We walk you through AWS SCT’s capabilities and show a demo on migrating a sample data warehouse from Netezza to Amazon Redshift and show you how the AWS Snowball Edge integration with AWS SCT data extractors works.",
+        "date": "2019-12-09T18:53:19Z",
+        "duration": 3982
     },
     {
         "service": "amazon_redshift",
         "videoId": "6pZrE_tveLI",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ANT230",
+            "Analytics"
+        ],
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Amazon Redshift reimagined: RA3 and AQUA (ANT230)",
-        "date": "2019/12/10"
+        "description": "Amazon Redshift continues to change the scale and economics of data warehousing. Learn more about announcements from the keynote and how they enable you to scale cost-effectively across diverse data warehouse workloads. We break down the benefits of the new Amazon Redshift RA3 instances and share real-world examples from the preview. You see how the new console and innovations like Amazon Redshift Federated Query and Data Lake Export enable you to bring together all your data, and you learn more about AQUA (Advanced Query Accelerator) for Amazon Redshift.",
+        "date": "2019-12-10T18:17:30Z",
+        "duration": 2670
     },
     {
         "service": "amazon_redshift",
         "videoId": "V9r_sP2-zzs",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ANT335-R1",
+            "Analytics",
+            "Matt Howell",
+            "Warner Bros. Interactive",
+            "Entertainment",
+            "Amazon Redshift",
+            "Amazon S3"
+        ],
         "title": "AWS re:Invent 2019: How to scale data analytics w/ Amazon Redshift, ft. Warner Bros. (ANT335-R1)",
-        "date": "2019/12/04"
+        "description": "Modern cloud data warehouses must be able to scale up and out to handle variable analytics workloads. In this session, we discuss Amazon Redshift's ability to deliver top performance at the lowest and most predictable cost for any use case or workload. Learn how Amazon Redshift handles small datasets with large bursts of query activity, large datasets with complex queries, a mix of frequently queried data and infrequently accessed historical data, a mix of open file formats in an Amazon S3 data lake and structured data in Amazon Redshift, and more. Additionally, Warner Brothers discusses how it has seen improvements to its analytics performance with Amazon Redshift.",
+        "date": "2019-12-04T17:46:00Z",
+        "duration": 3708
     },
     {
         "service": "amazon_redshift",
         "videoId": "svj3srbhfUw",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ANT335-R",
+            "Analytics",
+            "Amazon Redshift",
+            "Amazon S3"
+        ],
         "title": "AWS re:Invent 2019: How to build your data analytics stack at scale with Amazon Redshift (ANT335-R)",
-        "date": "2019/12/03"
+        "description": "Modern cloud data warehouses must be able to scale up and scale out as needed to handle variable analytics workloads. In this session, we discuss Amazon Redshift’s ability to deliver top performance at the lowest and most predictable cost for any use case or workload. Learn how Amazon Redshift handles small datasets with large bursts of query activity, large datasets with complex queries, a mix of frequently queried data and infrequently accessed historical data, a mix of open file formats in an Amazon S3 data lake and structured data in Amazon Redshift, and more.",
+        "date": "2019-12-03T18:02:31Z",
+        "duration": 3344
     },
     {
         "service": "amazon_redshift",
         "videoId": "lN6tfUX4CcE",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ANT320-R",
+            "Analytics",
+            "Workday Inc",
+            "Amazon Redshift"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT] What’s new with Amazon Redshift, featuring Workday (ANT320-R)",
-        "date": "2019/12/04"
+        "description": "Learn about the most important and hottest new features of Amazon Redshift. In this session, we discuss the architectural evolution of Amazon Redshift and how it uses machine learning to create a self-optimizing data warehouse. We also review recent performance, concurrency, elasticity, and manageability enhancements behind its record price-to-performance ratio. Finally, we share a glimpse of our vision for the data warehouse of the future and hear from Workday about how Amazon Redshift’s latest features have helped Workday achieve its optimization and scale.",
+        "date": "2019-12-04T17:39:26Z",
+        "duration": 3072
     },
     {
         "service": "amazon_redshift",
         "videoId": "sCEhmBnQ7M0",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ANT320-R1",
+            "Analytics",
+            "Yelp",
+            "Amazon Redshift"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] What’s new with Amazon Redshift, featuring Yelp (ANT320-R1)",
-        "date": "2019/12/08"
+        "description": "Learn about the most important and hottest new features of Amazon Redshift. In this session, we discuss the architectural evolution of Amazon Redshift and how it uses machine learning to create a self-optimizing data warehouse. We also review recent performance, concurrency, elasticity, and manageability enhancements behind its record price-to-performance ratio. Finally, we share a glimpse of our vision for the data warehouse of the future and hear from Yelp about how Amazon Redshift’s latest features have helped Yelp achieve its optimization and scale.",
+        "date": "2019-12-08T23:28:49Z",
+        "duration": 3434
     },
     {
         "service": "amazon_redshift",
         "videoId": "CsVoklIK7s4",
+        "tags": [
+            "AWS",
+            "Events",
+            "Amazon Redshift",
+            "cloud data warehouse",
+            "data warehouse",
+            "lake house",
+            "data lake",
+            "andy jassy",
+            "andy jassy reinvent 2019",
+            "andy jassy aws"
+        ],
         "title": "Amazon Redshift Lake House Architecture",
-        "date": "2020/04/09"
+        "description": "Amazon Redshift powers the lake house architecture – providing you the flexibility to easily query data across your data warehouse, data lake, and operational databases for faster, deeper business insights.\n\nLearn more about ETL and ELT design patterns for lake house architecture at https://go.aws/2x7I6Gp\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonRedshift",
+        "date": "2020-04-09T16:52:24Z",
+        "duration": 84
     },
     {
         "service": "amazon_redshift",
         "videoId": "dyCR9HVUfPQ",
+        "tags": [
+            "programming",
+            "aws",
+            "reinvent",
+            "ai",
+            "ml",
+            "developer",
+            "cloud computing",
+            "software",
+            "Aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "reinvent 2019",
+            "aws launchpad"
+        ],
         "title": "AWS re:Invent 2019 Launchpad | What's New with Redshift",
-        "date": "2020/03/17"
+        "description": "Hear from the Amazon Redshift team about re:Invent 2019 launches. From the new third generation instance type that separates storage from compute, to Data Lake Export, there is a lot of innovation happening within the most popular cloud data warehouse for our customers.\n\nCatch up on all the AWS Redshift sessions at https://go.aws/2Rpy6PU\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #reInvent2019 #AWSLaunchpad",
+        "date": "2020-03-17T21:18:13Z",
+        "duration": 1282
     },
     {
         "service": "amazon_redshift",
         "videoId": "Y_SzaS9VsZo",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ANT335-R2",
+            "Analytics",
+            "DuoLingo",
+            "Amazon Redshift"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 2] How to scale data analytics with Amazon Redshift (ANT335-R2)",
-        "date": "2019/12/09"
+        "description": "Modern cloud data warehouses must be able to scale up and out to handle variable analytics workloads. In this session, we discuss Amazon Redshift's ability to deliver top performance at the lowest and most predictable cost for any use case or workload. Learn how Amazon Redshift handles small datasets with large bursts of query activity, large datasets with complex queries, a mix of frequently queried data and infrequently accessed historical data, a mix of open file formats in an Amazon S3 data lake and structured data in Amazon Redshift, and more.",
+        "date": "2019-12-09T18:54:57Z",
+        "duration": 3407
     },
     {
         "service": "amazon_redshift",
         "videoId": "V9P7KGfbfFI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud Computing",
+            "Cloud",
+            "AWS Event",
+            "AWS re:Invent",
+            "AWS reinvent",
+            "re:Invent",
+            "reinvent",
+            "2019",
+            "Sansan",
+            "Tetsuya Mase",
+            "Business Insights",
+            "Business Cards",
+            "Amazon Redshift",
+            "AWS Glue",
+            "Amazon Kinesis Data Firehose",
+            "Amazon S3",
+            "Startup"
+        ],
         "title": "Log Data Analysis on Amazon Redshift & AWS Glue",
-        "date": "2020/01/21"
+        "description": "Headquartered in Japan, Sansan offers business-card contact management services to more than 2 million users around the world. \n\nIn this talk, Tetsuya Mase, senior architect at Sansan, discusses how his team manages user logs on AWS using a variety of services, including Amazon Kinesis Data Firehose, Amazon S3, AWS Glue, and Amazon Redshift. He also covers best practices that his team has learned for loading data from AWS Glue to Amazon Redshift.\n\nLearn more about AWS Startups at https://go.aws/2ukRTqD",
+        "date": "2020-01-22T02:56:38Z",
+        "duration": 2354
     },
     {
         "service": "amazon_redshift",
         "videoId": "_qKm6o1zK3U",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Redshift",
+            "Data Warehousing",
+            "cloud data warehouse",
+            "data lake",
+            "analytics",
+            "PostgreSQL"
+        ],
         "title": "Introduction to Data Warehousing on AWS with Amazon Redshift",
-        "date": "2019/03/20"
+        "description": "Learn more about Amazon Redshift at – https://amzn.to/2HwdodA \nAmazon Redshift is a fast, simple, cost-effective data warehouse that can extend queries to your data lake.",
+        "date": "2019-03-20T20:02:29Z",
+        "duration": 95
     },
     {
         "service": "amazon_redshift",
         "videoId": "TJDtQom7SAA",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Analytics",
+            "ANT401-R1"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] Deep Dive and Best Practices for Amazon Redshift (ANT401-R1)",
-        "date": "2018/01/01"
+        "description": "In this session, we take an in-depth look at how modern data warehousing blends and analyzes all your data, inside and outside your data warehouse, without moving the data. This helps you gain deeper insights in running your business. We also cover best practices on how to design optimal schemas, load data efficiently, and optimize your queries to deliver high throughput and performance.",
+        "date": "2018-12-01T21:31:20Z",
+        "duration": 3261
     },
     {
         "service": "amazon_redshift",
         "videoId": "suhgBUeeZsE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Modernize Your Data Warehouse with Amazon Redshift and Amazon Redshift Spectrum",
-        "date": "2018/11/12"
+        "description": "Presenter: Paul Macey, Solutions Architect, Big Data, Amazon Web Services",
+        "date": "2018-11-12T21:36:37Z",
+        "duration": 1923
     },
     {
         "service": "amazon_redshift",
         "videoId": "j5tocGq6pAM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Optimizing Your Amazon Redshift Cluster for Peak Performance",
-        "date": "2018/11/21"
+        "description": "Presenter: Ganesh Raja, Solution Architect, Amazon Web Services",
+        "date": "2018-11-21T19:18:46Z",
+        "duration": 1863
     },
     {
         "service": "amazon_redshift",
         "videoId": "dSfB-zJRtJM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Redshift",
+            "Amazon Redshift",
+            "cloud data warehouse",
+            "data warehouse",
+            "lake house",
+            "data lake",
+            "RA3",
+            "compute nodes",
+            "managed storage"
+        ],
         "title": "Amazon Redshift RA3 Nodes: Overview and How to Upgrade",
-        "date": "2020/05/26"
+        "description": "Scale your compute and storage independently for improved query performance and lower costs with the new Amazon Redshift RA3 nodes. Learn more about RA3 nodes and how to upgrade.\n\nLearn more about Amazon Redshift RA3 instances with managed storage at https://go.aws/36xbbrJ\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonRedshift",
+        "date": "2020-05-26T20:17:29Z",
+        "duration": 408
     },
     {
         "service": "amazon_redshift",
         "videoId": "Tb6pwNrBt_Y",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "Why can't I connect to my Amazon Redshift cluster?",
-        "date": "2019/04/14"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2SIerx2\nGopal, an AWS Cloud Support Engineer, shows you what you can do if you cannot connect to your Amazon Redshift cluster.",
+        "date": "2019-04-14T23:08:29Z",
+        "duration": 400
     },
     {
         "service": "amazon_redshift",
         "videoId": "8StvmVWCsgo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon Redshift",
+            "cloud data warehouse",
+            "data warehouse",
+            "lake house",
+            "data lake",
+            "security",
+            "fine-grained access"
+        ],
         "title": "Column Level Access Control in Amazon Redshift",
-        "date": "2020/06/29"
+        "description": "Step-by-step demo to learn how you can achieve fine-grained access control with column-level access control in Amazon Redshift.\n\nLearn more about AWS Database at - https://go.aws/318ad4K\n\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo #AmazonRedshift",
+        "date": "2020-06-29T20:15:48Z",
+        "duration": 635
     },
     {
         "service": "amazon_redshift",
         "videoId": "1eIaPmqWEOI",
+        "tags": [
+            "Software (Industry)",
+            "Management",
+            "Technology",
+            "Data",
+            "System",
+            "Business",
+            "Office",
+            "coding",
+            "code",
+            "deployment",
+            "infrastructure",
+            "cloud infrastructure",
+            "AWS Summit Series 2016",
+            "Chicago Summit",
+            "AWS Chicago Summit",
+            "AWS Chicago 2016",
+            "2016 Summit Series",
+            "AWS Summits 2016",
+            "Pavan Pothukuchi",
+            "Getting Started",
+            "Amazon Redshift"
+        ],
         "title": "AWS Summit Series 2016 | Chicago - Getting Started with Amazon Redshift",
-        "date": "2016/04/23"
+        "description": "Learn how Amazon Redshift, our fully managed, petabyte-scale data warehouse, can help you quickly and cost-effectively analyze all of your data using your existing business intelligence tools. Get an introduction to how Amazon Redshift uses massively parallel processing, scale-out architecture, and columnar direct-attached storage to minimize I/O time and maximize performance. Learn how you can gain deeper business insights and save money and time by migrating to Amazon Redshift. Take away strategies for migrating from on-premises data warehousing solutions, tuning schema and queries, and utilizing third party solutions.",
+        "date": "2016-04-23T16:57:53Z",
+        "duration": 3266
     },
     {
         "service": "amazon_redshift",
         "videoId": "-2yQsI9xJKQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon Redshift",
+            "cloud data warehouse",
+            "data warehouse",
+            "lake house",
+            "data lake",
+            "concurrent queries"
+        ],
         "title": "Amazon Redshift Concurrency Scaling",
-        "date": "2020/06/24"
+        "description": "With the Amazon Redshift Concurrency Scaling feature, you can easily support thousands of concurrent users and concurrent queries, with consistently fast query performance. As concurrency increases, Amazon Redshift automatically adds query processing power in seconds to process queries without any delays.\n\nLearn more about AWS Database at - https://go.aws/2BEhChf\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo #AmazonRedshift",
+        "date": "2020-06-24T18:14:53Z",
+        "duration": 362
     },
     {
         "service": "amazon_redshift",
         "videoId": "GBuq4SIEjnY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "redshift queries",
+            "etl queries"
+        ],
         "title": "AWS KC VIdeos: How do I prioritize Redshift queries, or separate ETL queries into different queues?",
-        "date": "2017/11/13"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/redshift-wlm-etl-queues/\n\nFarrukh, an AWS Cloud Support Engineer, shows you how to prioritize Redshift queries, or separate ETL queries into different queues.",
+        "date": "2017-11-13T15:23:44Z",
+        "duration": 421
     },
     {
         "service": "amazon_redshift",
         "videoId": "y0YHG95MI48",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Redshift",
+            "Data Storage",
+            "Data warehouse",
+            "data lake"
+        ],
         "title": "Webinar on Deep Dive and Best Practices for Amazon Redshift",
-        "date": "2018/10/09"
+        "description": "Amazon Redshift is a fast, scalable data warehouse that makes it simple and cost-effective to analyze all your data across your data warehouse and data lake. Learn more at - https://amzn.to/2OShJes.\nJoin us to take an in-depth look at how modern data warehousing blends and analyzes all your data, inside and outside your data warehouse, without moving the data. This session will help you gain deeper insights to run your business. We will also cover best practices on how to design optimal schemas, load data efficiently, and optimize your queries to deliver high throughput and performance.",
+        "date": "2018-10-09T14:22:07Z",
+        "duration": 4222
     },
     {
         "service": "amazon_redshift",
         "videoId": "R1m-fwzXMow",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Redshift",
+            "Performance",
+            "data loading"
+        ],
         "title": "AWS Webcast - Amazon Redshift Best Practices for Data Loading and Query Performance",
-        "date": "2013/04/21"
+        "description": " ",
+        "date": "2013-04-22T03:45:02Z",
+        "duration": 3777
     },
     {
         "service": "amazon_redshift",
         "videoId": "Rt5ZjPBtFLo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "amazon redshift",
+            "amazon redshift tutorial",
+            "redshift",
+            "redshift tutorial",
+            "cloud data warehouse",
+            "data warehouse",
+            "lake house",
+            "data lake",
+            "federated query",
+            "operational databases",
+            "PostgreSQL"
+        ],
         "title": "Amazon Redshift Federated Query",
-        "date": "2020/04/17"
+        "description": "Amazon Redshift powers the lake house architecture – providing you the flexibility to easily query data across your data warehouse, data lake, and operational databases for faster, deeper business insights.\n\nLearn more about Amazon Redshift at https://go.aws/3bghpOk\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonRedshift #AWSDemo",
+        "date": "2020-04-17T18:34:56Z",
+        "duration": 379
     },
     {
         "service": "amazon_redshift",
         "videoId": "TpCa3CYV7AE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            ".NET",
+            "Redshift",
+            "Query"
+        ],
         "title": "Create a .Net app to query Amazon Redshift",
-        "date": "2018/11/21"
+        "description": "Amazon Redshift is a fast, scalable data warehouse that makes it simple and cost-effective to analyze all your data across your data warehouse and data lake. Redshift delivers ten times faster performance than other data warehouses by using machine learning, massively parallel query execution, and columnar storage on high-performance disk. You can setup and deploy a new data warehouse in minutes, and run queries across petabytes of data in your Redshift data warehouse, and exabytes of data in your data lake built on Amazon S3. \nFor more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2t7AHBA.",
+        "date": "2018-11-21T20:44:19Z",
+        "duration": 199
     },
     {
         "service": "amazon_redshift",
         "videoId": "oOIgMSv2rug",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Big Data & HPC",
+            "Advanced",
+            "AWS Data Pipeline",
+            "Big Data",
+            "Architecture",
+            "Amazon Redshift",
+            "Amazon Elastic MapReduce",
+            "Coursera",
+            "Architect",
+            "Technical Decision Maker",
+            "Enterprise",
+            "Developer",
+            "P. Thomas Barthelemy",
+            "Roy Ben-Alta"
+        ],
         "title": "AWS re:Invent 2014 | (BDT303) Construct ETL Pipeline w/ AWS Data Pipeline, Amazon EMR & Redshift",
-        "date": "2014/11/17"
+        "description": "An advantage to leveraging Amazon Web Services for your data processing and warehousing use cases is the number of services available to construct complex, automated architectures easily. Using AWS Data Pipeline, Amazon EMR, and Amazon Redshift, we show you how to build a fault-tolerant, highly available, and highly scalable ETL pipeline and data warehouse.  Coursera will show how they built their pipeline, and share best practices from their architecture.",
+        "date": "2014-11-18T00:16:21Z",
+        "duration": 2472
     },
     {
         "service": "amazon_redshift",
         "videoId": "yClHAALFXRk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I create Amazon Redshift Spectrum cross-account access to AWS Glue and Amazon S3?",
-        "date": "2019/09/03"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2GSxI6Z\nShweta, an AWS Cloud Support Engineer, shows you how to create an Amazon Redshift Spectrum cross-account access to AWS Glue and Amazon S3.",
+        "date": "2019-09-03T20:11:48Z",
+        "duration": 321
     },
     {
         "service": "amazon_redshift",
         "videoId": "Q4VgB_KuDNo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Best Practices for Migrating Legacy Data Warehouses into Amazon Redshift",
-        "date": "2019/06/20"
+        "description": "Migrating your data warehouse to Amazon Redshift can substantially improve query and data load performance, increase scalability, and save costs. Amazon Redshift is a fast, fully managed, petabyte-scale data warehouse that makes it simple and cost effective to analyze data using your existing business intelligence tools. AWS Database Migration Service and AWS Schema Conversion Tool make it easier to migrate your schema and data from your Oracle data warehouse to Amazon Redshift, without disrupting the applications that rely on the data source.",
+        "date": "2019-06-20T17:55:08Z",
+        "duration": 3228
     },
     {
         "service": "amazon_redshift",
         "videoId": "a4de6lFLsLw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "RA3 migration",
+            "restore from snapshot",
+            "DC2 migration",
+            "classic",
+            "resize",
+            "Amazon Redshift",
+            "DS2 migration"
+        ],
         "title": "What's new with Amazon Redshift: Migrating your Redshift Data Warehouse to New RA3 Nodes",
-        "date": "2020/02/07"
+        "description": "This demo shows you how to migrate an existing Amazon Redshift data warehouse to a new RA3 instance using the restore from snapshot or classic resize options.\n\nLearn more about AWS Databases at - https://go.aws/2w1jBtt\nand find out more about Amazon Redshift RA3 in the Clusters Management Guide at - http://bit.ly/AMZRScl\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS  #Redshift #Demo",
+        "date": "2020-02-07T21:52:44Z",
+        "duration": 579
     },
     {
         "service": "amazon_redshift",
         "videoId": "fmy3jCxUliM",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Financial Services",
+            "Big Data & Analytics",
+            "BDT401",
+            "Eric Ferreira - Amazon Web Services",
+            "Ben Locke - TripAdvisor",
+            "TripAdvisorExpert (400 level)"
+        ],
         "title": "AWS re:Invent 2015 | (BDT401) Amazon Redshift Deep Dive: Tuning and Best Practices",
-        "date": "2015/10/12"
+        "description": "Get a look under the covers: Learn tuning best practices for taking advantage of Amazon Redshift's columnar technology and parallel processing capabilities to improve your delivery of queries and improve overall database performance. This session explains how to migrate from existing data warehouses, create an optimized schema, efficiently load data, use work load management, tune your queries, and use Amazon Redshift's interleaved sorting features. Finally, learn how TripAdvisor uses these best practices to give their entire organization access to analytic insights at scale.",
+        "date": "2015-10-12T19:15:21Z",
+        "duration": 3014
     },
     {
         "service": "amazon_redshift",
         "videoId": "jAnhY63sVhA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon Redshift: 10x Performance Increase & Concurrency Scaling GA",
-        "date": "2019/03/03"
+        "description": "Amazon Redshift is the most popular cloud Data Warehouse, with more than 10,000 customers. Data from this large customer base has enabled Amazon Redshift to deliver 10x faster query times, as the service continuously improves performance by optimizing reads and writes based on lessons from processing over two exabytes of customer data every day. Learn about how more than 200 new features and enhancements released over the past two years, all available for you to use, have resulted in this significant performance increase. Also find out more about how Amazon Redshift provides consistently fast performance, even with thousands of concurrent queries - whether you query data in your Amazon Redshift data warehouse, or directly in your Amazon S3 data lake. We will also discuss all the updates released over the last two years that cumulatively provide significantly faster performance for every dollar you spend, enable you to scale your clusters confidently, and eliminate day to day administration and maintenance tasks.\n\nLearn more about Amazon Redshift: https://aws.amazon.com/redshift/\nLearn more about AWS on Twitch: https://amzn.to/2uGYoB3",
+        "date": "2019-04-03T18:40:01Z",
+        "duration": 1205
     },
     {
         "service": "amazon_redshift",
         "videoId": "DIj1bFjiqd8",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Databases",
+            "DAT201",
+            "Pavan Pothukuchi - Amazon",
+            "Nam Nguyen - RetailMeNot",
+            "Introductory (200 level)"
+        ],
         "title": "AWS re:Invent 2015 | (DAT201) Introduction to Amazon Redshift",
-        "date": "2015/10/09"
+        "description": "Learn how Amazon Redshift, our fully managed, petabyte-scale data warehouse, can help you quickly and cost-effectively analyze all your data using your existing business intelligence tools. Get an introduction to how Amazon Redshift uses massively parallel processing and scale-out architecture to ensure compute resources grow with your dataset size, and columnar, direct-attached storage to dramatically reduce I/O time. Learn how top online retailer RetailMeNot moved their largest Vertica cluster on Amazon EC2 to Amazon Redshift. See how they gain insights from clickstream, location, merchant, marketing, and operational data across desktop and mobile properties.",
+        "date": "2015-10-09T23:28:03Z",
+        "duration": 3394
     },
     {
         "service": "amazon_redshift",
         "videoId": "WCes0ihQw3g",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Stream Data Analytics with Amazon Kinesis Firehose and Redshift",
-        "date": "2016/09/08"
+        "description": "Learn more - http://amzn.to/2cdIqWa\nEvolving your analytics from batch processing to real-time processing can have a major business impact, but ingesting streaming data into your data warehouse requires building complex streaming data pipelines. Amazon Kinesis Firehose solves this problem by making it easy to ingest streaming data into Amazon Redshift so that you can use existing analytics and business intelligence tools to extract information in near real-time and respond promptly. In this webinar, we will dive deep using Amazon Kinesis Firehose to load streaming data into Amazon Redshift reliably, scalably, and cost-effectively.\n\nLearning Objectives:\n·  Understand the basics of ingesting streaming data from sources such as mobile devices, servers, and websites with Amazon Kinesis Firehose\n·  Get a closer look at how to automate delivery of streaming data to Amazon Redshift reliably using Amazon Kinesis Firehose\n·  Learn techniques to detect, troubleshoot, and avoid data loading problems",
+        "date": "2016-09-08T23:10:13Z",
+        "duration": 3054
     },
     {
         "service": "amazon_redshift",
         "videoId": "lv2vFO0bVIY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Redshift Spectrum"
+        ],
         "title": "AWS Summit Series 2017 - San Francisco: Introducing Amazon Redshift Spectrum",
-        "date": "2017/04/26"
+        "description": "To learn more about Amazon Redshift Spectrum, please go to - http://amzn.to/2pm2NrL.\nAmazon Redshift Spectrum is a new feature that allows you to run Amazon Redshift SQL queries against exabytes of data in Amazon S3. With Redshift Spectrum, you can extend the analytic power of Amazon Redshift beyond data stored on local disks in your data warehouse to query vast amounts of unstructured data in your Amazon S3 “data lake” – without having to load or transform any data. Redshift Spectrum supports the same SQL syntax of Amazon Redshift, so you can run sophisticated queries using the same Business Intelligence (BI) tools you use today.",
+        "date": "2017-04-26T16:40:05Z",
+        "duration": 157
     },
     {
         "service": "amazon_redshift",
         "videoId": "5f3z1Z_9BJA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Redshift",
+            "AWS Storage Gateway",
+            "Amazon RDS",
+            "AWS Direct Connect",
+            "Amazon EC2",
+            "Amazon S3 Glacier",
+            "Amazon Simple Storage Service (S3)",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Capgemini: Refactoring a Data Warehouse to Amazon Redshift",
-        "date": "2019/10/23"
+        "description": "Capgemini joins us to discuss an architecture that adheres to HIPPA compliancy for a life sciences customer and speaks to the security implications around their IBM Netezza migration to Amazon Redshift. In their approach, they use an ELT tool installed on auto-scaled EC2 instances to perform transformation and incremental loading of 20TB into 450 tables.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-10-23T16:57:27Z",
+        "duration": 480
     },
     {
         "service": "amazon_redshift",
         "videoId": "ZvAqJtZ5JRs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Canberra Summit 2017",
+            "Data Warehouse",
+            "Amazon Redshift",
+            "UTS",
+            "University of Technology Sydney",
+            "AWS Public Sector Summit Canberra 2017"
+        ],
         "title": "Best Practices for Data Warehousing with Amazon Redshift",
-        "date": "2017/09/11"
+        "description": "Learn more about AWS at - http://amzn.to/2xxLNPx.\nGet a look under the hood: Understand how to take advantage of Amazon Redshift's columnar technology and parallel processing capabilities to improve your delivery of queries and improve overall database performance. You’ll also hear about how the University of Technology Sydney (UTS) are using Redshift. The University of Technology Sydney will describe how utilizing Amazon Redshift enabled agility in dealing with Data Quality, a capacity to scale when required, and optimizing development processes through rapid provisioning of Data Warehouse environments.",
+        "date": "2017-09-11T16:32:18Z",
+        "duration": 1084
     },
     {
         "service": "amazon_redshift",
         "videoId": "-6-4QVJuQGo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I move my Redshift cluster from one VPC to another VPC?",
-        "date": "2018/09/17"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2OxrACW\n\nSuvendu, an AWS Cloud Support Engineer, shows you how to move your Redshift cluster from one VPC to another VPC.",
+        "date": "2018-09-17T23:39:00Z",
+        "duration": 294
     },
     {
         "service": "amazon_redshift",
         "videoId": "NsIxHjTAUwo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Data",
+            "Data & Analytics",
+            "Redshift"
+        ],
         "title": "Harness the Power of Data Using Amazon Redshift and Matillion",
-        "date": "2019/06/20"
+        "description": "Learn more about Modernizing Your Data Warehouse on AWS – https://amzn.to/2WQekBv \nClutch, a market insights platform, delivers actionable intelligence data to its customers across verticals. Their platform contains multiple petabytes (PB) of transactional, demographic, behavioral, and campaign data. This enables Clutch's customers to better understand their own customers.",
+        "date": "2019-06-20T16:00:04Z",
+        "duration": 3673
     },
     {
         "service": "amazon_redshift",
         "videoId": "wEOm6aiN4ww",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "dw",
+            "data warehouse",
+            "redshift",
+            "analytics",
+            "spectrum",
+            "parquet",
+            "big data",
+            "data lake",
+            "OLAP",
+            "OLTP",
+            "Spark",
+            "parquet format",
+            "Amazon Athena",
+            "Amazon Elastic MapReduce (EMR)",
+            "Amazon EMR",
+            "Amazon Kinesis",
+            "Amazon Kinesis Data Firehose",
+            "Amazon Redshift",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon EC2",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Appnext: Kinesis, EMR, Athena, Redshift - Choosing the Right Tool for Your Analytics Jobs",
-        "date": "2018/10/25"
+        "description": "On this episode of This is My Architecture - https://amzn.to/2OX8kip, Vladimir from Appnext walks us through the journey they went on to find the right tool for each of their analytics job types. Having a separation between OLAP and OLTP and running everything on Redshift wasn’t enough. Long-running queries, high concurrency, and ever-growing data volumes made Appnext look for optimization opportunities. Learn how by leveraging a Data Lake architecture, Kinesis, Spark on EMR, parquet format, and directly querying against S3 using Athena and Redshift Spectrum, they were able to improve analytical query run times, and reduce cost at the same time.\n\nHost: Benjamin Feldon, Solutions Architecture, AWS\nCustomer: Vladimir Nevsky, System Architect, Appnext\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2018-10-25T16:00:42Z",
+        "duration": 450
     },
     {
         "service": "amazon_redshift",
         "videoId": "vJY9X-kdd9Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "redshift"
+        ],
         "title": "Why isn't the VPC I want to launch my Amazon Redshift cluster listed in the drop-down list?",
-        "date": "2018/07/01"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/vpc-redshift-associate/\n\nFrank, an AWS Cloud Support Engineer, shows you what to do if the VPC you want to launch your Amazon Redshift cluster to listed in the 'Choose a VPC' drop-down is not showing.",
+        "date": "2018-07-02T04:07:48Z",
+        "duration": 569
     },
     {
         "service": "amazon_redshift",
         "videoId": "lMhYF6YSvd8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "Why isn't the Amazon Redshift VACUUM operation reclaiming disk space?",
-        "date": "2020/06/23"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/redshift-vacuum-reclaim-disk-space/\n\nPallavi shows you why the Amazon Redshift VACUUM operation isn't reclaiming disk space.",
+        "date": "2020-06-23T19:59:43Z",
+        "duration": 219
     },
     {
         "service": "amazon_redshift",
         "videoId": "7ySzRTOyK6o",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws",
+            "best practices",
+            "cloud",
+            "redshift",
+            "webcast",
+            "webinar",
+            "Redshift",
+            "performance"
+        ],
         "title": "AWS Webcast - Amazon Redshift Best Practices Part 2 -- Performance",
-        "date": "2013/05/17"
+        "description": "This session follows our webinar on data loading and key choices and shows you how to use Amazon Redshift efficiently. Hear our experts discuss how to extract the best performance from your Amazon Redshift cluster by using the commands like vacuum appropriately. Understand what information is exposed in the Amazon Redshift console and how to use it. Learn how to tune performance by explaining query plans and examining how memory and disk space are used. Reasons to attend: - Learn how to use Amazon Redshift efficiently. - Manage storage effectively with Vacuum. - Attend Q&A session with Amazon Redshift experts.",
+        "date": "2013-05-17T21:02:51Z",
+        "duration": 3481
     },
     {
         "service": "amazon_redshift",
         "videoId": "XapdgF-ajdI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Redshift",
+            "Data Warehouse",
+            "Amazon Kinesis"
+        ],
         "title": "Migrating your Data Warehouse to Amazon Redshift - AWS Loft Session",
-        "date": "2017/01/18"
+        "description": "Learn more - http://amzn.to/2j6H8h3\n\nMany corporations run their business with older, on-premise, data warehouses and analytics solutions. These solutions cannot keep up with today’s business needs, are expensive to run, and are inflexible. AWS offers a comprehensive analytics platform with a breadth and depth of services including Amazon Redshift, Amazon EMR, and Amazon Kinesis to solve this problem. In this session, we will discuss how to migrate your data warehousing to Amazon Redshift and achieve agility and faster time to insight while reducing costs.",
+        "date": "2017-01-18T20:34:41Z",
+        "duration": 2353
     },
     {
         "service": "amazon_redshift",
         "videoId": "TsHyT-BrSOI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "amazon redshift",
+            "cloud data warehouse",
+            "data warehouse",
+            "data lake",
+            "concurrent queries",
+            "concurrency"
+        ],
         "title": "Managing Concurrent Workloads with Amazon Redshift",
-        "date": "2020/06/29"
+        "description": "Watch this video to learn how you can use Amazon Redshift Automatic Workload Management (Auto WLM) and Query Priorities to easily manage and prioritize workloads based on your business needs.\n\nLearn more about Amazon Redshift at - https://amzn.to/31tToRJ\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo #AmazonRedshift",
+        "date": "2020-06-29T21:14:22Z",
+        "duration": 426
     },
     {
         "service": "amazon_redshift",
         "videoId": "CYVBHA_9_zM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon Redshift",
+            "cloud data warehouse",
+            "data warehouse",
+            "lake house",
+            "data lake",
+            "spectrum",
+            "concurrency scaling"
+        ],
         "title": "Cost and usage controls for Amazon Redshift",
-        "date": "2020/05/14"
+        "description": "Learn how to monitor, define, and control your usage and associated cost for Amazon Redshift Spectrum and Concurrency Scaling features.\n\nLearn more about AWS Analytics at - https://go.aws/3btJ3H3\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonRedshift #AWSDemo",
+        "date": "2020-05-14T16:02:36Z",
+        "duration": 282
     },
     {
         "service": "amazon_redshift",
         "videoId": "uIVOx6JOkto",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Kinesis",
+            "AWS Lambda",
+            "Amazon Redshift",
+            "Okta",
+            "Amazon Simple Notification Service (SNS)",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon Kinesis Data Firehose",
+            "Apache Storm"
+        ],
         "title": "Okta: Scalable Event Processing with Kinesis, Storm, Lambda, and Redshift",
-        "date": "2017/10/04"
+        "description": "AK from Okta explains how Okta built a scalable event processing platform that handles petabytes of data per day, using Kinesis, Apache Storm, Lambda, SNS, S3, Redshift, and more. Learn how they reduced the time from event to actionable data by over 10X! Learn more at - http://amzn.to/2ymwePI.",
+        "date": "2017-10-04T17:18:47Z",
+        "duration": 372
     },
     {
         "service": "amazon_redshift",
         "videoId": "aXs9hEgJCss",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon Redshift",
+            "cloud data warehouse",
+            "data warehouse",
+            "lake house",
+            "data lake"
+        ],
         "title": "Federating Amazon Redshift Access with Microsoft Azure AD",
-        "date": "2020/05/06"
+        "description": "Learn how to implement federated log in to Amazon Redshift with Microsoft Azure Active Directory.\n\nLearn more about Amazon Redshift at https://go.aws/2WaBkJG\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-05-06T18:32:45Z",
+        "duration": 869
     },
     {
         "service": "amazon_redshift",
         "videoId": "AUgi8PvY5FY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Periscope Data",
+            "Tom O'Neill",
+            "Amazon EC2",
+            "Amazon RDS for MySQL",
+            "Amazon RDS for PostgreSQL",
+            "Amazon Redshift",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon RDS"
+        ],
         "title": "Making Every Redshift Query Valuable with Periscope Data",
-        "date": "2017/12/22"
+        "description": "On this episode of This is My Architecture, Tom O'Neill, CTO and co-founder at Periscope Data shows us how they built an data ingestion and modeling engine using the power of Amazon Redshift. With a clever caching approach, their architecture enables everyone from CEOs to data analysts to deliver interactive dashboards backed by billions of rows of data at the speed of today's business. Learn more at - http://amzn.to/2kqatVQ.",
+        "date": "2017-12-22T19:20:24Z",
+        "duration": 171
     },
     {
         "service": "amazon_redshift",
         "videoId": "J0Tw4MGnuws",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon Redshift",
+            "data lake",
+            "lake house",
+            "data warehouse",
+            "cloud data warehouse"
+        ],
         "title": "Get Started on Amazon Redshift",
-        "date": "2020/03/26"
+        "description": "Amazon Redshift is the most popular and fastest cloud data warehouse that makes it easier and cost effective for our customers to analyze all their data.\n\nLearn more about Amazon Redshift at https://go.aws/33MYtUH\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSWebinar #AmazonRedshift",
+        "date": "2020-03-26T16:21:30Z",
+        "duration": 452
     },
     {
         "service": "amazon_redshift",
         "videoId": "CGbWEkszAlQ",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Healthcare & Life Sciences",
+            "Databases",
+            "DAT311",
+            "Chris Crosbie - Amazon Web Services",
+            "Aaron Friedman - Human Longevity",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (DAT311) Large-Scale Genomic Analysis with Amazon Redshift",
-        "date": "2015/10/09"
+        "description": "Genomics analysis is one of the biggest data problems out there. With DNA sequencing finally down to an affordable cost, the current bottleneck is shifting from sequencing genomes to deriving meaning from genomes at a large scale. Learn how Human Longevity, Inc., uses Amazon Redshift to analyze thousands of whole genomes every month. Dive into their detailed architecture, including how they ingest terabytes of genomic information each day. Learn how they optimize their schema, rapidly analyzing thousands of genomes in a single query using a \"select, aggregate, annotate\" paradigm. Finally, learn best practices for using Amazon Redshift to accelerate research.",
+        "date": "2015-10-10T00:45:42Z",
+        "duration": 2767
     },
     {
         "service": "amazon_redshift",
         "videoId": "WlU3GusGqbE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon RedShift",
+            "Amazon RedShift Converting Oracle DW and Teradata Schemas",
+            "matt wood",
+            "awslaunch",
+            "announcements",
+            "santa clara launch",
+            "aws launch",
+            "aws santa clara summit",
+            "aws summit"
+        ],
         "title": "Converting Oracle DW and Teradata Schemas to Amazon Redshift",
-        "date": "2016/07/13"
+        "description": "Learn more about AWS Data Migration Services at - http://amzn.to/2a2lRnr\nAWS Schema Conversion Tool now supports conversions from Oracle Data Warehouse and Teradata to Amazon Redshift.",
+        "date": "2016-07-13T18:30:32Z",
+        "duration": 75
     },
     {
         "service": "amazon_redshift",
         "videoId": "K-Usisr0zwg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Services Deep Dive",
+            "Expert",
+            "Amazon Redshift",
+            "Big Data",
+            "Architect",
+            "Developer",
+            "Rahul Pathak",
+            "Anurag Gupta"
+        ],
         "title": "AWS re:Invent 2014 | (SDD414) Amazon Redshift Deep Dive and What's Next",
-        "date": "2014/11/14"
+        "description": "Get a look under the covers of Amazon Redshift, a fast, fully-managed, petabyte-scale data warehouse service for less than $1,000 per TB per year. Learn how Amazon Redshift uses columnar technology, optimized hardware, and massively parallel processing to deliver fast query performance on data sets ranging in size from hundreds of gigabytes to a petabyte or more. We'll also walk through techniques for optimizing performance. Finally, we'll announce new features that we've been working on over the past few months.",
+        "date": "2014-11-14T21:04:05Z",
+        "duration": 3032
     },
     {
         "service": "amazon_redshift",
         "videoId": "VXeQ8KcumGE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "aws demo",
+            "AWS Demo Video",
+            "AWS Redshift",
+            "data lake aws",
+            "Data lake",
+            "Data lake demo",
+            "Data lake export",
+            "lake house",
+            "data warehouse"
+        ],
         "title": "Amazon Redshift Data Lake Export",
-        "date": "2020/03/20"
+        "description": "With data lake export, you can now unload the result of an Amazon Redshift query to your Amazon S3 data lake as Apache Parquet, an efficient open columnar storage format for analytics. The Parquet format is up to 2x faster to unload and consumes up to 6x less storage in Amazon S3, compared to text formats.\n\nLearn more about Amazon Redshift data lake export at https://go.aws/3b6gLCG\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo #AmazonRedshift",
+        "date": "2020-03-20T18:34:58Z",
+        "duration": 298
     },
     {
         "service": "amazon_redshift",
         "videoId": "7uo0ANGXUfw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Tableau",
+            "Mixpo",
+            "visual analytics"
+        ],
         "title": "Explore Big Data Analytics with Amazon Redshift and Tableau Software",
-        "date": "2013/10/23"
+        "description": "Amazon Redshift enables customers to innovate quickly using its fully managed and immensely scalable data warehousing solution. Tableau's ability to connect directly to Redshift and leverage its massive computing power means even the most non-technical business user can quickly discover business insights with easy to use drag and drop visual analytics against mammoth data sets. Watch this webinar recording of Amazon Web Services (AWS), Mixpo and Tableau Software to learn how customers are leveraging both Tableau and AWS to tackle big data exploration projects and recognize business benefits in record time.",
+        "date": "2013-10-23T22:35:45Z",
+        "duration": 3365
     },
     {
         "service": "amazon_redshift",
         "videoId": "8aKjgPeDn3A",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Siemens Power and Gas Use Matillion ETL for Redshift from AWS Marketplace to Speed Data Analytics",
-        "date": "2018/02/22"
+        "description": "Learn more about the AWS Marketplace at - http://amzn.to/2CBWZ0i\nSiemens Power and Gas division was looking for ways to accelerate their data analytics and customer digitalization projects. After choosing Amazon Redshift, they wanted to build out the solution with best in class software. A search through AWS Marketplace led Siemens to run a free trial of Matillion ETL for Redshift, which took less than one hour to try, buy and implement within their existing AWS environments.\n\nSiemens Power and Gas continues to use AWS Marketplace to find, try and buy software that sets up in minutes and can shave weeks off of project timelines through the ease of implementing software and shortened procurement cycle.",
+        "date": "2018-02-22T18:30:16Z",
+        "duration": 270
     },
     {
         "service": "amazon_redshift",
         "videoId": "d7BCQ4YYK7Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon Redshift",
+            "cloud data warehouse",
+            "data warehouse",
+            "lake house",
+            "data lake",
+            "Amazon Sagemaker",
+            "machine learning",
+            "ML"
+        ],
         "title": "Build and Train Machine Learning Models with Amazon Redshift and Amazon SageMaker",
-        "date": "2020/05/06"
+        "description": "Learn how to build and train machine learning (ML) models with Amazon Redshift and Amazon SageMaker.\n\nLearn more about AWS Redshift at - https://go.aws/2zeGN95\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #MachineLearning #AmazonRedshift",
+        "date": "2020-05-06T21:37:54Z",
+        "duration": 943
     },
     {
         "service": "amazon_redshift",
         "videoId": "JxLpj_TnisM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Redshift",
+            "data warehouse",
+            "data",
+            "management"
+        ],
         "title": "Introducing the Amazon Redshift data warehouse",
-        "date": "2013/05/04"
+        "description": "Amazon Redshift is a fast and powerful, fully managed, petabyte-scale data warehouse service in the cloud. In this session we'll give an introduction to the service and its pricing before diving into how it delivers fast query performance on data sets ranging from hundreds of gigabytes to a petabyte or more.",
+        "date": "2013-05-04T18:22:24Z",
+        "duration": 3283
     },
     {
         "service": "amazon_redshift",
         "videoId": "eh7eERvYhJ4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Databases",
+            "DAT202",
+            "Pavan Pothukuchi",
+            "Introductory ("
+        ],
         "title": "AWS re:Invent 2016: Migrating Your Data Warehouse to Amazon Redshift (DAT202)",
-        "date": "2016/12/07"
+        "description": "Amazon Redshift is a fast, simple, cost-effective data warehousing solution, and in this session, we look at the tools and techniques you can use to migrate your existing data warehouse to Amazon Redshift. We will then present a case study on Scholastic’s migration to Amazon Redshift. Scholastic, a large 100-year-old publishing company, was running their business with older, on-premise, data warehousing and analytics solutions, which could not keep up with business needs and were expensive. Scholastic also needed to include new capabilities like streaming data and real time analytics. Scholastic migrated to Amazon Redshift, and achieved agility and faster time to insight while dramatically reducing costs. In this session, Scholastic will discuss how they achieved this, including options considered, technical architecture implemented, results, and lessons learned.",
+        "date": "2016-12-07T19:53:16Z",
+        "duration": 3459
     },
     {
         "service": "amazon_redshift",
         "videoId": "O4wAH5FQjS8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Financial Services",
+            "Expert",
+            "Amazon Redshift",
+            "Nasdaq OMX",
+            "Architect",
+            "Technical Decision Maker",
+            "Startup",
+            "IT Executive",
+            "Enterprise",
+            "Developer",
+            "Jason Timmes"
+        ],
         "title": "AWS re:Invent 2014 | (FIN401) Seismic Shift: Nasdaq's Migration to Amazon Redshift",
-        "date": "2014/11/17"
+        "description": "Jason Timmes led the migration of the primary data warehouse for Nasdaq's Transaction Services U.S. business unit (which operates Nasdaq's U.S. equity and options exchanges) from a traditional on-premises MPP database to Amazon Redshift. The project significantly reduced operational expenses. Jason, who is an Associate Vice President of Software Development at Nasdaq, describes how his team migrated a warehouse that loads approximately 7 billion rows a day into the cloud, satisfied several security and regulatory audits, optimized read and write performance, ensures high availability, and orchestrates other back-office activities that depend on the warehouse daily loads completing. Along with sharing several technical lessons learned, Jason will discuss Nasdaq's roadmap to integrating Redshift with more AWS services, as well as with more Nasdaq products, to offer even greater benefit to clients (internal and external) in the months ahead.",
+        "date": "2014-11-18T01:11:09Z",
+        "duration": 3080
     },
     {
         "service": "amazon_redshift",
         "videoId": "mQAs44MHmeY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon Redshift",
+            "Materialized Views",
+            "Data Warehouse"
+        ],
         "title": "Amazon Redshift Materialized Views",
-        "date": "2020/03/13"
+        "description": "With support for materialized views, Amazon Redshift now provides significantly faster query performance for predictable and repeated workloads such as ELT data processing and BI dashboards. Materialized Views was announced in preview at re:Invent 2019 and is now generally available.\n\nLearn more about Amazon Redshift Materialized View at https://go.aws/39PXqp8\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-03-13T22:18:11Z",
+        "duration": 280
     },
     {
         "service": "amazon_redshift",
         "videoId": "GhHXVVFju9Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "vidhya srinivasan",
+            "justin cunningham",
+            "Yelp Inc. (Venture Funded Company)",
+            "Data",
+            "Software",
+            "Amazon Redshift",
+            "Technology",
+            "System",
+            "Data Warehouse",
+            "Warehouse (Building Function)",
+            "Yelp",
+            "Data Warehouse Solution",
+            "cloud computing event"
+        ],
         "title": "AWS Summit 2015: Yelp - Building Your Data Warehouse with Amazon Redshift",
-        "date": "2015/04/10"
+        "description": "Watch Justin Cunningham from Yelp talk about how they use Amazon Redshift, the fast, fully-managed, petabyte-scale data warehouse service. Learn more: http://amzn.to/2jkzvHQ",
+        "date": "2015-04-10T21:39:00Z",
+        "duration": 3852
     },
     {
         "service": "amazon_redshift",
         "videoId": "6UEWFAtvmsY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Washington D.C.",
+            "Amazon Redshift",
+            "119693",
+            "AWS Public Sector Summit 2017"
+        ],
         "title": "Best Practices for Data Warehousing with Amazon Redshift (119693)",
-        "date": "2017/06/16"
+        "description": "Get a look under the covers: Learn tuning best practices for taking advantage of Amazon Redshift's columnar technology and parallel processing capabilities to improve your delivery of queries and improve overall database performance. This session explains how to migrate from existing data warehouses, create an optimized schema, efficiently load data, use workload management, tune your queries, and use Amazon Redshift's interleaved sorting features.You’ll then hear from a customer who has leveraged Redshift in their industry and how they have adopted many of the best practices.",
+        "date": "2017-06-16T17:43:43Z",
+        "duration": 3077
     },
     {
         "service": "amazon_redshift",
         "videoId": "gchd2sDhSuY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Redshift Spectrum",
+            "SF Summit 2017"
+        ],
         "title": "NEW LAUNCH! Intro to Amazon Redshift Spectrum: Now Query Exabytes of Data in S3",
-        "date": "2017/04/24"
+        "description": "Learn more about AWS at - http://amzn.to/2pt5V5R\n\nAmazon Redshift Spectrum is a new feature that extends Amazon Redshift’s analytics capabilities beyond the data stored in your data warehouse to also query your data in Amazon S3. You can use Amazon Redshift and your existing business intelligence tools to run SQL queries against exabytes of data, and Redshift Spectrum applies sophisticated query optimization, scaling processing across thousands of nodes so results are fast – even with large data sets and complex queries.\n\nIn this session, we will show you how you can easily start querying your data stored in Amazon S3 with Redshift Spectrum. You can run Amazon Redshift queries on Amazon S3 data on its own, or you can run queries that join together data in S3 with data already in your Redshift data warehouse. We will highlight technical details of query execution and implementation of Redshift Spectrum. We will show a live demonstration, running a query over 1 exabyte of data. We will talk about supported queries, data formats, and strategies to save cost by compressing or transforming your data into a columnar format.",
+        "date": "2017-04-24T17:29:55Z",
+        "duration": 3074
     },
     {
         "service": "amazon_redshift",
         "videoId": "RF-IywMyyMQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "redshift",
+            "webcast",
+            "webinar",
+            "DynamoDB",
+            "data"
+        ],
         "title": "AWS Webcast - Data Integration into Amazon Redshift",
-        "date": "2013/07/03"
+        "description": "Redshift is a petabyte-scale data warehouse that is a lot faster, a lot less expensive and a whole lot simpler to use. How can you get your data into Amazon Redshift? In this webinar, hear from representatives of Attunity (Amazon Redshift Partner), and AWS as they present many of the options available for data integration. Whether your data is in an on premise platform or a cloud based database like DynamoDB, we will show you how you can easily load your data in to Redshift. Reasons to attend: - Learn about best practices to efficiently integrate data into Redshift. - Attend Q&A session with Redshift experts",
+        "date": "2013-07-03T17:01:36Z",
+        "duration": 2180
     },
     {
         "service": "amazon_redshift",
         "videoId": "cU6Vvd3b94k",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Big Data & HPC",
+            "Introductory",
+            "Amazon Redshift",
+            "Websites",
+            "Web App",
+            "Scale",
+            "Business Intelligence",
+            "Business Applications",
+            "Big Data",
+            "Analytics",
+            "Nasdaq OMX",
+            "NordstromRack.com | HauteLook",
+            "Architect",
+            "Technical Decision Maker",
+            "IT Executive",
+            "Enterprise",
+            "Jason Timmes",
+            "Kevin Diamond",
+            "Rahul Pathak"
+        ],
         "title": "AWS re:Invent 2014 | (BDT206) See How Amazon Redshift Powers Business Intelligence in the Enterprise",
-        "date": "2014/11/17"
+        "description": "Take a look into how NordstromRack.com | HauteLook and Nasdaq OMX are using Amazon Redshift for data warehouse and supporting business intelligence workloads one year after they made the move to using Amazon Redshift.  We will cover why HauteLook chose Redshift, how they built the architecture, discuss what data is being stored and accessed, and overall, how that data is powering the HauteLook business.  We will also discuss how Nasdaq migrated from an on-premised data warehouse to Amazon Redshift, and how they've been able to take advantage of Redshift's array of security features such as hardware security modules (HSM), encryption, and audit-logging.",
+        "date": "2014-11-18T00:14:00Z",
+        "duration": 3214
     },
     {
         "service": "amazon_redshift",
         "videoId": "gjBKYOw2Qoo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "NTT Docomo",
+            "Akira Yamauchi",
+            "Jun Sasaki",
+            "Amazon Redshift",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon VPC",
+            "AWS Identity and Access Management (IAM)",
+            "Amazon EC2",
+            "AWS Direct Connect"
+        ],
         "title": "NTT Docomo: Secure and Scalable Data Warehouse on Redshift",
-        "date": "2018/02/28"
+        "description": "Jun from NTT DOCOMO explains how they built secure and scalable data warehouse to handle over four petabytes of data. You will learn about how to satisfy both of security and scalability by using Redshift, S3, VPC, and more. Learn more at - http://amzn.to/2FAQQVd.\n\nHost: Akira Yamauchi, Solutions Architect\nSpeakers: Jun Sasaki, Assistant Manager",
+        "date": "2018-02-28T18:20:30Z",
+        "duration": 233
     },
     {
         "service": "amazon_redshift",
         "videoId": "o7atIw2ntgw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "MAC302",
+            "Advanced (300 level)",
+            "Machine Learning Mini Con"
+        ],
         "title": "AWS re:Invent 2016: Amazon Machine Learning, Redshift, and Storage Data Lake in Real Estate (MAC302)",
-        "date": "2016/12/03"
+        "description": "The Howard Hughes Corporation partnered with 47Lining to develop a managed enterprise data lake based on Amazon S3. The purpose of the managed EDL is to fuse relevant on-premises and third-party data to enable Howard Hughes to answer its most valuable business questions. Their first analysis was a lead-scoring model that uses Amazon Machine Learning (Amazon ML) to predict propensity to purchase high-end real estate. The model is based on a combined set of public and private data sources, including all publicly recorded real estate transactions in the US for the past 35 years.  By changing their business process for identifying and qualifying leads to use the results of data-driven analytics from their managed data lake in AWS, Howard Hughes increased the number of identified qualified leads in their pipeline by over 400% and reduced the acquisition cost per lead by more than 10 times.  In this session, you will see a practical example of how to use Amazon ML to improve business results, how to architect a data lake with Amazon S3 that fuses on-premises, third-party, and public data sets, and how to train and run an Amazon ML model to attain predictive accuracy.",
+        "date": "2016-12-03T18:17:12Z",
+        "duration": 2247
     },
     {
         "service": "amazon_redshift",
         "videoId": "n1puzWLWS38",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "BDM402",
+            "Eric Ferreira",
+            "Expert (400 Level)",
+            "Big Data Mini Con"
+        ],
         "title": "AWS re:Invent 2016: Best Practices for Data Warehousing with Amazon Redshift (BDM402)",
-        "date": "2016/12/01"
+        "description": "Analyzing big data quickly and efficiently requires a data warehouse optimized to handle and scale for large datasets. Amazon Redshift is a fast, petabyte-scale data warehouse that makes it simple and cost-effective to analyze all of your data for a fraction of the cost of traditional data warehouses. In this session, we take an in-depth look at data warehousing with Amazon Redshift for big data analytics. We cover best practices to take advantage of Amazon Redshift's columnar technology and parallel processing capabilities to deliver high throughput and query performance. We also discuss how to design optimal schemas, load data efficiently, and use work load management.",
+        "date": "2016-12-01T21:27:39Z",
+        "duration": 3299
     },
     {
         "service": "amazon_redshift",
         "videoId": "taKRjPmZ2Zo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Redshift",
+            "database",
+            "webinar",
+            "AWS Analytics"
+        ],
         "title": "A Better Way to Upgrade Your Warehouse, Migrate to Amazon Redshift",
-        "date": "2018/08/31"
+        "description": "An introduction to the overall AWS Analytics portfolio, the data-centric vision and Amazon Redshift. Learn more at - https://amzn.to/2LDcZ6u.",
+        "date": "2018-08-31T16:52:58Z",
+        "duration": 2803
     },
     {
         "service": "amazon_redshift",
         "videoId": "bxfnWTiY7EM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2520aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Gaming",
+            "GAM301",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2016: How EA Leveraged Redshift & 47Lining to Gather Player Insights (GAM301)",
-        "date": "2016/11/29"
+        "description": "In November 2015, Capital Games launched a mobile game accompanying a major feature film release. The back end of the game is hosted in AWS and uses big data services like Amazon Kinesis, Amazon EC2, Amazon S3, Amazon Redshift, and AWS Data Pipeline. Capital Games will describe some of their challenges on their initial setup and usage of Amazon Redshift and Amazon EMR. They will then go over their engagement with AWS Partner 47lining and talk about specific best practices regarding solution architecture, data transformation pipelines, and system maintenance using AWS big data services. Attendees of this session should expect a candid view of the process to implementing a big data solution. From problem statement identification to visualizing data, with an in-depth look at the technical challenges and hurdles along the way.",
+        "date": "2016-11-30T05:25:08Z",
+        "duration": 3120
     },
     {
         "service": "amazon_redshift",
         "videoId": "CRcRS3qos-A",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Quicksight"
+        ],
         "title": "Accessing Amazon Redshift Data from Amazon Quicksight",
-        "date": "2017/05/01"
+        "description": "Accessing Amazon Redshift Data from Amazon Quicksight.\n\nLearn more about Amazon Quicksight at - http://amzn.to/2pmj53K.",
+        "date": "2017-05-01T17:34:56Z",
+        "duration": 113
     },
     {
         "service": "amazon_redshift",
         "videoId": "c0OriHUOB_Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Advertising Technology",
+            "Expert",
+            "Big Data",
+            "Amazon S3",
+            "Amazon Redshift",
+            "Amazon Elastic MapReduce",
+            "NeuStar",
+            "Architect",
+            "Startup",
+            "Developer",
+            "Timon Karnezos",
+            "Vidhya Srinivasan"
+        ],
         "title": "AWS re:Invent 2014 | (ADV403) Ad Performance Reporting w/ Redshift: Data Science, Queries at Scale",
-        "date": "2014/11/14"
+        "description": "Delivering deep insight on advertising metrics and providing customers easy data access becomes a challenge as scale increases. In this session, Neustar, a global provider of real-time analytics, shows how they use Redshift to help advertisers and agencies reach the highest-performing customers using data science at scale. Neustar dives into the queries they use to determine how best to target ads based on their real reach, how much to pay for ads using multi-touch attribution, and how frequently to show ads. Finally, Neustar discusses how they operate a fleet of Redshift clusters to run workloads in parallel and generate daily reports on billions of events within hours. Session includes how Neustar provides daily feeds of event-level data to their customers for ad-hoc data science.",
+        "date": "2014-11-14T23:15:53Z",
+        "duration": 2892
     },
     {
         "service": "amazon_redshift",
         "videoId": "H__luEqLdDE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon EMR",
+            "Amazon Redshift",
+            "Big Data"
+        ],
         "title": "Building Big Data Applications with Amazon EMR and Amazon Redshift",
-        "date": "2016/11/18"
+        "description": "Learn more about AWS Webinars here - http://amzn.to/2fb8IL4\nBuilding big data applications often requires integrating a broad set of technologies to store, process, and analyze the increasing variety, velocity, and volume of data being collected by many organizations. In this webinar, we show how you can address many of this requirements using a combination of Amazon EMR, a managed Hadoop framework, and Amazon Redshift, a managed petabyte-scale data warehouse. We will also share best practices and common use cases to complement your data warehouse with technologies such as Amazon EMR, Apache Spark, and Presto.",
+        "date": "2016-11-18T16:57:22Z",
+        "duration": 43
     },
     {
         "service": "amazon_redshift",
         "videoId": "Jb_bN4tkkZ0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "AWS re: Invent",
+            "re: Invent Conference",
+            "Amazon Redshift",
+            "Data Warehouse"
+        ],
         "title": "AWS re: Invent DAT 103: Amazon Redshift: Amazon's New Data Warehousing Service",
-        "date": "2012/12/07"
+        "description": "Amazon Redshift is a fast and powerful, fully managed, petabyte-scale data warehouse service in the cloud. Starting today, you can sign up for an invitation to the limited preview of the service. Come to our session for an overview of the service, how it delivers fast query performance on data sets ranging from hundreds of gigabytes to a petabyte or more, and its pricing.",
+        "date": "2012-12-07T22:00:11Z",
+        "duration": 2876
     },
     {
         "service": "amazon_redshift",
         "videoId": "6umOrJX4JS0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Redshift",
+            "cloud data warehouse",
+            "data lake house",
+            "security",
+            "single sign-on",
+            "authentication"
+        ],
         "title": "Federating Amazon Redshift with PingOne Single Sign-On and Multi-Factor Authentication",
-        "date": "2020/07/24"
+        "description": "Watch this video to learn how to federate Amazon Redshift with PingOne single sign-on and multi-factor authentication to prevent unauthorized data access and free up resources from password management.\n\nLearn more about Amazon Redshift at - https://amzn.to/30B6hrs\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo #AmazonRedshift",
+        "date": "2020-07-24T21:02:30Z",
+        "duration": 734
     },
     {
         "service": "amazon_redshift",
         "videoId": "R-KS_sZRJ2w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "David Pearson",
+            "DynamoDB",
+            "Redshift",
+            "Amazon DynamoDB",
+            "Amazon Redshift",
+            "digital advertising"
+        ],
         "title": "Designing for scale - three steps to optimal data performance using DynamoDB and Redshift",
-        "date": "2013/09/20"
+        "description": "Learn how Digital Advertising customers are leveraging the integration between Amazon DynamoDB and Amazon Redshift to manage their high scale data, from creation to analysis. In this session, we will describe the three essential ingredients of efficient data flow in the cloud, and introduce a reference architecture that enables customers to meet the demands for low latency and high volume encountered in the Digital Advertising industry. Using existing SQL-based tools and business intelligence systems, you will learn how to gain deeper insight from your data at lower cost. The design principles presented here will be useful to every environment where managing data at scale is a challenge. Presented by David Pearson.",
+        "date": "2013-09-20T15:28:23Z",
+        "duration": 2642
     },
     {
         "service": "amazon_redshift",
         "videoId": "Wdvb5iYVnLg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon Redshift",
+            "cloud data warehouse",
+            "data warehouse",
+            "lake house",
+            "data lake"
+        ],
         "title": "Query Monitoring with Amazon Redshift",
-        "date": "2020/05/06"
+        "description": "Learn how to monitor, isolate, and optimize your queries using the new Query Monitoring features in Amazon Redshift. \n\nLearn more about Amazon Redshift at https://go.aws/2z1jNuh\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo #AmazonRedshift",
+        "date": "2020-05-06T18:52:04Z",
+        "duration": 502
     },
     {
         "service": "amazon_redshift",
         "videoId": "yu5w2zTZ7Lo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Informatica",
+            "Amazon Redshift",
+            "Amazon Simple Storage Service (S3)"
+        ],
         "title": "Informatica: How to Get the Most out of Amazon Redshift",
-        "date": "2017/11/23"
+        "description": "Ron from Informatica describes how customers can leverage Informatica Cloud to fully automate the process of loading data into their Amazon Redshift data warehouse, using both ETL and ELT (Extract, Load, and Transform) techniques. Ron describes how the architecture of Informatica allows customers to achieve the best possible data load and query performance, while protecting sensitive personally identifiable information (PII) through advanced data masking techniques. Learn more at - http://amzn.to/2AZFXZr.",
+        "date": "2017-11-23T19:30:48Z",
+        "duration": 378
     },
     {
         "service": "amazon_redshift",
         "videoId": "jdCMS9UQxm0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Machine Learning",
+            "matt wood",
+            "new cloud features",
+            "redshift",
+            "amazon redshift",
+            "Amazon ML"
+        ],
         "title": "Easy Machine Learning with Amazon ML and Redshift",
-        "date": "2016/05/05"
+        "description": "Learn more about Amazon Machine Learning (Amazon ML) Console at: http://amzn.to/1OeFi6h\nYou can now more easily set up or select your Identity and Access Management (IAM) role when connecting to an Amazon Redshift cluster from the Amazon Machine Learning (Amazon ML) console. To streamline the process of setting up your connection to Amazon Redshift, Amazon ML now pre-populates an interactive drop-down menu of existing IAM roles that have an Amazon ML managed policy for Amazon Redshift, and other IAM roles that you might prefer. From the Amazon ML console, you have the option of dynamically creating a new IAM role, enabling you to quickly connect to your Amazon Redshift cluster.",
+        "date": "2016-05-05T21:21:04Z",
+        "duration": 57
     },
     {
         "service": "amazon_redshift",
         "videoId": "xV2LwWK9kys",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "webinar",
+            "webcast",
+            "redshift",
+            "sql"
+        ],
         "title": "AWS Webcast - Introducing Amazon Redshift",
-        "date": "2013/06/19"
+        "description": "This webinar is aimed at older portfolio companies who may have started when AWS wasn't as strong as it is today.  Redshift is a great way to to use the cloud and bring data to the cloud where other cloud services (EMR) can consume it.",
+        "date": "2013-06-19T22:05:11Z",
+        "duration": 3707
     },
     {
         "service": "amazon_redshift",
         "videoId": "ae_oJ1m6NQM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Startups",
+            "Coinsquare",
+            "Amazon Redshift",
+            "Evelyn Wainewright"
+        ],
         "title": "Coinsquare on Building a Data Team with Redshift",
-        "date": "2018/10/08"
+        "description": "Startup Central Talks from the 2018 AWS Toronto Summit. Learn more about AWS at - https://amzn.to/2zYO7ne.\nEvelyn Wainewright, Data Scientist at Coinsquare, speaks at Startup Central Toronto on the topic of \"Building a Data Team with Redshift\".",
+        "date": "2018-10-08T18:05:30Z",
+        "duration": 1473
     },
     {
         "service": "amazon_redshift",
         "videoId": "ddRqFtfkNuA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Cognito",
+            "AWS Lambda",
+            "Amazon DynamoDB",
+            "AWS Data Pipeline",
+            "Amazon API Gateway",
+            "Slack",
+            "Amazon Redshift",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon CloudWatch",
+            "Amazon Simple Email Service (SES)",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "All Your Redshift Are Belong to Us: 47Lining’s Redshift Overlord",
-        "date": "2017/05/09"
+        "description": "On the next episode of This Is My Architecture, Bill Weiner, SVP of Operations at @47Lining, explains how they build their “Redshift Overlord” tool that coordinates bringing Redshift clusters up and down. You’ll learn how they leverage Amazon Cognito, AWS Lambda, Amazon DynamoDB, AWS Data Pipeline and even API Gateway + Slack to make it easy for users and automated processes to bring clusters up when needed.\n\nLearn more about This Is My Architecture at - http://amzn.to/2qOznUd.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2017-05-09T17:34:06Z",
+        "duration": 372
     },
     {
         "service": "amazon_redshift",
         "videoId": "Q_K3qH5OYaM",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Analytics & Big Data",
+            "ABD304",
+            "Big Data"
+        ],
         "title": "AWS re:Invent 2017: Best Practices for Data Warehousing with Amazon Redshift & Redsh (ABD304)",
-        "date": "2017/11/28"
+        "description": "Most companies are over-run with data, yet they lack critical insights to make timely and accurate business decisions. They are missing the opportunity to combine large amounts of new, unstructured big data that resides outside their data warehouse with trusted, structured data inside their data warehouse. In this session, we take an in-depth look at how modern data warehousing blends and analyzes all your data, inside and outside your data warehouse without moving the data, to give you deeper insights to run your business. We will cover best practices on how to design optimal schemas, load data efficiently, and optimize your queries to deliver high throughput and performance.",
+        "date": "2017-11-28T18:08:38Z",
+        "duration": 2984
     },
     {
         "service": "amazon_redshift",
         "videoId": "6hk0Kvjrvfo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Amazon Redshift",
+            "Data Warehouse",
+            "Columnar",
+            "Database"
+        ],
         "title": "AWS Webinar: Introduction to Amazon Redshift",
-        "date": "2013/03/22"
+        "description": "Amazon Redshift is the new data warehouse service from Amazon Web Services. Redshift offers you fast query performance when analyzing virtually any size data set using the same SQL-based tools and business intelligence applications you use today. \n\nIn this webinar, we present a detailed look at Redshift, including a live demonstration. This webinar is ideal for anyone looking to gain deeper insight into their data, without the usual challenges of time, cost and effort. Learn more: aws.amazon.com/redshift/",
+        "date": "2013-03-22T21:46:30Z",
+        "duration": 3467
     },
     {
         "service": "amazon_redshift",
         "videoId": "LUE8shv6HjY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Redshift",
+            "Amazon Redshift",
+            "2015 Summit Series AWS",
+            "AWS SUmmits 2015",
+            "AWS Summit Tel Aviv",
+            "Tel Aviv Summit 2015",
+            "AWS Israel"
+        ],
         "title": "AWS Summit Series 2015 | Tel Aviv: Amazon Redshift",
-        "date": "2015/07/31"
+        "description": "Watch the Deep-Dive Session of Amazon Redshift at the AWS Summit Tel Aviv 2015. Learn more: https://aws.amazon.com/redshift",
+        "date": "2015-07-31T21:33:55Z",
+        "duration": 2354
     },
     {
         "service": "amazon_redshift",
         "videoId": "P4KPPvEb_QI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Big Data & HPC",
+            "Advanced",
+            "Big Data",
+            "Scale",
+            "Performance",
+            "Business Intelligence",
+            "Architect",
+            "Technical Decision Maker",
+            "Public Sector",
+            "IT Executive",
+            "Enterprise",
+            "Developer",
+            "Samar Sodhi",
+            "Erik Selberg"
+        ],
         "title": "AWS re:Invent 2014 | (BDT309) Delivering Results with Amazon Redshift, One Petabyte at a Time",
-        "date": "2014/11/14"
+        "description": "The Amazon Enterprise Data Warehouse team, responsible for data warehousing across all of Amazon's divisions, spent 2014 working with Amazon Redshift on its largest datasets, including web log traffic. The key goals in this project were to provide a viable, enterprise-grade solution that enabled full scans of 2 trillion rows in under an hour at load. Key to success were automation of routine DW tasks that become complicated at scale: backfilling erroneous data, re-calculating statistics, re-sorting daily additions, and so forth. In this session, we discuss the scale and performance of a 100-node 1PB Amazon Redshift cluster, as well as describing some of the technical aspects and best practices of running 100-node clusters in an enterprise environment.",
+        "date": "2014-11-14T19:58:38Z",
+        "duration": 2745
     },
     {
         "service": "amazon_redshift",
         "videoId": "Fla9puBr4Mc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Matillion ETL",
+            "AWS Webinars",
+            "Amazon Redshift"
+        ],
         "title": "Citrix Moves Data to Amazon Redshift Fast with Matillion ETL",
-        "date": "2018/10/18"
+        "description": "Learn more about Featured Big Data Partner Solutions on AWS at - \nhttps://amzn.to/2NNpNZi.\nMatillion ETL, easily deployable from Amazon Web Services (AWS) Marketplace, helps Citrix collate and summarise data and augment it with more traditional business data from Microsoft SQL Server for additional context. Join our webinar to learn how organisations of any size can move data to the cloud quickly, accurately, and affordably with Matillion ETL.",
+        "date": "2018-10-18T19:15:16Z",
+        "duration": 3175
     },
     {
         "service": "amazon_redshift",
         "videoId": "cuJ8GIN19Fk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS webinars",
+            "big data",
+            "Matillion",
+            "Amazon Redshift"
+        ],
         "title": "Citrix Moves Data to Amazon Redshift Fast with Matillion ETL",
-        "date": "2018/06/07"
+        "description": "Learn more about the AWS Partner Webinars at - https://amzn.to/2HunFSN.\nMatillion ETL, easily deployable from Amazon Web Services (AWS) Marketplace, helps Citrix collate and summarize data and augment it with more traditional business data from Microsoft SQL Server for additional context. Join our webinar to learn how organizations of any size can move data to the cloud quickly, accurately, and affordably with Matillion ETL.\n\nJoin our webinar to learn:\n- How Citrix moved data to Amazon Redshift with speed and accuracy.\n- How to make informed, business-critical decisions by analyzing data with Amazon Redshift.\n- How to speed time-to-value for your analytics initiatives using Matillion’s push-down ELT architecture.",
+        "date": "2018-06-07T16:46:07Z",
+        "duration": 3231
     },
     {
         "service": "amazon_redshift",
         "videoId": "MS1zleTPmA0",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Analytics",
+            "ANT350-R1",
+            "Amazon Redshift"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] What's New with Amazon Redshift ft. McDonald's (ANT350-R1)",
-        "date": "2018/11/30"
+        "description": "Learn about the latest and hottest features of Amazon Redshift. We’ll deep dive into the architecture and inner workings of Amazon Redshift and discuss how the recent availability, performance, and manageability improvements we’ve made can significantly enhance your user experience. We’ll also share glimpse of what we are working on and our plans for the future. McDonald's will join us to share how they leverage a data lake powered by Redshift, Redshift spectrum and Athena to get quick insights.",
+        "date": "2018-11-30T16:34:46Z",
+        "duration": 4039
     },
     {
         "service": "amazon_redshift",
         "videoId": "b77XTfQjEkA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "data warehouse",
+            "data warehousing",
+            "Redshift",
+            "analytics"
+        ],
         "title": "OLX Leverages Amazon Redshift's Performance and Innovation for Best in Class Customer Experiences",
-        "date": "2020/02/26"
+        "description": "OLX is the largest online classifieds, serving 315 million people around the globe. They depend on the performance and continued innovation of Amazon Redshift to give analysts data in a way they can iterate and experiment with to deliver best in class customer experiences. \n\nLearn more about Amazon Redshift at https://go.aws/32a2v8L\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #AWSCustomer #AmazonRedshift",
+        "date": "2020-02-26T17:00:14Z",
+        "duration": 128
     },
     {
         "service": "amazon_redshift",
         "videoId": "GbuJRAvNWsg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013getting-started",
+            "databases",
+            "startups",
+            "redshift",
+            "data",
+            "Rahul-Pathak",
+            "DAT103",
+            "dat"
+        ],
         "title": "Introduction to Amazon Redshift and What's Next (DAT103) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "Amazon Redshift is a fast, fully-managed, petabyte-scale data warehouse service that costs less than $1,000 per terabyte per year—less than a tenth the price of most traditional data warehousing solutions. In this session, you get an overview of Amazon Redshift, including how Amazon Redshift uses columnar technology, optimized hardware, and massively parallel processing to deliver fast query performance on data sets ranging in size from hundreds of gigabytes to a petabyte or more. Finally, we announce new features that we've been working on over the past few months.",
+        "date": "2013-11-26T19:52:40Z",
+        "duration": 2175
     },
     {
         "service": "amazon_redshift",
         "videoId": "e2P7LG5mHv8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "databases",
+            "enterprise",
+            "Amazon.com",
+            "datawarehouse",
+            "redshift",
+            "Erik-Selberg",
+            "dat"
+        ],
         "title": "How Amazon.com is Leveraging Amazon Redshift (DAT306) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "Learn how Amazon's enterprise data warehouse, one of the world's largest data warehouses managing petabytes of data, is leveraging Amazon Redshift. Learn about Amazon's enterprise data warehouse best practices and solutions, and how they're using Amazon Redshift technology to handle design and scale challenges.",
+        "date": "2013-11-26T20:13:02Z",
+        "duration": 1682
     },
     {
         "service": "amazon_redshift",
         "videoId": "YBHRWfOzrTA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summits",
+            "AWS Public sector summit",
+            "2016AWSPSSummit",
+            "AWS Government summit"
+        ],
         "title": "Easy Analytics on AWS with Amazon Redshift, Amazon QuickSight, and Amazon Machine Learning",
-        "date": "2016/07/26"
+        "description": "AWS has a large and growing portfolio of big data management and analytics services, designed to be integrated into solution architectures that meet the needs of your business. In this session, we look at analytics through the eyes of a business intelligence analyst, a data scientist, and an application developer, and we explore how to quickly leverage Amazon Redshift, Amazon QuickSight, RStudio, and Amazon Machine Learning to create powerful, yet straightforward, business solutions.",
+        "date": "2016-07-08T02:28:18Z",
+        "duration": 2745
     },
     {
         "service": "amazon_redshift",
         "videoId": "58URZbp1voY",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "IT Strategy & Migration",
+            "ISM303",
+            "John Loughlin - Amazon Web Services",
+            "Yanko Bolanos - Boingo Wireless",
+            "Boingo Wireless - - Ajit Zadgaonkar",
+            "Edmunds.com Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (ISM303) Migrating Your Enterprise Data Warehouse to Amazon Redshift",
-        "date": "2015/10/09"
+        "description": "Learn how Boingo Wireless and online media provider Edmunds gained substantial business insights and saved money and time by migrating to Amazon Redshift. Get an inside look into how they accomplished their migration from on-premises solutions. Learn how they tuned their schema and queries to take full advantage of the columnar MPP architecture in Amazon Redshift, how they leveraged third party solutions, and how they met their business intelligence needs in record time.",
+        "date": "2015-10-09T23:43:11Z",
+        "duration": 3069
     },
     {
         "service": "amazon_redshift",
         "videoId": "3qmzwqnC67k",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Databases",
+            "DAT308",
+            "Tina Adams - Amazon Web Services",
+            "Adam Savitzky - Yahoo!",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (DAT308) How Yahoo! Analyzes Billions of Events a Day on Amazon Redshift",
-        "date": "2015/10/09"
+        "description": "Amazon Redshift is a fast, fully managed petabyte-scale data warehouse service that costs less than $1,000 a TB a year, under a tenth the price of most traditional data warehousing solutions. Learn how Yahoo! uses both to build a billion event a day infrastructure that is fast, easy, and cost-effective. Dive into how Yahoo performs advanced user retention and cohort analysis to make near–real time product and marketing decisions.",
+        "date": "2015-10-09T23:30:12Z",
+        "duration": 2957
     },
     {
         "service": "amazon_redshift",
         "videoId": "NTa2Hi1x6pk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "RedShift",
+            "AWS Redshift",
+            "HPC",
+            "large data analysis",
+            "cloud HPC",
+            "Amazon RedShift",
+            "JasperReports (Software)",
+            "Jaspersoft",
+            "Attunity",
+            "AWS Marketplace",
+            "AWS Partner",
+            "APN"
+        ],
         "title": "Etix Performs Complex Queries on Transactional Data Using Amazon Redshift",
-        "date": "2014/03/26"
+        "description": "Find out how Etix, an independent ticketing company, uses Amazon Redshift to perform large computations and comprehensive data analysis across 13 years of transactional data.",
+        "date": "2014-03-26T16:34:34Z",
+        "duration": 176
     },
     {
         "service": "amazon_redshift",
         "videoId": "OyHhYIUEPQ4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "BDA304",
+            "Vidhya Srinivasan",
+            "Advanced",
+            "Big Data & Analytics"
+        ],
         "title": "AWS re:Invent 2016: What’s New with Amazon Redshift (BDA304)",
-        "date": "2016/12/01"
+        "description": "In this session, you learn about the latest and hottest features of Amazon Redshift. Join Vidhya Srinivasan, General Manager of Amazon Redshift, to take a deep dive into the architecture and inner workings of Amazon Redshift. You discover how the recent availability, performance, and manageability improvements we’ve made can significantly enhance your end user experience. You also get a glimpse of what we are working on and our plans for the future.",
+        "date": "2016-12-01T23:47:14Z",
+        "duration": 2563
     },
     {
         "service": "amazon_redshift",
         "videoId": "z2LxhuL54nM",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Analytics",
+            "ANT350-R",
+            "Amazon Redshift"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT] What's New with Amazon Redshift ft. Dow Jones (ANT350-R)",
-        "date": "2018/11/29"
+        "description": "Learn about the latest and hottest features of Amazon Redshift. We’ll deep dive into the architecture and inner workings of Amazon Redshift and discuss how the recent availability, performance, and manageability improvements we’ve made can significantly enhance your user experience. We’ll also share glimpse of what we are working on and our plans for the future. Dow Jones will join us to share how they leverage a data lake powered by Redshift, Redshift spectrum and Athena to get fast time to insights.",
+        "date": "2018-11-29T18:36:54Z",
+        "duration": 2902
     }
 ]

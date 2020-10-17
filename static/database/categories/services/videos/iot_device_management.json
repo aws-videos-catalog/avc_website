@@ -2,37 +2,109 @@
     {
         "service": "iot_device_management",
         "videoId": "wCefhTWtSD4",
+        "tags": [
+            "re:Invent 2017",
+            "AWS IoT Device Management",
+            "keynote",
+            "Andy Jassy",
+            "AWS",
+            "Amazon Web Services"
+        ],
         "title": "AWS re:Invent 2017 - AWS IoT Device Management",
-        "date": "2017/12/01"
+        "description": "You can now use AWS IoT Device Management to securely onboard, organize, monitor, and remotely manage your IoT devices at scale throughout their lifecycle. Learn more at - http://amzn.to/2B0OMWO.",
+        "date": "2017-12-01T18:51:57Z",
+        "duration": 113
     },
     {
         "service": "iot_device_management",
         "videoId": "DxRfsPTwdkc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "IoT",
+            "IOT207-R",
+            "AWS IoT Device Management"
+        ],
         "title": "AWS re:Invent 2018: Managing Devices at Scale with AWS IoT Device Management, ft. Hudl (IOT207-R)",
-        "date": "2018/12/03"
+        "description": "IoT deployments often consist of thousands to millions of devices deployed across multiple locations. It is essential to have a solution to track, monitor, and manage your connected device fleets at scale. In this session, learn how AWS IoT Device Management can help you onboard, remotely manage, and monitor your connected devices. In this session, we discuss key features of AWS IoT Device Management, including fleet indexing and search, remote commands, over-the-air (OTA) updates, and device monitoring. Learn how AWS IoT Device Management can help you scale your fleets and reduce the cost and effort of managing IoT device deployments. Also, representatives from Hudl, the world leader in sports video analysis, discuss how the company is changing the recording and upload process for high schools across the country with their newest product, Hudl Focus. Complete Title: AWS re:Invent 2018: [REPEAT] Managing Connected Devices at Scale with AWS IoT Device Management, ft. Hudl (IOT207-R)",
+        "date": "2018-12-04T00:53:11Z",
+        "duration": 2801
     },
     {
         "service": "iot_device_management",
         "videoId": "Qi1FVPXDPQc",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "IoT",
+            "IOT330",
+            "Connect",
+            "Enterprise"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! AWS IoT Device Management (IOT330)",
-        "date": "2017/12/01"
+        "description": "If you have a large fleet of IoT devices join us. We will introduce you to a new service called AWS IoT Device Management. It makes it easy for OEMs, enterprises and integrators to securely manage connected devices throughout their lifecycle: from initial setup through software updates, to retirement. We will show you how customers enroll and authenticate their devices in bulk, organize their fleets, manage permissions, remotely manage and update device software, and monitor the performance of their products. Customers already using the service will show how they have used IoT Device Management to create an IoT solution spanning multiple industries and use cases",
+        "date": "2017-12-01T16:41:49Z",
+        "duration": 3360
     },
     {
         "service": "iot_device_management",
         "videoId": "iqZJIdcOyjk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "IoT",
+            "Intel",
+            "Eseye",
+            "Bsquare"
+        ],
         "title": "AWS Live Panel Discussion: Simplify Large-Scale IoT Device Management",
-        "date": "2018/07/25"
+        "description": "Learn more about the AWS Parter Webinar Series at - https://amzn.to/2OiI0z5.\nIn this panel discussion, AWS will join APN IoT Competency Partners, Bsquare (device management software and services), Eseye (global cellular connectivity), and Intel (edge-to-cloud IoT platform spanning sensors, processors, IoT gateways), and cloud infrastructure, for a conversation about the challenges and opportunities of device management. Find out how enterprises can accelerate time to business value with an integrated and fully-managed approach to their connected devices.",
+        "date": "2018-07-25T17:19:15Z",
+        "duration": 3351
     },
     {
         "service": "iot_device_management",
         "videoId": "JQFl97ZRdWA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - AWS IoT Device Management & AWS IoT Device Defender",
-        "date": "2017/12/08"
+        "description": "AWS IoT Device Management is an AWS IoT service that provides device management capabilities which makes it easy to securely onboard, organize, monitor, and remotely manage IoT devices at scale throughout their lifecycle.  Learn more at - http://amzn.to/2AdUgcL. AWS IoT Device Defender is a fully managed service that helps you secure your fleet of IoT devices. AWS IoT Device Defender continuously audits the security policies associated with your devices to make sure that they aren’t deviating from security best practices. AWS IoT Device Defender also lets you monitor devices for behavior that deviates from what you have defined as appropriate behavior for each device.\n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:36:28Z",
+        "duration": 1137
     },
     {
         "service": "iot_device_management",
         "videoId": "1MrZEYYpSrc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Chicago Summit 2018",
+            "Chicago Summit 2018",
+            "AWS IoT Core",
+            "AWS IoT Device Management",
+            "AWS IoT Device Defender",
+            "IOT"
+        ],
         "title": "AWS Chicago Summit 2018: Security Management for IoT Devices (SRV202)",
-        "date": "2018/08/16"
+        "description": "Learn more about AWS at - https://amzn.to/2AwQJei.\nAt AWS, security is a top priority. Join us to discuss how to use AWS IoT services, such as AWS IoT Core, AWS IoT Device Management, and AWS IoT Device Defender, to improve the security of IoT applications. We discuss IoT security best practices and cover how to manage security across IoT fleets, including monitoring and auditing of devices. Hear from AWS IoT experts, AWS customer Rachio, and AWS partner Eseye on their experience in securing devices.",
+        "date": "2018-08-16T18:33:10Z",
+        "duration": 2458
     }
 ]

@@ -2,571 +2,1889 @@
     {
         "service": "amazon_sumerian",
         "videoId": "KaW9D_rHhIc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "Augmented realiity",
+            "virtual reality",
+            "VR",
+            "mixed reality",
+            "immersive experiences"
+        ],
         "title": "Creating AR/VR Experiences | Ep 1: Intro to Amazon Sumerian",
-        "date": "2018/05/03"
+        "description": "To see all upcoming episodes and past broadcasts, visit - https://amzn.to/2rinFAm.\nTo learn more about Amazon Sumerian, visit https://amzn.to/2Iio8fk.\nConsumers are desiring more immersive experiences, but developing such experiences can be challenging and costly. Amazon Sumerian is designed to strip away this complexity by making it easier, faster, and less expensive to develop and deploy AR, VR, and 3D applications. This tutorial provides an overview of the Sumerian interface and editor through the creation of a basic scene.",
+        "date": "2018-05-03T23:02:58Z",
+        "duration": 4240
     },
     {
         "service": "amazon_sumerian",
         "videoId": "4EfQ5wH5tTY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "transform",
+            "assets",
+            "entities"
+        ],
         "title": "Amazon Sumerian - Getting Started 02: Sumerian Basics - Creating a TV Room",
-        "date": "2018/05/31"
+        "description": "This video tutorial covers the basics of adding entities, objects, and assets to an Amazon Sumerian scene. You will learn how to place objects in a scene, adjust transform values, and customize light settings. Learn more at - https://amzn.to/2kCa5ns.",
+        "date": "2018-05-31T17:30:49Z",
+        "duration": 2999
     },
     {
         "service": "amazon_sumerian",
         "videoId": "5n3arQSzo6g",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian"
+        ],
         "title": "Build with Amazon Sumerian: Using the Sumerian Product Configurator",
-        "date": "2019/07/18"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we welcome back Jeremiah Habets, Creative Director with Amazon Sumerian. Jeremiah will be demonstrating how to use a recently released Sumerian template, the Product Configurator. The Product Configurator is a template available to all Sumerian users that allows developers to create virtual product showcases with configuration capabilities that allows end customers to design and configure a customizable product.\n\nAmazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage as well as Android and iOS mobile devices.",
+        "date": "2019-07-18T23:14:56Z",
+        "duration": 1651
     },
     {
         "service": "amazon_sumerian",
         "videoId": "dnZbtPNeZTo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build with Amazon Sumerian | S3 E17 – Virtual Banking Assistant using Amazon Sumerian and Amazon Lex",
-        "date": "2019/06/19"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we welcome Saira Shaik, a Sr. Tech Consultant in Bangalore, India! Saira has created a virtual banking assistant, using Sumerian Hosts. With Amazon Lex providing the chat bot capabilities, users can talk with the assistant, make payments, transfer funds, check account balances. Amazon Rekognition is used for user verification, while Amazon Translate is used to translate the Amazon Lex response to a user-selected language. This application also uses AWS Lambda, Amazon DynamoDB, Amazon S3, Amazon Polly, Amazon SES, and AWS Cognito.\n\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/live-video/\nMusic from Jukedeck: create your own at http://jukedeck.com",
+        "date": "2019-06-19T23:19:04Z",
+        "duration": 3140
     },
     {
         "service": "amazon_sumerian",
         "videoId": "LxPo9zerrQI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build with Amazon Sumerian | S3 E8 – Integrating AWS Services - Lex, Lambda, & DynamoDB",
-        "date": "2019/02/27"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we welcome AWS Solutions Architect, Luis Lopez Soria, as he teaches how to integrate Amazon services into Amazon Sumerian. Viewers will learn how to create an end-to-end implementation of a voice controlled Sumerian scene with various types of entities (Host, HTML, Basic figures).\n\nAmazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage as well as Android and iOS mobile devices.\n\nFor Sumerian CTA links:\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\n\nJoin the Sumerian Slack: https://amazonsumerian.slack.com/join/shared_invite/enQtMjk4MTE2MTMxMzQ4LTliMjM2ZTQ4NDRjZjZkOTAxMzc4OTEyZGI2YzJiZjczNmUxMjM2NGQ0ZGZlNTRkMjI1NGE0MTdkYzZmYzJlNDI\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings/\n\nMusic from Jukedeck: create your own at http://jukedeck.com (http://jukedeck.com/)",
+        "date": "2019-02-27T22:52:46Z",
+        "duration": 3356
     },
     {
         "service": "amazon_sumerian",
         "videoId": "oIrSCXswUBg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "lex",
+            "chatbot",
+            "dialogue",
+            "conversation"
+        ],
         "title": "Amazon Sumerian: Building a Chatbot Using A Sumerian Host and Amazon Lex",
-        "date": "2018/06/11"
+        "description": "Amazon Sumerian allows you to use integrate Amazon Lex and Amazon Polly to create conversational Hosts. Learn more about Amazon Sumerian at - https://amzn.to/2l55P0e.",
+        "date": "2018-06-11T18:56:38Z",
+        "duration": 97
     },
     {
         "service": "amazon_sumerian",
         "videoId": "P7xF-5jbK9Y",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "virtual reality",
+            "augmented reality",
+            "mixed reality",
+            "amazon sumerian",
+            "AR",
+            "VR"
+        ],
         "title": "Amazon Sumerian | Ep 5: Creating an Interactive Digital Signage Experience",
-        "date": "2018/05/30"
+        "description": "Amazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Rift, and HTC Vive as well as Android and iOS mobile devices. Learn more about Amazon Sumerian at https://amzn.to/2srEAQMand join the Slack channel at http://slack.sumerian.world/.\n\nIn this fifth episode of the Sumerian Tutorial series, we will bring it all together to create a digital signage experience. Aiko Nakano, Design Technologist for Amazon Sumerian, shows us how to incorporate Amazon Lex and Rekognition to build a digital concierge using a chatbot and facial recognition.",
+        "date": "2018-05-31T00:32:13Z",
+        "duration": 3464
     },
     {
         "service": "amazon_sumerian",
         "videoId": "ao2x3sLdXOs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build with Amazon Sumerian | S3 E12 – Educational Escape Room",
-        "date": "2019/04/12"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we are excited to invite recent hackathon winner, Enrique Cachafeiro. Enrique is an educator at Duke University with a focus on VR development and training. His submission, \"Room of Keys\", is a VR based biology education experience that challenges users to be observant and unlock information about enzymes, then use that information to solve puzzles and challenges on the way to escaping the room. Check out the full submission: https://devpost.com/software/keys-and-locks-a-lesson-on-enzymes\n\nFor Sumerian CTA links:\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\nJoin the Sumerian Slack: https://amazonsumerian.slack.com/join/shared_invite/enQtMjk4MTE2MTMxMzQ4LTliMjM2ZTQ4NDRjZjZkOTAxMzc4OTEyZGI2YzJiZjczNmUxMjM2NGQ0ZGZlNTRkMjI1NGE0MTdkYzZmYzJlNDI\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings/\nMusic from Jukedeck: create your own at http://jukedeck.com (http://jukedeck.com/)",
+        "date": "2019-04-12T17:22:07Z",
+        "duration": 3352
     },
     {
         "service": "amazon_sumerian",
         "videoId": "Tqm8Ge-Md9U",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "camera",
+            "light"
+        ],
         "title": "Amazon Sumerian - Getting Started 03: Add Streaming Video",
-        "date": "2018/05/30"
+        "description": "This video tutorial shows you how to add streaming video to an Amazon Sumerian scene. You will learn how to use the HTML3D component, embed an online streaming video, and use the State Machine to create a channel changer. Learn more at - https://amzn.to/2sizTcA.",
+        "date": "2018-05-30T18:52:29Z",
+        "duration": 1662
     },
     {
         "service": "amazon_sumerian",
         "videoId": "CMIXNu66fxs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "sumerian",
+            "amazon web services",
+            "augmented reality",
+            "virtual reality",
+            "AR",
+            "VR",
+            "AR/VR",
+            "Amazon Sumerian"
+        ],
         "title": "Introducing Amazon Sumerian Hosts",
-        "date": "2017/11/27"
+        "description": "Learn more about Amazon Sumerian here - http://amzn.to/2hXqdyQ\nAmazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Rift, HTC Vive, and mobile devices.\n\nSumerian Hosts is a feature that makes it easy to create and add animated 3D characters called Hosts. Hosts can guide your users through a scene by narrating scripts or answering questions. You can customize the Host’s characteristics such as gender, voice, and language. Using Sumerian’s integration with Amazon Lex and Amazon Polly, you can enable engaging spoken interactions between Hosts and your users. Polly lets you input text which your Host can speak in lifelike voices cross a variety of languages. Using Lex’s automatic speech recognition and natural language understanding capabilities, you can build the conversational interface for your Host that allows it to understand and respond to users’ speech. For example, you could build a trainer Host that onboards and trains new employees. When employees ask the Host questions, the Host could respond with an answer or a question requesting more information about the inquiry.",
+        "date": "2017-11-27T16:26:27Z",
+        "duration": 69
     },
     {
         "service": "amazon_sumerian",
         "videoId": "D8OTzUZzq7s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality"
+        ],
         "title": "Amazon Sumerian: Creating AR Experiences Using Amazon Sumerian",
-        "date": "2018/06/11"
+        "description": "With Amazon Sumerian, you can easily build augmented reality (AR) experiences. Watch as we quickly put an animated character into an AR application. Learn more about Amazon Sumerian at - https://amzn.to/2sWKF7X.",
+        "date": "2018-06-11T18:57:09Z",
+        "duration": 28
     },
     {
         "service": "amazon_sumerian",
         "videoId": "J3zsG0ejgO8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "camera",
+            "light"
+        ],
         "title": "Amazon Sumerian - Getting Started 01: User Interface Overview",
-        "date": "2018/05/30"
+        "description": "This video tutorial covers the basics of the Amazon Sumerian Interface. You will learn about the various panels, menus, entity and asset libraries, and the canvas. Learn more at - https://amzn.to/2sjG0xg.",
+        "date": "2018-05-30T18:52:39Z",
+        "duration": 1585
     },
     {
         "service": "amazon_sumerian",
         "videoId": "a5qkFcZs4Ro",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "assets",
+            "entities",
+            "entity",
+            "library"
+        ],
         "title": "Amazon Sumerian: How to Add Assets",
-        "date": "2018/06/05"
+        "description": "This video tutorial quickly shows you how to add assets, both primitive entities and objects from the Asset Library. Learn more at - https://amzn.to/2J6qbV4.",
+        "date": "2018-06-05T16:21:07Z",
+        "duration": 124
     },
     {
         "service": "amazon_sumerian",
         "videoId": "lSnqxsRMe20",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon Sumerian",
-        "date": "2018/11/30"
+        "description": "In this session, we discuss What's New with Amazon Sumerian - sharing information on new capabilities, expanded Host options, etc. We also share how enterprises are using Sumerian to create augmented and virtual reality experiences and will showcase the web-based mobile AR experience built in collaboration with Sony Pictures Entertainment to promote the new Spiderman movie (Into the Spider-verse). To learn more, visit our webpage: https://aws.amazon.com/sumerian/ \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:56:56Z",
+        "duration": 638
     },
     {
         "service": "amazon_sumerian",
         "videoId": "_J41HbnoiVM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Virtual Reality",
+            "Augmented Reality",
+            "Amazon Sumerian",
+            "Cloud Computing",
+            "Twitch",
+            "VR",
+            "AR"
+        ],
         "title": "Developing AR/VR Experiences with Amazon Sumerian | Ep 2: Creating an Interactive Scene",
-        "date": "2018/05/16"
+        "description": "To see all upcoming episodes and past broadcasts, visit  - https://amzn.to/2rNdxif.\nAmazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Rift, and HTC Vive as well as Android and iOS mobile devices.\n\nJoin us in this multi-part, interactive tutorial series to learn how to create AR and VR experiences with Amazon Sumerian. In the second session of our ten part series on developing immersive experiences with Amazon Sumerian, we will create an interactive 3D scene using primitive shapes and basic objects. We will learn how to import assets and objects, change their position within a scene, and create interactive behaviors using the State Machine. After learning these basic concepts, you will be able to start creating your own AR, VR, and mixed reality scenes and applications. Additional \"Getting Started\" material is available at - https://amzn.to/2IJHjz7.",
+        "date": "2018-05-16T18:28:08Z",
+        "duration": 2439
     },
     {
         "service": "amazon_sumerian",
         "videoId": "IZcrPAPaGp0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build with Amazon Sumerian | S3 E1 – Creating a Multiplayer Video Game",
-        "date": "2019/01/09"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. This week, we are joined by Lane Daughtry, Sr. Design Technologist for Amazon Sumerian. In this episode, we learn how we created \"Bash Royale\", a multiplayer video game that utilizes and integrates other services such as AWS IoT and Amazon DynamoDB.\n\nAmazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage as well as Android and iOS mobile devices.",
+        "date": "2019-01-09T23:25:15Z",
+        "duration": 4036
     },
     {
         "service": "amazon_sumerian",
         "videoId": "PEO0TpaBbPw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build with Amazon Sumerian | S3 E18 – Using Dynamic Content for Virtual Host Presentations",
-        "date": "2019/06/19"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we welcome AWS ProServe Consultants Yuval Schaal and Tom Christensen. They will be showing how to onboard dynamic and custom content efficiently into Sumerian, and manipulate a Host's speech according to that content. This allows users to easily load their own materials into Sumerian while bypassing the Sumerian console. This demo will also be utilizing AWS Lambda, and Amazon S3.\n\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/live-video/\nMusic from Jukedeck: create your own at http://jukedeck.com",
+        "date": "2019-06-19T23:19:04Z",
+        "duration": 2541
     },
     {
         "service": "amazon_sumerian",
         "videoId": "xTeFBLf_lJg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build with Amazon Sumerian | S3 E5 – Creating a Multiplayer XR Web Application",
-        "date": "2019/02/06"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we have a live builders session using React components that communicate with entities in a Sumerian scene, making a multiplayer XR web application.\n\nAmazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage as well as Android and iOS mobile devices.\n\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\n\nJoin the Sumerian Slack: https://amazonsumerian.slack.com/join/shared_invite/enQtMjk4MTE2MTMxMzQ4LTliMjM2ZTQ4NDRjZjZkOTAxMzc4OTEyZGI2YzJiZjczNmUxMjM2NGQ0ZGZlNTRkMjI1NGE0MTdkYzZmYzJlNDI\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings/\n\nMusic from Jukedeck: create your own at http://jukedeck.com",
+        "date": "2019-02-06T18:35:44Z",
+        "duration": 3534
     },
     {
         "service": "amazon_sumerian",
         "videoId": "4uVLe491uKg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "concierge",
+            "facial recognition"
+        ],
         "title": "Amazon Sumerian: Using Sumerian to Create a Digital Concierge",
-        "date": "2018/06/11"
+        "description": "Amazon Sumerian allows you to use integrate Amazon Lex, Amazon Polly and Rekognition to create a digital concierge. Learn more about Amazon Sumerian at - https://amzn.to/2JEGGYb.\n\n[Music: \"Holistic Balance\" from Jukedeck, https://www.jukedeck.com/]",
+        "date": "2018-06-11T20:16:26Z",
+        "duration": 73
     },
     {
         "service": "amazon_sumerian",
         "videoId": "0eWg_jF27Kc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "camera",
+            "light",
+            "cameras & lights basics"
+        ],
         "title": "Amazon Sumerian - Getting Started 05: Cameras & Lights Basics",
-        "date": "2018/05/30"
+        "description": "This video tutorial shows you the basics of both cameras and lights within Amazon Sumerian. You learn the differences between camera and light types and how to adjust their unique properties. Learn more at - https://amzn.to/2L5D922.",
+        "date": "2018-05-30T18:52:20Z",
+        "duration": 985
     },
     {
         "service": "amazon_sumerian",
         "videoId": "-Ha54ph5dAI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "VR",
+            "AR",
+            "Virutal reality",
+            "virtual concierge",
+            "virtual host",
+            "Amazon Sumerian"
+        ],
         "title": "Engaging Customers with Virtual Hosts Using Amazon Sumerian",
-        "date": "2018/11/13"
+        "description": "Learn more about Amazon Sumerian at - https://amzn.to/2K4M1pv.\nA great customer experience implies that your brand provides an engaging and personalized experience throughout the customer journey. Are you considering a virtual host to greet customers, answer common questions and introduce your company's services and offerings? In this session, we’ll show you how Amazon Sumerian can create immersive and interactive 3D experiences by allowing you to build a scene with a Host that acts as a concierge for your customers.\n\nLevel: Intermediate",
+        "date": "2018-11-13T17:37:02Z",
+        "duration": 2754
     },
     {
         "service": "amazon_sumerian",
         "videoId": "oVSVvnu3deI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "elearning",
+            "remote classroom",
+            "education"
+        ],
         "title": "Amazon Sumerian Showcase: Virtual Classroom",
-        "date": "2018/06/15"
+        "description": "This video demonstrates the capabilities of Amazon Sumerian. Create a life-like 3D digital classroom. Scenes created in Sumerian can be used on desktop or mobile, or in Augmented Reality (AR), and Virtual Reality (VR). Learn more about Amazon Sumerian at - https://amzn.to/2HR6XgA.\n\nMusic from Jukedeck - create your own at http://jukedeck.com.",
+        "date": "2018-06-15T16:49:44Z",
+        "duration": 41
     },
     {
         "service": "amazon_sumerian",
         "videoId": "gy7Z5aoixbY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build with Amazon Sumerian | S3 E6 – Pro Tips: Importing 3D Objects",
-        "date": "2019/02/14"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this stream we're joined by Cris Fudge and Jordan Pack, 3D and character artists for Amazon Sumerian, to get professional tips from 3D artists. We cover prepping objects before import, importing and converting objects, naming conventions, best practices for adding textures, discussing differences between FBX and OBJ file formats, and of course taking questions!\n\nAmazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage as well as Android and iOS mobile devices.\n\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\n\nJoin the Sumerian Slack: https://amazonsumerian.slack.com/join/shared_invite/enQtMjk4MTE2MTMxMzQ4LTliMjM2ZTQ4NDRjZjZkOTAxMzc4OTEyZGI2YzJiZjczNmUxMjM2NGQ0ZGZlNTRkMjI1NGE0MTdkYzZmYzJlNDI\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings/\n\nMusic from Jukedeck: create your own at http://jukedeck.com",
+        "date": "2019-02-15T00:25:55Z",
+        "duration": 3283
     },
     {
         "service": "amazon_sumerian",
         "videoId": "B-t79bDNQ-4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "state machine",
+            "behavior",
+            "state",
+            "action"
+        ],
         "title": "Amazon Sumerian - Getting Started 08: State Machine Basics",
-        "date": "2018/06/22"
+        "description": "This video tutorial covers State Machine basics. In this video you will learn about how to use the State Machine editor to create behaviors for the purposes of creating interactivity within a Sumerian scene. Learn more about Amazon Sumerian at - https://amzn.to/2IfWJH9.",
+        "date": "2018-06-22T18:18:54Z",
+        "duration": 627
     },
     {
         "service": "amazon_sumerian",
         "videoId": "njoYiyIvthA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build with Amazon Sumerian | S3 E16 – Sumerian: Using Alexa Skills with Amazon Sumerian",
-        "date": "2019/05/29"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we welcome back AWS Solutions Architect, Luis Lopez Soria. Luis will be showing how to integrate Alexa Skills to both access a Sumerian scene and control behaviors. This demo will also be utilizing AWS IoT.\n\nAmazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage as well as Android and iOS mobile devices.\n\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings/\nMusic from Jukedeck: create your own at http://jukedeck.com",
+        "date": "2019-05-29T20:08:00Z",
+        "duration": 2877
     },
     {
         "service": "amazon_sumerian",
         "videoId": "Ou323YA1_V0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumeriain",
+            "Real world appolications",
+            "Jake Smeester",
+            "David Chiapperino'"
+        ],
         "title": "Amazon Sumerian - Deep Dive into Real World Applications",
-        "date": "2018/09/13"
+        "description": "Learn more about Amazon Sumerian at - https://amzn.to/2Oi5dBi.\nIn this Twitch stream, we learned how to create an automated virtual slide show presentation, presented by a Sumerian Host! We also learned how to create a custom speech and how to drive behaviors using SSML markup.",
+        "date": "2018-09-13T18:04:52Z",
+        "duration": 3637
     },
     {
         "service": "amazon_sumerian",
         "videoId": "d2H5AmZaoCQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build with Amazon Sumerian | S3 E2 – Year in Review and Updates to VR Capabilities",
-        "date": "2019/01/24"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. This week, we are joined by Kyle Roche, General Manager of Amazon Sumerian, to review the Sumerian community in 2018 and what we have to look forward to in 2019! We also jump into the Sumerian with David Chiapperino to see the latest updates with Virtual Reality.\n\nAmazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage as well as Android and iOS mobile devices.\n\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-01-24T18:30:40Z",
+        "duration": 3620
     },
     {
         "service": "amazon_sumerian",
         "videoId": "7BwIPFRFHjY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "virtual reality",
+            "augmented reality",
+            "mixed reality",
+            "Amazon Sumerian",
+            "VR",
+            "AR",
+            "3D",
+            "Oculus Go"
+        ],
         "title": "Developing AR/VR Experiences with Amazon Sumerian | Ep 6: Foundations - Customizing Your Environment",
-        "date": "2018/06/15"
+        "description": "Learn more about Amazon Sumerian at - https://amzn.to/2t19MaD.\nAmazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage as well as Android and iOS mobile devices. For example, you can build a virtual classroom that lets you train new employees around the world, or you can build a virtual environment that enables people to tour a building remotely. Sumerian makes it easy to create all the building blocks needed to build highly immersive and interactive 3D experiences including adding objects (e.g. characters, furniture, and landscape), and designing, animating, and scripting environments. Sumerian does not require specialized expertise and you can design scenes directly from your browser.",
+        "date": "2018-06-15T23:10:56Z",
+        "duration": 2509
     },
     {
         "service": "amazon_sumerian",
         "videoId": "QKeCDZWkExQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "virtual reality",
+            "augmented reality",
+            "amazon sumerian",
+            "AR",
+            "VR",
+            "3D",
+            "amazon web services"
+        ],
         "title": "Developing AR/VR Experiences with Amazon Sumerian | Ep 9: Creating an Augmented Reality Application",
-        "date": "2018/07/24"
+        "description": "Amazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. Learn more at - https://amzn.to/2v27ZlT.\n\nWith Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage as well as Android and iOS mobile devices. In this live stream we see how Amazon Sumerian can be used to create an AR application and walk through how to build and deploy an AR app both on iOS and Android.",
+        "date": "2018-07-24T16:48:37Z",
+        "duration": 2798
     },
     {
         "service": "amazon_sumerian",
         "videoId": "4uVLe491uKg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "concierge",
+            "facial recognition"
+        ],
         "title": "Amazon Sumerian: Using Sumerian to Create a Digital Concierge",
-        "date": "2018/06/11"
+        "description": "Amazon Sumerian allows you to use integrate Amazon Lex, Amazon Polly and Rekognition to create a digital concierge. Learn more about Amazon Sumerian at - https://amzn.to/2JEGGYb.\n\n[Music: \"Holistic Balance\" from Jukedeck, https://www.jukedeck.com/]",
+        "date": "2018-06-11T20:16:26Z",
+        "duration": 73
     },
     {
         "service": "amazon_sumerian",
         "videoId": "ZJUpLsamhzU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "camera",
+            "control",
+            "canvas"
+        ],
         "title": "Amazon Sumerian: How to Control the Camera",
-        "date": "2018/06/11"
+        "description": "This video tutorial quickly shows you how to control the camera in editor mode and in play mode, using a mouse and keyboard. Learn more about Amazon Sumerian - https://amzn.to/2MjPEsn.",
+        "date": "2018-06-11T18:38:16Z",
+        "duration": 222
     },
     {
         "service": "amazon_sumerian",
         "videoId": "QKeCDZWkExQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "virtual reality",
+            "augmented reality",
+            "amazon sumerian",
+            "AR",
+            "VR",
+            "3D",
+            "amazon web services"
+        ],
         "title": "Developing AR/VR Experiences with Amazon Sumerian | Ep 9: Creating an Augmented Reality Application",
-        "date": "2018/07/24"
+        "description": "Amazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. Learn more at - https://amzn.to/2v27ZlT.\n\nWith Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage as well as Android and iOS mobile devices. In this live stream we see how Amazon Sumerian can be used to create an AR application and walk through how to build and deploy an AR app both on iOS and Android.",
+        "date": "2018-07-24T16:48:37Z",
+        "duration": 2798
     },
     {
         "service": "amazon_sumerian",
         "videoId": "UxMmxBe-Bls",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "re:Invent 2017",
+            "re:Invent Launchpad",
+            "VR",
+            "virtual reality",
+            "AR",
+            "augmented reality",
+            "3D"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - Amazon Sumerian",
-        "date": "2017/12/08"
+        "description": "Amazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Rift, HTC Vive, and iOS mobile devices. Learn more at - http://amzn.to/2BAMGNJ.\n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:24:33Z",
+        "duration": 832
     },
     {
         "service": "amazon_sumerian",
         "videoId": "u5jn3V1euFI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "state machine",
+            "behavior",
+            "state",
+            "action",
+            "event",
+            "listen",
+            "emit",
+            "channel"
+        ],
         "title": "Amazon Sumerian - Getting Started 09: Event Basics",
-        "date": "2018/06/22"
+        "description": "This video tutorial covers Event basics. In this video you will learn about how to create a State Machine behavior to emit and listen to a common message, or event. This enables creators to make entities and behaviors to cross communicate. Learn more about Amazon Sumerian at - https://amzn.to/2KcgqkE.",
+        "date": "2018-06-22T18:18:51Z",
+        "duration": 567
     },
     {
         "service": "amazon_sumerian",
         "videoId": "JsfeY_3-G58",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build with Amazon Sumerian | S3 E4 – Integrating Amazon SageMaker for Reinforcement Learning",
-        "date": "2019/01/30"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we look at how to use Amazon Sumerian with Amazon SageMaker to develop reinforcement learning and machine learning.\n\nAmazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage as well as Android and iOS mobile devices.\n\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\n\nJoin the Sumerian Slack: https://amazonsumerian.slack.com/join/shared_invite/enQtMjk4MTE2MTMxMzQ4LTliMjM2ZTQ4NDRjZjZkOTAxMzc4OTEyZGI2YzJiZjczNmUxMjM2NGQ0ZGZlNTRkMjI1NGE0MTdkYzZmYzJlNDI\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings/\n\nMusic from Jukedeck: create your own at http://jukedeck.com",
+        "date": "2019-01-30T20:15:32Z",
+        "duration": 3870
     },
     {
         "service": "amazon_sumerian",
         "videoId": "gy7Z5aoixbY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build with Amazon Sumerian | S3 E6 – Pro Tips: Importing 3D Objects",
-        "date": "2019/02/14"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this stream we're joined by Cris Fudge and Jordan Pack, 3D and character artists for Amazon Sumerian, to get professional tips from 3D artists. We cover prepping objects before import, importing and converting objects, naming conventions, best practices for adding textures, discussing differences between FBX and OBJ file formats, and of course taking questions!\n\nAmazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage as well as Android and iOS mobile devices.\n\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\n\nJoin the Sumerian Slack: https://amazonsumerian.slack.com/join/shared_invite/enQtMjk4MTE2MTMxMzQ4LTliMjM2ZTQ4NDRjZjZkOTAxMzc4OTEyZGI2YzJiZjczNmUxMjM2NGQ0ZGZlNTRkMjI1NGE0MTdkYzZmYzJlNDI\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings/\n\nMusic from Jukedeck: create your own at http://jukedeck.com",
+        "date": "2019-02-15T00:25:55Z",
+        "duration": 3283
     },
     {
         "service": "amazon_sumerian",
         "videoId": "3Wtq5PucXsI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "movie theater"
+        ],
         "title": "Amazon Sumerian Showcase: Movie Theater",
-        "date": "2018/06/15"
+        "description": "This video demonstrates the capabilities of Amazon Sumerian. Create a life-like 3D movie theater. Scenes created in Sumerian can be used on desktop or mobile, or in Augmented Reality (AR), and Virtual Reality (VR). Learn more about Amazon Sumerian at - https://amzn.to/2JV3C5f.\n\nMusic from Jukedeck - create your own at http://jukedeck.com.",
+        "date": "2018-06-15T16:50:07Z",
+        "duration": 32
     },
     {
         "service": "amazon_sumerian",
         "videoId": "Snf4lexN8fg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon Sumerian Showcase: Virtual Newsroom",
-        "date": "2018/06/15"
+        "description": "This video demonstrates the capabilities of Amazon Sumerian. Create a life-like 3D digital news and broadcasting studio. Scenes created in Sumerian can be used on desktop or mobile, or in Augmented Reality (AR), and Virtual Reality (VR). Learn more about Amazon Sumerian at - https://amzn.to/2JSS0MQ.\n\nMusic from Jukedeck - create your own at http://jukedeck.com.",
+        "date": "2018-06-15T17:50:37Z",
+        "duration": 36
     },
     {
         "service": "amazon_sumerian",
         "videoId": "wmnyKvOXEo0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian"
+        ],
         "title": "Build with Amazon Sumerian: Understanding Physically Based Rending (PBR) & Amazon Sumerian",
-        "date": "2019/07/18"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we welcome back Yuan Sui, Software Development Engineer for Amazon Sumerian. Amazon Sumerian recently released the support of Physically Based Rendering (PBR) and Yuan will be here to walk us through the benefits of PBR and how to take advantage of the value it brings.\n\nAmazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage as well as Android and iOS mobile devices.",
+        "date": "2019-07-18T20:26:51Z",
+        "duration": 1667
     },
     {
         "service": "amazon_sumerian",
         "videoId": "uLz46loJaE0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build with Amazon Sumerian | S3 E13 – Create a Digital Asset with Sumerian & AWS IoT",
-        "date": "2019/04/19"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we welcome AWS-Solutions Architect, Chris Azer, who will join us to demonstrate how to create a \"digital asset\" using Amazon Sumerian and AWS IoT. In this demo, we will learn how to control a physical machine using a Sumerian scene, and receive notifications based on the condition of the physical device.\n\nAmazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage as well as Android and iOS mobile devices.\n\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\n\nJoin the Sumerian Slack: https://amazonsumerian.slack.com/join/shared_invite/enQtMjk4MTE2MTMxMzQ4LTliMjM2ZTQ4NDRjZjZkOTAxMzc4OTEyZGI2YzJiZjczNmUxMjM2NGQ0ZGZlNTRkMjI1NGE0MTdkYzZmYzJlNDI\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings/\n\nMusic from Jukedeck: create your own at http://jukedeck.com",
+        "date": "2019-04-19T22:01:08Z",
+        "duration": 3045
     },
     {
         "service": "amazon_sumerian",
         "videoId": "Hrb2H5Op_4E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit"
+        ],
         "title": "Building AR/VR Applications on AWS",
-        "date": "2019/06/03"
+        "description": "Learn more about AWS at – https://amzn.to/2WlFxff \nAmazon Sumerian is a browser-based authoring tool you can use to easily create and publish augmented reality, virtual reality, and immersive applications and experiences. This service targets enterprise customers with a platform-agnostic tool that enables developers and designers to build once and deploy widely to any web-connective device, such as smartphones, VR headsets, digital signage, laptops, tablets, and smart TVs. In this session, you will learn about this session and how to start building.",
+        "date": "2019-06-03T17:27:26Z",
+        "duration": 1824
     },
     {
         "service": "amazon_sumerian",
         "videoId": "_WWO2TVXG44",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build with Amazon Sumerian | S3 E10 – Virtual Barista",
-        "date": "2019/03/29"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we are excited to invite Solutions Architects Adam Strickland and Bashar Al-fallouji from Australia. Adam and Bashar recently created an application called the \"Virtual Barista\", which uses a Sumerian Host to take coffee orders and delivers them to a live barista. This project was originally showcased at re:Invent 2018 and has since been demonstrated all over the world!\n\nAmazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage as well as Android and iOS mobile devices.\n\nFor Sumerian CTA links:\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\n\nJoin the Sumerian Slack: https://amazonsumerian.slack.com/join/shared_invite/enQtMjk4MTE2MTMxMzQ4LTliMjM2ZTQ4NDRjZjZkOTAxMzc4OTEyZGI2YzJiZjczNmUxMjM2NGQ0ZGZlNTRkMjI1NGE0MTdkYzZmYzJlNDI\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings/\n\nMusic from Jukedeck: create your own at http://jukedeck.com (http://jukedeck.com/)",
+        "date": "2019-03-29T17:32:09Z",
+        "duration": 3912
     },
     {
         "service": "amazon_sumerian",
         "videoId": "aFNa6DTrfKc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "space station",
+            "particles",
+            "particle system"
+        ],
         "title": "Amazon Sumerian Showcase: Space Station",
-        "date": "2018/06/15"
+        "description": "This video demonstrates the capabilities of Amazon Sumerian. Create a life-like 3D space station. Scenes created in Sumerian can be used on desktop or mobile, or in Augmented Reality (AR), and Virtual Reality (VR). Learn more about Amazon Sumerian at - https://amzn.to/2JE2lQV.\n\nMusic from Jukedeck - create your own at http://jukedeck.com.",
+        "date": "2018-06-15T16:49:44Z",
+        "duration": 39
     },
     {
         "service": "amazon_sumerian",
         "videoId": "e6Ff7eMM0Kk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "background",
+            "opacity",
+            "color"
+        ],
         "title": "Amazon Sumerian: How to Change Background",
-        "date": "2018/06/11"
+        "description": "This video tutorial quickly shows you how to change the background color of an Amazon Sumerian scene. Learn more about Amazon Sumerian at - https://amzn.to/2JEkdHn.",
+        "date": "2018-06-11T18:54:38Z",
+        "duration": 78
     },
     {
         "service": "amazon_sumerian",
         "videoId": "SIUd6ig3650",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon",
+            "awsreinvent2017",
+            "Machine Learning",
+            "MCL340",
+            "AI",
+            "Connect"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Amazon Sumerian – A Deep Dive Behind the Scenes (MCL340)",
-        "date": "2017/12/12"
+        "description": "AWS has launched Amazon Sumerian. Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. In this session, we will dive deep into details about Sumerian so you can see what's under the hood. We will cover creating a project, using the visual state machine, connecting an Amazon Sumerian scene to AWS services, and using a Sumerian Host to add presence to your applications.",
+        "date": "2017-12-12T23:22:56Z",
+        "duration": 2205
     },
     {
         "service": "amazon_sumerian",
         "videoId": "1rudxWxfV6g",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "train car"
+        ],
         "title": "Amazon Sumerian Showcase: Riding a Train",
-        "date": "2018/06/15"
+        "description": "This video demonstrates the capabilities of Amazon Sumerian. Create a life-like 3D train car in motion! Scenes created in Sumerian can be used on desktop or mobile, or in Augmented Reality (AR), and Virtual Reality (VR). Learn more about Amazon Sumerian at - https://amzn.to/2t9WyaP.\n\nMusic from Jukedeck - create your own at http://jukedeck.com. \nVideo from https://youtu.be/3-MqzjceE9o.",
+        "date": "2018-06-15T16:49:44Z",
+        "duration": 47
     },
     {
         "service": "amazon_sumerian",
         "videoId": "2aIXWdW6POY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon Sumerian | S3 E7 – Integrating Amazon SageMaker for Reinforcement Learning, Pt II",
-        "date": "2019/02/19"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. We recently learned how to start and create a Reinforcement Learning project using Amazon SageMaker. This week, we dive deeper and learn more about the Sumerian side and how to create the visual space and the simulating environment for SageMaker.\n\nMake sure to check out part one of this demo series: https://youtu.be/JsfeY_3-G58\n\nAmazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage as well as Android and iOS mobile devices.\n\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\n\nJoin the Sumerian Slack: https://amazonsumerian.slack.com/join/shared_invite/enQtMjk4MTE2MTMxMzQ4LTliMjM2ZTQ4NDRjZjZkOTAxMzc4OTEyZGI2YzJiZjczNmUxMjM2NGQ0ZGZlNTRkMjI1NGE0MTdkYzZmYzJlNDI\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings/\n\nMusic from Jukedeck: create your own at http://jukedeck.com (http://jukedeck.com/)",
+        "date": "2019-02-19T22:32:45Z",
+        "duration": 3747
     },
     {
         "service": "amazon_sumerian",
         "videoId": "Z4jADiVMPMI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build with Amazon Sumerian | S3 E11 – Interview Simulation",
-        "date": "2019/04/05"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we are excited to invite recent hackathon winners, Kirby Shabaga and Alex Porigov. Kirby, Alex, and the rest of their team submitted a hackathon project called Prosperia. Prosperia is an interactive simulator developed to practice and prepare for job interviews. It was built in mind for people returning to the workforce after time away, recent graduates, underserved populations, and anyone who wants to build confidence and competency in interviews. Created on Sumerian, Prosperia integrates with AWS Lambda, Dynamo DB, Amazon Polly, Amazon S3, Amazon Transcribe, Amazon Elastic Transcoder, Amazon EC2, and Amazon RDS.\n\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\n\nJoin the Sumerian Slack: https://amazonsumerian.slack.com/join/shared_invite/enQtMjk4MTE2MTMxMzQ4LTliMjM2ZTQ4NDRjZjZkOTAxMzc4OTEyZGI2YzJiZjczNmUxMjM2NGQ0ZGZlNTRkMjI1NGE0MTdkYzZmYzJlNDI\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-04-05T17:29:24Z",
+        "duration": 2640
     },
     {
         "service": "amazon_sumerian",
         "videoId": "njoYiyIvthA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build with Amazon Sumerian | S3 E16 – Sumerian: Using Alexa Skills with Amazon Sumerian",
-        "date": "2019/05/29"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we welcome back AWS Solutions Architect, Luis Lopez Soria. Luis will be showing how to integrate Alexa Skills to both access a Sumerian scene and control behaviors. This demo will also be utilizing AWS IoT.\n\nAmazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage as well as Android and iOS mobile devices.\n\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings/\nMusic from Jukedeck: create your own at http://jukedeck.com",
+        "date": "2019-05-29T20:08:00Z",
+        "duration": 2877
     },
     {
         "service": "amazon_sumerian",
         "videoId": "zY-9JwwAt2M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Sumerian",
+            "Amazon",
+            "Hackathon",
+            "AR",
+            "VR",
+            "3D"
+        ],
         "title": "Build with Amazon Sumerian | S3 E9 – Reviewing the Sumerian Hackathon!",
-        "date": "2019/03/15"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we look at the winners from our recent Hackathon! We take a look at several submissions and discuss current trends and common use cases!\n\nAmazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage as well as Android and iOS mobile devices.\n\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\n\nJoin the Sumerian Slack: https://amazonsumerian.slack.com/join/shared_invite/enQtMjk4MTE2MTMxMzQ4LTliMjM2ZTQ4NDRjZjZkOTAxMzc4OTEyZGI2YzJiZjczNmUxMjM2NGQ0ZGZlNTRkMjI1NGE0MTdkYzZmYzJlNDI\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings/\n\nMusic from Jukedeck: create your own at http://jukedeck.com",
+        "date": "2019-03-15T15:57:19Z",
+        "duration": 3480
     },
     {
         "service": "amazon_sumerian",
         "videoId": "7BwIPFRFHjY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "virtual reality",
+            "augmented reality",
+            "mixed reality",
+            "Amazon Sumerian",
+            "VR",
+            "AR",
+            "3D",
+            "Oculus Go"
+        ],
         "title": "Developing AR/VR Experiences with Amazon Sumerian | Ep 6: Foundations - Customizing Your Environment",
-        "date": "2018/06/15"
+        "description": "Learn more about Amazon Sumerian at - https://amzn.to/2t19MaD.\nAmazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage as well as Android and iOS mobile devices. For example, you can build a virtual classroom that lets you train new employees around the world, or you can build a virtual environment that enables people to tour a building remotely. Sumerian makes it easy to create all the building blocks needed to build highly immersive and interactive 3D experiences including adding objects (e.g. characters, furniture, and landscape), and designing, animating, and scripting environments. Sumerian does not require specialized expertise and you can design scenes directly from your browser.",
+        "date": "2018-06-15T23:10:56Z",
+        "duration": 2509
     },
     {
         "service": "amazon_sumerian",
         "videoId": "_84sKJhHhFI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "camera",
+            "light"
+        ],
         "title": "Amazon Sumerian - Getting Started 04: Flying a Drone",
-        "date": "2018/05/30"
+        "description": "This video tutorial shows you how to create an Amazon Sumerian scene where you can fly a drone using your keyboard. You will learn about the State Machine and how to add physics using the Collider and Rigid Body components. Learn more at - https://amzn.to/2kzNyYw.",
+        "date": "2018-05-30T18:52:24Z",
+        "duration": 1335
     },
     {
         "service": "amazon_sumerian",
         "videoId": "FJadyQCLTFQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "camera",
+            "control",
+            "canvas"
+        ],
         "title": "Amazon Sumerian: How to Add a Component",
-        "date": "2018/06/11"
+        "description": "This video tutorial quickly shows you how to add a component, to an entity, from the Inspector panel. Learn more about Amazon Sumerian at - https://amzn.to/2JvDK0H",
+        "date": "2018-06-11T18:39:01Z",
+        "duration": 103
     },
     {
         "service": "amazon_sumerian",
         "videoId": "aP2MXvYjIgM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS New York Summit 2018",
+            "AWS Launchpad",
+            "Amazon Sumerian"
+        ],
         "title": "AWS NY Summit - Redefining Customer Engagement with Virtual Hosts using Amazon Sumerian",
-        "date": "2018/07/26"
+        "description": "Learn more about the AWS Twitch Channel at https://amzn.to/2NOBwqV.\nThe AWS Summit was a free event designed to bring together the cloud computing community to connect, collaborate, and learn about AWS. AWS live streamed the event with the AWS Launchpad, featuring technical discussions, announcements, demos, customer interviews and live Q&A with the Twitch community.\n\nCustomizing the look, speech and clothing of a Virtual Assistant enables customers to create brand and situation specific appearances. Such customization offers a higher level of customer engagement and adds to the realism of immersive experiences. Learn how WeatherBug, Fidelity Labs, and others are creating brand-specific virtual assistants to transform their engagement and relationship with customers. To learn more about Amazon Sumerian, please visit https://aws.amazon.com/sumerian/ and to join our developer community, please join http://slack.sumerian.world/\n\nLearn more here: https://aws.amazon.com/sumerian/ \n\nHost: \n- AM Grobelny, Sr. Technical Evangelist, AWS\nGuests: \n- Ben Moore, Lead Product Manager, Amazon Sumerian\n- Eric Johnsen, Business Development Leader, Amazon Sumerian",
+        "date": "2018-07-26T22:13:02Z",
+        "duration": 1199
     },
     {
         "service": "amazon_sumerian",
         "videoId": "IoHs_mTBo-U",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "camera"
+        ],
         "title": "Amazon Sumerian: How to Add a Camera",
-        "date": "2018/06/11"
+        "description": "This video tutorial quickly shows you the two ways to add a camera to an Amazon Sumerian scene. Learn more about Amazon Sumerian at -  https://amzn.to/2l4Owwd.",
+        "date": "2018-06-11T18:41:28Z",
+        "duration": 99
     },
     {
         "service": "amazon_sumerian",
         "videoId": "UtPyq7Oi8gk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon",
+            "awsreinvent2017",
+            "Machine Learning",
+            "MCL211",
+            "Enterprise",
+            "Mobile"
+        ],
         "title": "AWS re:Invent 2017: NEW LAUNCH! Introducing Amazon Sumerian – Build VR/AR and 3D App (MCL211)",
-        "date": "2017/12/12"
+        "description": "AWS has launched Amazon Sumerian. Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. In this session, we will introduce you to Sumerian, and how you can build highly immersive and interactive scenes for the enterprise that run on popular hardware such as Oculus Rift, HTC Vive, and iOS mobile devices.",
+        "date": "2017-12-12T23:22:56Z",
+        "duration": 2868
     },
     {
         "service": "amazon_sumerian",
         "videoId": "9GXncsWJ9fM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "augmented reality",
+            "mixed reality",
+            "virtual reality",
+            "amazon sumerian",
+            "AR/VR",
+            "3D"
+        ],
         "title": "Developing AR/VR Apps with Amazon Sumerian | Ep: 8 Foundations - Entering VR",
-        "date": "2018/06/22"
+        "description": "To catch up on past episodes and see what's coming up next on the AWS Twitch Channel, visit https://amzn.to/2MiKV99.\nAmazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Rift, and HTC Vive as well as Android and iOS mobile devices. \n\nJoin the Sumerian Slack channel at http://bit.ly/sumslku and catch up on past episodes at - https://aws.amazon.com/twitch/#Developing_AR_and_VR_Experiences",
+        "date": "2018-06-22T19:59:08Z",
+        "duration": 3916
     },
     {
         "service": "amazon_sumerian",
         "videoId": "5TdhpOJmwdA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build with Amazon Sumerian | S3 E15 – Button: A VR Escape Room",
-        "date": "2019/05/13"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we welcome DevPost Hackathon Winner, Mike Jones. Mike created a VR escape room experience called \"Button.\" In this experience, users solve puzzles and challenges, always using a button, to escape from an enclosed room. This project used no scripting or coding and was built using only Sumerian provided assets!\n\nFor Sumerian CTA links:\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\n\nJoin the Sumerian Slack: https://amazonsumerian.slack.com/join/shared_invite/enQtMjk4MTE2MTMxMzQ4LTliMjM2ZTQ4NDRjZjZkOTAxMzc4OTEyZGI2YzJiZjczNmUxMjM2NGQ0ZGZlNTRkMjI1NGE0MTdkYzZmYzJlNDI\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings/\n\nMusic from Jukedeck: create your own at http://jukedeck.com (http://jukedeck.com/)",
+        "date": "2019-05-13T18:33:30Z",
+        "duration": 2796
     },
     {
         "service": "amazon_sumerian",
         "videoId": "KDX6bKLKF7c",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "light"
+        ],
         "title": "Amazon Sumerian: How to Add a Light",
-        "date": "2018/06/11"
+        "description": "This video tutorial quickly shows you the two ways to add a light to an Amazon Sumerian scene. Learn more about Amazon Sumerian at - https://amzn.to/2sPTEbH.",
+        "date": "2018-06-11T18:40:37Z",
+        "duration": 141
     },
     {
         "service": "amazon_sumerian",
         "videoId": "CYAtEJAJkUA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "assets",
+            "entities",
+            "entity",
+            "library"
+        ],
         "title": "Amazon Sumerian: How to Edit Entity Rotation",
-        "date": "2018/06/05"
+        "description": "This video tutorial quickly shows you how to edit an entity's Rotation values in Amazon Sumerian. Learn more at - https://amzn.to/2JfD7El.",
+        "date": "2018-06-05T16:23:12Z",
+        "duration": 76
     },
     {
         "service": "amazon_sumerian",
         "videoId": "Cg6O47DnC5c",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "WeatherBug: Virtual Weatherperson in Augmented Reality, Powered by Amazon Sumerian",
-        "date": "2019/05/03"
+        "description": "Learn more about AWS for Media & Entertainment at – https://amzn.to/2PL3m9N \nFrom the 2019 NYC M&E Symposium: Join Eddie Dingels, SVP Engineering, WeatherBug to learn about how WeatherBug is driving innovation in weather forecasting and news. Participants will see how WeatherBug is creating and delivering dynamic, real-time, micro-focused news, information, and weather stories to customers using AR. Leveraging the capabilities of Amazon Sumerian and AWS, WeatherBug is transforming the traditional weather broadcast. For example, the new WeatherBug app provides rich, visually compelling data directly to users on air quality and pollen conditions using AR. Additionally, incorporating Sumerian Hosts, WeatherBug brings the value of a local weather forecaster directly to individual customers to create an unmatched 1-1 experience. See all presentations from the Symposium in the AWS Media Blog https://aws.amazon.com/blogs/media/presentations-from-the-aws-me-nyc-symposium-on-march-20-2019/\n\n• Eddie Dingels, WeatherBug, SVP Engineering",
+        "date": "2019-05-03T21:26:02Z",
+        "duration": 1285
     },
     {
         "service": "amazon_sumerian",
         "videoId": "eB6sciqS60Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build with Amazon Sumerian | S3 E14 – Interview Simulation",
-        "date": "2019/04/28"
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we are excited to invite recent hackathon winners, Kirby Shabaga and Alex Porigov. Kirby, Alex, and the rest of their team submitted a hackathon project called Prosperia. Prosperia is an interactive simulator developed to practice and prepare for job interviews. It was built in mind for people returning to the workforce after time away, recent graduates, underserved populations, and anyone who wants to build confidence and competency in interviews. Created on Sumerian, Prosperia integrates with Lambda, Dynamo DB, Amazon Polly, Amazon S3, Amazon Transcribe, Amazon Elastic Transcoder, Amazon EC2, and Amazon RDS.\n\nProsperia Video Submission: https://devpost.com/software/prosperio\n\nFor Sumerian CTA links:\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\n\nJoin the Sumerian Slack: https://amazonsumerian.slack.com/join/shared_invite/enQtMjk4MTE2MTMxMzQ4LTliMjM2ZTQ4NDRjZjZkOTAxMzc4OTEyZGI2YzJiZjczNmUxMjM2NGQ0ZGZlNTRkMjI1NGE0MTdkYzZmYzJlNDI\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nGitub: https://github.com/tankanddozer\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-04-28T10:45:09Z",
+        "duration": 3246
     },
     {
         "service": "amazon_sumerian",
         "videoId": "ILS7mwdAHzI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "virtual reality",
+            "augmented reality",
+            "mixed reality",
+            "twitch",
+            "AR/VR"
+        ],
         "title": "Developing AR/VR Apps with Amazon Sumerian | Foundations - Creating an Immersive 3D Scene",
-        "date": "2018/06/20"
+        "description": "Amazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. Visit the Twitch page to learn more  - https://amzn.to/2M2cDHc.\n \nWith Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage as well as Android and iOS mobile devices. For example, you can build a virtual classroom that lets you train new employees around the world, or you can build a virtual environment that enables people to tour a building remotely. Sumerian makes it easy to create all the building blocks needed to build highly immersive and interactive 3D experiences including adding objects (e.g. characters, furniture, and landscape), and designing, animating, and scripting environments. Sumerian does not require specialized expertise and you can design scenes directly from your browser.",
+        "date": "2018-06-20T17:35:27Z",
+        "duration": 5588
     },
     {
         "service": "amazon_sumerian",
         "videoId": "0qM-5vJGf5E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon Sumerian at AWS Loft | Getting Started: Orientation to AWS Sumerian",
-        "date": "2019/02/27"
+        "description": "This session will provide an overview of the Console and a walk-through the layout of the Amazon Sumerian IDE.\n\nLevel:100\n\nFor Sumerian CTA links:\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\n\nJoin the Sumerian Slack: https://amazonsumerian.slack.com/join/shared_invite/enQtMjk4MTE2MTMxMzQ4LTliMjM2ZTQ4NDRjZjZkOTAxMzc4OTEyZGI2YzJiZjczNmUxMjM2NGQ0ZGZlNTRkMjI1NGE0MTdkYzZmYzJlNDI\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings/",
+        "date": "2019-02-27T21:18:03Z",
+        "duration": 1973
     },
     {
         "service": "amazon_sumerian",
         "videoId": "EqDJRdrjb8s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "Machine Learning",
+            "Serverless",
+            "Cloud Computing",
+            "Containers",
+            "Augmented Reality",
+            "Virtual Reality",
+            "IoT",
+            "developers",
+            "programming",
+            "databases",
+            "analytics",
+            "AWS London Summit 2018"
+        ],
         "title": "AWS Summit - London | twitch.tv/aws | Introduction to Amazon Sumerian",
-        "date": "2018/05/17"
+        "description": "Catch up with the action from the 2018 AWS Summit in London with the AWS Launchpad, which featured technical discussions, demos and live Q&A on twitch.tv/aws. Each session covered topics such as serverless computing, machine learning, augmented reality and virtual reality, containers, databases, analytics, IoT, and more. For past recordings and to see the upcoming schedule, visit https://amzn.to/2wK0GmE.\n\nIn this session, we provide an overview to Amazon Sumerian, discuss popular use cases, and show how customers are embracing Sumerian to develop and deploy AR, VR, and 3D applications. Learn more about Amazon Sumerian here: https://aws.amazon.com/sumerian.",
+        "date": "2018-05-17T18:34:22Z",
+        "duration": 1418
     },
     {
         "service": "amazon_sumerian",
         "videoId": "ygsyEtRRH0w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon Sumerian at AWS Loft | Creating Your Scene + State Machine 101",
-        "date": "2019/02/27"
+        "description": "This session will show participants how to select templates, import assets, modify their environment, and create actions/behaviors using the state machine.\n\nLevel: 200\n\nFor Sumerian CTA links:\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\n\nJoin the Sumerian Slack: https://amazonsumerian.slack.com/join/shared_invite/enQtMjk4MTE2MTMxMzQ4LTliMjM2ZTQ4NDRjZjZkOTAxMzc4OTEyZGI2YzJiZjczNmUxMjM2NGQ0ZGZlNTRkMjI1NGE0MTdkYzZmYzJlNDI\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings/",
+        "date": "2019-02-27T21:34:23Z",
+        "duration": 2053
     },
     {
         "service": "amazon_sumerian",
         "videoId": "Li4M21v25cQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "camera",
+            "light",
+            "environment basics"
+        ],
         "title": "Amazon Sumerian - Getting Started 06: Environment Basics",
-        "date": "2018/05/30"
+        "description": "This video tutorial shows you the basics the environment within Amazon Sumerian. You learn about the environment properties such as background, fog and ambient settings, particles, and sound. Learn more at - https://amzn.to/2J1PvHU.",
+        "date": "2018-05-30T18:52:15Z",
+        "duration": 397
     },
     {
         "service": "amazon_sumerian",
         "videoId": "70T0Z1Mvflw",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "ARVR",
+            "ARV204-R1",
+            "Amazon DynamoDB",
+            "Amazon Lex",
+            "Amazon Polly",
+            "Amazon Sumerian",
+            "AWS Lambda"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] Create Immersive Experiences Using Amazon Sumerian (ARV204-R1)",
-        "date": "2018/11/28"
+        "description": "Anyone can create and publish augmented reality (AR), virtual reality (VR), and 3D applications quickly and easily with Amazon Sumerian. In this session, learn how to use Sumerian to build a scene that can be published and viewed on laptops, mobile phones, VR headsets, and digital signage. Take a tour of the Sumerian interface, and learn how to build a scene, add assets and hosts, and add behaviors to create dynamically animated objects and characters in an AR/VR experience. Also see how Sumerian integrates into AWS services such as Amazon Polly, Amazon Lex, AWS Lambda, Amazon S3, and Amazon DynamoDB.",
+        "date": "2018-11-28T18:22:27Z",
+        "duration": 3070
     },
     {
         "service": "amazon_sumerian",
         "videoId": "GU8FSNXCrDc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "editor mode",
+            "canvas",
+            "grid"
+        ],
         "title": "Amazon Sumerian: How to Toggle the Grid",
-        "date": "2018/06/11"
+        "description": "This video tutorial quickly shows you how to toggle on and off the grid that appears in the editor canvas. Learn more about Amazon Sumerian at - https://amzn.to/2JMsOLa.",
+        "date": "2018-06-11T18:39:58Z",
+        "duration": 72
     },
     {
         "service": "amazon_sumerian",
         "videoId": "70ZJB0I2ENs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "virtual reality",
+            "augmented reality",
+            "mixed reality",
+            "amazon sumerian",
+            "programming",
+            "machine learning",
+            "artificial intelligence",
+            "chatbots",
+            "AR/VR",
+            "Jake Smeester"
+        ],
         "title": "Developing AR/VR Apps with Amazon Sumerian | Ep 4 Foundations - Creating Chatbots",
-        "date": "2018/05/23"
+        "description": "Amazon Sumerian lets you create and run virtual reality (VR), augmented reality (AR), and 3D applications quickly and easily without requiring any specialized programming or 3D graphics expertise. With Sumerian, you can build highly immersive and interactive scenes that run on popular hardware such as Oculus Rift, and HTC Vive as well as Android and iOS mobile devices.\n\nJoin us in this multi-part, interactive tutorial series to learn how to create AR and VR experiences with Amazon Sumerian. Catch up on past episodes and see the upcoming schedule here  - https://amzn.to/2s5Yb8M.\n\nIn this fourth episode of the Sumerian Tutorial series, we create a virtual chatbot using Amazon Lex. Amazon Lex is a service for building conversational interfaces into any application using voice and text. Amazon Lex provides the advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to recognize the intent of the text, to enable you to build applications with highly engaging user experiences and lifelike conversational interactions. During this stream, we walk through how to interact with a Sumerian Host using both verbal and typed inputs and responses.",
+        "date": "2018-05-23T21:09:05Z",
+        "duration": 2215
     },
     {
         "service": "amazon_sumerian",
         "videoId": "lAzejAcF0rs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "gravity",
+            "physics",
+            "rigid body",
+            "collider"
+        ],
         "title": "Amazon Sumerian: How to Change Entity Color",
-        "date": "2018/06/11"
+        "description": "This video tutorial quickly shows you how to change the color or texture using the Material component. Learn more about Amazon Sumerian at - https://amzn.to/2HEqMrF.",
+        "date": "2018-06-11T20:30:20Z",
+        "duration": 132
     },
     {
         "service": "amazon_sumerian",
         "videoId": "vxCDGWLOpWc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "interface",
+            "ui"
+        ],
         "title": "Amazon Sumerian: How to Customize the User Interface",
-        "date": "2018/06/11"
+        "description": "This video tutorial quickly shows you how to customize and adjust the panels of the Amazon Sumerian user interface. Learn more about Amazon Sumerian at - https://amzn.to/2y09wNK.",
+        "date": "2018-06-11T18:43:11Z",
+        "duration": 73
     },
     {
         "service": "amazon_sumerian",
         "videoId": "-hySpCFaLbo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "assets",
+            "entities",
+            "entity",
+            "library"
+        ],
         "title": "Amazon Sumerian: How to Edit Entity Translation",
-        "date": "2018/06/05"
+        "description": "This video tutorial quickly shows you how to edit an entity's Translation values (or position) in Amazon Sumerian. Learn more at - https://amzn.to/2Hk0Elu.",
+        "date": "2018-06-05T16:22:49Z",
+        "duration": 86
     },
     {
         "service": "amazon_sumerian",
         "videoId": "En18vo3Gl9M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "assets",
+            "entities",
+            "entity",
+            "library"
+        ],
         "title": "Amazon Sumerian: How to Edit Entity Scale",
-        "date": "2018/06/05"
+        "description": "This video tutorial quickly shows you how to edit an entity's Scale values in Amazon Sumerian. Learn more at - https://amzn.to/2Hl4r1T",
+        "date": "2018-06-05T16:23:30Z",
+        "duration": 75
     },
     {
         "service": "amazon_sumerian",
         "videoId": "ksNBxMkjvag",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "camera",
+            "limits",
+            "clipping plane"
+        ],
         "title": "Amazon Sumerian: How to Change Adjust Camera Limits",
-        "date": "2018/06/11"
+        "description": "This video tutorial quickly shows you how to change the viewing limits, also known as clipping plane, of a camera inside Amazon Sumerian. Learn more about Amazon Sumerian at - https://amzn.to/2t0JaFG.",
+        "date": "2018-06-11T18:53:32Z",
+        "duration": 191
     },
     {
         "service": "amazon_sumerian",
         "videoId": "EcoMeMn2i0k",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon Sumerian at AWS Loft | Q&A + Special Guest, Mike Jones Founder/CEO BrainFizz VR",
-        "date": "2019/02/27"
+        "description": "In this session, Mike will discuss the inspiration and development of Button - one of the winning submissions to the Amazon Sumerian AR/VR Challenge.\n\nLearn more about Build with Amazon Sumerian: https://aws.amazon.com/sumerian/\n\nJoin the Sumerian Slack: https://amazonsumerian.slack.com/join/shared_invite/enQtMjk4MTE2MTMxMzQ4LTliMjM2ZTQ4NDRjZjZkOTAxMzc4OTEyZGI2YzJiZjczNmUxMjM2NGQ0ZGZlNTRkMjI1NGE0MTdkYzZmYzJlNDI\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings/",
+        "date": "2019-02-27T22:04:55Z",
+        "duration": 1323
     },
     {
         "service": "amazon_sumerian",
         "videoId": "nnIutgONYf0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon AI Conclave 2018",
+            "AI Talks",
+            "AI Thought Leadership",
+            "Artificial Intelligence Videos",
+            "Machine Learning",
+            "ML"
+        ],
         "title": "Amazon AI Conclave 2018 - Building an 3D Amazon Sumerian VR Bot by Atanu Roy & Girish Nair",
-        "date": "2019/02/04"
+        "description": "Building an 3D Amazon Sumerian VR Bot, Ripping the tech apart session by Atanu Roy, Specialist AIML Architect,Amazon and Girish Nair, Solutions Architect, Amazon\n\nAmazon AI Conclave is an event for business leaders, data scientists, engineers and developers to learn about Amazon's machine learning services and real-world use cases developed by our customers. This program helps you understand how to build smart, customer-centric, scalable solutions in the cloud and on the edge using Amazon AI, AWS IoT, Machine Learning and AWS Deep Learning.\n\nCheck out more details about the event at https://aws.amazon.com/events/ai_conclave/",
+        "date": "2019-02-04T16:20:30Z",
+        "duration": 2900
     },
     {
         "service": "amazon_sumerian",
         "videoId": "Tcaf2feGvvY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "hide",
+            "canvas"
+        ],
         "title": "Amazon Sumerian: How to Hide Entities",
-        "date": "2018/06/11"
+        "description": "This video tutorial quickly shows you how to hide entities from view in the Amazon Sumerian canvas. Learn more about Amazon Sumerian at - https://amzn.to/2y3x7x3.",
+        "date": "2018-06-11T18:43:54Z",
+        "duration": 67
     },
     {
         "service": "amazon_sumerian",
         "videoId": "sA0Wm7yOJRg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "empty",
+            "entity",
+            "nesting",
+            "grouping"
+        ],
         "title": "Amazon Sumerian: How to Add an Empty Entity",
-        "date": "2018/06/11"
+        "description": "This video tutorial quickly shows you how to add and use an empty entity for nesting and grouping purposes. Learn more about Amazon Sumerian at - https://amzn.to/2sZVyG3.",
+        "date": "2018-06-11T18:50:46Z",
+        "duration": 116
     },
     {
         "service": "amazon_sumerian",
         "videoId": "UH5r1rEz9Gg",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "GPS-Technical",
+            "GPSTEC321",
+            "Amazon Sumerian"
+        ],
         "title": "AWS re:Invent 2018: Meet Preston, and Explore Your Digital Twin in Virtual Reality (GPSTEC321)",
-        "date": "2018/11/29"
+        "description": "Take a journey with Preston, an Amazon Sumerian host, to diagnose and explore a 3D printed jet engine in virtual reality. Preston follows your commands to control and explore different parts of the engine. Preston can also show you the future state of your machine in virtual reality and provide recommendations by analyzing data collected from a physical jet turbine engine using IoT sensors. Learn how to build your own virtual assistant with Amazon AI services, AWS IoT services, and Amazon Sumerian virtual reality.",
+        "date": "2018-11-29T18:30:17Z",
+        "duration": 3007
     },
     {
         "service": "amazon_sumerian",
         "videoId": "VCSdHC034og",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "duplicate",
+            "entities"
+        ],
         "title": "Amazon Sumerian: How to Duplicate Entities",
-        "date": "2018/06/11"
+        "description": "This video tutorial quickly shows you how to duplicate entities inside the Entities panel. Learn more about Amazon Sumerian at - https://amzn.to/2sNyomT.",
+        "date": "2018-06-11T18:45:45Z",
+        "duration": 97
     },
     {
         "service": "amazon_sumerian",
         "videoId": "zquuUiGfpQE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "entity",
+            "entities",
+            "nest",
+            "group",
+            "objects"
+        ],
         "title": "Amazon Sumerian: How to Nest and Group Entities",
-        "date": "2018/06/11"
+        "description": "This video tutorial quickly shows you how to nest, or group, entities inside the Entities panel. Learn more about Amazon Sumerian at - https://amzn.to/2ybKlIv.",
+        "date": "2018-06-11T18:42:18Z",
+        "duration": 161
     },
     {
         "service": "amazon_sumerian",
         "videoId": "inpwxdu5tDE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AR",
+            "VR",
+            "augmented reality",
+            "virtual reality",
+            "Developer",
+            "chatbots",
+            "Amazon Sumerian"
+        ],
         "title": "Using Virtual Reality to Bring Your ChatBot to Life",
-        "date": "2018/11/02"
+        "description": "Register for our upcoming webinars at - https://amzn.to/2NZc9Y1.\nChatbots are most commonly used as a feature of mobile or desktop websites, where text is used for the primary interaction method. In this session we’ll explore how you can use Amazon Sumerian to create a virtual host that can be interacted with through virtual reality (VR), augmented reality (AR) or just as a digital character. This makes voice a far more natural interaction method. We’ll also look at how you can extend this bot to interact with other rich services in the AWS Cloud.",
+        "date": "2018-10-02T16:32:50Z",
+        "duration": 3653
     },
     {
         "service": "amazon_sumerian",
         "videoId": "9kpprE0wxpw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Developing AR & VR Apps - Building Enterprise Applications - Virtual Tour of the Amazon Spheres",
-        "date": "2018/10/24"
+        "description": "Learn more about Amazon Sumerian at - https://amzn.to/2z05gLE.\nIn this series, the Amazon Sumerian team look at real-world, enterprise applications and how to build them. This week, we looked at a virtual tour that takes users inside The Spheres, located in the heart of Amazon headquarters in Seattle, WA. The Spheres house 40,000 plants from the cloud forest regions of over 30 countries. Using Amazon Sumerian, we created a visually dynamic and immersive experience that enabled users to explore The Spheres and look at annotated descriptions to learn about many rare and exotic plants. The Spheres tour experience can be viewed on a laptop, digital display, mobile device, and even a virtual reality headset. We showed you how we built this experience using readily available cameras to capture 360 degree images which were collected, edited, and stitched together to create the tour experience. In addition, we will discuss the techniques used to show you how to create similar experiences on your own!",
+        "date": "2018-10-24T17:25:05Z",
+        "duration": 3569
     },
     {
         "service": "amazon_sumerian",
         "videoId": "1N-JZf-hEx4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "undo",
+            "redo"
+        ],
         "title": "Amazon Sumerian: How to Undo and Redo Actions",
-        "date": "2018/06/11"
+        "description": "This video tutorial quickly shows you how to undo and redo actions when editing Amazon Sumerian. Learn more about Amazon Sumerian at - https://amzn.to/2MjAmU9.",
+        "date": "2018-06-11T18:47:39Z",
+        "duration": 68
     },
     {
         "service": "amazon_sumerian",
         "videoId": "eleIMDzWdK4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Sumerian",
+            "AR",
+            "VR",
+            "virtual reality",
+            "augmented reality",
+            "entity",
+            "name"
+        ],
         "title": "Amazon Sumerian: How to Change Entity Names",
-        "date": "2018/06/11"
+        "description": "This video tutorial quickly shows you how to change the name of an entity as it appears in the Entities panel. Learn more at Amazon Sumerian at - https://amzn.to/2sYSidV.",
+        "date": "2018-06-11T18:37:38Z",
+        "duration": 64
     },
     {
         "service": "amazon_sumerian",
         "videoId": "91VXDCdlqsg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Build On AWS: The Virtual Reality Shopping Experience",
-        "date": "2018/11/26"
+        "description": "Learn more at - https://amzn.to/2AiITlc.\nA solution based on image recognition to recognize the objects in shelves. This prototype helps in identifying products in shelves in the real time based on the Artificial intelligence based  Image Recognition, Natural Language Understanding, sensors & AR/VR AWS technologies. It helps identify when the shelves are empty, when there are products stored in wrong shelves and alerts the store manager.\nFor the shoppers, it can help navigate and locate products in stores, saving time and stress.\n\nFor store managers, it helps identify the shelf status. Powered by Amazon Machine Learning, to predict which product is likely to run out based on ML models trained to predict the stock levels in stores.",
+        "date": "2018-11-26T18:50:12Z",
+        "duration": 122
     },
     {
         "service": "amazon_sumerian",
         "videoId": "1gA6OIX7f-c",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AR",
+            "VR",
+            "artificial intelligence",
+            "virtual reality",
+            "Amazon Sumerian",
+            "ThingLogix"
+        ],
         "title": "Developing AR & VR Apps | Building Enterprise Applications with ThingLogix",
-        "date": "2018/09/13"
+        "description": "Learn more about Amazon Sumerian at - https://amzn.to/2MmB41X.\nIn this Twitch stream, learn how to ThingLogix used Amazon Sumerian and AWS IoT to create an interactive scene using a Sumerian Host.\n\nHow to Communicate with Amazon Sumerian via AWS IoT:  https://medium.com/@samrastovich/how-to-communicate-with-amazon-sumerian-via-aws-iot-c89b3a25fd",
+        "date": "2018-09-13T17:11:44Z",
+        "duration": 3223
     },
     {
         "service": "amazon_sumerian",
         "videoId": "stir2DZqKwU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Getting Started with AR and VR",
-        "date": "2018/12/12"
+        "description": "Introduction to AR and VR using Amazon Sumerian",
+        "date": "2018-12-12T19:59:54Z",
+        "duration": 301
     },
     {
         "service": "amazon_sumerian",
         "videoId": "c35KBrQg2Ls",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "TWITCH",
+            "Sumerian",
+            "aws",
+            "amazon web services",
+            "3d",
+            "ar",
+            "vr",
+            "augmented reality",
+            "virtual reality",
+            "immersive apps",
+            "hackathon",
+            "global challenge",
+            "Amplify",
+            "Sumerian Hosts"
+        ],
         "title": "Developing AR & VR Experiences - New Features & $100,000 Hackathon Challenge",
-        "date": "2018/10/11"
+        "description": "Learn more about Amazon Sumerian at - https://amzn.to/2pPWA6o.\nIn this Twitch stream, learn about three new announcements from the Sumerian team: Integration with AWS Amplify to enable private publishing and monetization, release of a 4th Sumerian Host, and launch of a $100,000+ global AR/VR hackathon challenge.",
+        "date": "2018-10-11T17:06:25Z",
+        "duration": 3577
     },
     {
         "service": "amazon_sumerian",
         "videoId": "MIAK9_PCxn0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Now You See It, Now You Don't: Augmented Reality (AR) and Virtual Reality (VR) in Public Sector",
-        "date": "2018/07/02"
+        "description": "AWS Public Sector Summit 2018 - Washington, D.C.\n\nAugmented Reality (AR) and Virtual Reality (VR) based solutions offer a promising future in public sector, whether for enhancing citizen engagement and e-services, distance learning and simulated training, interacting with data in innovative ways, to name a few. However, building these solutions forces organizations to make hard choices on hardware and technology platforms that they can support. That is until now! Amazon Sumerian lets anyone create and run AR, VR, and 3D applications quickly and easily without requiring specialized programming or 3D graphics expertise. In this session, participants learn how to use Sumerian to build a scene that is viewable on laptops, mobile phones, VR headsets, and digital signage. We will also demonstrate how to manipulate assets and add behaviors to create dynamically animated objects and characters in an AR/VR experience. Finally, we will cover how Sumerian integrates into AWS services such as Amazon Polly, Amazon Lex, AWS Lambda, Amazon S3, and Amazon DynamoDB.\n\nSpeakers: Taylor Carol, Len Henry",
+        "date": "2018-07-02T17:58:58Z",
+        "duration": 1657
     },
     {
         "service": "amazon_sumerian",
         "videoId": "JC3YitPgl7E",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ARV203",
+            "AR/VR",
+            "AWS IoT Core",
+            "Amazon Sumerian",
+            "Amazon DynamoDB",
+            "AWS IoT Greengrass"
+        ],
         "title": "AWS re:Invent 2019: Create digital twins using AWS IoT Core and Amazon Sumerian (ARV203)",
-        "date": "2019/12/05"
+        "description": "Smart manufacturing is just the beginning. The increase in IoT devices, combined with the rise in AR/VR technology, is increasing the use of digital twins. This enables real-time data visualization through virtual representations of machines and equipment to more effectively and expertly solve real-time problems or support training applications. In this session, learn how to create a digital twin that can be deployed over the web to desktops, laptops, mobile devices, and head-mounted devices.",
+        "date": "2019-12-05T17:48:08Z",
+        "duration": 3103
     },
     {
         "service": "amazon_sumerian",
         "videoId": "pS0lvm6Aky0",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ARV204-R1",
+            "AR/VR",
+            "Amazon CloudFront",
+            "Not Applicable",
+            "Amazon Sumerian",
+            "Amazon S3"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Create augmented reality experiences with AWS (ARV204-R1)",
-        "date": "2019/12/10"
+        "description": "Creating and delivering augmented reality (AR) experiences haven't always been easy, until now. Amazon Sumerian's browser-based authoring and publishing removes the undifferentiated heavy lifting associated with launching AR apps. You no longer need to provision AR devices, download and update SDKs, build and deploy apps for testing, configure and maintain a content distribution network, or deal with the friction of app stores. In this session, we show you how to create an AR experience with Amazon Sumerian, integrate it with other AWS services, and deliver it in minutes to users around the world via a simple browser URL.",
+        "date": "2019-12-10T18:48:33Z",
+        "duration": 3167
     },
     {
         "service": "amazon_sumerian",
         "videoId": "y_Fjw9V3Cm8",
-        "title": "AWS Summit Online ASEAN 2020 | Easily Create and Run Browser-based 3d AR Applications",
-        "date": "2020/08/28"
+        "tags": [
+            "Indrajit",
+            "AWS",
+            "Media Analytics",
+            "AI/ML",
+            "Cloud Computing",
+            "Ghosalkar",
+            "AWS Summit Online ASEAN re:Cap",
+            "Amazon Web Services",
+            "Machine Learning",
+            "Artificial Intelligence",
+            "ML",
+            "SAP"
+        ],
+        "title": "AWS Summit Online ASEAN 2020 | Easily Create and Run Browser-based 3d AR Applications",
+        "description": "In this session, learn how to bring a new dimension to your web and mobile applications with Amazon Sumerian. Discover how to build 3D immersive experiences that breathe new life into the user experience on the web, increase customer engagement with brands, and improve productivity in the workplace. Discover how, through a web-based platform, your immersive experiences are accessible via a simple browser URL and can run on popular hardware for AR/VR.\n\nAWS Speaker: Wei Shen Toh, Solutions Architect, Singapore, AWS\n\nDownload the slides: https://go.aws/2z3darp\n\nLearn more about AWS at - https://amzn.to/3kWcR4O\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
+        "date": "2020-08-28T17:59:50Z",
+        "duration": 1300
     },
     {
         "service": "amazon_sumerian",
         "videoId": "zSIXp0OAFrg",
+        "tags": [
+            "Cloud Computing",
+            "Amazon Web Services",
+            "Microservices",
+            "AWS",
+            "Sharma",
+            "Anshul",
+            "AWS Summit Online ASEAN re:Cap"
+        ],
         "title": "AWS Summit Online ASEAN 2020 | The Art of the Possible: Amazon Connect Customer Service Experience",
-        "date": "2020/08/28"
+        "description": "In this session, learn about the AWS competencies and the AWS practice of incorporating multiple customer channels over voice, text, chatbot, telephony, Amazon Sumerian, analytics, AI, and Amazon Personalize, all on one platform to better understand customers as they engage and personalise their experiences.\n\nAWS Speakers: Paul Chen, Head of SA, ASEAN, AWS & Lili Chan, Sr. Specialist Solutions Architect - Connect, ASEAN, AWS\n\nDownload the slides: https://go.aws/3de5Wzr\n\nLearn more about AWS at - https://amzn.to/3kTKR24\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
+        "date": "2020-08-28T18:03:05Z",
+        "duration": 2082
     }
 ]

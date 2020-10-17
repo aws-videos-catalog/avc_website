@@ -2,121 +2,428 @@
     {
         "service": "simple_queue_service",
         "videoId": "XrX7rb6M3jw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Simple Queue Service",
+            "FIFO Queues",
+            "SQS",
+            "messaging"
+        ],
         "title": "Introducing Amazon Simple Queue Service (SQS) FIFO Queues – Messaging on AWS",
-        "date": "2017/06/14"
+        "description": "Learn more about Amazon Simple Queue Service at - http://amzn.to/2sJFhmY.\nAmazon Simple Queue Service (SQS) fully managed message queues make it easy to decouple and scale microservices, distributed systems, and serverless applications.",
+        "date": "2017-06-14T20:58:11Z",
+        "duration": 125
     },
     {
         "service": "simple_queue_service",
         "videoId": "c_WNBmEc6EE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Experian",
+            "Danny Perschonok",
+            "Matt Yanchyshyn",
+            "Amazon EC2",
+            "Amazon Elastic Container Service (ECS)",
+            "Amazon Simple Queue Service (SQS)",
+            "Amazon Simple Notification Service (SNS)",
+            "Amazon DynamoDB"
+        ],
         "title": "Experian: Event-Driven Pub-Sub with SNS and SQS",
-        "date": "2018/02/19"
+        "description": "On the next This Is My Architecture (http://amzn.to/2EhLXib), Danny from Experian explains how they moved from a monolithic architecture on-premises, to an event-driven microservices system in the cloud. You'll learn about how they use ECS, SNS, SQS and DynamoDB to power their next-generation architecture. You'll also hear how they underwent a cultural change to match the tech, by breaking their teams up into smaller groups, each responsible for a set of microservices, leading to easier deployments, reduced dependencies, and faster development.\n\nHost: Matt Yanchyshyn, Director Solutions Architecture\nSpeakers: Danny Perschonok, Solutions Architect and Engineering Manager",
+        "date": "2018-02-19T19:00:23Z",
+        "duration": 371
     },
     {
         "service": "simple_queue_service",
         "videoId": "YwHxvKhBQ_g",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Application Integration",
+            "API306",
+            "AWS Lambda"
+        ],
         "title": "AWS re:Invent 2018: Build High-Throughput, Bursty Data Apps with Amazon SQS, SNS, & Lambda (API306)",
-        "date": "2018/11/29"
+        "description": "In this session, we discuss best practices for building serverless applications that handle high throughput and bursty data using Amazon SQS, Amazon SNS, and AWS Lambda, including new features such as message filtering and SNS/SQS as event sources for Lambda will be covered in depth. Hear from our customers Enel and Letgo as they share their experiences and deployment strategies. Enel is a multinational energy company that is present in 34 countries across 5 continents, and serves nearly 71 million end-users. The company uses AWS as its platform for IoT and energy management. Letgo is one of the largest and fastest-growing apps to buy and sell locally, with over 100 million downloads and hundreds of millions of listings. Letgo uses AWS to process their online marketplace transactions.",
+        "date": "2018-11-29T18:31:26Z",
+        "duration": 3282
     },
     {
         "service": "simple_queue_service",
         "videoId": "aOY6YCpcjz8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Queue",
+            "Micro-service",
+            "Message",
+            "Dead-letter",
+            "Amazon EC2",
+            "Amazon Simple Queue Service (SQS)",
+            "This is My Architecture",
+            "TMA"
+        ],
         "title": "HubSpot: Task Queueing System Built on top of Amazon SQS",
-        "date": "2019/12/02"
+        "description": "HubSpot discusses how they built a task queueing system built on top of Amazon SQS, for delivering retries, high availability, dead-letter management, message tracing, and more. HubSpot leverages this task queueing to support 450+ micro services, delivering features ranging from email delivery, to automated marketing workflows, or even automatic impaired host replacements.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-12-02T16:55:52Z",
+        "duration": 374
     },
     {
         "service": "simple_queue_service",
         "videoId": "Mw1NVpJsOZc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Simple Queue Service (SQS)",
+            "SQS"
+        ],
         "title": "Introducing Amazon Simple Queue Service (SQS) Server-side Encryption – Messaging on AWS",
-        "date": "2017/05/23"
+        "description": "Learn more about Amazon Simple Queue Service (SQS) at - http://amzn.to/2q0WfLX.\nAmazon Simple Queue Service (SQS) is a fully-managed message queuing service for reliably communicating among distributed software components and microservices - at any scale. Amazon SQS makes it simple to decouple and scale applications.",
+        "date": "2017-05-23T20:49:51Z",
+        "duration": 96
     },
     {
         "service": "simple_queue_service",
         "videoId": "oXV7z5h6qW0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Trax",
+            "EC2",
+            "Spot Fleet",
+            "scaling",
+            "microservices",
+            "queue depth",
+            "retail",
+            "event driven",
+            "auto scaling groups",
+            "Amazon Simple Notification Service (SNS)",
+            "Amazon Simple Queue Service (SQS)",
+            "Amazon EC2 Auto Scaling",
+            "Amazon CloudWatch",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Trax Retail: An Innovative Approach to Per-Second Scaling for SNS/SQS Message Processing",
-        "date": "2018/10/29"
+        "description": "On the next This Is My Architecture - https://amzn.to/2QhkrHd, learn how Trax built an EC2 Auto Scaling Groups -based message processing system for SNS/SQS that can scale every second. Their innovative solution goes beyond classic 5-minute queue depth scanning with CloudWatch, allowing them to add and remove capacity more quickly.\n\nHost: Matt Yanchyshyn, Global Tech Lead, AWS Partner Program\nCustomer: Dolev Pomeranz. Chief Architect and Head of Research at Trax\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2018-10-29T18:06:36Z",
+        "duration": 529
     },
     {
         "service": "simple_queue_service",
         "videoId": "n9pMxdUbBGs",
+        "tags": [
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013getting-started",
+            "web-apps",
+            "media-entertainment",
+            "sqs",
+            "dynamodb",
+            "Ari-Neto",
+            "arc"
+        ],
         "title": "Massive Message Processing with Amazon SQS and Amazon DynamoDB (ARC301) | AWS re:Invent 2013",
-        "date": "2013/11/25"
+        "description": "Amazon Simple Queue Service (SQS) and Amazon DynamoDB build together a really fast, reliable and scalable layer to receive and process high volumes of messages based on its distributed and high available architecture. We propose a full system that would handle any volume of data or level of throughput, without losing messages or requiring other services to be always available. Also, it enables applications to process messages asynchronously and includes more compute resources based on the number of messages enqueued.\nThe whole architecture helps applications reach predefined SLAs as we can add more workers to improve the whole performance.   In addition, it decreases the total costs because we use new workers briefly and only when they are required.",
+        "date": "2013-11-25T23:27:43Z",
+        "duration": 3313
     },
     {
         "service": "simple_queue_service",
         "videoId": "ucCikSL6z8M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Microservices",
+            "simple queue services",
+            "messaging",
+            "microsoft",
+            "SQS"
+        ],
         "title": "AWS for Microsoft Workloads: How to Integrate Your .NET Application with SQS",
-        "date": "2018/06/18"
+        "description": "For more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2I21rrM.\nDesigning loosely coupled systems could require durable storage layer between components. Amazon SQS can be used to decouple functionalities when having your code running on AWS. This video provides instructions for how to connect to Amazon SQS using you C# app.",
+        "date": "2018-06-18T23:30:05Z",
+        "duration": 605
     },
     {
         "service": "simple_queue_service",
         "videoId": "_X2Akzqr2cw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "rabbitMQ",
+            "SQS"
+        ],
         "title": "RabbitMQ vs SQS: Build or Buy?",
-        "date": "2019/04/04"
+        "description": "Learn more about AWS Startups at – https://amzn.to/2UuBJ9v \nGreg White, Information Security Manager at Carta, speaks at the 2019 AWS Santa Clara Summit on RabbitMQ vs SQS: Build or Buy?",
+        "date": "2019-04-04T19:49:39Z",
+        "duration": 732
     },
     {
         "service": "simple_queue_service",
         "videoId": "S8uczd9uUnM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Lambda",
+            "Amazon CloudWatch",
+            "TMA London",
+            "Amazon EC2",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon Simple Notification Service (SNS)",
+            "Amazon Simple Queue Service (SQS)",
+            "ERP",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Gousto: Building a Robust, Asynchronous Message Bus using AWS Lambda, Amazon SNS, and Amazon SQS.",
-        "date": "2019/01/16"
+        "description": "Join this episode of This Is My Architecture - https://amzn.to/2SUQ5Mn, to learn how Gousto built a robust, asynchronous message bus using AWS Lambda, Amazon SNS, and Amazon SQS to integrate a microservices platform with ERP and warehouse management systems (WMS), which enabled a near real-time flow of events. We also discuss their roadmap which includes a virtualised simulation of the entire warehouse!\n\nHost: John Studdert, Partner Solutions Architect, AWS\nCustomer: Abu Shoaib, Lead Architect, Gousto\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-01-16T08:00:02Z",
+        "duration": 449
     },
     {
         "service": "simple_queue_service",
         "videoId": "cQhMtYX6HRI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Simple Queue Service",
+            "SQS",
+            "cost allocation tags"
+        ],
         "title": "Introducing Cost Allocation Tags for Amazon Simple Queue Service (SQS) - Messaging on AWS",
-        "date": "2017/10/19"
+        "description": "Cost allocation tags for Amazon SQS allow you to tag and categorize your message queues so you can easily identify their purpose and manage their costs. Learn more at - http://amzn.to/2yGlJG2",
+        "date": "2017-10-19T22:51:21Z",
+        "duration": 101
     },
     {
         "service": "simple_queue_service",
         "videoId": "I7f2c5Qgz9w",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I enable SSE for an Amazon SNS Topic with an Encrypted Amazon SQS Queue Subscribed?",
-        "date": "2019/10/08"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2MjVmeu\nRoss, an AWS Cloud Support Engineer, shows you how to enable SSE for an Amazon SNS Topic with an Encrypted Amazon SQS Queue Subscribed.",
+        "date": "2019-10-09T01:08:39Z",
+        "duration": 470
     },
     {
         "service": "simple_queue_service",
         "videoId": "J8GJ4b4jLGI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Healint",
+            "Amazon DynamoDB",
+            "Amazon Simple Queue Service (SQS)",
+            "Amazon EC2",
+            "Amazon Simple Storage Service (S3)",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Healint: Handling Large Volumes of Sensor Data Using Amazon SQS and Amazon DynamoDB",
-        "date": "2018/09/20"
+        "description": "In this episode of This Is My Architecture - https://amzn.to/2Qk71Li, Nicolas from Healint explains how they reliably store and process sensor data from their Migraine tracking mobile application using Amazon SQS and Amazon DynamoDB. Using queues and workers to decouple writes and periodic archiving of time series data allows them to scale DynamoDB throughput without having to overprovision capacity.\n\nHost: Arthi Jaganathan, Solutions Architect, AWS\nSpeaker: Nicolas Paris, Head of Data, Healint\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2018-09-20T18:23:17Z",
+        "duration": 343
     },
     {
         "service": "simple_queue_service",
         "videoId": "k_54Jcmi4zM",
+        "tags": [
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "databases",
+            "startups",
+            "sqs",
+            "emr",
+            "dynamodb",
+            "Colin-Vipurs",
+            "svc"
+        ],
         "title": "Speed and Reliability at Any Scale: Amazon SQS and Database Services (SVC206) | AWS re:Invent 2013",
-        "date": "2013/11/25"
+        "description": "Amazon Simple Queue Service (Amazon SQS) makes it easy and inexpensive to enhance the scalability and reliability of your cloud application. In this session, we demonstrate design patterns for using Amazon SQS in conjunction with Amazon Simple Storage Service (Amazon S3), Amazon DynamoDB, Amazon Elastic MapReduce,  Amazon Relational Database Service, and Amazon Redshift. Shazam will share their experience of combining Amazon SQS with Amazon DynamoDB to support a Super Bowl advertising campaign.",
+        "date": "2013-11-26T02:49:36Z",
+        "duration": 3037
     },
     {
         "service": "simple_queue_service",
         "videoId": "mP46FviScYQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Performance",
+            "Advanced",
+            "Amazon EC2",
+            "Amazon SQS",
+            "Amazon S3",
+            "Dropbox",
+            "Akhil Gupta"
+        ],
         "title": "AWS re:Invent 2014 | (PFC308) How Dropbox Scales Massive Workloads Using Amazon SQS",
-        "date": "2014/11/14"
+        "description": "In this session, learn how Dropbox scales to provide one of the largest cloud storage and file sharing services in the world. Hear how Dropbox leverages Amazon EC2 to run varied workloads including thumbnail generation and document prevent, as well as document indexing to support full-text search. Dropbox presents ''Livefill'' - a generic framework built on top of Amazon SQS. Livefill enables them to trigger customizable data-processing workloads on data stored in Amazon S3 and helps them support more than 200,000 workload requests per second, spread across thousands of machines.",
+        "date": "2014-11-14T23:10:20Z",
+        "duration": 3010
     },
     {
         "service": "simple_queue_service",
         "videoId": "RJCpjRTvo_w",
+        "tags": [
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "aws reinvent",
+            "reinvent2013",
+            "reinvent 2013",
+            "ARC301",
+            "getting started",
+            "architecture",
+            "media entertainment",
+            "sqs",
+            "dynamodb",
+            "Ari Neto"
+        ],
         "title": "Massive Message Processing with Amazon SQS and Amazon DynamoDB (ARC301) | AWS re:Invent 2013",
-        "date": "2013/11/29"
+        "description": "Amazon Simple Queue Service (SQS) and Amazon DynamoDB build together a really fast, reliable and scalable layer to receive and process high volumes of messages based on its distributed and high available architecture. We propose a full system that would handle any volume of data or level of throughput, without losing messages or requiring other services to be always available. Also, it enables applications to process messages asynchronously and includes more compute resources based on the number of messages enqueued.\nThe whole architecture helps applications reach predefined SLAs as we can add more workers to improve the whole performance.   In addition, it decreases the total costs because we use new workers briefly and only when they are required.",
+        "date": "2013-11-29T22:00:16Z",
+        "duration": 3299
     },
     {
         "service": "simple_queue_service",
         "videoId": "iWV96vQfRKY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "messaging",
+            "serverless",
+            "Amazon API Gateway",
+            "Amazon DynamoDB",
+            "Amazon Simple Queue Service (SQS)",
+            "AWS Lambda",
+            "Amazon EC2",
+            "Amazon Simple Storage Service (S3)"
+        ],
         "title": "BRLink: BOT for Outgoing Calls with Serverless Architecture and Queues (SQS) (Portuguese)",
-        "date": "2018/07/09"
+        "description": "In this episode of This is My Architecture (https://amzn.to/2KsTNNd), Renato Silva, Full Stack Developer of BRLink, explains how they built a BOT for outgoing calls using serverless architecture (API Gateway+Lambda+DynamoDB) and queues (SQS) for different SLAs.\n\nHost: Ari Dias Neto, Sr Mgr, Partner Solutions Architect, AWS\nCustomer: Renato Silva, Full Stack Developer, BRLink",
+        "date": "2018-07-09T16:20:00Z",
+        "duration": 325
     },
     {
         "service": "simple_queue_service",
         "videoId": "BsfBQie7VzE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon RedShift",
+            "Amazon SQS",
+            "Amazon RDS",
+            "Amazon ECS",
+            "Elastic Load Balancer",
+            "TMA",
+            "This is my architecture",
+            "SkyOne",
+            "Angelo Carvalho",
+            "Rennan Sanchez",
+            "yt:cc=on"
+        ],
         "title": "SkyOne: Amazon Redshift and SQS for Trend Analysis on the EC2 Spot Market (Portuguese)",
-        "date": "2018/07/02"
+        "description": "In this episode of This is My Architecture - https://amzn.to/2KsTNNd, Rennan Sanchez, COO at SkyOne, explains how they are using Amazon Redshift to store historical data from the OnDemand and Spot market instances to provide recommendation to customers to launch Spot Instances.\n\nHost: Angelo Carvalho, Partner Solutions Architect, AWS\nCustomer: Rennan Sanchez, COO, SkyOne",
+        "date": "2018-07-02T16:31:43Z",
+        "duration": 297
     },
     {
         "service": "simple_queue_service",
         "videoId": "37Zkoh4tdFg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws startups",
+            "Relationship Science",
+            "Brett Brown",
+            "AWS New York Summit 2018"
+        ],
         "title": "How Relationship Science Expands From Zero Using Elasticache, SQS, and DynamoDB",
-        "date": "2018/08/08"
+        "description": "Brett Brown, Director of Technology at Relationship Science, speaks at the 2018 AWS NYC Summit about how his startup expands from zero using Elasticache, SQS, and DynamoDB. Learn more about AWS Startups at - https://amzn.to/2ATeHAK.",
+        "date": "2018-08-08T19:03:19Z",
+        "duration": 648
     },
     {
         "service": "simple_queue_service",
         "videoId": "zwLC5xmCZUs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "AWS re: Invent",
+            "re: Invent Conference",
+            "messaging",
+            "Amazon SQS",
+            "Amazon SNS",
+            "Amazon Simple Queue Service"
+        ],
         "title": "AWS re:Invent SVC 105: AWS Messaging",
-        "date": "2012/12/04"
+        "description": "Amazon SNS and Amazon SQS are important systems for sending, managing, and queuing system notifications. This session details the fundamentals on how to use these services, demonstrates the value for application developers, and covers some common use cases and customers where they have solved a critical business problem.\n\nLearn more at: http://aws.amazon.com/sns/ and http://aws.amazon.com/sqs/",
+        "date": "2012-12-04T22:27:45Z",
+        "duration": 2639
     }
 ]

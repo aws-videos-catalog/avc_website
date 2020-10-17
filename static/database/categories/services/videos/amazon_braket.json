@@ -2,7 +2,16 @@
     {
         "service": "amazon_braket",
         "videoId": "BV9TZWuAwyk",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CMP213-R",
+            "Compute"
+        ],
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] [REPEAT] Introducing quantum computing with AWS (CMP213-R)",
-        "date": "2019/12/10"
+        "description": "Quantum computing has the potential to solve computational problems that are beyond the reach of classical computers. Amazon Braket and the Amazon Quantum Solutions Lab help customers explore quantum computing, evaluate its potential, and develop expertise. Amazon Braket is a managed service that provides customers access to quantum computing resources and makes it easy to build, simulate, and test quantum computing applications. The Quantum Solutions Lab connects customers with quantum experts for education and collaboration. In this session, learn about the potential of quantum computing and how you can get started with the Amazon Braket service and the Quantum Solutions Lab.",
+        "date": "2019-12-10T18:17:33Z",
+        "duration": 3122
     }
 ]

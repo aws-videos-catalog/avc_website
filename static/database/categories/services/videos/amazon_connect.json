@@ -2,361 +2,1206 @@
     {
         "service": "amazon_connect",
         "videoId": "nfftUQGVx2s",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DEM155"
+        ],
         "title": "AWS re:Invent 2019: Omnichannel cloud contact center with Amazon Connect (DEM155)",
-        "date": "2019/12/05"
+        "description": "Amazon Connect now gives businesses a single unified contact center for voice and chat. Come see how you can create an Amazon Connect contact center instance, and learn how to use a single contact flow to design a natural language chatbot experience using Amazon Lex that escalates to a human agent on voice and chat. We demo unified routing, queueing, chatbot design, agent experience, and concurrency for voice and chat.",
+        "date": "2019-12-05T17:51:21Z",
+        "duration": 963
     },
     {
         "service": "amazon_connect",
         "videoId": "9OwwJp53oIE",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "EUC214-R1",
+            "End User Computing",
+            "Business Apps",
+            "Intuit",
+            "Amazon Connect",
+            "Amazon Translate",
+            "Amazon Transcribe"
+        ],
         "title": "AWS re:Invent 2019: Contact Lens for Amazon Connect: new speech analytics powered by ML (EUC214-R1)",
-        "date": "2019/12/06"
+        "description": "Announced at re:Invent, Contact Lens for Amazon Connect is a set of machine learning contact center analytics capabilities integrated into Amazon Connect. Come learn how with Contact Lens for Amazon Connect, contact center supervisors can better understand the sentiment, trends, and compliance risks of customer conversations to effectively train agents, replicate successful interactions, and identify crucial company and product feedback. Using AWS ML natural language processing (NLP) and speech-to-text, Contact Lens for Amazon Connect can be used to transcribe contact center calls, analyze sentiment, and detect silence times to create a fully searchable archive and surface valuable customer insights. Leverage these learnings to modernize your contact center and improve customer engagement.",
+        "date": "2019-12-07T05:56:16Z",
+        "duration": 3656
     },
     {
         "service": "amazon_connect",
         "videoId": "5MgWpT4bZJ8",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "EUC337",
+            "End User Computing",
+            "Business Apps",
+            "Accolade",
+            "Amazon Connect"
+        ],
         "title": "AWS re:Invent 2019: Accolade speeds health answers to customers with Amazon Connect (EUC337)",
-        "date": "2019/12/05"
+        "description": "Accolade, a personalized health and benefits solution, migrated a contact center to a global deployment of Amazon Connect in just four months, supporting over 700 agents taking more than 14,000 calls a day on a global scale. Learn how the company did this completely self-service through staggered global deployment. They also discuss where the key transition points were, how they mapped data from one solution to the next, their core development investments, and how they kept business running during the migration. Hear how a small team deploying Amazon Connect quickly and successfully can have a big business impact.",
+        "date": "2019-12-05T17:37:14Z",
+        "duration": 3650
     },
     {
         "service": "amazon_connect",
         "videoId": "dAxs7595WD4",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "EUC209",
+            "End User Computing",
+            "Business Apps",
+            "1968",
+            "Intuit"
+        ],
         "title": "AWS re:Invent 2019: Amazon Connect: Omnichannel cloud contact centers w Intuit & Salesforce (EUC209)",
-        "date": "2019/12/04"
+        "description": "In this session, hear about recently launched web and mobile chat for Amazon Connect. Learn how Intuit is deploying voice and chat at scale with Amazon Connect to improve customer engagement and how it implemented the solution across its global contact centers, what it learned along the way, and next steps in its contact center evolution. Specifically, Intuit shares its experiences with multi-session agents, best practices for using voice and chat simultaneously, and its approach to dynamic customer experiences. Also learn from Salesforce why it is using Amazon Connect to provide contact center solutions to its own customers.",
+        "date": "2019-12-04T17:28:12Z",
+        "duration": 2795
     },
     {
         "service": "amazon_connect",
         "videoId": "GJv4XkQrGos",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "EUC211",
+            "End User Computing",
+            "Business Apps",
+            "News Corp",
+            "Amazon Connect"
+        ],
         "title": "AWS re:Invent 2019: Modern service desk with Amazon Connect and News Corp (EUC211)",
-        "date": "2019/12/03"
+        "description": "Learn how News Corp implemented Amazon Connect to improve employee and service desk engagement. News Corp's service desk is the 24/7/365 central point of contact for all IT-related questions and issues within News Corp companies in North America, including Dow Jones, HarperCollins, and Realtor.com. News Corp was able to set up Amazon Connect in weeks instead of months, while saving hundreds of thousands of dollars. Amazon Connect contributed to improved employee experience, reduced abandon rate, reduced time to answer, enhanced reporting capability, and more. Come hear how News Corp realized a modern service desk and what it plans for the future.",
+        "date": "2019-12-03T18:04:06Z",
+        "duration": 2851
     },
     {
         "service": "amazon_connect",
         "videoId": "GVQtp8WaGFY",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "EUC213",
+            "End User Computing",
+            "Business Apps",
+            "The New York Times",
+            "Amazon Connect",
+            "Amazon Transcribe"
+        ],
         "title": "AWS re:Invent 2019: The New York Times: Improving customer care with Amazon Connect (EUC213)",
-        "date": "2019/12/03"
+        "description": "The New York Times was looking to radically transform its computer telephony integration (CTI) system supporting its customer-care operations. After evaluating other solutions, the company chose Amazon Connect because of its ease of migration, flexibility, and customer-centric capabilities. Learn how The New York Times successfully rewrote its IVR and call workflows using Amazon Lex for natural language detection, and how it is using Amazon Transcribe to stream call data to a datastore and is writing Amazon Lex bots. Hear how the company was able to leverage cutting-edge technology, at scale, while reducing operational costs.",
+        "date": "2019-12-03T18:01:12Z",
+        "duration": 3288
     },
     {
         "service": "amazon_connect",
         "videoId": "zSIXp0OAFrg",
+        "tags": [
+            "Cloud Computing",
+            "Amazon Web Services",
+            "Microservices",
+            "AWS",
+            "Sharma",
+            "Anshul",
+            "AWS Summit Online ASEAN re:Cap"
+        ],
         "title": "AWS Summit Online ASEAN 2020 | The Art of the Possible: Amazon Connect Customer Service Experience",
-        "date": "2020/08/28"
+        "description": "In this session, learn about the AWS competencies and the AWS practice of incorporating multiple customer channels over voice, text, chatbot, telephony, Amazon Sumerian, analytics, AI, and Amazon Personalize, all on one platform to better understand customers as they engage and personalise their experiences.\n\nAWS Speakers: Paul Chen, Head of SA, ASEAN, AWS & Lili Chan, Sr. Specialist Solutions Architect - Connect, ASEAN, AWS\n\nDownload the slides: https://go.aws/3de5Wzr\n\nLearn more about AWS at - https://amzn.to/3kTKR24\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
+        "date": "2020-08-28T18:03:05Z",
+        "duration": 2082
     },
     {
         "service": "amazon_connect",
         "videoId": "XeVkV4_YnMA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Connect",
+            "customer purchase",
+            "Salesforce",
+            "Verint",
+            "Dialogtech",
+            "Aria Solutions",
+            "Voicebase",
+            "webtext",
+            "Pindrop"
+        ],
         "title": "Amazon Connect Customer Service Experience: The Art of the Possible",
-        "date": "2018/03/12"
+        "description": "Watch how Amazon Connect with AI-powered automation and an ecosystem of AWS partner solutions can delight your customers by delivering the next generation of customer service experiences today. Learn more at - http://amzn.to/2HzTPNe.",
+        "date": "2018-03-12T17:26:33Z",
+        "duration": 179
     },
     {
         "service": "amazon_connect",
         "videoId": "YwpfeOwDlko",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Connect",
+            "Contact Center",
+            "Amazon",
+            "Connect",
+            "omnichannel",
+            "customer",
+            "experience",
+            "service",
+            "Yasser",
+            "El-Haggan",
+            "Demo",
+            "Twilio",
+            "legacy",
+            "getting",
+            "started"
+        ],
         "title": "Getting Started with Amazon Connect",
-        "date": "2019/11/19"
+        "description": "Learn more about Amazon Connect at https://amzn.to/2Opterh\nAmazon Connect is an easy to use omnichannel cloud contact center that helps companies provide superior customer service at a lower cost. Watch Yasser-El Haggan, worldwide technical leader for Amazon Connect, show you how easy it is to setup your first Amazon Connect contact center. Learn how Amazon Connect provides you with the flexibility to scale to meet unpredictable demand, while saving you up to 80% over traditional contact centers.",
+        "date": "2019-11-19T16:17:50Z",
+        "duration": 194
     },
     {
         "service": "amazon_connect",
         "videoId": "syF1CEiWAto",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon Connect",
+            "Contact Center",
+            "CRM",
+            "Customer Service",
+            "Call Center",
+            "Customer Experience",
+            "Artificial Intelligence",
+            "AI",
+            "ML",
+            "Machine Learning",
+            "Amazon Lex",
+            "Amazon Polly",
+            "Omnichannel",
+            "Transcribe"
+        ],
         "title": "What is Amazon Connect",
-        "date": "2020/03/27"
+        "description": "Amazon Connect is a secure easy to use omnichannel cloud contact center that scales to support any small, medium, or large business. You can easily integrate third-party services like CRM and enable AWS Artificial Intelligence (AI) and Machine Learning (ML) to help automate and improve your contact center’s efficiency. Watch this video for a quick introduction to Amazon Connect and discover how it turns your call center into an innovative customer experience. \n\nGet started easily at https://go.aws/33SygDT\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonConnect",
+        "date": "2020-03-27T19:00:43Z",
+        "duration": 122
     },
     {
         "service": "amazon_connect",
         "videoId": "xOkcpF_4ZvI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon Connect Webinar - Create an Exceptional Contact Center Experience on AWS",
-        "date": "2017/08/30"
+        "description": "Hear the benefits of moving your contact center to the Cloud. Amazon Connect is a simple, scalable contact center solution that can adjust to the changing needs of your customers in real-time and enables you to engage with them easily and naturally. Learn more here - http://amzn.to/2vsDybx.",
+        "date": "2017-08-30T20:32:55Z",
+        "duration": 2488
     },
     {
         "service": "amazon_connect",
         "videoId": "BVa6QZyAVsA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon Connect",
+            "Contact Center",
+            "Call Center",
+            "Omnichannel",
+            "Multichannel",
+            "Chatbot",
+            "telephony",
+            "agent",
+            "agent training",
+            "contact center manager"
+        ],
         "title": "Agent Training for the Amazon Connect Contact Control Panel (CCP)",
-        "date": "2020/06/10"
+        "description": "Amazon Connect is an easy to use omnichannel cloud contact center that helps companies provide superior customer service at a lower cost. Agents use the Amazon Connect Contact Control Panel (CCP) to interact with customer contacts. It's how they receive calls, chat with contacts, transfer them to other agents, put them on hold, and perform other key tasks. \n\nWatch Ayesha Borker, Solutions Architect for Amazon Connect, show you everything you need to know about using the CCP. This includes setting up, logging in, accepting calls and much more.\n\nAmazon Connect Website: https://go.aws/2Yl2GfL\nAmazon Connect Administrator Guide: https://amzn.to/2UtC8Ik\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonConnect",
+        "date": "2020-06-10T19:43:57Z",
+        "duration": 1144
     },
     {
         "service": "amazon_connect",
         "videoId": "WESBp_Sg7cg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "TWITCH",
+            "live coding"
+        ],
         "title": "Live Coding with AWS: Building Call Centers with Amazon Connect",
-        "date": "2017/07/20"
+        "description": "For more information, visit http://amzn.to/2tI4zlj.\nLive Coding with AWS is an interactive, Twitch show on https://www.twitch.tv/aws, where the broadcasters explore cloud computing topics and AWS services from the developer's perspective, building everything from serverless web apps to machine learning models.",
+        "date": "2017-07-20T15:47:55Z",
+        "duration": 5932
     },
     {
         "service": "amazon_connect",
         "videoId": "TEiDEFFZjNw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "TMA",
+            "this is my architecture",
+            "Yazid Boutejder",
+            "Ian Henderson",
+            "Amazon Connect",
+            "Salesforce",
+            "Lex",
+            "Polly",
+            "Lambda",
+            "Automation",
+            "Call center",
+            "Contact Center",
+            "Voice",
+            "ML/AI"
+        ],
         "title": "Salesforce and Amazon Connect - Building Innovative Customer Experiences",
-        "date": "2018/06/04"
+        "description": "Learn how Salesforce built a world class contact center experience using Amazon Connect and Salesforce service cloud. Learn more at - https://amzn.to/2kF8s8w.\n\nHost: Yazid Boutejder - Solutions Architect\nSpeaker: Ian Henderson - Director of Strategic Product Partnerships",
+        "date": "2018-06-04T16:53:37Z",
+        "duration": 828
     },
     {
         "service": "amazon_connect",
         "videoId": "s_queaqyzHs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "amazon connect",
+            "quick connect"
+        ],
         "title": "How do I enable Quick Connects on Amazon Connect?",
-        "date": "2019/10/29"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2q6oH4D\nKrithi, an AWS Cloud Support Engineer, shows you how to enable Quick Connects on Amazon Connect.",
+        "date": "2019-10-29T20:06:13Z",
+        "duration": 239
     },
     {
         "service": "amazon_connect",
         "videoId": "6LcSv9XocTY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Athena",
+            "Amazon Comprehend",
+            "Amazon Connect",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon Transcribe",
+            "AWS Lambda",
+            "AWS Direct Connect",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Intuit: Serving 7 Million Customers Using Amazon Connect",
-        "date": "2019/06/19"
+        "description": "Learn more about This Is My Architecture at - https://amzn.to/2XpvJ3m.\nIntuit serves millions of customers around the globe using Amazon Connect.\n\nHost: Simon Elisha, Head of Solutions Architecture, World Wide Public Sector, A/NZ\nCustomer: Bill Schuller, Intuit Contact Center Domain Architect\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-06-19T18:22:09Z",
+        "duration": 373
     },
     {
         "service": "amazon_connect",
         "videoId": "oMAnsRECYyo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Connect",
+            "customer purchase",
+            "Salesforce",
+            "Verint",
+            "DialogTech",
+            "Aria Solutions",
+            "Voicebase",
+            "webtext",
+            "Pindrop"
+        ],
         "title": "Amazon Connect Customer Purchase Experience: The Art of the Possible",
-        "date": "2018/03/12"
+        "description": "Watch how Amazon Connect with AI-powered automation and an ecosystem of AWS partner solutions can delight your customers by delivering the next generation of customer purchase experiences today. Learn more at - http://amzn.to/2FRV797.",
+        "date": "2018-03-12T17:27:06Z",
+        "duration": 229
     },
     {
         "service": "amazon_connect",
         "videoId": "dQ3Y6FWk7q8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Connect",
+            "Contact Center",
+            "Amazon",
+            "Connect",
+            "omnichannel",
+            "voice",
+            "chat",
+            "customer",
+            "experience",
+            "service",
+            "Yasser",
+            "El-Haggan",
+            "Demo",
+            "Twilio",
+            "legacy",
+            "getting",
+            "started"
+        ],
         "title": "Getting Started with Amazon Connect chat",
-        "date": "2019/11/19"
+        "description": "Learn more about Amazon Connect at https://amzn.to/2OmrWxn\nAmazon Connect was designed from the ground up to be omnichannel, giving customers and agents a truly seamless experience across voice and chat. Recognize the power of a true omnichannel contact center as Yasser El-Haggan, worldwide technical leader for Amazon Connect demonstrates how to quickly and easily set up voice and chat experiences in Amazon Connect.",
+        "date": "2019-11-19T16:19:07Z",
+        "duration": 384
     },
     {
         "service": "amazon_connect",
         "videoId": "ezdSLJi1kC4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Connect"
+        ],
         "title": "Introducing Amazon Connect",
-        "date": "2017/03/28"
+        "description": "Learn more about Amazon Connect at - http://amzn.to/2o4TTyQ\nAmazon Connect is a simple to use, cloud-based contact center service that scales to support any size business. The service offers easy, self-service configuration and enables dynamic, personal, and natural customer engagement.",
+        "date": "2017-03-28T12:32:27Z",
+        "duration": 139
     },
     {
         "service": "amazon_connect",
         "videoId": "vdUtbOAplZA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Contact Lens",
+            "Amazon Connect",
+            "Contact Center",
+            "Analytics",
+            "Machine Learning",
+            "Call Center",
+            "Customer Service",
+            "Transcribe",
+            "Customer Experience",
+            "Sentiment",
+            "Speech",
+            "AI",
+            "ML",
+            "Speech Analytic"
+        ],
         "title": "Introduction to Contact Lens for Amazon Connect",
-        "date": "2020/08/12"
+        "description": "Contact Lens for Amazon Connect is a set of machine learning (ML) capabilities integrated into Amazon Connect. With Contact Lens for Amazon Connect, contact center supervisors can better understand the sentiment, trends, and compliance of customer conversations to effectively train agents, replicate successful interactions, and identify crucial company and product feedback.\n\n\n\nLearn more about Contact Lens at - https://amzn.to/3idH518\n\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n\n#AWS #AWSDemo",
+        "date": "2020-08-12T17:47:00Z",
+        "duration": 186
     },
     {
         "service": "amazon_connect",
         "videoId": "PvnbGpRcV64",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Speech Analytics",
+            "Amazon Connect",
+            "Amazon Transcribe",
+            "Amazon Comprehend",
+            "Amazon Translate",
+            "contact center",
+            "AI",
+            "Artificial Intelligence"
+        ],
         "title": "AI Powered Speech Analytics for Amazon Connect Solution",
-        "date": "2019/03/18"
+        "description": "Learn more about Amazon Connect  at – https://amzn.to/2TBAeHb \nThe AI Powered Speech Analytics for Amazon Connect solution provides the combination of speech to text transcription, translation into preferred languages, and insights for agents and supervisors all in real-time. This enables your agents to better understand customer needs and drive resolution using the insights the solution provides while they are still interacting with their customer.",
+        "date": "2019-03-18T12:56:57Z",
+        "duration": 283
     },
     {
         "service": "amazon_connect",
         "videoId": "vFG1FBsUGD0",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Business Apps",
+            "BAP324",
+            "Amazon Connect"
+        ],
         "title": "AWS re:Invent 2018: Moving Large Scale Contact Centers to Amazon Connect (BAP324)",
-        "date": "2018/11/27"
+        "description": "In this session, you will learn how Intuit and Hilton are migrating their large scale contact centers to Amazon Connect, a self-service, cloud-based contact center offering based on the same technology used by over 70,000 Amazon Customer Service Associates.  We will begin the session with an overview of Amazon Connect and hear from Intuit and Hilton about their experiences and best practices that will help prepare any large scale business planning a migration to Amazon Connect.",
+        "date": "2018-11-27T19:10:27Z",
+        "duration": 3500
     },
     {
         "service": "amazon_connect",
         "videoId": "a1zbJgZnxT8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Connect",
+            "Contact Center",
+            "Amazon",
+            "Connect",
+            "omnichannel",
+            "voice",
+            "chat",
+            "customer",
+            "experience",
+            "service",
+            "Yasser",
+            "El-Haggan",
+            "Demo",
+            "Twilio",
+            "legacy",
+            "getting",
+            "started"
+        ],
         "title": "Introduction to Amazon Connect chat",
-        "date": "2019/11/19"
+        "description": "Learn more about Amazon Connect at https://amzn.to/2qg1P3e\nAmazon Connect was designed from the ground up to be omnichannel, giving customers and agents a truly seamless experience across voice and chat. See Yasser El-Haggan, worldwide technical leader for Amazon Connect, show how easy it is to quickly leverage chat along-side voice to realize the benefits of a true omnichannel cloud contact center.",
+        "date": "2019-11-19T16:18:37Z",
+        "duration": 101
     },
     {
         "service": "amazon_connect",
         "videoId": "fW7aiwJehqA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing"
+        ],
         "title": "How do I display contact attributes in a screenpop using the Amazon Connect Streams API?",
-        "date": "2020/05/06"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/connect-contact-attributes-screenpop/. Adrian shows you how to display contact attributes in a screenpop using the Amazon Connect Streams API.",
+        "date": "2020-05-07T00:03:26Z",
+        "duration": 229
     },
     {
         "service": "amazon_connect",
         "videoId": "kD57QUn5myc",
-        "title": "AWS Solutions: AI Powered Speech Analytics for Amazon Connect",
-        "date": "2020/01/16"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Comprehend",
+            "Amazon Kinesis Video Streams",
+            "Amazon Simple Storage Service (S3)",
+            "AWS Lamba",
+            "Amazon DynamoDB",
+            "Amazon Transcribe",
+            "Amazon Translate",
+            "AWS Direct Connect",
+            "This is My Architecture",
+            "TMA"
+        ],
+        "title": "AWS Solutions:  AI Powered Speech Analytics for Amazon Connect",
+        "description": "The AI Powered Speech Analytics for Amazon Connect solution provides customer insights in real time, and helps agents and supervisors better understand and respond to customer needs so they can resolve customer issues and improve the overall customer experience. The solution includes pre-trained AWS artificial intelligence (AI) services that enable customers to transcribe, translate, and analyze each customer interaction in Amazon Connect, and presents this information to assist contact center agents during their conversations. https://aws.amazon.com/solutions/ai-powered-speech-analytics-for-amazon-connect/?did=sl_card&trk=sl_card\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-01-16T18:59:00Z",
+        "duration": 338
     },
     {
         "service": "amazon_connect",
         "videoId": "pARyuIZpXz4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Workforce",
+            "Continuity",
+            "Amazon",
+            "Connect",
+            "contact lens",
+            "customer experience",
+            "contact center",
+            "customer engagement",
+            "ml-powered",
+            "analytics",
+            "machine learning",
+            "artificial intelligence"
+        ],
         "title": "CCW 2020: Rethink Your Contact Center With Amazon Connect",
-        "date": "2020/09/04"
+        "description": "Your contact center is one of the biggest touchpoints between you and your customers. Maintaining high quality customer service is especially important when responding to today’s changing workplace environment. Amazon Connect enables you to seamlessly deliver dynamic, natural, and personalized experiences that enhance your customer service. In this CCW session, learn how to setup a new contact center and onboard agents in just a few hours. \n\nAlso, discover how Contact Lens for Amazon Connect can help you better understand the sentiment, trends, and compliance risks of customer conversations to effectively train agents, replicate successful interactions, and identify crucial company and product feedback.\n\nLearn more about Amazon Connect at https://amzn.to/3jC4Cts\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonConnect #ContactCenter",
+        "date": "2020-09-04T18:04:22Z",
+        "duration": 1714
     },
     {
         "service": "amazon_connect",
         "videoId": "Oqh32dYavwU",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Financial Services",
+            "FSV306-S",
+            "Amazon Connect",
+            "Amazon Lex",
+            "Amazon Polly",
+            "AWS Lambda"
+        ],
         "title": "AWS re:Invent 2018: Implementation of Amazon Connect, Powered by Accenture (FSV306-S)",
-        "date": "2018/11/28"
+        "description": "Late in 2017, Mutual of Omaha began a cloud journey to modernize its legacy contact centers. Using Amazon Connect—supported by Amazon Lex, Amazon Polly, AWS Lambda, and Kibana, Accenture helped Mutual of Omaha improve customer engagement, developed self-service features using leading-edge speech recognition, and developed powerful analytics to continuously drive positive change. Mutual of Omaha plans to reduce TCO annually with Amazon Connect compared with its legacy solution. As of August 2018, three contact centers are live in Amazon Connect, with several more scheduled to go live in 2018. This session is brought to you by AWS partner, Accenture.",
+        "date": "2018-11-28T18:46:33Z",
+        "duration": 3580
     },
     {
         "service": "amazon_connect",
         "videoId": "V5P0mOWADLE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Connect Dashboard"
+        ],
         "title": "Introducing Amazon Connect Dashboard - Monitoring Contact Center Performance on AWS",
-        "date": "2017/06/27"
+        "description": "Learn more about the Amazon Connect Dashboard - http://amzn.to/2tjV4wT.\nThe Amazon Connect dashboard allows you to define the performance indicators such as service levels, and agent occupancy, and monitor the performance of your contact center using these indicators.",
+        "date": "2017-06-27T21:44:38Z",
+        "duration": 82
     },
     {
         "service": "amazon_connect",
         "videoId": "pJ0WcOPRwEM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Connect",
+            "Contact Center",
+            "AI",
+            "AI Contact Center",
+            "Jeff Barr"
+        ],
         "title": "Learn about Amazon Connect with Jeff Barr",
-        "date": "2019/04/15"
+        "description": "Learn more about Amazon Connect at – https://amzn.to/2V2hOPI \nJoin Pasquale DeMaio, General Manager of Amazon Connect, and Jeff Barr to learn about Amazon Connect: a self-service, AI enabled, cloud contact center service. Hear how customers love the scalability, the open platform, and the ability to access their data using Amazon Connect.",
+        "date": "2019-04-15T18:45:11Z",
+        "duration": 490
     },
     {
         "service": "amazon_connect",
         "videoId": "9qky_E39-_I",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Lex Chatbot"
+        ],
         "title": "AWS Demo: How to Use an Amazon Lex Chatbot with an Amazon Connect Contact Center",
-        "date": "2017/09/06"
+        "description": "Demo on how to use an Amazon Lex chatbot with an Amazon Connect contact center. By adding an intelligent conversational chatbot for self-service, you will improve the customer experience and increase contact center efficiencies. Learn more here - http://amzn.to/2gDQNfi.",
+        "date": "2017-09-06T19:21:01Z",
+        "duration": 392
     },
     {
         "service": "amazon_connect",
         "videoId": "bjb3uG9yrtI",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Business Apps",
+            "BAP309",
+            "Amazon Connect"
+        ],
         "title": "AWS re:Invent 2018: Customizing Your Amazon Connect Contact Center (BAP309)",
-        "date": "2018/11/28"
+        "description": "Hear from Amazon Connect customers on how they seamlessly integrated their business applications with Amazon Connect using a combination of development tools and available AWS services. axialHealthcare demonstrates their HIPAA-compliant phone platform, built around Amazon Connect, which enables its clinical care team to increase provider and patient outreach efficiency, enhance client reporting, and improve provider and patient satisfaction while ensuring the safety of protected health information. Rackspace shares how they used the Amazon Connect Streams API to build a customized agent experience through a native desktop application to accommodate diverse agent configurations and multiple platforms.",
+        "date": "2018-11-28T18:48:49Z",
+        "duration": 3213
     },
     {
         "service": "amazon_connect",
         "videoId": "SwbGkd53HN4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit"
+        ],
         "title": "Amazon Connect Delivers Personalized Customer Experience for Your Contact Center",
-        "date": "2019/06/03"
+        "description": "Learn more about AWS at – https://amzn.to/2WaVU9l \nAmazon Connect is a self-service, cloud-based contact center service that makes it easy for any business to deliver better customer service at lower cost. Amazon Connect is based on the same contact center technology used by Amazon customer service associates around the world to power millions of customer conversations. The self-service graphical interface in Amazon Connect makes it easy for non-technical users to design contact flows, manage agents, and track performance metrics – no specialized skills required. There are no up-front payments or long-term commitments and no infrastructure to manage with Amazon Connect; customers pay by the minute for Amazon Connect usage plus any associated telephony services.",
+        "date": "2019-06-03T17:27:26Z",
+        "duration": 2660
     },
     {
         "service": "amazon_connect",
         "videoId": "kCtYEQkxT6g",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Connect",
+            "Salesforce",
+            "CTI Adapter",
+            "Contact Center"
+        ],
         "title": "Amazon Connect CTI Adapter for Salesforce",
-        "date": "2019/01/22"
+        "description": "Learn more about the Amazon Connect CTI Adapter at the Salesforce AppExchange - https://amzn.to/2FQQhsC\nThe updated Amazon Connect CTI Adapter v2 makes it easy to use your Amazon Connect - https://amzn.to/2Mo5iTQ contact center with Salesforce to deliver engaging service with lower cost at any scale. Amazon Connect is cloud-based, self-service, and can be set up in minutes.",
+        "date": "2019-01-22T08:00:02Z",
+        "duration": 654
     },
     {
         "service": "amazon_connect",
         "videoId": "fwgahXuNldw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center"
+        ],
         "title": "How do I integrate Amazon Connect with Zendesk?",
-        "date": "2020/08/20"
+        "description": "For more details see the Knowledge Center article with this video: (https://aws.amazon.com/premiumsupport/knowledge-center/connect-integrate-zendesk/).\n\nFaisal shows you how to integrate Amazon connect with Zendesk.",
+        "date": "2020-08-20T17:52:00Z",
+        "duration": 355
     },
     {
         "service": "amazon_connect",
         "videoId": "Gn6h1vOFygc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Connect",
+            "contact center",
+            "public sector"
+        ],
         "title": "Next Gen Innovation: Enhancing Your Contact Center with Amazon Connect for the Public Sector",
-        "date": "2018/08/28"
+        "description": "Learn more about Amazon Connect at - https://amzn.to/2wvyu3A.\nAmazon Connect is an easy-to use, cloud-based contact center solution for businesses that want to deliver a personalized, customer-centric experience. Join Michael Vozas, a Public Sector Amazon Connect Expert who will share some of our public sector customer success stories, partner solutions, and best practices for using Amazon Connect in the State and Local Government, Nonprofits, and Federal Government.",
+        "date": "2018-08-28T20:04:10Z",
+        "duration": 3680
     },
     {
         "service": "amazon_connect",
         "videoId": "jihc4nAWy14",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Modernize Your Contact Center with AI: Gain Valuable Insights by Transcribing Recordings",
-        "date": "2019/01/14"
+        "description": "Learn more about Amazon Transcribe at https://amzn.to/2sfzmHW, \nAmazon Comprehend at https://amzn.to/2VAfSv8, \nand Amazon Connect at https://amzn.to/2ACTlF2.\n\nGain insights into your Amazon Connect contact center from transcribed call recordings. Analyze call recordings using Amazon Transcribe, a fully managed and continuously trained automatic speech recognition service, and Amazon Comprehend, a natural language processing (NLP) service that uses machine learning to find insights and relationships in text.",
+        "date": "2019-01-14T18:06:18Z",
+        "duration": 334
     },
     {
         "service": "amazon_connect",
         "videoId": "kSYdKxZkkRw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Amazon Connect",
+            "Contact Center",
+            "Service Cloud",
+            "Salesforce",
+            "Dreamforce",
+            "Intuit"
+        ],
         "title": "Hear How Intuit Innovates The Contact Center With Amazon Connect & Service Cloud",
-        "date": "2018/10/22"
+        "description": "Learn more about Salesforce and AWS at - https://amzn.to/2OIbHNS.\nIntuit, a provider of financial management solutions, is using Amazon Connect and Salesforce Service Cloud for their cloud contact center. Hear how Intuit has combined customer data and a customized agent environment that allows agents to focus on customers, not their tools, to provide the best possible customer experience.",
+        "date": "2018-10-22T17:47:35Z",
+        "duration": 2040
     },
     {
         "service": "amazon_connect",
         "videoId": "VOIL8S75z6s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing"
+        ],
         "title": "Larry Augustin Announces the General Availability of Contact Lens for Amazon Connect",
-        "date": "2020/07/23"
+        "description": "Contact Lens for Amazon Connect is a set of machine learning-based analytics capabilities for Amazon Connect. Contact Lens enables contact center supervisors and analysts to identify crucial customer feedback, improve customer experience, and quickly find relevant calls to effectively train agents and replicate successful interactions. Watch as Larry Augustin announces new features and shows you how to get started.\n\nChapter markers:\n0:24 - Introduction to Contact Lens for Amazon Connect\n0:40 - Challenges with contact center quality assurance\n1:38 - Contact Lens for Amazon Connect features\n1:55 - Advanced contact search\n2:22 - Enhanced contact detail page\n2:54 - Automatic Call Categorization\n3:14 - Call categorization page\n3:49 - Open and flexible data\n4:32 - Getting started with Contact Lens for Amazon Connect\n5:01 - Contact Lens for Amazon Connect pricing\n\nLearn more about Contact Lens for Amazon Connect at https://amzn.to/2OKPPiL\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSLaunch #LarryAugustin",
+        "date": "2020-07-23T15:48:56Z",
+        "duration": 323
     },
     {
         "service": "amazon_connect",
         "videoId": "bH7midAciaw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Connect CTI Adapter",
+            "CTI",
+            "Contact Center",
+            "IVR",
+            "ACD",
+            "Call Recording"
+        ],
         "title": "Amazon Connect CTI Adapter for Salesforce - Amazon Web Services",
-        "date": "2017/08/24"
+        "description": "The Amazon Connect CTI Adapter provides a WebRTC browser-based Contact Control Panel (CCP) within the Lightning, Console and Classic Salesforce CRM experience. Learn more about Amazon Connect at - https://amzn.to/2wL4Nwz.",
+        "date": "2017-08-24T15:51:19Z",
+        "duration": 182
     },
     {
         "service": "amazon_connect",
         "videoId": "3S6zIJGIMEk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Capital One",
+            "call centers"
+        ],
         "title": "Capital One Contact Centers Innovate Faster Using Amazon Connect",
-        "date": "2018/08/24"
+        "description": "Learn more about AWS at - https://amzn.to/2wlf3uh.\nBy providing its employees with training about cloud technology and the ability to gain AWS certifications, Capital One is attracting and retaining top talent. Capital One is one of the largest banks in the United States and offers credit cards, checking and savings accounts, auto loans, rewards, and online banking services for consumers and businesses.",
+        "date": "2018-08-24T16:28:24Z",
+        "duration": 203
     },
     {
         "service": "amazon_connect",
         "videoId": "pg12x440mMw",
-        "title": "AWS re:Invent 2018: Bring the Power of AI to Your Amazon Connect Contact Center (BAP322-R1)",
-        "date": "2018/11/28"
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Business Apps",
+            "BAP322-R1",
+            "Amazon Connect",
+            "Amazon Lex"
+        ],
+        "title": "AWS re:Invent 2018: Bring the Power of AI to Your Amazon Connect Contact Center (BAP322-R1)",
+        "description": "With Amazon Connect, a cloud-based contact center service, businesses can create dynamic contact flows that provide personalized caller experiences by taking history and past context into consideration to anticipate callers’ needs. Join us to learn how customers are executing successful strategies using Amazon Lex to add NLU chatbots into their Amazon Connect customer experience workflows. Learn how using Amazon Lex, an AI service that enables you to create intelligent conversational chatbots that can turn your contact flows into natural conversations using the same technology that powers Amazon Alexa. Learn how to automate repeatable routine tasks such as password resets, order status, and balance inquiries without the need for an agent. Complete Title: AWS re:Invent 2018: [REPEAT 1] Bring the Power of AI to Your Amazon Connect Contact Center (BAP322-R1)",
+        "date": "2018-11-28T18:26:35Z",
+        "duration": 3394
     },
     {
         "service": "amazon_connect",
         "videoId": "C4KzP8vsGOc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws",
+            "awspsssummit",
+            "aws public sector summit canberra"
+        ],
         "title": "Evolving Customer Experience with Amazon Connect, An AI-Based Contact Centre Solution",
-        "date": "2019/10/17"
+        "description": "Learn more about AWS Public Sector Summit Canberra at – https://amzn.to/2VQavbB \nCustomer service expectations continue to evolve and call centres are about to change before our eyes. By capturing and analysing customer service interactions, you can better identify the root cause of issues and improve first-call resolution and customer satisfaction. In this session, learn how to integrate Amazon Connect, a modern, cloud-based contact centre and AWS machine learning services to quickly process and analyse thousands of customer conversations and gain valuable insights. Hear NSW Health talk about their adoption of Amazon Connect and how they plan to continue to enhance agent & customer experience.\n\nSpeaker: Zoe Pelbart, Account Executive, AWS",
+        "date": "2019-10-17T21:10:09Z",
+        "duration": 2064
     },
     {
         "service": "amazon_connect",
         "videoId": "erayXNsBT0Y",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Financial Services",
+            "FSV301",
+            "Amazon Comprehend",
+            "Amazon Connect",
+            "Amazon Lex",
+            "Amazon Transcribe"
+        ],
         "title": "AWS re:Invent 2018: Customer-Centric Contact Centers w/ Amazon Connect & Machine Learning (FSV301)",
-        "date": "2018/11/28"
+        "description": "How can Financial Services companies meet growing customer demands for personalized, high-quality service while satisfying regulatory obligations? In this session, learn how Amazon Connect, a self-service, cloud-based contact center, can integrate with machine learning services on AWS such as Amazon Transcribe, Amazon Comprehend, and Amazon Lex to enable financial institutions to deliver transformational omni-channel experiences to their customers while complying with regulations like MiFID II, the GDPR, and the SEC's data retention rules. Learn how to use Amazon Connect to easily set up a cloud-based contact center solution that scales to support businesses of any size. Then learn how to integrate Amazon Connect with machine learning services on AWS to make contact center content available for search and analysis by natural language processing tools, which can yield valuable insights into customer sentiment, customer preferences, and the most common issues customers raise during service interactions. Complete Title: AWS re:Invent 2018: Financial Svcs: Build Customer-Centric Contact Centers with Amazon Connect & Machine Learning (FSV301)",
+        "date": "2018-11-28T18:23:40Z",
+        "duration": 3374
     },
     {
         "service": "amazon_connect",
         "videoId": "Z2_gsQYglyE",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "GPSBusiness",
+            "GPSBUS205",
+            "AI",
+            "Connect",
+            "Analytics",
+            "Enterprise"
+        ],
         "title": "AWS re:Invent 2017: GPS: Amazon Connect: Powerful, Proven Cloud Contact Center Solut (GPSBUS205)",
-        "date": "2017/11/28"
+        "description": "In this session, learn about Amazon Connect and how your organization can benefit from its capabilities, extensibility, and scalability. We explain how it’s designed to use AWS natural language understanding to provide enterprise and consumer interactions that replicate the experiences consumers have at home with their Echo products. Learn how to combine Amazon Connect with leading CRM, analytics, and workforce optimization/quality management platforms to provide a complete system of engagement and system of record for enterprises across all verticals and size ranges.",
+        "date": "2017-11-28T19:05:12Z",
+        "duration": 2626
     },
     {
         "service": "amazon_connect",
         "videoId": "i9ISkHPMTXw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference 2018"
+        ],
         "title": "Build an Omni-Channel Experience with Amazon Connect and Amazon Lex (Level 200)",
-        "date": "2018/08/24"
+        "description": "Learn more about the AWS Innovate Online Conference at - https://amzn.to/2MufMV0.\nCustomer experience is one of the most important strategic measurements for customer satisfaction, but keeping pace with customer behavior can be challenging. Chatbots provide one of the largest areas for growth and opportunities to drive new customer experiences. Coupled with Amazon Connect—an easy-to-use, cloud-based contact center service—organizations can create new omni-channel experiences that engage customers in new and better ways. In this session, we show you how to quickly set up an Amazon Connect contact center. We also show you how to use Amazon Lex to build intelligent conversational chatbots and integrate them with your contact center workflows, enabling you to offer a personalized and dynamic caller experience.\n\nSpeaker: Stefan Buchman, Solution Architect, Amazon Web Services",
+        "date": "2018-08-24T19:51:39Z",
+        "duration": 1573
     },
     {
         "service": "amazon_connect",
         "videoId": "Jq-sCoaYXW4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS New York Summit 2019: Amazon Connect for IT Support: Johnson & Johnson Case Study (SVC201)",
-        "date": "2019/07/23"
+        "description": "Learn more about AWS Global Summits  at – https://amzn.to/2JJgt9S\nJohnson & Johnson partnered with Atos Digital Workplace to drive personalization and automation around their IT help desk by using Amazon Connect. Join us and learn how the Amazon Connect platform enabled the capabilities to transform the end-user experience.",
+        "date": "2019-07-23T22:47:32Z",
+        "duration": 2768
     },
     {
         "service": "amazon_connect",
         "videoId": "4vV7A46IcHk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Customer and Constituent Engagement with Amazon Connect",
-        "date": "2019/06/20"
+        "description": "AWS Customers can revolutionize their engagement and service of customers and constituents powered by the same technology and tools used for Amazon.com. Amazon Connect is an easy-to use, cloud-based contact center solution for governments and businesses that want to deliver a personalized, customer-centric experience. Join Mike Vozas and Jason Shaffer, Public Sector Amazon Connect Experts who will share some of our public sector customer success stories, partner solutions, and best practices for using Amazon Connect in the State and Local Government, Nonprofits, and Federal Government.",
+        "date": "2019-06-20T17:32:11Z",
+        "duration": 3011
     },
     {
         "service": "amazon_connect",
         "videoId": "JBFT18lYUDY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Empowering Customer Service with Amazon Connect and Machine Learning (Level 300)",
-        "date": "2019/04/03"
+        "description": "Learn more about AWS Innovate Online Conference at – https://amzn.to/2FZiig3 \nCustomer experience remains one of the most important strategic measurements for organisational performance but, keeping pace with customer behaviour can be challenging. Amazon Connect is a simple to use, cloud-based contact centre service that makes it easy for any business to deliver engaging customer service interactions. Using the Amazon Connect integration with the machine learning services on AWS, you can use self-service configuration tools to accomplish in days what would often have taken months like building chatbots into customer call workflows. In this presentation, we will show you how Amazon Connect can be integrated with Amazon Transcribe, Amazon Comprehend, and Amazon Lex to enable organisations to deliver transformational omni-channel experiences to their customers.\n\nSpeaker: Sumit Patel, Enterprise Solution Architect, AWS, ANZ",
+        "date": "2019-04-03T17:44:13Z",
+        "duration": 1278
     },
     {
         "service": "amazon_connect",
         "videoId": "rSzDFJGw5vg",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Lama",
+            "Business Apps",
+            "BAP202",
+            "Connect",
+            "Mobile"
+        ],
         "title": "AWS re:Invent 2017: Amazon Connect Delivers Personalized Customer Experiences (BAP202)",
-        "date": "2017/11/28"
+        "description": "Join us for an overview and demonstration of Amazon Connect, a self-service, cloud-based contact center based on the same technology used by Amazon customer service associates worldwide to power millions of conversations. The self-service graphical interface in Amazon Connect makes it easy to design contact flows for self and assisted call-handling experiences, manage agents, and track performance metrics – no specialized skills required. In this session, you will hear from Capital One and T-Mobile on how they are using Amazon Connect to provide their customers with dynamic, natural, and personalized experiences. See how quickly you can get started with Amazon Connect and build your contact center.",
+        "date": "2017-11-28T18:56:12Z",
+        "duration": 3329
     },
     {
         "service": "amazon_connect",
         "videoId": "DDARPuwoyiI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "ContactCentre",
+            "AmazonConnect",
+            "CustomerExperience",
+            "DXCTechnology"
+        ],
         "title": "DXC Transforms Service Desks and Improves Customer Experience with AWS",
-        "date": "2020/03/12"
+        "description": "DXC benefits from replacing its legacy technology with Amazon Connect, the cloud contact center service from AWS. \n\nBusiness benefits:\n• Improving customer satisfaction by enabling personalization\n• Reduction in Operations cost 30–40%\n• Reduction in time spent on IVR script changes from 2 months to a few hours\n• Lowers customer on-boarding time from 3 months to between 5 weeks and 2 months \n\nLearn more about DXT at https://amzn.to/38HslTf\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSCustomer #AmazonConnect",
+        "date": "2020-03-12T19:16:41Z",
+        "duration": 117
     },
     {
         "service": "amazon_connect",
         "videoId": "cmlhEbm1kPk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "serverless",
+            "machinelearning",
+            "cx",
+            "Amazon Simple Storage Service (S3)",
+            "AWS Lambda",
+            "Amazon DynamoDB",
+            "Amazon Transcribe",
+            "Amazon Translate",
+            "Amazon Polly",
+            "Amazon Lex",
+            "AWS Direct Connect",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "DXC + Munich Re: Amazon Connect with AWS Machine Learning Services",
-        "date": "2019/08/02"
+        "description": "In this episode of This Is My Architecture - https://amzn.to/2YeVPar, learn how DXC helped Munich Re implement Amazon Connect, a serverless, self-service, cloud-based contact center, coupled with AWS machine learning services such as Amazon Translate, Amazon Transcribe, and Amazon Lex enabling the financial institution to deliver personalized, high-quality service experiences to their customers while complying with regulations.\n\nHost: Gerardo Estaba, Senior Partner Solutions Architect, AWS\nCustomer: Matt Cudworth, AWS Practice Executive, DXC\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-08-02T15:00:06Z",
+        "duration": 374
     },
     {
         "service": "amazon_connect",
         "videoId": "HHtxiQKBmGI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon Connect",
+            "Contact lens",
+            "Contact center",
+            "Workforce",
+            "Continuity",
+            "Amazon",
+            "Connect",
+            "contact lens",
+            "customer experience",
+            "contact center",
+            "customer engagement",
+            "ml-powered",
+            "analytics",
+            "machine learning",
+            "artificial intelligence"
+        ],
         "title": "Enterprise Connect 2020 : ML-Powered Analytics with Contact Lens for Amazon Connect",
-        "date": "2020/09/04"
+        "description": "Using machine learning natural language processing (NLP) and speech-to-text, Contact Lens for Amazon Connect transcribes contact center calls to create a fully searchable archive and to surface valuable customer insights. In this Enterprsie Connect session, learn how you can use machine learning (ML) powered analytics with no coding to discover deep customer insights from your contact center. \n\nDiscover emerging themes and trends from customer conversations, leverage call-specific analytics, and conduct fast, full-text searches on transcripts, all directly in Amazon Connect.\n\nLearn more about Amazon Connect at https://amzn.to/3gY8FhL\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS#AmazonConnect #ContactLens",
+        "date": "2020-09-04T18:03:56Z",
+        "duration": 1458
     },
     {
         "service": "amazon_connect",
         "videoId": "uRxCk8_JzEk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Solving with AWS Solutions",
+            "AI/ML",
+            "AI Speech Analysis",
+            "Amazon Connect",
+            "Call Center",
+            "Amazon Transcribe",
+            "Amazon Translate",
+            "Amazon S3",
+            "call monitoring",
+            "caller sentiment",
+            "sentiment analysis"
+        ],
         "title": "Solving with AWS Solutions: AI Powered Speech Analytics for Amazon Connect",
-        "date": "2020/05/02"
+        "description": "Solution Link: https://tinyurl.com/SolvingwithAWSSolutionsAISA\nThe AI Powered Speech Analytics for Amazon Connect solution provides customer insights in real time, and helps agents and supervisors better understand and respond to customer needs so they can resolve customer issues and improve the overall customer experience. The solution includes pre-trained AWS artificial intelligence (AI) services that enable customers to transcribe, translate, and analyze each customer interaction in Amazon Connect, and presents this information to assist contact center agents during their conversations.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-05-02T14:28:27Z",
+        "duration": 311
     },
     {
         "service": "amazon_connect",
         "videoId": "-Fbso6LiWkU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Salesforce Service Cloud",
+            "salesforce",
+            "Amazon Connect"
+        ],
         "title": "Salesforce Service Cloud and Amazon Connect Transform Customer Service in the Cloud",
-        "date": "2017/11/01"
+        "description": "Salesforce Service Cloud and Amazon Connect deliver world-class customer service. Easily set up and manage a customer contact center in minutes and then fully connect it to service case histories and CRM data. Learn more at - http://amzn.to/2zd4Za1.",
+        "date": "2017-11-01T19:19:13Z",
+        "duration": 82
     },
     {
         "service": "amazon_connect",
         "videoId": "CUwL23VTzng",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Business Apps",
+            "BAP304",
+            "Connect",
+            "AWS Lambda"
+        ],
         "title": "AWS re:Invent 2017: How To Use AWS IoT and Amazon Connect to Drive Proactive Custome (BAP304)",
-        "date": "2017/12/01"
+        "description": "Learn how to use Amazon Connect with AWS IoT and AWS Lambda to proactively resolve customer issues before they occur. In this session, we show you how to configure an AWS IoT device to proactively place a phone call to a customer using the Amazon Connect API when an impending problem is detected. From there, we demonstrate how Amazon Connect contact flows make the customer interaction personal, more satisfying, and less costly.",
+        "date": "2017-12-01T16:49:32Z",
+        "duration": 2116
     },
     {
         "service": "amazon_connect",
         "videoId": "Idg8c9rf4u4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "startups",
+            "automation"
+        ],
         "title": "Wag: CX Automation with AWS Connect, Lex and Lambda",
-        "date": "2019/04/05"
+        "description": "Learn more about AWS Startups at – https://amzn.to/2D1L7Ye \nDave Bullock, Sr. Director of Technology, Engineering and Operations at Wag Labs, Inc. talks about CX automation with AWS Connect, Lex and Lambda at the 2019 AWS Santa Clara Summit.",
+        "date": "2019-04-05T20:41:30Z",
+        "duration": 661
     },
     {
         "service": "amazon_connect",
         "videoId": "uqmIet8GMaE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Connect",
+            "Tom Wiland",
+            "Enterprise Connect 2017 keynote"
+        ],
         "title": "Enterprise Connect 2017 | Tom Weiland of AWS Announces Amazon Connect",
-        "date": "2017/04/07"
+        "description": "Watch Tom Weiland, VP of Worldwide Customer Service for Amazon, announce the launch of Amazon Connect, at the Enterprise Connect 2017 keynote. Amazon Connect is a self-service, cloud-based contact center service that makes it easy for any business to deliver better customer service at lower cost. Hear how Brian Pearson, CTO of GE Appliances, has been implementing Amazon Connect to simplify and personalize the consumer experience. Learn more about Amazon Connect here - http://amzn.to/2p6CLFl.",
+        "date": "2017-04-07T17:07:45Z",
+        "duration": 1674
     },
     {
         "service": "amazon_connect",
         "videoId": "wLCABAcgH-M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "ML",
+            "Amazon Connect",
+            "Contact Lens",
+            "Contact Centers"
+        ],
         "title": "AWS What’s Next ft. Contact Lens for Amazon Connect",
-        "date": "2020/08/31"
+        "description": "Yasser El-Haggan, Head of Solutions Architecture, Amazon Connect shares how Contact Lens for Amazon Connect is a set of machine learning (ML) capabilities that contact center supervisors can use to better understand the sentiment and compliance of customer conversations. For more information go to https://amzn.to/3fts7Cw\n\nWant to tune in live for the next episode? You can find dates and more information about our upcoming streams at - https://amzn.to/32jG4OY\n\nWatch past AWS What’s Next episodes at http://bit.ly/2O3zS75 \n\nCheck out our AWS What’s Next podcast on iTunes and Spotify\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-08-31T19:31:41Z",
+        "duration": 3275
     },
     {
         "service": "amazon_connect",
         "videoId": "tJLKJiSKBqY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS New York Summit 2018",
+            "AWS Launchpad",
+            "Twitch",
+            "Kabir Singh Chandhok",
+            "Kelly Dyer",
+            "Ian Massingham"
+        ],
         "title": "AWS NY Summit - Improving Patient Transportation & Appt. Attendance Using Amazon Connect & Polly",
-        "date": "2018/07/26"
+        "description": "Learn more about the AWS Twitch Channel at - https://amzn.to/2LTFrSO.\n The AWS Summit was a free event designed to bring together the cloud computing community to connect, collaborate, and learn about AWS. AWS live streamed the event with the AWS Launchpad, featuring technical discussions, announcements, demos, customer interviews and live Q&A with the Twitch community. Learn more about the AWS Twitch Channel at https://aws.amazon.com/twitch.\n\nAccess to transportation plays an important role in maintaining an individual’s health, and whether it is due to physical limitations or other circumstances, standard public transportation may not always be available or the best option. Non-emergency medical transportation (NEMT) is a critical service available for individuals who would otherwise not be able to get to important medical appointments. Learn how Sourcefuse boosts customer service for NEMT riders by giving them the ability to track their ride, and communicate with the driver and dispatcher about any changes that may come up last-minute.\n\nHost: \n- Ian Massingham, Sr. Technical Evangelist, AWS\nGuests: \n- Kelly Dyer, CEO, SourceFuse\n- Kabir Singh Chandhoke, COO, SourceFuse",
+        "date": "2018-07-26T20:12:32Z",
+        "duration": 1166
     },
     {
         "service": "amazon_connect",
         "videoId": "M-ElnfVm3og",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Connect",
+            "Amazon Lex",
+            "Amazon EC2",
+            "Amazon Kinesis Data Streams",
+            "Amazon Elasticsearch Service",
+            "AWS Lambda",
+            "Amazon CloudWatch",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon Kinesis Data Firehose",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "NHS Business Services Authority: Building an Automated Call Centre and Learning from the Results",
-        "date": "2019/01/25"
+        "description": "In this episode of This Is My Architecture - https://amzn.to/2CEGEcW, hear about the custom solution that the NHS BSA built around Amazon Connect to both reduce average wait time, and learn from and iterate on customer responses.\n\nHost: John Studdert, Partner Solutions Architect, AWS\nCustomer: Chris Suter, Lead Cloud Architect, Digitisation, Insight & Technology Solutions\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-01-25T08:00:04Z",
+        "duration": 337
     }
 ]

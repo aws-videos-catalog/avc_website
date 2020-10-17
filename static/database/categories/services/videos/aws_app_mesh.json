@@ -2,67 +2,196 @@
     {
         "service": "aws_app_mesh",
         "videoId": "1UDRGlmbiZA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Anaheim Summit 2019",
+            "MAD301"
+        ],
         "title": "AWS Summit 2019 - Anaheim: Introduction to AWS App Mesh (MAD301)",
-        "date": "2019/04/16"
+        "description": "Learn more about AWS at - https://amzn.to/2VOc8pF.\nIn this session, learn how AWS App Mesh makes it easy to monitor and control microservices running on AWS. App Mesh standardizes how the microservices communicate, giving end-to-end visibility and helping ensure high availability for your applications.",
+        "date": "2019-04-16T22:37:24Z",
+        "duration": 3164
     },
     {
         "service": "aws_app_mesh",
         "videoId": "hfzWtXKrv88",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "EKS",
+            "Container Day"
+        ],
         "title": "AWS Container Day - App Mesh (Service Mesh Magic)",
-        "date": "2019/06/13"
+        "description": "Learn more about EKS on AWS at - https://amzn.to/2ZfCQsr.\nMissed the AWS Container Day 2019 in Barcelona? In this session, learn about how AWS App Mesh can help give you end-to-end visibility and manage traffic routing to ensure high availability for your microservices. We will cover the need for a service mesh, capabilities of App Mesh, and show you a demo.\n\nLearn more about App Mesh: https://aws.amazon.com/app-mesh/",
+        "date": "2019-06-13T16:00:05Z",
+        "duration": 2332
     },
     {
         "service": "aws_app_mesh",
         "videoId": "qTE1PbdY3hY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Introducing AWS Cloud Map and AWS App Mesh",
-        "date": "2018/11/30"
+        "description": "In this session, we will introduce two AWS services that will make it easy for you to discover your cloud resources to run microservices on AWS. AWS Cloud Map is a cloud resource discovery service. Cloud Map allows you to register any application resources with custom names and then constantly checks the health of these resources to make sure the location is up-to-date. AWS App Mesh makes it easy to monitor and control your microservices running on AWS. App Mesh standardizes how your microservices communicate, giving you end-to-end visibility and helping to ensure high-availability for your applications. AWS Cloud Map: Get started with Cloud Map: https://console.aws.amazon.com/cloudmap  AWS App Mesh: Learn more about App Mesh: https://aws.amazon.com/app-mesh \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:49:59Z",
+        "duration": 1209
     },
     {
         "service": "aws_app_mesh",
         "videoId": "GVni3ruLSe0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Containers",
+            "CON367"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing AWS App Mesh – Service Mesh on AWS (CON367)",
-        "date": "2018/12/01"
+        "description": "AWS App Mesh is a service mesh that makes it easy to monitor and control communications for containerized microservices running on AWS. Join us to learn about how AWS can give you end-to-end visibility, and help manage traffic routing to ensure high availability for your services. We will cover the benefits of service mesh, capabilities provided by AWS App Mesh and how you can use AWS App Mesh with AWS, partner, and community tools.",
+        "date": "2018-12-01T22:26:39Z",
+        "duration": 2828
     },
     {
         "service": "aws_app_mesh",
         "videoId": "mf-R6O7YTsk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "How Wavefront (by VMware) and Weaveworks integrated with AWS App Mesh",
-        "date": "2019/04/03"
+        "description": "AWS App Mesh is an application level networking service. App Mesh makes it easy for your services to communicate with each other, across multiple compute primitives. In this session, we talk to 2 AWS partners Wavefront (by VMware) and Weaveworks, to show how they integrated with App Mesh.\n\nLearn more about AWS on Twitch: https://amzn.to/2uGYoB3",
+        "date": "2019-04-03T19:02:21Z",
+        "duration": 1329
     },
     {
         "service": "aws_app_mesh",
         "videoId": "YYgbcb1VM8c",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws builders day",
+            "builders day",
+            "developers",
+            "buildon",
+            "containers",
+            "cloudmap",
+            "app mesh",
+            "firecracker"
+        ],
         "title": "AWS Builders' Day | re:Invent round up, CloudMap, App Mesh and Firecracker",
-        "date": "2018/12/09"
+        "description": "See what you can build: https://amzn.to/2ryQs3a.\nGet started with Containers at https://aws.amazon.com/containers/.\n\nContainers allow you to easily package your application's code, configurations, and dependencies into easy to use building blocks that deliver environmental consistency, operational efficiency, developer productivity, and version control, regardless of deployment environment. Running containers in the AWS Cloud allows you to build robust, scalable applications and services by leveraging the benefits of the AWS Cloud such as elasticity, availability, security, and economies of scale. Learn how to run Docker-enabled applications at scale on AWS.\"",
+        "date": "2018-12-19T18:48:14Z",
+        "duration": 2114
     },
     {
         "service": "aws_app_mesh",
         "videoId": "h3syq1vbplE",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CON323-R1",
+            "Containers",
+            "AWS App Mesh"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] AWS App Mesh under the hood (CON323-R1)",
-        "date": "2019/12/04"
+        "description": "In this session, senior AWS engineers give you a behind-the-scenes look at the building of AWS App Mesh. We discuss the nuts and bolts of this service, including why we built a managed control plane and how AWS monitors, tests, and deploys the control plane. You also learn how we do scaling, debugging, and logging.",
+        "date": "2019-12-04T17:25:34Z",
+        "duration": 3572
     },
     {
         "service": "aws_app_mesh",
         "videoId": "ahutmBvK7tA",
+        "tags": [
+            "Container Day San Diego",
+            "Session Shubha Rao",
+            "App Mesh",
+            "AWS",
+            "Amazon devops",
+            "Amazon Web Services",
+            "EKS",
+            "Event",
+            "Amazon"
+        ],
         "title": "AWS App Mesh - Shubha Rao",
-        "date": "2019/12/30"
+        "description": "Learn more about App Mesh on AWS at - https://amzn.to/354mK7o.\nHear from Shubha Rao, Principal Product Manager, about App Mesh features and roadmap.",
+        "date": "2019-12-30T16:44:36Z",
+        "duration": 931
     },
     {
         "service": "aws_app_mesh",
         "videoId": "gY9wK8xxQm8",
+        "tags": [
+            "Container Day San Diego - Session Stefan Prodan",
+            "Weaveworks",
+            "Progressive delivery",
+            "Flagger",
+            "AWS",
+            "Amazon Web Services",
+            "EKS",
+            "Event",
+            "Amazon"
+        ],
         "title": "Progressive Delivery with AWS App Mesh & Amazon EKS - Flagger - Stefan Prodan",
-        "date": "2019/12/30"
+        "description": "Learn more about EKS on AWS at - https://amzn.to/2F0PNy8.\nIn this session, hear from Stefan Prodan from Weaveworks, about progressive Delivery with AWS App Mesh & Amazon EKS, using Flagger, a service mesh progressive delivery operator.",
+        "date": "2019-12-30T16:45:34Z",
+        "duration": 1502
     },
     {
         "service": "aws_app_mesh",
         "videoId": "qM4uf9l5lus",
+        "tags": [
+            "AWS",
+            "Events",
+            "app mesh",
+            "service mesh",
+            "ecs",
+            "eks"
+        ],
         "title": "AWS Cloud Containers Conference - Deep Dive on Configuring AWS App Mesh",
-        "date": "2020/08/07"
+        "description": "In this talk, we cover an introduction to AWS App Mesh, why you might consider using a service mesh, and a demo on App Mesh.\n\nLearn more about AWS App Mesh at - https://amzn.to/33IkeqL\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#Containers #App Mesh #Mridula #AWS",
+        "date": "2020-08-07T23:46:23Z",
+        "duration": 2203
     },
     {
         "service": "aws_app_mesh",
         "videoId": "ib_r5nxo2OQ",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CON406-R1",
+            "Containers",
+            "Chick-fil-A",
+            "AWS App Mesh",
+            "AWS Fargate"
+        ],
         "title": "AWS re:Invent 2019: Application-level network management & observability w/ App Mesh (CON406-R1)",
-        "date": "2019/12/11"
+        "description": "AWS App Mesh provides enterprise-ready features beyond what is available through open-source solutions for application-level networks. In this session, we do a deep dive on best ways to onboard your applications to App Mesh, including how to configure your application, layer in different capabilities, tune your route settings, and configure dashboards needed to observe apps. You also learn what your teams should know to maximize value from App Mesh.",
+        "date": "2019-12-11T20:07:41Z",
+        "duration": 3602
     }
 ]

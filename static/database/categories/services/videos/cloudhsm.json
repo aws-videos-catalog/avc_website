@@ -2,49 +2,152 @@
     {
         "service": "cloudhsm",
         "videoId": "_gezaWmwzYY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Inforce",
+            "AWS re:Inforce 2019",
+            "security",
+            "identity",
+            "compliance",
+            "cloud security",
+            "AWS security",
+            "cloud security community",
+            "learning conference",
+            "Detective Controls",
+            "Infrastructure Security",
+            "Data Protection",
+            "Incident Response",
+            "Governance",
+            "Risk",
+            "Compliance",
+            "security best practices",
+            "Security Deep Dive",
+            "AWS re:Inforce 2019 Sessions",
+            "Session",
+            "SDD333",
+            "Stephen Quigg",
+            "300 - Advanced"
+        ],
         "title": "AWS re:Inforce 2019: Achieving Security Goals with AWS CloudHSM (SDD333)",
-        "date": "2019/06/26"
+        "description": "This talk compares AWS CloudHSM to other AWS cryptography services for common use cases. We dive deep on how to build scalable, reliable workloads with CloudHSM, and we cover configuration of the service for performance, error resilience, and cross-region redundancy.",
+        "date": "2019-06-26T20:16:04Z",
+        "duration": 2961
     },
     {
         "service": "cloudhsm",
         "videoId": "0fpPESoFCew",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "TWITCH"
+        ],
         "title": "Live from the NY Summit | AWS CloudHSM Launch",
-        "date": "2017/08/21"
+        "description": "Host: Abby Fuller\nGuests: Bill Shinn, Principal Solution Architect of AWS Security\nDate: August 14, 2017\nLive from the AWS Summit in NYC, Abby Fuller and Bill Shinn discuss the launch of AWS CloudHSM on twitch.tv/aws. For more information on the AWS Twitch Channel and upcoming live coding episodes, visit\nhttps://aws.amazon.com/twitch. To learn more about AWS CloudHSM Launch, please visit http://amzn.to/2il4mnX.",
+        "date": "2017-08-21T22:16:18Z",
+        "duration": 916
     },
     {
         "service": "cloudhsm",
         "videoId": "IMxImFoVpmI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Public Sector Summit Singapore 2017"
+        ],
         "title": "Staying Armed with AWS Cloud HSM and AWS WAF",
-        "date": "2017/10/18"
+        "description": "Learn more about AWS at - http://amzn.to/2ggFlGu\n\n---AWS Public Sector Summit Singapore 2017---\nIn the cloud, security is priority number one. In this session, you will learn how to run restricted workloads using AWS CloudHSM, a cloud-based hardware security module that enables you to easily generate and use your own encryption keys. Discover how to protect your web-based infrastructure from an advanced security threat such as distributed denial-of-service or layer 7 attack. Witness a demo on how to set up an AWS CloudHSM cluster across multiple availability zones. Build AWS WAF – a customizable firewall – with OWASP Top 10 2017 security controls with help from AWS CloudFormation.\n\n- Technical Track\n- Speaker: Ankush Chowdhary, World Wide Public Sector, Head, Security Risk Compliance, Amazon Web Services",
+        "date": "2017-10-18T16:35:35Z",
+        "duration": 1638
     },
     {
         "service": "cloudhsm",
         "videoId": "t15Ijwzs48k",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I view my AWS CloudHSM Audit logs?",
-        "date": "2019/12/23"
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/2o1cGMA\nShubhansu, an AWS Cloud Support Engineer, shows you how to view your AWS CloudHSM Audit logs.",
+        "date": "2019-12-23T19:59:55Z",
+        "duration": 163
     },
     {
         "service": "cloudhsm",
         "videoId": "AAitIKFeO6k",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Announcing KMS Custom Key Stores using CloudHSM",
-        "date": "2018/11/30"
+        "description": "AWS Key Management Service (KMS) custom key stores give customers the opportunity to increase the level of control that they have over encryption keys that protect their data across AWS. KMS customers can now create a dedicated, single-tenant key store in KMS by using a AWS CloudHSM cluster that they control. \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:34:19Z",
+        "duration": 1201
     },
     {
         "service": "cloudhsm",
         "videoId": "qW9y5lBig_8",
+        "tags": [
+            "AWS",
+            "cloud",
+            "cloud computing",
+            "New York Summit 2017",
+            "AWS CloudHSM",
+            "Amazon Web Services"
+        ],
         "title": "AWS Summit Series 2017 - New York: Introducing the New AWS CloudHSM",
-        "date": "2017/08/17"
+        "description": "Learn more about AWS CloudHSM at - http://amzn.to/2weZcA0.\nAnnouncing the new AWS CloudHSM. The new CloudHSM offers you cost effective hardware key management at cloud scale for sensitive and regulated workloads. You can now generate and use encryption keys using FIPS 140-2 Level 3 validated hardware security modules (HSMs) on the AWS Cloud. CloudHSM integrates with your applications using industry-standard APIs, such as PKCS#11, Java Cryptography Extensions (JCE), and Microsoft CryptoNG (CNG). It is also standards-compliant and enables you to export all of your keys to most other commercially-available HSMs. CloudHSM is a fully-managed service that automates time-consuming administrative tasks for you, such as hardware provisioning, software patching, high-availability, and backups. With CloudHSM, you can add and remove HSM capacity on-demand, with no up-front costs.",
+        "date": "2017-08-17T22:38:36Z",
+        "duration": 74
     },
     {
         "service": "cloudhsm",
         "videoId": "hCxkWGAWJCM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS Symposium - Washington, DC | Encryption Revolution: Protecting Your Data With KMS and CloudHSM",
-        "date": "2015/08/14"
+        "description": "Every month or two AWS releases new capabilities that make data encryption in the cloud easier, stronger, better. Stepping back and looking at the big picture, the sum total of these changes is nothing short of revolutionary when it comes to data protection and control. In this session we will dive deep on two key services and their integration with other services. Together these capabilities usher in a new era of safe and secure computing for AWS customers. Speaker(s):\n\nCamil Samaha\nManager, Solutions Architecture, Amazon Web Services\n\nNathan McGuirt\nSenior Solutions Architect, Amazon Web Services\n\nView more here http://oak.ctx.ly/r/3cz00",
+        "date": "2015-08-14T16:07:18Z",
+        "duration": 2334
     },
     {
         "service": "cloudhsm",
         "videoId": "Vox-PDRHIUs",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "SEC305-R1",
+            "Security",
+            "Compliance",
+            "and Identity",
+            "AWS CloudHSM",
+            "AWS KMS"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Achieving security goals with AWS CloudHSM (SEC305-R1)",
-        "date": "2019/12/09"
+        "description": "In this talk, we compare AWS CloudHSM with other AWS cryptography services for common use cases. We dive deep on how to build scalable, reliable workloads with CloudHSM, and we teach you how to configure the service for performance, error resilience, and cross-region redundancy.",
+        "date": "2019-12-09T18:51:59Z",
+        "duration": 3366
     }
 ]

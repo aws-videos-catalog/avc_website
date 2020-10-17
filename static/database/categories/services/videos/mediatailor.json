@@ -2,13 +2,48 @@
     {
         "service": "mediatailor",
         "videoId": "GHZWrneWXx8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS re:Invent Launchpad 2017 - AWS Elemental: MediaPackage, MediaLive, MediaStore,....",
-        "date": "2017/12/08"
+        "description": "Media services from AWS Elemental power video workflows for media and entertainment franchises worldwide. Solutions from AWS Elemental allow broadcast TV and multiscreen video to be customized, originated and monetized at global scale. Learn more at - hhttp://amzn.to/2C0OFrD. This gives customers the ability to quickly, easily and economically scale and optimize video operations and the freedom to focus on what matters: transforming ideas into compelling content that captivates viewers. \n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:32:16Z",
+        "duration": 2015
     },
     {
         "service": "mediatailor",
         "videoId": "d-XCfp97pX0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Elemental",
+            "Media Convert",
+            "Encoding",
+            "Video",
+            "Video on Demand",
+            "Node.js",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon S3 Glacier",
+            "AWS Lambda",
+            "Amazon DynamoDB",
+            "Amazon CloudWatch",
+            "Amazon CloudFront",
+            "AWS Step Functions",
+            "AWS Elemental MediaConvert",
+            "AWS CloudFormation",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "AWS Solutions: Video on Demand (VOD)",
-        "date": "2019/09/24"
+        "description": "Tom from our very own AWS Solutions Builder team walks us through an end-to-end solution that he built for video on demand (VOD) on AWS. Customers are already using this solution to run over 60,000 encoding jobs every month. You'll learn how Tom used Step Functions for the orchestration layer, Lambda for Node.js microservices, Elemental Media Convert to generate videos in a variety of file formats, and many more services to complete the solution, including S3, CloudFront, CloudWatch, DynamoDB and CloudFormation.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-09-24T15:25:59Z",
+        "duration": 514
     }
 ]

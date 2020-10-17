@@ -2,13 +2,53 @@
     {
         "service": "amazon_interactive_video_service",
         "videoId": "_p81-WU1lQ0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "amazon interactive video service",
+            "interactive video service",
+            "interactive video aws",
+            "aws interactive video",
+            "aws video services",
+            "aws cloud",
+            "video services aws",
+            "video service aws",
+            "video service amazon",
+            "video streaming aws",
+            "video streaming service aws",
+            "aws new services",
+            "aws new service releases",
+            "aws new services 2020",
+            "new aws releases",
+            "aws cloud service",
+            "aws video service",
+            "aws video",
+            "amazon ivs"
+        ],
         "title": "Interactive Video Service",
-        "date": "2020/07/29"
+        "description": "In this episode of Community Chats, Aley Hammer invites Rob Taylor, Solution Architect at AWS to discuss Amazon Interactive Video Service. Rob addresses what Amazon Interactive Service is, how it is different from the Elemental Media Suite, What kind of applications require interactivity and how this new service can handle both real time interaction and hundreds of thousands of users interacting with your stream. \n\nLearn more about Amazon Interactive Video Service at https://amzn.to/2BGqWSp\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n \n\n#AWS",
+        "date": "2020-07-29T22:20:04Z",
+        "duration": 177
     },
     {
         "service": "amazon_interactive_video_service",
         "videoId": "bD_kpSNh50U",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS IVS",
+            "Video",
+            "Twitch"
+        ],
         "title": "AWS What's Next ft. Amazon IVS",
-        "date": "2020/08/14"
+        "description": "Martin Hess, GM of Amazon IVS, Emmett Shear, CEO of Twitch and Max Stoller, Senior Product Manager, Amazon IVS demonstrates Amazon Interactive Video Service (IVS), a managed live streaming service, that gives user access to technology that powers Twitch via the AWS console. Get more information at https://amzn.to/3eVW1iy\n\nWant to tune in live for the next episode? You can find dates and more information about our upcoming streams at - https://amzn.to/2DEiEeV \nWatch past AWS What’s Next episodes at http://bit.ly/2O3zS75 \nCheck out our AWS What’s Next podcast on iTunes and Spotify\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-08-14T23:13:09Z",
+        "duration": 4143
     }
 ]

@@ -2,169 +2,507 @@
     {
         "service": "aws_amplify",
         "videoId": "SnqABG8e9Zk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws",
+            "awspsssummit",
+            "aws public sector summit canberra"
+        ],
         "title": "Create Modern Serverless Web Applications in Minutes using the AWS Amplify Framework",
-        "date": "2019/10/17"
+        "description": "Learn more about AWS Public Sector Summit Canberra at – https://amzn.to/2VQxW4y \nAWS Amplify makes it easy for you to create, configure, and implement scalable mobile and web apps powered by AWS. In this session, we will explore how you can create, manage, and operate a full-stack, serverless single-page application with AWS Amplify. We will show you how you can rapidly build application backends and APIs using the Amplify toolchain and how the AWS Amplify Console provides a continuous deployment and hosting service for mobile and web applications. We will finish the session with a live coding demonstration creating a serverless web application using these tools.\n\nSpeaker: David Maccarone, Solutions Architect, AWS",
+        "date": "2019-10-17T21:13:05Z",
+        "duration": 1653
     },
     {
         "service": "aws_amplify",
         "videoId": "ZBroe4z66Zg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Accelerating App Development with AWS Amplify",
-        "date": "2019/06/20"
+        "description": "Looking for a way to build beautiful, cloud-native web and mobile apps? Seeking to eliminate the undifferentiated heavy lifting of a traditional, three-tier web application? AWS Amplify makes it a snap with an easy-to-use library, a powerful toolchain, a user-interface component library, and built-in capabilities such as authentication and analytics. Uncover how to bring your idea to life, scale it to the max, and delight your users in less time than before.",
+        "date": "2019-06-20T19:59:36Z",
+        "duration": 2577
     },
     {
         "service": "aws_amplify",
         "videoId": "DHLZAzdT44Y",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reactjs",
+            "amplify",
+            "hosting",
+            "spa",
+            "cicd"
+        ],
         "title": "Deploy a ReactJS app to the AWS Amplify Console",
-        "date": "2019/04/24"
+        "description": "Learn more about AWS Amplify Console at – https://amzn.to/2UEPWN6 \nThe Amplify Console provides hosting for fullstack serverless web apps. This video walks through deploying a ReactJS app to the Amplify Console.",
+        "date": "2019-04-24T19:24:34Z",
+        "duration": 207
     },
     {
         "service": "aws_amplify",
         "videoId": "CAueVfEYn6s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS AppSync",
+            "AWS Amplify",
+            "GraphQL",
+            "Vue",
+            "Mobile applications",
+            "API",
+            "front-end web development",
+            "mobile development"
+        ],
         "title": "Building Full Stack Cloud Apps with Vue and AWS Amplify",
-        "date": "2020/09/04"
+        "description": "This video will demonstrate how to easily add Authentication and a GraphQL API to share your favourite restaurants using Vue and AWS Amplify. The video will cover how to create an authentication flow and a GraphQL API including demonstrating real-time features. AWS Amplify is a set of tools and services that enables mobile and front-end web developers to build secure, scalable full stack applications, powered by AWS. With Amplify, it’s easy to create custom onboarding flows, develop voice-enabled experiences, build AI-powered real-time feeds, launch targeted campaigns, and more.\n\nLearn more about AWS Amplify at - https://amzn.to/31QWNK9\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-09-04T16:48:17Z",
+        "duration": 2003
     },
     {
         "service": "aws_amplify",
         "videoId": "wSHnmtnzbfs",
+        "tags": [
+            "aws amplify",
+            "aws amplify ios",
+            "aws ios",
+            "aws amplify auth",
+            "amplify auth",
+            "amplify authentication",
+            "aws authentication ios",
+            "amplify authentication ios",
+            "amplify auth sign in",
+            "amplify auth sign up",
+            "amplify auth sign out",
+            "amplify auth confirm",
+            "amplify auth confirmation code",
+            "amplify auth flow ios",
+            "amplify auth swiftui",
+            "amplify auth swift",
+            "amplify auth plugin",
+            "ios serverless auth",
+            "ios full stack auth",
+            "ios user session",
+            "ios sign in",
+            "ios login",
+            "ios sign up",
+            "ios login screen"
+        ],
         "title": "AWS Amplify Authentication Flow for iOS SwiftUI",
-        "date": "2020/08/05"
+        "description": "Learn more about AWS Amplify at - https://amzn.to/2BZwpE4\n\nThis video will demonstrate how to easily add Authentication to an iOS SwiftUI project with AWS Amplify. The video will cover how to create sign up, account confirmation, sign in, and sign out. AWS Amplify is a set of tools and services that enables mobile and front-end web developers to build secure, scalable full stack applications, powered by AWS. With Amplify, it’s easy to create custom onboarding flows, develop voice-enabled experiences, build AI-powered real-time feeds, launch targeted campaigns, and more.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-08-05T20:51:35Z",
+        "duration": 1537
     },
     {
         "service": "aws_amplify",
         "videoId": "kxuKS_MIFCE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing"
+        ],
         "title": "AWS Amplify Web Hosting - How to Deploy a React Application From the AWS Amplify CLI",
-        "date": "2020/06/12"
+        "description": "Learn more about AWS Amplify at - https://go.aws/2CbyiNv\nIn this video, learn how to deploy and update your React application to Amplify web hosting directly from the Amplify CLI.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-06-12T21:47:20Z",
+        "duration": 149
     },
     {
         "service": "aws_amplify",
         "videoId": "HSJNK8aTpgU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS Amplify Console and New Features in AWS AppSync",
-        "date": "2018/11/30"
+        "description": "The AWS Amplify Console is a continuous deployment and hosting service for modern web applications with serverless backends. Modern web applications include single page app frameworks like React, Angular, and Vue, and static-site generators like Jekyll, Hugo, and Gatsby. \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:51:15Z",
+        "duration": 1221
     },
     {
         "service": "aws_amplify",
         "videoId": "5YkGYB0qdzc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "web applications",
+            "AWS Amplify",
+            "Mobile",
+            "Amazon S3"
+        ],
         "title": "Store & Retrieve Data in Amazon S3 with React & AWS Amplify",
-        "date": "2018/11/08"
+        "description": "AWS Amplify https://amzn.to/2Qn7psf is a client library, CLI toolchain, and UI component library that allows developers to quickly create and connect to powerful services in the cloud. Amazon S3 is a popular service for storing media like images and videos, as well as for back-end services like application hosting, backups, and software delivery.\nThe AWS Amplify CLI enables us to create, configure, update, and delete S3 buckets. In this video you will learn how to create an S3 bucket as well as how to upload and download images and files to the bucket.",
+        "date": "2018-11-08T17:56:13Z",
+        "duration": 353
     },
     {
         "service": "aws_amplify",
         "videoId": "n4DuYTzpvdE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "web applications",
+            "AWS Amplify",
+            "Mobile"
+        ],
         "title": "Installing & Configuring the AWS Amplify CLI",
-        "date": "2018/11/08"
+        "description": "The AWS Amplify CLI https://amzn.to/2FjUfeH is a toolchain which includes a robust feature set for simplifying mobile and web application development. The CLI uses AWS CloudFormation and nested stacks, which allows you to add or modify configurations locally before you push them for execution in your account. On this short video you will learn how to install and configure the toolchain.",
+        "date": "2018-11-08T17:55:50Z",
+        "duration": 114
     },
     {
         "service": "aws_amplify",
         "videoId": "vAjf3lyjf8c",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Mobile",
+            "MBL403",
+            "API Gateway",
+            "Cognito",
+            "DynamoDB",
+            "Pinpoint",
+            "Analytics",
+            "AWS Lambda",
+            "Storage"
+        ],
         "title": "AWS re:Invent 2017: Analytics, Authentication and Data with JavaScript: AWS Amplify (MBL403)",
-        "date": "2017/11/30"
+        "description": "JavaScript based applications across mobile and web can be challenging to integrate with AWS services for teams that aren’t familiar with infrastructure operations. AWS Mobile has just launched a comprehensive open-source library, AWS Amplify, and tooling to help frontend and mobile developer quickly add features to their applications using a declarative programming style organized by categories of Authentication, Storage, APIs and Analytics. You’ll see how Serverless infrastructure for mobile and web applications can not only be launched in a couple of commands, but you can use the new tooling to iteratively add features and code to applications that under the covers interface with Amazon Cognito, Amazon S3, Amazon API Gateway, AWS Lambda, Amazon DynamoDB and Amazon Pinpoint. You’ll also see some framework specific techniques such as leveraging Higher Order Components (HOCs) in a React or React Native application as well as other best practices and utilities that AWS Mobile has released.",
+        "date": "2017-11-30T16:01:45Z",
+        "duration": 3443
     },
     {
         "service": "aws_amplify",
         "videoId": "PuD33WoNnaU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "web applications",
+            "AWS Amplify",
+            "Mobile",
+            "Cognito"
+        ],
         "title": "Using the withAuthenticator HOC to Implement a User Authentication Flow",
-        "date": "2018/11/08"
+        "description": "Leverage the AWS Amplify library, CLI, and UI components to add users to your applications. Learn how to create, validate and authenticate users into your application using AWS services. Learn more at - https://amzn.to/2F4LjJO.",
+        "date": "2018-11-08T17:55:59Z",
+        "duration": 284
     },
     {
         "service": "aws_amplify",
         "videoId": "KZHgmhTa8iw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "web applications",
+            "AWS Amplify",
+            "Mobile"
+        ],
         "title": "Deploying Your React Application to AWS Using the AWS Amplify CLI",
-        "date": "2018/11/08"
+        "description": "AWS Amplify https://amzn.to/2qyDbHA enables developers to build full-stack, cloud-enabled apps more easily than ever before, allowing developers to iterate quickly, directly from their front-end environment. In this video you will learn how you can deploy a web application using the capabilities of the AWS Amplify CLI.",
+        "date": "2018-11-08T17:56:21Z",
+        "duration": 63
     },
     {
         "service": "aws_amplify",
         "videoId": "1CzuKblf2DQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "web applications",
+            "AWS Amplify",
+            "React",
+            "mobile"
+        ],
         "title": "Creating & Configuring a New AWS Amplify Project with a React Application",
-        "date": "2018/11/08"
+        "description": "Learn how to quickly build a React application powered by AWS Services with AWS Amplify. Learn more at - https://amzn.to/2OuJNA0.",
+        "date": "2018-11-08T17:55:54Z",
+        "duration": 124
     },
     {
         "service": "aws_amplify",
         "videoId": "TxTnLLpSRq0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "web applications",
+            "AWS Amplify",
+            "Mobile",
+            "Lambda",
+            "serverless"
+        ],
         "title": "Creating & Interacting with a Serverless AWS Lambda REST API with React & AWS Amplify",
-        "date": "2018/11/08"
+        "description": "In multiple occasions, your applications needs to make call to a REST API. In this video you will learn how easy is to create serverless REST APIs using the CLI and the amplify create api command. Learn more at - https://amzn.to/2qxrSiB.",
+        "date": "2018-11-08T17:56:10Z",
+        "duration": 363
     },
     {
         "service": "aws_amplify",
         "videoId": "hSMFtJLI3Uo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Take Mobile and Web Apps to the Next Level with AWS AppSync and AWS Amplify",
-        "date": "2019/06/20"
+        "description": "In this session, learn how the latest features of AWS AppSync and AWS Amplify enable you to use GraphQL for real-time data streams to client apps, along with advanced caching and offline operations. See the latest techniques for automatic backend provisioning and discover capabilities for advanced querying.",
+        "date": "2019-06-20T15:47:57Z",
+        "duration": 2954
     },
     {
         "service": "aws_amplify",
         "videoId": "6vFVyb2T3b4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "San Francisco Loft",
+            "AWS Mobile"
+        ],
         "title": "AWS Mobile Week - San Francisco: Introduction to AWS Amplify Toolchain",
-        "date": "2018/10/30"
+        "description": "Learn more about AWS Mobile at - https://amzn.to/2Pg2uMv.\nIn this interactive session we demonstrated and explained  how to install, configure, and run the Amplify CLI. We will build a quick AppSync API with Codegen, create a new project, and explore the resources created by the CLI. Expect to follow along setting up your own environment for PC or Mac.\n\nSpeaker: Dennis Hills – Developer Advocate, AWS Mobile Applications",
+        "date": "2018-10-30T16:49:13Z",
+        "duration": 4333
     },
     {
         "service": "aws_amplify",
         "videoId": "a_klcMRUfaM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS AppSync",
+            "Web applications",
+            "Mobile Applications",
+            "Serverless",
+            "AWS Amplify"
+        ],
         "title": "Building AWS AppSync APIs Using the AWS Amplify CLI",
-        "date": "2018/12/04"
+        "description": "Learn how to get access to all the AWS Appsync functionality through the AWS Amplify CLI. With just a few commands you will be able to build complex back ends connecting your application to multiple data sources. Learn more at - https://amzn.to/2RFAgZ3.",
+        "date": "2018-12-04T15:32:19Z",
+        "duration": 543
     },
     {
         "service": "aws_amplify",
         "videoId": "pZ61oDwrCK0",
-        "title": "Creating & Interacting with an AWS AppSync GraphQL API with React & AWS Amplif",
-        "date": "2018/11/08"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "web applications",
+            "AWS Amplify",
+            "Mobile",
+            "AWS Appsync"
+        ],
+        "title": "Creating & Interacting with an AWS AppSync GraphQL API with React & AWS Amplify",
+        "description": "AWS Amplify https://amzn.to/2qxrwbL allows developers to quickly create and connect to powerful services in the cloud. In this video, you will learn how to power you application with AWS AppSync and GraphQL. AWS AppSync uses GraphQL, an API query language designed to build client applications by providing an intuitive and flexible syntax for describing their data requirement.",
+        "date": "2018-11-08T17:56:06Z",
+        "duration": 336
     },
     {
         "service": "aws_amplify",
         "videoId": "TPyLJLOrHlE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Developing Mobile Apps on AWS",
-        "date": "2018/11/30"
+        "description": "AWS Amplify allows you to quickly add features such as offline data, multifactor authentication, analytics, and others to your application with a few lines of code. See on this video how easy is to configure, set up, and integrate services like AWS AppSync, Amazon Cognito, Amazon Pinpoint, AWS Lambda, Amazon S3, or Amazon Lex directly into your application in no time. Download the Amplify framework and Start building | https://aws-amplify.github.io/docs/ \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:56:02Z",
+        "duration": 1224
     },
     {
         "service": "aws_amplify",
         "videoId": "pFvnSqVvj4E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference 2018"
+        ],
         "title": "Build High Quality Mobile Apps in Minutes with AWS (Level 200)",
-        "date": "2018/08/24"
+        "description": "Learn more about the AWS Innovate Online Conference at - https://amzn.to/2woVXnd.\nAre you building mobile apps on iOS or Android with React Native? The open source AWS Amplify tool helps developers quickly add authentication, APIs, storage, caching, and analytics to apps using a declarative programming style. In this session, we cover how to build a mobile app for iOS and Android using AWS Mobile Hub, AWS Amplify, and React Native. We also share some framework-specific techniques, such as leveraging higher -order components (HOCs) in a React or React Native application, as well as best practices and utilities from AWS Mobile Hub.\n\nSpeaker: Tapan Hoskeri, Solution Architect, Amazon Internet Services Private Limited",
+        "date": "2018-08-24T19:51:33Z",
+        "duration": 1642
     },
     {
         "service": "aws_amplify",
         "videoId": "ttKXTtnxlIg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit Tel Aviv",
+            "summit",
+            "Adrian Cockroft",
+            "amazon web services",
+            "כנס אמזון",
+            "אמזון ווב סרביסס",
+            "סאמיט 2019"
+        ],
         "title": "AWS Summit Tel Aviv 2019 | Frontend and Mobile with AWS Amplify",
-        "date": "2019/03/27"
+        "description": "Learn more about AWS at - https://amzn.to/2Yaeb9b   \nEvery project which involves a mobile or a web application frontend, shares similar challenges. Where do we start from? How will we manage our users? How can we provide a secure API backend to serve our frontend requests? How can we track application usage? This session can help with understanding how AWS offers services like Amplify, AppSync, Cognito and API Gateway to address some of those challenges, increasing your agility and allowing you to focus on your strengths.\n\nView Slides: https://www.slideshare.net/AWSSummits/frontend-and-mobile-with-aws-amplify-aws-summit-tel-aviv-2019",
+        "date": "2019-03-27T17:11:56Z",
+        "duration": 2157
     },
     {
         "service": "aws_amplify",
         "videoId": "Xl240CVmoQU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Italian language webinar"
+        ],
         "title": "Costruisci e distribuisci applicazioni web moderne con AWS Amplify Console",
-        "date": "2019/02/07"
+        "description": "AWS Amplify Console - https://amzn.to/2tcHPvY, è un servizio di hosting e continuous deployment per applicazioni web desktop e mobile. In questo webinar vedremo come sviluppare applicazioni con questo servizio, utilizzando le funzioni di rilascio automatico e rapido di nuove funzionalità, orchestrando la distribuzione di frontend e backend in modo intelligente e riducendo al minimi i tempo di fermo del vostro applicativo.",
+        "date": "2019-02-07T18:39:19Z",
+        "duration": 3346
     },
     {
         "service": "aws_amplify",
         "videoId": "egXBcNNUvDA",
+        "tags": [
+            "AWS",
+            "AWS Summit Online",
+            "May 13",
+            "2020",
+            "United States",
+            "Level 400",
+            "AWS Amplify",
+            "Track: build",
+            "track: developers",
+            "modern application",
+            "development",
+            "AWS Events"
+        ],
         "title": "Building Serverless Applications with AWS Amplify - Level 400 (United States)",
-        "date": "2020/07/24"
+        "description": "Since it was released in 2017 as a JavaScript library, AWS Amplify has become a great way to build, provision, and deploy web and mobile serverless applications on AWS. In this session, we explore what you can do with AWS Amplify. We provide examples of how to build application APIs, and we show you how to add advanced capabilities like AI/ML to your application. We also discuss best practices around developer tooling and workflow as well as CI/CD orchestration using the Amplify console.\n\nLearn more about AWS at https://amzn.to/38Zs4wq\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
+        "date": "2020-07-24T18:57:02Z",
+        "duration": 1960
     },
     {
         "service": "aws_amplify",
         "videoId": "DcrtvgaVdCU",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "MOB308-R1",
+            "Mobile"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Production-grade full-stack apps with AWS Amplify (MOB308-R1)",
-        "date": "2019/12/04"
+        "description": "Discover how AWS Amplify simplifies and speeds up full-lifecycle development of mobile and web apps. You learn how to build a serverless CI/CD pipeline that leverages various AWS services using preconfigured and custom workflows, and also how to integrate your favorite tools with the AWS platform. In this session, we cover development, build, testing, and deployment.",
+        "date": "2019-12-04T17:23:57Z",
+        "duration": 3340
     },
     {
         "service": "aws_amplify",
         "videoId": "NUuB8QGze6w",
-        "title": "Live Coding on AWS Amplify (Level 400)",
-        "date": "2020/09/01"
+        "tags": [
+            "Learn to Code",
+            "AWS Summit Online EMEA"
+        ],
+        "title": "I Want to Read and Write Code - Live Coding on AWS Amplify (Level 400)",
+        "description": "In this session, we build a React application from scratch. This application provides user authentication workflows (sign up, log in, change password) and uses a cloud-based serverless GraphQL API. It will also be globally deployed.  Learn how to integrate Amazon Cognito, AWS AppSync, and Amazon CloudFront into the application with just a few commands from your laptop. You don’t need to be a cloud expert to participate. This session has no slides, just a hands-on keyboard as we build the application.\n\nMarcia is a developer advocate for AWS and the host of FooBar a youtube channel (http://bit.ly/foobar-youtube) where she publishes content every week, related to serverless and the cloud. She has been designing and developing software professionally for 15 years and worked in all the different stages of building scaling and performant software. She has deep knowledge of building applications in the cloud and using DevOps processes.\n\n\nLearn more about AWS at - https://amzn.to/2QhJUSM\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
+        "date": "2020-09-01T16:44:17Z",
+        "duration": 1657
     },
     {
         "service": "aws_amplify",
         "videoId": "EqlVIz4-oWc",
-        "title": "Full-stack Mobile and Web Development With AWS Amplify (Level 300)",
-        "date": "2020/09/01"
+        "tags": [
+            "Build applications",
+            "AWS Summit Online EMEA"
+        ],
+        "title": "I Build Applications - Full-stack Mobile and Web Development With AWS Amplify (Level 300)",
+        "description": "As mobile has become the primary channel for engaging users, it’s critical that developers deliver applications with uncompromising user experience, performance, and scale. This session shows you how to use AWS Amplify (mobile and web development tools and services) and AWS AppSync (a managed GraphQL service) to develop, release, and operate cloud-powered applications. We cover use cases spanning authentication, fine-grained access control, and offline and real-time data and APIs (REST and GraphQL). Additionally, we highlight the support that is available for a broad set of frameworks and languages, including JavaScript, React, Vue.js, Angular, React Native, Swift (iOS), and Java (Android).\n\nMarcia is a developer advocate for AWS and the host of FooBar a youtube channel (http://bit.ly/foobar-youtube) where she publishes content every week, related to serverless and the cloud. She has been designing and developing software professionally for 15 years and worked in all the different stages of building scaling and performant software. She has deep knowledge of building applications in the cloud and using DevOps processes.\n\nLearn more about AWS at - https://amzn.to/3gja02r\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
+        "date": "2020-09-01T18:39:37Z",
+        "duration": 1725
     },
     {
         "service": "aws_amplify",
         "videoId": "K3hLlHNCjbQ",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "MOB317",
+            "Mobile",
+            "AWS Amplify"
+        ],
         "title": "AWS re:Invent 2019: Speed up native mobile development with AWS Amplify (MOB317)",
-        "date": "2019/12/05"
+        "description": "In this session, we explore iOS and Android app development with AWS Amplify. We present how to use the AWS Amplify CLI to set up your backend with just a few lines of code. We go over the coding patterns of Amplify libraries and also show you how to tackle specific uses cases such as auth, storage, API, analytics, and AI/ML.",
+        "date": "2019-12-05T17:34:56Z",
+        "duration": 3157
     },
     {
         "service": "aws_amplify",
         "videoId": "fzZ9-h6OCkk",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "Serverless",
+            "SVS364-P"
+        ],
         "title": "AWS re:Invent 2019: Upgrade your APIs from REST to GraphQL with AWS AppSync & AWS Amplify (SVS364-P)",
-        "date": "2019/12/05"
+        "description": "This presentation was recorded prior to re:Invent. Learn how to migrate or upgrade your existing REST APIs to GraphQL with AWS AppSync and AWS Amplify. In this session, we go over the different strategies that you can use with AWS AppSync to leverage GraphQL, and we explain how to think in terms of a data API if you are used to developing REST APIs. We also cover the process of implementing AWS Lambda sources with AWS Amplify and using local mocking features to speed up development.",
+        "date": "2019-12-05T22:33:28Z",
+        "duration": 3082
     }
 ]

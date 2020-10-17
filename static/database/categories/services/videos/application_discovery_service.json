@@ -2,13 +2,50 @@
     {
         "service": "application_discovery_service",
         "videoId": "Q6EJE3ndOqI",
+        "tags": [
+            "Software (Industry)",
+            "Management",
+            "Technology",
+            "Data",
+            "System",
+            "Business",
+            "Office",
+            "coding",
+            "code",
+            "deployment",
+            "infrastructure",
+            "cloud infrastructure",
+            "AWS Summit Series 2016",
+            "Chicago Summit",
+            "AWS Chicago Summit",
+            "AWS Chicago 2016",
+            "2016 Summit Series",
+            "AWS Summits 2016",
+            "Amazon Workspaces",
+            "Application Manager"
+        ],
         "title": "AWS Summit Series 2016 | Chicago - AWS Application Discovery Service",
-        "date": "2016/04/21"
+        "description": "Planning datacenter migrations can involve thousands of workloads and tens of thousands of servers and are often deeply interdependent. Application discovery and dependency mapping are important early first steps in the migration process, but difficult to perform at scale due to the lack of automated tools.  AWS Application Discovery Service (AWS ADS) is a new service (COMING SOON) that automatically identifies on-premises applications and dependencies, and baselines application health and performance to help plan your application migration to AWS quickly and reliably.  This talk introduces the new Application Discovery Service capabilities for streamlining data center and large scale migrations to AWS.  We will discuss how ADS works together with your existing on-premises infrastructure to inventory applications and identify dependencies. You will leard how you can query ADS to examine the applications, their attributes, and dependencies, and then use this information to help reduce the time, cost, and risk of migrating applications to AWS by natively integrating with AWS services designed to simplify application monitoring and management.",
+        "date": "2016-04-21T14:24:15Z",
+        "duration": 2955
     },
     {
         "service": "application_discovery_service",
         "videoId": "TYiqPrCA4fc",
+        "tags": [
+            "AWS Application Discovery Service",
+            "aws",
+            "data center",
+            "aws ads",
+            "matt wood",
+            "dr matt wood",
+            "chicago summit 2016",
+            "aws summit 2016",
+            "aws product announcemnts"
+        ],
         "title": "AWS Application Discovery Service",
-        "date": "2016/04/20"
+        "description": "Learn more: http://amzn.to/1WBEI9H\n\nComing soon: AWS Application Discovery Service helps you quickly and reliably plan application migration projects by automatically identifying applications running in on-premises data centers, their associated dependencies, and their performance profile.",
+        "date": "2016-04-20T23:17:55Z",
+        "duration": 52
     }
 ]

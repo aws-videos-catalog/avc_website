@@ -2,505 +2,2012 @@
     {
         "service": "emr",
         "videoId": "jylp2atrZjc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "What is Amazon EMR and how can I use it for processing data?",
-        "date": "2019/01/16"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2HefnUv\nAditya, an AWS Cloud Support Engineer, walks you through what Amazon EMR is and how you can use it for processing data.",
+        "date": "2019-01-16T14:35:50Z",
+        "duration": 542
     },
     {
         "service": "emr",
         "videoId": "QuwaBOESGiU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon EMR",
+            "analytics",
+            "Apache Spark",
+            "HBase",
+            "Presto",
+            "Flink",
+            "EMR",
+            "Amazon S3"
+        ],
         "title": "An introduction to Amazon EMR - Amazon Web Services",
-        "date": "2018/12/03"
+        "description": "Learn more about Amazon EMR at - https://amzn.to/2rh0BBt.\nThis video is a short introduction to Amazon EMR. EMR provides a managed Hadoop framework that makes it easy, fast, and cost-effective to process vast amounts of data across dynamically scalable Amazon EC2 instances. You can also run other popular distributed frameworks such as Apache Spark, HBase, Presto, and Flink in EMR, and interact with data in other AWS data stores such as Amazon S3.",
+        "date": "2018-12-03T15:12:01Z",
+        "duration": 181
     },
     {
         "service": "emr",
         "videoId": "-iVGPuKqNaM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon EMR",
+            "Data Lake",
+            "Data Analytics",
+            "Big Data"
+        ],
         "title": "Manage and Monitor Amazon EMR Cluster",
-        "date": "2020/07/10"
+        "description": "Amazon EMR enables you to process vast amounts of data using open source tools such as Apache Spark, Apache Hive, Apache HBase, Apache Flink, Apache Hudi, and Presto. Watch this video to learn how you can manage and monitor your Amazon EMR cluster, and debug any issues with the cluster or application jobs running on it.\n\nLearn more about Amazon EMR at - https://amzn.to/2OdAzuq\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n \n#AWS #AWSDemo #AmazonEMR",
+        "date": "2020-07-10T23:59:28Z",
+        "duration": 561
     },
     {
         "service": "emr",
         "videoId": "O64ukMVf7ok",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I launch an Amazon EMR cluster in a VPC environment?",
-        "date": "2018/09/11"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2OC0jPe\n\nBhawna, an AWS Cloud Support Engineer, shows you how to launch an Amazon EMR cluster in a VPC environment.",
+        "date": "2018-09-11T14:27:47Z",
+        "duration": 854
     },
     {
         "service": "emr",
         "videoId": "06rz0h5-arw",
+        "tags": [
+            "S3",
+            "Simple Storage",
+            "S3 Bucket",
+            "s3cmd",
+            "EMR",
+            "elastic map reduce",
+            "Amazon Web Services",
+            "AWS",
+            "Cloud technology",
+            "Cloud",
+            "Storage",
+            "Amazon Elastic MapReduce",
+            "hadoop",
+            "NLP",
+            "ETL",
+            "Large scale web crawling",
+            "Ken Krugler",
+            "Elastic MapReduce",
+            "Cloud Technology",
+            "Hadoop",
+            "elastic map-reduce"
+        ],
         "title": "EMR Training: Command Line Tools (7 of 11)",
-        "date": "2012/07/03"
+        "description": "Ken Krugler explains when and how to use the Elastic MapReduce and s3cmd tools. Learn more: http://aws.amazon.com/elasticmapreduce/faqs/",
+        "date": "2012-07-03T17:53:05Z",
+        "duration": 545
     },
     {
         "service": "emr",
         "videoId": "fC4Y7KNwRzs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "amazon emr",
+            "elastic mapreduce",
+            "apache spark",
+            "big data",
+            "analytics"
+        ],
         "title": "Amazon EMR Notebooks",
-        "date": "2020/06/29"
+        "description": "Now you can write and debug Apache Spark applications in real time using Amazon EMR notebooks. Watch this video to learn how to get started with Amazon EMR notebooks.\n\nLearn more about AWS EMR Notebooks at - https://bit.ly/3eKeXBx\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-06-29T23:12:17Z",
+        "duration": 601
     },
     {
         "service": "emr",
         "videoId": "ulQdA6MUnTk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon EMR",
+            "Big Data",
+            "Apache Spark",
+            "Data Lakes",
+            "Data Analytics"
+        ],
         "title": "Get started with Amazon EMR",
-        "date": "2020/07/08"
+        "description": "Amazon EMR is the industry-leading cloud big data platform for processing vast amounts of data using open source tools such as Apache Spark, Apache Hive, Apache HBase, Apache Flink, Apache Hudi, and Presto. Watch this video to get started easily with Amazon EMR.\n\nLearn more about Amazon EMR - https://amzn.to/2VZaT9e\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo #AmazonEMR",
+        "date": "2020-07-09T00:02:10Z",
+        "duration": 555
     },
     {
         "service": "emr",
         "videoId": "wEOm6aiN4ww",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "dw",
+            "data warehouse",
+            "redshift",
+            "analytics",
+            "spectrum",
+            "parquet",
+            "big data",
+            "data lake",
+            "OLAP",
+            "OLTP",
+            "Spark",
+            "parquet format",
+            "Amazon Athena",
+            "Amazon Elastic MapReduce (EMR)",
+            "Amazon EMR",
+            "Amazon Kinesis",
+            "Amazon Kinesis Data Firehose",
+            "Amazon Redshift",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon EC2",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Appnext: Kinesis, EMR, Athena, Redshift - Choosing the Right Tool for Your Analytics Jobs",
-        "date": "2018/10/25"
+        "description": "On this episode of This is My Architecture - https://amzn.to/2OX8kip, Vladimir from Appnext walks us through the journey they went on to find the right tool for each of their analytics job types. Having a separation between OLAP and OLTP and running everything on Redshift wasn’t enough. Long-running queries, high concurrency, and ever-growing data volumes made Appnext look for optimization opportunities. Learn how by leveraging a Data Lake architecture, Kinesis, Spark on EMR, parquet format, and directly querying against S3 using Athena and Redshift Spectrum, they were able to improve analytical query run times, and reduce cost at the same time.\n\nHost: Benjamin Feldon, Solutions Architecture, AWS\nCustomer: Vladimir Nevsky, System Architect, Appnext\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2018-10-25T16:00:42Z",
+        "duration": 450
     },
     {
         "service": "emr",
         "videoId": "5DGXPcVKXyw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "BDM401",
+            "Jonathan Fritz",
+            "Expert (400 Level)",
+            "Big Data Mini Con"
+        ],
         "title": "AWS re:Invent 2016: Deep Dive: Amazon EMR Best Practices & Design Patterns (BDM401)",
-        "date": "2016/12/01"
+        "description": "Amazon EMR is one of the largest Hadoop operators in the world. In this session, we introduce you to Amazon EMR design patterns such as using Amazon S3 instead of HDFS, taking advantage of both long and short-lived clusters, and other Amazon EMR architectural best practices. We talk about how to scale your cluster up or down dynamically and introduce you to ways you can fine-tune your cluster. We also share best practices to keep your Amazon EMR cluster cost-efficient. Finally, we dive into some of our recent launches to keep you current on our latest features. This session will feature Asurion, a provider of device protection and support services for over 280 million smartphones and other consumer electronics devices. Asurion will share how they architected their petabyte-scale data platform using Apache Hive, Apache Spark, and Presto on Amazon EMR.",
+        "date": "2016-12-01T21:26:55Z",
+        "duration": 3426
     },
     {
         "service": "emr",
         "videoId": "7TBiXZlIo0I",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Analytics",
+            "ANT204",
+            "Amazon EMR"
+        ],
         "title": "AWS re:Invent 2018: Build Data Engineering Platforms with Amazon EMR (ANT204)",
-        "date": "2018/11/29"
+        "description": "Amazon EMR provides a flexible range of service customization options, enabling customers to use it as a building block for their data platforms. In this session, AWS customers Salesforce.com and Vanguard discuss in detail how they use Amazon EMR to build a self-service, secure, and auditable data engineering platform. Customers who want to optimize their design and configurations should attend this session to learn best practices from customer experts. Topics include achieving cost-efficient scale, using notebooks, processing streaming data, rapid prototyping of applications and data pipelines, architecting for both transient and persistent clusters, setting up advanced security and authorization controls, and enabling easy self service for users.",
+        "date": "2018-11-29T18:24:01Z",
+        "duration": 3322
     },
     {
         "service": "emr",
         "videoId": "ISl9sTzxoSo",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Analytics",
+            "ANT340-R1",
+            "Amazon EMR"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] A Deep Dive into What's New with Amazon EMR (ANT340-R1)",
-        "date": "2018/12/01"
+        "description": "Amazon EMR is one of the largest Spark and Hadoop service providers in the world, enabling customers to run ETL, machine learning, real-time processing, data science, and low-latency SQL at petabyte scale. In this session, we introduce design patterns such as using Amazon S3 instead of HDFS, taking advantage of both long- and short-lived clusters, using notebooks, and other architectural best practices. We discuss lowering cost with Auto Scaling and Spot Instances, and security best practices for encryption and fine-grained access control. We showcase key improvements made to the service in 2017. We cover improvements in using the Amazon EMR API, best practices utilizing Spot instances and Spot Instances with Auto Scaling, improvements toward Amazon S3 performance on Amazon EMR, and security/authorization and authentication. We couple each of these with a demo or customer use case to illustrate the benefits. If you are an existing Amazon EMR user, you walk away with a thorough understanding of improvements made in 2018, and how they benefit you. If you are a new Amazon EMR user, get an understanding of common use cases and how other customers are using Amazon EMR.",
+        "date": "2018-12-01T21:31:36Z",
+        "duration": 3689
     },
     {
         "service": "emr",
         "videoId": "9Qq5K8e18Gw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "EMR",
+            "Amazon EMR",
+            "Apache Spark",
+            "Apache Hive",
+            "migrate",
+            "migration",
+            "move to cloud",
+            "big data",
+            "cost optimization",
+            "securing resources",
+            "security",
+            "metadata",
+            "architecture",
+            "best practices"
+        ],
         "title": "Migrate to Amazon EMR - Cost Optimization",
-        "date": "2020/03/13"
+        "description": "Migrating your big data to Amazon EMR offers many advantages over on-premises deployments. These include separation of compute and storage, increased agility, resilient and persistent storage, and managed services that provide up-to-date, familiar environments to develop and operate big data applications.\n\nWatch our video series to learn about best practices, architecture choices, data and metadata migration, moving Apache Spark and Hive applications, cluster segmentation, cost optimization, and securing resources.\n\nLearn more about Amazon EMR Migration at https://go.aws/2vg8zQT\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonEMR",
+        "date": "2020-03-13T16:00:03Z",
+        "duration": 681
     },
     {
         "service": "emr",
         "videoId": "y4z6RxWAvqs",
+        "tags": [
+            "S3",
+            "Simple Storage",
+            "S3 Bucket",
+            "S3 directories",
+            "Hadoop Job Jar",
+            "EMR",
+            "elastic map reduce",
+            "Amazon Web Services",
+            "AWS",
+            "Cloud technology",
+            "Cloud",
+            "Storage",
+            "Amazon Elastic MapReduce",
+            "spot pricing",
+            "Task group",
+            "bootstrap actions",
+            "Large scale web crawling",
+            "Ken Krugler",
+            "Elastic MapReduce",
+            "Cloud Technology",
+            "Hadoop",
+            "elastic map-reduce"
+        ],
         "title": "EMR Training: Advanced EMR (11 of 11)",
-        "date": "2012/07/03"
+        "description": "Learn about bootstrap actions, spot pricing and task groups while using EMR. Learn more: http://aws.amazon.com/about-aws/whats-new/2010/04/08/amazon-elastic-mapreduce-introduces-custom-cluster-configuration-option/",
+        "date": "2012-07-03T17:47:38Z",
+        "duration": 853
     },
     {
         "service": "emr",
         "videoId": "yN0TPbj23dY",
+        "tags": [
+            "S3",
+            "Simple Storage",
+            "S3 Bucket",
+            "S3 directories",
+            "Hadoop Job Jar",
+            "EMR",
+            "elastic map reduce",
+            "Amazon Web Services",
+            "AWS",
+            "Cloud technology",
+            "Cloud",
+            "Storage",
+            "Amazon Elastic MapReduce",
+            "hadoop",
+            "NLP",
+            "ETL",
+            "Soir Indexing",
+            "Apache Tika",
+            "Large scale web crawling",
+            "Ken Krugler",
+            "Elastic MapReduce",
+            "Cloud Technology",
+            "Hadoop",
+            "elastic map-reduce",
+            "S3 pricing",
+            "EC2 Instance"
+        ],
         "title": "EMR Training: Cluster of Servers (4 of 11)",
-        "date": "2012/07/03"
+        "description": "This video covers EC2 instance types, pricing, and Hadoop cluster configuration.",
+        "date": "2012-07-03T17:50:26Z",
+        "duration": 656
     },
     {
         "service": "emr",
         "videoId": "S6Ja55n-o0M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "hadoop",
+            "high performance computing",
+            "high-performance computing",
+            "big data",
+            "HPC",
+            "EMR",
+            "Elastic Map Reduce",
+            "Amazon EMR",
+            "Elastic Map Reduce loads"
+        ],
         "title": "Introduction to Amazon Elastic MapReduce",
-        "date": "2014/03/26"
+        "description": "This video provides a short introduction to the features and benefits of Amazon Elastic MapReduce (EMR).",
+        "date": "2014-03-26T16:27:24Z",
+        "duration": 187
     },
     {
         "service": "emr",
         "videoId": "_90YaA8IJ4A",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "EMR",
+            "Amazon EMR",
+            "Apache Spark",
+            "Apache Hive",
+            "migrate",
+            "migration",
+            "move to cloud",
+            "big data",
+            "cost optimization",
+            "securing resources",
+            "security",
+            "metadata",
+            "architecture",
+            "best practices"
+        ],
         "title": "Migrate to Amazon EMR - Apache Spark and Hive",
-        "date": "2020/03/13"
+        "description": "Migrating your big data to Amazon EMR offers many advantages over on-premises deployments. These include separation of compute and storage, increased agility, resilient and persistent storage, and managed services that provide up-to-date, familiar environments to develop and operate big data applications.\n\nWatch our video series to learn about best practices, architecture choices, data and metadata migration, moving Apache Spark and Hive applications, cluster segmentation, cost optimization, and securing resources.\n\nLearn more about Amazon EMR Migration at https://go.aws/2IK8Nmp\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonEMR",
+        "date": "2020-03-13T16:00:10Z",
+        "duration": 758
     },
     {
         "service": "emr",
         "videoId": "Ewv8GQ8KCyI",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Analytics",
+            "ANT312",
+            "Amazon EMR"
+        ],
         "title": "AWS re:Invent 2018: Hadoop/Spark to Amazon EMR, Architect It for Security & Governance (ANT312)",
-        "date": "2018/11/29"
+        "description": "Customers are migrating their analytics, data processing (ETL), and data science workloads running on Apache Hadoop/Spark to AWS in order to save costs, increase availability, and improve performance. In this session, AWS customers Airbnb and Guardian Life discuss how they migrated their workload to Amazon EMR. This session focuses on key motivations to move to the cloud. It details key architectural changes and the benefits of migrating Hadoop/Spark workloads to the cloud.\n\n  Complete Title: AWS re:Invent 2018: Migrate Your Hadoop/Spark Workload to Amazon EMR & Architect It for Security & Governance on AWS (ANT312)",
+        "date": "2018-11-29T18:25:11Z",
+        "duration": 3347
     },
     {
         "service": "emr",
         "videoId": "WphudPbpoe8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "EMR",
+            "Amazon EMR",
+            "Apache Spark",
+            "Apache Hive",
+            "migrate",
+            "migration",
+            "move to cloud",
+            "big data",
+            "cost optimization",
+            "securing resources",
+            "security",
+            "metadata",
+            "architecture",
+            "best practices"
+        ],
         "title": "Migrate to Amazon EMR - Data & Metadata Migration",
-        "date": "2020/03/18"
+        "description": "Migrating your big data to Amazon EMR offers many advantages over on-premises deployments. These include separation of compute and storage, increased agility, resilient and persistent storage, and managed services that provide up-to-date, familiar environments to develop and operate big data applications.\n\nWatch our video series to learn about best practices, architecture choices, data and metadata migration, moving Apache Spark and Hive applications, cluster segmentation, cost optimization, and securing resources.\n\nLearn more about Amazon EMR Migration at https://go.aws/3cSqcHu\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonEMR",
+        "date": "2020-03-18T16:00:11Z",
+        "duration": 853
     },
     {
         "service": "emr",
         "videoId": "6aXuvTt_4f8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I configure Amazon EMR to run a PySpark job using Python 3.6?",
-        "date": "2020/01/06"
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/34cDnhi\nAmit shows you how to configure Amazon EMR to run a PySpark job using Python 3.6.",
+        "date": "2020-01-07T03:08:40Z",
+        "duration": 155
     },
     {
         "service": "emr",
         "videoId": "vS1L11qnoS8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I view web interfaces hosted on Amazon EMR Clusters which are in private subnet?",
-        "date": "2018/10/15"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2OC0jPe\nSnehal, an AWS Cloud Support Engineer, shows you how to view web interfaces hosted on Amazon EMR Clusters which are in private subnet.",
+        "date": "2018-10-15T14:42:00Z",
+        "duration": 383
     },
     {
         "service": "emr",
         "videoId": "nb-IDsyWJUQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I use Auto Scaling in Amazon EMR?",
-        "date": "2018/12/03"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2RPtRKR\nSuthan, an AWS Cloud Support Engineer, shows you how to use Auto Scaling in Amazon EMR.",
+        "date": "2018-12-03T15:17:18Z",
+        "duration": 264
     },
     {
         "service": "emr",
         "videoId": "8Ve5h0JOkdQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "hive metastore",
+            "amazon emr"
+        ],
         "title": "How do I upgrade Hive metastore schema version on EMR?",
-        "date": "2018/12/04"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2JYxnQe\nPriyanka, an AWS Cloud Support Engineer, shows you how to upgrade Hive Metastore schema version on EMR.",
+        "date": "2018-12-05T01:18:21Z",
+        "duration": 425
     },
     {
         "service": "emr",
         "videoId": "YWQet4FtCfI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "EMR",
+            "Amazon EMR",
+            "Apache Spark",
+            "Apache Hive",
+            "migrate",
+            "migration",
+            "move to cloud",
+            "big data",
+            "cost optimization",
+            "securing resources",
+            "security",
+            "metadata",
+            "architecture",
+            "best practices"
+        ],
         "title": "Migrate to Amazon EMR - Cluster Segmentation",
-        "date": "2020/03/18"
+        "description": "Migrating your big data to Amazon EMR offers many advantages over on-premises deployments. These include separation of compute and storage, increased agility, resilient and persistent storage, and managed services that provide up-to-date, familiar environments to develop and operate big data applications.\n\nWatch our video series to learn about best practices, architecture choices, data and metadata migration, moving Apache Spark and Hive applications, cluster segmentation, cost optimization, and securing resources.\n\nLearn more about Amazon EMR Migration at https://go.aws/2IGyXXh\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonEMR",
+        "date": "2020-03-18T16:00:11Z",
+        "duration": 500
     },
     {
         "service": "emr",
         "videoId": "8O7AqOaPtJ8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Accelerate Data Analytics at Scale with Amazon EMR",
-        "date": "2018/11/12"
+        "description": "Presenters:\n\nBrad Staszcuk, Solution Architect, Amazon Web Services\n\nDr. Haydn Read, Head of Infrastructure Programmes, Auckland Council",
+        "date": "2018-11-12T21:54:50Z",
+        "duration": 904
     },
     {
         "service": "emr",
         "videoId": "zgXtKu5QFTg",
+        "tags": [
+            "EMR",
+            "elastic map reduce",
+            "Amazon Web Services",
+            "AWS",
+            "Cloud technology",
+            "Cloud",
+            "Storage",
+            "Amazon Elastic MapReduce",
+            "hadoop",
+            "NLP",
+            "ETL",
+            "Soir Indexing",
+            "Apache Tika",
+            "Large scale web crawling",
+            "Ken Krugler",
+            "Elastic MapReduce",
+            "Cloud Technology",
+            "Hadoop"
+        ],
         "title": "EMR Training: Intro to EMR (1 of 11)",
-        "date": "2012/07/02"
+        "description": "Ken Krugler presents the agenda for this training series, and discusses why developers should consider using Amazon Elastic MapReduce. Learn more: http://aws.amazon.com/documentation/elasticmapreduce/",
+        "date": "2012-07-02T18:30:18Z",
+        "duration": 191
     },
     {
         "service": "emr",
         "videoId": "_ff1TqzDxcA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "EMR",
+            "Amazon EMR",
+            "Apache Spark",
+            "Apache Hive",
+            "migrate",
+            "migration",
+            "move to cloud",
+            "big data",
+            "cost optimization",
+            "securing resources",
+            "security",
+            "metadata",
+            "architecture",
+            "best practices"
+        ],
         "title": "Migrate to Amazon EMR - Architectural Approaches",
-        "date": "2020/03/18"
+        "description": "Migrating your big data to Amazon EMR offers many advantages over on-premises deployments. These include separation of compute and storage, increased agility, resilient and persistent storage, and managed services that provide up-to-date, familiar environments to develop and operate big data applications.\n\nWatch our video series to learn about best practices, architecture choices, data and metadata migration, moving Apache Spark and Hive applications, cluster segmentation, cost optimization, and securing resources.\n\nLearn more about Amazon EMR Migration at https://go.aws/39OtREa\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonEMR",
+        "date": "2020-03-18T16:00:13Z",
+        "duration": 342
     },
     {
         "service": "emr",
         "videoId": "cAZur5maWZE",
+        "tags": [
+            "S3",
+            "Simple Storage",
+            "S3 Bucket",
+            "S3 directories",
+            "Hadoop Job Jar",
+            "EMR",
+            "elastic map reduce",
+            "Amazon Web Services",
+            "AWS",
+            "Cloud technology",
+            "Cloud",
+            "Storage",
+            "Amazon Elastic MapReduce",
+            "Ken Krugler",
+            "Elastic MapReduce",
+            "Cloud Technology",
+            "Hadoop",
+            "Elastic Map-Reduce"
+        ],
         "title": "EMR Training: Running Jobs (3 of 11)",
-        "date": "2012/07/03"
+        "description": "In this video, Ken Krugler covers creating, monitoring, and getting results from you EMR Job Flow. Learn more: http://aws.amazon.com/about-aws/whats-new/2010/10/20/amazon-elastic-mapreduce-introduces-resizing-running-job-flows/",
+        "date": "2012-07-03T17:59:25Z",
+        "duration": 888
     },
     {
         "service": "emr",
         "videoId": "MgC1q3mE-FQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Hadoop",
+            "Apache Spark",
+            "Spot Instances",
+            "big data",
+            "hive",
+            "pig. HDFS",
+            "low cost AWS",
+            "low cost apache spark",
+            "low cost big data"
+        ],
         "title": "Amazon EMR on EC2 Spot Instances (Video 1 of 3): Save on Workloads like Apache Spark and Hadoop",
-        "date": "2019/08/07"
+        "description": "Learn more about running Amazon EMR on Amazon EC2 Spot Instances at - https://amzn.to/2To5uGl\nAmazon EC2 Spot Instances offer spare compute capacity available in the AWS cloud at steep discounts compared to On-Demand instances. Watch this video (1 of 3) to learn why Spot Instances are a perfect fit for big data workloads on Amazon EMR.",
+        "date": "2019-08-07T21:53:10Z",
+        "duration": 184
     },
     {
         "service": "emr",
         "videoId": "qowfgnfaIi8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "EMR",
+            "Amazon EMR",
+            "Apache Spark",
+            "Apache Hive",
+            "migrate",
+            "migration",
+            "move to cloud",
+            "big data",
+            "cost optimization",
+            "securing resources",
+            "security",
+            "metadata",
+            "architecture",
+            "best practices"
+        ],
         "title": "Migrate to Amazon EMR - Best Practices",
-        "date": "2020/03/18"
+        "description": "Migrating your big data to Amazon EMR offers many advantages over on-premises deployments. These include separation of compute and storage, increased agility, resilient and persistent storage, and managed services that provide up-to-date, familiar environments to develop and operate big data applications.\n\nWatch our video series to learn about best practices, architecture choices, data and metadata migration, moving Apache Spark and Hive applications, cluster segmentation, cost optimization, and securing resources.\n\nLearn more about Amazon EMR Migration at https://go.aws/2vSTMw3\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonEMR",
+        "date": "2020-03-18T16:00:15Z",
+        "duration": 555
     },
     {
         "service": "emr",
         "videoId": "RlKndm22bXw",
+        "tags": [
+            "DynamoDB EMR",
+            "EMR",
+            "Software",
+            "Cloud Technology",
+            "Elastic MapReduce",
+            "Elastic Map-Reduce",
+            "Elastic Map Reduce",
+            "AWS",
+            "Amazon Web Services",
+            "Simple Storage Service",
+            "S3",
+            "Amazon S3 (Internet Protocol)",
+            "DynamoDB",
+            "DynamoDB Data",
+            "EMR export"
+        ],
         "title": "Using Amazon Elastic MapReduce (EMR) to Export and Analyze DynamoDB Data",
-        "date": "2012/07/05"
+        "description": "Integrating Amazon DynamoDB with EMR enables several powerful scenarios such as data export to Amazon Simple Storage Service (Amazon S3) and cost-effective processing of vast amounts of data. An accompanying walk-through provides instructions for you to try the steps shown in the video. This walk-through is available at http://docs.amazonwebservices.com/amazondynamodb/walkthroughs/",
+        "date": "2012-07-05T18:04:09Z",
+        "duration": 314
     },
     {
         "service": "emr",
         "videoId": "4HseALaLllc",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Financial Services",
+            "Big Data & Analytics",
+            "BDT305",
+            "Rahul Pathak - Amazon Web Services",
+            "Scott Donaldson - FINRA",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (BDT305) Amazon EMR Deep Dive and Best Practices",
-        "date": "2015/10/12"
+        "description": "Amazon EMR is one of the largest Hadoop operators in the world. In this session, we introduce you to Amazon EMR design patterns such as using Amazon S3 instead of HDFS, taking advantage of both long and short-lived clusters, and other Amazon EMR architectural best practices. We talk about how to scale your cluster up or down dynamically and introduce you to ways you can fine-tune your cluster. We will also share best practices to keep your Amazon EMR cluster cost-efficient. Finally, we dive into some of our recent launches to keep you current on our latest features.",
+        "date": "2015-10-12T17:40:04Z",
+        "duration": 2953
     },
     {
         "service": "emr",
         "videoId": "QnOtYGmMGzk",
+        "tags": [
+            "Amazon EMR",
+            "EMR",
+            "Elastic MapReduce",
+            "CloudWatch",
+            "Amazon CloudWatch",
+            "metrics"
+        ],
         "title": "Monitoring Amazon EMR Metrics",
-        "date": "2012/01/31"
+        "description": "Learn how to monitor Amazon EMR job flows using metrics. Topics covered include how to access the metrics and how to interpret them to determine the health and performance of your job flow.",
+        "date": "2012-01-31T19:09:57Z",
+        "duration": 123
     },
     {
         "service": "emr",
         "videoId": "y8YM2rAsAhY",
+        "tags": [
+            "S3",
+            "Simple Storage",
+            "S3 Bucket",
+            "S3 directories",
+            "Hadoop Job Jar",
+            "EMR",
+            "elastic map reduce",
+            "Amazon Web Services",
+            "AWS",
+            "Cloud technology",
+            "Cloud",
+            "Storage",
+            "Amazon Elastic MapReduce",
+            "hadoop",
+            "NLP",
+            "ETL",
+            "Soir Indexing",
+            "Apache Tika",
+            "Large scale web crawling",
+            "Ken Krugler",
+            "Elastic MapReduce",
+            "Cloud Technology",
+            "Hadoop",
+            "elastic map-reduce",
+            "hive and pig",
+            "hive & pig",
+            "hive and pig flows",
+            "hive & pig flows",
+            "hadoop job flow",
+            "Amazon S3 (Internet Protocol)",
+            "Software Tutorial",
+            "AWS Sign up",
+            "AWS Account"
+        ],
         "title": "EMR Training: Getting Started with EMR (2 of 11)",
-        "date": "2012/07/03"
+        "description": "Follow along with Ken Krugler as he explains how to sign up for an AWS account, generate a key-pair, and set up an S3 bucket. Learn more: http://aws.amazon.com/s3/#getting-started",
+        "date": "2012-07-03T17:56:36Z",
+        "duration": 665
     },
     {
         "service": "emr",
         "videoId": "N-Tean3rbT8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Hadoop",
+            "Apache Spark",
+            "Spot Instances",
+            "big data",
+            "hive",
+            "pig. HDFS",
+            "low cost AWS",
+            "low cost apache spark",
+            "low cost big data"
+        ],
         "title": "Amazon EMR on EC2 Spot Instances (Video 3 of 3): Save on Workloads like Apache Spark and Hadoop",
-        "date": "2019/08/07"
+        "description": "Learn more about running Amazon EC2 Spot Instances at - https://amzn.to/2OGSIDZ\nAmazon EC2 Spot Instances offer spare compute capacity available in the AWS cloud at steep discounts compared to On-Demand instances. Watch this video (3 of 3) to learn how to configure your EMR cluster with Spot Instances for short-lived or long-running EMR cluster.",
+        "date": "2019-08-07T21:53:11Z",
+        "duration": 256
     },
     {
         "service": "emr",
         "videoId": "JlhrKeEKQ10",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summits",
+            "AWS Public sector summit",
+            "2016AWSPSSummit",
+            "AWS Government summit"
+        ],
         "title": "Apache Spark Clusters for Everyone: Easy Access to Amazon EMR Spark Clusters Using R and Python",
-        "date": "2016/07/07"
+        "description": "Using systems like Apache Spark, big data analysis is becoming more accessible from high-level languages like R and Python. However, many analysts are unprepared for the challenges of setting up a big data analytical environment. In this talk, we outline a process that allows anyone in an organization to quickly spin up elastic Spark clusters, then analyze data through RStudio and SparkR, or alternatively pySpark and Jupyter Notebooks. The resulting system is affordable, powerful, and incredibly accessible: It takes just two clicks and a 15-minute wait time for analysts to each have their own cluster. This session will cover the following: the Amazon EMR bootstrap process for installations of high-level languages to work on top of Spark (specifically SparkR and pySpark); dynamic port forwarding with SSH and Foxy Proxy for browser access to RStudio and Jupyter; convenient data loading from Amazon S3 to EMR without leaving RStudio or Jupyter; and automating the startup process for nontechnical data analysts and researchers. Finally, we will share some short studies that demonstrate the power of Spark with EMR to interactively analyze massive datasets and discern public policy insights.",
+        "date": "2016-07-08T02:28:18Z",
+        "duration": 2416
     },
     {
         "service": "emr",
         "videoId": "H__luEqLdDE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon EMR",
+            "Amazon Redshift",
+            "Big Data"
+        ],
         "title": "Building Big Data Applications with Amazon EMR and Amazon Redshift",
-        "date": "2016/11/18"
+        "description": "Learn more about AWS Webinars here - http://amzn.to/2fb8IL4\nBuilding big data applications often requires integrating a broad set of technologies to store, process, and analyze the increasing variety, velocity, and volume of data being collected by many organizations. In this webinar, we show how you can address many of this requirements using a combination of Amazon EMR, a managed Hadoop framework, and Amazon Redshift, a managed petabyte-scale data warehouse. We will also share best practices and common use cases to complement your data warehouse with technologies such as Amazon EMR, Apache Spark, and Presto.",
+        "date": "2016-11-18T16:57:22Z",
+        "duration": 43
     },
     {
         "service": "emr",
         "videoId": "rsh5F66wI9c",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Data Pipeline",
+            "Amazon EMR",
+            "Hive",
+            "Amazon Elastic MapReduce",
+            "Apache",
+            "logs",
+            "time series",
+            "cron",
+            "job flow"
+        ],
         "title": "Process Web Logs with AWS Data Pipeline, Amazon EMR, and Hive",
-        "date": "2013/01/25"
+        "description": "In this video, you will learn how to use AWS Data Pipeline and a console template to create a functional pipeline.\n\nThe pipeline uses an Amazon EMR cluster and a Hive script to read Apache web access logs, select certain columns, and write the reformatted output to an Amazon S3 bucket.\n\nLearn more about AWS Data Pipeline at http://aws.amazon.com/datapipeline",
+        "date": "2013-01-25T17:10:42Z",
+        "duration": 274
     },
     {
         "service": "emr",
         "videoId": "WnFYoiRqEHw",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Big Data & Analytics",
+            "BDT208",
+            "Abhishek Sinha - Amazon Web Services",
+            "Gaurav Agrawal - AOL Inc",
+            "Introductory (200 level)"
+        ],
         "title": "AWS re:Invent 2015 | (BDT208) A Technical Introduction to Amazon Elastic MapReduce",
-        "date": "2015/10/12"
+        "description": "Amazon EMR provides a managed framework which makes it easy, cost effective, and secure to run data processing frameworks such as Apache Hadoop, Apache Spark, and Presto on AWS. In this session, you learn the key design principles behind running these frameworks on the cloud and the feature set that Amazon EMR offers. We discuss the benefits of decoupling compute and storage and strategies to take advantage of the scale and the parallelism that the cloud offers, while lowering costs. Additionally, you hear from AOL’s Senior Software Engineer on how they used these strategies to migrate their Hadoop workloads to the AWS cloud and lessons learned along the way.\n \n In this session, you learn the benefits of decoupling storage and compute and allowing them to scale independently; how to run Hadoop, Spark, Presto and other supported Hadoop Applications on Amazon EMR; how to use Amazon S3 as a persistent data-store and process data directly from Amazon S3; dDeployment strategies and how to avoid common mistakes when deploying at scale; and how to use Spot instances to scale your transient infrastructure effectively.",
+        "date": "2015-10-12T17:32:35Z",
+        "duration": 3045
     },
     {
         "service": "emr",
         "videoId": "0vzFapmVvv0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Big Data & HPC",
+            "Advanced",
+            "Advertising Technology",
+            "Websites",
+            "Storage",
+            "Scale",
+            "Resource Management",
+            "Performance",
+            "Networking",
+            "Monitoring",
+            "Big Data",
+            "Auto Scaling",
+            "Amazon Kinesis",
+            "Amazon Elastic MapReduce",
+            "Amazon EC2",
+            "DataXu",
+            "Architect",
+            "Startup",
+            "Developer",
+            "Ricardo DeMatos",
+            "Yekesa Kosuru",
+            "Derek Chiles"
+        ],
         "title": "AWS re:Invent 2014 | (BDT306) Mission-Critical Stream Processing with Amazon EMR and Amazon Kinesis",
-        "date": "2014/11/14"
+        "description": "Organizations processing mission critical high-volume data must be able to achieve high levels of throughput and durability in data processing workflows. In this session, we will learn how DataXu is using Amazon Kinesis, Amazon S3, and Amazon EMR for its patented approach to programmatic marketing. Every second, the DataXu Marketing Cloud processes over 1 Million ad requests and makes more than 40 billion decisions to select and bid on ad impressions that are most likely to convert. In addition to addressing the scalability and availability of the platform, we will explore Amazon Kinesis producer and consumer applications that support high levels of scalability and durability in mission-critical record processing.",
+        "date": "2014-11-14T19:54:58Z",
+        "duration": 2709
     },
     {
         "service": "emr",
         "videoId": "-zfhYjVelmg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Startups",
+            "Wealthfront"
+        ],
         "title": "Wealthfront on Low-Latency Compute on EMR with Spark + HBase",
-        "date": "2018/05/16"
+        "description": "Watch more videos at - https://amzn.to/2GppTm6.\nWealthfront Data Engineer Daniel O'Neel speaks about low-latency compute on EMR with Spark + Base as a part of Startup Central at the 2018 AWS Summit in San Francisco.",
+        "date": "2018-05-16T17:33:13Z",
+        "duration": 1228
     },
     {
         "service": "emr",
         "videoId": "OLDILtIqI_M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "startups",
+            "data pipelines"
+        ],
         "title": "Unravel: Migrating and Scaling Data Pipelines with AI on Amazon EMR, Redshift & Athena",
-        "date": "2019/04/05"
+        "description": "Learn more about AWS Startups at – https://amzn.to/2YV4iN0 \nUnravel CEO Kunal Agarwal and CTO Shivnath Babu talk about migrating and salcing data pipelines on AWS at the 2019 AWS Santa Clara Summit.",
+        "date": "2019-04-05T20:41:30Z",
+        "duration": 1022
     },
     {
         "service": "emr",
         "videoId": "Xht1Q4XYn4Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Hadoop",
+            "Apache Spark",
+            "Spot Instances",
+            "big data",
+            "hive",
+            "pig. HDFS",
+            "low cost AWS",
+            "low cost apache spark",
+            "low cost big data"
+        ],
         "title": "Amazon EMR on EC2 Spot Instances (Video 2 of 3): Save on Workloads like Apache Spark and Hadoop",
-        "date": "2019/08/07"
+        "description": "Learn more about running Amazon EMR on Amazon EC2 Spot Instances at - https://amzn.to/2Km1Idz\nAmazon EC2 Spot Instances offer spare compute capacity available in the AWS cloud at steep discounts compared to On-Demand instances. Watch this video (2 of 3) to learn how to configure EMR clusters using Spot Instances.",
+        "date": "2019-08-07T21:53:11Z",
+        "duration": 180
     },
     {
         "service": "emr",
         "videoId": "sj5upaBkHxk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Introducing Amazon EMR 5.0 Webinar"
+        ],
         "title": "Introducing Amazon EMR 5.0 Webinar",
-        "date": "2016/11/18"
+        "description": "Learn more about the AWS Webinar Series here - http://amzn.to/2ftCgBz\nAmazon EMR is a managed service that makes it easy for customers to use big data frameworks and applications like Apache Hadoop, Apache Spark, and Presto to analyze data stored in Amazon S3. Watch to learn about common big data use cases and best practices to lower costs using Amazon EMR with Amazon S3 as your data store and Amazon EC2 Spot Instances.",
+        "date": "2016-11-18T16:56:47Z",
+        "duration": 59
     },
     {
         "service": "emr",
         "videoId": "oOIgMSv2rug",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Big Data & HPC",
+            "Advanced",
+            "AWS Data Pipeline",
+            "Big Data",
+            "Architecture",
+            "Amazon Redshift",
+            "Amazon Elastic MapReduce",
+            "Coursera",
+            "Architect",
+            "Technical Decision Maker",
+            "Enterprise",
+            "Developer",
+            "P. Thomas Barthelemy",
+            "Roy Ben-Alta"
+        ],
         "title": "AWS re:Invent 2014 | (BDT303) Construct ETL Pipeline w/ AWS Data Pipeline, Amazon EMR & Redshift",
-        "date": "2014/11/17"
+        "description": "An advantage to leveraging Amazon Web Services for your data processing and warehousing use cases is the number of services available to construct complex, automated architectures easily. Using AWS Data Pipeline, Amazon EMR, and Amazon Redshift, we show you how to build a fault-tolerant, highly available, and highly scalable ETL pipeline and data warehouse.  Coursera will show how they built their pipeline, and share best practices from their architecture.",
+        "date": "2014-11-18T00:16:21Z",
+        "duration": 2472
     },
     {
         "service": "emr",
         "videoId": "oOIgMSv2rug",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Big Data & HPC",
+            "Advanced",
+            "AWS Data Pipeline",
+            "Big Data",
+            "Architecture",
+            "Amazon Redshift",
+            "Amazon Elastic MapReduce",
+            "Coursera",
+            "Architect",
+            "Technical Decision Maker",
+            "Enterprise",
+            "Developer",
+            "P. Thomas Barthelemy",
+            "Roy Ben-Alta"
+        ],
         "title": "AWS re:Invent 2014 | (BDT303) Construct ETL Pipeline w/ AWS Data Pipeline, Amazon EMR & Redshift",
-        "date": "2014/11/17"
+        "description": "An advantage to leveraging Amazon Web Services for your data processing and warehousing use cases is the number of services available to construct complex, automated architectures easily. Using AWS Data Pipeline, Amazon EMR, and Amazon Redshift, we show you how to build a fault-tolerant, highly available, and highly scalable ETL pipeline and data warehouse.  Coursera will show how they built their pipeline, and share best practices from their architecture.",
+        "date": "2014-11-18T00:16:21Z",
+        "duration": 2472
     },
     {
         "service": "emr",
         "videoId": "mR7JOsiCtC0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013customer-presentation",
+            "big-data-and-hpc",
+            "enterprise",
+            "Netflix",
+            "Data Science",
+            "Netflix DSE",
+            "Hadoop",
+            "EMR",
+            "Kurt-Brown",
+            "BDT306",
+            "bdt"
+        ],
         "title": "Data Science at Netflix with Amazon EMR (BDT306) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "A few years ago, Netflix had a fairly classic business intelligence tech stack. Now, things have changed. Netflix is a heavy user of AWS for much of its ongoing operations, and  Data Science & Engineering (DSE) is no exception. In this talk, we dive into the Netflix DSE architecture: what and why. Key topics include their use of  Big Data technologies (Cassandra, Hadoop, Pig + Python, and Hive); their Amazon S3 central data hub; their multiple persistent Amazon EMR clusters; how they benefit from AWS elasticity; their data science-as-a-service approach, how they made a hybrid AWS/data center setup work well, their open-source  Hadoop-related software, and more.",
+        "date": "2013-11-26T19:49:37Z",
+        "duration": 3591
     },
     {
         "service": "emr",
         "videoId": "Mdb7M78nCiY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "EMR",
+            "Amazon EMR",
+            "Apache Spark",
+            "Apache Hive",
+            "migrate",
+            "migration",
+            "move to cloud",
+            "big data",
+            "cost optimization",
+            "securing resources",
+            "security",
+            "metadata",
+            "architecture",
+            "best practices"
+        ],
         "title": "Migrate to Amazon EMR - Securing Resource",
-        "date": "2020/03/18"
+        "description": "Migrating your big data to Amazon EMR offers many advantages over on-premises deployments. These include separation of compute and storage, increased agility, resilient and persistent storage, and managed services that provide up-to-date, familiar environments to develop and operate big data applications.\n\nWatch our video series to learn about best practices, architecture choices, data and metadata migration, moving Apache Spark and Hive applications, cluster segmentation, cost optimization, and securing resources.\n\nLearn more about Amazon EMR Migration at https://go.aws/38I2YRf\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonEMR",
+        "date": "2020-03-18T16:00:07Z",
+        "duration": 665
     },
     {
         "service": "emr",
         "videoId": "L7CY7Oa7yOM",
+        "tags": [
+            "EMR",
+            "Amazon EMR",
+            "Elastic MapReduce",
+            "CloudWatch",
+            "SNS",
+            "metric",
+            "alarm",
+            "aws",
+            "amazon web services"
+        ],
         "title": "Setting Alarms on Amazon EMR Metrics",
-        "date": "2012/01/31"
+        "description": "How to set Amazon CloudWatch alarms to fire on Amazon EMR metrics. This video provides step-by-step instructions for creating an alarm that transmits an email using Amazon SNS.",
+        "date": "2012-01-31T19:12:30Z",
+        "duration": 183
     },
     {
         "service": "emr",
         "videoId": "o5D9dmZX9zo",
+        "tags": [
+            "S3",
+            "Simple Storage",
+            "S3 Bucket",
+            "S3 directories",
+            "Hadoop Job Jar",
+            "EMR",
+            "elastic map reduce",
+            "Amazon Web Services",
+            "AWS",
+            "Cloud technology",
+            "Cloud",
+            "Storage",
+            "Amazon Elastic MapReduce",
+            "hadoop",
+            "NLP",
+            "ETL",
+            "Soir Indexing",
+            "Apache Tika",
+            "Large scale web crawling",
+            "Ken Krugler",
+            "Elastic MapReduce",
+            "Cloud Technology",
+            "Hadoop",
+            "elastic map-reduce",
+            "hive and pig",
+            "hive & pig",
+            "hive and pig flows",
+            "hive & pig flows",
+            "hadoop job flow",
+            "Amazon S3 (Internet Protocol)",
+            "Software Tutorial",
+            "Debugging",
+            "debug tips"
+        ],
         "title": "EMR Training: Debugging Tips (8 of 11)",
-        "date": "2012/07/03"
+        "description": "Join Ken Krugler as he discusses best practices for debugging EMR Job Flows. Learn more: http://aws.amazon.com/elasticmapreduce/faqs/",
+        "date": "2012-07-03T17:56:11Z",
+        "duration": 1175
     },
     {
         "service": "emr",
         "videoId": "1IUokcqDRcQ",
-        "title": "EMR Training: Hive & Pig (9 of 11)",
-        "date": "2012/07/03"
+        "tags": [
+            "S3",
+            "Simple Storage",
+            "S3 Bucket",
+            "S3 directories",
+            "Hadoop Job Jar",
+            "EMR",
+            "elastic map reduce",
+            "Amazon Web Services",
+            "AWS",
+            "Cloud technology",
+            "Cloud",
+            "Storage",
+            "Amazon Elastic MapReduce",
+            "hadoop",
+            "NLP",
+            "ETL",
+            "Soir Indexing",
+            "Apache Tika",
+            "Large scale web crawling",
+            "Ken Krugler",
+            "Elastic MapReduce",
+            "Cloud Technology",
+            "Hadoop",
+            "elastic map-reduce",
+            "hive and pig",
+            "hive & pig",
+            "hive and pig flows",
+            "hive & pig flows",
+            "hadoop job flow",
+            "Amazon S3 (Internet Protocol)",
+            "Software Tutorial"
+        ],
+        "title": "EMR Training: Hive & Pig  (9 of 11)",
+        "description": "In this video session, Ken Krugler covers creating, monitoring, and getting results from Hive & Pig Job Flows. Learn more: http://aws.amazon.com/elasticmapreduce/mapr/",
+        "date": "2012-07-03T17:57:14Z",
+        "duration": 1302
     },
     {
         "service": "emr",
         "videoId": "LWm7SD2QwLM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "MAC303",
+            "Jonathan Fritz",
+            "Machine Learning Mini Con"
+        ],
         "title": "AWS re:Invent 2016: Zillow: Classification and Recommendation Engines with EMR and Spark (MAC303)",
-        "date": "2016/12/03"
+        "description": "Customers are adopting Apache Spark  ‒ an open-source distributed processing framework ‒ on Amazon EMR for large-scale machine learning workloads, especially for applications that power customer segmentation and content recommendation. By leveraging Spark ML, a set of machine learning algorithms included with Spark, customers can quickly build and execute massively parallel machine learning jobs. Additionally, Spark applications can train models in streaming or batch contexts, and can access data from Amazon S3, Amazon Kinesis, Amazon Redshift, and other services. This session explains how to quickly and easily create scalable Spark clusters with Amazon EMR, build and share models using Apache Zeppelin and Jupyter notebooks, and use the Spark ML pipelines API to manage your training workflow. In addition, Jasjeet Thind, Senior Director of Data Science and Engineering at Zillow Group, will discuss his organization's development of personalization algorithms and platforms at scale using Spark on Amazon EMR.",
+        "date": "2016-12-03T18:42:10Z",
+        "duration": 2300
     },
     {
         "service": "emr",
         "videoId": "nM-AkqNh7Yo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon EC2 Spot Instances",
+            "Amazon DynamoDB",
+            "Amazon Elastic MapReduce (EMR)",
+            "Amazon ElastiCache",
+            "Amazon Kinesis",
+            "Amazon RDS for MySQL",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon Simple Queue Service (SQS)",
+            "Amazon EC2",
+            "Amazon CloudWatch",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "from scratch: Resource Manager Controls Task Distribution with Multiple Amazon EMR Clusters",
-        "date": "2019/07/05"
+        "description": "Learn more about This Is My Architecture at - https://amzn.to/2Nbasqg.\nLearn how 'from scratch' builds their resource manager function to control task distribution by the type and load and task order by the priority; and to scale multiple Amazon EMR clusters.\n\nHost: Mitsuharu Hamba, Solutions Architect, AWS\nCustomer: Hiroaki Idobata, CTO, from scratch\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-07-05T19:47:34Z",
+        "duration": 352
     },
     {
         "service": "emr",
         "videoId": "5i20nf3Kyzg",
+        "tags": [
+            "S3",
+            "Simple Storage",
+            "S3 Bucket",
+            "S3 directories",
+            "Hadoop Job Jar",
+            "EMR",
+            "elastic map reduce",
+            "Amazon Web Services",
+            "AWS",
+            "Cloud technology",
+            "Cloud",
+            "Storage",
+            "Amazon Elastic MapReduce",
+            "hadoop",
+            "NLP",
+            "ETL",
+            "Soir Indexing",
+            "Apache Tika",
+            "Large scale web crawling",
+            "Ken Krugler",
+            "Elastic MapReduce",
+            "Cloud Technology",
+            "Hadoop",
+            "elastic map-reduce",
+            "analyze",
+            "Hive job flow"
+        ],
         "title": "EMR Training: Hive Job Flow (10 of 11)",
-        "date": "2012/07/03"
+        "description": "This video covers how to use a Hive Job Flow to analyze a Wikipedia article. Learn more: http://aws.amazon.com/about-aws/whats-new/2009/10/01/amazon-elastic-mapreduce-now-supports-apache-hive/",
+        "date": "2012-07-03T17:58:21Z",
+        "duration": 209
     },
     {
         "service": "emr",
         "videoId": "kNsS9aDf6uE",
+        "tags": [
+            "amazon",
+            "web",
+            "services",
+            "cloud",
+            "computing",
+            "elastic",
+            "mapreduce",
+            "hadoop"
+        ],
         "title": "Getting Started with Amazon Elastic MapReduce",
-        "date": "2011/09/19"
+        "description": "Try out Amazon Elastic MapReduce with this walk-through of the Word Count (Streaming) example. Hadoop included!",
+        "date": "2011-09-20T00:20:19Z",
+        "duration": 370
     },
     {
         "service": "emr",
         "videoId": "g7WG13xG8hA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon S3",
+            "Apache HBase",
+            "Amazon EMR",
+            "Hadoop Distributed File System",
+            "HDFS"
+        ],
         "title": "Using Amazon S3 for Apache HBase on Amazon EMR",
-        "date": "2016/11/21"
+        "description": "Please visit the Amazon EMR documentation for more information about Apache HBase on Amazon S3 - http://amzn.to/2gapiYy.\nYou can use Amazon S3 as a data store for Apache HBase on Amazon EMR using the EMR File System. By using Amazon S3 as a data store for Apache HBase, you can separate your cluster’s storage and compute nodes. This enables you to save costs by sizing your cluster for your compute requirements instead of paying to store your entire dataset with 3x replication in the on-cluster Hadoop Distributed File System (HDFS).",
+        "date": "2016-11-21T20:53:39Z",
+        "duration": 60
     },
     {
         "service": "emr",
         "videoId": "U0JcpoD_JWc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Big Data & HPC",
+            "Expert",
+            "Amazon EC2",
+            "Web App",
+            "Storage",
+            "Scale",
+            "Resource Management",
+            "Performance",
+            "Monitoring",
+            "Disaster Recovery",
+            "Development",
+            "Developer Tools & SDKs",
+            "DevOps",
+            "Compute",
+            "Cloud Adoption",
+            "Business Applications",
+            "Big Data",
+            "Amazon S3",
+            "Amazon Elastic MapReduce",
+            "Yelp",
+            "Inc.",
+            "Architect",
+            "Startup",
+            "Enterprise",
+            "Developer",
+            "Zach Musgrave"
+        ],
         "title": "AWS re:Invent 2014 | (BDT402) Performance Profiling: Analyze Web Requests @ Scale - EMR and Storm",
-        "date": "2014/11/17"
+        "description": "Code profiling gives a rich, detailed view of runtime performance. However, it's difficult to achieve in production: for even a small fraction of web requests, huge challenges in scalability, access, and ease of use appear. Despite this, Yelp profiles a nontrivial fraction of its traffic by combining Amazon EC2, Amazon EMR, and Amazon S3. Developers can search, sort, filter, and combine interesting profiles; during a site slowdown or page failure, this allows a fast diagnosis and speedy recovery. Some of our analyses run nightly, while others run in real-time via Storm topologies. This session includes our use cases for code profiling, its benefits, and the implementation of its handlers and analysis flows. We include both performance results and implementation challenges of our MapReduce and Storm jobs, including code overviews.  We also touch on issues such as concurrent logging, cross-data center replication, job scheduling, and API definitions.",
+        "date": "2014-11-18T00:22:09Z",
+        "duration": 2604
     },
     {
         "service": "emr",
         "videoId": "t97VJtPAL2s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I resolve the error Container killed by YARN for exceeding memory limits in Spark on EMR?",
-        "date": "2019/07/17"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2Zutjii\nPoonam, an AWS Cloud Support Engineer, shows you how to resolve the error Container killed by YARN for exceeding memory limits in Spark on EMR.",
+        "date": "2019-07-17T17:20:41Z",
+        "duration": 378
     },
     {
         "service": "emr",
         "videoId": "XZ6xWuX1hAE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013getting-started",
+            "big-data-and-hpc",
+            "startups",
+            "emr",
+            "dynamodb",
+            "node.js",
+            "google-analytics",
+            "Jonathan-Keebler",
+            "BDT203",
+            "bdt"
+        ],
         "title": "Build Your Web Analytics with node.js, Amazon DynamoDB and Amazon EMR (BDT203) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "Want to learn how to build your own Google Analytics? Learn how to build a scalable architecture using node.js, Amazon DynamoDB, and Amazon EMR. This architecture is used by ScribbleLive to track billions of engagement minutes per month. In this session, we go over the code in node.js, how to store the data in Amazon DynamoDB, and how to roll-up the data using Hadoop and Hive.   Attend this session to learn how to move data quickly at any scale as well as how to use genomic analysis tools and pipelines for next generation sequencers using Globus on AWS.",
+        "date": "2013-11-26T19:44:46Z",
+        "duration": 2577
     },
     {
         "service": "emr",
         "videoId": "aRn-ydiv0jw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Analytics Week | Build Data Engineering Platforms with Amazon EMR",
-        "date": "2019/04/04"
+        "description": "Amazon EMR provides a flexible range of service customization options, enabling customers to use it as a building block for their data platforms. In this session, AWS customers Salesforce.com and Vanguard discuss in detail how they use Amazon EMR to build a self-service, secure, and auditable data engineering platform. Customers who want to optimize their design and configurations should attend this session to learn best practices from customer experts. Topics include achieving cost-efficient scale, using notebooks, processing streaming data, rapid prototyping of applications and data pipelines, architecting for both transient and persistent clusters, setting up advanced security and authorization controls, and enabling easy self service for users.\n\nSpeaker: Mahdi Sajjadpour, Principal BD, Service Catalog and Alan Delucia, Sr. BD, Service Catalog, AWS\n\nLevel: 200\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
+        "date": "2019-04-04T18:14:08Z",
+        "duration": 3625
     },
     {
         "service": "emr",
         "videoId": "-S5gs8AGKCw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Civitas",
+            "Amazon Elastic MapReduce (EMR)",
+            "Amazon Redshift",
+            "Scala",
+            "PII",
+            "Amazon Simple Storage Service (S3)",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Civitas Learning: Securely Transforming PII with Amazon EMR and Amazon Redshift",
-        "date": "2017/01/30"
+        "description": "Learn more - http://amzn.to/2jw7sAx\n\nOn the next episode of This Is My Architecture, Chad from Civitas Learning explains how they spin-up transient, parallel Redshift clusters to securely separate PII data. He also explains how they use an EC2-based Scala application called \"Foreman\" to dynamically right-size Redshift clusters based on the datasets' metadata in addition to past query performance.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2017-01-30T20:05:27Z",
+        "duration": 180
     },
     {
         "service": "emr",
         "videoId": "SSWwnNVYi_Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon EC2",
+            "Amazon RDS",
+            "AWS Key Management Service (KMS)",
+            "Amazon Elastic MapReduce (EMR)",
+            "Amazon Simple Storage Service (S3)",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "NHS Digital: From 137 Minutes to 137 Seconds Using EMR",
-        "date": "2019/03/20"
+        "description": "In this episode of This is My Architecture - https://amzn.to/2HHiMv4, Ed Hiley from the NHS Digital, talks about the design and creation of a highly secure data environment on AWS allowing external researchers to securely access important data. He also talks about the 26x performance improvement in data processing time they achieved as part of the project.\n\nHost: Simon Treacy, Solutions Architect\nCustomer: Ed Hiley, Principle Systems Engineer\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2019-03-20T20:45:19Z",
+        "duration": 343
     },
     {
         "service": "emr",
         "videoId": "w8O3m2-F9jk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "console",
+            "Amazon Elastic Container Service (ECS)",
+            "Amazon CloudWatch",
+            "Amazon API Gateway",
+            "AWS Lambda",
+            "Amazon Simple Storage Service (S3)",
+            "Amazon Elastic MapReduce (EMR)",
+            "Spark",
+            "Slack",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Cisco Cloudlock: No AWS Console Access. Security Analysts Generate Reports on EMR Using Slack",
-        "date": "2018/11/09"
+        "description": "In this episode of This is My Architecture https://amzn.to/2DCnb0f, David from Cisco Cloudlock talks about a requirement they had to let security analysts launch EMR jobs for security posture assessment reports generation. Opening up console access for such an audience wasn’t ideal, and CLI access is less suitable for asynchronous interaction. Learn how they used their common collaboration tool, Slack, to allow for report generation, and notification when the report is ready to be accessed securely.\n\nHost: Aarthi Raju, AWS Partner Solutions Architect\nCustomer: David Melamed, Technical Leader, Cisco Cloudlock\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2018-11-09T18:01:55Z",
+        "duration": 463
     },
     {
         "service": "emr",
         "videoId": "Y3UXDtDR9bg",
+        "tags": [
+            "AWS",
+            "amazon",
+            "elastic",
+            "mapreduce",
+            "Hadoop",
+            "Hive",
+            "Apache"
+        ],
         "title": "Using Apache Hive With Amazon Elastic MapReduce - 1 of 2",
-        "date": "2009/10/01"
+        "description": "This set of 2 videos shows you how to use Apache Hive as a data warehouse with Amazon Elastic MapReduce. See http://developer.amazonwebservices.com/connect/entry.jspa?externalID=2855",
+        "date": "2009-10-02T02:54:04Z",
+        "duration": 277
     },
     {
         "service": "emr",
         "videoId": "ZSu8N2PoVbM",
+        "tags": [
+            "S3",
+            "Simple Storage",
+            "S3 Bucket",
+            "S3 directories",
+            "Hadoop Job Jar",
+            "EMR",
+            "elastic map reduce",
+            "Amazon Web Services",
+            "AWS",
+            "Cloud technology",
+            "Cloud",
+            "Storage",
+            "Amazon Elastic MapReduce",
+            "hadoop",
+            "NLP",
+            "ETL",
+            "Soir Indexing",
+            "Apache Tika",
+            "Large scale web crawling",
+            "Ken Krugler",
+            "Elastic MapReduce",
+            "Cloud Technology",
+            "Hadoop",
+            "elastic map-reduce"
+        ],
         "title": "EMR Training: MapReduce Lab (6 of 11)",
-        "date": "2012/07/12"
+        "description": "This episode covers how to use a Hadoop Job Flow to analyze text from Wikipedia. Learn more: http://aws.amazon.com/elasticmapreduce/",
+        "date": "2012-07-03T17:58:36Z",
+        "duration": 770
     },
     {
         "service": "emr",
         "videoId": "5lA93QzUny8",
+        "tags": [
+            "Pricing",
+            "access control",
+            "S3 Access",
+            "S3 pricing",
+            "S3",
+            "Simple Storage",
+            "S3 Bucket",
+            "S3 directories",
+            "Hadoop Job Jar",
+            "EMR",
+            "elastic map reduce",
+            "Amazon Web Services",
+            "AWS",
+            "Cloud technology",
+            "Cloud",
+            "Storage",
+            "Amazon Elastic MapReduce",
+            "hadoop",
+            "NLP",
+            "ETL",
+            "Soir Indexing",
+            "Apache Tika",
+            "Large scale web crawling",
+            "Ken Krugler",
+            "Elastic MapReduce",
+            "Cloud Technology",
+            "Hadoop",
+            "elastic map-reduce",
+            "Amazon S3 (Internet Protocol)",
+            "Software Tutorial"
+        ],
         "title": "EMR Training: Dealing with Data (5 of 11)",
-        "date": "2012/07/03"
+        "description": "This video covers S3 architectures, pricing, and access control. Learn more: http://aws.amazon.com/s3/pricing/",
+        "date": "2012-07-03T17:53:57Z",
+        "duration": 1136
     },
     {
         "service": "emr",
         "videoId": "rKwvBeS3Z7E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Amazon EMR",
+            "Hadoop",
+            "Microstrategy",
+            "Netflix",
+            "advanced visualization"
+        ],
         "title": "Big Data Visual Analytics with Netflix and MicroStrategy on Amazon EMR",
-        "date": "2013/10/22"
+        "description": "The use of Hadoop is growing outside the realm of data scientists and experts in coding using Java, Python and MapReduce. Interactive analysis and visualizations are making it possible for everyday business users to explore and find business value in big data Hadoop systems.\n\nOn the cutting edge for its use of analytics, Netflix has deployed the MicroStrategy business intelligence software platform on top of Amazon EMR for interactive insights. Learn how Netflix analysts use advanced visualizations to explore the performance of its streaming service closer to recorded time by directly accessing Hadoop data on an ad-hoc basis and without writing code.",
+        "date": "2013-10-22T18:14:53Z",
+        "duration": 3093
     },
     {
         "service": "emr",
         "videoId": "MMY5jhBtwHA",
-        "title": "My Amazon EMR cluster failed to start with error bootstrap action returned a non-zero return code.",
-        "date": "2020/08/24"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center"
+        ],
+        "title": "My Amazon EMR cluster failed to start with error \"bootstrap action returned a non-zero return code.",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/emr-cluster-bootstrap-failed/\n\nVishwa shows you what to do if your Amazon EMR cluster failed to start with error \"bootstrap action returned a non-zero return code.",
+        "date": "2020-08-24T19:47:37Z",
+        "duration": 98
     },
     {
         "service": "emr",
         "videoId": "KfgCJufxI0M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "BDM301",
+            "Jonathan Fritz",
+            "Advanced (300 Level)",
+            "Big Data Mini Con"
+        ],
         "title": "AWS re:Invent 2016: Best Practices for Apache Spark on Amazon EMR (BDM301)",
-        "date": "2016/12/01"
+        "description": "Organizations need to perform increasingly complex analysis on data — streaming analytics, ad-hoc querying, and predictive analytics — in order to get better customer insights and actionable business intelligence. Apache Spark has recently emerged as the framework of choice to address many of these challenges. In this session, we show you how to use Apache Spark on AWS to implement and scale common big data use cases such as real-time data processing, interactive data science, predictive analytics, and more. We talk about common architectures, best practices to quickly create Spark clusters using Amazon EMR, and ways to integrate Spark with other big data services in AWS. This session will feature DataXu, a provider of programmatic marketing and analytics software. DataXu will share how they architected their petabyte-scale ETL processing pipeline and data science workflows using Spark.",
+        "date": "2016-12-01T20:49:12Z",
+        "duration": 3112
     },
     {
         "service": "emr",
         "videoId": "xwbKvmOxb8g",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "HadoopActivity",
+            "dynamodb backup"
+        ],
         "title": "AWS Knowledge Center Videos: How do I run concurrent jobs in an EMR cluster using AWS Data Pipeline?",
-        "date": "2016/12/12"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/concurrent-emr-jobs-data-pipeline/\nMagesh, an AWS Cloud Support Engineer, shows you how to run concurrent jobs in an EMR cluster using AWS Data Pipeline.",
+        "date": "2016-12-12T15:17:19Z",
+        "duration": 437
     },
     {
         "service": "emr",
         "videoId": "a5D_bs7E3uc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "big-data-and-hpc",
+            "startups",
+            "emr",
+            "deep dive",
+            "best practices",
+            "s3",
+            "HDFS",
+            "Hadoop",
+            "Parviz-Deyhim",
+            "BDT404",
+            "bdt"
+        ],
         "title": "Amazon Elastic MapReduce Deep Dive and Best Practices (BDT404) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "Amazon Elastic MapReduce is one of the largest Hadoop operators in the world. Since its launch four years ago, our customers have launched more than 5.5 million Hadoop clusters. In this talk, we introduce you to Amazon EMR design patterns such as using Amazon S3 instead of HDFS, taking advantage of both long and short-lived clusters and other Amazon EMR architectural patterns. We talk about how to scale your cluster up or down dynamically and introduce you to ways you can fine-tune your cluster. We also share best practices to keep your Amazon EMR cluster cost efficient.",
+        "date": "2013-11-26T19:51:23Z",
+        "duration": 3828
     },
     {
         "service": "emr",
         "videoId": "kInRKtcsC1Q",
-        "title": "How do I resolve the java.lang.ClassNotFoundException in Spark on Amazon EMR?",
-        "date": "2019/07/08"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
+        "title": "How do I resolve the \"java.lang.ClassNotFoundException\" in Spark on Amazon EMR?",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2GjegPC\nPoonam, an AWS Cloud Support Engineer, shows you how to resolve the \"java.lang.ClassNotFoundException\" in Spark on Amazon EMR.",
+        "date": "2019-07-08T21:08:41Z",
+        "duration": 166
     },
     {
         "service": "emr",
         "videoId": "bUHdp2AJrbM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Civitas Learning: Securely Transforming PII with Amazon EMR and Amazon Redshift [PROMO]",
-        "date": "2017/02/10"
+        "description": "",
+        "date": "2017-02-11T00:11:06Z",
+        "duration": 22
     },
     {
         "service": "emr",
         "videoId": "68gn4Vmxnv4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Elastic Compute Cloud (Software)",
+            "Amazon.com (Venture Funded Company)",
+            "MapReduce (Software)",
+            "Software (Industry)",
+            "andrew jorgensen",
+            "rahul bhartia"
+        ],
         "title": "Deep Dive: Amazon Elastic MapReduce",
-        "date": "2015/04/10"
+        "description": "Amazon Elastic MapReduce (EMR) is a web service that allows you to easily and securely provision and manage your Hadoop clusters. In this talk, we will introduce you to Amazon EMR design patterns, such as using various data stores such as Amazon S3, how to take advantage of both transient and active clusters, as well as other Amazon EMR architectural patterns. We will dive deep on how to dynamically scale your cluster and address the ways you can fine-tune your cluster. We will discuss bootstrapping Hadoop applications from our partner ecosystem that you can use natively with Amazon EMR. Lastly, we will share best practices on how to keep your Amazon EMR cluster cost-effective.",
+        "date": "2015-04-10T21:55:44Z",
+        "duration": 2884
     },
     {
         "service": "emr",
         "videoId": "Rqm5EZUlxK8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Fintech Day 2019",
+            "AWS Lambda",
+            "Amazon EMR",
+            "Amazon SageMaker",
+            "Amazon Kinesis Data streams",
+            "Fintech Startup Talk",
+            "AWS Startups"
+        ],
         "title": "Finbox to Process Credit for the Next Billion with Their Platform Using AWS Lambda, Amazon EMR",
-        "date": "2019/06/12"
+        "description": "To learn more about how AWS supports Startups, please visit - https://amzn.to/2IwRIvL.\nFinBox data platform powers loan origination, verification and underwriting for lenders. Rajat discusses how Finbox uses AWS Lambda, Amazon EMR and  Amazon Kinesis Data streams to scale in and scale out. Also, how they are using Amazon SageMaker to supercharge their ML journey.\n\nAWS Fintech Day 2019: Startup Talk by Rajat Deshpande, CEO, FinBox",
+        "date": "2019-06-12T16:00:04Z",
+        "duration": 263
     },
     {
         "service": "emr",
         "videoId": "7eENkamwY7c",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Advertising Technology",
+            "Advanced",
+            "AWS Identity and Access Management (IAM)",
+            "NoSQL",
+            "Machine Learning",
+            "Cost",
+            "Big Data",
+            "Architecture",
+            "Analytics",
+            "Amazon S3",
+            "Amazon Kinesis",
+            "Amazon Elastic MapReduce",
+            "Amazon EC2",
+            "Amazon DynamoDB",
+            "MediaMath",
+            "Architect",
+            "Startup",
+            "IT Executive",
+            "Developer",
+            "Ian Hummel",
+            "Edward Fagin",
+            "Aditya Krishnan"
+        ],
         "title": "AWS re:Invent 2014 | (ADV303) MediaMath’s Data Revolution with Amazon Kinesis and Amazon EMR",
-        "date": "2014/11/17"
+        "description": "Collecting and processing terabytes of data per day is a challenge for any technology company. As marketers and brands become more sophisticated consumers of data, enabling granular levels of access to targeted subsets of data from outside your firewalls presents new challenges. This session discusses how to build scalable, complex, and cost-effective data processing pipelines using Amazon Kinesis, Amazon EC2 Spot Instances, Amazon EMR, and Amazon Simple Storage Service (S3). Learn how MediaMath revolutionized their data delivery platform with the help of these services to empower product teams, partners, and clients. As a result, a number of innovative products and services are delivered on top of terabytes of online user behavior. MediaMath covers their journey from legacy batch processing and vendor lock-in to a new world where the raw materials to build advanced lookalike models, optimization algorithms, or marketing attribution models are readily available to any engineering team in real time, substantially reducing the time - and cost - of innovation.",
+        "date": "2014-11-17T22:26:33Z",
+        "duration": 2405
     },
     {
         "service": "emr",
         "videoId": "LuHxnOQarXU",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Financial Services",
+            "Big Data & Analytics",
+            "BDT314",
+            "Nate Sammons - Nasdaq",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (BDT314) A Big Data & Analytics App on Amazon EMR & Amazon Redshift",
-        "date": "2015/10/16"
+        "description": "No matter the industry, leading organizations need to closely integrate, deploy, secure, and scale diverse technologies to support workloads while containing costs. Nasdaq, Inc.—a leading provider of trading, clearing, and exchange technology—is no exception.\n \n After migrating more than 1,100 tables from a legacy data warehouse into Amazon Redshift, Nasdaq, Inc. is now implementing a fully-integrated, big data architecture that also includes Amazon S3, Amazon EMR, and Presto to securely analyze large historical data sets in a highly regulated environment. Drawing from this experience, Nasdaq, Inc. shares lessons learned and best practices for deploying a highly secure, unified, big data architecture on AWS.\n \n Attendees learn:\n \n Architectural recommendations to extend an Amazon Redshift data warehouse with Amazon EMR and Presto.\n \n Tips to migrate historical data from an on-premises solution and Amazon Redshift to Amazon S3, making it consumable.\n \n Best practices for securing critical data and applications leveraging encryption, SELinux, and VPC.",
+        "date": "2015-10-16T15:03:34Z",
+        "duration": 2710
     },
     {
         "service": "emr",
         "videoId": "RHfOZ1wn8Go",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Financial Services",
+            "Big Data & Analytics",
+            "BDT309",
+            "Manjeet Chayel - Amazon Web Services",
+            "Jonathan Fritz - Amazon Web Services",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (BDT309) Data Science & Best Practices for Apache Spark on Amazon EMR",
-        "date": "2015/10/12"
+        "description": "Organizations need to perform increasingly complex analysis on their data — streaming analytics, ad-hoc querying and predictive analytics — in order to get better customer insights and actionable business intelligence. However, the growing data volume, speed, and complexity of diverse data formats make current tools inadequate or difficult to use. Apache Spark has recently emerged as the framework of choice to address these challenges. Spark is a general-purpose processing framework that follows a DAG model and also provides high-level APIs, making it more flexible and easier to use than MapReduce. Thanks to its use of in-memory datasets (RDDs), embedded libraries, fault-tolerance, and support for a variety of programming languages, Apache Spark enables developers to implement and scale far more complex big data use cases, including real-time data processing, interactive querying, graph computations and predictive analytics. In this session, we present a technical deep dive on Spark running on Amazon EMR. You learn why Spark is great for ad-hoc interactive analysis and real-time stream processing, how to deploy and tune scalable clusters running Spark on Amazon EMR, how to use EMRFS with Spark to query data directly in Amazon S3, and best practices and patterns for Spark on Amazon EMR.",
+        "date": "2015-10-12T17:46:51Z",
+        "duration": 2703
     },
     {
         "service": "emr",
         "videoId": "8Soi4KLNFao",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Boundary",
+            "Amazon EMR",
+            "Elastic MapReduce",
+            "Boundary Enterprise Event Management",
+            "operation management"
+        ],
         "title": "AWS Partner Webinar: Improve Your Cloud Performance with Amazon Elastic MapReduce",
-        "date": "2013/09/23"
+        "description": "Optimize the IT Operation Management of your Amazon EMR Cluster with Boundary. Join this session to learn how the Amazon EMR team and Boundary, a SaaS solution provider, have teamed to provide deep visibility into the operations of Amazon EMR. Boundary Enterprise Event Management consolidates and correlates events and alerts from any source into a single view enabling Ops/DevOps to quickly see the total picture at per-second granularity. Learn how early warnings alert on potential hot spots to prevent application outages and event management correlates information from other systems, including Amazon CloudWatch, to provide a centralized operations dashboard.",
+        "date": "2013-09-23T22:59:52Z",
+        "duration": 3523
     },
     {
         "service": "emr",
         "videoId": "aIwJlfEAlHQ",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ANT308-R1",
+            "Analytics",
+            "Amazon EMR"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Deep dive into running Apache Spark on Amazon EMR (ANT308-R1)",
-        "date": "2019/12/10"
+        "description": "Amazon EMR enables customers to run ETL, machine learning, real-time processing, data science, and low-latency SQL at petabyte scale. We focus this session on running Apache Spark on Amazon EMR. We introduce design patterns such as using Amazon S3 instead of HDFS, running long- and short-lived clusters, using notebooks, and performance-related enhancements. We discuss lowering cost with auto scaling and Spot Instances, and security with encryption and fine-grained access control with AWS Lake Formation.",
+        "date": "2019-12-10T18:50:01Z",
+        "duration": 3723
     },
     {
         "service": "emr",
         "videoId": "_ckNyL_Nr1A",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ANT239",
+            "Analytics",
+            "Apache Hudi",
+            "Amazon EMR",
+            "Amazon S3"
+        ],
         "title": "AWS re:Invent 2019: Insert, upsert, and delete data in Amazon S3 using Amazon EMR (ANT239)",
-        "date": "2019/12/05"
+        "description": "Building data lakes in Amazon S3 offers scale and reliability for open-source data formats and a common data store for both reporting and BI as well as big data analytics and ML/AI. However, most commonly used big data frameworks make customers reinstate large volumes of data for handling incremental changes in individual records. Apache Hudi provides the ability to create, upsert, and delete records and simplifies the handling of change data capture and the ingestion of real-time streams. In this session, we dive deep into using Apache Hudi with Amazon EMR, exploring fundamental concepts, common scenarios, and how to use Hudi to optimize workflows.",
+        "date": "2019-12-05T17:48:57Z",
+        "duration": 2879
     },
     {
         "service": "emr",
         "videoId": "19sUvRzNOGQ",
+        "tags": [
+            "AWS",
+            "Events",
+            "aws reinvent 2019",
+            "Amazon EMR",
+            "Apache Spark",
+            "Spark",
+            "EMR Runtime",
+            "Data Lake"
+        ],
         "title": "Amazon EMR Runtime for Apache Spark",
-        "date": "2020/03/20"
+        "description": "A performance optimized runtime environment for Apache Spark, available and turned on by default on Amazon EMR clusters. EMR runtime for Spark is up to 32x faster with 100% API compatibility with open source Spark. The runtime is on by default starting in EMR release 5.28.\n\nLearn more about Amazon EMR Runtime for Apache Spark at  https://go.aws/2UlYtXn\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #reInvent2019 #AmazonEMR",
+        "date": "2020-03-20T17:22:07Z",
+        "duration": 333
     },
     {
         "service": "emr",
         "videoId": "PkoYqp_6WTc",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "STP302",
+            "Startup",
+            "Opendoor",
+            "Amazon EC2",
+            "Amazon EMR"
+        ],
         "title": "AWS re:Invent 2019: Using Amazon EMR to build a Spark ecosystem at Opendoor (STP302)",
-        "date": "2019/12/06"
+        "description": "In this session, you learn how Opendoor, an online home-buying and selling service, manages medium-sized real estate data using Spark. The session covers the journey from in-house data processing solutions using Kubernetes to benchmark against providers, such as Amazon EMR and Databricks, to migrating to Amazon EMR to achieve a balance of cost and performance. As a cost-conscious startup with heavy data processing needs, Opendoor had to balance cost, performance, availability, and developer experiences when designing its ETL and machine learning platform. This session focuses on how Opendoor optimized its data workflow by migrating Spark workloads from Kubernetes to Amazon EMR.",
+        "date": "2019-12-07T05:52:17Z",
+        "duration": 2125
     },
     {
         "service": "emr",
         "videoId": "TfgNzzaakNs",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "ANT327-R1",
+            "Analytics",
+            "Intuit",
+            "Intuit (Small Business Group)",
+            "Amazon EMR"
+        ],
         "title": "AWS re:Invent 2019: Migrating Apache Spark and Hive from on-premises to Amazon EMR (ANT327-R1)",
-        "date": "2019/12/09"
+        "description": "In this session, you hear from representatives of Intuit about how they migrated the company’s analytics, data processing (ETL), and data science workloads running on Apache Hive and Spark to Amazon EMR to reduce costs, increase availability, and improve performance. This session focuses on key motivations and the benefits of a move to the cloud and also gives details of key architectural changes and best practices.",
+        "date": "2019-12-09T18:54:54Z",
+        "duration": 2969
     },
     {
         "service": "emr",
         "videoId": "AFszoJJerSs",
+        "tags": [
+            "AWS",
+            "Events",
+            "Amazon EMR",
+            "big data analytics",
+            "apache spark",
+            "data processing"
+        ],
         "title": "Amazon EMR Runtime for Apache Spark",
-        "date": "2020/07/24"
+        "description": "Amazon EMR runtime for Apache Spark, a performance optimized runtime environment for Apache Spark, is available and turned on by default on Amazon EMR clusters running EMR 5.28 or higher versions. EMR runtime for Spark is up to 32x faster with 100% API compatibility with open source Spark. Watch this video to learn more about the performance improvements offered by EMR runtime.\n\nLearn more about Amazon EMR at - https://amzn.to/2OWiLUN\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSWebinar #AmazonEMR",
+        "date": "2020-07-24T21:20:02Z",
+        "duration": 369
     }
 ]

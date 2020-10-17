@@ -2,7 +2,19 @@
     {
         "service": "resource_access_manager",
         "videoId": "KL9SICG52zY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Organizations",
+            "AWS RAM",
+            "AWS IAM"
+        ],
         "title": "AWS Resource Access Manager",
-        "date": "2020/06/19"
+        "description": "This short demo shows how you can use AWS Resource Access Manager (RAM) to share your resources with any AWS account or through AWS Organizations. If you have many AWS accounts, you can create a resource centrally and share it with multiple accounts.\n\nLearn more about AWS RAM at - https://go.aws/2NajTU4\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-06-19T21:45:36Z",
+        "duration": 272
     }
 ]

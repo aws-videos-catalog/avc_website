@@ -2,343 +2,1129 @@
     {
         "service": "iam",
         "videoId": "YQsK4MtsELU",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Security",
+            "Identity",
+            "and Compliance",
+            "SEC316-R1"
+        ],
         "title": "AWS re:Invent 2018: [REPEAT 1] Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1)",
-        "date": "2018/11/28"
+        "description": "Are you interested in becoming a IAM policy master and learning about powerful techniques for controlling access to AWS resources? If your answer is “yes,” this session is for you. Join us as we cover the different types of policies and describe how they work together to control access to resources in your account and across your AWS organization. We walk through use cases that help you delegate permission management to developers by demonstrating IAM permission boundaries. We take an in-depth look at controlling access to specific AWS regions using condition keys. Finally, we explain how to use tags to scale permissions management in your account. This session requires you to know the basics of IAM policies.",
+        "date": "2018-11-28T18:40:45Z",
+        "duration": 3336
     },
     {
         "service": "iam",
         "videoId": "WioS12_j5e0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I attach an IAM managed policy to an IAM role in AWS CloudFormation?",
-        "date": "2020/02/06"
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/2qBxFYm\nZainub shows you how to attach an IAM managed policy to an IAM role in AWS CloudFormation.",
+        "date": "2020-02-06T15:52:41Z",
+        "duration": 270
     },
     {
         "service": "iam",
         "videoId": "2eAjaNo476o",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "EC2",
+            "IAM",
+            "IAM Roles",
+            "Amazon EC2",
+            "Amazon Elastic Compute Cloud (Software)",
+            "Amazon IAM",
+            "Amazon Identity and Access management"
+        ],
         "title": "IAM Roles for Amazon EC2",
-        "date": "2014/03/18"
+        "description": "This video describes how to use IAM roles for Amazon EC2.  It replaces an updated version with the newer look and feel, as well as several new versions of Windows (2012) and using the AWS tools for PowerShell.",
+        "date": "2014-03-18T15:48:42Z",
+        "duration": 331
     },
     {
         "service": "iam",
         "videoId": "y7-fAT3z8Lo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "SAC303",
+            "Jeff Wierer",
+            "Advanced (300 Level)",
+            "Security and Compliance"
+        ],
         "title": "AWS re:Invent 2016: Become an AWS IAM Policy Ninja in 60 Minutes or Less (SAC303)",
-        "date": "2016/12/03"
+        "description": "Are you interested in learning how to control access to your AWS resources? Have you ever wondered how to best scope down permissions to achieve least privilege permissions access control? If your answer to these questions is \"yes,\" this session is for you. We take an in-depth look at the AWS Identity and Access Management (IAM) policy language. We start with the basics of the policy language and how to create and attach policies to IAM users, groups, and roles. As we dive deeper, we explore policy variables, conditions, and other tools to help you author least privilege policies. Throughout the session, we cover some common use cases, such as granting a user secure access to an Amazon S3 bucket or to launch an Amazon EC2 instance of a specific type.",
+        "date": "2016-12-03T19:48:14Z",
+        "duration": 3339
     },
     {
         "service": "iam",
         "videoId": "wRzzBb18qUw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I set up an IAM user and sign in to the AWS Management Console using IAM credentials?",
-        "date": "2020/03/19"
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/create-new-iam-user/\nSandeep shows you how to set up an IAM user and sign in to the AWS Management Console using IAM credentials.",
+        "date": "2020-03-19T15:05:46Z",
+        "duration": 325
     },
     {
         "service": "iam",
         "videoId": "2P3ajglqbKw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "EC2 Systems Manager",
+            "SSm",
+            "AWS Systems Manager",
+            "Getting Started with EC2 Systems Manager",
+            "EC2 Managed Instance",
+            "Setting up EC2 Systems Manager"
+        ],
         "title": "Setting Up IAM Roles for Systems Manager",
-        "date": "2017/09/22"
+        "description": "Amazon EC2 Systems Manager requires an IAM role for EC2 instances that will process commands and a separate role for users executing those commands. Learn more at - http://amzn.to/2xwvR3B. Both roles require permission policies that enable them to communicate with the Systems Manager.\nIn this video, we will show how to use Systems Manager managed policies or create your own roles and specify permissions.",
+        "date": "2017-09-22T15:00:00Z",
+        "duration": 247
     },
     {
         "service": "iam",
         "videoId": "hANDWau9NvE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS SSO",
+            "Single Sign-On",
+            "CLI",
+            "SAML",
+            "SAML 2.0",
+            "Azure AD"
+        ],
         "title": "Demo: AWS IAM Federation with Azure AD",
-        "date": "2020/05/26"
+        "description": "This video demonstrates how you can configure access federation between AWS IAM and Azure AD for an individual AWS account. \n\nLearn more about AWS Security Identity & Compliance at - https://bit.ly/2ZFKCPK\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-05-26T23:10:00Z",
+        "duration": 569
     },
     {
         "service": "iam",
         "videoId": "hETtXCqX_Zc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "SEC302",
+            "AWS Chicago Summit 2017"
+        ],
         "title": "Becoming an AWS Policy Ninja using AWS IAM and AWS Organizations [SEC302]",
-        "date": "2017/10/19"
+        "description": "Are you interested in becoming an expert in managing access to your AWS resources? Have you ever wondered how to best scope down permissions for least privilege access? Do you have multiple AWS accounts and need to know how to manage access to resources centrally? In this session, we take an in-depth look at AWS Identity and Access Management (IAM) and AWS Organizations. You will learn how to quickly create IAM policies to manage fine-grained access to your resources. Throughout the session, we will cover common use cases, such as how to grant a user access to an Amazon S3 bucket or permissions to launch an Amazon EC2 instance of a specific type. You will also learn how to create and use Service Control Policies (SCPs) through Organizations to manage AWS service use across all your accounts centrally.",
+        "date": "2017-10-19T17:01:11Z",
+        "duration": 3501
     },
     {
         "service": "iam",
         "videoId": "Ragz-TekLBM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "Can I restrict the access of IAM users to specific EC2 resources?",
-        "date": "2019/05/14"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2G1RNYf\nViswanath, an AWS Cloud Support Engineer, shows you how to  restrict the access of IAM users to specific EC2 resources.",
+        "date": "2019-05-15T03:28:28Z",
+        "duration": 203
     },
     {
         "service": "iam",
         "videoId": "wY7FOFaPNuE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "IAM",
+            "Identity and Access Management",
+            "IAM roles",
+            "role based access",
+            "RBAC",
+            "identity management",
+            "security",
+            "AWS Identity and Access management",
+            "IAM role for EC2",
+            "secure access to EC2",
+            "secure access to AWS service",
+            "access AWS account",
+            "AWS resource access",
+            "external identity management",
+            "OpenIDConnect",
+            "OIDC",
+            "SAML",
+            "secure access to S3"
+        ],
         "title": "Secure Access to AWS Services Using AWS Identity and Access Management (IAM) Roles",
-        "date": "2018/04/27"
+        "description": "To get started with creating AWS IAM role and attaching to EC2 instances, navigate to the AWS IAM console - https://amzn.to/2Jmkn5H.\nLearn how to use AWS Identity and Access Management (IAM) roles for Amazon EC2 to enable your applications running on EC2 to access other AWS services and resources securely. Using roles for EC2, AWS can distribute short-term credentials to EC2 instances on your behalf. Learn how to create an AWS IAM role from the console and attach the role to a new or existing EC2 instance.",
+        "date": "2018-04-27T17:16:37Z",
+        "duration": 365
     },
     {
         "service": "iam",
         "videoId": "aq4y5B1jjMg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I use IAM policies to grant user-specific access to specific folders?",
-        "date": "2019/05/20"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2YS2tjO\nJansen, an AWS Cloud Support Engineer, shows you how you can  use IAM policies to grant user-specific access to specific folders.",
+        "date": "2019-05-20T21:42:50Z",
+        "duration": 378
     },
     {
         "service": "iam",
         "videoId": "C4AyfV3Z3xs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "IAM",
+            "Amazon EC2",
+            "roles",
+            "security credentials",
+            "simple cloud hosting",
+            "cloud servers",
+            "server hosting",
+            "virtual server",
+            "how to set up ec2",
+            "how to set up a virtual server"
+        ],
         "title": "Using IAM Roles with Amazon EC2 Instances",
-        "date": "2013/03/08"
+        "description": "This tutorial shows how to use an AWS IAM role to provide temporary security credentials to an application running on an Amazon EC2 instance. \n\nLearn more: docs.aws.amazon.com/IAM/latest/UserGuide/role-usecase-ec2app.html",
+        "date": "2013-03-08T20:04:05Z",
+        "duration": 525
     },
     {
         "service": "iam",
         "videoId": "4OpZmBp9S0k",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "IAM",
+            "sec",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "security",
+            "enterprise",
+            "identity access management",
+            "cloud ID management",
+            "identity management on the cloud",
+            "AWS IAM",
+            "Jim-Scharf",
+            "SEC201"
+        ],
         "title": "Access Control for the Cloud: AWS Identity and Access Management (IAM) (SEC201) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "Learn how AWS IAM enables you to control who can do what in your AWS environment. We discuss how IAM provides flexible access control that helps you maintain security while adapting to your evolving business needs. We'll review how to integrate AWS IAM with your existing identity directories via identity federation. We outline some of the unique challenges that make providing IAM for the cloud a little different. And throughout the presentation, we highlight recent features that make it even easier to manage the security of your workloads on the cloud.",
+        "date": "2013-11-26T20:32:34Z",
+        "duration": 3324
     },
     {
         "service": "iam",
         "videoId": "Ul6FW4UANGc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS IAM",
+            "Amazon IAM",
+            "Identiry and Access Management",
+            "identity and access management",
+            "introduction to IAM",
+            "what is IAM"
+        ],
         "title": "Introduction to AWS IAM - Identity and Access Management on AWS",
-        "date": "2014/03/14"
+        "description": "AWS Identity and Access Management (IAM) enables you to securely control access to AWS services and resources for your users. Learn more: http://amzn.to/2iRn4m4",
+        "date": "2014-03-15T01:30:09Z",
+        "duration": 135
     },
     {
         "service": "iam",
         "videoId": "JvtmmS9_tfU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos",
+            "IAM",
+            "IAM user",
+            "access key"
+        ],
         "title": "How do I create an access key for an existing IAM user?",
-        "date": "2018/12/12"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2PwUWFW\nEmanuel, an AWS Support team member, shows you how to create an access key for an existing IAM user.",
+        "date": "2018-12-12T15:08:03Z",
+        "duration": 85
     },
     {
         "service": "iam",
         "videoId": "suBsFAEJUIc",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "GPSTechnical",
+            "GPSTEC310",
+            "Identity & Access Management",
+            "IAM"
+        ],
         "title": "AWS re:Invent 2017: GPS: IAM Best Practices and Becoming an IAM Ninja (GPSTEC310)",
-        "date": "2017/11/28"
+        "description": "Identity & Access Management is the foundation that all AWS services require to function and perform any action. Mastering IAM is the skill set you need in your arsenal so that you can provide best-in-breed services through your application or services to your customers. This session shows you best practices for IAM, the latest service additions, and advanced automation techniques to become a certified IAM ninja.",
+        "date": "2017-11-28T18:57:15Z",
+        "duration": 2503
     },
     {
         "service": "iam",
         "videoId": "qwMxh1x9UZQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos"
+        ],
         "title": "How do I use IAM policy tags to restrict how an EC2 instance or EBS volume can be created?",
-        "date": "2018/07/09"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/iam-policy-tags-restrict/\n\nFagner, an AWS Cloud Support Engineer, shows you how to use IAM policy tags to restrict how an EC2 instance or EBS volume can be created.",
+        "date": "2018-07-09T13:03:23Z",
+        "duration": 447
     },
     {
         "service": "iam",
         "videoId": "SGntDzEn30s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Security & Compliance",
+            "SAC317",
+            "Zaher Dannawi",
+            "Advanced"
+        ],
         "title": "AWS re:Invent 2016: IAM Best Practices to Live By (SAC317)",
-        "date": "2016/12/03"
+        "description": "This session covers AWS Identity and Access Management (IAM) best practices that can help improve your security posture. We cover how to manage users and their security credentials. We also explain why you should delete your root access keys—or at the very least, rotate them regularly. Using common use cases, we demonstrate when to choose between using IAM users and IAM roles. Finally, we explore how to set permissions to grant least privilege access control in one or more of your AWS accounts.",
+        "date": "2016-12-03T18:57:02Z",
+        "duration": 3494
     },
     {
         "service": "iam",
         "videoId": "-uogKFE1r60",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I assume an IAM role using the AWS CLI?",
-        "date": "2019/07/02"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2ZjZa57\nWayne, an AWS Cloud Support Engineer, shows you how to assume an IAM role using the AWS CLI.",
+        "date": "2019-07-02T14:59:48Z",
+        "duration": 604
     },
     {
         "service": "iam",
         "videoId": "y2QsuwZGZ54",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWSDemo",
+            "Amazon Aurora MySQL",
+            "IAM",
+            "EC2",
+            "RDS MySQL",
+            "IAM Authentication"
+        ],
         "title": "IAM Authentication with Amazon Aurora MySQL",
-        "date": "2020/07/29"
+        "description": "Database administrators can associate database users with IAM users and roles. With this authentication method, you don't need to use a password when you connect to a DB cluster. Instead, you use an authentication token for greater security. Also, the network traffic to and from the database is encrypted using Secure Sockets Layer (SSL).  \n\nLearn more about AWS Database at - https://amzn.to/2Bqkwqh\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo #AmazonAurora #IAM",
+        "date": "2020-07-29T17:05:04Z",
+        "duration": 869
     },
     {
         "service": "iam",
         "videoId": "665RYobRJDY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos",
+            "IAM"
+        ],
         "title": "How do I create an access key ID for a new IAM user?",
-        "date": "2018/12/04"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2PwUWFW\nDeren, an AWS Cloud Support Engineer, shows you how to create an access key ID for a new IAM user.",
+        "date": "2018-12-04T15:02:32Z",
+        "duration": 144
     },
     {
         "service": "iam",
         "videoId": "Ry_a_PvXmX8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "IAM",
+            "Identity and Access Management",
+            "IAM policy",
+            "security",
+            "policy editor",
+            "AWS Identity and Access management",
+            "point-and-click policy editor",
+            "create policy",
+            "modify policy"
+        ],
         "title": "Create and Modify IAM Policies Using the AWS Identity and Access Management (IAM) Visual Editor",
-        "date": "2018/04/27"
+        "description": "Learn how to quickly create and modify your AWS Identity and Access Management (IAM) policies by using a point-and-click visual editor.  Learn more at - https://amzn.to/2qRY2Gb.\nThe visual editor makes it easier for you to follow IAM best practices by enabling you to create and modify your AWS IAM policies from within the IAM console. The visual editor guides you through granting permissions using IAM policies without requiring you to author policies in JSON (you still have the option). To start using the point-and-click visual editor, navigate to the AWS IAM console.",
+        "date": "2018-04-27T17:14:34Z",
+        "duration": 344
     },
     {
         "service": "iam",
         "videoId": "8qcmaMI_uYQ",
-        "title": "AWS Knowledge Center Videos: How can an IAM user access AWS billing information?",
-        "date": "2016/06/01"
+        "tags": [
+            "aws knowledge center videos",
+            "IAM",
+            "IAM user",
+            "aws billing console",
+            "aws billing and cost management",
+            "aws-portal",
+            "permissions policies"
+        ],
+        "title": "AWS Knowledge Center Videos: \"How can an IAM user access AWS billing information?\"",
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/iam-billing-access/\n\nDeren, an AWS Cloud Support Engineer, shows what's needed to configure an IAM user to access AWS billing information.",
+        "date": "2016-06-01T14:51:37Z",
+        "duration": 126
     },
     {
         "service": "iam",
         "videoId": "NEQN7cm__dE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I use IAM roles to restrict API calls from specific IP addresses?",
-        "date": "2019/12/30"
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/33VWn2V\nShristi shows you how to use IAM roles to restrict API calls from specific IP addresses.",
+        "date": "2019-12-30T23:01:30Z",
+        "duration": 452
     },
     {
         "service": "iam",
         "videoId": "zxEgB_fIpCE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I upload and import an SSL certifcate to AWS IAM?",
-        "date": "2019/04/22"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2U2Ra9E\nShree, an AWS Cloud Support Engineer, shows you how to upload and import an SSL certificate to AWS Identity and Access Management (IAM)?",
+        "date": "2019-04-22T21:27:48Z",
+        "duration": 397
     },
     {
         "service": "iam",
         "videoId": "aISWoPf_XNE",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Security",
+            "Compliance",
+            "& Identity",
+            "SID314",
+            "EC2",
+            "Identity & Access Management",
+            "IAM"
+        ],
         "title": "AWS re:Invent 2017: IAM Policy Ninja (SID314)",
-        "date": "2017/11/28"
+        "description": "Are you interested in learning how to control access to your AWS resources? Have you wondered how to best scope permissions to achieve least-privilege permissions access control? If your answer is \"yes\", this session is for you. We look at the Identity & Access Management policy language, starting with the basics of the policy language and how to create and attach policies to IAM users, groups, and roles. We explore policy variables, conditions, and tools to help you author least privilege policies. We cover common use cases, such as granting a user secure access to an Amazon S3 bucket or to launch an Amazon EC2 instance of a specific type.",
+        "date": "2017-11-28T19:00:24Z",
+        "duration": 3629
     },
     {
         "service": "iam",
         "videoId": "aISWoPf_XNE",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Security",
+            "Compliance",
+            "& Identity",
+            "SID314",
+            "EC2",
+            "Identity & Access Management",
+            "IAM"
+        ],
         "title": "AWS re:Invent 2017: IAM Policy Ninja (SID314)",
-        "date": "2017/11/28"
+        "description": "Are you interested in learning how to control access to your AWS resources? Have you wondered how to best scope permissions to achieve least-privilege permissions access control? If your answer is \"yes\", this session is for you. We look at the Identity & Access Management policy language, starting with the basics of the policy language and how to create and attach policies to IAM users, groups, and roles. We explore policy variables, conditions, and tools to help you author least privilege policies. We cover common use cases, such as granting a user secure access to an Amazon S3 bucket or to launch an Amazon EC2 instance of a specific type.",
+        "date": "2017-11-28T19:00:24Z",
+        "duration": 3629
     },
     {
         "service": "iam",
         "videoId": "OOi3c5wD4ug",
-        "title": "AWS re:Invent 2018: How Vanguard Matured IAM Controls to Support Micro Accounts (SEC324)",
-        "date": "2018/11/29"
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Security",
+            "Identity",
+            "and Compliance",
+            "SEC324",
+            "AWS Lambda",
+            "AWS Organizations"
+        ],
+        "title": "AWS re:Invent 2018:  How Vanguard Matured IAM Controls to Support Micro Accounts (SEC324)",
+        "description": "In this session, learn how Vanguard has matured their IAM controls and automation to support a micro-account strategy, providing further agility to developers while reducing blast radius and improving governance. You learn how Vanguard uses STS Federation at the OU level, builds common roles across all micro accounts, implements AWS Organizations SCPs, and uses different network control zones for admin vs. non-admin functions. Vanguard also shares how they are using AWS Lambda to block escalation of privilege. Complete Title: AWS re:Invent 2018: IAM for Enterprises: How Vanguard Matured IAM Controls to Support Micro Accounts (SEC324)",
+        "date": "2018-11-29T18:12:25Z",
+        "duration": 3397
     },
     {
         "service": "iam",
         "videoId": "KXyATZctkmQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowlege Center Videos"
+        ],
         "title": "How do I implement IAM authentication for APIs in API Gateway?",
-        "date": "2019/06/17"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2IshC6e\nJoely, an AWS Cloud Support Engineer, shows you how to implement IAM authentication for APIs in API Gateway.",
+        "date": "2019-06-17T20:11:46Z",
+        "duration": 293
     },
     {
         "service": "iam",
         "videoId": "o4Sf5Z6E2lk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I authenticate to an Amazon RDS DB instance using IAM credentials?",
-        "date": "2019/11/20"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2nNcyjO\nJeeri, an AWS Cloud Support Engineer, shows you how to authenticate to an Amazon RDS DB instance using IAM credentials.",
+        "date": "2019-11-20T17:26:36Z",
+        "duration": 405
     },
     {
         "service": "iam",
         "videoId": "eQ549RvQDeI",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Financial Services",
+            "FSV325"
+        ],
         "title": "AWS re:Invent 2018: How Nubank Automates Fine-Grained Security with IAM, AWS Lambda, & CI/CD FSV325",
-        "date": "2018/11/29"
+        "description": "Cloud-native and with security integrated early in the software development process, Nubank is the largest digital bank in the world outside of Asia. Demand for higher levels of service and value, constantly evolving technology capabilities, and stringent regulatory requirements are all powerful forces reshaping retail banking. In this session, Nubank CTO Edward Wible discusses how the company mixes engineering culture, security philosophy and structure, automation, and integration with AWS security services. Learn how to leverage the day-to-day software development workflow for extensive security and maximum engineering throughput while minimizing the operational pain of running a large infrastructure. Complete Title: AWS re:Invent 2018: How Nubank Automates Fine-Grained Security with IAM, AWS Lambda, & CI/CD (FSV325)",
+        "date": "2018-11-29T18:26:53Z",
+        "duration": 3481
     },
     {
         "service": "iam",
         "videoId": "_wiGpBQGCjU",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Financial Services",
+            "Security & Compliance",
+            "SEC302",
+            "Anders Samuelsson - Amazon Web Services",
+            "Advanced (300 level)",
+            "identity and access management",
+            "best practices",
+            "cloud computing event"
+        ],
         "title": "AWS re:Invent 2015: IAM Best Practices to Live By (SEC302)",
-        "date": "2015/10/12"
+        "description": "AWS Identity and Access Management (IAM) best practices help improve your security posture. Learn how to manage users, security credentials, IAM roles and how to set permissions. Learn more: http://amzn.to/2ilb4pj",
+        "date": "2015-10-12T22:34:34Z",
+        "duration": 3169
     },
     {
         "service": "iam",
         "videoId": "MdBp3BC6NOs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I search for IAM access key activity using the CloudTrail console?",
-        "date": "2019/06/03"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2U4aM8j\nDeren, an AWS Cloud Support Engineer, shows you how to search for IAM access key activity using the CloudTrail console.",
+        "date": "2019-06-03T22:14:28Z",
+        "duration": 86
     },
     {
         "service": "iam",
         "videoId": "8KXo7Jph8eU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I create an IAM policy to control access to Amazon EC2 resources based on tags?",
-        "date": "2019/04/23"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2U5OHvc\nMohamad, an AWS Support team member, shows you how to create an IAM policy to control access to Amazon EC2 resources based on tags.",
+        "date": "2019-04-23T19:44:49Z",
+        "duration": 430
     },
     {
         "service": "iam",
         "videoId": "XuRM4Id6uDY",
+        "tags": [
+            "Amazon Web Services",
+            "AWS",
+            "Amazon EC2",
+            "Identity Access Management",
+            "EC2",
+            "IAM",
+            "IAM Roles",
+            "Getting Started"
+        ],
         "title": "Getting Started with IAM Roles for EC2 Instances",
-        "date": "2012/06/11"
+        "description": " ",
+        "date": "2012-06-12T02:12:12Z",
+        "duration": 204
     },
     {
         "service": "iam",
         "videoId": "eVNvjQ0wr84",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reinforce",
+            "developer",
+            "security"
+        ],
         "title": "AWS Live re:Inforce - Becky Sets Some IAM Permissions Boundaries",
-        "date": "2019/07/01"
+        "description": "Learn more about Developer Education & Community with AWS Live Video at – https://amzn.to/2Xl0YNY \nAWS Live dives deep at AWS re:Inforce!",
+        "date": "2019-07-01T22:20:31Z",
+        "duration": 1325
     },
     {
         "service": "iam",
         "videoId": "1IIhVcXhvcE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Identity and Access Management",
+            "IAM",
+            "Access Control"
+        ],
         "title": "Getting Started with the IAM Policy Simulator",
-        "date": "2013/10/31"
+        "description": "The IAM policy simulator enables you to test the effects of IAM access control policies before committing them into production, making it easier to verify and troubleshoot permissions. To learn more, visit our documentation at docs.aws.amazon.com/IAM/latest/UsingPolicySimulatorGuide/.",
+        "date": "2013-10-31T17:06:24Z",
+        "duration": 389
     },
     {
         "service": "iam",
         "videoId": "5ipJtR7uKUs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Identity",
+            "AWS IAM",
+            "Identity and Access Management",
+            "AWS account",
+            "AWS Control Tower"
+        ],
         "title": "Demo: Using AWS IAM Access Analyzer with Amazon S3 Buckets",
-        "date": "2020/09/09"
+        "description": "This short video shows how you can use AWS IAM Access Analyzer to quickly identify your Amazon S3 buckets shared with external entities, such as other AWS accounts, IAM users or roles, federated users, IP addresses or VPCs. Learn how you can eliminate security risks associated with unintentionally granted external access.\n\nLearn more about AWS IAM Access Analyzer at - https://amzn.to/3jWQqvc\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-09-09T23:00:05Z",
+        "duration": 487
     },
     {
         "service": "iam",
         "videoId": "P9cwxcruCC0",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Security",
+            "Compliance",
+            "& Identity",
+            "SID201",
+            "AI",
+            "Identity & Access Management",
+            "IAM"
+        ],
         "title": "AWS re:Invent 2017: IAM for Enterprises: How Vanguard Strikes the Balance Between Ag (SID201)",
-        "date": "2017/11/28"
+        "description": "For Vanguard, managing the creation of AWS Identity and Access Management (IAM) objects is key to balancing developer velocity and compliance. In this session, you will learn how Vanguard designs IAM roles to control the blast radius of AWS resources and maintain simplicity for developers. Vanguard will also share best practices to help you manage governance and improve your visibility across your AWS resources.",
+        "date": "2017-11-28T19:06:49Z",
+        "duration": 2636
     },
     {
         "service": "iam",
         "videoId": "srJ4jr6M9YQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS IAM",
+            "AWS Identity and Access Management",
+            "IAM Service Quotas"
+        ],
         "title": "AWS IAM Quotas Demo",
-        "date": "2020/08/10"
+        "description": "This video demonstrates how to manage IAM Service Quotas, including examples of how to request an increase using the Service Quotas Console.\n\nLearn more about AWS IAM Quotas at - https://amzn.to/2Dyw9wl\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-08-10T18:40:36Z",
+        "duration": 214
     },
     {
         "service": "iam",
         "videoId": "Du478i9O_mc",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Financial Services",
+            "Security & Compliance",
+            "SEC305",
+            "Jeff Wierer - Amazon Web Services",
+            "Advanced (300 level)",
+            "identity and access management",
+            "policy ninja",
+            "identity management",
+            "access management",
+            "cloud computing event"
+        ],
         "title": "AWS re:Invent 2015: How to Become an IAM Policy Ninja in 60 Minutes or Less (SEC305)",
-        "date": "2015/10/12"
+        "description": "Explore AWS Identity and Access Management (IAM) and how to create and attach policies to IAM users, groups, and roles. Learn policy variables, conditions, and other tools to author least privilege policies. Learn more: http://amzn.to/2jkB090",
+        "date": "2015-10-12T22:55:49Z",
+        "duration": 3213
     },
     {
         "service": "iam",
         "videoId": "jPHOpjSWJeM",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Demo Theater",
+            "20797",
+            "IAM"
+        ],
         "title": "AWS re:Invent 2017: Using the new visual editor for IAM policies (DEM75)",
-        "date": "2017/11/30"
+        "description": "Using the new visual editor for IAM policies",
+        "date": "2017-11-30T17:15:23Z",
+        "duration": 955
     },
     {
         "service": "iam",
         "videoId": "c2Pwy1F2MYo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "amazon rds db",
+            "iam credentials"
+        ],
         "title": "AWS KC Videos: How do I authenticate to an Amazon RDS DB instance using IAM credentials?",
-        "date": "2018/04/16"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/users-connect-rds-iam/\n\nFarhin, an AWS Cloud Support Engineer, shows you how to authenticate to an Amazon RDS DB instance using IAM credentials.",
+        "date": "2018-04-16T14:01:02Z",
+        "duration": 557
     },
     {
         "service": "iam",
         "videoId": "ZhvXW-ILyPs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Security",
+            "Advanced",
+            "AWS Identity and Access Management (IAM)",
+            "Resource Management",
+            "AWS Management Console",
+            "Architect",
+            "Technical Decision Maker",
+            "Startup",
+            "Public Sector",
+            "IT Executive",
+            "Enterprise",
+            "Developer",
+            "Anders Samuelsson"
+        ],
         "title": "AWS re:Invent 2014 | (SEC305) IAM Best Practices",
-        "date": "2014/11/14"
+        "description": "Ever wondered how to help secure your AWS environment? This session explains a series of best practices that help you do just that with AWS Identity and Access Management (IAM). We discuss how to create great access policies; manage security credentials (access keys, password, multi-factor authentication (MFA) devices, etc.); how to set up least privilege; how to minimize the use of your root account, and much, much more.",
+        "date": "2014-11-14T22:06:54Z",
+        "duration": 2384
     },
     {
         "service": "iam",
         "videoId": "-XARG9W2bGc",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Financial Services",
+            "Security & Compliance",
+            "SEC307",
+            "Quint Van Deman - Amazon Web Services",
+            "Chad Wintzer - Dow Jones",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2015 | (SEC307) A Progressive Journey Through AWS IAM Federation Options",
-        "date": "2015/10/12"
+        "description": "AWS Identity and Access Management (IAM) offers a continuum of interfaces and configuration options that enables customers to integrate their unique organizational identity structure and operational processes to the AWS platform. In this session we will evaluate the progressive journey of federation options that most customers go through as they widen their integration with IAM. This will include best practices, lessons learned from the field, and examples of actual customer implementations, covering technologies such as SAML, LDAP, and custom identity brokers.",
+        "date": "2015-10-12T22:58:56Z",
+        "duration": 3159
     },
     {
         "service": "iam",
         "videoId": "4AZX8COgnmU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "sec",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013",
+            "security",
+            "Anders-Samuelsson",
+            "SEC301"
+        ],
         "title": "Top 10 AWS Identity and Access Management (IAM) Best Practices (SEC301) | AWS re:Invent 2013",
-        "date": "2013/11/26"
+        "description": "Learn about best practices on how to secure your AWS environment with AWS Identity and Access Management (IAM). We will discuss how you best create access policies; manage security credentials (i.e., access keys, password, multi factor authentication  (MFA)  devices etc); how to set up least privilege; minimizing the use of your root account etc.",
+        "date": "2013-11-26T20:35:09Z",
+        "duration": 3218
     },
     {
         "service": "iam",
         "videoId": "dvDUzgoXAxo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "IAM policy summaries",
+            "JSON"
+        ],
         "title": "Introducing AWS Identity and Access Management (IAM) Policy Summaries",
-        "date": "2017/05/25"
+        "description": "Learn more about AWS Identity and Access Management at -\n http://amzn.to/2rjbUL3.\nIntroducing AWS IAM policy summaries. IAM policy summaries enable you to view the permissions that are granted through your IAM policies without reviewing and parsing JSON policy documents. The new IAM policy summaries provide you a simple-to-read table of the services, access levels, resources, and conditions that are defined in each of your IAM policies.",
+        "date": "2017-05-25T22:49:35Z",
+        "duration": 95
     },
     {
         "service": "iam",
         "videoId": "pks5c_S5Tk8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Coinbase",
+            "IAM Access Advisor",
+            "GeoEngineer",
+            "AWS Identity and Access Managment (IAM)",
+            "AWS CloudTrail",
+            "Amazon DynamoDB",
+            "Amazon RDS",
+            "Amazon CloudFormation",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Coinbase: High Security IAM at Speed with AWS",
-        "date": "2017/02/27"
+        "description": "On this episode of This is My Architecture, Rob Witoff, Director of Infrastructure dives into IAM and Cloudtrail policy management at Coinbase. You'll see how they use the IAM Access Advisor to descope permissions in Development before pushing to Production. You'll also learn how they wrap their open-sourced tool, GeoEngineer (https://github.com/coinbase/geoengineer - shortened link) around IAM and Cloudtrail to maintain their high security environment without inhibiting their Operations teams. Learn more at - http://amzn.to/2lGgxvk\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2017-02-27T17:44:11Z",
+        "duration": 116
     },
     {
         "service": "iam",
         "videoId": "_URM_DwrxWo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "I created an IAM role but the role isn't appearing in the drop-down list when I launch an instance",
-        "date": "2019/04/16"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2HSARpB\nMarty, an AWS Cloud Support Engineer, shows you what you can do if you create an IAM role, but the role isn't appearing in the drop-down list when launching an instance.",
+        "date": "2019-04-16T18:48:03Z",
+        "duration": 218
     },
     {
         "service": "iam",
         "videoId": "IP8Fgp3rrP0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos",
+            "IAM"
+        ],
         "title": "How can I create an IAM case for an issue with a specific service?",
-        "date": "2020/08/31"
+        "description": "For more topics like this, visit the Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/\nMatthew shows you how to create an IAM case for an issue with a specific service.",
+        "date": "2020-08-31T19:51:09Z",
+        "duration": 209
     },
     {
         "service": "iam",
         "videoId": "Uch-NngEb5E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "iam role",
+            "runing ec2 instance"
+        ],
         "title": "AWS Knowledge Center Videos: How can I assign an IAM role to a running EC2 instance?",
-        "date": "2017/09/12"
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/assign-iam-role-ec2-instance/\n\nNiamh, an AWS Support Team Member, shows you how to assign an IAM role to a running EC2 instance.",
+        "date": "2017-09-12T15:10:03Z",
+        "duration": 95
     },
     {
         "service": "iam",
         "videoId": "03pFL098T7M",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "IAM Essentials",
-        "date": "2019/05/24"
+        "description": "https://aws.amazon.com/developer/community/twitch/\nMissed the AWS Sydney Summit 2019? Learn how cloud technology can help your business lower costs, improve efficiency, and innovate at scale. This session is a recording from Summit Day 1.",
+        "date": "2019-05-24T16:16:31Z",
+        "duration": 812
     },
     {
         "service": "iam",
         "videoId": "fCPQZ-R1x8o",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "compute-networking",
+            "enterprise",
+            "iam",
+            "resource-based permissions",
+            "cloud permissions",
+            "identity",
+            "cloud security",
+            "Derek-Lyon",
+            "CPN205",
+            "cpn"
+        ],
         "title": "Secure EC2 Environment with AWS IAM & Resource-Based Permissions (CPN205) | AWS re:Invent 2013",
-        "date": "2013/11/27"
+        "description": "Customers with multiple AWS administrators need a way to control who can do what in their Amazon EC2 environment to ensure both security and availability. This session demonstrates how to secure your Amazon EC2 environment using IAM roles and resource-based permissions.",
+        "date": "2013-11-28T05:31:30Z",
+        "duration": 3145
     },
     {
         "service": "iam",
         "videoId": "vIs4A1epDuk",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "SEC210-S",
+            "Divvy Cloud",
+            "Fidelity Investments",
+            "Fannie Mae",
+            "3M"
+        ],
         "title": "AWS re:Invent 2019: Why IAM is the new perimeter, and how to govern it (SEC210-S)",
-        "date": "2019/12/03"
+        "description": "Everything has an identity on AWS: users, applications, services, and systems. This provides enormous flexibility, but it also requires careful and specialized governance. In this session, hear from a panel of technology leaders on why this security layer requires a modern approach on AWS, and learn their best practices for addressing perimeter fluidity while running AWS at scale. This presentation is brought to you by DivvyCloud, an APN Partner.",
+        "date": "2019-12-03T17:58:44Z",
+        "duration": 3717
     },
     {
         "service": "iam",
         "videoId": "i5apYXya2m0",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "SEC309",
+            "Security",
+            "Compliance",
+            "and Identity",
+            "Millennium Management",
+            "Millennium",
+            "Management"
+        ],
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Dive Deep into IAM Access Analyzer (SEC309)",
-        "date": "2019/12/10"
+        "description": "AWS Identity and Access Management Access Analyzer is a new capability for security teams and administrators to validate that resource policies only provide the intended public and cross-account access. IAM Access Analyzer uses automated reasoning, which applies logic and mathematical inference to inspect resource policies. We will demonstrate how to use IAM Access Analyzer to identify resource policies that don’t comply with your organization's security requirements and then proactively protect resources from unintended access. Learn how Millennium Management uses IAM Access Analyzer across their company to analyze policies associated with Amazon S3 buckets, AWS KMS keys, and more.",
+        "date": "2019-12-10T18:11:19Z",
+        "duration": 3278
     },
     {
         "service": "iam",
         "videoId": "EVd6odTGWIs",
+        "tags": [
+            "programming",
+            "aws",
+            "reinvent",
+            "ai",
+            "ml",
+            "developer",
+            "cloud computing",
+            "software",
+            "Aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "reinvent 2019",
+            "aws launchpad"
+        ],
         "title": "AWS re:Invent 2019 Launchpad | AWS Identity and Access Management (IAM) Access Analyzer",
-        "date": "2020/03/17"
+        "description": "AWS Identity and Access Management (IAM) Access Analyzer is a new capability for security teams and administrators to validate that resource policies only provide the intended public and cross-account access. IAM Access Analyzer uses automated reasoning, which applies logic and mathematical inference to inspect resource policies. \n\nIn this session, we will demonstrate how to use IAM Access Analyzer to identify resource policies that don’t comply with your organization's security requirements and then proactively protect resources from unintended access.\n\nLearn more about AWS Security, Identity & Compliance at https://go.aws/3b31zHk\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #reInvent2019 #AWSLaunchpad",
+        "date": "2020-03-17T20:47:39Z",
+        "duration": 1139
     },
     {
         "service": "iam",
         "videoId": "wVdIRCbcDt4",
-        "title": "AWS Summit Online ASEAN 2020 | IAM: Best Practices for Managing Identity With AWS",
-        "date": "2020/08/28"
+        "tags": [
+            "Amazon EKS",
+            "Timothee",
+            "Cloud Computing",
+            "Cruse",
+            "AWS",
+            "Amazon ECS",
+            "AWS Summit Online ASEAN re:Cap",
+            "AWS Cloud Development Kit",
+            "Amazon Web Services",
+            "AWS CDK",
+            "Containers",
+            "AWS Fargate"
+        ],
+        "title": "AWS Summit Online ASEAN 2020 | IAM: Best Practices for Managing Identity With AWS",
+        "description": "AWS Identity and Access Management (IAM) enables you to securely manage access to AWS services and resources. Using IAM, you can create and manage AWS users and groups, as well as use permissions to allow and deny their access to AWS resources. In this session, you learn best practices for managing user identity and permissions with AWS. We examine role-based access control (RBAC) and attribute-based access control (ABAC) models to ensure that people have the right access to what they need to perform their roles.\n\nAWS Speaker: Kimberly Chow, Solutions Architect, ASEAN, AWS\nCustomer Speaker: Amit Gupta, CTO, Canopy\n\nDownload the slides: https://go.aws/2YuBPzC\n\nLearn more about AWS at - https://amzn.to/2Q4egbi\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
+        "date": "2020-08-28T18:02:39Z",
+        "duration": 1494
     }
 ]

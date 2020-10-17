@@ -2,67 +2,204 @@
     {
         "service": "amazon_textract",
         "videoId": "5Cs4_e2CJRo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon Textract",
+            "Text Extraction",
+            "Extract Data",
+            "Process Data",
+            "Machine Learning",
+            "AI Services"
+        ],
         "title": "What is Amazon Textract?",
-        "date": "2020/06/15"
+        "description": "Amazon Textract is a service that automatically extracts text and data from scanned documents. Amazon Textract goes beyond simple optical character recognition (OCR) to also identify the contents of fields in forms and information stored in tables.\n\nLearn more about Amazon Textract at https://go.aws/30LPofc\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonTextract",
+        "date": "2020-06-15T18:16:40Z",
+        "duration": 110
     },
     {
         "service": "amazon_textract",
         "videoId": "PHX7q4pMGbo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reinvent 2018",
+            "re:Invent 2018"
+        ],
         "title": "AWS re:Invent 2018 – Announcing Amazon Textract",
-        "date": "2018/11/30"
+        "description": "Watch Andy Jassy, CEO of Amazon Web Services, announce Amazon Textract, a service that automatically detects and extracts text and data from scanned documents. Learn more at -https://amzn.to/2AvYDRZ.\n\nAmazon Textract goes beyond simple optical character recognition (OCR) to also identify the contents of fields in forms and information stored in tables. With Textract you can quickly automate document workflows, enabling you to process a million document pages in one hour. Once the information is captured, you can take action on it within your business applications, create smart search indexes, build automated approval workflows, and better maintain compliance with document archival rules.",
+        "date": "2018-11-30T17:53:50Z",
+        "duration": 185
     },
     {
         "service": "amazon_textract",
         "videoId": "bjSqMhR0U1o",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "machine learning",
+            "Textract",
+            "Amazon Textract",
+            "OCR",
+            "optical character recognition",
+            "AWS Textract"
+        ],
         "title": "AWS Partner Webinar: Building Integrations with Amazon Textract",
-        "date": "2019/08/12"
+        "description": "Learn more about Amazon Textract at – https://amzn.to/2KARKDM \nAmazon Textract is not your parents OCR. Textract pulls data and text from sparse or dense documents as well as tables - all wrapped in a convenient API call - making your problematic text-to-X (data, speech, coordinates) issues easier to solve. Join Chris Burns, Senior PSA at AWS for a deep-dive on this fascinating topic.",
+        "date": "2019-08-12T17:18:35Z",
+        "duration": 3525
     },
     {
         "service": "amazon_textract",
         "videoId": "FnZFK_2oqKk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "reInvent 2018",
+            "Amazon",
+            "AWSreInvent2018",
+            "Artificial Intelligence & Machine Learning",
+            "AIM363",
+            "Amazon Textract"
+        ],
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introducing Amazon Textract: Now in Preview (AIM363)",
-        "date": "2018/12/01"
+        "description": "Amazon Textract enables you to easily extract text and data from virtually any document. Today, companies process millions of documents by manually entering the data or using customized optical character recognition solutions, which are prone to error and consume valuable resources. Join us to learn how Amazon Textract uses machine learning to simplify document processing by enabling fast and accurate text and data extraction so you can process millions of documents in hours.",
+        "date": "2018-12-01T22:10:08Z",
+        "duration": 3276
     },
     {
         "service": "amazon_textract",
         "videoId": "hagvdqofRU4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Introducing Amazon Textract: Now in Preview",
-        "date": "2018/11/30"
+        "description": "Amazon Textract enables you to easily extract text and data from virtually any document. Today, companies process millions of documents by manually entering the data or using customized optical character recognition solutions, which are prone to error and consume valuable resources. Join us to learn how Amazon Textract uses machine learning to simplify document processing by enabling fast and accurate text and data extraction so you can process millions of documents in hours. Learn More: https://aws.amazon.com/textract \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T20:46:52Z",
+        "duration": 1125
     },
     {
         "service": "amazon_textract",
         "videoId": "6RhKWpkbOdU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            ".NET",
+            "Microsoft",
+            "Textract"
+        ],
         "title": "How to Automatically Extract Text with a Sample ASP.NET Core Application and Amazon Textract",
-        "date": "2020/08/28"
+        "description": "In this video we will show you how you can easily implement OCR Like functionality into your web or native applications using C#. The sample code walks through the process of uploading your files to Amazon’s Simple Storage Service and then calling Amazon Textract to analyze the document and retrieve the text.\n\nLearn more about .NET applications on AWS at https://amzn.to/2D47cZt\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-08-28T19:15:24Z",
+        "duration": 722
     },
     {
         "service": "amazon_textract",
         "videoId": "TEX9ka1CAwA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Events",
+            "machine learning",
+            "Twitch",
+            "learn machine learning",
+            "demo",
+            "video",
+            "artificial intelligence",
+            "developers",
+            "learn ML",
+            "learn AI",
+            "Amazon Textract"
+        ],
         "title": "Get Started with Machine Learning | AWS Power Hour: Machine Learning | Episode 2: Amazon Textract",
-        "date": "2020/08/28"
+        "description": "Dive into Amazon Textract, the AWS artificial intelligence service that allows you to easily extract text and data from virtually any document.  Get hands-on in this episode, spend time in the AWS Management Console, and review code samples that will help you understand how to leverage service APIs. \n\nAWS Power Hour: Machine Learning is a weekly live-streamed program that premiered Thursday, July 23, at 4 p.m. PST and aired at that time every Thursday for seven weeks. Each show features the AWS hosts and a special guest as they demonstrate how to build apps with AI Services from AWS.\"\n\nLearn more about AWS Machine Learning at - https://bit.ly/31zMR7U\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-08-29T00:52:20Z",
+        "duration": 4013
     },
     {
         "service": "amazon_textract",
         "videoId": "Hth17MmxwtQ",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DEM147"
+        ],
         "title": "AWS re:Invent 2019: Using Amazon Textract for automated document processing (DEM147)",
-        "date": "2019/12/03"
+        "description": "Amazon Textract helps document-driven businesses in Financial Services, Healthcare, the Public Sector, and other industries. Through machine learning, Amazon Textract instantly “reads” and processes any type of document, accurately extracting text, forms, tables, and other data, without the need for manual effort or custom code. In this demo, we use Amazon Textract for three use cases that depend on data extraction: search and discovery, control and compliance, and workflow automation.",
+        "date": "2019-12-03T18:01:55Z",
+        "duration": 1204
     },
     {
         "service": "amazon_textract",
         "videoId": "f0kn-CMLHyg",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "SVS210-S",
+            "MongoDB"
+        ],
         "title": "AWS re:Invent 2019: Automatically scale a serverless app with Amazon Textract & MongoDB (SVS210-S)",
-        "date": "2019/12/04"
+        "description": "Working with disorganized data is expensive and wasteful. One area in which this is readily apparent is the legal field, especially during the data discovery phase. In this session, we use Amazon Textract, Amazon Comprehend, and MongoDB Atlas to build a serverless product that seamlessly ingests documents and intelligently organizes their data, increasing efficiency and reducing costs. We show you how to easily interconnect these services using AWS Lambda as a backend and how to quickly create web and mobile user interfaces using MongoDB Realm. This presentation is brought to you by MongoDB, an APN Partner.",
+        "date": "2019-12-04T17:30:53Z",
+        "duration": 2652
     },
     {
         "service": "amazon_textract",
         "videoId": "JzYctR1tIb0",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "AIM211-R",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Amazon Textract"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT] AI document processing for business automation (AIM211-R)",
-        "date": "2019/12/04"
+        "description": "Millions of times per day, customers from the Finance, Healthcare, public, and other sectors rely on information that is locked in documents. Amazon Textract uses artificial intelligence to \"read\" such documents as a person would, to extract not only text but also tables, forms, and other structured data without configuration, training, or custom code. In this session, we demonstrate how you can use Amazon Textract to automate business processes with AI. You also hear directly from our customers about how they accelerated their own business processes with Amazon Textract.",
+        "date": "2019-12-04T17:26:13Z",
+        "duration": 2227
     },
     {
         "service": "amazon_textract",
         "videoId": "u1K-PUadfO8",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "AIM211-R1",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Intuit",
+            "Amazon Textract"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] AI document processing for business automation (AIM211-R1)",
-        "date": "2019/12/05"
+        "description": "Millions of times per day, customers from the Finance, Healthcare, public, and other sectors rely on information that is locked in documents. Amazon Textract uses artificial intelligence to \"read\" such documents as a person would, to extract not only text but also tables, forms, and other structured data without configuration, training, or custom code. In this session, we demonstrate how you can use Amazon Textract to automate business processes with AI. You also hear directly from our customers about how they accelerated their own business processes with Amazon Textract.",
+        "date": "2019-12-05T17:48:50Z",
+        "duration": 3233
     }
 ]

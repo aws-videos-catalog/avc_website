@@ -2,13 +2,36 @@
     {
         "service": "aws_cost_explorer",
         "videoId": "XHwFJDw9Mec",
-        "title": "AWS Cost Optimization: Tools and Methods to Reduce Your Spend With Us",
-        "date": "2020/04/12"
+        "tags": [
+            "AWS",
+            "Events",
+            "AWS Cost Optimization",
+            "Demos",
+            "Cost Explorer",
+            "Compute Optimizer",
+            "Trusted Advisor",
+            "aws webinar",
+            "aws webinar recordings"
+        ],
+        "title": "AWS Cost Optimization: Tools and Methods to  Reduce Your Spend With Us",
+        "description": "In this session we will provide an overview of cost optimization levers considering impact vs. complexity to help you find the best areas to get started, demonstrate AWS tools that will help, and share recent cost-related AWS product updates.\n\nYou may also like to read a recent blog post titled: 10 things you can do today to reduce AWS costs at https://amzn.to/2yINy2E\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSWebinar",
+        "date": "2020-04-12T16:00:15Z",
+        "duration": 2946
     },
     {
         "service": "aws_cost_explorer",
         "videoId": "3peNAKB3VxA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I use Cost Explorer to analyze my spending and usage?",
-        "date": "2018//09/11"
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2CVP839\nErika, an AWS Support team member, shows you how to use Cost Explorer to analyze your spending and usage.",
+        "date": "2018-09-11T14:16:52Z",
+        "duration": 725
     }
 ]

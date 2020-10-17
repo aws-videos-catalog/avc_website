@@ -2,79 +2,315 @@
     {
         "service": "aws_deeplens",
         "videoId": "ALKz1eKj4n0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "#deeplens #machinelearning #AI",
+            "deeplens",
+            "machinelearning",
+            "AI",
+            "ML"
+        ],
         "title": "AWS DeepLens Powered Cat Flap",
-        "date": "2019/08/09"
+        "description": "Learn more about AWS Machine Learning at - https://amzn.to/2YYTmjW. \nAWS DeepLens helps put machine learning in the hands of developers, literally, with a fully programmable video camera, tutorials, code, and pre-trained models designed to expand deep learning skills. See how Ben Hamm developed cat flap using ML and DeepLens to stop his \"cat\" Metric from bringing home dead and half-dead prey in the middle of the night and waking him up.\n\n#AWSishow",
+        "date": "2019-08-09T23:03:24Z",
+        "duration": 270
     },
     {
         "service": "aws_deeplens",
         "videoId": "cTsCMTxEPHs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "DeepLens",
+            "AWS DeepLens",
+            "Amazon SageMaker",
+            "AWS Lambda Compound: Configure AWS DeepLens",
+            "Set up AWS DeepLens",
+            "Extent a Deep Leaning Project",
+            "Build a project using Amazon SageMaker Generic: How to",
+            "Tutorial",
+            "AI",
+            "Artificial intelligence",
+            "Computer vision",
+            "Machine learning",
+            "Deep learning"
+        ],
         "title": "How to Build an AWS DeepLens Project Using Amazon SageMaker",
-        "date": "2018/06/06"
+        "description": "This step-by-step tutorial will help guide you through creating a model using Amazon SageMaker and importing it to AWS DeepLens. You will set up a SageMaker instance, import and configure an external notebook from GitHub and import the externally trained model to your AWS DeepLens. Learn more at - https://amzn.to/2JPChxR.\n\nThis is video 4 of 4. Watch the entire series here - https://www.youtube.com/playlist?list=PLhr1KZpdzukcgnZzblsxDt8YqS78bDhYl.",
+        "date": "2018-06-06T22:24:33Z",
+        "duration": 382
     },
     {
         "service": "aws_deeplens",
         "videoId": "RhEVld4GwzU",
-        "title": "AWS re:Invent 2017 - Announcing AWS DeepLens",
-        "date": "2017/11/30"
+        "tags": [
+            "aws",
+            "deeplens",
+            "aws deeplens",
+            "Amazon Web Services",
+            "AWS cloud",
+            "cloud",
+            "cloud computing",
+            "Andy Jassy",
+            "keynote"
+        ],
+        "title": "AWS re:Invent 2017 -  Announcing AWS DeepLens",
+        "description": "AWS announces AWS DeepLens - the world’s first deep-learning enabled video camera for developers. Learn more at - http://amzn.to/2zQ9WHd.",
+        "date": "2017-12-01T00:21:02Z",
+        "duration": 116
     },
     {
         "service": "aws_deeplens",
         "videoId": "-JDLpSsO45A",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS DeepLens",
+            "AI",
+            "artificial intelligence",
+            "deep learning",
+            "machine learning"
+        ],
         "title": "How to Create and Deploy a Deep Learning Project With AWS DeepLens",
-        "date": "2018/06/29"
+        "description": "This step-by-step tutorial will guide you through creating and deploying your first deep learning model with AWS DeepLens. You will create a project, then deploy and view the project output directly from the device. Learn more at - https://amzn.to/2jA7vOB.\n\nThis is video 2 of 4. Watch the entire series here - https://www.youtube.com/playlist?list=PLhr1KZpdzukcgnZzblsxDt8YqS78bDhYl.",
+        "date": "2018-06-29T18:44:44Z",
+        "duration": 245
     },
     {
         "service": "aws_deeplens",
         "videoId": "Ut1VGG6TOOw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon",
+            "DeepLens",
+            "AWS DeepLens",
+            "Amazon SageMaker",
+            "AWS Lambda",
+            "waste management",
+            "sustainability",
+            "Alexis Fuge",
+            "AWS DeepLens Challenge",
+            "deeplens",
+            "Configure AWS DeepLens",
+            "Set up AWS DeepLens",
+            "Extent a Deep Leaning Project",
+            "Build a project using Amazon SageMaker",
+            "enter the DeepLens challenge",
+            "How to",
+            "Tutorial",
+            "AI",
+            "Artificial intelligence",
+            "Computer vision",
+            "Machine learning",
+            "Deep learning"
+        ],
         "title": "AWS DeepLens Challenge #4: Sustainability",
-        "date": "2018/09/25"
+        "description": "Amazon's Worldwide Sustainability Manager, Alexis Fuge, and her team talk about some of the innovative work Amazon has been doing to use DeepLens to help with waste management. Learn more about the AWS DeepLens Challenge at - https://amzn.to/2pvQjMY.",
+        "date": "2018-09-25T16:30:15Z",
+        "duration": 107
     },
     {
         "service": "aws_deeplens",
         "videoId": "PbQO3-jYkGo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "DeepLens",
+            "AWS DeepLens",
+            "Amazon SageMaker",
+            "AWS Lambda Compound: Configure AWS DeepLens",
+            "Set up AWS DeepLens",
+            "Extent a Deep Leaning Project",
+            "Build a project using Amazon SageMaker Generic: How to",
+            "Tutorial",
+            "AI",
+            "Artificial intelligence",
+            "Computer vision",
+            "Machine learning",
+            "Deep learning"
+        ],
         "title": "How to Extend a Deep Leaning Project with AWS DeepLens",
-        "date": "2018/06/06"
+        "description": "This step-by-step tutorial will help guide you through extending a model with AWS DeepLens. You will capture the events from your AWS DeepLens model and put them in a queue ready for further processing. You can then extend the models utilizing AWS Lambda functions. Learn more at - https://amzn.to/2wb97Yc.\n\nThis is video 3 of 4. Watch the entire series here - https://www.youtube.com/playlist?list=PLhr1KZpdzukcgnZzblsxDt8YqS78bDhYl.",
+        "date": "2018-06-06T22:24:33Z",
+        "duration": 408
     },
     {
         "service": "aws_deeplens",
         "videoId": "tw0wCpdIlPw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon",
+            "DeepLens",
+            "AWS DeepLens",
+            "Amazon SageMaker",
+            "AWS Lambda",
+            "Hopecam",
+            "Len Forkas",
+            "health",
+            "AWS DeepLens Challenge",
+            "deeplens",
+            "Configure AWS DeepLens",
+            "Set up AWS DeepLens",
+            "Extent a Deep Leaning Project",
+            "Build a project using Amazon SageMaker",
+            "enter the DeepLens challenge",
+            "How to",
+            "Tutorial",
+            "AI",
+            "Artificial intelligence",
+            "Computer vision",
+            "Machine learning",
+            "Deep learning"
+        ],
         "title": "AWS DeepLens Challenge #2: Health",
-        "date": "2018/09/25"
+        "description": "Hopecam's founder, Len Forkas, talks about how you can use AWS DeepLens to boost mental or physical health and support children overcome challenges with cancer. Learn more about the AWS DeepLens Challenge at - https://amzn.to/2PVW2GU.",
+        "date": "2018-09-25T16:32:00Z",
+        "duration": 101
     },
     {
         "service": "aws_deeplens",
         "videoId": "ks1726cU24c",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon",
+            "DeepLens",
+            "AWS DeepLens",
+            "Amazon SageMaker",
+            "AWS Lambda",
+            "Geogrify",
+            "Kate Edwards",
+            "gaming",
+            "AWS DeepLens Challenge",
+            "deeplens",
+            "Configure AWS DeepLens",
+            "Set up AWS DeepLens",
+            "Extent a Deep Leaning Project",
+            "Build a project using Amazon SageMaker",
+            "enter the DeepLens challenge",
+            "How to",
+            "Tutorial",
+            "AI",
+            "Artificial intelligence",
+            "Computer vision",
+            "Machine learning",
+            "Deep learning"
+        ],
         "title": "AWS DeepLens Challenge #3: Games",
-        "date": "2018/09/25"
+        "description": "Geogrify's CEO, Kate Edwards, talks about how you can use AWS DeepLens to create a project that focuses on playing games and helps support Girls Who Code. Learn more at - https://amzn.to/2pvQjfW.",
+        "date": "2018-09-25T16:30:57Z",
+        "duration": 101
     },
     {
         "service": "aws_deeplens",
         "videoId": "qRJwvo94-Ko",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "cloud",
+            "cloud computing",
+            "AWS cloud",
+            "re:Invent 2017",
+            "Matt Wood",
+            "AWS DeepLens",
+            "Machine Learning Device",
+            "DeepLens Camera",
+            "Deep Learning",
+            "Developer camera"
+        ],
         "title": "AWS re:Invent 2017 - AWS DeepLens Demo by Dr. Matt Wood",
-        "date": "2017/11/30"
+        "description": "Watch the AWS DeepLens demo by Dr. Matt Wood at re:Invent 2017. Learn more about AWS DeepLens at - http://amzn.to/2AmP7QP.",
+        "date": "2017-11-30T18:51:50Z",
+        "duration": 563
     },
     {
         "service": "aws_deeplens",
         "videoId": "WSwG5OLWbIM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS Dev Day Australia 2018 - Intelligence of things: IoT, AWS DeepLens and Amazon SageMaker",
-        "date": "2018/08/22"
+        "description": "Learn more about AWS Greengrass at - https://amzn.to/2wk88BF\nWith IoT, Machine Learning is going everywhere. Using Amazon SageMaker it's never been easier to build Intelligent Things. In this session we look at how we can push intelligence from cloud-trained models to the edge using AWS Greengrass and explore how devices such as AWS DeepLens make it easy to bring intelligence to your things.\n\nSpeaker: Jan Haak, AWS Global Solutions Architect",
+        "date": "2018-08-22T23:35:42Z",
+        "duration": 1794
     },
     {
         "service": "aws_deeplens",
         "videoId": "QF0QjRjBwFs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Demonstration: Automating Recycling",
-        "date": "2019/09/10"
+        "description": "The \"Smart Recycle Arm\" recognizes items that are recyclable and pushes them to the correct bin. Using the AWS DeepLens, the world’s first deep learning enabled video camera for developers, it can differentiate between recyclable and non recyclable items. A robotic arm which pushes the items into the correct bin.",
+        "date": "2019-09-10T19:57:02Z",
+        "duration": 95
     },
     {
         "service": "aws_deeplens",
         "videoId": "3ly1A8x9XiQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "DeepLens",
+            "Northwest Center",
+            "Gene Boes"
+        ],
         "title": "AWS DeepLens Challenge #1: Inclusivity",
-        "date": "2018/07/10"
+        "description": "The first project in the AWS DeepLens Challenge focuses on inclusivity, here being described by Northwest Center CEO Gene Boes. For more on the AWS DeepLens Challenge, go to https://amzn.to/2L5ytJS.",
+        "date": "2018-07-10T17:08:16Z",
+        "duration": 110
     },
     {
         "service": "aws_deeplens",
         "videoId": "bTLMU9z_hes",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "reinvent",
+            "machine learning"
+        ],
         "title": "AWS Builders' Day | Machine Learning at the Edge with Amazon Greengrass ML and AWS DeepLens",
-        "date": "2018/02/14"
+        "description": "Check out the upcoming schedule, previous recordings, and links to the resources discussed at - http://amzn.to/2Hg24i7.\n\nAmazon AI services bring natural language understanding (NLU), automatic speech recognition (ASR), visual search and image recognition, text-to-speech (TTS), and machine learning (ML) technologies within the reach of every developer. Learn how you can easily add these powerful features to your applications to enhance the way they interact with the real world.\n\nGet started with Machine Learning at https://aws.amazon.com/machine-learning/.",
+        "date": "2018-02-14T18:22:00Z",
+        "duration": 3264
     }
 ]

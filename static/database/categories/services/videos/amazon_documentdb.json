@@ -2,49 +2,156 @@
     {
         "service": "amazon_documentdb",
         "videoId": "qk98rR08szU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "documentdb",
+            "aws",
+            "mongodb",
+            "nosql",
+            "json",
+            "database"
+        ],
         "title": "Getting Started with Amazon DocumentDB",
-        "date": "2019/03/04"
+        "description": "Learn how to get started with Amazon DocumentDB (with MongoDB compatibility) – https://amzn.to/2EjitSo. In this video, we will create a cluster in the AWS management console, provision an EC2 instance, and connect to the cluster with the mongo shell.",
+        "date": "2019-03-04T17:00:05Z",
+        "duration": 181
     },
     {
         "service": "amazon_documentdb",
         "videoId": "pGNb5P--Cpw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon DocumentDB",
+            "document database",
+            "JSON",
+            "MongoDB"
+        ],
         "title": "Five Ways to Optimize For Cost with Amazon DocumentDB (with MongoDB Compatibility)",
-        "date": "2020/07/21"
+        "description": "Learn how you can optimize your costs with Amazon DocumentDB by using key features and best practices, including using t3.medium instances, single instance clusters, autoscaling storage/IO, stopping and starting a cluster, and cost-allocation tags.\n\nLearn more about Amazon DocumentDB at https://amzn.to/3fQn5B4\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonDocumentDB #AWSDemo",
+        "date": "2020-07-21T23:19:23Z",
+        "duration": 582
     },
     {
         "service": "amazon_documentdb",
         "videoId": "jqeQL92HOQ0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "documentdb",
+            "aws",
+            "mongodb",
+            "nosql",
+            "json",
+            "database"
+        ],
         "title": "Live migration to Amazon DocumentDB",
-        "date": "2019/03/25"
+        "description": "Learn more about Amazon DocumentDB at – https://amzn.to/2Wh3oYJ \nLearn how to perform a live migration from MongoDB to Amazon DocumentDB (with MongoDB compatibility) using the AWS Database Migration Service (DMS). In this video, we setup two identical applications running against MongoDB (source) and Amazon DocumentDB (target), create a DMS task for a live migration, make changes to the source application, and then verify the live migration to the target application.",
+        "date": "2019-03-25T16:00:08Z",
+        "duration": 188
     },
     {
         "service": "amazon_documentdb",
         "videoId": "9ZrdllxR43Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Summit Tel Aviv",
+            "summit",
+            "Adrian Cockroft",
+            "amazon web services",
+            "כנס אמזון",
+            "אמזון ווב סרביסס",
+            "סאמיט 2019"
+        ],
         "title": "AWS Summit Tel Aviv 2019 | No Hassle NoSQL - Amazon DynamoDB & Amazon DocumentDB",
-        "date": "2019/03/27"
+        "description": "Learn more about AWS at - https://amzn.to/2HMsevy   \nNoSQL databases are a great fit for many modern applications such as mobile, web, and gaming that require flexible, scalable, high-performance, and highly functional databases to provide great user experiences but they can be hard to manage and require high proficiency and attention.In this session we will present Amazon DynamoDB, a fully managed, multi-region, multi-master database that provides consistent single-digit millisecond latency in any scale.\n\nView Slides: https://www.slideshare.net/AWSSummits/no-hassle-nosql-amazon-dynamodb-amazon-documentdb-aws-summit-tel-aviv-2019",
+        "date": "2019-03-27T17:12:13Z",
+        "duration": 2442
     },
     {
         "service": "amazon_documentdb",
         "videoId": "B8I1pErLq14",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Database Deep Dive Office Hours | S1 E4 – Manage & Scale Semi-structured Data with Amazon DocumentDB",
-        "date": "2019/06/05"
+        "description": "With more databases available now than ever before, it's hard to make sense of which is best to use for your data. Join co-hosts Nick and Randall for Database Deep Dive, a new live video series helping make sense of everything in the world of databases.",
+        "date": "2019-06-05T17:47:57Z",
+        "duration": 3089
     },
     {
         "service": "amazon_documentdb",
         "videoId": "D3_hWN9C9iE",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT326",
+            "Databases",
+            "AWS Auto Scaling",
+            "Not Applicable",
+            "AWS Lambda"
+        ],
         "title": "AWS re:Invent 2019: Amazon DocumentDB deep dive (DAT326)",
-        "date": "2019/12/03"
+        "description": "Developers have adopted the flexible schema and expressive query language of the MongoDB API because it enables them to build and evolve applications faster. However, some developers find that managing databases can be time-consuming, complicated, and challenging to scale. Amazon DocumentDB (with MongoDB compatibility) provides a fast, reliable, fully managed MongoDB-compatible database service that eliminates time-consuming setup and management tasks, allowing developers to focus on building high-performance, scalable applications. Join us to learn more about Amazon DocumentDB and how you can run MongoDB workloads at scale.",
+        "date": "2019-12-03T18:13:41Z",
+        "duration": 3536
     },
     {
         "service": "amazon_documentdb",
         "videoId": "qmb7ssDH6Pg",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DAT372",
+            "Databases",
+            "FINRA"
+        ],
         "title": "AWS re:Invent 2019: Migrating your databases to Amazon DocumentDB (DAT372)",
-        "date": "2019/12/06"
+        "description": "Amazon DocumentDB (with MongoDB compatibility) is a fast, reliable, fully managed MongoDB-compatible database service. What are the best practices to move your workloads to Amazon DocumentDB? What do you need to think about before, during, and after migration? Which tools and approaches should you use to ensure a successful migration? Join us to learn how to migrate database workloads to Amazon DocumentDB.",
+        "date": "2019-12-07T06:04:52Z",
+        "duration": 3001
     },
     {
         "service": "amazon_documentdb",
         "videoId": "gOhdISMNHBM",
+        "tags": [
+            "programming",
+            "aws",
+            "reinvent",
+            "ai",
+            "ml",
+            "developer",
+            "cloud computing",
+            "software",
+            "Aws events",
+            "aws events 2019",
+            "aws reinvent 2019",
+            "reinvent 2019",
+            "aws launchpad"
+        ],
         "title": "AWS re:Invent 2019 Launchpad | What's New in DocumentDB",
-        "date": "2020/03/17"
+        "description": "Subscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #reInvent2019 #AWSLaunchpad",
+        "date": "2020-03-17T22:48:15Z",
+        "duration": 1177
     }
 ]

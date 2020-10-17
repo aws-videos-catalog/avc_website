@@ -2,13 +2,34 @@
     {
         "service": "aws_marketplace_subscriptions",
         "videoId": "9JP5zRRusrQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "marketplace",
+            "getting started"
+        ],
         "title": "Getting Started with AWS Marketplace for Buyers",
-        "date": "2019/09/27"
+        "description": "Learn more about AWS Marketplace at – https://amzn.to/2lHn8rV \nAWS Marketplace is a curated digital catalog that simplifies software provisioning. Watch this video to learn how to find, buy, and deploy software from AWS Marketplace. Additional documentation can be found at - https://docs.aws.amazon.com/marketplace/latest/userguide/what-is-marketplace.html#using-aws-marketplace-as-a-subscriber",
+        "date": "2019-09-27T20:05:48Z",
+        "duration": 601
     },
     {
         "service": "aws_marketplace_subscriptions",
         "videoId": "KKKUR_5-Thg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I view and manage my software subscriptions on the AWS Marketplace?",
-        "date": "2019/10/21"
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/2ASiP0Z\nCreuzaan shows you how to view and manage your software subscriptions on the AWS Marketplace.",
+        "date": "2019-10-22T02:10:55Z",
+        "duration": 192
     }
 ]

@@ -2,19 +2,64 @@
     {
         "service": "medialive",
         "videoId": "gQtsZKI888s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon",
+            "awsreinvent2017",
+            "Demo Theater",
+            "DEM86",
+            "Enterprise"
+        ],
         "title": "AWS re:Invent 2017: AWS Elemental MediaLive (DEM86)",
-        "date": "2017/12/12"
+        "description": "Optimized-storage for low-latency reads and writes for high volumes of requests.",
+        "date": "2017-12-12T23:22:56Z",
+        "duration": 734
     },
     {
         "service": "medialive",
         "videoId": "KW5NXWK8j0Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "#solvingwithawssolutions",
+            "AWS Elemental",
+            "AWS Elemental MediaLive",
+            "AWS Elemental MediaPackage",
+            "Amazon CloudFront",
+            "Cloudfront",
+            "Media and Entertainment",
+            "Solutions",
+            "Transcription",
+            "Video Streaming",
+            "solutions architecture",
+            "developer",
+            "devops"
+        ],
         "title": "Solving with AWS Solutions: Live Streaming on AWS with Automated Multi-Language Subtitling",
-        "date": "2020/03/20"
+        "description": "AWS provides a Live Streaming on AWS Solution (https://tinyurl.com/SolvingwithAWSSolutionsLive)  that combines AWS Elemental MediaLive and AWS Elemental MediaPackage with Amazon CloudFront to build a highly resilient and scalable architecture that delivers your live content worldwide.  We also discuss Live Streaming with Automated Multi Language Subtitling, which adds transcription capabilities.  \n\nSolution Link: https://tinyurl.com/SolvingwithAWSSolutionsLive\n\nLearn more about AWS Solutions by visiting the AWS Solutions portal. (https://aws.amazon.com/solutions/?did=sl_card&trk=solving_with_aws_solutions)\nLearn more about AWS Solutions by visiting the AWS Solutions portal. https://aws.amazon.com/solutions\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-03-20T22:35:08Z",
+        "duration": 393
     },
     {
         "service": "medialive",
         "videoId": "GHZWrneWXx8",
-        "title": "WS re:Invent Launchpad 2017 - AWS Elemental: MediaPackage, MediaLive, MediaStore,....",
-        "date": "2017/12/08"
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
+        "title": "AWS re:Invent Launchpad 2017 - AWS Elemental: MediaPackage, MediaLive, MediaStore,....",
+        "description": "Media services from AWS Elemental power video workflows for media and entertainment franchises worldwide. Solutions from AWS Elemental allow broadcast TV and multiscreen video to be customized, originated and monetized at global scale. Learn more at - hhttp://amzn.to/2C0OFrD. This gives customers the ability to quickly, easily and economically scale and optimize video operations and the freedom to focus on what matters: transforming ideas into compelling content that captivates viewers. \n\nAWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. AWS live streamed throughout the week on www.twitch.tv/aws with coverage of launch announcements, technical discussions and demos, and interviews with AWS experts and community leaders. For more information on the AWS Twitch Channel, visit https://aws.amazon.com/twitch and to check out the full list of products launched at AWS re:Invent, visit https://aws.amazon.com/new/reinvent/.",
+        "date": "2017-12-08T23:32:16Z",
+        "duration": 2015
     }
 ]
