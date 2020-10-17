@@ -1,127 +1,127 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=4ztTv5rIRv8",
-        "thumbnail": "",
+        "service": "cloudtrail",
+        "videoId": "4ztTv5rIRv8",
         "title": "How can I use CloudTrail to review what API calls and actions have occured in my AWS account?",
         "date": "2019/07/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=mXQSnbc9jMs",
-        "thumbnail": "",
+        "service": "cloudtrail",
+        "videoId": "mXQSnbc9jMs",
         "title": "AWS CloudTrail: Simplify Security Analysis, Resource Change Tracking, and Troubleshooting",
         "date": "2019/11/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=YWzmoDzzg4U",
-        "thumbnail": "",
+        "service": "cloudtrail",
+        "videoId": "YWzmoDzzg4U",
         "title": "AWS re:Invent 2018: Augmenting Security & Improving Operational Health w/ AWS CloudTrail (SEC323)",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=t0e-mz_I2OU",
-        "thumbnail": "",
+        "service": "cloudtrail",
+        "videoId": "t0e-mz_I2OU",
         "title": "AWS re:Invent 2015 | (SEC318) AWS CloudTrail Deep Dive",
         "date": "2015/10/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Nky1DUj9s1M",
-        "thumbnail": "",
+        "service": "cloudtrail",
+        "videoId": "Nky1DUj9s1M",
         "title": "Monitor Unusual Activity in AWS Accounts Using CloudTrail Insights",
         "date": "2020/05/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=U968FoLmwms",
-        "thumbnail": "",
+        "service": "cloudtrail",
+        "videoId": "U968FoLmwms",
         "title": "How do I search CloudTrail logs using Amazon Athena?",
         "date": "2018/08/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=mbdC6IhOROk",
-        "thumbnail": "",
+        "service": "cloudtrail",
+        "videoId": "mbdC6IhOROk",
         "title": "AWS re:Invent 2017: Using AWS CloudTrail to Enhance Governance and Compliance of Ama (DEV311)",
         "date": "2017/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=cfojAdWoMWo",
-        "thumbnail": "",
+        "service": "cloudtrail",
+        "videoId": "cfojAdWoMWo",
         "title": "Querying AWS CloudTrail logs with Amazon Athena",
         "date": "2017/07/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=pOsLIb_hwHY",
-        "thumbnail": "",
+        "service": "cloudtrail",
+        "videoId": "pOsLIb_hwHY",
         "title": "AWS Summit Series 2017 – New York: AWS CloudTrail Event History Available to All Customers",
         "date": "2017/08/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=MdBp3BC6NOs",
-        "thumbnail": "",
+        "service": "cloudtrail",
+        "videoId": "MdBp3BC6NOs",
         "title": "How do I search for IAM access key activity using the CloudTrail console?",
         "date": "2019/06/03"
     },
     {
-        "url": "youtube.com/watch?v=oZ8HswQSbNQ",
-        "thumbnail": "",
+        "service": "cloudtrail",
+        "videoId": "oZ8HswQSbNQ",
         "title": "AWS re:Invent 2015 | (SEC403) Diving into AWS CloudTrail Events w/Apache Spark on EMR",
         "date": "2015/10/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=sovSF3lsBUA",
-        "thumbnail": "",
+        "service": "cloudtrail",
+        "videoId": "sovSF3lsBUA",
         "title": "Why can't I find the user name that created an EBS volume by searching CloudTrail?",
         "date": "2019/09/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=kCmMeP1jPbU",
-        "thumbnail": "",
+        "service": "cloudtrail",
+        "videoId": "kCmMeP1jPbU",
         "title": "AWS CloudTrail Event History is Now Available to All Customers",
         "date": "2017/08/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=hOWm5U73wMc",
-        "thumbnail": "",
+        "service": "cloudtrail",
+        "videoId": "hOWm5U73wMc",
         "title": "Why are my CloudTrail logs showing root credentials in use for API actions I didn't initiate?",
         "date": "2016/08/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=5J9zzJZC7CY",
-        "thumbnail": "",
+        "service": "cloudtrail",
+        "videoId": "5J9zzJZC7CY",
         "title": "AWS CloudTrail to Track AWS Resources in Your Account (SEC207) | AWS re:Invent 2013",
         "date": "2013/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=BJprWgompq0",
-        "thumbnail": "",
+        "service": "cloudtrail",
+        "videoId": "BJprWgompq0",
         "title": "AWS re:Invent 2014 | (SEC306) Turn on CloudTrail: Log API Activity in Your AWS Account",
         "date": "2014/11/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ZrGa25--j8E",
-        "thumbnail": "",
+        "service": "cloudtrail",
+        "videoId": "ZrGa25--j8E",
         "title": "Solving with AWS Solutions: Centralized Logging",
         "date": "2020/03/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=YF2-moQNq-8",
-        "thumbnail": "",
+        "service": "cloudtrail",
+        "videoId": "YF2-moQNq-8",
         "title": "AWS re:Invent Launchpad 2017 - Announcement: CloudTrail Support for Lambda Invoke API Activity",
         "date": "2017/12/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=lX5wDHYBw4s",
-        "thumbnail": "",
+        "service": "cloudtrail",
+        "videoId": "lX5wDHYBw4s",
         "title": "AWS re:Invent 2019 Launchpad | Cloudtrail Insights",
         "date": "2020/03/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=kNtiskRtfeY",
-        "thumbnail": "",
+        "service": "cloudtrail",
+        "videoId": "kNtiskRtfeY",
         "title": "AWS re:Invent 2019: Actionable threat hunting in AWS (SEC339)",
         "date": "2019/12/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=QMBkq6MrT2w",
-        "thumbnail": "",
+        "service": "cloudtrail",
+        "videoId": "QMBkq6MrT2w",
         "title": "AWS re:Invent 2019: [REPEAT 2] The fundamentals of AWS cloud security (SEC205-R2)",
         "date": "2019/12/08"
     }

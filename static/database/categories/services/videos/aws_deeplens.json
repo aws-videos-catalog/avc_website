@@ -1,80 +1,80 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=ALKz1eKj4n0",
-        "thumbnail": "",
+        "service": "aws_deeplens",
+        "videoId": "ALKz1eKj4n0",
         "title": "AWS DeepLens Powered Cat Flap",
         "date": "2019/08/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=cTsCMTxEPHs",
-        "thumbnail": "",
+        "service": "aws_deeplens",
+        "videoId": "cTsCMTxEPHs",
         "title": "How to Build an AWS DeepLens Project Using Amazon SageMaker",
         "date": "2018/06/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=RhEVld4GwzU",
-        "thumbnail": "",
+        "service": "aws_deeplens",
+        "videoId": "RhEVld4GwzU",
         "title": "AWS re:Invent 2017 - Announcing AWS DeepLens",
         "date": "2017/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-JDLpSsO45A",
-        "thumbnail": "",
+        "service": "aws_deeplens",
+        "videoId": "-JDLpSsO45A",
         "title": "How to Create and Deploy a Deep Learning Project With AWS DeepLens",
         "date": "2018/06/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Ut1VGG6TOOw",
-        "thumbnail": "",
+        "service": "aws_deeplens",
+        "videoId": "Ut1VGG6TOOw",
         "title": "AWS DeepLens Challenge #4: Sustainability",
         "date": "2018/09/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=PbQO3-jYkGo",
-        "thumbnail": "",
+        "service": "aws_deeplens",
+        "videoId": "PbQO3-jYkGo",
         "title": "How to Extend a Deep Leaning Project with AWS DeepLens",
         "date": "2018/06/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=tw0wCpdIlPw",
-        "thumbnail": "",
+        "service": "aws_deeplens",
+        "videoId": "tw0wCpdIlPw",
         "title": "AWS DeepLens Challenge #2: Health",
         "date": "2018/09/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ks1726cU24c",
-        "thumbnail": "",
+        "service": "aws_deeplens",
+        "videoId": "ks1726cU24c",
         "title": "AWS DeepLens Challenge #3: Games",
         "date": "2018/09/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=qRJwvo94-Ko",
-        "thumbnail": "",
+        "service": "aws_deeplens",
+        "videoId": "qRJwvo94-Ko",
         "title": "AWS re:Invent 2017 - AWS DeepLens Demo by Dr. Matt Wood",
         "date": "2017/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=WSwG5OLWbIM",
-        "thumbnail": "",
+        "service": "aws_deeplens",
+        "videoId": "WSwG5OLWbIM",
         "title": "AWS Dev Day Australia 2018 - Intelligence of things: IoT, AWS DeepLens and Amazon SageMaker",
         "date": "2018/08/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=QF0QjRjBwFs",
-        "thumbnail": "",
+        "service": "aws_deeplens",
+        "videoId": "QF0QjRjBwFs",
         "title": "Demonstration: Automating Recycling",
         "date": "2019/09/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=3ly1A8x9XiQ",
-        "thumbnail": "",
+        "service": "aws_deeplens",
+        "videoId": "3ly1A8x9XiQ",
         "title": "AWS DeepLens Challenge #1: Inclusivity",
         "date": "2018/07/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=bTLMU9z_hes",
-        "thumbnail": "",
+        "service": "aws_deeplens",
+        "videoId": "bTLMU9z_hes",
         "title": "AWS Builders' Day | Machine Learning at the Edge with Amazon Greengrass ML and AWS DeepLens",
         "date": "2018/02/14"
-    }   
+    }
 ]

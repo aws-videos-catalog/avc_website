@@ -1,14 +1,14 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=-Luvf6UlhiI",
-        "thumbnail": "",
+        "service": "aws_budgets",
+        "videoId": "-Luvf6UlhiI",
         "title": "Making Friends with Finance: How to Manage Cost Efficiency and Budget on AWS",
         "date": "2019/10/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=BZO8AEMSUcM",
-        "thumbnail": "",
+        "service": "aws_budgets",
+        "videoId": "BZO8AEMSUcM",
         "title": "AWS Summit Tel Aviv 2019 | Budget Management with Cloud Economics",
         "date": "2019/03/27"
-    }   
+    }
 ]

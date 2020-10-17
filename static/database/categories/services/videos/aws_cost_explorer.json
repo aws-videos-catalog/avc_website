@@ -1,14 +1,14 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=XHwFJDw9Mec",
-        "thumbnail": "",
+        "service": "aws_cost_explorer",
+        "videoId": "XHwFJDw9Mec",
         "title": "AWS Cost Optimization: Tools and Methods to Reduce Your Spend With Us",
         "date": "2020/04/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=3peNAKB3VxA",
-        "thumbnail": "",
+        "service": "aws_cost_explorer",
+        "videoId": "3peNAKB3VxA",
         "title": "How can I use Cost Explorer to analyze my spending and usage?",
         "date": "2018//09/11"
-    }   
+    }
 ]

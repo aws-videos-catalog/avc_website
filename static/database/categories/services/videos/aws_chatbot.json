@@ -1,13 +1,13 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=0jUSEfHbTYk",
-        "thumbnail": "",
+        "service": "aws_chatbot",
+        "videoId": "0jUSEfHbTYk",
         "title": "AWS Chatbot Overview",
         "date": "2019/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=u-1SbynvVkA",
-        "thumbnail": "",
+        "service": "aws_chatbot",
+        "videoId": "u-1SbynvVkA",
         "title": "AWS re:Invent 2019 Launchpad | AWS Chatbot",
         "date": "2020/03/16"
     }

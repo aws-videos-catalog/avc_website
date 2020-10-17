@@ -1,37 +1,37 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=wCefhTWtSD4",
-        "thumbnail": "",
+        "service": "iot_device_management",
+        "videoId": "wCefhTWtSD4",
         "title": "AWS re:Invent 2017 - AWS IoT Device Management",
         "date": "2017/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=DxRfsPTwdkc",
-        "thumbnail": "",
+        "service": "iot_device_management",
+        "videoId": "DxRfsPTwdkc",
         "title": "AWS re:Invent 2018: Managing Devices at Scale with AWS IoT Device Management, ft. Hudl (IOT207-R)",
         "date": "2018/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Qi1FVPXDPQc",
-        "thumbnail": "",
+        "service": "iot_device_management",
+        "videoId": "Qi1FVPXDPQc",
         "title": "AWS re:Invent 2017: NEW LAUNCH! AWS IoT Device Management (IOT330)",
         "date": "2017/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=iqZJIdcOyjk",
-        "thumbnail": "",
+        "service": "iot_device_management",
+        "videoId": "iqZJIdcOyjk",
         "title": "AWS Live Panel Discussion: Simplify Large-Scale IoT Device Management",
         "date": "2018/07/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=JQFl97ZRdWA",
-        "thumbnail": "",
+        "service": "iot_device_management",
+        "videoId": "JQFl97ZRdWA",
         "title": "AWS re:Invent Launchpad 2017 - AWS IoT Device Management & AWS IoT Device Defender",
         "date": "2017/12/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=1MrZEYYpSrc",
-        "thumbnail": "",
+        "service": "iot_device_management",
+        "videoId": "1MrZEYYpSrc",
         "title": "AWS Chicago Summit 2018: Security Management for IoT Devices (SRV202)",
         "date": "2018/08/16"
     }

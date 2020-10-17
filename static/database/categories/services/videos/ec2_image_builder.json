@@ -1,7 +1,7 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=9XFuRq0R8nk",
-        "thumbnail": "https://i.ytimg.com/vi/9XFuRq0R8nk/hqdefault.jpg",
+        "service": "ec2_image_builder",
+        "videoId": "9XFuRq0R8nk",
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] EC2 Image Builder: Virtual machine images made easy (CMP214-R1)",
         "date": "2019/12/12"
     }

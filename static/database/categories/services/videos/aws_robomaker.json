@@ -1,134 +1,134 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=CQoh76z7L-Q",
-        "thumbnail": "",
+        "service": "aws_robomaker",
+        "videoId": "CQoh76z7L-Q",
         "title": "Hack Your Robot | Programming Robots with AWS RoboMaker",
         "date": "2019/05/16"
     },
     {
-        "url": "https://www.youtube.com/watch?v=U1ukEpzKCYY",
-        "thumbnail": "",
+        "service": "aws_robomaker",
+        "videoId": "U1ukEpzKCYY",
         "title": "What is AWS RoboMaker?",
         "date": "2018/11/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=VHuzxu_W3Ps",
-        "thumbnail": "",
+        "service": "aws_robomaker",
+        "videoId": "VHuzxu_W3Ps",
         "title": "Build Your Robot with AWS RoboMaker | Creating Robot Relationships with AWS RoboMaker",
         "date": "2019/06/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=4R4_GCiayD8",
-        "thumbnail": "",
+        "service": "aws_robomaker",
+        "videoId": "4R4_GCiayD8",
         "title": "Build Your Robot | Getting Started with Robots & AWS RoboMaker",
         "date": "2019/05/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=sjxZAdm1utM",
-        "thumbnail": "",
+        "service": "aws_robomaker",
+        "videoId": "sjxZAdm1utM",
         "title": "AWS re:Invent 2018 - Announcing AWS RoboMaker",
         "date": "2018/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=PbciF9iLPq4",
-        "thumbnail": "",
+        "service": "aws_robomaker",
+        "videoId": "PbciF9iLPq4",
         "title": "Using Reinforcement Learning with AWS RoboMaker",
         "date": "2019/05/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=tD-a2WNAsSs",
-        "thumbnail": "",
+        "service": "aws_robomaker",
+        "videoId": "tD-a2WNAsSs",
         "title": "AWS RoboMaker WorldForge Simplifies Creating Simulation Worlds for Robotics",
         "date": "2020/08/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=u_PcAwz6iUo",
-        "thumbnail": "",
+        "service": "aws_robomaker",
+        "videoId": "u_PcAwz6iUo",
         "title": "Developing and Teaching Robotics with AWS RoboMaker",
         "date": "2019/06/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Da4Yxy59WYg",
-        "thumbnail": "",
+        "service": "aws_robomaker",
+        "videoId": "Da4Yxy59WYg",
         "title": "From Simulation to Reality: Building an Autonomous Robot Car with AWS RoboMaker",
         "date": "2019/10/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=fneewHu1HXM",
-        "thumbnail": "",
+        "service": "aws_robomaker",
+        "videoId": "fneewHu1HXM",
         "title": "Developing Intelligent Robots with AWS RoboMaker",
         "date": "2019/09/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=VhZQzyXw9y4",
-        "thumbnail": "",
+        "service": "aws_robomaker",
+        "videoId": "VhZQzyXw9y4",
         "title": "Cloud Robotics with AWS RoboMaker",
         "date": "2019/04/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=fpx_zzqHoko",
-        "thumbnail": "",
+        "service": "aws_robomaker",
+        "videoId": "fpx_zzqHoko",
         "title": "Using AWS RoboMaker for Robot Application Simulation",
         "date": "2020/03/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=4t9e4L4rVZw",
-        "thumbnail": "",
+        "service": "aws_robomaker",
+        "videoId": "4t9e4L4rVZw",
         "title": "Fleet Simulations with Multiple Robots using AWS RoboMaker",
         "date": "2020/03/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=SzHw2PIEIKQ",
-        "thumbnail": "",
+        "service": "aws_robomaker",
+        "videoId": "SzHw2PIEIKQ",
         "title": "Building a Continuous Integration Pipeline for Your ROS Applications Using AWS RoboMaker",
         "date": "2019/10/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=GMZhY28gW4M",
-        "thumbnail": "",
+        "service": "aws_robomaker",
+        "videoId": "GMZhY28gW4M",
         "title": "Announcing AWS RoboMaker",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=HAela66zov0",
-        "thumbnail": "",
+        "service": "aws_robomaker",
+        "videoId": "HAela66zov0",
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Announcing AWS RoboMaker: A New Cloud Robotics Service (ROB201-R)",
         "date": "2018/11/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8Rm2BKfJMnw",
-        "thumbnail": "",
+        "service": "aws_robomaker",
+        "videoId": "8Rm2BKfJMnw",
         "title": "AWS re:Invent 2018 - Daily re:Port - RoboMaker",
         "date": "2018/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=mt1cuPQ62lE",
-        "thumbnail": "",
+        "service": "aws_robomaker",
+        "videoId": "mt1cuPQ62lE",
         "title": "Running Large-scale Automated Test Simulations in a CI/CD Pipeline using AWS RoboMaker",
         "date": "2020/03/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=euDL1OZ-l40",
-        "thumbnail": "",
+        "service": "aws_robomaker",
+        "videoId": "euDL1OZ-l40",
         "title": "It's the Jetsons Age: Robots & AWS RoboMaker",
         "date": "2019/06/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=SW8x-OIVo1I",
-        "thumbnail": "",
+        "service": "aws_robomaker",
+        "videoId": "SW8x-OIVo1I",
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Announcing AWS RoboMaker: A New Cloud Robotics Service (ROB201-R1)",
         "date": "2018/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=4m9Bqm4gYa0",
-        "thumbnail": "",
+        "service": "aws_robomaker",
+        "videoId": "4m9Bqm4gYa0",
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] A journey thru Serverless & IoT, a view of AWS RoboMaker (DEM120)",
         "date": "2018/12/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=GW1Sy3nlgec",
-        "thumbnail": "",
+        "service": "aws_robomaker",
+        "videoId": "GW1Sy3nlgec",
         "title": "AWS re:Invent 2019: [REPEAT 1] Running tests in simulation with AWS RoboMaker (ROB301-R1)",
         "date": "2019/12/08"
-    }   
+    }
 ]

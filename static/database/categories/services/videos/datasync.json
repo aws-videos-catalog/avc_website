@@ -1,86 +1,86 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=_qhTF-gB-JE",
-        "thumbnail": "",
+        "service": "datasync",
+        "videoId": "_qhTF-gB-JE",
         "title": "AWS DataSync Demo - Easily Transfer Data to and From AWS Up to 10x Faster",
         "date": "2020/05/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=jPRquig6Nrw",
-        "thumbnail": "",
+        "service": "datasync",
+        "videoId": "jPRquig6Nrw",
         "title": "AWS DataSync",
         "date": "2020/01/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=PA3PuU3beFI",
-        "thumbnail": "",
+        "service": "datasync",
+        "videoId": "PA3PuU3beFI",
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] AWS DataSync - Automate & accelerate online data transfer (STG324)",
         "date": "2018/01/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=YO-i6GIGD1E",
-        "thumbnail": "",
+        "service": "datasync",
+        "videoId": "YO-i6GIGD1E",
         "title": "Migrating your Data to Amazon FSx for Windows File Server with AWS DataSync",
         "date": "2020/03/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=A3mhkTnlmmc",
-        "thumbnail": "",
+        "service": "datasync",
+        "videoId": "A3mhkTnlmmc",
         "title": "AWS DataSync in 30 Seconds",
         "date": "2020/02/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6wXZj-OT6Ko",
-        "thumbnail": "",
+        "service": "datasync",
+        "videoId": "6wXZj-OT6Ko",
         "title": "How do I set up a notification when my DataSync task execution is complete?",
         "date": "2019/12/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=IHMZT2S_XuI",
-        "thumbnail": "",
+        "service": "datasync",
+        "videoId": "IHMZT2S_XuI",
         "title": "Accelerate the Migration of 10,000 Small Files From NFS to Amazon S3 Using AWS DataSync",
         "date": "2020/08/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=sEefsQjOIzE",
-        "thumbnail": "",
+        "service": "datasync",
+        "videoId": "sEefsQjOIzE",
         "title": "AWS re:Invent 2018: How to Move Data to Amazon S3 and Access It On-Premises (DEM103)",
         "date": "2018/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=jX6pEWf344I",
-        "thumbnail": "",
+        "service": "datasync",
+        "videoId": "jX6pEWf344I",
         "title": "AWS re:Invent 2015 | (MBL402) Mobile Identity Management & Data Sync Using Amazon Cognito",
         "date": "2015/10/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=D2HtAxncbls",
-        "thumbnail": "",
+        "service": "datasync",
+        "videoId": "D2HtAxncbls",
         "title": "AWS re:Invent 2019: Rapid online data transfer with AWS DataSync (STG342)",
         "date": "2019/12/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7kZUZa65xPs",
-        "thumbnail": "",
+        "service": "datasync",
+        "videoId": "7kZUZa65xPs",
         "title": "Rapid Online Data Transfer with AWS DataSync - Walt Disney Imagineering",
         "date": "2020/02/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=lNb418V-rC0",
-        "thumbnail": "",
+        "service": "datasync",
+        "videoId": "lNb418V-rC0",
         "title": "Rapid Online Data Transfer with AWS DataSync (STG342) - Millenium Management",
         "date": "2020/02/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=c3CKrxcrjIs",
-        "thumbnail": "",
+        "service": "datasync",
+        "videoId": "c3CKrxcrjIs",
         "title": "Rapid Online Data Transfer with AWS DataSync - Walt Disney Imagineering Benefits",
         "date": "2020/02/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=sEWJgCwxumA",
-        "thumbnail": "",
+        "service": "datasync",
+        "videoId": "sEWJgCwxumA",
         "title": "Rapid Online Data Transfer with AWS DataSync (STG342) - Millenium Management's Benefits",
         "date": "2020/02/20"
-    }      
+    }
 ]

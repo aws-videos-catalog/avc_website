@@ -1,128 +1,128 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=_ayZeVjwRPk",
-        "thumbnail": "",
+        "service": "aws_appsync",
+        "videoId": "_ayZeVjwRPk",
         "title": "Creating Your First AWS AppSync GraphQL API",
         "date": "2018/11/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=4Wunzz9zLdI",
-        "thumbnail": "",
+        "service": "aws_appsync",
+        "videoId": "4Wunzz9zLdI",
         "title": "AWS re:Invent 2018: Building Serverless Applications with AWS AppSync (DEM116)",
         "date": "2018/11/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=sQN28Jo-nak",
-        "thumbnail": "",
+        "service": "aws_appsync",
+        "videoId": "sQN28Jo-nak",
         "title": "Serverless Bytes | Build a Serverless Weather App with GraphQL, AWS AppSync & AWS Lambda",
         "date": "2018/06/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=x6s34ecJvik",
-        "thumbnail": "",
+        "service": "aws_appsync",
+        "videoId": "x6s34ecJvik",
         "title": "Data Driven Applications with AWS AppSync and GraphQL",
         "date": "2018/05/31"
     },
     {
-        "url": "https://www.youtube.com/watch?v=HSJNK8aTpgU",
-        "thumbnail": "",
+        "service": "aws_appsync",
+        "videoId": "HSJNK8aTpgU",
         "title": "AWS Amplify Console and New Features in AWS AppSync",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=pZ61oDwrCK0",
-        "thumbnail": "",
+        "service": "aws_appsync",
+        "videoId": "pZ61oDwrCK0",
         "title": "Creating & Interacting with an AWS AppSync GraphQL API with React & AWS Amplify",
         "date": "2018/11/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=SxwMHqRUrBk",
-        "thumbnail": "",
+        "service": "aws_appsync",
+        "videoId": "SxwMHqRUrBk",
         "title": "Executing Queries within the AWS AppSync Console",
         "date": "2018/11/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=H36p3evcRC0",
-        "thumbnail": "",
+        "service": "aws_appsync",
+        "videoId": "H36p3evcRC0",
         "title": "Connecting to an AWS AppSync API from a React Application",
         "date": "2018/11/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=C6uQrl9uXto",
-        "thumbnail": "",
+        "service": "aws_appsync",
+        "videoId": "C6uQrl9uXto",
         "title": "Executing Mutations within the AWS AppSync Console",
         "date": "2018/11/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=mQBtbHKSdAQ",
-        "thumbnail": "",
+        "service": "aws_appsync",
+        "videoId": "mQBtbHKSdAQ",
         "title": "AWS re:Invent 2017: NEW LAUNCH! Data Driven Apps with GraphQL: AWS AppSync Deep Dive (MBL402)",
         "date": "2017/12/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=2U4RsbFO4bA",
-        "thumbnail": "",
+        "service": "aws_appsync",
+        "videoId": "2U4RsbFO4bA",
         "title": "AWS re:Invent 2018: Authentication & Authorization in GraphQL with AWS AppSync (MOB402)",
         "date": "2018/11/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=CwLB0BRwIqE",
-        "thumbnail": "",
+        "service": "aws_appsync",
+        "videoId": "CwLB0BRwIqE",
         "title": "AWS re:Invent 2018: Ten Tips And Tricks for Improving Your GraphQL API with AWS AppSync (MOB401)",
         "date": "2018/11/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=QabeZ4sag44",
-        "thumbnail": "",
+        "service": "aws_appsync",
+        "videoId": "QabeZ4sag44",
         "title": "Real-Time Data Using GraphQL Subscriptions with AWS AppSync in a React Application",
         "date": "2018/11/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=hSMFtJLI3Uo",
-        "thumbnail": "",
+        "service": "aws_appsync",
+        "videoId": "hSMFtJLI3Uo",
         "title": "Take Mobile and Web Apps to the Next Level with AWS AppSync and AWS Amplify",
         "date": "2019/06/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=VkFnaljs0RE",
-        "thumbnail": "",
+        "service": "aws_appsync",
+        "videoId": "VkFnaljs0RE",
         "title": "Taking your Progressive Web App to the Next Level with AWS AppSync and GraphQL (Level 300)",
         "date": "2018/08/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=owJpsmFWNjw",
-        "thumbnail": "",
+        "service": "aws_appsync",
+        "videoId": "owJpsmFWNjw",
         "title": "Executing Mutations to an AWS AppSync API from a React App Including Offline & Optimistic Response",
         "date": "2018/11/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=pnlFkIrbW6Y",
-        "thumbnail": "",
+        "service": "aws_appsync",
+        "videoId": "pnlFkIrbW6Y",
         "title": "AWS ANZ Webinar Series - Supercharging Applications with GraphQL and AWS AppSync",
         "date": "2018/09/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=vmjnFULD_oM",
-        "thumbnail": "",
+        "service": "aws_appsync",
+        "videoId": "vmjnFULD_oM",
         "title": "AWS NY Summit - AWS AppSync Releases Enhanced No-Code GraphQL API Builder, HTTP Resolvers",
         "date": "2018/07/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=a_klcMRUfaM",
-        "thumbnail": "",
+        "service": "aws_appsync",
+        "videoId": "a_klcMRUfaM",
         "title": "Building AWS AppSync APIs Using the AWS Amplify CLI",
         "date": "2018/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=okCs6R_s27I",
-        "thumbnail": "",
+        "service": "aws_appsync",
+        "videoId": "okCs6R_s27I",
         "title": "Executing Queries to an AWS AppSync API from a React Application",
         "date": "2018/11/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=za6J9Zsp1vM",
-        "thumbnail": "",
+        "service": "aws_appsync",
+        "videoId": "za6J9Zsp1vM",
         "title": "AWS re:Invent Launchpad 2017 - Announcement: AWS AppSync",
         "date": "2017/12/08"
-    }   
+    }
 ]

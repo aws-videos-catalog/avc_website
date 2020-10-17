@@ -1,115 +1,115 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=S8uczd9uUnM",
-        "thumbnail": "",
+        "service": "simple_notification_service",
+        "videoId": "S8uczd9uUnM",
         "title": "Gousto: Building a Robust, Asynchronous Message Bus using AWS Lambda, Amazon SNS, and Amazon SQS.",
         "date": "2019/01/16"
     },
     {
-        "url": "https://www.youtube.com/watch?v=fVL3rkSrMHs",
-        "thumbnail": "",
+        "service": "simple_notification_service",
+        "videoId": "fVL3rkSrMHs",
         "title": "How do I use webhooks to publish Amazon SNS messages to Amazon Chime, Slack, or Microsoft Teams?",
         "date": "2020/06/16"
     },
     {
-        "url": "https://www.youtube.com/watch?v=c_WNBmEc6EE",
-        "thumbnail": "",
+        "service": "simple_notification_service",
+        "videoId": "c_WNBmEc6EE",
         "title": "Experian: Event-Driven Pub-Sub with SNS and SQS",
         "date": "2018/02/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=u5j1U3qFXDY",
-        "thumbnail": "",
+        "service": "simple_notification_service",
+        "videoId": "u5j1U3qFXDY",
         "title": "Getting Started with Amazon SNS - Push Notification Service on AWS",
         "date": "2011/12/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ehU12vUj-Vk",
-        "thumbnail": "",
+        "service": "simple_notification_service",
+        "videoId": "ehU12vUj-Vk",
         "title": "How do I create an Android platform application for push messaging in Amazon SNS?",
         "date": "2019/06/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=I7f2c5Qgz9w",
-        "thumbnail": "",
+        "service": "simple_notification_service",
+        "videoId": "I7f2c5Qgz9w",
         "title": "How do I enable SSE for an Amazon SNS Topic with an Encrypted Amazon SQS Queue Subscribed?",
         "date": "2019/10/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Y6Mlr7lPGq8",
-        "thumbnail": "",
+        "service": "simple_notification_service",
+        "videoId": "Y6Mlr7lPGq8",
         "title": "AWS for Microsoft Workloads: How to Integrate Your .NET Application with SNS",
         "date": "2018/06/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=YXl1QUQkRTI",
-        "thumbnail": "",
+        "service": "simple_notification_service",
+        "videoId": "YXl1QUQkRTI",
         "title": "How do I troubleshoot failed Amazon SNS push notification deliveries?",
         "date": "2020/02/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-kVhzt7X5Kw",
-        "thumbnail": "",
+        "service": "simple_notification_service",
+        "videoId": "-kVhzt7X5Kw",
         "title": "How do I configure SES and SNS to receive domain validation emails?",
         "date": "2019/10/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=qR4aCEEBKAI",
-        "thumbnail": "",
+        "service": "simple_notification_service",
+        "videoId": "qR4aCEEBKAI",
         "title": "Using Mobile Push Notifications with Amazon SNS - Simply Notification Service on AWS",
         "date": "2019/08/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=YwHxvKhBQ_g",
-        "thumbnail": "",
+        "service": "simple_notification_service",
+        "videoId": "YwHxvKhBQ_g",
         "title": "AWS re:Invent 2018: Build High-Throughput, Bursty Data Apps with Amazon SQS, SNS, & Lambda (API306)",
         "date": "2018/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=oXV7z5h6qW0",
-        "thumbnail": "",
+        "service": "simple_notification_service",
+        "videoId": "oXV7z5h6qW0",
         "title": "Trax Retail: An Innovative Approach to Per-Second Scaling for SNS/SQS Message Processing",
         "date": "2018/10/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=5-HdLf_lizI",
-        "thumbnail": "",
+        "service": "simple_notification_service",
+        "videoId": "5-HdLf_lizI",
         "title": "How do I configure a monthly spending limit alarm for SMS messages in Amazon SNS?",
         "date": "2020/04/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=DqaXXOOxEUY",
-        "thumbnail": "",
+        "service": "simple_notification_service",
+        "videoId": "DqaXXOOxEUY",
         "title": "Engage Your Customers with Amazon SNS Mobile Push (MBL308) | AWS re:Invent 2013",
         "date": "2013/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=D339iCOjHhc",
-        "thumbnail": "",
+        "service": "simple_notification_service",
+        "videoId": "D339iCOjHhc",
         "title": "How do I monitor automatic recovery of my EC2 instances using CloudWatch alarms and SNS?",
         "date": "2020/02/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=LUW_9WN6QD0",
-        "thumbnail": "",
+        "service": "simple_notification_service",
+        "videoId": "LUW_9WN6QD0",
         "title": "How do I request a spending limit increase for SMS messages in Amazon SNS?",
         "date": "2020/02/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=0dBmuv-tgT0",
-        "thumbnail": "",
+        "service": "simple_notification_service",
+        "videoId": "0dBmuv-tgT0",
         "title": "How do I prevent mailing list recipients from unsubscribing the list from Amazon SNS topic emails?",
         "date": "2020/04/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=iFeb7wL4ch8",
-        "thumbnail": "",
+        "service": "simple_notification_service",
+        "videoId": "iFeb7wL4ch8",
         "title": "How do I create an SNS notification that includes error information for a Data Pipeline activity?",
         "date": "2020/05/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=zwLC5xmCZUs",
-        "thumbnail": "",
+        "service": "simple_notification_service",
+        "videoId": "zwLC5xmCZUs",
         "title": "AWS re:Invent SVC 105: AWS Messaging",
         "date": "2012/12/04"
     }

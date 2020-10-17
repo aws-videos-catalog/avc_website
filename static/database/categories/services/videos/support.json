@@ -1,109 +1,109 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=YZS_R12YrCo",
-        "thumbnail": "",
+        "service": "support",
+        "videoId": "YZS_R12YrCo",
         "title": "Meet Sarah Farrell, Head of Enterprise Support at AWS Australia & New Zealand",
         "date": "2019/09/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=GC3bWcFFZTo",
-        "thumbnail": "",
+        "service": "support",
+        "videoId": "GC3bWcFFZTo",
         "title": "What's it like to work at Amazon Web Services? Meet our Cloud Support Engineers.",
         "date": "2018/09/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=BTPWdseB_pg",
-        "thumbnail": "",
+        "service": "support",
+        "videoId": "BTPWdseB_pg",
         "title": "Meet Theodoros, AWS Premium Support, Dublin",
         "date": "2020/03/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=bHJVvrHo8E0",
-        "thumbnail": "",
+        "service": "support",
+        "videoId": "bHJVvrHo8E0",
         "title": "Meet Allan, AWS Premium Support, Dublin",
         "date": "2020/03/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=xMRGY196sjY",
-        "thumbnail": "",
+        "service": "support",
+        "videoId": "xMRGY196sjY",
         "title": "Meet Alexandre, AWS Premium Support, Dublin",
         "date": "2020/03/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Ar3Q-cJehyg",
-        "thumbnail": "",
+        "service": "support",
+        "videoId": "Ar3Q-cJehyg",
         "title": "AWS Support - A Customer-centric Organization",
         "date": "2014/03/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=lRXjESfmlhA",
-        "thumbnail": "",
+        "service": "support",
+        "videoId": "lRXjESfmlhA",
         "title": "Meet Luis, AWS Premium Support, Dublin",
         "date": "2020/03/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KimOlqNxs3w",
-        "thumbnail": "",
+        "service": "support",
+        "videoId": "KimOlqNxs3w",
         "title": "AWS Business Support",
         "date": "2016/09/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=BkdaVZlkwb0",
-        "thumbnail": "",
+        "service": "support",
+        "videoId": "BkdaVZlkwb0",
         "title": "Meet Kameliya, AWS Premium Support, Dublin",
         "date": "2020/03/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=zFKtuaCUvY8",
-        "thumbnail": "",
+        "service": "support",
+        "videoId": "zFKtuaCUvY8",
         "title": "Welcome to AWS Premium Support, Dublin",
         "date": "2020/03/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=tj1kGufflgk",
-        "thumbnail": "",
+        "service": "support",
+        "videoId": "tj1kGufflgk",
         "title": "Meet Satheesh L Heddese, Head of Premium Support team in India",
         "date": "2020/08/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=DFt9InfMDHc",
-        "thumbnail": "",
+        "service": "support",
+        "videoId": "DFt9InfMDHc",
         "title": "Meet our Enterprise Support Team & Technical Account Manager at AWS Korea",
         "date": "2018/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=iAsElIaspHM",
-        "thumbnail": "",
+        "service": "support",
+        "videoId": "iAsElIaspHM",
         "title": "Baseline Bits 02: AWS Business Support on Production AWS Accounts",
         "date": "2019/07/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7uXCchOTdMM",
-        "thumbnail": "",
+        "service": "support",
+        "videoId": "7uXCchOTdMM",
         "title": "Meet Robert, AWS Premium Support, Dublin",
         "date": "2020/03/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=kTmt4OQCh_I",
-        "thumbnail": "",
+        "service": "support",
+        "videoId": "kTmt4OQCh_I",
         "title": "AWS Support - In Autodesk's Words",
         "date": "2018/07/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=_K18oF65F6s",
-        "thumbnail": "",
+        "service": "support",
+        "videoId": "_K18oF65F6s",
         "title": "AWS Support - In Our Customers’ Words",
         "date": "2016/02/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=qQdoXFU8TPo",
-        "thumbnail": "",
+        "service": "support",
+        "videoId": "qQdoXFU8TPo",
         "title": "AWS Support and Skyscanner",
         "date": "2018/03/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=S4Vbfv72HSw",
-        "thumbnail": "",
+        "service": "support",
+        "videoId": "S4Vbfv72HSw",
         "title": "AWS Enterprise Support: Customer Obsession at Work",
         "date": "2018/09/06"
     }

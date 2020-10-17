@@ -1,49 +1,49 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=9tArgQrJBzE",
-        "thumbnail": "",
+        "service": "amazon_personalize",
+        "videoId": "9tArgQrJBzE",
         "title": "AWS re:Invent 2018 – Introducing Amazon Personalize",
         "date": "2018/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=o7wfxDlgsHE",
-        "thumbnail": "",
+        "service": "amazon_personalize",
+        "videoId": "o7wfxDlgsHE",
         "title": "AWS Partner Webinar: Building Integrations with Amazon Personalize",
         "date": "2019/08/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=9sexYAHHjxE",
-        "thumbnail": "",
+        "service": "amazon_personalize",
+        "videoId": "9sexYAHHjxE",
         "title": "AWS re:Invent 2018: NEW! Introducing Amazon Personalize: Real-time Personalization & Recommendations",
         "date": "2019/01/31"
     },
     {
-        "url": "https://www.youtube.com/watch?v=hSb_ahAZM64",
-        "thumbnail": "",
+        "service": "amazon_personalize",
+        "videoId": "hSb_ahAZM64",
         "title": "Real-Time Personalisation & Recommendations with Amazon Personalize",
         "date": "2019/05/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=LQSGz8ryvXU",
-        "thumbnail": "",
+        "service": "amazon_personalize",
+        "videoId": "LQSGz8ryvXU",
         "title": "Segment Enables Customers to Create Custom Recommendations With Amazon Personalize",
         "date": "2020/03/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=05QKFsD6qss",
-        "thumbnail": "",
+        "service": "amazon_personalize",
+        "videoId": "05QKFsD6qss",
         "title": "Introducing Amazon Personalize & Amazon Forecast",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=uKPZtJBb6MM",
-        "thumbnail": "",
+        "service": "amazon_personalize",
+        "videoId": "uKPZtJBb6MM",
         "title": "AWS Builders' Day | re:Invent Deep Dive on Amazon SageMaker, Amazon Forecast and Amazon Personalize",
         "date": "2018/12/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=lSgd5h_BLW4",
-        "thumbnail": "",
+        "service": "amazon_personalize",
+        "videoId": "lSgd5h_BLW4",
         "title": "Amazon AI Conclave 2019 - Delight Your Customers with Deep Learning Personalized Recommendations",
         "date": "2020/03/02"
     }

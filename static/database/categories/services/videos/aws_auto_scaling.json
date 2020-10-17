@@ -1,7 +1,7 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=EHH5LuVbJBw",
-        "thumbnail": "",
+        "service": "aws_auto_scaling",
+        "videoId": "EHH5LuVbJBw",
         "title": "AWS re:Invent 2018: Predictive Scaling for More Responsive Applications (API330)",
         "date": "2018/11/28"
     }

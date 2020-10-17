@@ -1,25 +1,25 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=CO2Tv1jwVd4",
-        "thumbnail": "",
+        "service": "iot_device_defender",
+        "videoId": "CO2Tv1jwVd4",
         "title": "AWS re:Invent 2017 - Announcing AWS IoT Device Defender",
         "date": "2017/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6zPsJoq9BEc",
-        "thumbnail": "",
+        "service": "iot_device_defender",
+        "videoId": "6zPsJoq9BEc",
         "title": "AWS re:Invent 2018: Keep Your IoT Devices Secure (IOT205)",
         "date": "2018/11/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=JQFl97ZRdWA",
-        "thumbnail": "",
+        "service": "iot_device_defender",
+        "videoId": "JQFl97ZRdWA",
         "title": "AWS re:Invent Launchpad 2017 - AWS IoT Device Management & AWS IoT Device Defender",
         "date": "2017/12/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=pi9t4-VDzf8",
-        "thumbnail": "",
+        "service": "iot_device_defender",
+        "videoId": "pi9t4-VDzf8",
         "title": "Keeping Connected Device Secure",
         "date": "2018/08/01"
     }

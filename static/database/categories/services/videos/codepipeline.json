@@ -1,44 +1,44 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=P7i01eqmzrs",
-        "thumbnail": "",
+        "service": "codepipeline",
+        "videoId": "P7i01eqmzrs",
         "title": "How to Do Continuous Integration and Continuous Deployment with AWS Lambda and AWS CodePipeline",
         "date": "2017/03/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=9kwEK5M56P8",
-        "thumbnail": "",
+        "service": "codepipeline",
+        "videoId": "9kwEK5M56P8",
         "title": "AWS for Microsoft Workloads: CD/CI for .NET applications in AWS CodePipeline",
         "date": "2018/06/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=d01AKo7HAng",
-        "thumbnail": "",
+        "service": "codepipeline",
+        "videoId": "d01AKo7HAng",
         "title": "AWS re:Invent 2014 | Announcing AWS CodePipeline",
         "date": "2014/11/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=zxrxHcbn9GY",
-        "thumbnail": "",
+        "service": "codepipeline",
+        "videoId": "zxrxHcbn9GY",
         "title": "AWS re:Invent 2018: Aetion’s Journey to AWS CodePipeline, AWS CloudFormation, & Amazon ECS (STP04)",
         "date": "2018/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Kebb0LOVC28",
-        "thumbnail": "",
+        "service": "codepipeline",
+        "videoId": "Kebb0LOVC28",
         "title": "Openfit: ChatOps with Slack and AWS Lambda",
         "date": "2020/02/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=YqzSVHZOE8k",
-        "thumbnail": "",
+        "service": "codepipeline",
+        "videoId": "YqzSVHZOE8k",
         "title": "Building in an Automated Environment with Continuous Integration",
         "date": "2019/02/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=zMa5gTLrzmQ",
-        "thumbnail": "",
+        "service": "codepipeline",
+        "videoId": "zMa5gTLrzmQ",
         "title": "Streamline Your Software Release Process Using AWS CodePipeline",
         "date": "2020/10/01"
-    }   
+    }
 ]

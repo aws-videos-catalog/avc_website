@@ -1,25 +1,25 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=ibvCmegX0Io",
-        "thumbnail": "",
+        "service": "amazon_mq",
+        "videoId": "ibvCmegX0Io",
         "title": "Amazon MQ Demo - AWS",
         "date": "2018/03/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=iDT1zFpy1kE",
-        "thumbnail": "",
+        "service": "amazon_mq",
+        "videoId": "iDT1zFpy1kE",
         "title": "Getting Started with Amazon MQ - Managed Message Broker Service",
         "date": "2018/07/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=dCucC1SKkvI",
-        "thumbnail": "",
+        "service": "amazon_mq",
+        "videoId": "dCucC1SKkvI",
         "title": "AWS re:Invent 2017: NEW LAUNCH! Introducing Amazon MQ Managed Message Broker Service (ENT228)",
         "date": "2017/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=K7z0rYtTqgc",
-        "thumbnail": "",
+        "service": "amazon_mq",
+        "videoId": "K7z0rYtTqgc",
         "title": "AWS re:Invent Launchpad 2017 - Announcement: Amazon MQ",
         "date": "2017/12/08"
     }

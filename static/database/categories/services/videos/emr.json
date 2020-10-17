@@ -1,506 +1,506 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=jylp2atrZjc",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "jylp2atrZjc",
         "title": "What is Amazon EMR and how can I use it for processing data?",
         "date": "2019/01/16"
     },
     {
-        "url": "https://www.youtube.com/watch?v=QuwaBOESGiU",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "QuwaBOESGiU",
         "title": "An introduction to Amazon EMR - Amazon Web Services",
         "date": "2018/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-iVGPuKqNaM",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "-iVGPuKqNaM",
         "title": "Manage and Monitor Amazon EMR Cluster",
         "date": "2020/07/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=O64ukMVf7ok",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "O64ukMVf7ok",
         "title": "How do I launch an Amazon EMR cluster in a VPC environment?",
         "date": "2018/09/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=06rz0h5-arw",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "06rz0h5-arw",
         "title": "EMR Training: Command Line Tools (7 of 11)",
         "date": "2012/07/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=fC4Y7KNwRzs",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "fC4Y7KNwRzs",
         "title": "Amazon EMR Notebooks",
         "date": "2020/06/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ulQdA6MUnTk",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "ulQdA6MUnTk",
         "title": "Get started with Amazon EMR",
         "date": "2020/07/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=wEOm6aiN4ww",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "wEOm6aiN4ww",
         "title": "Appnext: Kinesis, EMR, Athena, Redshift - Choosing the Right Tool for Your Analytics Jobs",
         "date": "2018/10/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=5DGXPcVKXyw",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "5DGXPcVKXyw",
         "title": "AWS re:Invent 2016: Deep Dive: Amazon EMR Best Practices & Design Patterns (BDM401)",
         "date": "2016/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7TBiXZlIo0I",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "7TBiXZlIo0I",
         "title": "AWS re:Invent 2018: Build Data Engineering Platforms with Amazon EMR (ANT204)",
         "date": "2018/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ISl9sTzxoSo",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "ISl9sTzxoSo",
         "title": "AWS re:Invent 2018: [REPEAT 1] A Deep Dive into What's New with Amazon EMR (ANT340-R1)",
         "date": "2018/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=9Qq5K8e18Gw",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "9Qq5K8e18Gw",
         "title": "Migrate to Amazon EMR - Cost Optimization",
         "date": "2020/03/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=y4z6RxWAvqs",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "y4z6RxWAvqs",
         "title": "EMR Training: Advanced EMR (11 of 11)",
         "date": "2012/07/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=yN0TPbj23dY",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "yN0TPbj23dY",
         "title": "EMR Training: Cluster of Servers (4 of 11)",
         "date": "2012/07/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=S6Ja55n-o0M",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "S6Ja55n-o0M",
         "title": "Introduction to Amazon Elastic MapReduce",
         "date": "2014/03/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=_90YaA8IJ4A",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "_90YaA8IJ4A",
         "title": "Migrate to Amazon EMR - Apache Spark and Hive",
         "date": "2020/03/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Ewv8GQ8KCyI",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "Ewv8GQ8KCyI",
         "title": "AWS re:Invent 2018: Hadoop/Spark to Amazon EMR, Architect It for Security & Governance (ANT312)",
         "date": "2018/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=WphudPbpoe8",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "WphudPbpoe8",
         "title": "Migrate to Amazon EMR - Data & Metadata Migration",
         "date": "2020/03/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6aXuvTt_4f8",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "6aXuvTt_4f8",
         "title": "How do I configure Amazon EMR to run a PySpark job using Python 3.6?",
         "date": "2020/01/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=vS1L11qnoS8",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "vS1L11qnoS8",
         "title": "How do I view web interfaces hosted on Amazon EMR Clusters which are in private subnet?",
         "date": "2018/10/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=nb-IDsyWJUQ",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "nb-IDsyWJUQ",
         "title": "How do I use Auto Scaling in Amazon EMR?",
         "date": "2018/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8Ve5h0JOkdQ",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "8Ve5h0JOkdQ",
         "title": "How do I upgrade Hive metastore schema version on EMR?",
         "date": "2018/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=YWQet4FtCfI",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "YWQet4FtCfI",
         "title": "Migrate to Amazon EMR - Cluster Segmentation",
         "date": "2020/03/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8O7AqOaPtJ8",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "8O7AqOaPtJ8",
         "title": "Accelerate Data Analytics at Scale with Amazon EMR",
         "date": "2018/11/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=zgXtKu5QFTg",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "zgXtKu5QFTg",
         "title": "EMR Training: Intro to EMR (1 of 11)",
         "date": "2012/07/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=_ff1TqzDxcA",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "_ff1TqzDxcA",
         "title": "Migrate to Amazon EMR - Architectural Approaches",
         "date": "2020/03/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=cAZur5maWZE",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "cAZur5maWZE",
         "title": "EMR Training: Running Jobs (3 of 11)",
         "date": "2012/07/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=MgC1q3mE-FQ",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "MgC1q3mE-FQ",
         "title": "Amazon EMR on EC2 Spot Instances (Video 1 of 3): Save on Workloads like Apache Spark and Hadoop",
         "date": "2019/08/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=qowfgnfaIi8",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "qowfgnfaIi8",
         "title": "Migrate to Amazon EMR - Best Practices",
         "date": "2020/03/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=RlKndm22bXw",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "RlKndm22bXw",
         "title": "Using Amazon Elastic MapReduce (EMR) to Export and Analyze DynamoDB Data",
         "date": "2012/07/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=4HseALaLllc",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "4HseALaLllc",
         "title": "AWS re:Invent 2015 | (BDT305) Amazon EMR Deep Dive and Best Practices",
         "date": "2015/10/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=QnOtYGmMGzk",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "QnOtYGmMGzk",
         "title": "Monitoring Amazon EMR Metrics",
         "date": "2012/01/31"
     },
     {
-        "url": "https://www.youtube.com/watch?v=y8YM2rAsAhY",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "y8YM2rAsAhY",
         "title": "EMR Training: Getting Started with EMR (2 of 11)",
         "date": "2012/07/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=N-Tean3rbT8",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "N-Tean3rbT8",
         "title": "Amazon EMR on EC2 Spot Instances (Video 3 of 3): Save on Workloads like Apache Spark and Hadoop",
         "date": "2019/08/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=JlhrKeEKQ10",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "JlhrKeEKQ10",
         "title": "Apache Spark Clusters for Everyone: Easy Access to Amazon EMR Spark Clusters Using R and Python",
         "date": "2016/07/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=H__luEqLdDE",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "H__luEqLdDE",
         "title": "Building Big Data Applications with Amazon EMR and Amazon Redshift",
         "date": "2016/11/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=rsh5F66wI9c",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "rsh5F66wI9c",
         "title": "Process Web Logs with AWS Data Pipeline, Amazon EMR, and Hive",
         "date": "2013/01/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=WnFYoiRqEHw",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "WnFYoiRqEHw",
         "title": "AWS re:Invent 2015 | (BDT208) A Technical Introduction to Amazon Elastic MapReduce",
         "date": "2015/10/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=0vzFapmVvv0",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "0vzFapmVvv0",
         "title": "AWS re:Invent 2014 | (BDT306) Mission-Critical Stream Processing with Amazon EMR and Amazon Kinesis",
         "date": "2014/11/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-zfhYjVelmg",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "-zfhYjVelmg",
         "title": "Wealthfront on Low-Latency Compute on EMR with Spark + HBase",
         "date": "2018/05/16"
     },
     {
-        "url": "https://www.youtube.com/watch?v=OLDILtIqI_M",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "OLDILtIqI_M",
         "title": "Unravel: Migrating and Scaling Data Pipelines with AI on Amazon EMR, Redshift & Athena",
         "date": "2019/04/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Xht1Q4XYn4Q",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "Xht1Q4XYn4Q",
         "title": "Amazon EMR on EC2 Spot Instances (Video 2 of 3): Save on Workloads like Apache Spark and Hadoop",
         "date": "2019/08/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=sj5upaBkHxk",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "sj5upaBkHxk",
         "title": "Introducing Amazon EMR 5.0 Webinar",
         "date": "2016/11/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=oOIgMSv2rug",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "oOIgMSv2rug",
         "title": "AWS re:Invent 2014 | (BDT303) Construct ETL Pipeline w/ AWS Data Pipeline, Amazon EMR & Redshift",
         "date": "2014/11/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=oOIgMSv2rug",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "oOIgMSv2rug",
         "title": "AWS re:Invent 2014 | (BDT303) Construct ETL Pipeline w/ AWS Data Pipeline, Amazon EMR & Redshift",
         "date": "2014/11/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=mR7JOsiCtC0",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "mR7JOsiCtC0",
         "title": "Data Science at Netflix with Amazon EMR (BDT306) | AWS re:Invent 2013",
         "date": "2013/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Mdb7M78nCiY",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "Mdb7M78nCiY",
         "title": "Migrate to Amazon EMR - Securing Resource",
         "date": "2020/03/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=L7CY7Oa7yOM",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "L7CY7Oa7yOM",
         "title": "Setting Alarms on Amazon EMR Metrics",
         "date": "2012/01/31"
     },
     {
-        "url": "https://www.youtube.com/watch?v=o5D9dmZX9zo",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "o5D9dmZX9zo",
         "title": "EMR Training: Debugging Tips (8 of 11)",
         "date": "2012/07/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=1IUokcqDRcQ",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "1IUokcqDRcQ",
         "title": "EMR Training: Hive & Pig (9 of 11)",
         "date": "2012/07/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=LWm7SD2QwLM",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "LWm7SD2QwLM",
         "title": "AWS re:Invent 2016: Zillow: Classification and Recommendation Engines with EMR and Spark (MAC303)",
         "date": "2016/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=nM-AkqNh7Yo",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "nM-AkqNh7Yo",
         "title": "from scratch: Resource Manager Controls Task Distribution with Multiple Amazon EMR Clusters",
         "date": "2019/07/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=5i20nf3Kyzg",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "5i20nf3Kyzg",
         "title": "EMR Training: Hive Job Flow (10 of 11)",
         "date": "2012/07/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=kNsS9aDf6uE",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "kNsS9aDf6uE",
         "title": "Getting Started with Amazon Elastic MapReduce",
         "date": "2011/09/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=g7WG13xG8hA",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "g7WG13xG8hA",
         "title": "Using Amazon S3 for Apache HBase on Amazon EMR",
         "date": "2016/11/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=U0JcpoD_JWc",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "U0JcpoD_JWc",
         "title": "AWS re:Invent 2014 | (BDT402) Performance Profiling: Analyze Web Requests @ Scale - EMR and Storm",
         "date": "2014/11/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=t97VJtPAL2s",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "t97VJtPAL2s",
         "title": "How do I resolve the error Container killed by YARN for exceeding memory limits in Spark on EMR?",
         "date": "2019/07/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=XZ6xWuX1hAE",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "XZ6xWuX1hAE",
         "title": "Build Your Web Analytics with node.js, Amazon DynamoDB and Amazon EMR (BDT203) | AWS re:Invent 2013",
         "date": "2013/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=aRn-ydiv0jw",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "aRn-ydiv0jw",
         "title": "Analytics Week | Build Data Engineering Platforms with Amazon EMR",
         "date": "2019/04/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-S5gs8AGKCw",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "-S5gs8AGKCw",
         "title": "Civitas Learning: Securely Transforming PII with Amazon EMR and Amazon Redshift",
         "date": "2017/01/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=SSWwnNVYi_Q",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "SSWwnNVYi_Q",
         "title": "NHS Digital: From 137 Minutes to 137 Seconds Using EMR",
         "date": "2019/03/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=w8O3m2-F9jk",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "w8O3m2-F9jk",
         "title": "Cisco Cloudlock: No AWS Console Access. Security Analysts Generate Reports on EMR Using Slack",
         "date": "2018/11/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Y3UXDtDR9bg",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "Y3UXDtDR9bg",
         "title": "Using Apache Hive With Amazon Elastic MapReduce - 1 of 2",
         "date": "2009/10/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ZSu8N2PoVbM",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "ZSu8N2PoVbM",
         "title": "EMR Training: MapReduce Lab (6 of 11)",
         "date": "2012/07/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=5lA93QzUny8",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "5lA93QzUny8",
         "title": "EMR Training: Dealing with Data (5 of 11)",
         "date": "2012/07/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=rKwvBeS3Z7E",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "rKwvBeS3Z7E",
         "title": "Big Data Visual Analytics with Netflix and MicroStrategy on Amazon EMR",
         "date": "2013/10/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=MMY5jhBtwHA",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "MMY5jhBtwHA",
         "title": "My Amazon EMR cluster failed to start with error bootstrap action returned a non-zero return code.",
         "date": "2020/08/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KfgCJufxI0M",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "KfgCJufxI0M",
         "title": "AWS re:Invent 2016: Best Practices for Apache Spark on Amazon EMR (BDM301)",
         "date": "2016/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=xwbKvmOxb8g",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "xwbKvmOxb8g",
         "title": "AWS Knowledge Center Videos: How do I run concurrent jobs in an EMR cluster using AWS Data Pipeline?",
         "date": "2016/12/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=a5D_bs7E3uc",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "a5D_bs7E3uc",
         "title": "Amazon Elastic MapReduce Deep Dive and Best Practices (BDT404) | AWS re:Invent 2013",
         "date": "2013/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=kInRKtcsC1Q",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "kInRKtcsC1Q",
         "title": "How do I resolve the java.lang.ClassNotFoundException in Spark on Amazon EMR?",
         "date": "2019/07/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=bUHdp2AJrbM",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "bUHdp2AJrbM",
         "title": "Civitas Learning: Securely Transforming PII with Amazon EMR and Amazon Redshift [PROMO]",
         "date": "2017/02/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=68gn4Vmxnv4",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "68gn4Vmxnv4",
         "title": "Deep Dive: Amazon Elastic MapReduce",
         "date": "2015/04/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Rqm5EZUlxK8",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "Rqm5EZUlxK8",
         "title": "Finbox to Process Credit for the Next Billion with Their Platform Using AWS Lambda, Amazon EMR",
         "date": "2019/06/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7eENkamwY7c",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "7eENkamwY7c",
         "title": "AWS re:Invent 2014 | (ADV303) MediaMath’s Data Revolution with Amazon Kinesis and Amazon EMR",
         "date": "2014/11/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=LuHxnOQarXU",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "LuHxnOQarXU",
         "title": "AWS re:Invent 2015 | (BDT314) A Big Data & Analytics App on Amazon EMR & Amazon Redshift",
         "date": "2015/10/16"
     },
     {
-        "url": "https://www.youtube.com/watch?v=RHfOZ1wn8Go",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "RHfOZ1wn8Go",
         "title": "AWS re:Invent 2015 | (BDT309) Data Science & Best Practices for Apache Spark on Amazon EMR",
         "date": "2015/10/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8Soi4KLNFao",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "8Soi4KLNFao",
         "title": "AWS Partner Webinar: Improve Your Cloud Performance with Amazon Elastic MapReduce",
         "date": "2013/09/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=aIwJlfEAlHQ",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "aIwJlfEAlHQ",
         "title": "AWS re:Invent 2019: [REPEAT 1] Deep dive into running Apache Spark on Amazon EMR (ANT308-R1)",
         "date": "2019/12/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=_ckNyL_Nr1A",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "_ckNyL_Nr1A",
         "title": "AWS re:Invent 2019: Insert, upsert, and delete data in Amazon S3 using Amazon EMR (ANT239)",
         "date": "2019/12/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=19sUvRzNOGQ",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "19sUvRzNOGQ",
         "title": "Amazon EMR Runtime for Apache Spark",
         "date": "2020/03/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=PkoYqp_6WTc",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "PkoYqp_6WTc",
         "title": "AWS re:Invent 2019: Using Amazon EMR to build a Spark ecosystem at Opendoor (STP302)",
         "date": "2019/12/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=TfgNzzaakNs",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "TfgNzzaakNs",
         "title": "AWS re:Invent 2019: Migrating Apache Spark and Hive from on-premises to Amazon EMR (ANT327-R1)",
         "date": "2019/12/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=AFszoJJerSs",
-        "thumbnail": "",
+        "service": "emr",
+        "videoId": "AFszoJJerSs",
         "title": "Amazon EMR Runtime for Apache Spark",
         "date": "2020/07/24"
-    }   
+    }
 ]

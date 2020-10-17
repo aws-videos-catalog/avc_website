@@ -1,55 +1,55 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=DGQGYgiYdnA",
-        "thumbnail": "",
+        "service": "workdocs",
+        "videoId": "DGQGYgiYdnA",
         "title": "Secure, Fully Managed, Content Creation, File Collaboration and Management with Amazon WorkDocs",
         "date": "2018/09/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=vIdw0_AzzDA",
-        "thumbnail": "",
+        "service": "workdocs",
+        "videoId": "vIdw0_AzzDA",
         "title": "AWS re:Invent 2018: Say Goodbye to Legacy Network File Shares with Amazon WorkDocs Drive (BAP208)",
         "date": "2018/11/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-YGoMEycSaQ",
-        "thumbnail": "",
+        "service": "workdocs",
+        "videoId": "-YGoMEycSaQ",
         "title": "How do I share a file or folder in WorkDocs?",
         "date": "2018/10/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=CrksS9-HITM",
-        "thumbnail": "",
+        "service": "workdocs",
+        "videoId": "CrksS9-HITM",
         "title": "How do I fix an Amazon WorkDocs Drive stuck at Authenticating user phase after logging in?",
         "date": "2019/05/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=wmZ0cMZpehI",
-        "thumbnail": "",
+        "service": "workdocs",
+        "videoId": "wmZ0cMZpehI",
         "title": "AWS re:Invent 2016: Store and collaborate on content with WorkDocs (BAP206)",
         "date": "2016/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=pmmDm_yRxu4",
-        "thumbnail": "",
+        "service": "workdocs",
+        "videoId": "pmmDm_yRxu4",
         "title": "Amazon WorkDocs: How to Lock and Unlock Files",
         "date": "2017/07/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=anuFhaL-oyA",
-        "thumbnail": "",
+        "service": "workdocs",
+        "videoId": "anuFhaL-oyA",
         "title": "Amazon Directory Services, Amazon WorkSpaces, Amazon WorkMail, and Amazon WorkDocs",
         "date": "2015/08/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KoxR3T2L-AU",
-        "thumbnail": "",
+        "service": "workdocs",
+        "videoId": "KoxR3T2L-AU",
         "title": "Enterprise Collaboration with the AWS Work Suite (119666)",
         "date": "2017/06/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=IhPGkdalG-s",
-        "thumbnail": "",
+        "service": "workdocs",
+        "videoId": "IhPGkdalG-s",
         "title": "AWS Summit 2015 | Singapore - Grow Your SMB Infrastructure on the AWS Cloud",
         "date": "2015/05/29"
     }

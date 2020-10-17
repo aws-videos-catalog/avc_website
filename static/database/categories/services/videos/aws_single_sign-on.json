@@ -1,68 +1,68 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=nuPjljOVZmU",
-        "thumbnail": "",
+        "service": "aws_single_sign-on",
+        "videoId": "nuPjljOVZmU",
         "title": "How to Setup AWS Single Sign On for Your On-Premise Active Directory Users",
         "date": "2018/11/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=_qNkFxp1Z_k",
-        "thumbnail": "",
+        "service": "aws_single_sign-on",
+        "videoId": "_qNkFxp1Z_k",
         "title": "AWS Single Sign-On: Centrally Manage SSO Access to Your AWS Accounts & Business Applications",
         "date": "2019/07/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=FbNkDjX5efE",
-        "thumbnail": "",
+        "service": "aws_single_sign-on",
+        "videoId": "FbNkDjX5efE",
         "title": "Demo of AWS Single Sign-On (SSO) with Azure Active Directory",
         "date": "2020/04/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=bXrsUEI1V38",
-        "thumbnail": "",
+        "service": "aws_single_sign-on",
+        "videoId": "bXrsUEI1V38",
         "title": "Manage User Access to Multiple AWS Accounts Using AWS Single Sign-on",
         "date": "2018/12/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=li_ISe96K9E",
-        "thumbnail": "",
+        "service": "aws_single_sign-on",
+        "videoId": "li_ISe96K9E",
         "title": "Demo: Basic AWS SSO Configuration",
         "date": "2020/05/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=n1OCinRg854",
-        "thumbnail": "",
+        "service": "aws_single_sign-on",
+        "videoId": "n1OCinRg854",
         "title": "How do I use AWS Single Sign-On permission sets?",
         "date": "2020/07/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=y_n9xN5mg1g",
-        "thumbnail": "",
+        "service": "aws_single_sign-on",
+        "videoId": "y_n9xN5mg1g",
         "title": "Provisioning Users in AWS Control Tower Using AWS SSO",
         "date": "2019/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=PH8AeL0V7Vo",
-        "thumbnail": "",
+        "service": "aws_single_sign-on",
+        "videoId": "PH8AeL0V7Vo",
         "title": "How do I get started with using AWS SSO and access the user portal?",
         "date": "2019/10/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=y_n9xN5mg1g",
-        "thumbnail": "",
+        "service": "aws_single_sign-on",
+        "videoId": "y_n9xN5mg1g",
         "title": "Provisioning Users in AWS Control Tower Using AWS SSO",
         "date": "2019/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=aEIqeFCcK7E",
-        "thumbnail": "",
+        "service": "aws_single_sign-on",
+        "videoId": "aEIqeFCcK7E",
         "title": "AWS re:Invent 2019: Managing user permissions at scale with AWS SSO (SEC308)",
         "date": "2019/12/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=9ILi8XFH7TI",
-        "thumbnail": "",
+        "service": "aws_single_sign-on",
+        "videoId": "9ILi8XFH7TI",
         "title": "AWS re:Invent 2019 Launchpad | AWS Single Sign-On",
         "date": "2020/03/17"
-    }   
+    }
 ]

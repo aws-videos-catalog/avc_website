@@ -1,67 +1,67 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=BiEbMJ86dGQ",
-        "thumbnail": "",
+        "service": "amazon_qldb",
+        "videoId": "BiEbMJ86dGQ",
         "title": "What is Amazon Quantum Ledger Database (QLDB)",
         "date": "2019/01/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=jcZ_rsLJrqk",
-        "thumbnail": "",
+        "service": "amazon_qldb",
+        "videoId": "jcZ_rsLJrqk",
         "title": "AWS QLDB Overview: Animated Explainer Video",
         "date": "2019/10/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=blIku5CWYzU",
-        "thumbnail": "",
+        "service": "amazon_qldb",
+        "videoId": "blIku5CWYzU",
         "title": "How Do I Know I Need a Ledger Database? An Introduction to Amazon QLDB",
         "date": "2019/01/31"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7Hlux1cpeDE",
-        "thumbnail": "",
+        "service": "amazon_qldb",
+        "videoId": "7Hlux1cpeDE",
         "title": "Dev Bytes Recap: QLDB/Blockchain Talk",
         "date": "2019/05/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=q002jbUuuSY",
-        "thumbnail": "",
+        "service": "amazon_qldb",
+        "videoId": "q002jbUuuSY",
         "title": "AWS re:Invent 2018 - Announcement of Amazon QLDB",
         "date": "2018/12/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7G9epn3BfqE",
-        "thumbnail": "",
+        "service": "amazon_qldb",
+        "videoId": "7G9epn3BfqE",
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Do I need a ledger database? An intro to Amazon QLDB (DAT370)",
         "date": "2018/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=bpUKtxa9sKA",
-        "thumbnail": "",
+        "service": "amazon_qldb",
+        "videoId": "bpUKtxa9sKA",
         "title": "What is Ledger Technology: Database or Blockchain?",
         "date": "2019/04/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ZfYDl4kaVCo",
-        "thumbnail": "",
+        "service": "amazon_qldb",
+        "videoId": "ZfYDl4kaVCo",
         "title": "AWS re:Invent 2019: Amazon QLDB: An engineer’s deep dive on why this is a game changer (DAT380)",
         "date": "2019/12/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=bmNBD_q38XU",
-        "thumbnail": "",
+        "service": "amazon_qldb",
+        "videoId": "bmNBD_q38XU",
         "title": "AWS re:Invent 2019: Managed Blockchain & Amazon QLDB in your solutions portfolio (GPSTEC339)",
         "date": "2019/12/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Ur0z0P7STlY",
-        "thumbnail": "",
+        "service": "amazon_qldb",
+        "videoId": "Ur0z0P7STlY",
         "title": "AWS re:Invent 2019 Launchpad | An Engineer's Perspective on Why we Built Amazon QLDB",
         "date": "2020/03/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=TMQuN0eqPck",
-        "thumbnail": "",
+        "service": "amazon_qldb",
+        "videoId": "TMQuN0eqPck",
         "title": "AWS re:Invent 2019: Why you need a ledger database: BMW, DVLA, & Sage discuss use cases (BLC203)",
         "date": "2019/12/05"
     }

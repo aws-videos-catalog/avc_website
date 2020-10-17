@@ -1,44 +1,44 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=8piwEQJJXdo",
-        "thumbnail": "",
+        "service": "amazon_macie",
+        "videoId": "8piwEQJJXdo",
         "title": "The New Amazon Macie - Demonstration",
         "date": "2020/09/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=LCjX2rsQ2wA",
-        "thumbnail": "",
+        "service": "amazon_macie",
+        "videoId": "LCjX2rsQ2wA",
         "title": "AWS re:Invent 2017: Amazon Macie: Data Visibility Powered by Machine Learning (SID325)",
         "date": "2017/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=3xzhW-2aD4s",
-        "thumbnail": "",
+        "service": "amazon_macie",
+        "videoId": "3xzhW-2aD4s",
         "title": "AWS Summit Series 2017 - New York: Introducing Amazon Macie",
         "date": "2017/08/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=VwGXXn0RhCM",
-        "thumbnail": "",
+        "service": "amazon_macie",
+        "videoId": "VwGXXn0RhCM",
         "title": "Using ML for Security at Scale with Amazon GuardDuty and Amazon Macie",
         "date": "2018/04/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=UV5vM2zBOp0",
-        "thumbnail": "",
+        "service": "amazon_macie",
+        "videoId": "UV5vM2zBOp0",
         "title": "AWS re:Invent 2017: Applying Intelligent Data Protection with Amazon Macie (DEM88)",
         "date": "2017/12/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=PVeDVz-5SRI",
-        "thumbnail": "",
+        "service": "amazon_macie",
+        "videoId": "PVeDVz-5SRI",
         "title": "Live from the NY Summit | Amazon Macie Launch",
         "date": "2017/08/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Awy04VNIFJg",
-        "thumbnail": "",
+        "service": "amazon_macie",
+        "videoId": "Awy04VNIFJg",
         "title": "ARG: How AWS Service Teams use Automated Reasoning for Security",
         "date": "2017/12/12"
-    }   
+    }
 ]

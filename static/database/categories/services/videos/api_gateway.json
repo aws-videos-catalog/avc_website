@@ -1,145 +1,145 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=XwfpPEFHKtQ",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "XwfpPEFHKtQ",
         "title": "Building APIs with Amazon API Gateway",
         "date": "2019/02/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=OOpysRU5TXQ",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "OOpysRU5TXQ",
         "title": "How do I integrate an AWS service by using API Gateway as a proxy?",
         "date": "2020/05/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ZFl3Qm-DBrg",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "ZFl3Qm-DBrg",
         "title": "AWS Summit San Francisco 2015: Introducing Amazon API Gatew",
         "date": "2015/07/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6KVYM7sKW7k",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "6KVYM7sKW7k",
         "title": "How do I use models in the API Gateway?",
         "date": "2020/05/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=UnoVqaTGwzM",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "UnoVqaTGwzM",
         "title": "How can I access an API Gateway private REST API in another account using an interface VPC endpoint?",
         "date": "2020/07/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KXyATZctkmQ",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "KXyATZctkmQ",
         "title": "How do I implement IAM authentication for APIs in API Gateway?",
         "date": "2019/06/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=VUxCJR1UG-Y",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "VUxCJR1UG-Y",
         "title": "How do I restrict access to my API Gateway via API Gateway resource policies?",
         "date": "2019/08/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=bj3yVT6j3XU",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "bj3yVT6j3XU",
         "title": "How do I authorize access to API Gateway APIs using custom scopes in Amazon Cognito?",
         "date": "2019/10/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=CEHC9crd2VU",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "CEHC9crd2VU",
         "title": "Building Happy Little APIs | E1 – I Didn’t Know Amazon API Gateway Did That",
         "date": "2019/04/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Dq2m2ZoZ234",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "Dq2m2ZoZ234",
         "title": "How do I set up API Gateway with my own CloudFront distribution?",
         "date": "2019/11/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ZBxWZ9bgd44",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "ZBxWZ9bgd44",
         "title": "AWS re:Invent 2015 | (DEV203) Amazon API Gateway & AWS Lambda to Build Secure and Scalable APIs",
         "date": "2015/10/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=R67huNjk88w",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "R67huNjk88w",
         "title": "How do I enable CloudWatch Logs while troubleshooting my API Gateway API?",
         "date": "2019/10/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=xjwIRaK6wcY",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "xjwIRaK6wcY",
         "title": "Datacom: Cutting Code with API Gateway Validation",
         "date": "2018/12/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=wbHXH8dzgyI",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "wbHXH8dzgyI",
         "title": "Announcement: API Gateway Canary Release Deployments, CodeDeploy Serverless & Lambda",
         "date": "2017/12/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=eUCaJ3dHvnc",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "eUCaJ3dHvnc",
         "title": "AWS NY Summit - API Gateway: New Releases, Features, and How to Create Private APIs",
         "date": "2018/07/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=2LT5mHqKL7g",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "2LT5mHqKL7g",
         "title": "Amazon API Gateway | Support for Importing Swagger Definitions",
         "date": "2016/05/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=BWAfW69RqR4",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "BWAfW69RqR4",
         "title": "Which HTTP method should I use to invoke Lambda in my API Gateway API with Lambda integration?",
         "date": "2019/11/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=NM1UsOm1-Bc",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "NM1UsOm1-Bc",
         "title": "Amazon API Gateway Usage Plans",
         "date": "2016/08/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-0EG17oVxV0",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "-0EG17oVxV0",
         "title": "AWS Sydney Summit 2018: Creating an API Gateway Custom Authorizer in .NET Core 2.0",
         "date": "2018/05/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=UB7vH9ZyrBI",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "UB7vH9ZyrBI",
         "title": "I get an internal server error when I call a Lambda function via API Gateway using a stage variable.",
         "date": "2020/05/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-fjeIV4Fhrc",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "-fjeIV4Fhrc",
         "title": "AWS Summit Series 2015 | Barcelona: Amazon API Gateway",
         "date": "2015/12/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8UA6HQU-9NM",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "8UA6HQU-9NM",
         "title": "How to Get Started with Serverless Using Amazon API Gateway and AWS Lambda",
         "date": "2018/07/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=yfJZc3sJZ8E",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "yfJZc3sJZ8E",
         "title": "AWS re:Invent 2019: [REPEAT 2] I didn’t know Amazon API Gateway did that (SVS212-R2)",
         "date": "2019/12/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=cc_pKfDOH2E",
-        "thumbnail": "",
+        "service": "api_gateway",
+        "videoId": "cc_pKfDOH2E",
         "title": "AWS re:Invent 2019: [REPEAT 2] Building APIs from front to back (SVS402-R2)",
         "date": "2019/12/10"
     }

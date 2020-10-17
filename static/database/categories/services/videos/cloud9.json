@@ -1,55 +1,55 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=JDHZOGMMkj8",
-        "thumbnail": "",
+        "service": "cloud9",
+        "videoId": "JDHZOGMMkj8",
         "title": "Introduction to AWS Cloud9",
         "date": "2019/01/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ynmU5qy82Vg",
-        "thumbnail": "",
+        "service": "cloud9",
+        "videoId": "ynmU5qy82Vg",
         "title": "Using AWS Cloud9 to Edit, Debug, and Deploy a Lambda Function",
         "date": "2019/01/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=OxQUo3kwTEA",
-        "thumbnail": "",
+        "service": "cloud9",
+        "videoId": "OxQUo3kwTEA",
         "title": "AWS ANZ Webinar Series - Introducing AWS Cloud9",
         "date": "2018/09/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=fwFoU_Wb-fU",
-        "thumbnail": "",
+        "service": "cloud9",
+        "videoId": "fwFoU_Wb-fU",
         "title": "AWS re:Invent 2017 - Introducing AWS Cloud9: Werner Vogels Keynote",
         "date": "2017/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=NNqVBo9k8n4",
-        "thumbnail": "",
+        "service": "cloud9",
+        "videoId": "NNqVBo9k8n4",
         "title": "AWS re:Invent Launchpad 2017 - AWS Cloud9",
         "date": "2017/12/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=B-nbl0qYsQg",
-        "thumbnail": "",
+        "service": "cloud9",
+        "videoId": "B-nbl0qYsQg",
         "title": "AWS Sydney Summit 2018: AWS Cloud9 and Codestar",
         "date": "2018/05/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=UFtKfwIyntg",
-        "thumbnail": "",
+        "service": "cloud9",
+        "videoId": "UFtKfwIyntg",
         "title": "Streamline Your Serverless Development with AWS Codestar and AWS Cloud9 (Level 200)",
         "date": "2018/08/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=3ZdvbGArONk",
-        "thumbnail": "",
+        "service": "cloud9",
+        "videoId": "3ZdvbGArONk",
         "title": "Setting Up a .NET and PowerShell Development Environment with AWS Cloud9 and Amazon EC2",
         "date": "2018/06/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=wA2ltwauvRw",
-        "thumbnail": "",
+        "service": "cloud9",
+        "videoId": "wA2ltwauvRw",
         "title": "Truffle: Build and Deploy Ethereum Smart Contracts with Truffle and AWS Cloud9",
         "date": "2020/03/20"
     }

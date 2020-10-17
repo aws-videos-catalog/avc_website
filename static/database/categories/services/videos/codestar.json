@@ -1,43 +1,43 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=fpBzrRH66Dc",
-        "thumbnail": "",
+        "service": "codestar",
+        "videoId": "fpBzrRH66Dc",
         "title": "AWS CodeStar - Unified Interface to Accelerate Your Software Delivery (Level 300)",
         "date": "2017/12/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=B-nbl0qYsQg",
-        "thumbnail": "",
+        "service": "codestar",
+        "videoId": "B-nbl0qYsQg",
         "title": "AWS Sydney Summit 2018: AWS Cloud9 and Codestar",
         "date": "2018/05/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=vm1mhsykKLc",
-        "thumbnail": "",
+        "service": "codestar",
+        "videoId": "vm1mhsykKLc",
         "title": "AWS Summit Tel Aviv 2017: Introducing CodeStar and the AWS CI/CD workflow",
         "date": "2017/07/31"
     },
     {
-        "url": "https://www.youtube.com/watch?v=pIaB7wSSReU",
-        "thumbnail": "",
+        "service": "codestar",
+        "videoId": "pIaB7wSSReU",
         "title": "NEW LAUNCH! AWS CodeStar: The Central Experience to Quickly Start Developing Applications on AWS",
         "date": "2017/04/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ldcIskfVzW4",
-        "thumbnail": "",
+        "service": "codestar",
+        "videoId": "ldcIskfVzW4",
         "title": "AWS for Microsoft Workloads: CD/CI for .NET applications in AWS CodeStar",
         "date": "2018/06/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=98ZgwshEMXA",
-        "thumbnail": "",
+        "service": "codestar",
+        "videoId": "98ZgwshEMXA",
         "title": "AWS Summit Series 2017 - San Francisco: Announcing AWS CodeStar",
         "date": "2017/04/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=dE-3QkNryKg",
-        "thumbnail": "",
+        "service": "codestar",
+        "videoId": "dE-3QkNryKg",
         "title": "Alexa Skills Workshop : Advanced Hands-On Learning (Codestar)",
         "date": "2019/05/24"
     }

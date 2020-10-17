@@ -1,13 +1,13 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=Q6EJE3ndOqI",
-        "thumbnail": "",
+        "service": "application_discovery_service",
+        "videoId": "Q6EJE3ndOqI",
         "title": "AWS Summit Series 2016 | Chicago - AWS Application Discovery Service",
         "date": "2016/04/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=TYiqPrCA4fc",
-        "thumbnail": "",
+        "service": "application_discovery_service",
+        "videoId": "TYiqPrCA4fc",
         "title": "AWS Application Discovery Service",
         "date": "2016/04/20"
     }

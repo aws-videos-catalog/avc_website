@@ -1,43 +1,43 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=daLvEb44d5Q",
-        "thumbnail": "",
+        "service": "control_tower",
+        "videoId": "daLvEb44d5Q",
         "title": "What is AWS Control Tower?",
         "date": "2019/06/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=-n65I4M8cas",
-        "thumbnail": "",
+        "service": "control_tower",
+        "videoId": "-n65I4M8cas",
         "title": "Enable AWS Control Tower for Existing Organizations",
         "date": "2020/06/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=2t-VkWt0rKk",
-        "thumbnail": "",
+        "service": "control_tower",
+        "videoId": "2t-VkWt0rKk",
         "title": "AWS re:Inforce 2019: Using AWS Control Tower to Govern Multi-Account AWS Environments (GRC313-R)",
         "date": "2019/06/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=t0gxOsByOlA",
-        "thumbnail": "",
+        "service": "control_tower",
+        "videoId": "t0gxOsByOlA",
         "title": "Programmatically Create an AWS Account with AWS Control Tower",
         "date": "2019/12/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=y_n9xN5mg1g",
-        "thumbnail": "",
+        "service": "control_tower",
+        "videoId": "y_n9xN5mg1g",
         "title": "Provisioning Users in AWS Control Tower Using AWS SSO",
         "date": "2019/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KUGP3N7kEdw",
-        "thumbnail": "",
+        "service": "control_tower",
+        "videoId": "KUGP3N7kEdw",
         "title": "AWS re:Inforce 2019: Mitigate Misconfigurations with AWS Service Catalog and Control Tower (FND311)",
         "date": "2019/06/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=wocz0drq8-8",
-        "thumbnail": "",
+        "service": "control_tower",
+        "videoId": "wocz0drq8-8",
         "title": "Enable AWS Firewall Manager in an AWS Control Tower Environment",
         "date": "2020/03/02"
     }

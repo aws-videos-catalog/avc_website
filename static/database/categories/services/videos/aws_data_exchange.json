@@ -1,44 +1,44 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=Lu9QVJ0Rml4",
-        "thumbnail": "",
+        "service": "aws_data_exchange",
+        "videoId": "Lu9QVJ0Rml4",
         "title": "AWS Data Exchange",
         "date": "2019/11/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=gi9m6sHVvkg",
-        "thumbnail": "",
+        "service": "aws_data_exchange",
+        "videoId": "gi9m6sHVvkg",
         "title": "AWS re:Invent 2019: AWS Data Exchange: Find & subscribe to third-party data in the cloud (ANT238-R)",
         "date": "2019/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KgxTClsHSr4",
-        "thumbnail": "",
+        "service": "aws_data_exchange",
+        "videoId": "KgxTClsHSr4",
         "title": "AWS re:Invent 2019: Deep dive on using AWS Data Exchange for ML and data analytics (MKT212)",
         "date": "2019/12/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=oW51xHZPIOc",
-        "thumbnail": "",
+        "service": "aws_data_exchange",
+        "videoId": "oW51xHZPIOc",
         "title": "AWS re:Invent 2019 Launchpad | AWS Data Exchange",
         "date": "2020/03/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ieO2O41hf5k",
-        "thumbnail": "",
+        "service": "aws_data_exchange",
+        "videoId": "ieO2O41hf5k",
         "title": "AWS Summit Online ASEAN 2020 | AWS Data Exchange: Find & Subscribe to Third-party Data in the Cloud",
         "date": "2020/08/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=kYmsyCquIyE",
-        "thumbnail": "",
+        "service": "aws_data_exchange",
+        "videoId": "kYmsyCquIyE",
         "title": "AWS re:Invent 2019: Easily find & subscribe to third-party data in the cloud (ANT238-R1)",
         "date": "2019/12/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ka2UwFrvOhk",
-        "thumbnail": "",
+        "service": "aws_data_exchange",
+        "videoId": "ka2UwFrvOhk",
         "title": "AWS re:Invent 2019: Enabling AI at enterprise scale (DEM125)",
         "date": "2019/12/05"
-    }   
+    }
 ]

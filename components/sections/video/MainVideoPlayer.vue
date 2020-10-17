@@ -30,7 +30,7 @@ export default {
 
   computed: {
     embeddedUrl () {
-      return 'https://www.youtube.com/embed/' + this.video.id
+      return 'https://www.youtube.com/embed/' + this.video.videoId
     },
 
     formattedDate () {

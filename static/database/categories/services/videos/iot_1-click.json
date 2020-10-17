@@ -1,25 +1,25 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=vqq6_iid7y8",
-        "thumbnail": "",
+        "service": "iot_1-click",
+        "videoId": "vqq6_iid7y8",
         "title": "AWS re:Invent 2017: NEW LAUNCH! Introducing AWS IoT 1-Click (IOT213)",
         "date": "2017/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=vjNYKjthwcM",
-        "thumbnail": "",
+        "service": "iot_1-click",
+        "videoId": "vjNYKjthwcM",
         "title": "AWS re:Invent 2017 - Announcing AWS IoT 1-Click",
         "date": "2017/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=yDlNfKTSt9Y",
-        "thumbnail": "",
+        "service": "iot_1-click",
+        "videoId": "yDlNfKTSt9Y",
         "title": "AWS re:Invent Launchpad 2017 - AWS IoT 1-Click",
         "date": "2017/12/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Qbk2fnMmQ8k",
-        "thumbnail": "",
+        "service": "iot_1-click",
+        "videoId": "Qbk2fnMmQ8k",
         "title": "AWS re:Invent 2016: 1-Click Enterprise Innovation with the AWS IoT Button (IOT203)",
         "date": "2016/12/03"
     }

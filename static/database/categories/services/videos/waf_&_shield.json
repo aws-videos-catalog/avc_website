@@ -1,158 +1,158 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=-ft8Ijg6kxE",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "-ft8Ijg6kxE",
         "title": "How do I use AWS WAF to block requests with missing or no User-Agent?",
         "date": "2019/12/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=gVidCv6fTV4",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "gVidCv6fTV4",
         "title": "How do I configure AWS WAF comprehensive logging?",
         "date": "2019/12/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=0wPKtlxaqUM",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "0wPKtlxaqUM",
         "title": "Solving with AWS Solutions: AWS WAF Security Automations",
         "date": "2020/04/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=mjtWhX3IXlg",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "mjtWhX3IXlg",
         "title": "Automating DDoS and AWS WAF Response",
         "date": "2018/05/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=lU_zPruIL9w",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "lU_zPruIL9w",
         "title": "Advanced Techniques for Securing Your Web Applications with AWS WAF and AWS Shield",
         "date": "2018/04/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=d5F5NIsECFM",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "d5F5NIsECFM",
         "title": "How do I troubleshoot False Positives with AWS WAF?",
         "date": "2020/05/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=wpMmh4F1PyA",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "wpMmh4F1PyA",
         "title": "Gain Rapid Threat Protection with Automated DDoS and WAF Solutions",
         "date": "2019/08/16"
     },
     {
-        "url": "https://www.youtube.com/watch?v=UJA1qVw5IK0",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "UJA1qVw5IK0",
         "title": "F5: Autoscale WAF",
         "date": "2017/11/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=HnoZS5jj7pk",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "HnoZS5jj7pk",
         "title": "Best Practices for DDoS Mitigation on AWS",
         "date": "2018/04/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=GUAZaqlVi4o",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "GUAZaqlVi4o",
         "title": "Barracuda WAF: Scalable Security for Applications on AWS",
         "date": "2016/11/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=yWSn5E6WQug",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "yWSn5E6WQug",
         "title": "AWS re:Invent 2015 | (SEC323) NEW LAUNCH! Securing Web Applications with AWS WAF",
         "date": "2015/10/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=FOw0xWHcJsc",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "FOw0xWHcJsc",
         "title": "AWS Web Application Firewall | Support for Cross-Site Scripting Match Conditioning",
         "date": "2016/05/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=_tGb100o_xA",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "_tGb100o_xA",
         "title": "AWS re:Invent Launchpad 2017 - Announcement: WAF Partner Rules",
         "date": "2017/12/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=oysmpdr3w58",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "oysmpdr3w58",
         "title": "AWS re:Invent 2017: NEW LAUNCH! Introduction to Managed Rules for AWS WAF (SID217)",
         "date": "2017/12/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=d0EE1HuZSEU",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "d0EE1HuZSEU",
         "title": "William Hill: High-performance DDOS Protection with AWS",
         "date": "2020/01/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Yju3yReAQtc",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "Yju3yReAQtc",
         "title": "Fortinet Uses AWS Serverless to Provide a Highly Available Control-Plane for their FortiWeb CloudWAF",
         "date": "2020/01/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=iUySElA_i-g",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "iUySElA_i-g",
         "title": "AWS Summit Series 2016 | Chicago - Secure Content Delivery Using Amazon CloudFront and AWS WAF",
         "date": "2016/04/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=qUoyTumxcjk",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "qUoyTumxcjk",
         "title": "AWS Firewall Manager",
         "date": "2018/04/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KtwCYxIvink",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "KtwCYxIvink",
         "title": "AWS Summit San Francisco 2018 - Announcing AWS Firewall Manager",
         "date": "2018/04/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=GqPmdiTmgc4",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "GqPmdiTmgc4",
         "title": "AWS re:Invent 2019 Launchpad | Building Secure Web Application Defense AWS WAF & AWS Managed Rules",
         "date": "2020/03/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=llTu49RNXw0",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "llTu49RNXw0",
         "title": "AWS re:Invent 2019: Using Amazon CloudFront, AWS WAF, and Lambda@Edge to keep spammers out (CMY303)",
         "date": "2019/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=R06GDQBbtRU",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "R06GDQBbtRU",
         "title": "AWS re:Invent 2016: NEW LAUNCH! AWS Shield—A Managed DDoS Protection Service (SAC322)",
         "date": "2016/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=HnoZS5jj7pk",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "HnoZS5jj7pk",
         "title": "Best Practices for DDoS Mitigation on AWS",
         "date": "2018/04/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=d0EE1HuZSEU",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "d0EE1HuZSEU",
         "title": "William Hill: High-performance DDOS Protection with AWS",
         "date": "2020/01/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=lU_zPruIL9w",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "lU_zPruIL9w",
         "title": "Advanced Techniques for Securing Your Web Applications with AWS WAF and AWS Shield",
         "date": "2018/04/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=jMirtdSrIhE",
-        "thumbnail": "",
+        "service": "waf_&_shield",
+        "videoId": "jMirtdSrIhE",
         "title": "AWS re:Invent 2017: Adopting Microservices in Healthcare: Building a Compliant DevOp (HLC302)",
         "date": "2017/11/28"
-    }   
+    }
 ]

@@ -1,91 +1,91 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=oVo-IKiM8Xk",
-        "thumbnail": "",
+        "service": "amazon_transcribe",
+        "videoId": "oVo-IKiM8Xk",
         "title": "AWS re:Invent 2017 - Introducing Amazon Transcribe",
         "date": "2017/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KQtVK2VzETk",
-        "thumbnail": "",
+        "service": "amazon_transcribe",
+        "videoId": "KQtVK2VzETk",
         "title": "Automate for Efficiency with Amazon Transcribe & Amazon Translate",
         "date": "2018/08/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=jE5ey8UM56g",
-        "thumbnail": "",
+        "service": "amazon_transcribe",
+        "videoId": "jE5ey8UM56g",
         "title": "AWS San Francisco Summit 2018 - Amazon Transcribe is Now Generally Available",
         "date": "2018/04/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=LSiyJG7htFs",
-        "thumbnail": "",
+        "service": "amazon_transcribe",
+        "videoId": "LSiyJG7htFs",
         "title": "How to Transcribe Speech to Text with a Sample ASP.NET Core Application and Amazon Transcribe",
         "date": "2020/08/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=jihc4nAWy14",
-        "thumbnail": "",
+        "service": "amazon_transcribe",
+        "videoId": "jihc4nAWy14",
         "title": "Modernize Your Contact Center with AI: Gain Valuable Insights by Transcribing Recordings",
         "date": "2019/01/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=nnKXxFNiYQg",
-        "thumbnail": "",
+        "service": "amazon_transcribe",
+        "videoId": "nnKXxFNiYQg",
         "title": "Turn Your Words into Pictures with Amazon Transcribe & Amazon Comprehend",
         "date": "2019/05/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=qKABTMSr6L4",
-        "thumbnail": "",
+        "service": "amazon_transcribe",
+        "videoId": "qKABTMSr6L4",
         "title": "Amazon Transcribe - Now Generally Available",
         "date": "2018/05/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=hbDd-s8ohM8",
-        "thumbnail": "",
+        "service": "amazon_transcribe",
+        "videoId": "hbDd-s8ohM8",
         "title": "Echo360 Brings the Power of Machine Learning to the Classroom with Amazon Transcribe",
         "date": "2018/10/11"
     },
     {
-        "url": "https://www.youtube.com/watch?v=VmScqDBQ6lU",
-        "thumbnail": "",
+        "service": "amazon_transcribe",
+        "videoId": "VmScqDBQ6lU",
         "title": "AWS re:Invent Launchpad 2017 - Amazon Transcribe",
         "date": "2018/05/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=1ZJ_f1bDdog",
-        "thumbnail": "",
+        "service": "amazon_transcribe",
+        "videoId": "1ZJ_f1bDdog",
         "title": "AWS re:Invent 2017: NEW LAUNCH! Introducing Amazon Transcribe – Now in Preview (MCL215)",
         "date": "2017/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7QnhGeWsXFM",
-        "thumbnail": "",
+        "service": "amazon_transcribe",
+        "videoId": "7QnhGeWsXFM",
         "title": "Serverless Speech-to-Text using S3 and Lambda",
         "date": "2020/04/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=5LERC9skDt8",
-        "thumbnail": "",
+        "service": "amazon_transcribe",
+        "videoId": "5LERC9skDt8",
         "title": "AWS Summit San Francisco 2018 - Amazon Transcribe Now Generally Available",
         "date": "2018/04/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=oXq_ldpP_Nw",
-        "thumbnail": "",
+        "service": "amazon_transcribe",
+        "videoId": "oXq_ldpP_Nw",
         "title": "AWS San Francisco Summit 2018 - Echo360",
         "date": "2018/04/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=HRxOzWMbQBw",
-        "thumbnail": "",
+        "service": "amazon_transcribe",
+        "videoId": "HRxOzWMbQBw",
         "title": "Building Serverless Machine Learning Workflows (Level 300)",
         "date": "2019/04/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=W_fDlbFlf14",
-        "thumbnail": "",
+        "service": "amazon_transcribe",
+        "videoId": "W_fDlbFlf14",
         "title": "AWS re:Invent 2019: [NEW LAUNCH!] Amazon Transcribe Medical: Transforming Healthcare w/ AI (AIM210)",
         "date": "2019/12/13"
     }

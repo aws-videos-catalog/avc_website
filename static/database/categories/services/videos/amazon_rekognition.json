@@ -1,187 +1,187 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=v662kWVBmdc",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "v662kWVBmdc",
         "title": "Extract Data from Images and Videos with Amazon Rekognition (Level 300)",
         "date": "2018/08/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=jFgtImmEH7w",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "jFgtImmEH7w",
         "title": "AWS re:Invent 2018: [REPEAT 1] Deep Dive on Amazon Rekognition, ft. Pinterest (AIM307-R1)",
         "date": "2018/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=D1gj_9aKRJU",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "D1gj_9aKRJU",
         "title": "AWS re:Invent 2017 - Introducing Amazon Rekognition",
         "date": "2017/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8F_zxuOcTsY",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "8F_zxuOcTsY",
         "title": "Visual Analysis with Amazon Rekognition",
         "date": "2018/11/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=nuRwUuT5Iww",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "nuRwUuT5Iww",
         "title": "AWS re:Invent 2017: Deep Dive on Amazon Rekognition Architectures for Image Analysis (MCL318)",
         "date": "2017/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=h6k-cQXLB-w",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "h6k-cQXLB-w",
         "title": "Automatically Extract Metadata with Amazon Rekognition",
         "date": "2018/08/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ttncG4gKIno",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "ttncG4gKIno",
         "title": "AWS re:Invent 2016: Amazon Rekognition: Deep Learning-Based Image Recognition",
         "date": "2016/12/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=nZ3mwrzxyNo",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "nZ3mwrzxyNo",
         "title": "Amazon Launch Update: Amazon Rekognition",
         "date": "2017/04/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=UO0hGTvqLUs",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "UO0hGTvqLUs",
         "title": "Using Amazon Translate, Amazon Polly, and Amazon Rekognition with .NET",
         "date": "2019/10/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KcMvZ2MAGUw",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "KcMvZ2MAGUw",
         "title": "How to Build .NET Application using Amazon Rekognition",
         "date": "2018/11/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KJB6qhvrg0w",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "KJB6qhvrg0w",
         "title": "AWS re:Invent Launchpad 2017 - Amazon Rekognition",
         "date": "2017/12/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=0rqIUAH7Br4",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "0rqIUAH7Br4",
         "title": "AWS What's Next ft. Amazon Rekognition Video for Media Analysis",
         "date": "2020/08/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=_mdby-8Ano8",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "_mdby-8Ano8",
         "title": "How Woo Uses Amazon Rekognition to Improve the Dating Experience",
         "date": "2019/02/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=LF0cMXDbmDs",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "LF0cMXDbmDs",
         "title": "AWS re:Invent 2017: NEW LAUNCH! Amazon Rekognition Video eliminates manual catalogin (MCL339)",
         "date": "2017/12/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=yNVmUevq04I",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "yNVmUevq04I",
         "title": "AWS re:Invent 2018: [REPEAT] Deep Dive on Amazon Rekognition, ft. Tinder & News UK (AIM307-R)",
         "date": "2018/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=jDQesbX8Wb8",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "jDQesbX8Wb8",
         "title": "AWS re:Invent 2017: NEW LAUNCH! Feature updates for Amazon Rekognition (MCL336)",
         "date": "2017/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=2VyhWfZOzZQ",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "2VyhWfZOzZQ",
         "title": "How Orahi Uses Amazon Rekognition to Improve the Education Standards at Schools",
         "date": "2019/02/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=fk-TxySUAzw",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "fk-TxySUAzw",
         "title": "AWS re:Invent 2016: NEW LAUNCH! Introducing Amazon Rekognition (MAC203)",
         "date": "2016/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7XmyGDMdZV4",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "7XmyGDMdZV4",
         "title": "GrayMeta: Real Time Celebrity Identification at the Royal Wedding Using Amazon Rekognition",
         "date": "2018/09/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Yj513sy2rCw",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "Yj513sy2rCw",
         "title": "Live from the London Loft | Introducing Amazon Rekognition and Amazon Polly",
         "date": "2017/10/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=SHKUYn-QgS0",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "SHKUYn-QgS0",
         "title": "Visual Analysis dengan Amazon Rekognition",
         "date": "2018/11/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=fN26OsNFJh4",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "fN26OsNFJh4",
         "title": "Live Coding with AWS: Recognizing Celebrities with Rekognition",
         "date": "2017/07/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=BTRBezrVUqg",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "BTRBezrVUqg",
         "title": "Kablamo: Bringing Media Metadata to Life with Amazon Rekognition",
         "date": "2019/04/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Zqk3DzNpd0E",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "Zqk3DzNpd0E",
         "title": "AWS re:Invent 2017: Making IoT Devices Smarter with Amazon Rekognition (MCL306)",
         "date": "2017/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=9jkNWrGtxFA",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "9jkNWrGtxFA",
         "title": "AWS re:Invent 2017: Unlocking Media Workflows Using Amazon Rekognition (MCL314)",
         "date": "2017/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=S0KI9YRvusM",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "S0KI9YRvusM",
         "title": "AWS re:Invent 2018: Use Amazon Rekognition to Power Video Creative Asset Production (ADT202)",
         "date": "2018/11/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=aWrRuPoiSfM",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "aWrRuPoiSfM",
         "title": "Chicago Summit 2018 - Amazon Rekognition: Deep Learning-Based Image and Video Analysis",
         "date": "2018/08/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=chQ1phTqvnY",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "chQ1phTqvnY",
         "title": "Hi.Res.Cam: High Performance Object Detection with AWS Lambda, Rekognition & TensorFlow (German)",
         "date": "2019/06/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=S0KI9YRvusM",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "S0KI9YRvusM",
         "title": "AWS re:Invent 2018: Use Amazon Rekognition to Power Video Creative Asset Production (ADT202)",
         "date": "2018/11/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=g-vQGUEKrOg",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "g-vQGUEKrOg",
         "title": "AWS Summit Series 2017 - San Francisco: Amazon Rekognition Now Supports Automatic Image Moderation",
         "date": "2017/04/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Kqv6HpsOfUQ",
-        "thumbnail": "",
+        "service": "amazon_rekognition",
+        "videoId": "Kqv6HpsOfUQ",
         "title": "AWS re:Invent 2019: Media discovery and compliance with Amazon Rekognition (AIM232)",
         "date": "2019/12/09"
     }

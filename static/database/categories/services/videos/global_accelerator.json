@@ -1,37 +1,37 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=L-mmnEbiTmc",
-        "thumbnail": "",
+        "service": "global_accelerator",
+        "videoId": "L-mmnEbiTmc",
         "title": "AWS New York Summit 2019: Introduction to AWS Global Accelerator (SVC212)",
         "date": "2019/07/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=kRtUcdwK0pw",
-        "thumbnail": "",
+        "service": "global_accelerator",
+        "videoId": "kRtUcdwK0pw",
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] Introduction to AWS Global Accelerator (NET330)",
         "date": "2018/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=bJ2LnuMABKg",
-        "thumbnail": "",
+        "service": "global_accelerator",
+        "videoId": "bJ2LnuMABKg",
         "title": "Introducing AWS Global Accelerator and Elastic Fabric Adapter",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Docl4julOQw",
-        "thumbnail": "",
+        "service": "global_accelerator",
+        "videoId": "Docl4julOQw",
         "title": "AWS Global Accelerator - Improve Global Application Availability and Performance for Your Traffic",
         "date": "2020/08/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=u5AT15mgbHk",
-        "thumbnail": "",
+        "service": "global_accelerator",
+        "videoId": "u5AT15mgbHk",
         "title": "The Trade Desk: Real-time Ad Bidding in the Cloud with AWS Global Accelerator (LIVE)",
         "date": "2020/01/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=3ud_LLpzOAE",
-        "thumbnail": "",
+        "service": "global_accelerator",
+        "videoId": "3ud_LLpzOAE",
         "title": "AWS re:Invent 2019: Building highly available applications using Global Accelerator (NET318-R1)",
         "date": "2019/12/05"
     }

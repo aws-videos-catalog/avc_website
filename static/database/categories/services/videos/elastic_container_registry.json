@@ -1,13 +1,13 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=Gk_7TR1QAss",
-        "thumbnail": "https://i.ytimg.com/vi/Gk_7TR1QAss/hqdefault.jpg",
+        "service": "elastic_container_registry",
+        "videoId": "Gk_7TR1QAss",
         "title": "AWS re:Invent 2016: Amazon ECR Deep Dive on Image Optimization (CON401)",
         "date": "2016/12/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Jh9N9utfY7Y",
-        "thumbnail": "https://i.ytimg.com/vi/Jh9N9utfY7Y/hqdefault.jpg",
+        "service": "elastic_container_registry",
+        "videoId": "Jh9N9utfY7Y",
         "title": "AWS Cloud Containers Conference - Security Best Practices with Amazon ECR",
         "date": "2020/08/07"
     }

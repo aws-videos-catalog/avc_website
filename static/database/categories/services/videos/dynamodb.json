@@ -1,631 +1,631 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=DIQVJqiSUkE",
-        "thumbnail": "https://i.ytimg.com/vi/DIQVJqiSUkE/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "DIQVJqiSUkE",
         "title": "AWS re:Invent 2019: Data modeling with Amazon DynamoDB (CMY304)",
         "date": "2019/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6yqfmXiZTlM",
-        "thumbnail": "https://i.ytimg.com/vi/6yqfmXiZTlM/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "6yqfmXiZTlM",
         "title": "AWS re:Invent 2019: [REPEAT 1] Amazon DynamoDB deep dive: Advanced design patterns (DAT403-R1)",
         "date": "2019/12/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=zUsJK5pe_A0",
-        "thumbnail": "https://i.ytimg.com/vi/zUsJK5pe_A0/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "zUsJK5pe_A0",
         "title": "AWS re:Invent 2019: Scale fearlessly with Amazon DynamoDB adaptive capacity (DAT304)",
         "date": "2019/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=QuiFFssuztw",
-        "thumbnail": "https://i.ytimg.com/vi/QuiFFssuztw/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "QuiFFssuztw",
         "title": "Using Amazon DynamoDB to Connect Customers & Service Professionals",
         "date": "2020/01/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=dMnnNMCt2RI",
-        "thumbnail": "https://i.ytimg.com/vi/dMnnNMCt2RI/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "dMnnNMCt2RI",
         "title": "Serverless Office Hours - Item-level Permissions in Amazon DynamoDB",
         "date": "2020/04/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=iN6mhI5hFt4",
-        "thumbnail": "https://i.ytimg.com/vi/iN6mhI5hFt4/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "iN6mhI5hFt4",
         "title": "AWS re:Invent 2019: How Uber stores financial transactions in ledgers using Amazon DynamoDB (DAT319)",
         "date": "2019/12/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=DInYm0YWS4w",
-        "thumbnail": "https://i.ytimg.com/vi/DInYm0YWS4w/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "DInYm0YWS4w",
         "title": "AWS re:Invent 2019: Norton Storage Platform’s journey from Cassandra to Amazon DynamoDB (DAT371)",
         "date": "2019/12/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=FwWT6a3ikZ4",
-        "thumbnail": "https://i.ytimg.com/vi/FwWT6a3ikZ4/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "FwWT6a3ikZ4",
         "title": "AWS re:Invent 2019: How Verizon Media implemented push notification using Amazon DynamoDB (DAT205)",
         "date": "2019/12/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=msxD0bTFu2A",
-        "thumbnail": "https://i.ytimg.com/vi/msxD0bTFu2A/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "msxD0bTFu2A",
         "title": "AWS re:Invent 2019: Build your next microservices application with modern AWS services (ENT308-S)",
         "date": "2019/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=fuDZq-EspNA",
-        "thumbnail": "https://i.ytimg.com/vi/fuDZq-EspNA/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "fuDZq-EspNA",
         "title": "AWS re:Invent 2019: SaaS tenant isolation patterns (ARC372-P)",
         "date": "2019/12/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=HaEPXoXVf2k",
-        "thumbnail": "https://i.ytimg.com/vi/HaEPXoXVf2k/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "HaEPXoXVf2k",
         "title": "AWS re:Invent 2018: Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (DAT401)",
         "date": "2018/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=sI-zciHAh-4",
-        "thumbnail": "https://i.ytimg.com/vi/sI-zciHAh-4/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "sI-zciHAh-4",
         "title": "What is Amazon DynamoDB?",
         "date": "2018/10/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=W3S1OnDqWl4",
-        "thumbnail": "https://i.ytimg.com/vi/W3S1OnDqWl4/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "W3S1OnDqWl4",
         "title": "Build with DynamoDB | S1 E1 – Intro to Amazon DynamoDB",
         "date": "2019/04/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=yvBR71D0nAQ",
-        "thumbnail": "https://i.ytimg.com/vi/yvBR71D0nAQ/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "yvBR71D0nAQ",
         "title": "AWS re:Invent 2018: Amazon DynamoDB Under the Hood: How We Built a Hyper-Scale Database (DAT321)",
         "date": "2018/11/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Rmf8mrJ3X2s",
-        "thumbnail": "https://i.ytimg.com/vi/Rmf8mrJ3X2s/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "Rmf8mrJ3X2s",
         "title": "Build On DynamoDB | S1 E2 – Intro to NoSQL Data Modeling with Amazon DynamoDB",
         "date": "2019/05/16"
     },
     {
-        "url": "https://www.youtube.com/watch?v=nhUtZ7suZWI",
-        "thumbnail": "https://i.ytimg.com/vi/nhUtZ7suZWI/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "nhUtZ7suZWI",
         "title": "Build with DynamoDB | S1 E4 – Advanced NoSQL Data Modeling with Amazon DynamoDB",
         "date": "2019/06/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=mcZwJQ7O8iw",
-        "thumbnail": "https://i.ytimg.com/vi/mcZwJQ7O8iw/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "mcZwJQ7O8iw",
         "title": "Build with DynamoDB | S1 E5 – A Data Modeling Use Case Deep Dive",
         "date": "2019/06/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=jzeKPKpucS0",
-        "thumbnail": "https://i.ytimg.com/vi/jzeKPKpucS0/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "jzeKPKpucS0",
         "title": "AWS re:Invent 2017: [REPEAT] Advanced Design Patterns for Amazon DynamoDB (DAT403-R)",
         "date": "2017/12/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=KlhS7hSnFYs",
-        "thumbnail": "https://i.ytimg.com/vi/KlhS7hSnFYs/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "KlhS7hSnFYs",
         "title": "Build with DynamoDB | S1 E3 – NoSQL Data Modeling with Amazon DynamoDB",
         "date": "2019/05/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=R1IXFTXll7E",
-        "thumbnail": "https://i.ytimg.com/vi/R1IXFTXll7E/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "R1IXFTXll7E",
         "title": "How to Migrate from Apache Cassandra to Amazon DynamoDB and Save 60%",
         "date": "2019/04/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=nSKCtouRGhs",
-        "thumbnail": "https://i.ytimg.com/vi/nSKCtouRGhs/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "nSKCtouRGhs",
         "title": "AWS re:Invent 2018: Protecting Your Greatest Asset: Security Best Practices on DynamoDB (DAT303)",
         "date": "2018/11/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=eTbBdXJq8ss",
-        "thumbnail": "https://i.ytimg.com/vi/eTbBdXJq8ss/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "eTbBdXJq8ss",
         "title": "AWS re:Invent 2018: A Deep Dive into What's New for Amazon DynamoDB (DAT201)",
         "date": "2018/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=tDqLwzQEOmM",
-        "thumbnail": "https://i.ytimg.com/vi/tDqLwzQEOmM/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "tDqLwzQEOmM",
         "title": "AWS re:Invent 2014: From Zero to NoSQL Hero - Amazon DynamoDB Tutorial (BDT203)",
         "date": "2014/11/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=R-KS_sZRJ2w",
-        "thumbnail": "https://i.ytimg.com/vi/R-KS_sZRJ2w/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "R-KS_sZRJ2w",
         "title": "Designing for scale - three steps to optimal data performance using DynamoDB and Redshift",
         "date": "2013/09/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=u6SBkDAs_Gg",
-        "thumbnail": "https://i.ytimg.com/vi/u6SBkDAs_Gg/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "u6SBkDAs_Gg",
         "title": "How do I set up DynamoDB TTL?",
         "date": "2019/12/16"
     },
     {
-        "url": "https://www.youtube.com/watch?v=IvPuDFSE-S4",
-        "thumbnail": "https://i.ytimg.com/vi/IvPuDFSE-S4/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "IvPuDFSE-S4",
         "title": "Scaling From Zero to Billions with DynamoDB [Branch Metrics]",
         "date": "2019/04/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=hNAWdXaW0Fs",
-        "thumbnail": "https://i.ytimg.com/vi/hNAWdXaW0Fs/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "hNAWdXaW0Fs",
         "title": "AWS for Microsoft Workloads: Using Amazon DynamoDB with .NET",
         "date": "2018/06/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=fhnAvn2YxZA",
-        "thumbnail": "https://i.ytimg.com/vi/fhnAvn2YxZA/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "fhnAvn2YxZA",
         "title": "Duolingo Stores 31 Billion Items on Amazon DynamoDB and Uses AWS to Deliver Language Lessons",
         "date": "2016/04/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=J8GJ4b4jLGI",
-        "thumbnail": "https://i.ytimg.com/vi/J8GJ4b4jLGI/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "J8GJ4b4jLGI",
         "title": "Healint: Handling Large Volumes of Sensor Data Using Amazon SQS and Amazon DynamoDB",
         "date": "2018/09/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=IgFvWaSQaeg",
-        "thumbnail": "https://i.ytimg.com/vi/IgFvWaSQaeg/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "IgFvWaSQaeg",
         "title": "Building Modern Apps Using Amazon DynamoDB Transactions",
         "date": "2019/01/31"
     },
     {
-        "url": "https://www.youtube.com/watch?v=1CN0y2bfHac",
-        "thumbnail": "https://i.ytimg.com/vi/1CN0y2bfHac/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "1CN0y2bfHac",
         "title": "Introducing DynamoDB On-Demand",
         "date": "2018/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=sphOT_e4WJ8",
-        "thumbnail": "https://i.ytimg.com/vi/sphOT_e4WJ8/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "sphOT_e4WJ8",
         "title": "NEW LAUNCH! DynamoDB Just Got Faster: Deep Dive on DAX and More",
         "date": "2017/04/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Yj2LAL8mbPI",
-        "thumbnail": "https://i.ytimg.com/vi/Yj2LAL8mbPI/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "Yj2LAL8mbPI",
         "title": "How do I prepare my environment to work with the AWS CLI and DynamoDB?",
         "date": "2018/07/31"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6A1tOFqvgek",
-        "thumbnail": "https://i.ytimg.com/vi/6A1tOFqvgek/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "6A1tOFqvgek",
         "title": "AWS re:Invent 2018: Becoming a Nimble Giant: How Amazon DynamoDB Serves Nike at Scale (DAT320)",
         "date": "2018/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=AgL6x1Qnq_c",
-        "thumbnail": "https://i.ytimg.com/vi/AgL6x1Qnq_c/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "AgL6x1Qnq_c",
         "title": "How to Use AWS CloudFormation to Configure Auto Scaling for Amazon DynamoDB Tables and Indexes",
         "date": "2018/03/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=WUleQzu9l_8",
-        "thumbnail": "https://i.ytimg.com/vi/WUleQzu9l_8/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "WUleQzu9l_8",
         "title": "AWS re:Invent 2017: Snapchat Stories on Amazon DynamoDB (DAT325)",
         "date": "2017/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ZMkLhD8OxYQ",
-        "thumbnail": "https://i.ytimg.com/vi/ZMkLhD8OxYQ/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "ZMkLhD8OxYQ",
         "title": "Integrating Amazon DynamoDB DAX into Your ASP.NET Application",
         "date": "2018/11/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=wjJ3Dkl6VS4",
-        "thumbnail": "https://i.ytimg.com/vi/wjJ3Dkl6VS4/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "wjJ3Dkl6VS4",
         "title": "AWSLIVE: Introducing Amazon DynamoDB, a fully managed NoSQL database service",
         "date": "2012/01/18"
     },
     {
-        "url": "https://www.youtube.com/watch?v=wNatYTAyheA",
-        "thumbnail": "https://i.ytimg.com/vi/wNatYTAyheA/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "wNatYTAyheA",
         "title": "Amazon DynamoDB Point-in-time Recovery",
         "date": "2018/04/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=XByPxb_VvpY",
-        "thumbnail": "https://i.ytimg.com/vi/XByPxb_VvpY/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "XByPxb_VvpY",
         "title": "AWS re:Invent 2015 | (DEV303) Practical DynamoDB Programming in Java",
         "date": "2015/10/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=gllNauRR8GM",
-        "thumbnail": "https://i.ytimg.com/vi/gllNauRR8GM/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "gllNauRR8GM",
         "title": "AWS re:Invent 2016: Migrating a Scalable Database from Oracle to DynamoDB (ARC404)",
         "date": "2016/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=eEAAx89oDdk",
-        "thumbnail": "https://i.ytimg.com/vi/eEAAx89oDdk/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "eEAAx89oDdk",
         "title": "AWS re:Invent 2018: Migrating Your NoSQL Database to Amazon DynamoDB (DAT314)",
         "date": "2018/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=5KWh1F24sJE",
-        "thumbnail": "https://i.ytimg.com/vi/5KWh1F24sJE/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "5KWh1F24sJE",
         "title": "VPC Endpoints for Amazon DynamoDB",
         "date": "2017/08/16"
     },
     {
-        "url": "https://www.youtube.com/watch?v=3mf9fnkjVtU",
-        "thumbnail": "https://i.ytimg.com/vi/3mf9fnkjVtU/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "3mf9fnkjVtU",
         "title": "carsales.com: Processing DynamoDB Streams Reliably and at Scale with .NET Core 2.1 in AWS Lambda",
         "date": "2018/12/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8OfX1218MFo",
-        "thumbnail": "https://i.ytimg.com/vi/8OfX1218MFo/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "8OfX1218MFo",
         "title": "Office Hours Database Deep Dive | S1 E2 – Scaling Up with DynamoDB",
         "date": "2019/05/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=9iphbb0w-ig",
-        "thumbnail": "https://i.ytimg.com/vi/9iphbb0w-ig/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "9iphbb0w-ig",
         "title": "Using Amazon DynamoDb for ASP.NET Framework Session State",
         "date": "2018/11/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=RlKndm22bXw",
-        "thumbnail": "https://i.ytimg.com/vi/RlKndm22bXw/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "RlKndm22bXw",
         "title": "Using Amazon Elastic MapReduce (EMR) to Export and Analyze DynamoDB Data",
         "date": "2012/07/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=f0sE_dNrimU",
-        "thumbnail": "https://i.ytimg.com/vi/f0sE_dNrimU/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "f0sE_dNrimU",
         "title": "Serverless Data Import to DynamoDB using S3 and Lambda",
         "date": "2020/04/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ziqm6q-JsGQ",
-        "thumbnail": "https://i.ytimg.com/vi/ziqm6q-JsGQ/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "ziqm6q-JsGQ",
         "title": "AWS Builders' Day | DynamoDB and Schema Design",
         "date": "2018/12/19"
     },
     {
-        "url": "https://www.youtube.com/watch?v=iKrKfY2IcZQ",
-        "thumbnail": "https://i.ytimg.com/vi/iKrKfY2IcZQ/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "iKrKfY2IcZQ",
         "title": "Amazon DynamoDB April 2016 Day at the NY Loft - DynamoDB Design Patterns and Best Practices",
         "date": "2016/06/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=PYDmx_8csJ4",
-        "thumbnail": "https://i.ytimg.com/vi/PYDmx_8csJ4/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "PYDmx_8csJ4",
         "title": "AWS re:Invent Launchpad 2017 - DynamoDB Backup-Restore & Global Tables",
         "date": "2017/12/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=eTbBdXJq8ss",
-        "thumbnail": "https://i.ytimg.com/vi/eTbBdXJq8ss/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "eTbBdXJq8ss",
         "title": "AWS re:Invent 2018: A Deep Dive into What's New for Amazon DynamoDB (DAT201)",
         "date": "2018/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=tTQ36qQF_vA",
-        "thumbnail": "https://i.ytimg.com/vi/tTQ36qQF_vA/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "tTQ36qQF_vA",
         "title": "AWS Solutions: Multi-Region Availability with Amazon DynamoDB, Amazon S3, and Amazon Cognito (LIVE)",
         "date": "2020/01/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=yHSuK_k3dxU",
-        "thumbnail": "https://i.ytimg.com/vi/yHSuK_k3dxU/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "yHSuK_k3dxU",
         "title": "AWS re:Invent 2014 | (SDD424) Simplifying Scalable Distributed Applications Using DynamoDB Streams",
         "date": "2014/11/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=hH1oc8q2nFQ",
-        "thumbnail": "https://i.ytimg.com/vi/hH1oc8q2nFQ/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "hH1oc8q2nFQ",
         "title": "Auto Scaling for Amazon DynamoDB",
         "date": "2017/07/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=n9pMxdUbBGs",
-        "thumbnail": "https://i.ytimg.com/vi/n9pMxdUbBGs/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "n9pMxdUbBGs",
         "title": "Massive Message Processing with Amazon SQS and Amazon DynamoDB (ARC301) | AWS re:Invent 2013",
         "date": "2013/11/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=RBfWk3a6Lus",
-        "thumbnail": "https://i.ytimg.com/vi/RBfWk3a6Lus/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "RBfWk3a6Lus",
         "title": "AWS re:Invent 2015 | (BDT313) Amazon DynamoDB for Big Data",
         "date": "2015/10/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Oa2ptw5LsOs",
-        "thumbnail": "https://i.ytimg.com/vi/Oa2ptw5LsOs/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "Oa2ptw5LsOs",
         "title": "AWS Seattle Big Data Meetup | DynamoDB Streams and Cross-region Replication",
         "date": "2016/06/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=bEkj6KzfClo",
-        "thumbnail": "https://i.ytimg.com/vi/bEkj6KzfClo/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "bEkj6KzfClo",
         "title": "Amazon DynamoDB June 2016 Day at the SF Loft - From SQL to DynamoDB",
         "date": "2016/07/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=WlTbaPXj-jc",
-        "thumbnail": "https://i.ytimg.com/vi/WlTbaPXj-jc/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "WlTbaPXj-jc",
         "title": "Lyft Easily Scales Up its Ride Location Tracking System with Amazon DynamoDB",
         "date": "2016/09/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8KKNMy-EYxA",
-        "thumbnail": "https://i.ytimg.com/vi/8KKNMy-EYxA/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "8KKNMy-EYxA",
         "title": "AWS re:Invent 2016: Streaming ETL for RDS and DynamoDB (DAT315)",
         "date": "2016/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=EFDDjzIGxA0",
-        "thumbnail": "https://i.ytimg.com/vi/EFDDjzIGxA0/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "EFDDjzIGxA0",
         "title": "AWS re:Invent 2017: DynamoDB - What's new (DAT304)",
         "date": "2017/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=h_u3Ig5Cpv0",
-        "thumbnail": "https://i.ytimg.com/vi/h_u3Ig5Cpv0/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "h_u3Ig5Cpv0",
         "title": "AWS re: Invent TLS 305: Using Amazon DynamoDB Effectively with the AWS SDK for PHP",
         "date": "2012/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=weWRdSqrxfs",
-        "thumbnail": "https://i.ytimg.com/vi/weWRdSqrxfs/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "weWRdSqrxfs",
         "title": "AWS Summit Series 2017 - San Francisco: Announcing Amazon DynamoDB Accelerator (DAX)",
         "date": "2017/04/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ws2BnVYSFsg",
-        "thumbnail": "https://i.ytimg.com/vi/ws2BnVYSFsg/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "ws2BnVYSFsg",
         "title": "Amazon DynamoDB June 2016 Day at the SF Loft - Deep Dive on Amazon DynamoDB",
         "date": "2016/07/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=QfFSfFWromU",
-        "thumbnail": "https://i.ytimg.com/vi/QfFSfFWromU/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "QfFSfFWromU",
         "title": "AWS re:Invent 2016: Migrating from RDBMS to NoSQL: How Sony Moved from MySQL to DynamoDB (DAT318)",
         "date": "2016/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=eyUalcd_Ks0",
-        "thumbnail": "https://i.ytimg.com/vi/eyUalcd_Ks0/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "eyUalcd_Ks0",
         "title": "Production NoSQL in an Hour: Introduction to Amazon DynamoDB (DAT101) | AWS re:Invent 2013",
         "date": "2013/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=83-IWlvJ__8",
-        "thumbnail": "https://i.ytimg.com/vi/83-IWlvJ__8/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "83-IWlvJ__8",
         "title": "AWS re:Invent 2017: How DynamoDB Powered Amazon Prime Day 2017 (DAT326)",
         "date": "2017/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=HTrL72k_tX4",
-        "thumbnail": "https://i.ytimg.com/vi/HTrL72k_tX4/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "HTrL72k_tX4",
         "title": "AWS re: Invent MBL 301: Data Persistence to Amazon DynamoDB for Mobile Apps",
         "date": "2012/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=FjleVmtkfWE",
-        "thumbnail": "https://i.ytimg.com/vi/FjleVmtkfWE/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "FjleVmtkfWE",
         "title": "Amazon DynamoDB January 2016 Day at the SF Loft | Build a Location-Aware Recommendation Engine",
         "date": "2016/03/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=J8GJ4b4jLGI",
-        "thumbnail": "https://i.ytimg.com/vi/J8GJ4b4jLGI/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "J8GJ4b4jLGI",
         "title": "Healint: Handling Large Volumes of Sensor Data Using Amazon SQS and Amazon DynamoDB",
         "date": "2018/09/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7sZmhFonEUo",
-        "thumbnail": "https://i.ytimg.com/vi/7sZmhFonEUo/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "7sZmhFonEUo",
         "title": "Live Coding with AWS: Serverless Data with Amazon DynamoDB",
         "date": "2017/04/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=9ZrdllxR43Q",
-        "thumbnail": "https://i.ytimg.com/vi/9ZrdllxR43Q/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "9ZrdllxR43Q",
         "title": "AWS Summit Tel Aviv 2019 | No Hassle NoSQL - Amazon DynamoDB & Amazon DocumentDB",
         "date": "2019/03/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=XZ6xWuX1hAE",
-        "thumbnail": "https://i.ytimg.com/vi/XZ6xWuX1hAE/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "XZ6xWuX1hAE",
         "title": "Build Your Web Analytics with node.js, Amazon DynamoDB and Amazon EMR (BDT203) | AWS re:Invent 2013",
         "date": "2013/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=9HFxDjyebn8",
-        "thumbnail": "https://i.ytimg.com/vi/9HFxDjyebn8/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "9HFxDjyebn8",
         "title": "AWS re: Invent DAT 102: Introduction to Amazon DynamoDB",
         "date": "2012/12/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Ibl7u0xhRQw",
-        "thumbnail": "https://i.ytimg.com/vi/Ibl7u0xhRQw/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "Ibl7u0xhRQw",
         "title": "AWS DevDays Nordics - Building Global Serverless Backends Powered by DynamoDB Global Tables",
         "date": "2018/01/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Lq4aNihcS8A",
-        "thumbnail": "https://i.ytimg.com/vi/Lq4aNihcS8A/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "Lq4aNihcS8A",
         "title": "AWS re:Invent 2017: Tinder and DynamoDB: It's a Match! Massive Data Migration, Zero (DAT328)",
         "date": "2017/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=g1Yk0E6sslg",
-        "thumbnail": "https://i.ytimg.com/vi/g1Yk0E6sslg/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "g1Yk0E6sslg",
         "title": "SmugMug: From MySQL to Amazon DynamoDB (DAT204) | AWS re:Invent 2013",
         "date": "2013/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=8xzYOAnU_-U",
-        "thumbnail": "https://i.ytimg.com/vi/8xzYOAnU_-U/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "8xzYOAnU_-U",
         "title": "AWS Summit Series 2015 | Tel Aviv: Amazon DynamoDB",
         "date": "2015/06/2015"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ul7M3zVcse4",
-        "thumbnail": "https://i.ytimg.com/vi/ul7M3zVcse4/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "ul7M3zVcse4",
         "title": "AWS Summit 2012 | India - DynamoDB & Relational Database Services Deep Dive - Sundar Raghavan",
         "date": "2012/10/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=kMY0_m29YzU",
-        "thumbnail": "https://i.ytimg.com/vi/kMY0_m29YzU/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "kMY0_m29YzU",
         "title": "AWS re:Invent 2017: DynamoDB adaptive capacity: smooth performance for chaotic workl (DAT327)",
         "date": "2017/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=uLM4sj7-KT0",
-        "thumbnail": "https://i.ytimg.com/vi/uLM4sj7-KT0/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "uLM4sj7-KT0",
         "title": "AWS Builders' Day | Building Global Serverless Backends powered by Amazon DynamoDB Global Tables",
         "date": "2018/02/14"
     },
     {
-        "url": "https://www.youtube.com/watch?v=HCfoKyoimOg",
-        "thumbnail": "https://i.ytimg.com/vi/HCfoKyoimOg/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "HCfoKyoimOg",
         "title": "AWS re:Invent 2018: How Oath Built a Multi-Region GDPR Application with Amazon DynamoDB (DAT325)",
         "date": "2018/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=evKrNTw1nr4",
-        "thumbnail": "https://i.ytimg.com/vi/evKrNTw1nr4/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "evKrNTw1nr4",
         "title": "Live Coding with AWS: Building 'SayIt' with Polly, DynamoDB, API Gateway and Lambda",
         "date": "2017/06/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=6A1tOFqvgek",
-        "thumbnail": "https://i.ytimg.com/vi/6A1tOFqvgek/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "6A1tOFqvgek",
         "title": "AWS re:Invent 2018: Becoming a Nimble Giant: How Amazon DynamoDB Serves Nike at Scale (DAT320)",
         "date": "2018/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=rKeS3RpMEOw",
-        "thumbnail": "https://i.ytimg.com/vi/rKeS3RpMEOw/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "rKeS3RpMEOw",
         "title": "Infor: Serverless Application Testing with AWS Lambda, Amazon SWF and Amazon DynamoDB",
         "date": "2017/04/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=GWNeKo5eJRM",
-        "thumbnail": "https://i.ytimg.com/vi/GWNeKo5eJRM/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "GWNeKo5eJRM",
         "title": "AWS KC Videos: How can I monitor the progress of a global secondary index in DynamoDB?",
         "date": "2016/11/16"
     },
     {
-        "url": "https://www.youtube.com/watch?v=LxPo9zerrQI",
-        "thumbnail": "https://i.ytimg.com/vi/LxPo9zerrQI/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "LxPo9zerrQI",
         "title": "Build with Amazon Sumerian | S3 E8 – Integrating AWS Services - Lex, Lambda, & DynamoDB",
         "date": "2019/02/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=HZptUWuc2tA",
-        "thumbnail": "https://i.ytimg.com/vi/HZptUWuc2tA/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "HZptUWuc2tA",
         "title": "Amazon DynamoDB June 2016 Day at the SF Loft | Montage",
         "date": "2016/07/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=nNNWDVwKoRI",
-        "thumbnail": "https://i.ytimg.com/vi/nNNWDVwKoRI/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "nNNWDVwKoRI",
         "title": "AWS re: Invent DAT 302: Under the Covers of Amazon DynamoDB",
         "date": "2012/12/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=kSGQBDSg-GQ",
-        "thumbnail": "https://i.ytimg.com/vi/kSGQBDSg-GQ/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "kSGQBDSg-GQ",
         "title": "AWS re:Invent 2017: Expedia flies with DynamoDB: lightning fast stream processing fo (DAT324)",
         "date": "2017/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=JT2xOYOdUvM",
-        "thumbnail": "https://i.ytimg.com/vi/JT2xOYOdUvM/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "JT2xOYOdUvM",
         "title": "AWS re:Invent 2015 | (GAM401) Build a Serverless Mobile Game with Amazon Cognito, Lambda & DynamoDB",
         "date": "2015/10/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=82VXz_p7cj4",
-        "thumbnail": "https://i.ytimg.com/vi/82VXz_p7cj4/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "82VXz_p7cj4",
         "title": "Precision Exams Saves 30% by Moving Database to Amazon DynamoDB",
         "date": "2015/05/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=hwTXTFYtExo",
-        "thumbnail": "https://i.ytimg.com/vi/hwTXTFYtExo/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "hwTXTFYtExo",
         "title": "AWS Webcast - Four Tips for Faster Development With DynamoDB",
         "date": "2013/10/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=YiaPjILR9zw",
-        "thumbnail": "https://i.ytimg.com/vi/YiaPjILR9zw/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "YiaPjILR9zw",
         "title": "Redfin Uses Amazon DynamoDB to Accelerate Lookups of Similar Listings From 2 Secs to 12 Milliseconds",
         "date": "2016/01/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=liHbeghc5EI",
-        "thumbnail": "https://i.ytimg.com/vi/liHbeghc5EI/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "liHbeghc5EI",
         "title": "AWS Summit Series 2017 - SF: Announcing VPC Endpoints for Amazon DynamoDB, Now in Public Preview",
         "date": "2017/04/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=QY_akeaP0gQ",
-        "thumbnail": "https://i.ytimg.com/vi/QY_akeaP0gQ/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "QY_akeaP0gQ",
         "title": "Amazon DynamoDB April 2016 Day at the NY Loft - Optimizing DynamoDB with CloudCheckr",
         "date": "2016/06/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ERLxMXYZWxM",
-        "thumbnail": "https://i.ytimg.com/vi/ERLxMXYZWxM/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "ERLxMXYZWxM",
         "title": "Amazon DynamoDB April 2016 Day at the NY Loft - Real-time Streaming Data on AWS",
         "date": "2016/06/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7sAlRx5zb34",
-        "thumbnail": "https://i.ytimg.com/vi/7sAlRx5zb34/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "7sAlRx5zb34",
         "title": "AWS re:Invent 2018: Why GE Aviation Migrated from Cassandra to Amazon DynamoDB (DAT332)",
         "date": "2018/11/27"
     },
     {
-        "url": "https://www.youtube.com/watch?v=37Zkoh4tdFg",
-        "thumbnail": "https://i.ytimg.com/vi/37Zkoh4tdFg/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "37Zkoh4tdFg",
         "title": "How Relationship Science Expands From Zero Using Elasticache, SQS, and DynamoDB",
         "date": "2018/08/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=AAk1dsKY1Mc",
-        "thumbnail": "https://i.ytimg.com/vi/AAk1dsKY1Mc/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "AAk1dsKY1Mc",
         "title": "Live with AM & Nicki - Persist Data with DynamoDB",
         "date": "2018/10/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=RJCpjRTvo_w",
-        "thumbnail": "https://i.ytimg.com/vi/RJCpjRTvo_w/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "RJCpjRTvo_w",
         "title": "Massive Message Processing with Amazon SQS and Amazon DynamoDB (ARC301) | AWS re:Invent 2013",
         "date": "2013/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7plkSUN6DAE",
-        "thumbnail": "https://i.ytimg.com/vi/7plkSUN6DAE/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "7plkSUN6DAE",
         "title": "AWS re:Invent 2017: Optimizing Serverless Application Data Tiers with Amazon DynamoD (SRV301)",
         "date": "2017/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=FYUwLaUz7TA",
-        "thumbnail": "https://i.ytimg.com/vi/FYUwLaUz7TA/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "FYUwLaUz7TA",
         "title": "AWS re:Invent 2016: Telltale Games migrates its story analytics from CouchDB to DynamoDB (DAT316)",
         "date": "2016/12/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=lDiI0JMf_yQ",
-        "thumbnail": "https://i.ytimg.com/vi/lDiI0JMf_yQ/hqdefault.jpg",
+        "service": "dynamodb",
+        "videoId": "lDiI0JMf_yQ",
         "title": "AWS re:Invent 2016: How DataXu scaled its System to handle billions of events with DynamoDB (DAT312)",
         "date": "2016/12/02"
     }

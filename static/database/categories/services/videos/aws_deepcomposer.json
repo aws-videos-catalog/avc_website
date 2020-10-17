@@ -1,14 +1,14 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=XH2EbK9dQlg",
-        "thumbnail": "",
+        "service": "aws_deepcomposer",
+        "videoId": "XH2EbK9dQlg",
         "title": "Announcing AWS DeepComposer with Dr. Matt Wood, feat. Jonathan Coulton",
         "date": "2019/12/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=2vdg_45HsTo",
-        "thumbnail": "",
+        "service": "aws_deepcomposer",
+        "videoId": "2vdg_45HsTo",
         "title": "AWS DeepComposer - Jonathan Coulton Performance at AWS re:Invent 2019",
         "date": "2019/12/02"
-    }   
+    }
 ]

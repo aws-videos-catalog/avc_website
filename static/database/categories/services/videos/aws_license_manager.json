@@ -1,43 +1,43 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=ikL5Axehutk",
-        "thumbnail": "",
+        "service": "aws_license_manager",
+        "videoId": "ikL5Axehutk",
         "title": "Manage Software Licenses with AWS License Manager",
         "date": "2019/10/16"
     },
     {
-        "url": "https://www.youtube.com/watch?v=bmyizvdYYsQ",
-        "thumbnail": "",
+        "service": "aws_license_manager",
+        "videoId": "bmyizvdYYsQ",
         "title": "Introduction to AWS License Manager",
         "date": "2019/02/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=XXld4atfQ-0",
-        "thumbnail": "",
+        "service": "aws_license_manager",
+        "videoId": "XXld4atfQ-0",
         "title": "Enforce License Rules with AWS License Manager",
         "date": "2019/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=kukiDf9Ilcc",
-        "thumbnail": "",
+        "service": "aws_license_manager",
+        "videoId": "kukiDf9Ilcc",
         "title": "Simplify your BYOL Experience with Dedicated Host Management Capabilities in AWS License Manager",
         "date": "2020/05/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=r7pdaM3OAAQ",
-        "thumbnail": "",
+        "service": "aws_license_manager",
+        "videoId": "r7pdaM3OAAQ",
         "title": "AWS re:Invent 2018: [NEW LAUNCH!] AWS License Manager Deep Dive (CMP393)",
         "date": "2018/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=BjiX41VKZ_c",
-        "thumbnail": "",
+        "service": "aws_license_manager",
+        "videoId": "BjiX41VKZ_c",
         "title": "Manage Licenses Across Multiple AWS Accounts with AWS License Manager",
         "date": "2019/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ENj8Utp_3xY",
-        "thumbnail": "",
+        "service": "aws_license_manager",
+        "videoId": "ENj8Utp_3xY",
         "title": "Microsoft Licensing on AWS",
         "date": "2020/04/06"
     }

@@ -1,5 +1,4 @@
 import fs from 'fs'
-import { getYoutubeIdFromVideoLink } from '../utils/videos'
 import services from '../static/database/categories/services/index.json'
 import { caseTitleToSnake } from '../utils/text'
 
@@ -8,7 +7,7 @@ import { caseTitleToSnake } from '../utils/text'
  * @param path
  * @returns {{}|any}
  */
-function loadStaticJson (path) {
+export function loadStaticJson (path) {
   try {
     const jsonFile = fs.readFileSync(path)
 
@@ -29,12 +28,8 @@ function loadStaticJson (path) {
  */
 function generateServiceVideosPaths (videosData, servicePath) {
   return videosData.reduce((result, videoData) => {
-    if (videoData.url) {
-      const videoId = getYoutubeIdFromVideoLink(videoData.url)
-
-      if (videoId) {
-        result.push(`${servicePath}/${videoId}`)
-      }
+    if (videoData.videoId) {
+      result.push(`${servicePath}/${videoData.videoId}`)
     }
 
     return result

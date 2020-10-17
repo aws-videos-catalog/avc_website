@@ -1,104 +1,104 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=6tBp2JuYmSg",
-        "thumbnail": "",
+        "service": "data_pipeline",
+        "videoId": "6tBp2JuYmSg",
         "title": "Data Pipelines with AWS Glue (Level 200)",
         "date": "2018/08/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ziorTgT0Zac",
-        "thumbnail": "",
+        "service": "data_pipeline",
+        "videoId": "ziorTgT0Zac",
         "title": "AWS re:Invent BDT 201: AWS Data Pipeline: A guided tour",
         "date": "2012/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=0qAoKh3ghLI",
-        "thumbnail": "",
+        "service": "data_pipeline",
+        "videoId": "0qAoKh3ghLI",
         "title": "Basic Troubleshooting with AWS Data Pipeline",
         "date": "2013/07/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=uNAmsoLed1E",
-        "thumbnail": "",
+        "service": "data_pipeline",
+        "videoId": "uNAmsoLed1E",
         "title": "Bajaj Housing Finance Limited: Serverless Data Pipelines with AWS Glue and Amazon Aurora PGSQL",
         "date": "2019/11/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=rsh5F66wI9c",
-        "thumbnail": "",
+        "service": "data_pipeline",
+        "videoId": "rsh5F66wI9c",
         "title": "Process Web Logs with AWS Data Pipeline, Amazon EMR, and Hive",
         "date": "2013/07/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=npPGAlNJXlU",
-        "thumbnail": "",
+        "service": "data_pipeline",
+        "videoId": "npPGAlNJXlU",
         "title": "Big Data Integration & Analytics Data Flows with AWS Data Pipeline (BDT207) | AWS re:Invent 2013",
         "date": "2013/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=oOIgMSv2rug",
-        "thumbnail": "",
+        "service": "data_pipeline",
+        "videoId": "oOIgMSv2rug",
         "title": "AWS re:Invent 2014 | (BDT303) Construct ETL Pipeline w/ AWS Data Pipeline, Amazon EMR & Redshift",
         "date": "2014/11/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=OLDILtIqI_M",
-        "thumbnail": "",
+        "service": "data_pipeline",
+        "videoId": "OLDILtIqI_M",
         "title": "Unravel: Migrating and Scaling Data Pipelines with AI on Amazon EMR, Redshift & Athena",
         "date": "2019/04/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=9_jC8z5UgvQ",
-        "thumbnail": "",
+        "service": "data_pipeline",
+        "videoId": "9_jC8z5UgvQ",
         "title": "How Dots Uses AWS Data Pipeline to Punch Above Its Weight",
         "date": "2018/07/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=YGNu6SLCk50",
-        "thumbnail": "",
+        "service": "data_pipeline",
+        "videoId": "YGNu6SLCk50",
         "title": "AWS re:Invent 2016: JustGiving: Serverless Data Pipelines, ETL & Stream Processing (BDM303)",
         "date": "2016/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=AaRawf9vcZ4",
-        "thumbnail": "",
+        "service": "data_pipeline",
+        "videoId": "AaRawf9vcZ4",
         "title": "AWS re:Invent 2017: How Nextdoor Built a Scalable, Serverless Data Pipeline for Bill (SRV319)",
         "date": "2017/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=xwbKvmOxb8g",
-        "thumbnail": "",
+        "service": "data_pipeline",
+        "videoId": "xwbKvmOxb8g",
         "title": "AWS Knowledge Center Videos: How do I run concurrent jobs in an EMR cluster using AWS Data Pipeline?",
         "date": "2016/12/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=nR6FVwpiUSo",
-        "thumbnail": "",
+        "service": "data_pipeline",
+        "videoId": "nR6FVwpiUSo",
         "title": "Deploying the 'League of Legends' Data Pipeline with Chef (ARC205) | AWS re:Invent 2013",
         "date": "2013/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=NLCLoJnhDOM",
-        "thumbnail": "",
+        "service": "data_pipeline",
+        "videoId": "NLCLoJnhDOM",
         "title": "AWS re:Invent 2015 | (BDT404) Large-Scale ETL Data Flows w/AWS Data Pipeline & Dataduct",
         "date": "2015/10/12"
     },
     {
-        "url": "https://www.youtube.com/watch?v=iFeb7wL4ch8",
-        "thumbnail": "",
+        "service": "data_pipeline",
+        "videoId": "iFeb7wL4ch8",
         "title": "How do I create an SNS notification that includes error information for a Data Pipeline activity?",
         "date": "2020/05/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=2SGOyhwcbV4",
-        "thumbnail": "",
+        "service": "data_pipeline",
+        "videoId": "2SGOyhwcbV4",
         "title": "AWS re:Invent 2019: [REPEAT 1] Serverless stream processing pipeline best practices (SVS317-R1)",
         "date": "2019/12/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=U3tff9U3LG0",
-        "thumbnail": "",
+        "service": "data_pipeline",
+        "videoId": "U3tff9U3LG0",
         "title": "AWS re:Invent 2019: IoT big data pipeline for serverless analytics and anomaly detection (CMY305)",
         "date": "2019/12/03"
-    }   
+    }
 ]

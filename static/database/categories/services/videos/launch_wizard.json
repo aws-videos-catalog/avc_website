@@ -1,7 +1,7 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=Oanip3eMg68",
-        "thumbnail": "",
+        "service": "launch_wizard",
+        "videoId": "Oanip3eMg68",
         "title": "Accelerate SQL Server Deployments with AWS Launch Wizard",
         "date": "2020/07/30"
     }

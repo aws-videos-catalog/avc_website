@@ -1,49 +1,49 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=VxY9m_DYgms",
-        "thumbnail": "",
+        "service": "iot_core",
+        "videoId": "VxY9m_DYgms",
         "title": "Connecting Devices to AWS IoT Core (Level 300)",
         "date": "2018/08/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=2I08hnySAGo",
-        "thumbnail": "",
+        "service": "iot_core",
+        "videoId": "2I08hnySAGo",
         "title": "mPrest & Netafim: Smarter Irrigation with AWS IoT Core",
         "date": "2019/03/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=_0us6NzlaoQ",
-        "thumbnail": "",
+        "service": "iot_core",
+        "videoId": "_0us6NzlaoQ",
         "title": "Building Smart Devices with AWS IoT Services (Level 300)",
         "date": "2017/12/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=4HZzXi-yDgA",
-        "thumbnail": "",
+        "service": "iot_core",
+        "videoId": "4HZzXi-yDgA",
         "title": "How can I start publishing messages to AWS IoT Core from my device?",
         "date": "2020/09/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ZhiBrx1lJEs",
-        "thumbnail": "",
+        "service": "iot_core",
+        "videoId": "ZhiBrx1lJEs",
         "title": "AWS re:Invent 2017: IoT @ Enel: a New Generation IoT Core Platform (IOT312)",
         "date": "2017/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=JC3YitPgl7E",
-        "thumbnail": "",
+        "service": "iot_core",
+        "videoId": "JC3YitPgl7E",
         "title": "WS re:Invent 2019: Create digital twins using AWS IoT Core and Amazon Sumerian (ARV203)",
         "date": "2019/12/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=FAZxfL7JUgg",
-        "thumbnail": "",
+        "service": "iot_core",
+        "videoId": "FAZxfL7JUgg",
         "title": "Introducing Alexa Voice Service Integration for AWS IoT Core",
         "date": "2020/02/24"
     },
     {
-        "url": "https://www.youtube.com/watch?v=tlYUJ8mLAeU",
-        "thumbnail": "",
+        "service": "iot_core",
+        "videoId": "tlYUJ8mLAeU",
         "title": "AWS re:Invent 2019: Building resilient, scalable IoT workloads with AWS IoT Core (ARC370-P)",
         "date": "2019/12/05"
     }

@@ -1,38 +1,38 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=21oIarLiAKU",
-        "thumbnail": "",
+        "service": "device_farm",
+        "videoId": "21oIarLiAKU",
         "title": "Introducing AWS Device Farm",
         "date": "2015/07/09"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ZWAUAerFB6s",
-        "thumbnail": "",
+        "service": "device_farm",
+        "videoId": "ZWAUAerFB6s",
         "title": "Getting Started with AWS Device Farm",
         "date": "2016/09/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=PRA1WlR0nvU",
-        "thumbnail": "",
+        "service": "device_farm",
+        "videoId": "PRA1WlR0nvU",
         "title": "AWS Mobile Week - San Francisco: Testing & Troubleshooting Modern Apps with AWS Device Farm",
         "date": "2018/10/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=zej5tdLMo3Y",
-        "thumbnail": "",
+        "service": "device_farm",
+        "videoId": "zej5tdLMo3Y",
         "title": "AWS re:Invent 2017: Testing and Troubleshooting with AWS Device Farm (MBL301)",
         "date": "2017/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=cZOdt995hc4",
-        "thumbnail": "",
+        "service": "device_farm",
+        "videoId": "cZOdt995hc4",
         "title": "Introducing AWS Device Farm: Automated Android and Fire OS App Testing on Real Devices in AWS Cloud",
         "date": "2015/07/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=EsXhs5wXzAM",
-        "thumbnail": "",
+        "service": "device_farm",
+        "videoId": "EsXhs5wXzAM",
         "title": "AWS re:Invent 2015 | (MBL315) How Etsy & IHS Improve Their Apps w/ AWS Device Farm",
         "date": "2015/10/12"
-    }   
+    }
 ]

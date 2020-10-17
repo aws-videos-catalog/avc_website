@@ -1,289 +1,289 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=MK4ZoCs-muo",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "MK4ZoCs-muo",
         "title": "What is AWS Systems Manager?",
         "date": "2019/05/13"
     },
     {
-        "url": "https://www.youtube.com/watch?v=zwS8lssaY_k",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "zwS8lssaY_k",
         "title": "Amazon EC2 Systems Manager Introduction",
         "date": "2017/09/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=BmpxZsk9N48",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "BmpxZsk9N48",
         "title": "Deep Dive with Amazon EC2 Systems Manager [ENT401]",
         "date": "2017/08/07"
     },
     {
-        "url": "https://www.youtube.com/watch?v=_RYL90VQgtI",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "_RYL90VQgtI",
         "title": "Patching Windows Servers using AWS Systems Manager",
         "date": "2019/10/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=D91UJ69dcww",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "D91UJ69dcww",
         "title": "AWS re:Invent 2018: [REPEAT 1] Managing Modern Infrastructure in Enterprises (ENT227-R1)",
         "date": "2018/11/29"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ABtwRb9BFY4",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "ABtwRb9BFY4",
         "title": "Patching for your Amazon EC2 Instances",
         "date": "2019/07/05"
     },
     {
-        "url": "https://www.youtube.com/watch?v=DQ619NSwoGg",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "DQ619NSwoGg",
         "title": "Registering Instances with Systems Manager",
         "date": "2017/09/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=tnyDHqC8nDM",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "tnyDHqC8nDM",
         "title": "Systems Manager Patch Manager - Introduction",
         "date": "2017/09/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=nzjTIjFLiow",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "nzjTIjFLiow",
         "title": "Controlling User Session Access to Instances in AWS System Manager Session Manager",
         "date": "2019/10/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=T7f-Qi7mR48",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "T7f-Qi7mR48",
         "title": "Collect Inventory Data with Systems Manager Inventory",
         "date": "2019/10/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7YIan_5Kj38",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "7YIan_5Kj38",
         "title": "Too Many Tools? How AWS Systems Manager Bridges Operational Models",
         "date": "2018/11/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=JBB__HbwFtQ",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "JBB__HbwFtQ",
         "title": "Using AWS Systems Manager Automation Documents to Deploy a .NET Application on AWS",
         "date": "2020/08/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=2P3ajglqbKw",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "2P3ajglqbKw",
         "title": "Setting Up IAM Roles for Systems Manager",
         "date": "2017/09/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=r6ilQdxLcqY",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "r6ilQdxLcqY",
         "title": "Aggregate and Resolve Operational Issues Using AWS Systems Manager OpsCenter",
         "date": "2019/11/26"
     },
     {
-        "url": "https://www.youtube.com/watch?v=cUEFGKaZOyU",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "cUEFGKaZOyU",
         "title": "AWS Sessions Manager Overview",
         "date": "2018/11/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=cjSuHarpQJg",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "cjSuHarpQJg",
         "title": "How can I use Systems Manager to manage private EC2 instances without internet access?",
         "date": "2020/06/10"
     },
     {
-        "url": "https://www.youtube.com/watch?v=K2JISD4aymY",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "K2JISD4aymY",
         "title": "Operational Control and Insights using Amazon Systems Manager",
         "date": "2018/05/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=BqnRmuTEpY8",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "BqnRmuTEpY8",
         "title": "State Manager - Demo",
         "date": "2017/09/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=G5X-FjFQTos",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "G5X-FjFQTos",
         "title": "Systems Manager Patch Manager - How to Enable Patch Management for Windows Systems",
         "date": "2017/09/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=V1Yi3uDPaxc",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "V1Yi3uDPaxc",
         "title": "Systems Manager Maintenance Window - Introduction",
         "date": "2017/09/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=1r3YU2KoK5s",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "1r3YU2KoK5s",
         "title": "Systems Manager Maintenance Window - How to Create a Maintenance Window (2)",
         "date": "2017/09/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Me2xbKzxbq8",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "Me2xbKzxbq8",
         "title": "AWS re:Invent 2016: EC2 Systems Manager for automated configuration management",
         "date": "2016/12/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=AvQWkfgEQI8",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "AvQWkfgEQI8",
         "title": "Manage Distribution of Software Packages with AWS Systems Manager Distributor.",
         "date": "2019/10/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=SWisT0jMT70",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "SWisT0jMT70",
         "title": "AWS Sydney Summit 2018: Break Glass using AWS Systems Manager and Lambda",
         "date": "2018/05/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=zSRmdQMRkQg",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "zSRmdQMRkQg",
         "title": "State Manager - Introduction",
         "date": "2017/09/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=X0ribZxevZw",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "X0ribZxevZw",
         "title": "Automate remediation actions with AWS Systems Manager",
         "date": "2019/10/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Ix9u24lW6PY",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "Ix9u24lW6PY",
         "title": "Building up-to-date Golden Windows AMIs using AWS Systems Manager Automation",
         "date": "2018/11/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=nt6NTWQ-h6o",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "nt6NTWQ-h6o",
         "title": "Securely Access Windows Instances Using RDP and AWS Systems Manager Session Manager",
         "date": "2020/05/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=z4n3Oh1MJDQ",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "z4n3Oh1MJDQ",
         "title": "Inventory Services - 1",
         "date": "2017/09/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=eXVxr5FUr1c",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "eXVxr5FUr1c",
         "title": "AWS Summit Series 2017: London - Deep Dive with EC2 Systems Manager",
         "date": "2017/10/25"
     },
     {
-        "url": "https://www.youtube.com/watch?v=sriNozVSj0U",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "sriNozVSj0U",
         "title": "Streamline Configuration Management Automation Using AWS Systems Manager Run Command",
         "date": "2020/04/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=2ZqmRSIqQ6Q",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "2ZqmRSIqQ6Q",
         "title": "AWS re:Invent 2016: NEW LAUNCH! Amazon EC2 Systems Manager for Hybrid Cloud Management (WIN205)",
         "date": "2016/12/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=jihhLckop6A",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "jihhLckop6A",
         "title": "AWS re:Invent 2017: Use Amazon EC2 Systems Manager to Perform Automated Resilience T (DEV338)",
         "date": "2017/11/30"
     },
     {
-        "url": "https://www.youtube.com/watch?v=S2yiPu5dMrc",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "S2yiPu5dMrc",
         "title": "Configure Session Permissions Using Run As in AWS Systems Manager Session Manager",
         "date": "2020/05/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=qHRMim32dhk",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "qHRMim32dhk",
         "title": "Simplify Operations, Compliance and Governance using AWS Systems Manager",
         "date": "2018/07/02"
     },
     {
-        "url": "https://www.youtube.com/watch?v=aR02m1Xsz1E",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "aR02m1Xsz1E",
         "title": "Systems Manager Maintenance Window - How to Configure Access to Maintenance Window (1)",
         "date": "2017/09/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=mJo0KL9VNic",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "mJo0KL9VNic",
         "title": "Using the AWS Systems Manager for Microsoft System Center Virtual Machine Manager",
         "date": "2015/06/01"
     },
     {
-        "url": "https://www.youtube.com/watch?v=zWfhV66cMFE",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "zWfhV66cMFE",
         "title": "AWS Summit Tel Aviv 2017: Deep Dive with EC2 Systems Manager",
         "date": "2017/07/31"
     },
     {
-        "url": "https://www.youtube.com/watch?v=gd05wJ39acE",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "gd05wJ39acE",
         "title": "AWS re:Invent 2017: GPS: Too Many Tools? Amazon EC2 Systems Manager Bridges Operatio (GPSTEC307)",
         "date": "2017/11/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=YNoGjBhncZ0",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "YNoGjBhncZ0",
         "title": "Run Command - Introduction",
         "date": "2017/09/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=lD4e1A_OhX4",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "lD4e1A_OhX4",
         "title": "Creating Custom Automation - How To",
         "date": "2017/09/22"
     },
     {
-        "url": "https://www.youtube.com/watch?v=O4pIH3kJr-o",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "O4pIH3kJr-o",
         "title": "Automatically Fix EC2 Windows Activation Issues Using AWS Systems Manager",
         "date": "2018/11/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=UfSrb3HOYPM",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "UfSrb3HOYPM",
         "title": "How do I use EC2 Systems Manager to join an instance to my AWS Directory Service domain?",
         "date": "2018/10/28"
     },
     {
-        "url": "https://www.youtube.com/watch?v=apGmSG-CCEE",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "apGmSG-CCEE",
         "title": "How do I use AWS Systems Manager to join a new instance to my AWS Directory Service domain?",
         "date": "2020/05/15"
     },
     {
-        "url": "https://www.youtube.com/watch?v=HA59eSImPaw",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "HA59eSImPaw",
         "title": "Run Automations Across Multiple AWS Regions and Accounts",
         "date": "2019/10/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=hjm6sGHtoNc",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "hjm6sGHtoNc",
         "title": "AWS Config/EC2 Systems Manager Integration",
         "date": "2016/12/21"
     },
     {
-        "url": "https://www.youtube.com/watch?v=qpbAAqsRX-k",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "qpbAAqsRX-k",
         "title": "AWS re:Invent Launchpad 2017 - Announcement: AWS Systems Manager",
         "date": "2017/12/08"
     },
     {
-        "url": "https://www.youtube.com/watch?v=9HT0KXR3F58",
-        "thumbnail": "",
+        "service": "systems_manager",
+        "videoId": "9HT0KXR3F58",
         "title": "Configure Amazon EC2 Instances at Scale by Executing Chef Recipes with AWS Systems Manager",
         "date": "2020/07/15"
     }

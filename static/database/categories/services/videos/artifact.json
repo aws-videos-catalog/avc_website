@@ -1,50 +1,50 @@
 [
     {
-        "url": "https://www.youtube.com/watch?v=ILEoLqpbfXM",
-        "thumbnail": "",
+        "service": "artifact",
+        "videoId": "ILEoLqpbfXM",
         "title": "Get to know AWS Artifact",
         "date": "2018/11/23"
     },
     {
-        "url": "https://www.youtube.com/watch?v=O307zdIOmWo",
-        "thumbnail": "",
+        "service": "artifact",
+        "videoId": "O307zdIOmWo",
         "title": "Learn How to Use AWS Artifact to Retrieve Your Compliance Reports",
         "date": "2016/12/20"
     },
     {
-        "url": "https://www.youtube.com/watch?v=qXFWmuexKNo",
-        "thumbnail": "",
+        "service": "artifact",
+        "videoId": "qXFWmuexKNo",
         "title": "How can I download and share AWS Artifact documents?",
         "date": "2020/07/06"
     },
     {
-        "url": "https://www.youtube.com/watch?v=qcU4c5REkTI",
-        "thumbnail": "",
+        "service": "artifact",
+        "videoId": "qcU4c5REkTI",
         "title": "How to Use AWS Artifact to Accept an Agreement for Your Account",
         "date": "2018/07/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=RGbRF3sN2wQ",
-        "thumbnail": "",
+        "service": "artifact",
+        "videoId": "RGbRF3sN2wQ",
         "title": "Using Binary Repository Management",
         "date": "2019/02/04"
     },
     {
-        "url": "https://www.youtube.com/watch?v=rss0CJ0bw40",
-        "thumbnail": "",
+        "service": "artifact",
+        "videoId": "rss0CJ0bw40",
         "title": "Step-by-Step: Use AWS Artifact to Accept Agreements for Multiple Accounts in Your Org",
         "date": "2018/07/17"
     },
     {
-        "url": "https://www.youtube.com/watch?v=5WdSkA39pv4",
-        "thumbnail": "",
+        "service": "artifact",
+        "videoId": "5WdSkA39pv4",
         "title": "AWS re:Invent 2016: Encoding Artifacts to Emmy Awards: Taking on 4K Video Processing (ARC406)",
         "date": "2016/12/03"
     },
     {
-        "url": "https://www.youtube.com/watch?v=heMpwts3Rdk",
-        "thumbnail": "",
+        "service": "artifact",
+        "videoId": "heMpwts3Rdk",
         "title": "AWS re:Invent 2017: Encoding Artifacts to the Oscars: Taking on Terabyte-Scale, 1-Gb (ARC403)",
         "date": "2017/12/01"
-    }   
+    }
 ]
