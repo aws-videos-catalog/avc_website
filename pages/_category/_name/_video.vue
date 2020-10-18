@@ -7,7 +7,8 @@
       :description="description"
     />
 
-    <hr/>
+    <hr class="mt-0" />
+
     <b-row v-for="data in data_by_years" :key="data.year">
       <h3 style="padding-left:15px;width:100vw;">{{data.year}}</h3>
       <div style="padding-left:15px" v-for="(video,i) in data.videos" :key="'video_'+i">
