@@ -7,7 +7,10 @@
     </b-container>
   </b-jumbotron>
   <div class="mx-5">
-    <listing :items="categories"></listing>
+    <listing
+      :items="categories"
+      centered
+    />
     <hr></hr>
   </div>
 </div>
