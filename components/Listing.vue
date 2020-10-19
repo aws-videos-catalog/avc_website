@@ -121,8 +121,8 @@ export default {
   &__container {
     display: grid;
     grid-template-columns: 1fr;
-    grid-column-gap: 1rem;
-    grid-row-gap: 1rem;
+    grid-column-gap: 30px;
+    grid-row-gap: 30px;
   }
 
   &__card {
