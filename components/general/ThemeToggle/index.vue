@@ -41,7 +41,7 @@ export default {
     setInitialTheme () {
       const theme = localStorage.getItem(themeLocalStorageKey) || this.getPreferredTheme()
 
-      return document.body.classList.toggle(theme)
+      return document.body.classList.add(theme)
     },
 
     saveTheme (theme) {
@@ -75,7 +75,7 @@ export default {
     border: none;
     margin: 0;
     padding: 0;
-    box-shadow: 0;
+    box-shadow: none;
     background-color: transparent;
 
     &:focus {
