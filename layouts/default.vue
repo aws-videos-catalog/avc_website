@@ -43,7 +43,7 @@
   justify-content: center;
   padding-top:30px;
   padding-bottom:30px;
-  color:#888888
+  color: var(--color-font-elevated-02);
 }
 
 .footer p{

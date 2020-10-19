@@ -73,7 +73,7 @@ export default {
   &__ad-fluid {
     min-height: 5rem;
     padding: 1rem;
-    background-color: #e9ecef;
+    background-color: var(--color-bg-elevated-02);
     border-radius: 0.25rem;
   }
 
@@ -105,7 +105,7 @@ export default {
       height: 100%;
       width: 100%;
       margin-top: 1rem;
-      background-color: #e9ecef;
+      background-color: var(--color-bg-elevated-02);
       border-radius: 0.25rem;
     }
   }

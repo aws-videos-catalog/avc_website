@@ -97,16 +97,16 @@ export default {
     width: 100%;
     height: 100%;
     min-height: 100%;
-    color: rgb(33, 37, 41);
+    color: var(--color-font);
     background-clip: border-box;
-    border: 1px solid rgba(0, 0, 0, 0.125);
+    border: 1px solid var(--color-border);
     border-radius: 0.25rem;
     transition: height 0.2s ease-in-out, box-shadow 0.3s ease-in-out;
     overflow: hidden;
-    background-color: #fff;
+    background-color: var(--color-bg-elevated-01);
 
     &:hover {
-      color: rgb(33, 37, 41);
+      color: var(--color-font);
     }
   }
 
@@ -133,7 +133,7 @@ export default {
       left: 0;
 
       &:hover {
-        box-shadow: 1px 8px 25px -7px rgba(158,158,158,1);
+        box-shadow: 1px 8px 25px -7px var(--color-box-shadow);
       }
     }
   }

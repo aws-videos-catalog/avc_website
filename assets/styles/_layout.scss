@@ -1,0 +1,17 @@
+body {
+  color: var(--color-font);
+  background-color: var(--color-bg);
+}
+
+a {
+  color: var(--color-font-link);
+
+  &:hover,
+  &:focus {
+    color: var(--color-font-link-hover);
+  }
+}
+
+hr {
+  border-top-color: var(--color-border);
+}
