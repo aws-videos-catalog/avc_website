@@ -17,6 +17,12 @@
         :service="service"
       />
     </div>
+
+    <div class="service-listings__card">
+      <ad
+        :ad-order="random_ad_order[1]"
+      />
+    </div>
   </div>
 </template>
 
