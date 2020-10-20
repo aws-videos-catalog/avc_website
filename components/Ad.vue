@@ -1,23 +1,33 @@
 <template>
-  <div>
-    <b-card
-      :title="'Ad: '+adObject.title"
-      :img-src="adObject.img.length>0 ? adObject.img : '/ad300x300.png'"
-      :class="classes"
-      img-alt="Image"
-      rel="noopener"
-      tag="a"
-      target="_blank"
-      :href="adObject.url"
-      img-top
-      class="widget-ad__card"
+  <a
+    :href="adObject.url"
+    :title="'Ad: '+adObject.title"
+    class="ad-card__container"
+    target="_blank"
+    rel="noopener"
+  >
+    <div
+      class="ad-card__inner"
     >
-      <b-card-text>
-        {{adObject.description}}
-      </b-card-text>
-    </b-card>
-  </div>
+      <img
+        :src="adObject.img.length>0 ? adObject.img : '/ad300x300.png'"
+        :alt="adObject.title"
+        class="ad-card__image"
+      >
 
+      <div class="ad-card__body">
+        <h4 class="ad-card__title">
+          {{ adObject.title }}
+        </h4>
+
+        <div
+          class="ad-card__text"
+        >
+          {{ adObject.description }}
+        </div>
+      </div>
+    </div>
+  </a>
 </template>
 
 <script>
@@ -74,8 +84,58 @@ export default {
 }
 </script>
 
-<style>
-.widget-ad__card {
-  height: 100%;
+<style lang="scss">
+.ad-card {
+  &__container {
+    position: relative;
+    height: 100%;
+    display: block;
+    text-decoration: none !important;
+  }
+
+  &__inner {
+    width: 100%;
+    height: 100%;
+    min-height: 100%;
+    color: rgb(33, 37, 41);
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+    transition: height 0.2s ease-in-out, box-shadow 0.3s ease-in-out;
+    overflow: hidden;
+    background-color: #fff;
+
+    &:hover {
+      color: rgb(33, 37, 41);
+    }
+  }
+
+  &__image {
+    width: 100%;
+  }
+
+  &__body {
+    padding: 0.45rem 1.25rem;
+  }
+
+  &__title {
+    margin-bottom: 0.75rem;
+  }
+
+  @media (min-width: 968px) {
+    &__container {
+      height: 100%;
+    }
+
+    &__inner {
+      position: absolute;
+      top: 0;
+      left: 0;
+
+      &:hover {
+        box-shadow: 1px 8px 25px -7px rgba(158,158,158,1);
+      }
+    }
+  }
 }
 </style>

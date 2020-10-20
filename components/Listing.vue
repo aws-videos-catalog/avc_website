@@ -1,33 +1,22 @@
 <template>
-  <div>
-    <b-row>
-      <b-col
-        sm="6"
-        md="4"
-        lg="3"
-        xl="2"
-      >
-        <ad
-          :ad-order="random_ad_order[0]"
-          class="service-listings__card"
-          :height="'400px'"
-        />
-      </b-col>
+  <div
+    class="service-listings__container"
+  >
+    <div class="service-listings__card">
+      <ad
+        :ad-order="random_ad_order[0]"
+      />
+    </div>
 
-      <b-col
-        sm="6"
-        md="4"
-        lg="3"
-        xl="2"
-        v-for="(service, idx) in items"
-        :key="idx"
-        class="service-listings__card"
-      >
-        <service-card
-          :service="service"
-        />
-      </b-col>
-    </b-row>
+    <div
+      v-for="(service, idx) in items"
+      :key="idx"
+      class="service-listings__card"
+    >
+      <service-card
+        :service="service"
+      />
+    </div>
   </div>
 </template>
 
@@ -115,30 +104,45 @@ export default {
 }
 </script>
 
-<style scoped>
-
-.service{
-  text-decoration: none;
-  color: inherit;
-  display:block;
-  height:100%;
-}
-
-.service-listings__card {
-  height: auto;
-  width: 100%;
-  margin-bottom: 1rem;
-}
-
-@media (min-width: 768px) {
-  .service-listings__card {
-    height: 400px;
+<style lang="scss">
+.service-listings {
+  &__container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-column-gap: 1rem;
+    grid-row-gap: 1rem;
   }
-}
 
-@media (min-width: 1600px) {
-  .service-listings__card {
-    height: 420px;
+  &__card {
+    height: auto;
+  }
+
+  @media (min-width: 480px) {
+    &__container {
+      grid-template-columns: 50% 50%;
+      justify-content: center;
+    }
+
+    &__card {
+      height: 100%;
+    }
+  }
+
+  @media (min-width: 680px) {
+    &__container {
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+  }
+
+  @media (min-width: 908px) {
+    &__container {
+      grid-template-columns: repeat(auto-fill, 260px);
+      justify-content: start;
+    }
+
+    &__card {
+      height: 400px;
+    }
   }
 }
 </style>

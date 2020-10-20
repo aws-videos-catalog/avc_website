@@ -54,7 +54,7 @@ export default {
 
   methods: {
     checkShouldExpandCard () {
-      return window.matchMedia('(min-width: 768px)').matches
+      return window.matchMedia('(min-width: 908px)').matches
     },
 
     onCardMouseEnter (event) {
@@ -69,7 +69,7 @@ export default {
       }
 
       targetEl.style.height = targetEl.scrollHeight?.toString() + 'px'
-      targetEl.style.zIndex = '10'
+      targetEl.style.zIndex = '100'
     },
 
     onCardMouseLeave (event) {
@@ -97,7 +97,9 @@ export default {
 .service-card {
   &__container {
     position: relative;
+    height: 100%;
     display: block;
+    text-decoration: none !important;
   }
 
   &__inner {
@@ -113,7 +115,6 @@ export default {
     background-color: #fff;
 
     &:hover {
-      text-decoration: none;
       color: rgb(33, 37, 41);
     }
   }
@@ -130,7 +131,7 @@ export default {
     margin-bottom: 0.75rem;
   }
 
-  @media (min-width: 768px) {
+  @media (min-width: 908px) {
     &__container {
       height: 100%;
     }
