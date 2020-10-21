@@ -9,7 +9,6 @@
   <div class="mx-5">
     <listing
       :items="categories"
-      centered
     />
     <hr></hr>
   </div>

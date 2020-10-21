@@ -1,7 +1,6 @@
 <template>
   <div
     class="service-listings__container"
-    :class="classContainer"
   >
     <div class="service-listings__card">
       <ad
@@ -70,11 +69,6 @@ export default {
     items:{
       type:Array,
       required:true,
-    },
-
-    centered:{
-      type: Boolean,
-      default: false
     }
   },
   data(){
@@ -83,12 +77,6 @@ export default {
     }
   },
   computed:{
-    classContainer () {
-      return [
-        { 'service-listings--centered': this.centered }
-      ]
-    },
-
     links: function(){
       //
       //  1.  Create an empty array called links, which we will populate with links only.
@@ -127,8 +115,8 @@ export default {
   &__container {
     display: grid;
     grid-template-columns: 1fr;
-    grid-column-gap: 30px;
-    grid-row-gap: 30px;
+    grid-column-gap: 1rem;
+    grid-row-gap: 1rem;
   }
 
   &__card {
@@ -156,10 +144,6 @@ export default {
     &__container {
       grid-template-columns: repeat(auto-fill, 260px);
       justify-content: start;
-    }
-
-    &--centered {
-      justify-content: center;
     }
 
     &__card {
