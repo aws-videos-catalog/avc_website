@@ -1,0 +1,53 @@
+@mixin themeVariablesLight () {
+  --color-font: #212529;
+  --color-font-elevated-02: #6c757d;
+  --color-font-link: #007bff;
+  --color-font-link-hover: #0056b3;
+
+  --color-bg: #fff;
+  --color-bg-reverse: #121212;
+  --color-bg-elevated-01: #fff;
+  --color-bg-elevated-02: #e9ecef;
+
+  --color-border: rgba(0, 0, 0, 0.125);
+
+  --color-box-shadow: rgba(158, 158, 158, 1);
+}
+
+@mixin themeVariablesDark () {
+  --color-font: #fff;
+  --color-font-elevated-02: #ddd;
+  --color-font-link: #459cff;
+  --color-font-link-hover: #2189ff;
+
+  --color-bg: #121212;
+  --color-bg-reverse: #fff;
+  --color-bg-elevated-01: #333;
+  --color-bg-elevated-02: #444;
+
+  --color-border: rgba(255, 255, 255, 0.1);
+
+  --color-box-shadow: rgba(255, 255, 255, 0.6);
+}
+
+/* Default colors */
+body {
+  @include themeVariablesLight;
+}
+
+/* Dark theme colors */
+body.theme--dark {
+  @include themeVariablesDark;
+}
+
+/* Switch styles for users who prefer dark mode at the OS level */
+@media (prefers-color-scheme: dark) {
+  /* defaults to dark theme */
+  body {
+    @include themeVariablesDark;
+  }
+  /* Override dark mode with light mode styles if the user decides to swap */
+  body.theme--light {
+    @include themeVariablesLight;
+  }
+}

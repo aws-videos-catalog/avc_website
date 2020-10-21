@@ -125,7 +125,7 @@ export default {
 
   @media (min-width: 480px) {
     &__container {
-      grid-template-columns: 50% 50%;
+      grid-template-columns: 1fr 1fr;
       justify-content: center;
     }
 
