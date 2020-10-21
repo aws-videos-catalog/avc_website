@@ -1,5 +1,5 @@
 <template>
-<div>
+<div class="layout--default">
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-175484266-1"></script>
   <script>
@@ -8,11 +8,15 @@
     gtag('js', new Date());
     gtag('config', 'UA-175484266-1');
   </script>
+
   <div class="body">
     <nuxt />
   </div>
-  <div class="footer container">
-    <div class="footer">
+
+  <div class="footer__container">
+    <hr />
+
+    <div class="footer container">
       <!-- <img src="/company_logo_rectangle.svg" width="200px"> -->
       <p>Est.2016, Copr. <a href="https://0x4447.com">0x4447™</a> LLC.</p>
       <p>|</p>
@@ -25,7 +29,6 @@
 
 <style>
 .body{
-  min-height:100%;
   min-width:100%;
 }
 
@@ -35,6 +38,12 @@
 
 .listing-container{
   margin-top:2rem;
+}
+
+.footer__container {
+  width: 100%;
+  grid-row-start: 2;
+  grid-row-end: 3;
 }
 
 .footer{

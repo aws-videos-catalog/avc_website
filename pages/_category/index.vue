@@ -4,7 +4,6 @@
     <listing
       :items="category.services"
     />
-    <hr></hr>
   </div>
 </template>
 

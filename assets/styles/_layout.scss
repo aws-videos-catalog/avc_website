@@ -1,3 +1,10 @@
+html,
+body,
+#__nuxt,
+#__layout {
+  height: 100%;
+}
+
 body {
   color: var(--color-font);
   background-color: var(--color-bg);
@@ -14,4 +21,10 @@ a {
 
 hr {
   border-top-color: var(--color-border);
+}
+
+.layout--default {
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: 1fr auto;
 }
