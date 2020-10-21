@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@nuxtjs/component-cache": "^1.1.6",
+    "@nuxtjs/google-gtag": "^1.0.4",
     "@nuxtjs/pwa": "^3.0.2",
     "@nuxtjs/robots": "^2.4.2",
     "@nuxtjs/sitemap": "^2.4.0",

@@ -1,5 +1,8 @@
+import dotenv from 'dotenv'
 import os from 'os'
 import { routesGenerate } from './custom_modules/sitemap-generate'
+
+dotenv.config()
 
 const cpusCount = os.cpus().length
 const appPagesUrls = routesGenerate()
@@ -67,7 +70,8 @@ export default {
     'bootstrap-vue/nuxt',
     '@nuxtjs/robots',
     '@nuxtjs/sitemap',
-    '@nuxtjs/pwa'
+    '@nuxtjs/pwa',
+    '@nuxtjs/google-gtag'
   ],
   robots: {
     UserAgent: '*',
@@ -95,6 +99,21 @@ export default {
       background_color: '#fff',
       theme_color: '#fff'
     }
+  },
+
+  /**
+   * @nuxtjs/google-gtag module config
+   */
+  'google-gtag': {
+    id: process.env.GOOGLE_ANALYTICS_ID
+  },
+
+  /**
+   * Clientside env variables
+   * https://nuxtjs.org/api/configuration-env/
+   */
+  env: {
+    GOOGLE_ANALYTICS_ID: process.env.GOOGLE_ANALYTICS_ID
   },
 
   /*
