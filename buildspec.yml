@@ -3,13 +3,12 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      nodejs: 10
+      nodejs: 12
     commands:
+      - echo GOOGLE_ANALYTICS_ID=$GOOGLE_ANALYTICS_ID >> .env
       - npm install
-  build:
-    commands:
       - npm run generate
-  post_build:
+  pre_build:
     commands:
       - aws s3 rm --recursive s3://$S3_BUCKET_WEBPAGE
       - aws s3 cp ./dist s3://$S3_BUCKET_WEBPAGE --recursive
