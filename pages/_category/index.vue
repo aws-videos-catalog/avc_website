@@ -3,6 +3,7 @@
     <bread-crumb />
     <listing
       :items="category.services"
+      :ads-order="adsOrder"
     />
     <hr></hr>
   </div>
@@ -14,6 +15,8 @@ import Listing from '~/components/Listing.vue'
 import BreadCrumb from '~/components/BreadCrumb.vue'
 import categories from '~/static/database/categories/index.json'
 import services from '~/static/database/categories/services/index.json'
+import { arrayOfShuffledRandoms } from '~/utils/lists'
+import ads from '~/static/products/index.json'
 
 export default {
   layout: 'default',
@@ -42,6 +45,7 @@ export default {
     }
 
     return {
+      adsOrder: arrayOfShuffledRandoms(ads.length),
       category: {
         ...category,
         services: categoryServices

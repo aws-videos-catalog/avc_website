@@ -12,7 +12,7 @@
       </div>
 
       <div class="s-video-player__ad-fixed">
-        <Ad :random="true"></Ad>
+        <ad :ad-order="adOrder" />
 
         <div class="s-video-player__ad-fixed__box"/>
       </div>
@@ -44,6 +44,11 @@ export default {
     description: {
       type: String,
       default: ''
+    },
+
+    adOrder: {
+      type: Number,
+      default: 0
     }
   }
 }

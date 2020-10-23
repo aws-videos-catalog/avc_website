@@ -5,6 +5,7 @@
     <section-video-player
       :video="main_video"
       :description="description"
+      :ad-order="adsOrder[0]"
     />
 
     <hr class="mt-0" />
@@ -29,6 +30,8 @@ import { formatVideo } from '~/utils/videos'
 import categories from 'static/database/categories'
 import services from 'static/database/categories/services'
 import { caseTitleToSnake } from '@/utils/text'
+import { arrayOfShuffledRandoms } from '~/utils/lists'
+import ads from '~/static/products'
 
 export default {
   layout: "default",
@@ -89,7 +92,8 @@ export default {
       description: service.description,
       img: service.img,
       imgPng: service.imgPng,
-      service_name: service.name
+      service_name: service.name,
+      adsOrder: arrayOfShuffledRandoms(ads.length)
     }
   },
 
