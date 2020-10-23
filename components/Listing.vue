@@ -4,7 +4,7 @@
   >
     <div class="service-listings__card">
       <ad
-        :ad-order="random_ad_order[0]"
+        :ad-order="adsOrder[0]"
       />
     </div>
 
@@ -20,7 +20,7 @@
 
     <div class="service-listings__card">
       <ad
-        :ad-order="random_ad_order[1]"
+        :ad-order="adsOrder[1]"
       />
     </div>
   </div>
@@ -28,33 +28,8 @@
 
 <script>
 import Ad from '~/components/Ad.vue'
-import ads from '~/static/products/index.json'
 import ServiceCard from '~/components/sections/services/ServiceCard/index'
 
-  //
-  //  1.  Defining a new property which would shuffle an array
-  //
-  Object.defineProperty(Array.prototype, 'shuffle', {
-    //
-    //  1.  Return the following value
-    //
-    value: function() {
-      //
-      //  1.  Start by decrementing an i value from the end of array.
-      //
-      for (let i = this.length - 1; i > 0; i--) {
-        //
-        //  1.  Pick a number inside range 0-i
-        //
-        const j = Math.floor(Math.random() * (i + 1));
-        //
-        //  2.  Switch places of element i and element j
-        //
-        [this[i], this[j]] = [this[j], this[i]];
-      }
-      return this;
-    }
-});
 //
 //  This component will render a tree-like view when a JSON is given
 //
@@ -65,17 +40,19 @@ export default {
     Ad,
     ServiceCard
   },
+
   props:{
     items:{
       type:Array,
       required:true,
+    },
+
+    adsOrder: {
+      type: Array,
+      required: true
     }
   },
-  data(){
-    return{
-      ads:ads
-    }
-  },
+
   computed:{
     links: function(){
       //
@@ -94,17 +71,6 @@ export default {
         links.push(link)
       }
       return links
-    },
-    //
-    //  1.  A function to randomize the ad order.
-    //
-    random_ad_order: function(){
-      //
-      //  1.  Create an array with the same length of ads
-      //      starting from 0.
-      //
-      const arr = [...Array(ads.length).keys()];
-      return arr.shuffle()
     }
   }
 }

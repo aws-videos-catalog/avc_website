@@ -9,6 +9,7 @@
   <div class="mx-5">
     <listing
       :items="categories"
+      :ads-order="adsOrder"
     />
   </div>
 
@@ -22,6 +23,8 @@
 import Listing from '~/components/Listing.vue'
 import services from '~/static/database/categories/index.json'
 import ThemeToggle from '~/components/general/ThemeToggle/index'
+import { arrayOfShuffledRandoms } from '~/utils/lists'
+import ads from '~/static/products'
 
 export default {
   layout: "default",
@@ -33,7 +36,8 @@ export default {
 
   asyncData (){
     return {
-      categories: Object.values(services)
+      categories: Object.values(services),
+      adsOrder: arrayOfShuffledRandoms(ads.length)
     }
   },
 
