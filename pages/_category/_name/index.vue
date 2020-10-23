@@ -19,7 +19,6 @@
         />
       </b-col>
     </b-row>
-    <hr class="height:1px"></hr>
   </div>
 </template>
 

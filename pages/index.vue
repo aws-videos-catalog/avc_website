@@ -10,7 +10,6 @@
     <listing
       :items="categories"
     />
-    <hr></hr>
   </div>
 
   <div class="v-index__theme-toggle">
