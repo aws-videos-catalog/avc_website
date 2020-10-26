@@ -83,6 +83,7 @@ export default {
       service_name: service.name
     }
   },
+
   computed:{
     data_by_years: function(){
       //

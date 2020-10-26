@@ -12,7 +12,9 @@
       </div>
 
       <div class="s-video-player__ad-fixed">
-        <ad :ad-order="adOrder" />
+        <client-only>
+          <ad :ad-order="adOrder" />
+        </client-only>
 
         <div class="s-video-player__ad-fixed__box"/>
       </div>
