@@ -4,29 +4,19 @@
 
     <hr class="mt-0" />
 
-    <b-row v-for="data in data_by_years" :key="data.year">
-      <h3 style="padding-left:15px;width:100vw;">{{data.year}}</h3>
-      <b-col
-        sm="6"
-        md="4"
-        lg="3"
-        xl="2"
-        v-for="(video,i) in data.videos"
-        :key="'video_'+i"
-      >
-        <video-preview
-          :video="video"
-        />
-      </b-col>
-    </b-row>
+    <videos-listing
+      v-for="videosData in data_by_years"
+      :key="videosData.year"
+      :videos-data="videosData"
+
+    />
   </div>
 </template>
 
 <script>
-import SmallVideo from '~/components/SmallVideo.vue'
 import BreadCrumb from '~/components/BreadCrumb.vue'
 import { formatVideo } from '~/utils/videos'
-import VideoPreview from '@/components/general/VideoPreview/index'
+import VideosListing from '~/components/sections/video/VideosListing/index'
 import categories from '~/static/database/categories/index.json'
 import services from '~/static/database/categories/services/index.json'
 import { caseTitleToSnake } from '~/utils/text'
@@ -34,8 +24,7 @@ import { caseTitleToSnake } from '~/utils/text'
 export default {
   layout: "default",
   components:{
-    VideoPreview,
-    SmallVideo,
+    VideosListing,
     BreadCrumb
   },
   asyncData({route,error}){
