@@ -11,6 +11,13 @@
           :title="video.title"
           class="video-preview__thumbnail__image"
         >
+
+        <div
+          v-if="video.formattedDuration"
+          class="video-preview__duration"
+        >
+          {{ video.formattedDuration }}
+        </div>
       </div>
 
       <div class="video-preview__body">
@@ -68,12 +75,27 @@ export default {
   }
 
   &__thumbnail {
+    position: relative;
     width: 100%;
     margin-bottom: 0.5rem;
   }
 
   &__thumbnail__image {
     width: 100%;
+  }
+
+  &__duration {
+    position: absolute;
+    bottom: 4px;
+    right: 4px;
+    min-height: 12px;
+    padding: 2px 4px;
+    display: flex;
+    align-items: center;
+    border-radius: 2px;
+    background-color: var(--color-bg-overlay);
+    color: var(--color-white);
+    font-size: 14px;
   }
 
   &__body {
