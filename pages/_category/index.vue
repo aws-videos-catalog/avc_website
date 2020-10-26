@@ -44,11 +44,16 @@ export default {
     }
 
     return {
-      adsOrder: arrayOfShuffledRandoms(ads.length),
       category: {
         ...category,
         services: categoryServices
       }
+    }
+  },
+
+  data () {
+    return {
+      adsOrder: arrayOfShuffledRandoms(ads.length)
     }
   },
 

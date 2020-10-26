@@ -89,7 +89,12 @@ export default {
       description: service.description,
       img: service.img,
       imgPng: service.imgPng,
-      service_name: service.name,
+      service_name: service.name
+    }
+  },
+
+  data () {
+    return {
       adsOrder: arrayOfShuffledRandoms(ads.length)
     }
   },

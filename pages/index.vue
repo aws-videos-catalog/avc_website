@@ -36,7 +36,12 @@ export default {
 
   asyncData (){
     return {
-      categories: Object.values(services),
+      categories: Object.values(services)
+    }
+  },
+
+  data () {
+    return {
       adsOrder: arrayOfShuffledRandoms(ads.length)
     }
   },

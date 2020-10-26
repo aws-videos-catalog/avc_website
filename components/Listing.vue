@@ -3,9 +3,11 @@
     class="service-listings__container"
   >
     <div class="service-listings__card">
-      <ad
-        :ad-order="adsOrder[0]"
-      />
+      <client-only>
+        <ad
+          :ad-order="adsOrder[0]"
+        />
+      </client-only>
     </div>
 
     <div
@@ -19,9 +21,11 @@
     </div>
 
     <div class="service-listings__card">
-      <ad
-        :ad-order="adsOrder[1]"
-      />
+      <client-only>
+        <ad
+          :ad-order="adsOrder[1]"
+        />
+      </client-only>
     </div>
   </div>
 </template>
