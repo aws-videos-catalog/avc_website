@@ -10,21 +10,19 @@
 
     <hr class="mt-0" />
 
-    <b-row v-for="data in data_by_years" :key="data.year">
-      <h3 style="padding-left:15px;width:100vw;">{{data.year}}</h3>
-      <div style="padding-left:15px" v-for="(video,i) in data.videos" :key="'video_'+i">
-        <small-video
-          :video="video"
-        />
-      </div>
-    </b-row>
+    <videos-listing
+      v-for="videosData in data_by_years"
+      :key="videosData.year"
+      :videos-data="videosData"
+
+    />
   </div>
 </template>
 
 <script>
-import SmallVideo from '~/components/SmallVideo.vue'
 import BreadCrumb from '~/components/BreadCrumb.vue'
 import SectionVideoPlayer from '~/components/sections/video/SectionVideoPlayer'
+import VideosListing from '~/components/sections/video/VideosListing'
 import { formatVideo } from '~/utils/videos'
 import categories from 'static/database/categories'
 import services from 'static/database/categories/services'
@@ -35,8 +33,8 @@ import ads from '~/static/products'
 export default {
   layout: "default",
   components:{
+    VideosListing,
     SectionVideoPlayer,
-    SmallVideo,
     BreadCrumb
   },
   asyncData({ route, error }){
