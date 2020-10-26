@@ -1,4 +1,6 @@
 @mixin themeVariablesLight () {
+  --color-white: #fff;
+
   --color-font: #212529;
   --color-font-elevated-02: #6c757d;
   --color-font-link: #007bff;
@@ -8,6 +10,7 @@
   --color-bg-reverse: #121212;
   --color-bg-elevated-01: #fff;
   --color-bg-elevated-02: #e9ecef;
+  --color-bg-overlay: rgba(0, 0, 0, 0.5);
 
   --color-border: rgba(0, 0, 0, 0.125);
 
@@ -15,6 +18,8 @@
 }
 
 @mixin themeVariablesDark () {
+  --color-white: #fff;
+
   --color-font: #fff;
   --color-font-elevated-02: #ddd;
   --color-font-link: #459cff;
@@ -24,6 +29,7 @@
   --color-bg-reverse: #fff;
   --color-bg-elevated-01: #333;
   --color-bg-elevated-02: #444;
+  --color-bg-overlay: rgba(0, 0, 0, 0.5);
 
   --color-border: rgba(255, 255, 255, 0.1);
 
