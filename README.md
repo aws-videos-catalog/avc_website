@@ -63,4 +63,5 @@ CLI_YOUTUBE_DATA_API_KEY={YOUTUBE_API_KEY}
 The project includes tools to manage static content via command line.  
 
 Available CLIs:
+- `cli:videos-search` - [Videos search CLI](cli/videos-search/README.md). Search, filter and save new or previously not included videos for services.
 - `cli:videos-update` - [Videos details update CLI](cli/videos-update/README.md). Fetch and update missing information for videos
