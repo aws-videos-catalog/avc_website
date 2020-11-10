@@ -37,3 +37,19 @@ Once script execution has been completed each service videos JSON file will be u
 #### Limitations
 
 Newly added videos for each service are missing fields due to Youtube API response limitations. Every video is missing `duration` and `tags` fields. Running Videos Update CLI is necessary to fill missing information. 
+
+#### Exclude videos
+
+Once service newly matched videos are found and formatted, CLI makes a check if video id is present in [excluded videos list](cli/videos-search/excluded-videos.json).  
+Such list contains collection of excluded video entries in following format:
+
+```
+[
+  {
+    "videoId": "dQw4w9WgXcQ",
+    "note": "Example of excluded video"
+  }
+]
+``` 
+
+The `note` field is optional and is used to keep track of potentially growing excluded videos list.
