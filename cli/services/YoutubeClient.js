@@ -15,7 +15,8 @@ class YoutubeClient {
       q: query,
       ...(pageToken && { pageToken }),
       maxResults: 100,
-      order: 'relevance'
+      order: 'relevance',
+      relevanceLanguage: 'en'
     })
 
     return response.data
