@@ -1,6 +1,629 @@
 [
     {
         "service": "lambda",
+        "videoId": "eOBq__h4OJ4",
+        "title": "Introduction to AWS Lambda - Serverless Compute on Amazon Web Services",
+        "date": "2015-05-19T22:23:52Z",
+        "description": "AWS Lambda is a compute service that runs your code in response to events and automatically manages the compute resources, making it easy to build ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "FINV-VmCXms",
+        "title": "Locally Debug Lambda Functions with the AWS Toolkit for VS Code",
+        "date": "2019-04-22T18:24:06Z",
+        "description": "Learn more about AWS Toolkit for Visual Studio Code at – https://amzn.to/2GqV4iV AM Grobelny and Nicki Klein demonstrate how to leverage the AWS Toolkit ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "Jkx6kVbDpL4",
+        "title": "Nielsen: Processing 55TB of Data Per Day with AWS Lambda",
+        "date": "2020-09-23T18:26:08Z",
+        "description": "Learn from Nielsen Marketing Cloud how to process 55TB of data per day while maintaining quality, performance, and cost using a fully automated serverless ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "JcRKdEP94jM",
+        "title": "AWS Knowledge Center Videos: How do I give internet access to my Lambda function in a VPC?",
+        "date": "2018-02-25T20:57:48Z",
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/internet-access-lambda-function/ Kien, an AWS ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "GDkkDUnICrs",
+        "title": "How do I allow API users to run AWS Lambda with their Amazon Cognito permissions?",
+        "date": "2019-02-26T22:46:06Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2Tsny0N Nivea, an AWS Cloud Support Engineer, shows you how to allow API users to run ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "sQN28Jo-nak",
+        "title": "Serverless Bytes | Build a Serverless Weather App with GraphQL, AWS AppSync &amp; AWS Lambda",
+        "date": "2018-06-22T19:24:46Z",
+        "description": "In this recording, catch up on the 30-minute live stream from twitch.tv/aws, where viewers learn how to build a serverless app with AppSync and GraphQL."
+    },
+    {
+        "service": "lambda",
+        "videoId": "mw_-0iCVpUc",
+        "title": "Serverless File Uploads using S3 and Lambda",
+        "date": "2020-04-30T21:21:21Z",
+        "description": "The serverless approach allows your application to use a presigned URL and upload directly to Amazon S3. This offloads all the bandwidth and compute ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "pJEBA__COtQ",
+        "title": "AWS Knowledge Center Videos: How do I build an AWS Lambda deployment package for Node.js?",
+        "date": "2018-07-11T13:15:55Z",
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/lambda-deployment-package-nodejs/ Kien, an ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "sj3tsBomzUk",
+        "title": "SparkPost: Using Lambda to Archive Data from Redis to S3",
+        "date": "2018-04-16T16:10:46Z",
+        "description": "Learn more at - http://amzn.to/2o4IjBt. In this video, Jason from SparkPost describes how he created a Lambda function to archive customer email event data ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "z4er9_IhP4U",
+        "title": "Domain Group: Lambda Fan-Out with Node.js to Reliably Classify Images with Rekognition",
+        "date": "2018-12-27T18:41:08Z",
+        "description": "On this episode of This Is My Code - https://amzn.to/2LA357i, Australian digital property portal domain.com.au, shows us how they leverage image recognition ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "fDv_RKygOXU",
+        "title": "AWS Lambda Layers, the Runtime API, and Nested Applications",
+        "date": "2019-02-01T18:59:35Z",
+        "description": "At re:Invent 2018, the AWS Lambda team announced a number of new capabilities to help developers make developing serverless applications even easier."
+    },
+    {
+        "service": "lambda",
+        "videoId": "EF1NES9BX8c",
+        "title": "Using AWS Lambda Layers in .NET",
+        "date": "2019-10-04T18:11:29Z",
+        "description": "Learn more about AWS at – https://amzn.to/31PyFoQ In this video, we should you how to use AWS Lambda Layers in your .NET application. You can configure ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "UB7vH9ZyrBI",
+        "title": "I get an internal server error when I call a Lambda function via API Gateway using a stage variable.",
+        "date": "2020-05-27T13:05:37Z",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/500-error-lambda-api-gateway/ ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "hbBaaA00fc0",
+        "title": "Why are my Lambda functions throttled and how can I remove the throttles?",
+        "date": "2020-08-24T19:48:49Z",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/lambda-troubleshoot-throttling/ ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "cj7ieXZJwZM",
+        "title": "Automating AWS Lambda Deployments with GitHub and Jenkins",
+        "date": "2017-09-11T16:36:10Z",
+        "description": "Learn more about AWS at - http://amzn.to/2kC6CIq. Join us for a look behind the curtain at GitHub Enterprise's new features, following its 2.10 release. Dive into ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "ynmU5qy82Vg",
+        "title": "Using AWS Cloud9 to Edit, Debug, and Deploy a Lambda Function",
+        "date": "2019-01-22T21:07:40Z",
+        "description": "Learn how to edit, debug, and deploy a Lambda Function using AWS Cloud9 - https://amzn.to/2RSR9TC, a cloud IDE for writing, running, and debugging code."
+    },
+    {
+        "service": "lambda",
+        "videoId": "MMA1NuP1td8",
+        "title": "How do I build an AWS Lambda deployment package for C# .NET?",
+        "date": "2019-01-03T20:51:34Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2TsCtbe Kien, an AWS Cloud Support Engineer, shows you how to build a Lambda deployment ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "tqMnssbPtbM",
+        "title": "How can I invoke AWS Lambda whenever execution status changes in AWS Step Functions?",
+        "date": "2020-04-09T19:36:13Z",
+        "description": "For more details see the Knowledge Center article with this video: ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "V6csazlnDwA",
+        "title": "Serverless Applications, Automated Deployments, and the AWS Lambda Console",
+        "date": "2019-10-03T23:02:31Z",
+        "description": "Learn more about AWS Lambda console at – https://amzn.to/2mcbmX3. This short video teaches you how to create a serverless application with best practices ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "b6pxZcF4SV8",
+        "title": "Nine Serverless Patterns: Intro to Lambda for Startups [Coinbase]",
+        "date": "2019-11-11T23:30:20Z",
+        "description": "To attend one of our AWS Loft events, visit us at one of our many locations - https://amzn.to/36X0puC. Have you ever wanted to learn more about AWS Lambda ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "7QnhGeWsXFM",
+        "title": "Serverless Speech-to-Text using S3 and Lambda",
+        "date": "2020-04-30T21:21:21Z",
+        "description": "See how you can use bring automated speech-to-text into your applications with minimal code. This solution uses Amazon Transcribe to automatically convert ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "f0sE_dNrimU",
+        "title": "Serverless Data Import to DynamoDB using S3 and Lambda",
+        "date": "2020-04-30T21:21:21Z",
+        "description": "Amazon DynamoDB is a fast, web-scale NoSQL database that is central to many serverless applications. The S3-to-Lambda pattern can be used to load data ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "TxTnLLpSRq0",
+        "title": "Creating &amp; Interacting with a Serverless AWS Lambda REST API with React &amp; AWS Amplify",
+        "date": "2018-11-08T17:56:10Z",
+        "description": "In multiple occasions, your applications needs to make call to a REST API. In this video you will learn how easy is to create serverless REST APIs using the CLI ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "yhCoVfKYp7M",
+        "title": "How to Build Alexa Skill using C# and AWS Lambda",
+        "date": "2018-11-21T20:43:53Z",
+        "description": "Alexa is Amazon's cloud-based voice service and the brain behind tens of millions of devices including the Echo family of devices, FireTV, Fire Tablet, and ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "0hXXmcmSqHw",
+        "title": "Amazon Aurora – AWS Lambda Integration",
+        "date": "2016-10-18T21:17:35Z",
+        "description": "Learn more about AWS Lambda Integration at - http://amzn.to/2dnluRY Now you can invoke AWS Lambda functions directly from an Amazon Aurora database ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "BWAfW69RqR4",
+        "title": "Which HTTP method should I use to invoke Lambda in my API Gateway API with Lambda integration?",
+        "date": "2019-11-08T20:57:44Z",
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/2No9cNs Shruti shows you which HTTP method you should use to invoke ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "ktyAd9IpAE4",
+        "title": "Integrating Salesforce applications with AWS Services: AWS Lambda Function",
+        "date": "2019-02-28T17:00:08Z",
+        "description": "Learn more about AWS at - https://amzn.to/2SrA3Zu The seventh video in our series on Lambda functions and how they are used in the architecture. It includes ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "1SwHH7qQ6Pc",
+        "title": "Advance Local: Automating Cross-Team Collaboration with AWS Lambda",
+        "date": "2019-08-16T15:00:02Z",
+        "description": "In this episode of This Is My Architecture - https://amzn.to/2ZgrqVP, learn how Advance Local, one of the largest media groups in the USA, is taking advantage of ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "wbHXH8dzgyI",
+        "title": "Announcement: API Gateway Canary Release Deployments, CodeDeploy Serverless &amp; Lambda",
+        "date": "2017-12-08T23:20:14Z",
+        "description": "For more information on the AWS Twitch Channel, visit http://amzn.to/2jv2RoG and to check out the full list of products launched at AWS re:Invent, visit ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "MGvqRowfkVI",
+        "title": "AWS Summit Singapore - Lambda, Step Functions and Datadog: A Symphony",
+        "date": "2018-05-22T20:20:20Z",
+        "description": "OK, you have built your first Lambda function. It may even be useful (and not just a thumbnail generator). But an application is more than just a single function; ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "VWQ74b0JzV0",
+        "title": "CA Technologies: Serverless Deployment Pipelines for AWS Lambda Functions",
+        "date": "2017-05-17T15:23:04Z",
+        "description": "On the next episode of This Is My Architecture, Amit from CA Technologies explains how they built a serverless AWS Lambda function deployment pipeline using ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "1SwHH7qQ6Pc",
+        "title": "Advance Local: Automating Cross-Team Collaboration with AWS Lambda",
+        "date": "2019-08-16T15:00:02Z",
+        "description": "In this episode of This Is My Architecture - https://amzn.to/2ZgrqVP, learn how Advance Local, one of the largest media groups in the USA, is taking advantage of ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "Kebb0LOVC28",
+        "title": "Openfit: ChatOps with Slack and AWS Lambda",
+        "date": "2020-02-10T18:41:16Z",
+        "description": "Dave from Openfit describes how ChatOps on AWS accelerates his team's continuous integration and continuous deployment (CI/CD) capabilities. Openfit's ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "ANid5B_euzk",
+        "title": "Serverless Workflows using S3 and Lambda",
+        "date": "2020-04-30T21:21:21Z",
+        "description": "AWS Step Functions allows to represent complex business logic flows in your application without using custom code. You can trigger Step Functions workflows ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "iIn47wOQbmo",
+        "title": "Sentient - UX Optimization Platform with Lambda at the Edge, Amazon CloudFront and AI",
+        "date": "2018-06-01T16:31:58Z",
+        "description": "Tyler shares how Sentient went from multiple ECS clusters, ALB and auto-scaling to Lambda at the edge coupled with Amazon CloudFront to reduce latency, ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "_IUf6SH9sPg",
+        "title": "Freshworks: Building Customer-for-Life Software using AWS Lambda",
+        "date": "2020-04-06T19:42:20Z",
+        "description": "Tejas Bhandarkar, Senior Director of Product at Freshworks, sat down with us at re:Invent 2019 to share about Freshworks' journey and success with serverless ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "YF2-moQNq-8",
+        "title": "AWS re:Invent Launchpad 2017 - Announcement: CloudTrail Support for Lambda Invoke API Activity",
+        "date": "2017-12-08T23:34:26Z",
+        "description": "You can now log the execution activity of your AWS Lambda functions with AWS CloudTrail Lambda data events. Previously, you could only log Lambda ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "hbz63Ve-eIY",
+        "title": "Wix: Serverless Platform for End-to-End Browser Testing using Chromium on AWS Lambda",
+        "date": "2020-07-20T17:19:57Z",
+        "description": "Tom from Wix describes the company's end-to-end testing platform called SLED. SLED uses open source technologies such as Chromium, Jest, and Puppeteer ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "g5PNX-8MRt0",
+        "title": "AWS Summit Chicago 2016: Getting Started with AWS Lambda and the Serverless Crowd",
+        "date": "2016-04-21T23:06:57Z",
+        "description": "Watch Dr. Tim Wagner talk about AWS Lambda. You can easily build scalable microservices for mobile, web, and IoT applications or respond to events from ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "X6tCl7V6C5s",
+        "title": "Scaling CRISPR with AWS Lambda",
+        "date": "2018-06-13T17:11:17Z",
+        "description": "Benchling Engineering Manager Vineet Gopal talks about how the life science data management and collaboration platform scales CRISPR with AWS Lambda."
+    },
+    {
+        "service": "lambda",
+        "videoId": "azTCZRBe6SA",
+        "title": "Serverless Automated Translation Using S3 and Lambda",
+        "date": "2020-04-30T21:21:21Z",
+        "description": "Learn how you can use bring automated natural language translation into your applications with minimal code. This solution uses Amazon Translate to ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "zmHoHSZqvHY",
+        "title": "Live from the London Loft | Into to AWS Lambda &amp; the Serverless Cloud",
+        "date": "2017-10-03T16:45:02Z",
+        "description": "Visit http://amzn.to/2xbt3Fx for more information on the current live coding shows, upcoming episode schedule, or for recordings of previous broadcasts. To learn ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "ihlxpBlD8IA",
+        "title": "AWS Summit Singapore - GitHub to Lambda: Developing, Testing and Deploying Serverless Apps",
+        "date": "2018-05-22T20:21:00Z",
+        "description": "AWS Lambda has emerged as a powerful and cost-effective way for enterprises to quickly deploy services without the need to provision and manage virtual ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "W5qVQr-n5M8",
+        "title": "FICO: Fraud Detection and Anti-Money Laundering with AWS Lambda and AWS Step Functions",
+        "date": "2019-04-13T16:00:04Z",
+        "description": "In this episode of This is My Architecture - https://amzn.to/2GcuycR, Sven from FICO explains how they use a combination of AWS Lambda and AWS Step ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "mxKhbU_ToMs",
+        "title": "MindTouch: Modernizing Legacy C# Applications to .NET Core on AWS Lambda",
+        "date": "2019-05-24T19:23:04Z",
+        "description": "Learn more about This Is My Architecture at - https://amzn.to/30JpV3u. Learn how to deconstruct your monolithic application into agile microservices while ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "NLTXBmrpuHQ",
+        "title": "Thomson Reuters Product Insight: Real Time Analytics with Kinesis, Lambda and S3",
+        "date": "2017-05-25T16:34:43Z",
+        "description": "Thomson Reuters shares how they built Product Insight: A multi-tenant web usage analytics platform that processes up to 1000 events per second. The solution ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "oDLUTgEn2gc",
+        "title": "Crownpeak: Using AWS Lambda for its Decoupled Content Deployment Architecture (LIVE)",
+        "date": "2020-01-14T00:35:22Z",
+        "description": "Crownpeak's SaaS platform is a serverless event-driven content management system. Its decoupled content deployment architecture separates content ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "-xsel7RFa7A",
+        "title": "AWS Innovate | Build an AI-powered Twitter Bot with Python, AWS Lambda &amp; Amazon SageMaker (Ses. 1)",
+        "date": "2018-03-02T17:58:34Z",
+        "description": "To catch up on more AWS Twitch streams and to see the upcoming calendar, visit http://amzn.to/2EW27hx. In this interactive Twitch stream, viewers were able to ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "_TVv0VVgWsc",
+        "title": "Live Coding with AWS | Building AWS Lambda Powered Twitter Bots",
+        "date": "2018-02-14T21:05:03Z",
+        "description": "Check out the upcoming schedule, previous recordings, and links to the resources discussed at - http://amzn.to/2sC2E6T. Build serverless bots to message new ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "ePqlWZxeuSg",
+        "title": "Going from 0 to 1,000 with AWS Lambda",
+        "date": "2019-09-10T16:00:10Z",
+        "description": "Learn more about AWS Serverless Application Model (SAM) at – https://amzn.to/2k8fMgl Alexander Wood Alex Wood demonstrates using open source tools to ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "SWisT0jMT70",
+        "title": "AWS Sydney Summit 2018: Break Glass using AWS Systems Manager and Lambda",
+        "date": "2018-05-21T18:56:02Z",
+        "description": "Breakglass approach is needed to break into a system when Active directory is down. Demo will showcase the SSM capabilities to and serverless approach to ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "-6k-TFV3M8o",
+        "title": "How to Create a .NET Based AWS Lambda to Receive Events from an IoT Button and Send Data to Kinesis",
+        "date": "2018-11-21T20:41:03Z",
+        "description": "8-How to Create a .NET Based AWS Lambda to Receive Events from an IoT Button and Send Data to Kinesis The AWS IoT Button is a programmable button ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "Idg8c9rf4u4",
+        "title": "Wag: CX Automation with AWS Connect, Lex and Lambda",
+        "date": "2019-04-05T20:41:30Z",
+        "description": "Learn more about AWS Startups at – https://amzn.to/2D1L7Ye Dave Bullock, Sr. Director of Technology, Engineering and Operations at Wag Labs, Inc. talks ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "xShLxQ1t27I",
+        "title": "GameStop/Pariveda: Building Smart Deployment Pipelines with Lambda and CodeBuild on AWS",
+        "date": "2017-09-19T16:23:25Z",
+        "description": "On this episode of This is My Architecture, Pariveda and Gamestop demonstrate how they built a self-deploying pipeline focused on templates and being \"right ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "HKZxUs0e8iw",
+        "title": "AWS Innovate | Build an AI-powered Twitter Bot with Python, AWS Lambda &amp; Amazon SageMaker (Ses. 2)",
+        "date": "2018-03-02T18:01:19Z",
+        "description": "To catch up on more AWS Twitch streams and to see the upcoming calendar, visit http://amzn.to/2GOAvLW. In this interactive Twitch stream, viewers were able to ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "pAnZPKJ9EFY",
+        "title": "Paessler AG: VPC Mass Creation with Lambda and Step Functions",
+        "date": "2019-01-09T20:49:46Z",
+        "description": "Learn more about This Is My Architecture at - https://amzn.to/2CaO5Zf. Learn about how Paessler AG uses Step Functions to create hundreds of VPC's. Paessler ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "BKx9vxxuZXY",
+        "title": "AWS Lambda Day 2015: Building with the Serverless Framework with Austin Collins",
+        "date": "2016-07-27T16:42:32Z",
+        "description": "Watch Austin Collins, the founder of Serverless, build an application without servers using AWS Lambda and Amazon API Gateway with Serverless. Also learn ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "rUBguZYWSpg",
+        "title": "AWS Loft Compute Evolved Week | Getting Started with AWS Lambda &amp; Serverless Applications",
+        "date": "2019-03-04T21:09:15Z",
+        "description": "Speaker: Shivansh Singh, Partner Solutions Architect In this session we take a high-level overview of Lambda, a serverless compute platform that has changed ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "3d_UAGW6Q8E",
+        "title": "Getting Started with AWS - Make Your Site Robust with AWS Lambda",
+        "date": "2018-09-17T18:19:30Z",
+        "description": "Sign up for AWS Educate at - https://amzn.to/2MH7mF5. In our first episode, you learned about the rising role of cloud computing in technology, how to get ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "copO_JQQsBs",
+        "title": "AWS Lambda: Event-driven Code in the Cloud",
+        "date": "2015-04-10T21:43:14Z",
+        "description": "AWS Lambda is a new compute service that runs your code in response to events and automatically manages compute resources for you. In this session, you ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "75dM3yTlkoc",
+        "title": "Lambda Day - AdRoll + Lambda",
+        "date": "2016-07-27T16:42:15Z",
+        "description": "Learn More - http://amzn.to/2asN5Wt - - - - - - - - - - - - - - - Learn how AdRoll uses AWS Lambda for their real-time bidding platform."
+    },
+    {
+        "service": "lambda",
+        "videoId": "_IUf6SH9sPg",
+        "title": "Freshworks: Building Customer-for-Life Software using AWS Lambda",
+        "date": "2020-04-06T19:42:20Z",
+        "description": "Tejas Bhandarkar, Senior Director of Product at Freshworks, sat down with us at re:Invent 2019 to share about Freshworks' journey and success with serverless ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "DD9shNH4ufk",
+        "title": "Tech Bytes | Build a .NET Chatbot | Debugging the Lambda Function",
+        "date": "2018-03-26T15:57:18Z",
+        "description": "To catch up on more AWS Twitch streams and to see the upcoming calendar, visit https://amzn.to/2IIZeDf. In this interactive Twitch stream, viewers, along with ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "2meL_wlSShA",
+        "title": "AWS Summit Tel Aviv 2016: Using Amazon CloudWatch Events, Lambda &amp; Spark to Process EC2 Events",
+        "date": "2016-07-14T15:42:13Z",
+        "description": "Learn More: http://amzn.to/29xrgQr - - - - - - - - - - - - - - - - - Session Language: English Earlier this year, AWS introduced Amazon CloudWatch Events, a feature ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "16N53-gjYXo",
+        "title": "How Bustle Leverages AWS Lambda to Help Editorial Teams Scale",
+        "date": "2019-09-09T16:47:00Z",
+        "description": "Learn more about AWS Startups at – https://amzn.to/2k3ZrJz Bustle Media Group, a New York City-based company with eight brands under its umbrella, ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "mxKhbU_ToMs",
+        "title": "MindTouch: Modernizing Legacy C# Applications to .NET Core on AWS Lambda",
+        "date": "2019-05-24T19:23:04Z",
+        "description": "Learn more about This Is My Architecture at - https://amzn.to/30JpV3u. Learn how to deconstruct your monolithic application into agile microservices while ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "c797gM0f_Pc",
+        "title": "Building Business Workflows with AWS Step Functions",
+        "date": "2019-02-01T19:47:47Z",
+        "description": "With AWS Step Functions you can build workflows to coordinate applications from single AWS Lambda functions up through complex multi-step workflows."
+    },
+    {
+        "service": "lambda",
+        "videoId": "YQlhbtPnwlI",
+        "title": "AWS Quick Start - Getting Started with Serverless Computing Using AWS Lambda",
+        "date": "2018-11-23T18:23:53Z",
+        "description": "Register for our upcoming webinars - https://amzn.to/2FC0lap. With serverless computing, you can build and run applications without the need for provisioning or ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "4OO31GkGoa4",
+        "title": "Tech Bytes | Build a .NET Chatbot | Building the &quot;Order Flowers&quot; Lambda Function",
+        "date": "2018-03-26T15:56:35Z",
+        "description": "To catch up on more AWS Twitch streams and see the upcoming calendar, visit: https://amzn.to/2DPvilg. In this interactive coding session, AWS Sr Technical ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "nTSzTqKmbAI",
+        "title": "Pop-up Loft Stockholm: Using Lambda Functions for DevSecOps Integration &amp; Automated Threat Response",
+        "date": "2019-04-24T19:51:49Z",
+        "description": "Dave Walker gives his presentation on \"Using Lambda Functions for DevSecOps Integration and Automated Threat Response.\""
+    },
+    {
+        "service": "lambda",
+        "videoId": "ZqAPUMbh054",
+        "title": "French Startup Wakatoon Uses Lambda to Bring Coloring Books to Life",
+        "date": "2019-06-03T19:20:32Z",
+        "description": "Learn more about AWS Startups at – https://amzn.to/2Z0mVhq Wakatoon Founder & CEO Pierrick Chabi talks about the animation startup's origins and how his ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "BX0YwXKY0-g",
+        "title": "AWS Tel Aviv Summit 2018: Using Lambda Functions for DevSecOps Integration",
+        "date": "2018-04-02T17:40:52Z",
+        "description": "Want to learn more about past and upcoming AWS Israel events and activities? Visit us at - https://amzn.to/2DWIwMN. In addition to mapping controls and ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "MSsMOtLZXKc",
+        "title": "Authoring and Deploying Serverless Applications with AWS SAM",
+        "date": "2018-06-29T23:58:36Z",
+        "description": "AWS Public Sector Summit 2018 - Washington, D.C. Serverless applications can be composed of multiple AWS resources such as AWS Lambda functions ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "D_U6luQ6I90",
+        "title": "AWS re:Invent 2015 | (DVO209) JAWS: The Monstrously Scalable Serverless Framework",
+        "date": "2015-10-12T20:35:09Z",
+        "description": "You can now build entire applications without servers using AWS Lambda and Amazon API Gateway - JAWS just makes it easier. JAWS is an open-source ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "sMaqd5J69Ns",
+        "title": "AWS re:Invent 2017: State Machines in the Wild! How Customers use AWS Step Functions (SRV306)",
+        "date": "2017-12-01T16:48:04Z",
+        "description": "AWS Step Functions makes it easy to coordinate AWS Lambda functions, run business workflows, and automate operations using state machines. The product ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "WrPOz2dx8XY",
+        "title": "AWS re:Invent 2017: What&#39;s New in Serverless (SRV305)",
+        "date": "2017-12-05T22:59:50Z",
+        "description": "Join us to learn what's new in serverless computing and AWS Lambda. Dr. Tim Wagner, General Manager of AWS Lambda and Amazon API Gateway, will share ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "TOn0xhev0Uk",
+        "title": "AWS re:Invent 2019: [REPEAT 1] Building microservices with AWS Lambda (SVS343-R1)",
+        "date": "2019-12-07T05:48:45Z",
+        "description": "Many developers have become familiar with building microservices on traditional compute offerings such as virtual machines and containers, but what about ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "ddg1u5HLwg8",
+        "title": "AWS re:Invent 2019: [REPEAT 1] Best practices for AWS Lambda and Java (SVS403-R1)",
+        "date": "2019-12-07T05:48:47Z",
+        "description": "In this session, we follow a customer's journey as they optimize an AWS Lambda function written in Java to meet their cold start time requirements. We start from ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "xmacMfbrG28",
+        "title": "AWS re:Invent 2019: [REPEAT 1] A serverless journey: AWS Lambda under the hood (SVS405-R1)",
+        "date": "2019-12-09T18:43:35Z",
+        "description": "Serverless computing allows you to build and run applications and services without thinking about servers. Serverless applications don't require you to provision ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "QNnMpoD4RHM",
+        "title": "AWS re:Invent 2019: [REPEAT 1] Asynchronous-processing best practices with AWS Lambda (SVS406-R1)",
+        "date": "2019-12-07T05:48:52Z",
+        "description": "Waiting around for your workload to finish is expensive, and controlling the flow of traffic to protect your precious system is hard. AWS Lambda event invocations ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "S8zcgBLCm-E",
+        "title": "SMS Chatbot with Amazon Pinpoint, Amazon Lex, and AWS Lambda",
+        "date": "2020-02-04T18:06:10Z",
+        "description": "In this webinar you will learn how to build an AI-powered chatbot that your customers can engage with by sending SMS messages. This chatbot can help ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "2rikdPIFc_Q",
+        "title": "AWS re:Invent 2019: Scalable serverless event-driven applications using Amazon SQS &amp; Lambda (API304)",
+        "date": "2019-12-05T17:56:52Z",
+        "description": "Event-driven integration patterns emerged to enable integration between serverless applications at scale. Join this session to learn best practices for integrating ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "4Xi9Chep3O8",
+        "title": "AWS Summit Online ASEAN 2020 | Supersonic Serverless Java on AWS Lambda",
+        "date": "2020-08-28T18:03:07Z",
+        "description": "Java has typically been associated with cold starts, making it less attractive for serverless technologies such as AWS Lambda. In this session, you discover the ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "g7sKMslkkFI",
+        "title": "AWS re:Invent 2019 Launchpad | AWS Lambda Provisioned Concurrency",
+        "date": "2020-03-17T19:02:53Z",
+        "description": "Subscribe: More AWS videos http://bit.ly/2O3zS75 More AWS events videos http://bit.ly/316g9t4 #AWS #reInvent2019 #AWSLaunchpad."
+    },
+    {
+        "service": "lambda",
+        "videoId": "dFY2hsBiFcI",
+        "title": "Unit-testing your AWS Lambda functions in Go",
+        "date": "2020-04-06T20:52:55Z",
+        "description": "During this episode of Serverless Office Hours, AWS Serverless Developer Advocate Rob Sutter shows you how to use dependency injection and pointer ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "9iCJFf2th5Q",
+        "title": "AWS re:Invent 2019: Go event-driven with AWS Lambda &amp; Event Mesh (DEM42-S)",
+        "date": "2019-12-07T06:04:14Z",
+        "description": "We live in an event-driven world. Events are becoming a core component of new business architectures, and they allow organizations to react in real time to an ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "SzRl1Kzo4lE",
+        "title": "AWS re:Invent 2019: Building the future of writing with AWS Lambda (STP206)",
+        "date": "2019-12-09T18:44:29Z",
+        "description": "The future of writing is knowing how well your words work before anyone reads them. Textio is building an augmented writing platform and using AWS to do it."
+    },
+    {
+        "service": "lambda",
+        "videoId": "PF7HaD567rM",
+        "title": "AWS re:Invent 2019: [REPEAT 1] Networking best practices for serverless applications (SVS404-R1)",
+        "date": "2019-12-07T05:48:50Z",
+        "description": "Serverless technologies such as AWS Lambda have removed the burden of server management, but what about networking? When should you put a Lambda in ..."
+    },
+    {
+        "service": "lambda",
+        "videoId": "dMnnNMCt2RI",
+        "title": "Serverless Office Hours - Item-level Permissions in Amazon DynamoDB",
+        "date": "2020-04-01T16:00:18Z",
+        "description": "In this episode of Serverless Office Hours, you'll learn how to create inline policies for your AWS Lambda functions that restrict access to a DynamoDB table at ..."
+    },
+    {
+        "service": "lambda",
         "videoId": "WbHw14hF7lU",
         "tags": [
             "AWS re:Invent 2017",
