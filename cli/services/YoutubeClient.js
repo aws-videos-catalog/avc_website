@@ -7,13 +7,28 @@ const client = google.youtube({
 })
 
 class YoutubeClient {
+  async searchVideos ({ channelId, query, pageToken }) {
+    const response = await client.search.list({
+      part: 'snippet',
+      type: 'video',
+      channelId: channelId,
+      q: query,
+      ...(pageToken && { pageToken }),
+      maxResults: 100,
+      order: 'relevance',
+      relevanceLanguage: 'en'
+    })
+
+    return response.data
+  }
+
   async getVideoDetails (videoId) {
-    const res = await client.videos.list({
+    const response = await client.videos.list({
       part: 'snippet,contentDetails,statistics',
       id: videoId
     })
 
-    const video = res.data.items[0]
+    const video = response.data.items[0]
 
     if (!video) {
       return null
