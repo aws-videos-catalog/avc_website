@@ -149,24 +149,6 @@
     },
     {
         "service": "aws_single_sign-on",
-        "videoId": "y_n9xN5mg1g",
-        "tags": [
-            "AWS",
-            "Amazon Web Services",
-            "Cloud",
-            "cloud computing",
-            "AWS Cloud",
-            "SSO",
-            "Control Tower",
-            "Access"
-        ],
-        "title": "Provisioning Users in AWS Control Tower Using AWS SSO",
-        "description": "Learn more about AWS Management and Governance at https://amzn.to/2roeilr\nIn this video, you’ll see how to provision users in AWS Control Tower using AWS Single Sign-On (or SSO). With Control Tower, you can create users using preconfigured groups, manage account access from a centralized location, and create customized permission sets for groups and users within those accounts.",
-        "date": "2019-11-26T20:50:29Z",
-        "duration": 393
-    },
-    {
-        "service": "aws_single_sign-on",
         "videoId": "aEIqeFCcK7E",
         "tags": [
             "re:Invent 2019",
