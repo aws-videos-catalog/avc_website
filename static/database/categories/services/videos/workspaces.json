@@ -1,6 +1,34 @@
 [
     {
         "service": "workspaces",
+        "videoId": "uCH04Mlg0yU",
+        "title": "Amazon WorkSpaces Animated Explainer",
+        "date": "2020-11-09T22:05:48Z",
+        "description": "Get started with Amazon WorkSpaces, provide secure access to your applications anywhere anytime with this fully managed desktop as as service solution."
+    },
+    {
+        "service": "workspaces",
+        "videoId": "IB1BIqPDAL0",
+        "title": "AWS re:Invent 2017: User Self-Service and Admin Portals for Amazon WorkSpaces (BAP302)",
+        "date": "2017-11-30T17:05:36Z",
+        "description": "You've successfully moved your desktops to AWS using Amazon WorkSpaces. Now, you'd like to start automating your operations. In this session, we show you ..."
+    },
+    {
+        "service": "workspaces",
+        "videoId": "1faHSMYq5xA",
+        "title": "UVA’s McIntire School of Commerce Finds Flexibility in Virtual Desktops with Amazon WorkSpaces",
+        "date": "2019-08-08T12:38:50Z",
+        "description": "The University of Virginia's (UVA) McIntire School of Commerce turned to Amazon Web Services (AWS) to provide flexible, cost-efficient, virtual desktops to its ..."
+    },
+    {
+        "service": "workspaces",
+        "videoId": "DgjLx4uJSBg",
+        "title": "What’s New with AWS – Week of August 27, 2018",
+        "date": "2018-08-31T19:54:55Z",
+        "description": "In this episode, Jeff Barr shares what's new with AWS Amplify, Amazon WorkDocs, Amazon WorkSpaces and AWS Deep Learning AMIs. For more information ..."
+    },
+    {
+        "service": "workspaces",
         "videoId": "NiPZgy1nIDs",
         "tags": [
             "AWS",
