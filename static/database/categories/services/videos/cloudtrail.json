@@ -1,6 +1,55 @@
 [
     {
         "service": "cloudtrail",
+        "videoId": "6b_ENVFgCpA",
+        "title": "Monitor AWS CloudTrail Log Data in Amazon CloudWatch",
+        "date": "2020-09-30T18:00:33Z",
+        "description": "In this video, you'll see how to monitor AWS CloudTrail log data in Amazon CloudWatch. With CloudWatch, you can visualize and explore your CloudTrail logs, ..."
+    },
+    {
+        "service": "cloudtrail",
+        "videoId": "SrzHZpG-r9Q",
+        "title": "Visualize AWS CloudTrail Logs in Kibana Using Amazon Elasticsearch Service",
+        "date": "2020-10-21T18:54:54Z",
+        "description": "In this video, you'll see how to visualize AWS CloudTrail logs in Kibana using Amazon Elasticsearch Service. With this service, you can stream log data to an ..."
+    },
+    {
+        "service": "cloudtrail",
+        "videoId": "xgTTwfCALic",
+        "title": "Why did my CloudTrail cost and usage increase unexpectedly?",
+        "date": "2020-10-20T16:28:44Z",
+        "description": "For more details see the Knowledge Center article with this video: ..."
+    },
+    {
+        "service": "cloudtrail",
+        "videoId": "ZtQbcFx6JOY",
+        "title": "AWS Audit and Access Logging for Education",
+        "date": "2017-06-27T16:16:27Z",
+        "description": "Learn more about AWS CloudTrail: http://amzn.to/2suZf7w. In the Audit and Access Logging video, you'll learn how to use AWS CloudTrail to log AWS API calls, ..."
+    },
+    {
+        "service": "cloudtrail",
+        "videoId": "pks5c_S5Tk8",
+        "title": "Coinbase: High Security IAM at Speed with AWS",
+        "date": "2017-02-27T17:44:11Z",
+        "description": "On this episode of This is My Architecture, Rob Witoff, Director of Infrastructure dives into IAM and Cloudtrail policy management at Coinbase. You'll see how ..."
+    },
+    {
+        "service": "cloudtrail",
+        "videoId": "6HK6Z2BULL8",
+        "title": "What&#39;s New with AWS - Week of September 29, 2017",
+        "date": "2017-09-30T18:21:36Z",
+        "description": "Learn What's New with AWS at - http://amzn.to/2hIIGlC. This week: AWS CloudTrail now allows you to automatically add your new and existing Amazon S3 ..."
+    },
+    {
+        "service": "cloudtrail",
+        "videoId": "kWJoiZ9yMpg",
+        "title": "AWS re:Invent 2019: Monitoring anomalous application behavior (NFX205)",
+        "date": "2019-12-08T23:32:13Z",
+        "description": "AWS CloudTrail provides a wealth of information on your AWS environment. In addition, teams can use it to perform basic anomaly detection by adding state."
+    },
+    {
+        "service": "cloudtrail",
         "videoId": "4ztTv5rIRv8",
         "tags": [
             "AWS",
