@@ -1,6 +1,664 @@
 [
     {
         "service": "rds",
+        "videoId": "knrNBkr5iTM",
+        "title": "Getting Started with Amazon RDS - Relational Database Service on AWS",
+        "date": "2012-04-12T13:59:58Z",
+        "description": "Amazon Relational Database Service (RDS) makes it easy to set up, operate, and scale a relational database in the cloud. Learn how to create, scale and ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "lyNGeDg6EII",
+        "title": "Amazon RDS Snapshot Export to S3",
+        "date": "2020-04-03T21:22:35Z",
+        "description": "In this demo, we'll see how we can export Amazon RDS snapshots to Amazon S3, run queries on them using Amazon Athena, and automate the entire process ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "ULRnn6tIYu8",
+        "title": "Introduction to RDS Proxy",
+        "date": "2020-06-11T17:08:31Z",
+        "description": "RDS Proxy is a fully managed database proxy for Amazon Relational Database Service (RDS) that makes applications more scalable, more resilient to database ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "ypWzL3PdKx0",
+        "title": "How can I connect to a private Amazon RDS instance from local system through EC2 as a bastion host?",
+        "date": "2020-09-28T12:38:42Z",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/rds-connect-ec2-bastion-host/ ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "-9_Gat9cJn4",
+        "title": "How do I publish RDS MySQL and Aurora MySQL logs to Amazon CloudWatch?",
+        "date": "2019-09-10T18:35:03Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2ZSgyOa Anshul, an AWS Cloud Support Engineer, shows you how to publish RDS MySQL and ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "COsx7UrMGL4",
+        "title": "How do I create a read replica for an Amazon RDS database?",
+        "date": "2020-01-09T22:28:25Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/32dXRVD Adas, an AWS Cloud Support Engineer, shows you how to create a read replica for ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "eMzCI7S1P9M",
+        "title": "Understanding Amazon Relational Database Service (RDS)",
+        "date": "2018-10-15T21:10:52Z",
+        "description": "Learn more about Amazon RDS and get started using the AWS Free Tier at - https://amzn.to/2CMqtwQ. Relational databases are at the heart of your most critical ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "mcqf6Lu4KDo",
+        "title": "Modernize On-Premises Databases with Amazon RDS on VMware",
+        "date": "2020-03-26T16:00:31Z",
+        "description": "Watch our webinar to learn how your organization can benefit by running Amazon RDS in an on-premises VMware environment. Learn more about Amazon ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "vfIdLuhKTs8",
+        "title": "How do I safely decouple an Amazon RDS instance from an Elastic Beanstalk environment?",
+        "date": "2020-05-20T22:12:11Z",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/decouple-rds-from-beanstalk/ ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "o4Sf5Z6E2lk",
+        "title": "How do I authenticate to an Amazon RDS DB instance using IAM credentials?",
+        "date": "2019-11-20T17:26:36Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2nNcyjO Jeeri, an AWS Cloud Support Engineer, shows you how to authenticate to an Amazon ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "vIiPgl3uKBo",
+        "title": "How to configure and leverage Performance Insights with RDS SQL Server",
+        "date": "2019-10-04T18:11:33Z",
+        "description": "Learn more about AWS at – https://amzn.to/30Lv2yX Amazon RDS Performance Insights, an advanced database performance monitoring feature that makes it ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "2JyiHnjdRiQ",
+        "title": "Amazon RDS support for SQL Server Reporting Services",
+        "date": "2020-08-27T19:53:48Z",
+        "description": "Learn how to deploy your SQL Server Reporting Services (SSRS) reports on Amazon RDS. In this video, you will learn about prerequisites, limitations, and the ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "mb3nFZLY0vM",
+        "title": "How do I migrate databases from an RDS Oracle DB instance to an RDS MySQL DB instance using DMS?",
+        "date": "2017-11-14T14:56:36Z",
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/migrate-db-dms/ John, an AWS Cloud Support ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "ihAgMHP3jPk",
+        "title": "How do I connect to an RDS or Aurora PostgreSQL DB with IAM authentication through PgAdmin?",
+        "date": "2020-09-09T16:28:54Z",
+        "description": "For more details see the Knowledge Center article with this video: ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "JHVSesLmWkY",
+        "title": "Understanding Amazon RDS on VMware",
+        "date": "2018-11-26T18:59:44Z",
+        "description": "Learn more about Amazon RDS on VMware at - https://amzn.to/2R9RDRO. Amazon Relational Database Service (RDS) on VMware lets you deploy managed ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "fxNmMQvOjbA",
+        "title": "How do I restore data from an Amazon RDS database snapshot?",
+        "date": "2018-08-13T14:33:55Z",
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/restore-rds-instance-from-snapshot/ Shane, an ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "7t2-95NDfBU",
+        "title": "Getting Started with Multi AZ for RDS SQL Server",
+        "date": "2014-05-19T20:56:20Z",
+        "description": "Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale a relational database in the cloud. Through synchronous ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "2NnS55pto4I",
+        "title": "Creating Read Replicas in RDS SQL Server",
+        "date": "2020-08-25T20:37:59Z",
+        "description": "Learn how to deploy up to five asynchronous SQL Server Read replicas on RDS. In this video you will learn prerequisites, limitations and process of deploying ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "4-6Jo7RDLoc",
+        "title": "Amazon RDS support for SQL Server Integration Services",
+        "date": "2020-08-25T20:59:30Z",
+        "description": "Learn how to deploy your SQL Server Integration Services (SSIS) packages on Amazon RDS. In this video, you will learn about prerequisites, limitations, and the ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "WVZKbblvqXI",
+        "title": "Integration of Amazon RDS Oracle with AWS Directory Service",
+        "date": "2020-06-26T18:06:49Z",
+        "description": "Customers can streamline database identity management by sourcing and managing all their user identities from Active Directory . It also enables you to reuse ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "gFkguN0y_ho",
+        "title": "How can I share an encrypted Amazon RDS DB snapshot with another account?",
+        "date": "2020-08-31T16:02:14Z",
+        "description": "For more details see the Knowledge Center article with this video: ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "b9dBAu7wpk8",
+        "title": "How can I download Binary Logs from RDS MySQL Instance?",
+        "date": "2020-03-26T20:01:03Z",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/rds-mysql-download-binary-logs/ ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "xZCN9Q-imPU",
+        "title": "How do I modify the values of an Amazon RDS DB parameter group?",
+        "date": "2019-07-24T02:26:29Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2XyC35b Adarsha, an AWS Cloud Support Engineer, shows you how to modify the values of an ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "j5da6d2TIPc",
+        "title": "How do I make my RDS MySQL read replica writable?",
+        "date": "2018-12-07T16:45:11Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2RZNuzZ Christiaan, an AWS Cloud Support Engineer, shows you how to make your Amazon ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "V5PAKqvRuGc",
+        "title": "How do I enable Slow Query Log in RDS MySQL DB Instance to view or download them?",
+        "date": "2020-01-29T21:02:40Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2MYMb4O Adas, an AWS Cloud Support Engineer, shows you how to enable Slow Query Log ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "dN7qxWl8g4I",
+        "title": "What do I do if my Amazon RDS MySQL DB instance is using more storage than expected?",
+        "date": "2019-05-06T16:38:10Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2V18StS Murali, an AWS Cloud Support Engineer, shows you what you can do if your Amazon ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "4ylTsooX5-U",
+        "title": "Amazon RDS in AWS Free Usage Tier!",
+        "date": "2012-10-01T22:48:57Z",
+        "description": "Amazon RDS - Relationship Database as a Service announces that Amazon RDS is now available in the AWS Free Usage Tier."
+    },
+    {
+        "service": "rds",
+        "videoId": "PxFZt8MG2ss",
+        "title": "How can I troubleshoot connectivity to an RDS instance that uses a public/private subnet of a VPC?",
+        "date": "2019-05-22T20:33:35Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2IKO4RK Arnab, an AWS Cloud Support Engineer, shows you how to troubleshoot connectivity ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "qvhxJ14buS4",
+        "title": "How do I prevent storage full issues by monitoring Amazon RDS free storage space using the AWS CLI?",
+        "date": "2020-05-04T17:40:42Z",
+        "description": "For more details see the Knowledge Center article with this video: ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "Bk6_xfY1Ajw",
+        "title": "Cathay Pacific Airways Increases Performance by 20% After Moving to Amazon RDS",
+        "date": "2020-09-25T21:34:09Z",
+        "description": "Cathay Pacific migrated its on-premises PROS into the cloud on AWS. A Hong Kong–based airline with more than 200 destinations across 5 continents, Cathay ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "3XvD9NqP-uA",
+        "title": "How do I resolve problems when connecting to my Amazon RDS DB instance?",
+        "date": "2020-06-25T14:32:56Z",
+        "description": "For more details see the Knowledge Center article with this video: (https://aws.amazon.com/premiumsupport/knowledge-center/rds-cannot-connect/)."
+    },
+    {
+        "service": "rds",
+        "videoId": "efS-NaTf_Fc",
+        "title": "How do I enable Audit logging for Amazon RDS MariaDB or MySQL and publish the logs to CloudWatch?",
+        "date": "2020-01-21T19:39:41Z",
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/2CeMIt3 Sunday shows you how to enable Audit logging for Amazon RDS ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "EqkTT0yQwFE",
+        "title": "How do I change the time zone of my Amazon RDS Oracle database instance?",
+        "date": "2020-05-26T21:17:48Z",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/rds-change-time-zone/ Chirag ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "Fd0n7vJEFyU",
+        "title": "How do I identify which RDS DB parameters are in custom parameter groups and which are default?",
+        "date": "2018-12-14T18:00:15Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2Dwd9fE Stanley, an AWS Cloud Support Engineer, shows you how to identify which Amazon ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "sMP2LsgtGQM",
+        "title": "Airbnb: Troubleshooting and Performance Testing with an Amazon RDS Replay Machine",
+        "date": "2017-03-07T18:08:51Z",
+        "description": "Learn more here - http://amzn.to/2mTF4ib On this episode of This is My Architecture, Xinyao Hu, Engineering Manager at AirBNB discusses the Amazon RDS ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "onQjSA8P04I",
+        "title": "How do I create another master user for my Amazon RDS DB instance that is running MySQL?",
+        "date": "2020-01-07T17:38:00Z",
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/duplicate-master-user-mysql/ Buddhadev, an AWS ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "85Dp3hc65v4",
+        "title": "How can I replicate an RDS for MySQL instance by using binary logs to an on-premises environment?",
+        "date": "2019-01-02T15:40:43Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2Rof5y4 Viqash, an AWS Cloud Support Engineer, shows you how to replicate an Amazon ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "OXI7kiBy6e4",
+        "title": "Rahul Pathak discusses the new Provisioned IOPS feature for Amazon RDS.",
+        "date": "2012-09-26T04:41:19Z",
+        "description": "Rahul Pathak, Sr.Product Manager for Amazon RDS - Relational Database System discusses RDS and the new Provisioned IOPS feature."
+    },
+    {
+        "service": "rds",
+        "videoId": "lA0lAgN0hTI",
+        "title": "Irdeto: Multi DRM Solution with Kubernetes on Amazon EC2 and Amazon RDS",
+        "date": "2019-11-23T03:19:39Z",
+        "description": "Irdeto, a global leader in the cyber security industry, will outline how they leverage AWS cloud architectures to deliver media security solutions. Focusing in ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "Pn5EIHCGslE",
+        "title": "How do I encrypt Amazon RDS snapshots?",
+        "date": "2020-01-06T20:24:30Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2Jw9Ln4 Ross, an AWS Cloud Support Engineer, shows you how to encrypt Amazon RDS ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "_mpfgJGYzmE",
+        "title": "How do I minimize downtime during required Amazon RDS maintenance?",
+        "date": "2020-03-10T15:12:15Z",
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/2QDnRGi Varsha shows you how to minimize downtime during required ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "0RIzglhCxvs",
+        "title": "How do I troubleshoot RDS SQL Server Windows Authentication with AWS Managed Microsoft AD?",
+        "date": "2019-08-05T21:38:52Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/31Mothn Nanda, an AWS Cloud Support Engineer, shows you how to troubleshoot RDS SQL ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "c2Pwy1F2MYo",
+        "title": "AWS KC Videos: How do I authenticate to an Amazon RDS DB instance using IAM credentials?",
+        "date": "2018-04-16T14:01:02Z",
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/users-connect-rds-iam/ Farhin, an AWS Cloud ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "54IgI_xwwko",
+        "title": "AWS KC Videos: How do I perform native backup of an RDS SQL Server DB instance?",
+        "date": "2017-07-05T14:32:55Z",
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/native-backup-rds-sql-server/ Viqash, an AWS ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "0UiMgsM5QHs",
+        "title": "How do I change the VPC for an RDS DB instance?",
+        "date": "2019-02-21T18:11:27Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2N4PrKe Suvendu, an AWS Cloud Support Engineer, shows you how to change the VPC for an ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "PcWOGMalRoM",
+        "title": "How do I troubleshoot connectivity issues to Amazon RDS Multi-AZ instances after failover?",
+        "date": "2019-05-01T14:46:23Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2HWEj2j Mihir, an AWS Support team member, shows you how to troubleshoot connectivity ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "MJ8SUSqcwqQ",
+        "title": "How do I enable functions, procedures, and triggers for my Amazon RDS MySQL instance?",
+        "date": "2019-01-11T20:16:50Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2S3STpG Christiaan, an AWS Cloud Support Engineer, shows you how to enable functions, ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "Dty6IfsDIs8",
+        "title": "My Amazon RDS instance status is stuck in an incompatible parameters state. How can I fix this?",
+        "date": "2020-01-14T17:30:15Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2PNMgdg Simon, an AWS Cloud Support Engineer, shows you how to fix the RDS instance ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "C3mS3bAgZ9Y",
+        "title": "How do I resolve issues with an Amazon RDS database that&#39;s in an incompatible-network state?",
+        "date": "2019-12-23T20:48:02Z",
+        "description": "or more details see the Knowledge Center article with this video: https://amzn.to/2mqfJhd Sergio, an AWS Cloud Support Engineer, shows you how to resolve ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "hwSnY3aQmrA",
+        "title": "How do I resolve problems that occur when Amazon RDS DB instances run out of storage?",
+        "date": "2020-01-29T18:41:08Z",
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/rds-out-of-storage/ Eduarda, an AWS Cloud ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "lydvIJ6c-oc",
+        "title": "How do I enable general logs in RDS MySQL DB Instance and also view and download them?",
+        "date": "2019-12-16T15:48:34Z",
+        "description": "Find more details in the AWS Knowledge Center: http://amzn.to/2joHXHc Robert, an AWS Cloud Support Engineer, shows you how to enable general logs in ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "CuvNAHHXckg",
+        "title": "AWS Knowledge Center Videos: How do I change the encryption key used by my RDS instance?",
+        "date": "2017-10-23T11:34:27Z",
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/update-encryption-key-rds/ Frank, an AWS Cloud ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "uiiS1h4PSI8",
+        "title": "How to Configure Your Amazon RDS Database Instance for High Availability",
+        "date": "2017-09-11T15:32:07Z",
+        "description": "Watch a step-by-step guide on configuring your Amazon RDS database instance for high availability, using a Multi-AZ (Availability Zone) configuration."
+    },
+    {
+        "service": "rds",
+        "videoId": "FqWATsUilKY",
+        "title": "Amazon RDS Multi-AZ: Converting an Amazon RDS database from Single-AZ to Multi-AZ",
+        "date": "2016-11-04T16:21:52Z",
+        "description": "Learn more about Amazon RDS at - http://amzn.to/2fd4TDa Step by step walk-through showing how to convert an existing Amazon RDS Single-AZ database to ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "PKckhAF4Crg",
+        "title": "How do I import data into my PostgreSQL on Amazon RDS DB instance?",
+        "date": "2019-05-30T20:07:50Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2ITHQy6 Ramya, an AWS Cloud Support Engineer, shows you how to import data into your ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "CGTaBGtn0Us",
+        "title": "Use AWS Service Catalog Service Actions with AWS RDS Products",
+        "date": "2020-10-05T20:29:42Z",
+        "description": "In this video, you'll see how to use AWS Service Catalog service actions with Amazon Relational Database Service (Amazon RDS) products. With service ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "PLOzinZ0HMg",
+        "title": "AWS KC Videos: How do I connect to an RDS MySQL DB instance using MySQL Workbench?",
+        "date": "2017-04-27T15:07:24Z",
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/connect-rds-mysql-workbench/ Frank, an AWS ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "wyrzRnf5sC8",
+        "title": "How do I enable query logging using Amazon RDS for PostgreSQL?",
+        "date": "2019-10-22T02:12:32Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2lMuF8p Mohamed, an AWS Cloud Support Engineer, shows you how to enable query logging ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "i0v3lQENN68",
+        "title": "Wave on Moving RDS data to S3 at Scale Using Lambda, Cloudformation, and DMS",
+        "date": "2018-10-08T18:05:07Z",
+        "description": "Startup Central Talks from the 2018 AWS Toronto Summit. Learn more about AWS at - https://amzn.to/2zZtCqv. Michael Warkentin, Operations Engineer at Wave ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "G2kaz_G7vNA",
+        "title": "Amazon RDS support for SQL Server Analysis Services",
+        "date": "2020-09-09T23:24:55Z",
+        "description": "Learn how to deploy your SQL Server Analysis Services (SSAS) models on Amazon RDS. In this video, you will learn the prerequisites, limitations, and process ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "DlatjX3dLYE",
+        "title": "AWS Knowledge Center Videos: How do I delete or terminate RDS resources?",
+        "date": "2018-06-11T14:00:30Z",
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/delete-terminate-rds/ John, an AWS Cloud ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "fefDpHE44g0",
+        "title": "AWS re: Invent DAT 301: Accelerating Amazon RDS Performance with Amazon ElastiCache",
+        "date": "2012-12-07T22:01:24Z",
+        "description": "Learn how you can use Amazon ElastiCache to easily deploy a Memcached-compatible, in-memory caching system to speed up your application performance."
+    },
+    {
+        "service": "rds",
+        "videoId": "O9P1lfQkF78",
+        "title": "How do I troubleshoot problems connecting to an RDS cluster or instance running Amazon Aurora?",
+        "date": "2019-05-20T15:02:19Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2UKOTA6 Peter, an AWS Cloud Support Engineer, shows you how to troubleshoot problems ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "rvwzNGP5a-A",
+        "title": "AWS Knowledge Center Videos: How do I reset my password for master use in an Amazon RDS DB instance?",
+        "date": "2017-04-17T15:24:32Z",
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/reset-master-user-password-rds/ Satya, an AWS ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "217TdDDoUIo",
+        "title": "How to get started with Amazon RDS now!",
+        "date": "2012-10-01T22:49:33Z",
+        "description": "Biswaroop Palit, Sr. Product Manager of Amazon RDS, Relationship Database as a Service talks about how to get started with RDS in just a few clicks."
+    },
+    {
+        "service": "rds",
+        "videoId": "sMEvCBwugLk",
+        "title": "AWS KC Videos: &quot;How can I distribute read requests across multiple RDS Read Replicas?&quot;",
+        "date": "2017-02-01T13:10:24Z",
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/requests-rds-read-replicas/ Joe, an AWS Cloud ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "d_dF76xFvqU",
+        "title": "Using RDS Oracle Read Replicas to Scale out Workload and Act as a Managed Disaster Recovery Solution",
+        "date": "2020-08-25T20:56:37Z",
+        "description": "In this video, we will show you how to create an Amazon RDS for Oracle Read Replica, alleviate read workload from primary DB instances, scale out total ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "z-N0z5K_WFI",
+        "title": "Deploy a .NET Application to AWS Elastic Beanstalk using Visual Studio on Amazon RDS",
+        "date": "2012-05-08T17:44:06Z",
+        "description": "Learn how to deploy an application to AWS Elastic Beanstalk, configure an Amazon RDS for SQL Server DB instance, and manage your configuration from the ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "rGzqL2-dIyI",
+        "title": "AWS re:Invent 2015 | (ISM304) From Oracle to Amazon RDS MySQL and Amazon Aurora",
+        "date": "2015-10-09T23:57:49Z",
+        "description": "Amazon RDS MySQL offers a highly scalable, available and high performing database service at a fraction of the cost of a commercially licensed database ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "mNIK1oYWI4M",
+        "title": "How can I troubleshoot the error &quot;MySQL HA_ERR_RECORD_FILE_FULL&quot; when using Amazon RDS for MySQL?",
+        "date": "2020-05-21T17:47:45Z",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/rds-error-mysql-record-file-full/ ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "f4z5ijaeaAM",
+        "title": "Amazon RDS for MySQL -- Diagnostics, Security, and Data Migration (DAT302) | AWS re:Invent 2013",
+        "date": "2013-11-26T20:12:37Z",
+        "description": "Learn how to monitor your database performance closely and troubleshoot database issues quickly using a variety of features provided by Amazon RDS and ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "Ubanzf38pqQ",
+        "title": "How do I read server side traces in RDS SQL Server?",
+        "date": "2018-10-15T13:50:11Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2w8Ir6V Mershad, an AWS Cloud Support Engineer, shows you how to read server side traces ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "JZnd74HAmq0",
+        "title": "Amazon RDS Performance Insights for Amazon Aurora",
+        "date": "2017-10-24T15:48:03Z",
+        "description": "Amazon RDS Performance Insights offers a detailed, easy-to-understand dashboard you can use to detect problems and increase performance of your ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "SqTgQdW3OQw",
+        "title": "Amazon RDS for Microsoft SQL: Performance, Security, Best Practices (DAT303) | AWS re:Invent 2013",
+        "date": "2013-11-21T21:41:29Z",
+        "description": "Come learn about architecting high-performance applications and production workloads using Amazon RDS for SQL Server. Understand how to migrate your ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "pIUnSjtMses",
+        "title": "Introducing Amazon RDS for MariaDB",
+        "date": "2015-10-12T17:04:48Z",
+        "description": "Learn more about Amazon RDS for MariaDB: http://amzn.to/1jOX73q MariaDB is now available as a fully-managed service on AWS with up to 6TB of storage, ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "_lGjo9wwbTU",
+        "title": "AWS KC Videos: How do I fix an RDS DB instance that is in an incompatible parameter state?",
+        "date": "2017-06-21T14:11:28Z",
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/rds-incompatible-parameters/ Luca, an AWS ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "K6sD28WdYFc",
+        "title": "AWS Webcast - Amazon RDS for MySQL: Best Practices for Performance and Data Migration",
+        "date": "2013-10-22T21:29:35Z",
+        "description": "In this webinar, you will learn about running web applications that require up to tens of thousands of IOPS using Amazon RDS for MySQL. Also, learn how to ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "GRm1fA42Z58",
+        "title": "AWS re:Invent 2014 | Announcing Amazon Aurora for RDS",
+        "date": "2014-11-13T00:59:48Z",
+        "description": "Learn more: https://aws.amazon.com/rds/aurora/ Amazon Aurora is a MySQL-compatible, relational database engine that combines the speed and availability of ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "4462hcfkApM",
+        "title": "Using Performance Insights to Analyze Performance of Amazon Aurora PostgreSQL",
+        "date": "2017-09-05T23:49:45Z",
+        "description": "Watch a step-by-step demonstration of using Amazon RDS Performance Insights to analyze performance of an Amazon Aurora PostgreSQL database instance."
+    },
+    {
+        "service": "rds",
+        "videoId": "5wDGGUsmCC8",
+        "title": "The AWS Report - Manish Dalwadi talks with Jeff about Amazon RDS",
+        "date": "2013-09-25T17:26:45Z",
+        "description": "Jeff Barr, host of The AWS Report, interviews Manish Dalwadi, of the Amazon RDS team about his product and how it's being used. Later in the show, co-hosts ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "4-sI24EbvHk",
+        "title": "Amazon RDS on VMware Now in Preview",
+        "date": "2018-11-30T21:04:16Z",
+        "description": "Amazon Relational Database Service (RDS) on VMware, now in Preview, lets you deploy managed databases in on-premises and hybrid environments using ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "rvwzNGP5a-A",
+        "title": "AWS Knowledge Center Videos: How do I reset my password for master use in an Amazon RDS DB instance?",
+        "date": "2017-04-17T15:24:32Z",
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/reset-master-user-password-rds/ Satya, an AWS ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "z-N0z5K_WFI",
+        "title": "Deploy a .NET Application to AWS Elastic Beanstalk using Visual Studio on Amazon RDS",
+        "date": "2012-05-08T17:44:06Z",
+        "description": "Learn how to deploy an application to AWS Elastic Beanstalk, configure an Amazon RDS for SQL Server DB instance, and manage your configuration from the ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "rGzqL2-dIyI",
+        "title": "AWS re:Invent 2015 | (ISM304) From Oracle to Amazon RDS MySQL and Amazon Aurora",
+        "date": "2015-10-09T23:57:49Z",
+        "description": "Amazon RDS MySQL offers a highly scalable, available and high performing database service at a fraction of the cost of a commercially licensed database ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "f4z5ijaeaAM",
+        "title": "Amazon RDS for MySQL -- Diagnostics, Security, and Data Migration (DAT302) | AWS re:Invent 2013",
+        "date": "2013-11-26T20:12:37Z",
+        "description": "Learn how to monitor your database performance closely and troubleshoot database issues quickly using a variety of features provided by Amazon RDS and ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "K6sD28WdYFc",
+        "title": "AWS Webcast - Amazon RDS for MySQL: Best Practices for Performance and Data Migration",
+        "date": "2013-10-22T21:29:35Z",
+        "description": "In this webinar, you will learn about running web applications that require up to tens of thousands of IOPS using Amazon RDS for MySQL. Also, learn how to ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "5wDGGUsmCC8",
+        "title": "The AWS Report - Manish Dalwadi talks with Jeff about Amazon RDS",
+        "date": "2013-09-25T17:26:45Z",
+        "description": "Jeff Barr, host of The AWS Report, interviews Manish Dalwadi, of the Amazon RDS team about his product and how it's being used. Later in the show, co-hosts ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "CfPN2liETHU",
+        "title": "AWS re:Invent 2017: Migrating Your SQL Server Databases to Amazon RDS (DAT312)",
+        "date": "2017-11-30T16:48:02Z",
+        "description": "Learn what it takes to migrate an on-premises database to Amazon Relational Database Service (Amazon RDS) for SQL Server, and how you can take ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "fydTVOdDV70",
+        "title": "Amazon RDS with Amazon Aurora | AWS Public Sector Summit 2016",
+        "date": "2016-07-13T15:42:08Z",
+        "description": "This session provides the attendee with an overview of Amazon RDS across different database types and then dives deep into the benefits and performance of ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "iDQiIVO3JkU",
+        "title": "Deploy a .NET Application to AWS Elastic Beanstalk with Amazon RDS Using Visual Studio",
+        "date": "2012-05-10T15:40:33Z",
+        "description": "In this video, we will walk you through deploying an application to AWS Elastic Beanstalk (link: http://aws.amazon.com/elasticbeanstalk/), configuring an Amazon ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "76G7kqneT-w",
+        "title": "Web Applications on AWS: Creating a MySQL Database [Amazon RDS]",
+        "date": "2012-06-14T14:43:28Z",
+        "description": "In this step we will launch a Multi-AZ RDS instance."
+    },
+    {
+        "service": "rds",
+        "videoId": "9-7azhB27So",
+        "title": "AWS Summit Series 2016 | Chicago - Deep Dive on Amazon Relational Database Service",
+        "date": "2016-04-21T14:34:46Z",
+        "description": "Amazon RDS allows customers to launch an optimally configured, secure and highly available database with just a few clicks. It provides cost-efficient and ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "3MTuyOr8vZs",
+        "title": "Bleacher Report: Wrangling RDS Read Replicas with Hashicorp&#39;s Consul",
+        "date": "2017-06-01T17:34:15Z",
+        "description": "On the next episode of This Is My Architecture, Benson Wu, DevOps Manager at Bleacher Report, explains how they use Hashicorp's Consul and cascading ..."
+    },
+    {
+        "service": "rds",
+        "videoId": "uhSgaQ6KWFc",
+        "title": "Best Practices for Upgrading Amazon RDS for Oracle DB Instances From 11.2.0.4 to 19c",
+        "date": "2020-09-09T23:23:56Z",
+        "description": "Oracle Corp. has announced the end of support for Oracle Database versions 11.2.0.4 on December 31, 2020, after which Oracle Support will no longer release ..."
+    },
+    {
+        "service": "rds",
         "videoId": "TJxC-B9Q9tQ",
         "tags": [
             "AWS re:Invent 2017",
