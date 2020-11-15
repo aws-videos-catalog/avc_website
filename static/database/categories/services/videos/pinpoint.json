@@ -1,6 +1,13 @@
 [
     {
         "service": "pinpoint",
+        "videoId": "EMsuvNSIAfA",
+        "title": "AWS What&#39;s Next, S1|E1",
+        "date": "2020-07-02T20:43:57Z",
+        "description": "Pinpoint Presentation: 45:28 Pinpoint Demo: 51:16 AWS What's Next hosts Nick Walsh and Rob Zhu talk about upcoming launches and announcements from ..."
+    },
+    {
+        "service": "pinpoint",
         "videoId": "MK98YQ0pcts",
         "tags": [
             "re:Invent 2019",
