@@ -1,6 +1,41 @@
 [
     {
         "service": "iam",
+        "videoId": "cnFE58FsR30",
+        "title": "How can I view and track account activity history for specific IAM users and roles?",
+        "date": "2020-10-07T18:48:47Z",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/view-iam-history/ Jansen shows ..."
+    },
+    {
+        "service": "iam",
+        "videoId": "hZYs_rG3fL4",
+        "title": "How can I troubleshoot IAM permission access denied or unauthorized errors?",
+        "date": "2020-09-16T05:24:59Z",
+        "description": "For more details see the Knowledge Center article with this video: ..."
+    },
+    {
+        "service": "iam",
+        "videoId": "cnFE58FsR30",
+        "title": "How can I view and track account activity history for specific IAM users and roles?",
+        "date": "2020-10-07T18:48:47Z",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/view-iam-history/ Jansen shows ..."
+    },
+    {
+        "service": "iam",
+        "videoId": "zAtfFkh_hy0",
+        "title": "Wealthsimple on Practical IAM Policies for AWS Admins",
+        "date": "2018-10-09T13:45:02Z",
+        "description": "Startup Central Talks from the 2018 AWS Toronto Summit. Learn more about AWS at - https://amzn.to/2zZdQfn. Byron Wolfman, Infrastructure Architecture ..."
+    },
+    {
+        "service": "iam",
+        "videoId": "JbmJ4BSpNqE",
+        "title": "AWS re:Invent 2014 | (SEC403) Building AWS Partner Applications Using IAM Roles",
+        "date": "2014-11-18T00:35:49Z",
+        "description": "AWS Identity and Access Management (IAM) roles are powerful primitives you can use to build applications that can access a broad range of data without ..."
+    },
+    {
+        "service": "iam",
         "videoId": "YQsK4MtsELU",
         "tags": [
             "re:Invent 2018",
