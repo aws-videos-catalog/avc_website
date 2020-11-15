@@ -1,6 +1,62 @@
 [
     {
         "service": "elasticache",
+        "videoId": "p9hl4GLaxqE",
+        "title": "How do I connect to an Amazon ElastiCache In-Transit encryption-enabled Redis node using redis-cli?",
+        "date": "2020-08-18T17:14:31Z",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/elasticache-connect-redis-node/ ..."
+    },
+    {
+        "service": "elasticache",
+        "videoId": "iYCCF1HLNu4",
+        "title": "How to add a Caching Layer for .NET Applications with Amazon ElastiCache for Redis",
+        "date": "2020-09-22T20:28:27Z",
+        "description": "In this video, you will learn how to add a caching layer in your .NET application on AWS using Amazon ElastiCache for Redis. Learn more about Amazon ..."
+    },
+    {
+        "service": "elasticache",
+        "videoId": "KfsFsQHzAQ0",
+        "title": "How to add a Caching Layer for .NET Applications with Amazon ElastiCache for Memcached",
+        "date": "2020-09-22T20:29:51Z",
+        "description": "In this video, you will learn how to add a caching layer in your .NET application on AWS using Amazon ElastiCache for Memcached. Learn more about Amazon ..."
+    },
+    {
+        "service": "elasticache",
+        "videoId": "yqgq2mSR1h0",
+        "title": "AWS re:Invent 2017: From Minutes to Milliseconds: How Careem Used Amazon ElastiCache (DAT321)",
+        "date": "2017-11-29T17:04:13Z",
+        "description": "AWS architecture for Careem, a fast-growing car-booking service in the broader Middle East, has quickly evolved to support over six million users in eleven ..."
+    },
+    {
+        "service": "elasticache",
+        "videoId": "1mKxPo5fHEE",
+        "title": "Build High-Performance Apps with In-Memory Data (Level 200)",
+        "date": "2018-08-27T16:21:06Z",
+        "description": "Learn more about the AWS Innovate Online Conference at - https://amzn.to/2o6U0rB. In this session, we describe Amazon ElastiCache for Redis, an in-memory ..."
+    },
+    {
+        "service": "elasticache",
+        "videoId": "kg551TEHM_k",
+        "title": "Build High-Performance Apps with In-Memory Data (Level 200)",
+        "date": "2018-08-28T16:16:43Z",
+        "description": "Learn more about the AWS Innovate Online Conference at - https://amzn.to/2o6U0rB. In this session, we describe Amazon ElastiCache for Redis, an in-memory ..."
+    },
+    {
+        "service": "elasticache",
+        "videoId": "WFRIivS2mpo",
+        "title": "AWS re:Invent 2017: Cache Me If You Can: Minimizing Latency While Optimizing Cost Th (ATC303)",
+        "date": "2017-11-28T18:31:18Z",
+        "description": "From CloudFront to ElastiCache to DynamoDB Accelerator (DAX), this is your one-stop shop for learning how to apply caching methods to your AdTech ..."
+    },
+    {
+        "service": "elasticache",
+        "videoId": "jttvxAecAno",
+        "title": "AWS What&#39;s Next, S1|E2",
+        "date": "2020-07-02T20:44:29Z",
+        "description": "Elasticache: 15:00 Elasticache Demo: 28:23 AWS Amplify: 40:11 AWS Amplify Demo: 52:22 Bottlerocket: 1:11:12 Bottlerocket Demo: 1:36:45 AWS What's Next ..."
+    },
+    {
+        "service": "elasticache",
         "videoId": "v0GfpL5jfns",
         "tags": [
             "re:Invent 2019",
