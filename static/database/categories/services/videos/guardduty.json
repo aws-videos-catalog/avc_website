@@ -1,6 +1,48 @@
 [
     {
         "service": "guardduty",
+        "videoId": "7AbXnWXDBSo",
+        "title": "Wealth Wizards: Cloud - Scale Threat Detection with Amazon GuardDuty and Alert Logic",
+        "date": "2018-11-06T17:29:51Z",
+        "description": "In this webinar, you'll learn how Wealth Wizards, a financial services company, utilizes AWS services such as Amazon GuardDuty https://amzn.to/2Dq62Gt and ..."
+    },
+    {
+        "service": "guardduty",
+        "videoId": "eHzbYD_94ts",
+        "title": "Amazon GuardDuty のご紹介 | AWS (日本語字幕) (2.24)",
+        "date": "2018-06-26T17:35:59Z",
+        "description": "Amazon GuardDuty は、インテリジェントな脅威検出サービスとなり、悪意のある操作や不正な動作に対してAWS アカウントおよびワークロードを継続的に監視します。"
+    },
+    {
+        "service": "guardduty",
+        "videoId": "Fya3OeAp5aM",
+        "title": "AWS Sydney Summit 2018: Is Your Guard on Duty?",
+        "date": "2018-05-21T18:55:51Z",
+        "description": "A customer enabled Amazon GuardDuty and detected cryptocurrency mining occurring on an EC2 instance running Jenkins. Fast forward two months and it was ..."
+    },
+    {
+        "service": "guardduty",
+        "videoId": "o2YaIsps5LY",
+        "title": "Deep Dive on Amazon GuardDuty - AWS Online Tech Talks",
+        "date": "2018-02-27T21:10:58Z",
+        "description": "\"Get a deep dive and demonstration of the Amazon GuardDuty feature set to help you better protect your accounts and workloads. We will cover how to deploy ..."
+    },
+    {
+        "service": "guardduty",
+        "videoId": "f7RB6k7cP6k",
+        "title": "Amazon GuardDuty - Let&#39;s Attack My Account! - AWS Online Tech Talks",
+        "date": "2018-05-03T00:33:56Z",
+        "description": "In this session, you will learn practical steps on how to generate test findings in Amazon GuardDuty in order to simulate various threats scenarios. We will cover ..."
+    },
+    {
+        "service": "guardduty",
+        "videoId": "nyh4imv8zuk",
+        "title": "Remediating Amazon GuardDuty and AWS Security Hub Findings - AWS Online Tech Talks",
+        "date": "2019-03-27T22:07:53Z",
+        "description": "Code real-time with us, and we will discuss some best practices. In this tech talk, you will learn the basics of how to build and implement remediations for ..."
+    },
+    {
+        "service": "guardduty",
         "videoId": "ocZjGirQT9A",
         "tags": [
             "AWS",
