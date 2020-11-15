@@ -1,6 +1,27 @@
 [
     {
         "service": "codedeploy",
+        "videoId": "xThOQuhJ2Pw",
+        "title": "How to Create Blue/Green Deployments to Amazon Elastic Compute Cloud with AWS CodeDeploy",
+        "date": "2020-08-28T19:16:47Z",
+        "description": "Would you like to learn how to automatically deploy the latest version of your applications to your Amazon Elastic Compute Cloud (or EC2) instances without any ..."
+    },
+    {
+        "service": "codedeploy",
+        "videoId": "ISttjCIBd6U",
+        "title": "How to Deploy to Amazon Elastic Compute Cloud Using AWS CodeDeploy In-place Deployments",
+        "date": "2020-08-28T19:16:38Z",
+        "description": "Would you like to learn how to automatically deploy the latest version of your applications to your Amazon Elastic Compute Cloud (or EC2) instances? In this ..."
+    },
+    {
+        "service": "codedeploy",
+        "videoId": "yP4xBg1sEYs",
+        "title": "DevOps on Windows: How to Deploy Complex Windows Workloads (119656)",
+        "date": "2017-06-19T20:35:42Z",
+        "description": "In this session, you will learn how to deploy complex Windows workloads and ways AWS CloudFormation, AWS OpsWorks, and AWS CodeDeploy enable you ..."
+    },
+    {
+        "service": "codedeploy",
         "videoId": "jcR9iIWdU7E",
         "tags": [
             "alm",
