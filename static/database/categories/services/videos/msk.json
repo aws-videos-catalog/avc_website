@@ -2,9 +2,17 @@
     {
         "service": "msk",
         "videoId": "41Hta5Fx6mU",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DEM25-S",
+            "TIBCO Software Inc"
+        ],
         "title": "AWS re:Invent 2019: Managing decisions with Amazon Kinesis for better outcomes (DEM25-S)",
+        "description": "Systems like Apache Kafka, Amazon Kinesis, and Amazon MSK are great for the ingestion, delivery, and real-time analysis of streaming data. Adding a rules engine that detects patterns of events occurring in many systems enables organizations to support a much wider set of use cases. Rules engines also abstract the complexity of defining rules, empowering business users to leverage context alongside their expertise to define the next best action. In this session, learn how to combine the power of Apache Kafka, Amazon Kinesis, or Amazon MSK with business rules engines to automate sophisticated decision-making and actions. This presentation is brought to you by TIBCO Software, an APN Partner.",
         "date": "2019-12-04T17:29:33Z",
-        "description": "Systems like Apache Kafka, Amazon Kinesis, and Amazon MSK are great for the ingestion, delivery, and real-time analysis of streaming data. Adding a rules ..."
+        "duration": 850
     },
     {
         "service": "msk",

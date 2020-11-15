@@ -2,44 +2,128 @@
     {
         "service": "guardduty",
         "videoId": "7AbXnWXDBSo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "WealthWizards",
+            "GuardDuty",
+            "AWS GuardDuty",
+            "Alert Logic",
+            "Amazon GuardDuty"
+        ],
         "title": "Wealth Wizards: Cloud - Scale Threat Detection with Amazon GuardDuty and Alert Logic",
+        "description": "In this webinar, you'll learn how Wealth Wizards, a financial services company, utilizes AWS services such as Amazon GuardDuty https://amzn.to/2Dq62Gt and leverages Alert Logic to gain additional security context, actionable remediation steps, and protection.",
         "date": "2018-11-06T17:29:51Z",
-        "description": "In this webinar, you'll learn how Wealth Wizards, a financial services company, utilizes AWS services such as Amazon GuardDuty https://amzn.to/2Dq62Gt and ..."
+        "duration": 2989
     },
     {
         "service": "guardduty",
         "videoId": "eHzbYD_94ts",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon GuardDuty",
+            "Japanese language",
+            "Japanese Localized",
+            "アマゾン ウェブ サービス",
+            "クラウドコンピューティング",
+            "Security",
+            "Compliance",
+            "AWS Security",
+            "AWS Compliance",
+            "セキュリティ",
+            "コンプライアンス",
+            "GuardDuty",
+            "脅威検出"
+        ],
         "title": "Amazon GuardDuty のご紹介 | AWS (日本語字幕) (2.24)",
+        "description": "Amazon GuardDuty は、インテリジェントな脅威検出サービスとなり、悪意のある操作や不正な動作に対してAWS アカウントおよびワークロードを継続的に監視します。\nAmazon GuardDuty の詳細はこちら » https://amzn.to/2MpaAxa",
         "date": "2018-06-26T17:35:59Z",
-        "description": "Amazon GuardDuty は、インテリジェントな脅威検出サービスとなり、悪意のある操作や不正な動作に対してAWS アカウントおよびワークロードを継続的に監視します。"
+        "duration": 143
     },
     {
         "service": "guardduty",
         "videoId": "Fya3OeAp5aM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon GuardDuty",
+            "AWS Sydney Summit 2018"
+        ],
         "title": "AWS Sydney Summit 2018: Is Your Guard on Duty?",
+        "description": "A customer enabled Amazon GuardDuty and detected cryptocurrency mining occurring on an EC2 instance running Jenkins. Fast forward two months and it was finally discovered that a hacking group was exploiting an undisclosed vulnerability to deploy mining apps to vulnerable servers. See how Amazon GuardDuty can help you keep ahead of security risks. \n\nVisit the following links to learn more: \n- AWS Security Blog: How to Manage Amazon GuardDuty Security Findings Across Multiple Accounts: https://aws.amazon.com/blogs/security/how-to-manage-amazon-guardduty-security-findings-across-multiple-accounts/\n- Getting Started with Amazon GuardDuty: https://aws.amazon.com/guardduty/getting-started/",
         "date": "2018-05-21T18:55:51Z",
-        "description": "A customer enabled Amazon GuardDuty and detected cryptocurrency mining occurring on an EC2 instance running Jenkins. Fast forward two months and it was ..."
+        "duration": 948
     },
     {
         "service": "guardduty",
         "videoId": "o2YaIsps5LY",
+        "tags": [
+            "security",
+            "guardduty",
+            "intrusion detection",
+            "threat intelligence",
+            "analysis",
+            "siem",
+            "compromise",
+            "vpc",
+            "flow logs",
+            "cloudtrail",
+            "AWS",
+            "Webinar",
+            "Cloud Computing",
+            "Amazon Web Services"
+        ],
         "title": "Deep Dive on Amazon GuardDuty - AWS Online Tech Talks",
+        "description": "\"Get a deep dive and demonstration of the Amazon GuardDuty feature set to help you better protect your accounts and workloads. We will cover how to deploy and use GuardDuty for continuous monitoring of your AWS environment, and how to use the valuable findings regarding potential threats and malicious activity. We will also demonstrate several types of threats addressed by GuardDuty and discuss service integrations with other AWS and partner services.\n\nLearning Objectives:\n - Learn how GuardDuty continuously monitors for unauthorized behavior to help protect AWS accounts and workloads\n - Understand how GuardDuty uses machine learning to detect anomalous account and network activities\n - See how a SOC team can triage threats from a single console and automate security responses\"",
         "date": "2018-02-27T21:10:58Z",
-        "description": "\"Get a deep dive and demonstration of the Amazon GuardDuty feature set to help you better protect your accounts and workloads. We will cover how to deploy ..."
+        "duration": 2136
     },
     {
         "service": "guardduty",
         "videoId": "f7RB6k7cP6k",
-        "title": "Amazon GuardDuty - Let&#39;s Attack My Account! - AWS Online Tech Talks",
+        "tags": [
+            "threat detection",
+            "guardduty",
+            "AWS",
+            "IDS",
+            "compromise account security",
+            "Webinar",
+            "Cloud Computing",
+            "Amazon Web Services"
+        ],
+        "title": "Amazon GuardDuty - Let's Attack My Account! - AWS Online Tech Talks",
+        "description": "In this session, you will learn practical steps on how to generate test findings in Amazon GuardDuty in order to simulate various threats scenarios. We will cover a number of ways to safely generate findings so you are not flagged by AWS Abuse. Then, we will discuss how to analyze those findings as well as how to test out your analysis and remediation pipelines. The generation of findings will be the primary focus with a smaller emphasis on remediation.\n\nLearning Objectives:\n - How to safely generate a number of Amazon GuardDuty findings\n - How to analyze Amazon GuardDuty findings\n - How to think about remediation of threats",
         "date": "2018-05-03T00:33:56Z",
-        "description": "In this session, you will learn practical steps on how to generate test findings in Amazon GuardDuty in order to simulate various threats scenarios. We will cover ..."
+        "duration": 2544
     },
     {
         "service": "guardduty",
         "videoId": "nyh4imv8zuk",
+        "tags": [
+            "SSM automations",
+            "Cloud watch",
+            "Remediation",
+            "GuardDuty",
+            "Security Hub",
+            "AWS",
+            "Webinar",
+            "Cloud Computing",
+            "Amazon Web Services"
+        ],
         "title": "Remediating Amazon GuardDuty and AWS Security Hub Findings - AWS Online Tech Talks",
+        "description": "Code real-time with us, and we will discuss some best practices. In this tech talk, you will learn the basics of how to build and implement remediations for Amazon GuardDuty and AWS Security Hub findings. We will pick some common security findings, explain how to build an Amazon Cloudwatch Filter and AWS Step Function for them, and then we will build the code in the Console. We will use Cloudwatch, Step Functions and AWS Systems Manager automations to build a simple response system. At the end of this talk, you will learn which service to use when and why.\n\nLearning Objectives:\n - Gain an understanding of how and why to implement Amazon Cloudwatch Events and Rules, and how to use them across AWS\n - What are AWS Step Functions for and how to use it in a security context\n - How to use AWS Systems Manager automations and when to use automations to evaluate a action and deal with the response",
         "date": "2019-03-27T22:07:53Z",
-        "description": "Code real-time with us, and we will discuss some best practices. In this tech talk, you will learn the basics of how to build and implement remediations for ..."
+        "duration": 2734
     },
     {
         "service": "guardduty",

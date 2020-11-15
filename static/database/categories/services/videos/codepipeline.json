@@ -2,16 +2,53 @@
     {
         "service": "codepipeline",
         "videoId": "YxcIj_SLflw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "CodePipeline",
+            "continuous delivery",
+            "continuous deployment",
+            "continuous integration",
+            "devops",
+            "application lifecycle management",
+            "software release",
+            "release management",
+            "software development",
+            "animation",
+            "continuous delievery",
+            "introduction to continuous delivery",
+            "introduction to codepipeline"
+        ],
         "title": "Introduction to AWS CodePipeline - Continuous Delivery on Amazon Web Services",
+        "description": "AWS CodePipeline is a continuous delivery service for fast and reliable application updates. Learn more: http://amzn.to/2ilumuJ",
         "date": "2016-08-25T16:36:18Z",
-        "description": "AWS CodePipeline is a continuous delivery service for fast and reliable application updates. Learn more: http://amzn.to/2ilumuJ."
+        "duration": 186
     },
     {
         "service": "codepipeline",
         "videoId": "oNiYwlqoMlc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Aws",
+            ".net",
+            "asp.net",
+            "core codepipeline",
+            "codecommit",
+            "lambda",
+            "Ignacio",
+            "fuentes"
+        ],
         "title": "How to Start Pipeline Execution for an Existing Amazon Code Pipeline via AWS .NET SDK",
+        "description": "AWS CodePipeline is a continuous delivery service you can use to model, visualize, and automate the steps required to release your software. In this video, we show you how you can make use of the AWS .NET SDK to programmatically trigger a Pipeline from a lambda function, written in .NET.\n\nLearn more about .NET applications on AWS at https://amzn.to/2QtgcdV\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
         "date": "2020-08-28T19:16:57Z",
-        "description": "AWS CodePipeline is a continuous delivery service you can use to model, visualize, and automate the steps required to release your software. In this video, we ..."
+        "duration": 403
     },
     {
         "service": "codepipeline",

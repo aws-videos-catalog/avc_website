@@ -2,30 +2,76 @@
     {
         "service": "snowball",
         "videoId": "0Q7s7JiBCf0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "aws opshub",
+            "aws snowball",
+            "snow family",
+            "edge computing",
+            "gui",
+            "graphical user interface",
+            "snow device",
+            "snow appliance"
+        ],
         "title": "AWS OpsHub for Snow Family",
+        "description": "A graphical user interface to manage AWS Snowcone & AWS Snowball devices and their computing resources. With just a few clicks in AWS OpsHub, you have the full functionality of the Snow devices at your fingertips; you can unlock and configure devices, drag-and-drop data to devices, launch applications, and monitor device metrics. \n\nDownload AWS OpsHub for Snow Family at https://aws.amazon.com/snowball/resources/\n\nLearn more about AWS Snow Family at https://go.aws/2YPfOMh\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSSnowcone",
         "date": "2020-06-17T16:44:27Z",
-        "description": "A graphical user interface to manage AWS Snowcone & AWS Snowball devices and their computing resources. With just a few clicks in AWS OpsHub, you have ..."
+        "duration": 157
     },
     {
         "service": "snowball",
         "videoId": "OR5-uTvfhsM",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Storage",
+            "STG391",
+            "AWS Snowball"
+        ],
         "title": "AWS re:Invent 2018: Post-Production Media Delivery at Scale with AWS (STG391)",
+        "description": "Netflix is using AWS Snowball Edge to deliver post-production content to our asset management system, called Content Hub, in the AWS Cloud. Production companies have been historically using LTO tapes to move data around, and that has well-known complications. In order to accelerate and secure our media workflows Netflix has shifted to using Snowball Edge devices for data migration. Please join us to learn how Netflix is using the Snowball Edge service at scale.",
         "date": "2018-11-30T16:26:57Z",
-        "description": "Netflix is using AWS Snowball Edge to deliver post-production content to our asset management system, called Content Hub, in the AWS Cloud. Production ..."
+        "duration": 2283
     },
     {
         "service": "snowball",
         "videoId": "m0oncbmXwIo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "OSU",
+            "OSU Hatfield Marine Science Center",
+            "AWS Snowball Edge"
+        ],
         "title": "OSU Hatfield Marine Science Center",
+        "description": "Learn more about using AWS Snowball Edge in remote locations for data collection and analysis here - http://amzn.to/2ockQAK.\n\nWith AWS Snowball Edge, The Hatfield Marine Science Center (HMSC) at Oregon State University can collect and analyze 100 TB of real-time oceanic and coastal data with no intermediate steps, giving the organization the ability to analyze images immediately using onboard compute capabilities. HMSC is a leading marine laboratory and the campus for Oregon State University’s research, education, and outreach in marine and coastal sciences. Before using Snowball Edge, the organization had been collecting data on disk drives aboard its ship, which it would manually load on to servers in the university’s data center, requiring hours of manual labor. AWS Snowball Edge gives HMSC a portable, high-capacity device that it uses remotely to capture and pre-process collected data.",
         "date": "2017-03-29T21:53:36Z",
-        "description": "Learn more about using AWS Snowball Edge in remote locations for data collection and analysis here - http://amzn.to/2ockQAK. With AWS Snowball Edge, The ..."
+        "duration": 228
     },
     {
         "service": "snowball",
         "videoId": "TEIkoTgVgx8",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Storage",
+            "STG323",
+            "AWS Snowball",
+            "Enterprise",
+            "Migration"
+        ],
         "title": "AWS re:Invent 2017: Migrating Millions of Video Content Files to The Cloud Using AWS (STG323)",
+        "description": "Join us for an overview of AWS Snowball and Snowball Edge, a collection of self-service storage appliances built for petabyte-scale data ingest and export operations in the cloud. AWS Snowball and Snowball Edge make it easy to migrate mixed data types to the cloud at scale, whether in support of enterprise workload transformation, active archive, backup & recovery or data lake seeding. In this session, you will hear from organizations that are using AWS Snowball to migrate their critical data assets to the cloud with minimal cost and operational overhead. See how quickly you can accelerate your cloud migration timeline using AWS Snowball and Snowball Edge.",
         "date": "2017-11-30T15:54:32Z",
-        "description": "Join us for an overview of AWS Snowball and Snowball Edge, a collection of self-service storage appliances built for petabyte-scale data ingest and export ..."
+        "duration": 3105
     },
     {
         "service": "snowball",

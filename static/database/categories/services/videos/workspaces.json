@@ -2,30 +2,74 @@
     {
         "service": "workspaces",
         "videoId": "uCH04Mlg0yU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "WorkSpaces",
+            "Desktop and Application Streaming",
+            "Desktop as a Service",
+            "VDI",
+            "Remote Work",
+            "BYOD",
+            "contingent workforce",
+            "Amazon WorkSpaces"
+        ],
         "title": "Amazon WorkSpaces Animated Explainer",
+        "description": "Get started with Amazon WorkSpaces, provide secure access to your applications anywhere anytime with this fully managed desktop as as service solution. \n\nLearn more about Amazon WorkSpaces at - https://amzn.to/2U3oxqw\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
         "date": "2020-11-09T22:05:48Z",
-        "description": "Get started with Amazon WorkSpaces, provide secure access to your applications anywhere anytime with this fully managed desktop as as service solution."
+        "duration": 94
     },
     {
         "service": "workspaces",
         "videoId": "IB1BIqPDAL0",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "TA",
+            "Business Apps",
+            "BAP302",
+            "WorkSpaces"
+        ],
         "title": "AWS re:Invent 2017: User Self-Service and Admin Portals for Amazon WorkSpaces (BAP302)",
+        "description": "You’ve successfully moved your desktops to AWS using Amazon WorkSpaces. Now, you’d like to start automating your operations. In this session, we show you how to use the Amazon WorkSpaces APIs to automate common tasks, such as provisioning and deprovisioning WorkSpaces, building self-service portals to allow your users to perform basic support tasks themselves, and integrating WorkSpace operations into your existing workflow and helpdesk tools.",
         "date": "2017-11-30T17:05:36Z",
-        "description": "You've successfully moved your desktops to AWS using Amazon WorkSpaces. Now, you'd like to start automating your operations. In this session, we show you ..."
+        "duration": 4550
     },
     {
         "service": "workspaces",
         "videoId": "1faHSMYq5xA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "UVA’s McIntire School of Commerce Finds Flexibility in Virtual Desktops with Amazon WorkSpaces",
+        "description": "The University of Virginia’s (UVA) McIntire School of Commerce turned to Amazon Web Services (AWS) to provide flexible, cost-efficient, virtual desktops to its students. The McIntire School of Commerce uses Amazon WorkSpaces to provide computer resources and virtual desktops for students on and off campus. WorkSpaces allows the university to scale resources with changing enrollment demands with a pay-as-you-go pricing structure. The McIntire School of Commerce offers programs at the undergraduate, graduate, and certification level with 1100 students and 175 faculty and staff members. Its main campus is located in Charlottesville, Virginia.",
         "date": "2019-08-08T12:38:50Z",
-        "description": "The University of Virginia's (UVA) McIntire School of Commerce turned to Amazon Web Services (AWS) to provide flexible, cost-efficient, virtual desktops to its ..."
+        "duration": 142
     },
     {
         "service": "workspaces",
         "videoId": "DgjLx4uJSBg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Jeff Barr",
+            "what's new with AWS",
+            "week of august 27 2018"
+        ],
         "title": "What’s New with AWS – Week of August 27, 2018",
+        "description": "In this episode, Jeff Barr shares what’s new with AWS Amplify, Amazon WorkDocs, Amazon WorkSpaces and AWS Deep Learning AMIs. For more information on AWS Launches, visit - https://amzn.to/2ABAlt9.\n\nWatch the entire series here! https://amzn.to/2L7rYGZ",
         "date": "2018-08-31T19:54:55Z",
-        "description": "In this episode, Jeff Barr shares what's new with AWS Amplify, Amazon WorkDocs, Amazon WorkSpaces and AWS Deep Learning AMIs. For more information ..."
+        "duration": 161
     },
     {
         "service": "workspaces",

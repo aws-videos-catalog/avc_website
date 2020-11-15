@@ -2,16 +2,44 @@
     {
         "service": "neptune",
         "videoId": "J-fxrNfO5Bs",
-        "title": "AWS What&#39;s Next, S1|E5",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS What's Next"
+        ],
+        "title": "AWS What's Next, S1|E5",
+        "description": "AWS CodeArtifact: 00:19:23 \nAWS CodeArtifact Demo: 00:39:50 \nAmazon Neptune: 01:10:35 \nAmazon Neptune Demo: 01:25:57 \nAmazon SageMaker Ground Truth: 02:13:18 \nAmazon SageMaker Ground Truth Demo: 02:25:34 \n\nAWS What’s Next hosts Nick Walsh and Rob Zhu talk about upcoming launches and announcements from Amazon Web Services, including Richard Boyd, Senior Developer Advocate, AWS Developer Tools shares how AWS CodeArtifact offers Secure, scalable, cost effective artifact management for software development. \n\nKarthik Bharathy, Principal Product Manager, Amazon Neptune demonstrates AWS DMS and how it is used to copy graph data from relational databases to Amazon Neptune. Jonathan Buck, Software Dev Engineer, Ground Truth demonstrates how Amazon SageMaker Ground Truth is a fully managed data labeling service that makes it easy to build highly accurate training datasets for machine learning.\n\nWant to tune in live for the next episode? You can find dates and more information about our upcoming streams at - https://amzn.to/3eVczbd\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWS",
         "date": "2020-07-06T21:44:44Z",
-        "description": "AWS CodeArtifact: 00:19:23 AWS CodeArtifact Demo: 00:39:50 Amazon Neptune: 01:10:35 Amazon Neptune Demo: 01:25:57 Amazon SageMaker Ground ..."
+        "duration": 10930
     },
     {
         "service": "neptune",
         "videoId": "r6xw8tXwV1A",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Nick Walsh",
+            "What's New with AWS",
+            "Amazon Braket",
+            "Amazon Neptune Workbench",
+            "Amazon Cognito User Pools",
+            "Amazon Neptune",
+            "Neptune Workbench",
+            "Workbench",
+            "Cognito",
+            "User Pools",
+            "Amazon User Pools"
+        ],
         "title": "What’s New with AWS – Week of August 17, 2020",
+        "description": "In this new episode, join Nick Walsh to learn what's new with Amazon Braket, Amazon Neptune Workbench, & Amazon Cognito User Pools. For the slate of recent launches, check out our \"What's New\" page at https://amzn.to/3kVhcpc\n\nLearn more:\nAmazon Braket at https://amzn.to/2Y51QVk\nAmazon Neptune at https://amzn.to/3h1h2KC\nAmazon Cognito at https://amzn.to/3424TkW\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
         "date": "2020-08-17T16:00:13Z",
-        "description": "In this new episode, join Nick Walsh to learn what's new with Amazon Braket, Amazon Neptune Workbench, & Amazon Cognito User Pools. For the slate of ..."
+        "duration": 139
     },
     {
         "service": "neptune",

@@ -2,128 +2,384 @@
     {
         "service": "vpc",
         "videoId": "DLB2yNDyFmM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I resolve Amazon VPC peering network connectivity issues?",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/vpc-peering-connectivity/\nSwaminathan shows you how to resolve Amazon VPC peering network connectivity issues.",
         "date": "2020-09-10T14:27:27Z",
-        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/vpc-peering-connectivity/ ..."
+        "duration": 341
     },
     {
         "service": "vpc",
         "videoId": "ykmqjgLdmL4",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Financial Services",
+            "Architecture",
+            "ARC403",
+            "Robert Alexander - Amazon Web Services",
+            "Expert (400 level)",
+            "vpc",
+            "virtual private cloud",
+            "evolving virtual private cloud",
+            "virtual network",
+            "cloud computing event"
+        ],
         "title": "AWS re:Invent 2015: From One to Many - Evolving VPC Design (ARC403)",
+        "description": "Learn the evolution of a single regional VPC into a multi-VPC, multiregion design with diverse connectivity into on-premises systems and infrastructure. Learn more: http://amzn.to/2iZLs22\n\n Along the way, we investigate creative customer solutions for scaling and securing outbound VPC traffic, securing private access to S3, managing multitenant VPCs, integrating existing customer networks through AWS Direct Connect and building a full VPC mesh network across global regions.",
         "date": "2015-10-10T00:00:13Z",
-        "description": "Learn the evolution of a single regional VPC into a multi-VPC, multiregion design with diverse connectivity into on-premises systems and infrastructure."
+        "duration": 3713
     },
     {
         "service": "vpc",
         "videoId": "wlsVsEwnBxA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "CodeBuild"
+        ],
         "title": "Enable Amazon VPC Access for AWS CodeBuild",
+        "description": "In this video, you’ll see how to enable Amazon Virtual Private Cloud (Amazon VPC) access for AWS CodeBuild projects. With this solution, you can increase the security of your build process, invoke CloudBuild privately, and draw upon any resource hosted in your VPC for CodeBuild projects. \n\nAWS CodeBuild is a fully managed build service in the cloud. Ordinarily, CodeBuild cannot access resources in a VPC. However, it’s possible to enable access through your VPC specifications and CodeBuild project configuration. \n\nLearn more about AWS CodeBuild at - https://amzn.to/35gJy66\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
         "date": "2020-10-21T19:02:35Z",
-        "description": "In this video, you'll see how to enable Amazon Virtual Private Cloud (Amazon VPC) access for AWS CodeBuild projects. With this solution, you can increase the ..."
+        "duration": 591
     },
     {
         "service": "vpc",
         "videoId": "TzhdZTv2mX4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "¿Qué es una interfaz para puntos de enlace de VPC y cómo puedo crearla para mi VPC?",
+        "description": "Para obtener más detalles, consulte el artículo del Centro de conocimiento con este video: https://aws.amazon.com/es/premiumsupport/knowledge-center/create-an-interface-vpc-endpoint/?nc1=h_ls\nAdán le muestra qué es un punto final de VPC de interfaz y cómo puede crear un punto final de interfaz para su VPC.",
         "date": "2020-06-16T20:22:56Z",
-        "description": "Para obtener más detalles, consulte el artículo del Centro de conocimiento con este video: ..."
+        "duration": 386
     },
     {
         "service": "vpc",
         "videoId": "jy5H6Sd7sT0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos",
+            "Mandarin"
+        ],
         "title": "如何修改 Amazon Virtual Private Cloud (VPC) 或 VPC 子网的 IP 地址范围？",
+        "description": "要了解更详细的信息，请参阅AWS知识中心页面：https://amzn.to/2PtS6ya\nYu 帮助您修改 VPC 或 VPC 子网的 IP 地址范围",
         "date": "2019-10-24T21:20:24Z",
-        "description": "要了解更详细的信息，请参阅AWS知识中心页面：https://amzn.to/2PtS6ya Yu 帮助您修改VPC 或VPC 子网的IP 地址范围."
+        "duration": 191
     },
     {
         "service": "vpc",
         "videoId": "3qln2u1Vr2E",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Networking",
+            "NET403",
+            "Eric Brandwine - Amazon Web Services",
+            "Expert (400 level)"
+        ],
         "title": "AWS re:Invent 2015 | (NET403) Another Day, Another Billion Packets",
+        "description": "In this session, we walk through the Amazon VPC network presentation and describe the problems we were trying to solve when we created it. Next, we walk through how these problems are traditionally solved, and why those solutions are not scalable, inexpensive, or secure enough for AWS. Finally, we provide an overview of the solution that we've implemented and discuss some of the unique mechanisms that we use to ensure customer isolation, get packets into and out of the network, and support new features like VPC endpoints.",
         "date": "2015-10-10T00:54:20Z",
-        "description": "In this session, we walk through the Amazon VPC network presentation and describe the problems we were trying to solve when we created it. Next, we walk ..."
+        "duration": 2546
     },
     {
         "service": "vpc",
         "videoId": "Zd5hsL-JNY4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "aws-reinvent",
+            "reinvent2013solution-architecture-and-best-practices",
+            "compute-networking",
+            "enterprise",
+            "vpc",
+            "billion packets",
+            "Eric-Brandwine",
+            "CPN401",
+            "cpn"
+        ],
         "title": "A Day in the Life of a Billion Packets (CPN401) | AWS re:Invent 2013",
+        "description": "In this talk,  we walk through the VPC network presentation, and describe the problems we were trying to solve.  Next, we walk through how these problems are traditionally solved, and why those solutions are not scalable, cheap, or secure enough for AWS.    Finally,  we provide an overview of the solution that we've implemented and discuss some of the unique mechanisms that we use to ensure customer isolation.",
         "date": "2013-11-26T19:52:25Z",
-        "description": "In this talk, we walk through the VPC network presentation, and describe the problems we were trying to solve. Next, we walk through how these problems are ..."
+        "duration": 2578
     },
     {
         "service": "vpc",
         "videoId": "D1n5kDTWidQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Networking",
+            "NET215",
+            "Amazon Route 53",
+            "AWS Direct Connect"
+        ],
         "title": "AWS re:Invent 2018: Introduction to Amazon Route 53 Resolver for Hybrid Cloud (NET215)",
+        "description": "Amazon Route 53 Resolver provides recursive DNS for your Amazon VPC and on-premises networks over VPN or AWS Direct Connect. This session will review common use cases for Route 53 Resolver and go in depth on how it works.",
         "date": "2018-12-05T21:24:04Z",
-        "description": "Amazon Route 53 Resolver provides recursive DNS for your Amazon VPC and on-premises networks over VPN or AWS Direct Connect. This session will review ..."
+        "duration": 1456
     },
     {
         "service": "vpc",
         "videoId": "8gc2DgBqo9U",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Networking",
+            "NET405",
+            "VPC"
+        ],
         "title": "AWS re:Invent 2017: Another Day, Another Billion Flows (NET405)",
+        "description": "In this session, we walk through the Amazon VPC network and describe the problems we were solving when we created it, and the features we’ve been adding as we scale it. We cover how these problems and features are traditionally solved, and why those solutions are not scalable, inexpensive, or secure enough for AWS. Finally, we provide an overview of the solution that we’ve implemented. We discuss some of the unique mechanisms that we use to ensure customer isolation, get packets into and out of the network, and support new features such as NAT and VPC endpoints.",
         "date": "2017-11-30T15:55:35Z",
-        "description": "In this session, we walk through the Amazon VPC network and describe the problems we were solving when we created it, and the features we've been adding ..."
+        "duration": 2998
     },
     {
         "service": "vpc",
         "videoId": "-klyaq9R0XU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Architecture",
+            "Expert",
+            "AWS CloudFormation",
+            "Networking",
+            "Load Balancing",
+            "Hybrid",
+            "High Availability",
+            "Compliance",
+            "Auto Scaling",
+            "Audit",
+            "Amazon VPC",
+            "Amazon EC2",
+            "AWS Identity and Access Management (IAM)",
+            "AWS Direct Connect",
+            "AWS CloudTrail",
+            "Architect",
+            "Enterprise",
+            "Developer",
+            "Steve Morad"
+        ],
         "title": "AWS re:Invent 2014 | (ARC401) Black-Belt Networking for the Cloud Ninja",
+        "description": "Do you need to get beyond the basics of VPC and networking in the cloud? Do terms like  virtual addresses, integrated networks and network monitoring get you motivated? Come discuss black-belt networking topics including floating IPs, overlapping network management, network automation, network monitoring, and more. This expert-level networking discussion is ideally suited for network administrators, security architects, or cloud ninjas who are eager to take their AWS networking skills to the next level.",
         "date": "2014-11-17T23:42:00Z",
-        "description": "Do you need to get beyond the basics of VPC and networking in the cloud? Do terms like virtual addresses, integrated networks and network monitoring get you ..."
+        "duration": 2782
     },
     {
         "service": "vpc",
         "videoId": "St3SE4LWhKo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "NET401",
+            "Steve Mueller",
+            "Expert (400 Level)",
+            "Networking"
+        ],
         "title": "AWS re:Invent 2016: Another Day, Another Billion Packets (NET401)",
+        "description": "In this session, we walk through the Amazon VPC network presentation and describe the problems we were trying to solve when we created it. Next, we walk through how these problems are traditionally solved, and why those solutions are not scalable, inexpensive, or secure enough for AWS. Finally, we provide an overview of the solution that we've implemented and discuss some of the unique mechanisms that we use to ensure customer isolation, get packets into and out of the network, and support new features like VPC endpoints.",
         "date": "2016-12-03T20:08:36Z",
-        "description": "In this session, we walk through the Amazon VPC network presentation and describe the problems we were trying to solve when we created it. Next, we walk ..."
+        "duration": 3146
     },
     {
         "service": "vpc",
         "videoId": "8C9xNVYbCVk",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Networking",
+            "NET303",
+            "VPC"
+        ],
         "title": "AWS re:Invent 2017: A Day in the Life of a Cloud Network Engineer at Netflix (NET303)",
+        "description": "Netflix is big and dynamic. At Netflix, IP addresses mean nothing in the cloud. This is a big challenge with Amazon VPC Flow Logs. VPC Flow Log entries only present network-level information (L3 and L4), which is virtually meaningless. Our goal is to map each IP address back to an application, at scale, to derive true network-level insight within Amazon VPC. In this session, the Cloud Network Engineering team discusses the temporal nature of IP address utilization in AWS and the problem with looking at OSI Layer 3 and Layer 4 information in the cloud.",
         "date": "2017-11-30T17:20:02Z",
-        "description": "Netflix is big and dynamic. At Netflix, IP addresses mean nothing in the cloud. This is a big challenge with Amazon VPC Flow Logs. VPC Flow Log entries only ..."
+        "duration": 2855
     },
     {
         "service": "vpc",
         "videoId": "bEcJk7lvaUw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "awslaunch",
+            "Amazon EC2",
+            "Application Auto Scaling",
+            "VPC Endpoints"
+        ],
         "title": "What’s New with AWS – Week of November 6, 2017",
+        "description": "Learn what's new with AWS at - http://amzn.to/2zf0z27. Find out what’s new with EC2, Application Auto Scaling and VPC Endpoints.",
         "date": "2017-11-14T19:56:31Z",
-        "description": "Learn what's new with AWS at - http://amzn.to/2zf0z27. Find out what's new with EC2, Application Auto Scaling and VPC Endpoints."
+        "duration": 95
     },
     {
         "service": "vpc",
         "videoId": "zPovlZxuZ-c",
+        "tags": [
+            "traffic",
+            "monitor",
+            "security",
+            "secure",
+            "vpc",
+            "tool",
+            "mirroring",
+            "network",
+            "cloud",
+            "AWS",
+            "Webinar",
+            "Cloud Computing",
+            "Amazon Web Services"
+        ],
         "title": "Simplify Traffic Monitoring and Visibility with Amazon VPC Traffic Mirroring - AWS Online Tech Talks",
+        "description": "**Learn the benefits of traffic visibility **Learn how to effectively monitor your VPC traffic **Learn how to deploy third-party traffic monitoring solutions that leverage VPC Traffic Monitoring",
         "date": "2019-07-23T21:43:23Z",
-        "description": "Learn the benefits of traffic visibility **Learn how to effectively monitor your VPC traffic **Learn how to deploy third-party traffic monitoring solutions that leverage ..."
+        "duration": 2735
     },
     {
         "service": "vpc",
         "videoId": "JLbHHEYlHU8",
+        "tags": [
+            "twitch",
+            "games"
+        ],
         "title": "Configuring VPC Traffic Mirroring",
+        "description": "Highlights from the actual configuration of VPC Traffic Mirroring, issues and all! -- Watch live at https://www.twitch.tv/chriscallas",
         "date": "2019-07-16T21:29:49Z",
-        "description": "Highlights from the actual configuration of VPC Traffic Mirroring, issues and all! -- Watch live at https://www.twitch.tv/chriscallas."
+        "duration": 462
     },
     {
         "service": "vpc",
         "videoId": "60nFZ3rz3Ec",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Inforce",
+            "AWS re:Inforce 2019",
+            "security",
+            "identity",
+            "compliance",
+            "cloud security",
+            "AWS security",
+            "cloud security community",
+            "learning conference",
+            "Detective Controls",
+            "Infrastructure Security",
+            "Data Protection",
+            "Incident Response",
+            "Governance",
+            "Risk",
+            "Compliance",
+            "security best practices",
+            "Security Pioneers",
+            "AWS re:Inforce 2019 Sessions",
+            "Session",
+            "SEP209",
+            "Dave Burke",
+            "200 - Intermediate"
+        ],
         "title": "AWS re:Inforce 2019: Network Visibility into the Traffic Traversing Your AWS Infrastructure (SEP209)",
+        "description": "Having visibility into the Amazon VPC infrastructure is a foundational element that any cloud administrator needs to maintain and operate an AWS infrastructure that is secure and functional. Visibility into your AWS infrastructure becomes increasingly important as it scales, because it gives you the ability to make key planning decisions and maintain security. This session is intended for anyone wanting to learn about network visibility on AWS, and it includes information about partners and real-life customer use cases. Come see how you, too, can gain insights into the network traffic that is traversing your AWS infrastructure.",
         "date": "2019-06-26T22:03:31Z",
-        "description": "Having visibility into the Amazon VPC infrastructure is a foundational element that any cloud administrator needs to maintain and operate an AWS infrastructure ..."
+        "duration": 3030
     },
     {
         "service": "vpc",
         "videoId": "UqgVESJc_yc",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "MKT203-R",
+            "Marketplace",
+            "Wizards of the Coast",
+            "Amazon VPC",
+            "Not Applicable"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT] Detect network and security anomalies with Traffic Mirroring (MKT203-R)",
+        "description": "Traffic Mirroring is a new Amazon Virtual Private Cloud (VPC) feature that allows customers to gain insight into the network traffic across their VPC infrastructure for content inspection and threat monitoring. In this session, we discuss how to integrate third-party solutions from AWS Marketplace to simplify and optimize Traffic Mirroring for your network security and monitoring appliances. Additionally, a representative from Wizards of the Coast, a popular gaming publisher, talks about how the company uses solutions from AWS Marketplace to implement compliance and security controls, analyze traffic patterns, and meet compliance requirements.",
         "date": "2019-12-03T18:00:33Z",
-        "description": "Traffic Mirroring is a new Amazon Virtual Private Cloud (VPC) feature that allows customers to gain insight into the network traffic across their VPC infrastructure ..."
+        "duration": 1900
     },
     {
         "service": "vpc",
         "videoId": "zd9n5I1s1Xo",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "MKT203-R1",
+            "Marketplace",
+            "Salesforce",
+            "Amazon VPC",
+            "Not Applicable"
+        ],
         "title": "AWS re:Invent 2019: Detect network and security anomalies with Traffic Mirroring (MKT203-R1)",
+        "description": "Traffic Mirroring is a new Amazon Virtual Private Cloud (VPC) feature that allows customers to gain insight into the network traffic across their VPC infrastructure for content inspection and threat monitoring. In this session, we discuss how to integrate third-party solutions from AWS Marketplace to simplify and optimize Traffic Mirroring for your network security and monitoring appliances. Additionally, a representative from Salesforce, a cloud-based software company and a leading CRM platform, talks about how the company uses solutions from AWS Marketplace to implement compliance and security controls, analyze traffic patterns, and meet compliance requirements.",
         "date": "2019-12-04T17:26:12Z",
-        "description": "Traffic Mirroring is a new Amazon Virtual Private Cloud (VPC) feature that allows customers to gain insight into the network traffic across their VPC infrastructure ..."
+        "duration": 1660
     },
     {
         "service": "vpc",

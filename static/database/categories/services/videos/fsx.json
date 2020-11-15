@@ -2,93 +2,267 @@
     {
         "service": "fsx",
         "videoId": "IMDWTIShlyI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "FSX",
+            "File Server",
+            "Windows"
+        ],
         "title": "Amazon FSx for Windows File Server",
+        "description": "Learn about Amazon’s fully managed, native Windows file system service called Amazon FSx for Windows File Server. In this video, we’ll walkthrough the Amazon FSx architecture, how to create the file system, and how to map file shares to the file system.\n\nLearn more about Amazon FSx for Windows File Server at https://go.aws/39OHhQU\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #AmazonFSx",
         "date": "2020-03-12T16:31:35Z",
-        "description": "Learn about Amazon's fully managed, native Windows file system service called Amazon FSx for Windows File Server. In this video, we'll walkthrough the ..."
+        "duration": 863
     },
     {
         "service": "fsx",
         "videoId": "YO-i6GIGD1E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "FSX",
+            "DataSync",
+            "File Server",
+            "Windows"
+        ],
         "title": "Migrating your Data to Amazon FSx for Windows File Server with AWS DataSync",
+        "description": "Learn how to easily migrate your on-premises file servers to Amazon FSx for Windows File Server using AWS DataSync which is AWS’s data transfer service. In this video, we’ll walkthrough how to setup AWS DataSync and then how to migrate your files from on-premises servers to Amazon FSx.\n\nLearn more about Amazon FSx for Windows File Server at https://go.aws/2TZ9Ioi\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #AmazonFSx",
         "date": "2020-03-12T16:25:37Z",
-        "description": "Learn how to easily migrate your on-premises file servers to Amazon FSx for Windows File Server using AWS DataSync which is AWS's data transfer service."
+        "duration": 803
     },
     {
         "service": "fsx",
         "videoId": "ZuHgNDKrvek",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "FSX",
+            "Backup",
+            "File Server",
+            "Windows"
+        ],
         "title": "Working with Backups on Amazon FSx for Windows File Server",
+        "description": "Learn how to work with backups on Amazon FSx for Windows File Server. In this video, we discuss how to create, restore and delete backups. We also explore how to create a custom backup schedule using Amazon Cloudwatch Events and AWS Lambda functions.\n\nLearn more about Amazon FSx for Windows File Server at https://go.aws/38EoAhb\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #AmazonFSx",
         "date": "2020-03-12T16:26:52Z",
-        "description": "Learn how to work with backups on Amazon FSx for Windows File Server. In this video, we discuss how to create, restore and delete backups. We also explore ..."
+        "duration": 882
     },
     {
         "service": "fsx",
         "videoId": "mpt0whv9nRI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "FSX",
+            "DataSync",
+            "File Server",
+            "Windows"
+        ],
         "title": "Empowering Users to Restore Files with Shadow Copies on Amazon FSx for Windows File Server",
+        "description": "Learn how to empower your users to do their own file restores on Amazon FSx for Windows File Server using shadows copies. In this video, we’ll walkthrough how users can use shadow copies to do their own file restores and how to enable this capability on Amazon FSx file systems.\n\nLearn more about Amazon FSx for Windows File Server at https://go.aws/2Q6BAWx\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #AmazonFSx",
         "date": "2020-03-12T16:29:21Z",
-        "description": "Learn how to empower your users to do their own file restores on Amazon FSx for Windows File Server using shadows copies. In this video, we'll walkthrough ..."
+        "duration": 788
     },
     {
         "service": "fsx",
         "videoId": "pySNkXcZCsI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "FSX",
+            "Windows",
+            "Linux",
+            "File Server"
+        ],
         "title": "How to Access Amazon FSx for Windows File Server from a Linux Client",
+        "description": "In this video, we will learn how to join a Linux instance to an AWS Directory Service for Microsoft Active Directory directory and mount an Amazon FSx for Windows File Server file share on this instance.\n\nLearn more about Amazon FSx for Windows File Server at https://go.aws/2Q7DvtV\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #AmazonFSx",
         "date": "2020-03-12T16:30:31Z",
-        "description": "In this video, we will learn how to join a Linux instance to an AWS Directory Service for Microsoft Active Directory directory and mount an Amazon FSx for ..."
+        "duration": 504
     },
     {
         "service": "fsx",
         "videoId": "SxFag4CMWU8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Analytics",
+            "Compute",
+            "Containers",
+            "Storage",
+            "Kubernetes clusters",
+            "ElastiCube",
+            "Amazon FSx for Lustre",
+            "Amazon Redshift",
+            "Amazon Athena",
+            "Elastic Load Balancing",
+            "Amazon Elastic Kubernetes Service (EKS)",
+            "Amazon EC2",
+            "Amazon Simple Storage Service (S3)",
+            "AWS Glue",
+            "Amazon RDS"
+        ],
         "title": "Sisense: Using Amazon EKS and FSx for Lustre for Multi-Source Data Ingestion and Presentation",
+        "description": "Learn how Sisense architected its ElastiCube solution so that organizations can create BI dashboards with data ingested from multiple sources. The solution is based on auto scaling Kubernetes clusters and stores data in Amazon FSx for Lustre and Amazon Redshift.\n\n~Filmed prior to COVID-19~\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
         "date": "2020-10-07T17:48:59Z",
-        "description": "Learn how Sisense architected its ElastiCube solution so that organizations can create BI dashboards with data ingested from multiple sources. The solution is ..."
+        "duration": 372
     },
     {
         "service": "fsx",
         "videoId": "nCcAMStPsvQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center"
+        ],
         "title": "How can I configure self-managed AD Mutli-AZ FSx permissions?",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/fsx-multi-az-self-managed-ad/\n\nJames shows you how to configure self-managed AD Mutli-AZ FSx permissions.",
         "date": "2020-10-22T16:35:02Z",
-        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/fsx-multi-az-self-managed-ad/ ..."
+        "duration": 326
     },
     {
         "service": "fsx",
         "videoId": "4v08-CzjH1U",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "amazon fsx for lustre",
+            "lustre",
+            "amazon s3",
+            "s3",
+            "file system",
+            "high-performance",
+            "compute-intensive workloads"
+        ],
         "title": "Amazon FSx for Lustre: High-Performance File System for Processing Amazon S3 or On-Premises Data",
+        "description": "Amazon FSx for Lustre is a high-performance file system for processing Amazon S3 or on-premises data. Learn more at - https://amzn.to/2GglrJa.\n\nWith Amazon FSx for Lustre, you can launch and run a Lustre file system that can process massive data sets at up to hundreds of gigabytes per second of throughput, millions of IOPS, and sub-millisecond latencies. Amazon FSx for Lustre is seamlessly integrated with S3, and helps you cost-optimize your storage for compute-intensive workloads. Lustre also provides cheap and performant non-replicated storage for processing data, with your long-term data stored durably in Amazon S3 or other low-cost data stores.",
         "date": "2019-07-18T14:00:00Z",
-        "description": "Amazon FSx for Lustre is a high-performance file system for processing Amazon S3 or on-premises data. Learn more at - https://amzn.to/2GglrJa. With Amazon ..."
+        "duration": 119
     },
     {
         "service": "fsx",
         "videoId": "izyP-PXSgIQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "move to managed",
+            "file storage",
+            "aws storage",
+            "aws cloud storage",
+            "amazon fsx",
+            "amazon fsx for windows file server",
+            "amazon efs",
+            "amazon elastic file system",
+            "aws datasync",
+            "aws snow family",
+            "aws storage gateway",
+            "aws file storage",
+            "hybrid file storage",
+            "smb file shares",
+            "nfs file systems",
+            "file migration",
+            "data migration",
+            "hybrid cloud storage"
+        ],
         "title": "Move to Managed File Storage with AWS",
+        "description": "With your file storage that runs industry standard SMB and NFS protocols, you can leverage AWS file storage services like Amazon FSx and Amazon EFS in the cloud to improve agility and TCO, enhance availability and performance, strengthen your security posture, and create faster time-to-market. You can benefit from a range of cloud storage solutions to easily move to managed file storage without making changes to your existing applications or workflows. Move your on-premises file data to fully managed AWS Cloud file storage today to start maximizing your data.\n\nLearn more about file storage with AWS at https://amzn.to/328J9RD\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
         "date": "2020-08-20T20:18:21Z",
-        "description": "With your file storage that runs industry standard SMB and NFS protocols, you can leverage AWS file storage services like Amazon FSx and Amazon EFS in the ..."
+        "duration": 201
     },
     {
         "service": "fsx",
         "videoId": "PBKVRIwx2kw",
+        "tags": [
+            "AWS",
+            "Events",
+            "Amazon FSx for Lustre",
+            "HPC",
+            "High Performance Computing"
+        ],
         "title": "HPC on AWS Event - Amazon FSx for Lustre Fast and Scalable Storage for Compute Workloads",
+        "description": "This video will introduce you to Amazon FSx for Lustre, a fully managed service that provides cost-effective, high-performance storage for compute workloads. Many workloads such as machine learning, high performance computing (HPC), video rendering, and financial simulations depend on compute instances accessing the same set of data through high-performance shared storage.\n\nA speaker from AWS discusses key capabilities of the service during HPC on AWS online event on November 4-5, 2020. \n\nLearn more about Amazon FSx for Lustre at - https://amzn.to/38sAGxG\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSWebinar",
         "date": "2020-11-09T22:26:24Z",
-        "description": "This video will introduce you to Amazon FSx for Lustre, a fully managed service that provides cost-effective, high-performance storage for compute workloads."
+        "duration": 1076
     },
     {
         "service": "fsx",
         "videoId": "iV2Tk6ApbVY",
-        "title": "AWS re:Invent 2019: What&#39;s new in AWS file storage (STG202)",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "STG202",
+            "Storage",
+            "MINDBODY",
+            "Discover Financial Services",
+            "AWS Snowmobile",
+            "Wayne Duso"
+        ],
+        "title": "AWS re:Invent 2019: What's new in AWS file storage (STG202)",
+        "description": "In this session, we focus on innovations in the fast-growing AWS file-storage portfolio, including Amazon Elastic File System (Amazon EFS), Amazon FSx for Windows File Server, and Amazon FSx for Lustre.",
         "date": "2019-12-05T17:53:20Z",
-        "description": "In this session, we focus on innovations in the fast-growing AWS file-storage portfolio, including Amazon Elastic File System (Amazon EFS), Amazon FSx for ..."
+        "duration": 2718
     },
     {
         "service": "fsx",
         "videoId": "a_yqyj5x9_Y",
-        "title": "I&#39;m a Sys Admin -  What&#39;s New in File Storage (Level 300)",
+        "tags": [
+            "Sys admin",
+            "AWS Summit Online EMEA"
+        ],
+        "title": "I'm a Sys Admin -  What's New in File Storage (Level 300)",
+        "description": "In this session, we focus on innovations in the fast-growing AWS file storage portfolio, including Amazon Elastic File System (Amazon EFS), Amazon FSx for Windows File Server, and Amazon FSx for Lustre.\n\nKumar Nachiketa is a Storage Partner Solutions Architect at AWS for APJ, based in Singapore. With over 13 years in the data storage industry, He loves helping partners and customers in making a better decision on their data storage strategy and build a robust solution. He has recently been working with a partner across APJ to create innovative data storage practices.\n\nLearn more about AWS at - https://amzn.to/2EtCWaE\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
         "date": "2020-09-01T18:36:12Z",
-        "description": "In this session, we focus on innovations in the fast-growing AWS file storage portfolio, including Amazon Elastic File System (Amazon EFS), Amazon FSx for ..."
+        "duration": 1783
     },
     {
         "service": "fsx",
         "videoId": "qrKZRH3mQRA",
-        "title": "What&#39;s New in AWS File Storage - Level 300 (United States)",
+        "tags": [
+            "AWS",
+            "AWS Summit Online",
+            "May 13",
+            "2020",
+            "United States",
+            "level 300",
+            "Amazon",
+            "Elastic File",
+            "System Amazon EFS",
+            "building",
+            "applications at scale",
+            "track",
+            "security & storage",
+            "AWS Events"
+        ],
+        "title": "What's New in AWS File Storage - Level 300 (United States)",
+        "description": "In this session, we focus on innovations in the fast-growing AWS file storage portfolio, including Amazon Elastic File System (Amazon EFS), Amazon FSx for Windows File Server, and Amazon FSx for Lustre.\n\nLearn more about AWS at - https://amzn.to/2CDbsPf\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
         "date": "2020-07-24T19:02:22Z",
-        "description": "In this session, we focus on innovations in the fast-growing AWS file storage portfolio, including Amazon Elastic File System (Amazon EFS), Amazon FSx for ..."
+        "duration": 1783
     },
     {
         "service": "fsx",

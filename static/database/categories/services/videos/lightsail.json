@@ -2,100 +2,268 @@
     {
         "service": "lightsail",
         "videoId": "e_AmFP1jhNo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "compute",
+            "Lightsail",
+            "Linux",
+            "VPS",
+            "tutorial"
+        ],
         "title": "Amazon Lightsail Tutorial: Launch a Linux Instance",
+        "description": "Amazon Lightsail is the easiest way to get started on AWS. We have a number of tutorials to help you on your cloud journey. In this tutorial, you will learn how to launch a Linux instance. You can also follow along the written tutorial. \n\nLearn more about Amazon Lightsail at https://amzn.to/3lxAn8F\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n \n#AWS  #AWSDemo",
         "date": "2020-08-31T23:38:32Z",
-        "description": "Amazon Lightsail is the easiest way to get started on AWS. We have a number of tutorials to help you on your cloud journey. In this tutorial, you will learn how to ..."
+        "duration": 206
     },
     {
         "service": "lightsail",
         "videoId": "wzhTAwRbdXw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "compute",
+            "Lightsail",
+            "VPS",
+            "virtual private server"
+        ],
         "title": "Learn more about Amazon Lightsail",
+        "description": "Amazon Lightsail is an easy-to-use virtual private server for a low, predictable price. Lightsail is meant to get you up and running in the cloud as simply as possible. Try for free.\n\nLearn more about Amazon Lightsail at - https://amzn.to/32Ig8wl\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
         "date": "2020-09-02T18:07:10Z",
-        "description": "Amazon Lightsail is an easy-to-use virtual private server for a low, predictable price. Lightsail is meant to get you up and running in the cloud as simply as ..."
+        "duration": 103
     },
     {
         "service": "lightsail",
         "videoId": "Iv13FrZCdko",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "compute",
+            "Lightsail",
+            "VPS",
+            "tutorial",
+            "Minecraft"
+        ],
         "title": "Amazon Lightsail Tutorial: Run your own Minecraft Server",
+        "description": "Amazon Lightsail is the easiest way to get started on AWS. We have a number of tutorials to help you on your cloud journey. In this tutorial, you will learn how to set up a dedicated Minecraft server. You can also follow along the written tutorial. \n\nLearn more about Amazon Lightsail at https://amzn.to/2YOod1G\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n \n#AWS  #AWSDemo",
         "date": "2020-08-31T23:38:32Z",
-        "description": "Amazon Lightsail is the easiest way to get started on AWS. We have a number of tutorials to help you on your cloud journey. In this tutorial, you will learn how to ..."
+        "duration": 263
     },
     {
         "service": "lightsail",
         "videoId": "mM88-bZgWTc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Lightsail",
+            "compute",
+            "VPS",
+            "LAMP",
+            "tutorial"
+        ],
         "title": "Amazon Lightsail Tutorial: Deploy a LAMP Stack App",
+        "description": "Amazon Lightsail is the easiest way to get started on AWS. We have a number of tutorials to help you on your cloud journey. In this tutorial, you will learn how to deploy a LAMP (Linux Apache MySQL PHP) stack application onto a single Lightsail instance. You can also follow along the written tutorial. \n\nLearn more about Amazon Lightsail at https://amzn.to/3gOI8n8\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS  #AWSDemo",
         "date": "2020-08-31T23:38:32Z",
-        "description": "Amazon Lightsail is the easiest way to get started on AWS. We have a number of tutorials to help you on your cloud journey. In this tutorial, you will learn how to ..."
+        "duration": 233
     },
     {
         "service": "lightsail",
         "videoId": "6p8tEIqvGoo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "compute",
+            "Lightsail",
+            "Django",
+            "VPS",
+            "tutorial"
+        ],
         "title": "Amazon Lightsail Tutorial: Deploy a Django-based App",
+        "description": "Amazon Lightsail is the easiest way to get started on AWS. We have a number of tutorials to help you on your cloud journey. In this tutorial, you will learn how to deploy a Django-based web application onto Lightsail. You can also follow along the written tutorial. \n\nLearn more about Amazon Lightsail at https://amzn.to/2GfYysc\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n \n#AWS  #AWSDemo",
         "date": "2020-08-31T23:38:32Z",
-        "description": "Amazon Lightsail is the easiest way to get started on AWS. We have a number of tutorials to help you on your cloud journey. In this tutorial, you will learn how to ..."
+        "duration": 446
     },
     {
         "service": "lightsail",
         "videoId": "AESGb6Juulw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "compute",
+            "Lightsail",
+            "VPS",
+            "virtual private server",
+            "tutorials"
+        ],
         "title": "Introduction to Amazon Lightsail Tutorials",
+        "description": "Amazon Lightsail is the easiest way to get started on AWS. Follow along our tutorials to simply deploy your first linux instance or to elevate your WordPress instance with load balancers and distributions. Get started on your cloud journey today with Amazon Lightsail.\n\nLearn more about Amazon Lightsail at - https://amzn.to/2DiMfdy\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
         "date": "2020-09-01T00:04:28Z",
-        "description": "Amazon Lightsail is the easiest way to get started on AWS. Follow along our tutorials to simply deploy your first linux instance or to elevate your WordPress ..."
+        "duration": 71
     },
     {
         "service": "lightsail",
         "videoId": "BTEvn7HLMGU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "compute",
+            "Lightsail",
+            "Windows",
+            "tutorial",
+            "VPS"
+        ],
         "title": "Amazon Lightsail Tutorial: Launch a Windows Instance",
+        "description": "Amazon Lightsail is the easiest way to get started on AWS. We have a number of tutorials to help you on your cloud journey. In this tutorial, you will learn how to a Windows instance in Lightsail. You can also follow along the written tutorial. \n\nLearn more about Amazon Lightsail at https://amzn.to/3gGnntH\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n \n#AWS  #AWSDemo",
         "date": "2020-08-31T23:38:32Z",
-        "description": "Amazon Lightsail is the easiest way to get started on AWS. We have a number of tutorials to help you on your cloud journey. In this tutorial, you will learn how to ..."
+        "duration": 181
     },
     {
         "service": "lightsail",
         "videoId": "q4cbMwZrvAc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Lightsail",
+            "Virtual Private Server"
+        ],
         "title": "Managing Lightsail",
+        "description": "Amazon Lightsail aims to be the easiest way to get started on AWS, and in this video we'll take a quick look at its key features including: connecting to your instance, snapshots, instance metrics, networking options, and instance history. Learn more at - https://amzn.to/2PnzajV.",
         "date": "2018-10-09T14:19:59Z",
-        "description": "Amazon Lightsail aims to be the easiest way to get started on AWS, and in this video we'll take a quick look at its key features including: connecting to your ..."
+        "duration": 64
     },
     {
         "service": "lightsail",
         "videoId": "4b15zJNxe-U",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "compute",
+            "Lightsail",
+            "VPS",
+            "tutorials",
+            "Drupal"
+        ],
         "title": "Amazon Lightsail Tutorial: Build a Drupal Website",
+        "description": "Amazon Lightsail is the easiest way to get started on AWS. We have a number of tutorials to help you on your cloud journey. In this tutorial, you will learn how to launch and configure a Drupal instance. You can also follow along the written tutorial. \n\nLearn more about Amazon Lightsail at https://amzn.to/3hJxTC0\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n \n#AWS  #AWSDemo",
         "date": "2020-08-31T23:38:32Z",
-        "description": "Amazon Lightsail is the easiest way to get started on AWS. We have a number of tutorials to help you on your cloud journey. In this tutorial, you will learn how to ..."
+        "duration": 180
     },
     {
         "service": "lightsail",
         "videoId": "J5thWR_C_0c",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Configuring WordPress Multisite in Amazon Lightsail",
+        "description": "Learn how to configure a WordPress Multisite instance in Amazon Lightsail - https://amzn.to/2VWZgOd. In this video, we show you how to define the primary domain of your WordPress Multisite, and how to add sites with subdomains. \n\nLinks in this video. ↓↓↓\n\nCreate a Network\n- https://codex.wordpress.org/Create_A_Network\n\nCreate a WordPress Multisite instance\n- https://amzn.to/2LWRxvc\n\nCreate a static IP and attach it to an instance\n- https://amzn.to/2VDstOc\n\nCreate a DNS zone with a domain, and point it to the static IP\n- https://amzn.to/2Cj92l5\n\nAdd blogs as domains to your WordPress Multisite instance in Amazon Lightsail\n- https://amzn.to/2H17amy\n\nDefine the primary domain for your WordPress Multisite instance in Amazon Lightsail\n- https://amzn.to/2shsH00\n\nAdd blogs as subdomains to your WordPress Multisite instance in Amazon Lightsail\n-https://amzn.to/2QtWsUR",
         "date": "2019-01-15T21:00:26Z",
-        "description": "Learn how to configure a WordPress Multisite instance in Amazon Lightsail - https://amzn.to/2VWZgOd. In this video, we show you how to define the primary ..."
+        "duration": 363
     },
     {
         "service": "lightsail",
         "videoId": "SkVVZi-g2HM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Lightsail",
+            "Lightsail",
+            "Virtual private server",
+            "VPS",
+            "Plesk",
+            "Plesk panel",
+            "Domains",
+            "DNS",
+            "WordPress",
+            "Joomla",
+            "Drupal",
+            "SSL/TLS"
+        ],
         "title": "Configuring a Plesk instance in Amazon Lightsail",
+        "description": "Learn more about Amazon Lightsail  at – https://amzn.to/2HKNh2D \nLearn how to configure a Plesk instance in Amazon Lightsail. In this video, we show you how to get the one-time login address for the Plesk panel, how to add domains to Plesk, and how to install applications and certificates for your domains in Plesk. Links in this video. ↓↓↓\n\nPlesk Administrator’s Guide\nhttp://bit.ly/2ChcEoe\n\nCreate an Amazon Lightsail instance\nhttps://amzn.to/2LWRxvc\n\nCreating a DNS zone to manage your domain’s DNS records in Amazon Lightsail\nhttps://amzn.to/2Cj92l5\n\nMaking Amazon Route 53 the DNS Service for an Existing Domain\nhttps://amzn.to/2HjGGfn\n\nFTP Access to Your Websites\nhttp://bit.ly/2VXfnuE\n\nQuick start guide: Plesk on Amazon Lightsail\nhttps://amzn.to/2u5D5J1",
         "date": "2019-03-27T19:33:34Z",
-        "description": "Learn more about Amazon Lightsail at – https://amzn.to/2HKNh2D Learn how to configure a Plesk instance in Amazon Lightsail. In this video, we show you how ..."
+        "duration": 534
     },
     {
         "service": "lightsail",
         "videoId": "-AC1YqDVJAs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I back up and restore my Lightsail instance using snapshots?",
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/2LYKUdq\nTawha shows you how to back up and restore your Lightsail instance using snapshots.",
         "date": "2019-11-13T07:36:37Z",
-        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/2LYKUdq Tawha shows you how to back up and restore your Lightsail instance ..."
+        "duration": 168
     },
     {
         "service": "lightsail",
         "videoId": "xiUc6CWHxfY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Lightsail",
+            "SSH",
+            "Terminal Access"
+        ],
         "title": "Amazon Lightsail: SSH / Terminal Access",
+        "description": "Amazon Lightsail is the easiest way to launch and manage a virtual private server with AWS. Get everything you need to jumpstart your project - compute, storage, and networking - starting at $5/month. Learn more at http://amzn.to/2iZUaRW.",
         "date": "2017-09-05T19:39:34Z",
-        "description": "Amazon Lightsail is the easiest way to launch and manage a virtual private server with AWS. Get everything you need to jumpstart your project - compute, ..."
+        "duration": 35
     },
     {
         "service": "lightsail",
         "videoId": "GYTcOSl7FOQ",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DEM152"
+        ],
         "title": "AWS re:Invent 2019: Create your first application in the cloud with Amazon Lightsail (DEM152)",
+        "description": "In this demo, we show you how easy it is to deploy and scale your first cloud application. We start by deploying a LAMP stack application into a single server. We then evolve it into a highly available, two tier application using an Amazon Lightsail load balancer and database instance.",
         "date": "2019-12-05T17:46:15Z",
-        "description": "In this demo, we show you how easy it is to deploy and scale your first cloud application. We start by deploying a LAMP stack application into a single server."
+        "duration": 1161
     },
     {
         "service": "lightsail",

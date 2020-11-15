@@ -2,9 +2,23 @@
     {
         "service": "mediastore",
         "videoId": "wdc2YvQaAws",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Solving with AWS Solutions",
+            "AWS Elemental Media Live",
+            "AWS Elemental Media Store",
+            "Amazon CloudFront",
+            "Amazon CloudWatch",
+            "Amazon S3"
+        ],
         "title": "Solving with AWS Solutions: Live Streaming on AWS with MediaStore",
+        "description": "Solution Link: https://aws.amazon.com/solutions/implementations/live-streaming-on-aws/\nLive Streaming on AWS with MediaStore combines AWS Elemental MediaLive and AWS Elemental MediaStore with Amazon CloudFront to build a highly resilient and scalable architecture that delivers your live content worldwide. \n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
         "date": "2020-11-05T20:00:58Z",
-        "description": "Solution Link: https://aws.amazon.com/solutions/implementations/live-streaming-on-aws/ Live Streaming on AWS with MediaStore combines AWS Elemental ..."
+        "duration": 433
     },
     {
         "service": "mediastore",

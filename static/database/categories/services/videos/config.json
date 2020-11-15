@@ -2,16 +2,43 @@
     {
         "service": "config",
         "videoId": "baA5eN5zyrg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Compliance",
+            "Compliance Package",
+            "Compliance Controls",
+            "Config",
+            "AWS Config",
+            "Conformance Packs",
+            "CPacks",
+            "AWS Config Conformance Packs",
+            "CloudFormation",
+            "CloudFormation Registry"
+        ],
         "title": "Deploy AWS Config Conformance Packs Using CloudFormation",
+        "description": "In this video, you’ll see how to deploy AWS Config conformance packs using CloudFormation. With this service, you can easily deploy conformance packs from CloudFormation templates, create custom templates to suit your needs, and expose parameters at deployment to afford greater control.\n\nLearn more about AWS Config Conformance Packs at https://amzn.to/2QI3XKE\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n #AWS  #AWSDemo",
         "date": "2020-08-31T19:11:51Z",
-        "description": "In this video, you'll see how to deploy AWS Config conformance packs using CloudFormation. With this service, you can easily deploy conformance packs from ..."
+        "duration": 351
     },
     {
         "service": "config",
         "videoId": "hjm6sGHtoNc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon EC2"
+        ],
         "title": "AWS Config/EC2 Systems Manager Integration",
+        "description": "Learn more about Amazon EC2 here - http://amzn.to/2hRAyOj\n\nTaylor Anderson demonstrates EC2 and Config integration that allows users to see historical configuration data about their EC2 instances.",
         "date": "2016-12-21T19:10:59Z",
-        "description": "Learn more about Amazon EC2 here - http://amzn.to/2hRAyOj Taylor Anderson demonstrates EC2 and Config integration that allows users to see historical ..."
+        "duration": 62
     },
     {
         "service": "config",

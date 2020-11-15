@@ -2,65 +2,153 @@
     {
         "service": "fargate",
         "videoId": "HQyIuywiyTE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            ".NET",
+            "EKS",
+            "Fargate",
+            "Containers"
+        ],
         "title": "Deploy your .NET Core Application on Amazon EKS on AWS Fargate",
+        "description": "In this video, you will learn how to deploy a net Core application to Amazon EKS on AWS Fargate. EKS and Fargate make it straightforward to run Kubernetes-based applications on AWS by removing the need to provision and manage infrastructure for pods.\n\nLearn more about Amazon EKS at - https://amzn.to/2EoEUcY\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
         "date": "2020-09-22T20:32:53Z",
-        "description": "In this video, you will learn how to deploy a net Core application to Amazon EKS on AWS Fargate. EKS and Fargate make it straightforward to run ..."
+        "duration": 652
     },
     {
         "service": "fargate",
         "videoId": "Fup1KEg50qE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "SRV314",
+            "AWS San Francisco Summit 2018"
+        ],
         "title": "AWS Summit SF 2018: Containerized App Development with AWS Fargate (SRV314)",
+        "description": "AWS Fargate makes running containerized workloads on AWS easier than ever before. In this session, we provide a technical foundation for using AWS Fargate with your existing containerized services, including best practices for building images, configuring task definitions, task networking, secrets management, and monitoring.",
         "date": "2018-04-11T22:56:04Z",
-        "description": "AWS Fargate makes running containerized workloads on AWS easier than ever before. In this session, we provide a technical foundation for using AWS Fargate ..."
+        "duration": 2611
     },
     {
         "service": "fargate",
         "videoId": "rtk3rRdAZ6s",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Containers",
+            "CON320-R1"
+        ],
         "title": "AWS re:Invent 2018: Operational Excellence w/ Containerized Workloads Using AWS Fargate (CON320-R1)",
+        "description": "This session will focus on how leveraging Fargate and its serverless approach to deploying and managing containers will help increase operational efficiencies and reduce the time to ramp up your operations to run production containerized workloads. Datree will share their journey to adopt containers and the steps they were able to accelerate and avoid by using Fargate as well do a demo. Complete Title: AWS re:Invent 2018: [REPEAT 1] Operational Excellence with Containerized Workloads Using AWS Fargate (CON320-R1)",
         "date": "2018-11-29T18:21:07Z",
-        "description": "This session will focus on how leveraging Fargate and its serverless approach to deploying and managing containers will help increase operational efficiencies ..."
+        "duration": 2911
     },
     {
         "service": "fargate",
         "videoId": "0zEF3xgTSdU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "EkoSystem Day - AWS Fargate Overview",
+        "description": "AWS is streaming on twitch.tv/aws with interactive live coding, technical discussions, demos, tutorials and events. Learn more at - https://amzn.to/2QGUtgr.\n\nJoin AWS and our partners for a hands-on day of learning about accelerating your development using the cloud, containers, and serverless technologies.\n\nThroughout the day, we learned how to use containers, microservices architectures, DevOps automation, security tools, and monitoring systems to build scalable and reliable applications. We covered the key changes you can make to help accelerate your ability to safely deliver code intro production and showcased best practices from our engineers and partners.",
         "date": "2018-10-10T17:34:30Z",
-        "description": "AWS is streaming on twitch.tv/aws with interactive live coding, technical discussions, demos, tutorials and events. Learn more at - https://amzn.to/2QGUtgr."
+        "duration": 1891
     },
     {
         "service": "fargate",
         "videoId": "EfoXj2ymy_E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Startups",
+            "AWS Fargate",
+            "Tulip Retail",
+            "Bill Vandenberk"
+        ],
         "title": "Tulip Retail on Rapidly Responding to Traffic Surges Using AWS Fargate",
+        "description": "Startup Central Talks from the 2018 AWS Toronto Summit. Learn more about AWS at - \nTulip DevOps engineer Bill Vandenberk speaks at Startup Central Toronto on the topic of \"Rapidly Responding to Traffic Surges Using AWS Fargate\".",
         "date": "2018-10-08T18:04:25Z",
-        "description": "Startup Central Talks from the 2018 AWS Toronto Summit. Learn more about AWS at - Tulip DevOps engineer Bill Vandenberk speaks at Startup Central Toronto ..."
+        "duration": 1350
     },
     {
         "service": "fargate",
         "videoId": "TGh_QcELr5A",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "EkoSystem Day - Scanning Vulnerabilities to Protect Fargate Apps During Run Time by Aqua Security",
+        "description": "AWS is streaming on twitch.tv/aws with interactive live coding, technical discussions, demos, tutorials and events. Learn more at - \nhttps://amzn.to/2A32Z45.\n\nJoin AWS and our partners for a hands-on day of learning about accelerating your development using the cloud, containers, and serverless technologies.\n\nThroughout the day, we learned how to use containers, microservices architectures, DevOps automation, security tools, and monitoring systems to build scalable and reliable applications. We covered the key changes you can make to help accelerate your ability to safely deliver code intro production and showcased best practices from our engineers and partners.",
         "date": "2018-10-10T17:34:14Z",
-        "description": "AWS is streaming on twitch.tv/aws with interactive live coding, technical discussions, demos, tutorials and events. Learn more at - https://amzn.to/2A32Z45."
+        "duration": 685
     },
     {
         "service": "fargate",
         "videoId": "-xMNbys0tF8",
+        "tags": [
+            "AWS",
+            "Events",
+            "fargate",
+            "eks",
+            "aws",
+            "containers",
+            "kubernetes"
+        ],
         "title": "AWS Container Day - Amazon EKS and AWS Fargate: Better Together",
+        "description": "In this brief demo-led session we are going to show you how it is possible to use EKS and Fargate together. The combination of EKS and Fargate allows you to move away from managing infrastructure resources. In fact, EKS provides a robust fully managed Kubernetes control plane while Fargate, an AWS managed serverless environment for containers, allows you to focus on deploying your Kubernetes pods rather than having to size, scale, manage and life-cycle your Kubernetes worker nodes. This session will introduce these concepts and will show how you can use the two services together.\n\nLearn more about Amazon EKS at - https://amzn.to/2QzSpJa\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSEvent",
         "date": "2020-08-31T16:31:10Z",
-        "description": "In this brief demo-led session we are going to show you how it is possible to use EKS and Fargate together. The combination of EKS and Fargate allows you to ..."
+        "duration": 1310
     },
     {
         "service": "fargate",
         "videoId": "7lG3JZFzSiY",
+        "tags": [
+            "Amazon EC2",
+            "Amazon Web Services",
+            "Amazon Linux",
+            "AWS Cloud Computing",
+            "Infrastructure",
+            "Wade",
+            "Richard",
+            "Network",
+            "AWS Summit Online ASEAN re:Cap"
+        ],
         "title": "AWS Summit Online ASEAN 2020 | Delivering Container-native Applications Without Managing Servers",
+        "description": "AWS Fargate is a completely serverless, container-native compute engine. It doesn’t require users to provision, scale, or manage servers, and it works with Amazon ECS and Amazon EKS. In this session, learn how to design and deliver a scalable and secure modern application on Fargate. Also learn how to use the AWS Cloud Development Kit (AWS CDK) to define reusable cloud components that compose the entire application architecture.\n\nAWS Speaker: Timothee Cruse, Principal IoT Architect, AWS\n\nDownload the slides: https://go.aws/2SHZaKD\n\nLearn more about AWS at - https://amzn.to/2Yb94qO\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n#AWS #AWSSummit #AWSEvents",
         "date": "2020-08-28T17:59:50Z",
-        "description": "AWS Fargate is a completely serverless, container-native compute engine. It doesn't require users to provision, scale, or manage servers, and it works with ..."
+        "duration": 980
     },
     {
         "service": "fargate",
         "videoId": "uQ9ry-9uUvo",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CMP210-R1",
+            "Compute"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Dive deep on how to save with AWS Savings Plans (CMP210-R1)",
+        "description": "Savings Plans is a new flexible pricing model that provides savings of up to 72 percent on Amazon EC2 and AWS Fargate usage. Savings Plans offers significant savings over On Demand, just like Reserved Instances, but automatically reduces your bills on compute usage across any AWS Region, even as your usage changes. Savings Plans provides you the flexibility to use the compute option that best suits your needs and continues to save money, all without having to perform exchanges or modifications. Attend this session to learn how you can easily save money on your compute spend. We walk you through a demo of Savings Plans recommendations in AWS Cost Explorer and different considerations for signing up for Savings Plans.",
         "date": "2019-12-07T05:56:55Z",
-        "description": "Savings Plans is a new flexible pricing model that provides savings of up to 72 percent on Amazon EC2 and AWS Fargate usage. Savings Plans offers ..."
+        "duration": 2875
     },
     {
         "service": "fargate",

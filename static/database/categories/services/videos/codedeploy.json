@@ -2,23 +2,56 @@
     {
         "service": "codedeploy",
         "videoId": "xThOQuhJ2Pw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            ".NET",
+            "SSM",
+            "DevOps",
+            "CodeDeploy",
+            "blue-green",
+            "Blue/Green",
+            "deploy",
+            "deployment"
+        ],
         "title": "How to Create Blue/Green Deployments to Amazon Elastic Compute Cloud with AWS CodeDeploy",
+        "description": "Would you like to learn how to automatically deploy the latest version of your applications to your Amazon Elastic Compute Cloud (or EC2) instances without any interruption of service to your customers? \n\nIn this video, join Andy Hopper to explore one of AWS’ DevOps services named AWS CodeDeploy, and how you can use a feature of CodeDeploy called Blue/Green Deployments to be able to install and switch to the latest version of your application in an instant.\n\nLearn more about .NET applications on AWS at https://amzn.to/32xJeP1\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
         "date": "2020-08-28T19:16:47Z",
-        "description": "Would you like to learn how to automatically deploy the latest version of your applications to your Amazon Elastic Compute Cloud (or EC2) instances without any ..."
+        "duration": 1868
     },
     {
         "service": "codedeploy",
         "videoId": "ISttjCIBd6U",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing"
+        ],
         "title": "How to Deploy to Amazon Elastic Compute Cloud Using AWS CodeDeploy In-place Deployments",
+        "description": "Would you like to learn how to automatically deploy the latest version of your applications to your Amazon Elastic Compute Cloud (or EC2) instances? In this video, join Andy Hopper to explore one of AWS’ DevOps services named AWS CodeDeploy, and how you can use this service to reliably install your application code on your fleet of EC2 instances.\n\nLearn more about .NET applications on AWS at https://amzn.to/3b3NNV6\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
         "date": "2020-08-28T19:16:38Z",
-        "description": "Would you like to learn how to automatically deploy the latest version of your applications to your Amazon Elastic Compute Cloud (or EC2) instances? In this ..."
+        "duration": 1742
     },
     {
         "service": "codedeploy",
         "videoId": "yP4xBg1sEYs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "119656"
+        ],
         "title": "DevOps on Windows: How to Deploy Complex Windows Workloads (119656)",
+        "description": "In this session, you will learn how to deploy complex Windows workloads and ways AWS CloudFormation, AWS OpsWorks, and AWS CodeDeploy enable you to automate your Windows application life-cycle management. We will also discuss the monitoring, logging, and automatically scaling of Windows applications.",
         "date": "2017-06-19T20:35:42Z",
-        "description": "In this session, you will learn how to deploy complex Windows workloads and ways AWS CloudFormation, AWS OpsWorks, and AWS CodeDeploy enable you ..."
+        "duration": 3140
     },
     {
         "service": "codedeploy",

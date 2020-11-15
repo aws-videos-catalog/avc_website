@@ -2,9 +2,25 @@
     {
         "service": "workmail",
         "videoId": "FfA27q3LNew",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Launch",
+            "AWS Elastic Beanstalk",
+            "Amazon ElastiCache",
+            "Redis",
+            "Amazon WorkMail",
+            "Amazon Simple Notification Service",
+            "SNS",
+            "Jeff Barr"
+        ],
         "title": "What’s New with AWS – Week of April 9, 2018",
+        "description": "Learn what's new with AWS at - https://amzn.to/2Hy6Gkp. Find out what’s new with AWS Elastic Beanstalk, Amazon ElastiCache for Redis, Amazon WorkMail & Amazon Simple Notification Service (SNS).",
         "date": "2018-04-17T16:04:15Z",
-        "description": "Learn what's new with AWS at - https://amzn.to/2Hy6Gkp. Find out what's new with AWS Elastic Beanstalk, Amazon ElastiCache for Redis, Amazon WorkMail ..."
+        "duration": 81
     },
     {
         "service": "workmail",

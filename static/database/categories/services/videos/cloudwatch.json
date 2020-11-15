@@ -2,72 +2,192 @@
     {
         "service": "cloudwatch",
         "videoId": "PBO636_t9n0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "cloudwatch",
+            "AWSSupport"
+        ],
         "title": "Introduction to Amazon CloudWatch Application Insight - Amazon Web Services (AWS)",
+        "description": "Easily add and manage monitoring for your enterprise applications running in AWS.\n\nAmazon CloudWatch Application Insights automates the setup of enterprise application monitoring through an easy to follow wizard-like experience.\n\nIt identifies and sets up key metrics, logs, and alarms across your application resources and technology stack. Additionally, it creates automated dashboards for detected problems that include metric anomalies, log errors, and additional problem insights. Once setup, CloudWatch Application Insights continuously monitors these metrics, telemetry and logs to detect and correlate anomalies and errors. Thus allowing you to determine a potential root cause for your issues so you can take remedial actions to keep your applications healthy. You can even automate the creation of Opsitems in Systems Manager to quickly initiate runbooks for resolving issues.\n\nLearn more about Amazon CloudWatch Application Insights at - https://go.aws/3e7MdSF\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo #AmazonCloudWatch",
         "date": "2020-10-16T21:24:11Z",
-        "description": "Easily add and manage monitoring for your enterprise applications running in AWS. Amazon CloudWatch Application Insights automates the setup of enterprise ..."
+        "duration": 390
     },
     {
         "service": "cloudwatch",
         "videoId": "6b_ENVFgCpA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amplify DataStore",
+            "AppSync",
+            "AWS Amplify",
+            "GraphQL",
+            "DynamoDB",
+            "Vue",
+            "Mobile applications",
+            "front-end web development",
+            "mobile development"
+        ],
         "title": "Monitor AWS CloudTrail Log Data in Amazon CloudWatch",
+        "description": "In this video, you’ll see how to monitor AWS CloudTrail log data in Amazon CloudWatch. With CloudWatch, you can visualize and explore your CloudTrail logs, analyze time-series log data, and create metric filters for your data.\n\nLearn more about AWS CloudWatch at - https://amzn.to/30lJjFr\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
         "date": "2020-09-30T18:00:33Z",
-        "description": "In this video, you'll see how to monitor AWS CloudTrail log data in Amazon CloudWatch. With CloudWatch, you can visualize and explore your CloudTrail logs, ..."
+        "duration": 586
     },
     {
         "service": "cloudwatch",
         "videoId": "U-t45TwOVCc",
-        "title": "Why can&#39;t I see CloudWatch logs for an AWS DMS task?",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center"
+        ],
+        "title": "Why can't I see CloudWatch logs for an AWS DMS task?",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/dms-cloudwatch-logs-not-appearing/ \n\nNaga shows you why you can't see CloudWatch logs for an AWS DMS task.",
         "date": "2020-08-28T15:24:54Z",
-        "description": "For more details see the Knowledge Center article with this video: ..."
+        "duration": 189
     },
     {
         "service": "cloudwatch",
         "videoId": "tK7mXA4NRdM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "How do I monitor my task by using CloudWatch metrics in AWS Database Migration Service (AWS DMS)?",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/36kIVsa\nDaniel, an AWS Cloud Support Engineer, shows you how to monitor your task by using CloudWatch metrics in AWS Database Migration Service (AWS DMS).",
         "date": "2020-01-13T19:17:07Z",
-        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/36kIVsa Daniel, an AWS Cloud Support Engineer, shows you how to monitor your task by using ..."
+        "duration": 344
     },
     {
         "service": "cloudwatch",
         "videoId": "hXDuUblkwos",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "EKoSystem Day on twitch.tv/aws | Distributed Monitoring of EKS with CloudWatch and Weave Cloud",
+        "description": "Catch up on past live streams and see the upcoming schedule at - https://amzn.to/2O7OLDU.\nAmazon EKS enables developers to run Kubernetes on AWS without needing to install and operate their own Kubernetes cluster. Developers can quickly scale up to run hundreds or even thousands of application as part of a distributed system. But how do you get notified if user experience is degraded? Can you act quickly on identifying the root cause?Weave Cloud’s Prometheus in combination with CloudWatch provides a comprehensive view of EKS workloads. Locate bottlenecks, drill into workload performance and visualise performance trends. With automated dashboards and alerting Weave Cloud provides production ready monitoring and analytics.\n\nDate of Event: June 18, 2018",
         "date": "2018-07-24T00:21:56Z",
-        "description": "Catch up on past live streams and see the upcoming schedule at - https://amzn.to/2O7OLDU. Amazon EKS enables developers to run Kubernetes on AWS ..."
+        "duration": 718
     },
     {
         "service": "cloudwatch",
         "videoId": "B7p3MeGxs0Y",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center"
+        ],
         "title": "How do I set human-readable CloudWatch Events notifications for API calls using input transformers?",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/cloudwatch-human-readable-notifications/\n\nMani shows you how to set up human-readable CloudWatch Events notifications for API calls using input transformers.",
         "date": "2020-10-15T21:44:32Z",
-        "description": "For more details see the Knowledge Center article with this video: ..."
+        "duration": 198
     },
     {
         "service": "cloudwatch",
         "videoId": "4ExkEX3ftFs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "AWS re: Invent",
+            "re: Invent 2012",
+            "RDS Read Throughput",
+            "Cloudwatch",
+            "Amazon Cloudwatch",
+            "Amazon Web Services (Website)",
+            "Cloud Infrastructure",
+            "ELB Request Counts",
+            "EC2 Instance CPU Utilization"
+        ],
         "title": "AWS re: Invent RMG 203: Cloud Infrastructure and Application Monitoring with Amazon CloudWatch",
+        "description": "Amazon CloudWatch provides AWS customers the monitoring platform for keeping tabs on their cloud infrastructure and applications. In this session, we show you how to use CloudWatch to monitor vital operational resource data such as EC2 Instance CPU Utilization, ELB Request Counts, RDS Read Throughput and much more. Learn how to configure CloudWatch Alarms to alert you any time services are operating outside of ranges you define. Finally, see how you can monitor applications on your EC2 instances or outside of AWS.",
         "date": "2012-12-05T18:29:06Z",
-        "description": "Amazon CloudWatch provides AWS customers the monitoring platform for keeping tabs on their cloud infrastructure and applications. In this session, we show ..."
+        "duration": 2153
     },
     {
         "service": "cloudwatch",
         "videoId": "cscA8A6hhT8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "appflow",
+            "Cloudwatch",
+            "notification",
+            "automate"
+        ],
         "title": "How to Setup CloudWatch Events to Get Flow Notifications from Amazon AppFlow",
+        "description": "Amazon AppFlow is an integration service that helps you securely transfer data between SaaS applications (like Salesforce, Marketo, Slack) and AWS services (like Amazon S3, Amazon Redshift) in just a few clicks. \n\nIn this video, learn how to setup CloudWatch Events to send flow execution notifications from Amazon AppFlow to over 15+ different targets (like Lambda functions, Amazon SNS, Amazon SQS, etc.). In this demo, we would use CloudWatch Events to send a flow notification from AppFlow to Amazon SNS (target) to generate an email whenever a new flow gets executed. \n\nWith AppFlow, you can run data flows at nearly any scale at the frequency you choose - on a schedule, in response to a business event, or on-demand. You can configure data transformation capabilities like filtering and validation to generate rich, ready-to-use data as part of the flow itself, without additional steps. \n\nAppFlow automatically encrypts data in motion and allows users to restrict data from flowing over the public Internet for SaaS applications that are integrated with AWS PrivateLink, reducing exposure to security threats. \n\nLearn more:\nAmazon AppFlow - https://amzn.to/3mMilzr\nFlow notifications generated by AppFlow - https://amzn.to/34T88ex \n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
         "date": "2020-11-04T19:22:52Z",
-        "description": "Amazon AppFlow is an integration service that helps you securely transfer data between SaaS applications (like Salesforce, Marketo, Slack) and AWS services ..."
+        "duration": 366
     },
     {
         "service": "cloudwatch",
         "videoId": "x4GkAGe65vE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "SEC313",
+            "Don Bailey",
+            "Bri",
+            "Advances (300 Level)",
+            "Security Services Mini Con"
+        ],
         "title": "AWS re:Invent 2016: Automating Security Event Response, from Idea to Code to Execution (SEC313)",
+        "description": "With security-relevant services such as AWS Config, VPC Flow Logs, Amazon CloudWatch Events, and AWS Lambda, you now have the ability to programmatically wrangle security events that may occur within your AWS environment, including prevention, detection, response, and remediation. This session covers the process of automating security event response with various AWS building blocks, taking several ideas from drawing board to code, and gaining confidence in your coverage by proactively testing security monitoring and response effectiveness before anyone else does.",
         "date": "2016-12-01T22:03:03Z",
-        "description": "With security-relevant services such as AWS Config, VPC Flow Logs, Amazon CloudWatch Events, and AWS Lambda, you now have the ability to ..."
+        "duration": 2756
     },
     {
         "service": "cloudwatch",
         "videoId": "M9e53kPTxAk",
+        "tags": [
+            "AWS",
+            "Events",
+            "container insights",
+            "prometheus",
+            "eks",
+            "kubernetes",
+            "cloudwatch",
+            "aws",
+            "containers"
+        ],
         "title": "AWS Container Day - CloudWatch Container Insights Now Monitors Prometheus Metrics",
+        "description": "You can use Amazon CloudWatch to monitor Prometheus metrics from Amazon Elastic Kubernetes Service (EKS) and Kubernetes clusters, now available in beta. With this new feature, DevOps teams can automatically discover services for containerized workloads such as AWS App Mesh, NGINX, HAProxy, Memcache, and Java/JMX, and use Automatic Dashboards that visualize the health of these workloads. The new Container Insights console experience also provides the ability to manage resources and visualize the hierarchy of your containerized applications.\n\nLearn more about Amazon EKS at - https://amzn.to/2ErhoMz\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSEvent",
         "date": "2020-08-31T16:31:10Z",
-        "description": "You can use Amazon CloudWatch to monitor Prometheus metrics from Amazon Elastic Kubernetes Service (EKS) and Kubernetes clusters, now available in ..."
+        "duration": 992
     },
     {
         "service": "cloudwatch",

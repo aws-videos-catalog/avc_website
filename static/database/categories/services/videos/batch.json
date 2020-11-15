@@ -2,149 +2,410 @@
     {
         "service": "batch",
         "videoId": "H8bmHU_z8Ac",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "London Loft",
+            "Batch Computing",
+            "fetch & run job",
+            "AWS Batch",
+            "AWS Pop-up Loft"
+        ],
         "title": "Live from the London Loft | AWS Batch: Simplifying Batch Computing in the Cloud",
+        "description": "Visit http://amzn.to/2fF5GS5 for more information on the current live coding shows, upcoming episode schedule, or for recordings of previous broadcasts. To learn more about the AWS Pop-up Loft | London, please visit https://awsloft.london/.\n\nHost: Adrian Hornsby, AWS Technical Evangelist\nDate: September 20, 2017\nLive from the London Loft, AWS Technical Evangelist, Adrian Hornsby walks you through the steps to create and run a simple “fetch & run” job in AWS Batch on https://www.twitch.tv/aws.",
         "date": "2017-09-29T23:23:28Z",
-        "description": "Visit http://amzn.to/2fF5GS5 for more information on the current live coding shows, upcoming episode schedule, or for recordings of previous broadcasts."
+        "duration": 3163
     },
     {
         "service": "batch",
         "videoId": "T4aAWrGHmxQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Batch"
+        ],
         "title": "How AWS Batch Works",
+        "description": "Learn about how AWS Batch works - http://amzn.to/2jw31pL\nAWS Batch enables developers, scientists, and engineers to easily and efficiently run hundreds of thousands of batch computing jobs on AWS. AWS Batch dynamically provisions the optimal quantity and type of compute resources (e.g., CPU or memory optimized instances) based on the volume and specific resource requirements of the batch jobs submitted. With AWS Batch, there is no need to install and manage batch computing software or server clusters that you use to run your jobs, allowing you to focus on analyzing results and solving problems. AWS Batch plans, schedules, and executes your batch computing workloads across the full range of AWS compute services and features, such as Amazon EC2 and Spot Instances.",
         "date": "2017-01-30T19:44:19Z",
-        "description": "Learn about how AWS Batch works - http://amzn.to/2jw31pL AWS Batch enables developers, scientists, and engineers to easily and efficiently run hundreds of ..."
+        "duration": 216
     },
     {
         "service": "batch",
         "videoId": "Z9FtrRq0rc0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon SageMaker",
+            "SageMaker",
+            "Machine Learning",
+            "ML",
+            "Batch Tansform",
+            "Batch Data",
+            "Inference",
+            "ML Models",
+            "Build",
+            "Train",
+            "Deploy",
+            "Ground Truth",
+            "Data labeling"
+        ],
         "title": "Get Scheduled Predictions on Your ML Models with Amazon SageMaker Batch Transform",
+        "description": "Learn more about Amazon SageMaker at – https://amzn.to/2mdzzvF \nLearn how to generate inferences for an entire dataset with large batches of data, where you don't need sub-second latency, and need to pre-process and transform the training data. You can achieve this and more with Amazon SageMaker Batch Transform.",
         "date": "2019-09-11T20:18:46Z",
-        "description": "Learn more about Amazon SageMaker at – https://amzn.to/2mdzzvF Learn how to generate inferences for an entire dataset with large batches of data, where ..."
+        "duration": 949
     },
     {
         "service": "batch",
         "videoId": "qPU9FzuAKIw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "batch processing",
+            "cloudformation template for batch",
+            "spot instances on batch",
+            "batch production",
+            "aws batch",
+            "sqs",
+            "queue scheduling",
+            "job scheduling"
+        ],
         "title": "AWS Batch on EC2 Spot Instances: How to Accelerate Batch Processing for Less",
+        "description": "Learn more about running Amazon EC2 Spot Instances at - https://amzn.to/2yIK3Gr\nAmazon EC2 Spot Instances offer spare compute capacity available in the AWS cloud at steep discounts compared to On-Demand instances. Watch this video to learn how to utilize Spot Instances when running AWS Batch workloads.",
         "date": "2019-08-07T21:53:12Z",
-        "description": "Learn more about running Amazon EC2 Spot Instances at - https://amzn.to/2yIK3Gr Amazon EC2 Spot Instances offer spare compute capacity available in the ..."
+        "duration": 430
     },
     {
         "service": "batch",
         "videoId": "hXT1VWbONP8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I use AWS Batch as a target for my CloudWatch Events rule?",
+        "description": "Find more details in the AWS Knowledge Center:\nNaren, an AWS Cloud Support Engineer, shows you how to use AWS Batch as a target for my CloudWatch Events rule.",
         "date": "2019-06-04T17:05:49Z",
-        "description": "Find more details in the AWS Knowledge Center: Naren, an AWS Cloud Support Engineer, shows you how to use AWS Batch as a target for my CloudWatch ..."
+        "duration": 269
     },
     {
         "service": "batch",
         "videoId": "9vMJqlbLCs8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "batch processing",
+            "cloudformation template for batch",
+            "spot instances on batch",
+            "batch production",
+            "aws batch",
+            "sqs",
+            "queue scheduling",
+            "job scheduling"
+        ],
         "title": "Batch Processing on EC2 Spot Instances: How to Accelerate Self-Managed Batch Processing for Less",
+        "description": "Learn more about running batch processing workloads on Amazon EC2 Spot Instances at - https://amzn.to/2GTKu4X\nAmazon EC2 Spot Instances offer spare compute capacity available in the AWS cloud at steep discounts compared to On-Demand instances. Watch this video to learn how to utilize Spot Instances when running self-managed batch processing workloads.",
         "date": "2019-08-07T21:53:14Z",
-        "description": "Learn more about running batch processing workloads on Amazon EC2 Spot Instances at - https://amzn.to/2GTKu4X Amazon EC2 Spot Instances offer spare ..."
+        "duration": 341
     },
     {
         "service": "batch",
         "videoId": "gydmKeaB-oo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon EC2",
+            "EC2 fleet",
+            "Amazon EC2 Spot Instances",
+            "AWS Lambda",
+            "Amazon Simple Queue Service (SQS)",
+            "Amazon Cloudwatch",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "CoreLogic: Spotting Scalable Architectures for Batch Workloads",
+        "description": "Many batch workloads don't need to be persistent. In this episode of This is My Architecture, CoreLogic describes how they replaced their EC2 fleet with spot instances and use a worker pattern to reduce their compute costs by 90%. Learn more at - http://amzn.to/2nMOME4.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
         "date": "2017-12-11T18:36:08Z",
-        "description": "Many batch workloads don't need to be persistent. In this episode of This is My Architecture, CoreLogic describes how they replaced their EC2 fleet with spot ..."
+        "duration": 249
     },
     {
         "service": "batch",
         "videoId": "6x_SgFEqoQI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Knowledge Center Videos",
+            "AWS Batch"
+        ],
         "title": "Why is my AWS Batch job stuck on RUNNABLE status?",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2NPBSii\nManuel, an AWS Cloud Support Engineer, shows you reasons why your AWS Batch job may be stuck on RUNNABLE status.",
         "date": "2019-03-08T21:52:31Z",
-        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2NPBSii Manuel, an AWS Cloud Support Engineer, shows you reasons why your AWS Batch ..."
+        "duration": 527
     },
     {
         "service": "batch",
         "videoId": "s2NYVwAs4Fo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Community Day Session 4 | Building Fraud Detection Systems with AWS Batch and Containers",
+        "description": "When analyzing information for fraud detection, tasks must be run periodically. When building a fraud detection system, start by preparing the data, and work with small chunks of data and run parallel jobs so your machine learning (ML) models can predict fraudulent activity. For that, you schedule computer resources and, of course, the script. With AWS Batch, you only worry about your application job and run it at scale. With containers, you think in small processes and let AWS Batch run them concurrently. In this session, learn to build a fraud detection system and integrate it with other AWS services.  Learn More: https://aws.amazon.com/developer/community/ Catch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
         "date": "2018-11-30T21:03:10Z",
-        "description": "When analyzing information for fraud detection, tasks must be run periodically. When building a fraud detection system, start by preparing the data, and work ..."
+        "duration": 2637
     },
     {
         "service": "batch",
         "videoId": "fmC84lp7-Hs",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Healthcare",
+            "HLC308",
+            "Aurora",
+            "Database Migration Service",
+            "AWS Lambda",
+            "Database",
+            "Messaging",
+            "Migration"
+        ],
         "title": "AWS re:Invent 2017: Healthcare Payers and Serverless Batch Processing Engines (HLC308)",
+        "description": "In this session, hear how Cambia Health Solutions, a not-for-profit total health solutions company, created a self-service data model to convert a large-scale, on-premises batch processing model to a cloud-based, real-time pub-sub and RESTful API model. Learn how Cambia leveraged AWS services like Amazon Aurora, AWS Database Migration Service (AWS DMS), AWS Lambda, and AWS messaging services to create an architecture that provides a reasonable runway for legacy customers to convert from old mode to new mode and, at the same time, offer a fast track for onboarding new customers.",
         "date": "2017-11-28T17:57:45Z",
-        "description": "In this session, hear how Cambia Health Solutions, a not-for-profit total health solutions company, created a self-service data model to convert a large-scale, ..."
+        "duration": 2558
     },
     {
         "service": "batch",
         "videoId": "--YL7S2Nlrk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "119727"
+        ],
         "title": "AWS Compute Overview: Servers, Containers, Serverless, and Batch (119727)",
+        "description": "The AWS Compute platform has expanded EC2 instance types including FPGA and new GPU instances. There are also other ways to run workloads in AWS including Lambda (serverless), ECS (managed Docker), and AWS Batch (batch computing). This session will cover the newest instance types in EC2 and review AWS Lambda, ECS, and Batch.",
         "date": "2017-06-20T17:26:21Z",
-        "description": "The AWS Compute platform has expanded EC2 instance types including FPGA and new GPU instances. There are also other ways to run workloads in AWS ..."
+        "duration": 2439
     },
     {
         "service": "batch",
         "videoId": "jcC3pz_K4gI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Cromwell",
+            "Genomics",
+            "Broad Institute",
+            "Bioinformatics"
+        ],
         "title": "Cromwell on AWS Demo with the Broad Institute",
+        "description": "A brief video to highlight two examples demonstrating Cromwell capabilities on AWS: Configure Cromwell to use AWS Batch and encode a simple workflow.",
         "date": "2018-10-01T20:32:19Z",
-        "description": "A brief video to highlight two examples demonstrating Cromwell capabilities on AWS: Configure Cromwell to use AWS Batch and encode a simple workflow."
+        "duration": 1429
     },
     {
         "service": "batch",
         "videoId": "qFfwRvy_8hg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "mainframe",
+            "migration",
+            "bluage",
+            "mainframe migration",
+            "Automated Refactoring",
+            "COBOL",
+            "VSAM",
+            "DB2",
+            "z/OS",
+            "Cloud-native",
+            "RDS",
+            "Elasticache",
+            "CICS",
+            "Velocity",
+            "serverless cobol",
+            "AWS Batch",
+            "Amazon Aurora",
+            "Amazon ElastiCache",
+            "Amazon Kinesis",
+            "AWS Lambda",
+            "Java",
+            "Serverless",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "BluAge: Mainframe Migration on Steroids",
+        "description": "Would you like to accelerate your Zos/DB2 mainframe migration to the cloud, do batch processing faster, and stay in budget? On the next This is my Architecture - https://amzn.to/2TnKZbE, you will learn how BluAge mainframe migration to the cloud at large scale using AWS technologies like AWS Batch, AWS Lambda, and Amazon Kinesis.\n\nHost: Daniel Kreuzhofer, Sr. Solutions Architect, AWS\nCustomer: Alexis Henry, Director of R&D, BluAge\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
         "date": "2019-02-18T08:00:07Z",
-        "description": "Would you like to accelerate your Zos/DB2 mainframe migration to the cloud, do batch processing faster, and stay in budget? On the next This is my Architecture ..."
+        "duration": 387
     },
     {
         "service": "batch",
         "videoId": "6RkGM-pSJ2c",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I repair an AWS Batch Compute Environment which goes to INVALID status?",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/batch-invalid-compute-environment/\nNikhil shows you how to repair an AWS Batch Compute Environment which goes to INVALID status.",
         "date": "2020-04-27T20:09:12Z",
-        "description": "For more details see the Knowledge Center article with this video: ..."
+        "duration": 292
     },
     {
         "service": "batch",
         "videoId": "f5EJBUfGZtw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "App Integration",
+            "Business Productivity",
+            "Customer Productivity",
+            "Travel",
+            "Amazon Aurora",
+            "Amazon EC2",
+            "Amazon Elastic Container Service (ECS)",
+            "Amazon Simple Storage Service (S3)",
+            "AWS Lambda",
+            "This is My Architecture",
+            "TMA"
+        ],
         "title": "Expedia: Salesforce Integration with AWS",
+        "description": "Sandeep from Expedia will explain how they built scalable & flexible system to ingest high data Volume both real time & batch leveraging  AWS platform & services. You will learn how Amazon Glue and Amazon EC2 helped ingesting & transforming heterogenous data, use bookmark capabilities of Glue & push data to Centralized S3 Data Lake. You will also learn how Amazon Dynamo and Amazon ECS helped ingesting real time data & loading into RDS Aurora along with monitoring & alerting using Cloud watch . You will also learn how Expedia systems and Salesforce platform integrate using the power of the AWS platform with seamless experience to users.\n\n~Filmed prior to Covid-19~\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4",
         "date": "2020-03-06T22:11:41Z",
-        "description": "Sandeep from Expedia will explain how they built scalable & flexible system to ingest high data Volume both real time & batch leveraging AWS platform ..."
+        "duration": 363
     },
     {
         "service": "batch",
         "videoId": "XWBONnli8jg",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CMP328-R1",
+            "Compute",
+            "Uber ATG",
+            "AWS Batch",
+            "Amazon EC2"
+        ],
         "title": "AWS re:Invent 2019: Uber builds scalable autonomous vehicle simulations w/ AWS Batch (CMP328-R1)",
+        "description": "Learn how Uber uses AWS Batch to run hundreds of thousands of autonomous vehicle simulations across as many vCPUs every day. Hear the story of how the company built a highly performant and scalable simulation pipeline on native AWS services.",
         "date": "2019-12-05T17:57:43Z",
-        "description": "Learn how Uber uses AWS Batch to run hundreds of thousands of autonomous vehicle simulations across as many vCPUs every day. Hear the story of how the ..."
+        "duration": 3415
     },
     {
         "service": "batch",
         "videoId": "_xmzrJgo7Iw",
+        "tags": [
+            "AWS",
+            "Events",
+            "AWS Batch",
+            "HPC",
+            "High Performance Computing",
+            "batch scheduling"
+        ],
         "title": "HPC on AWS Event - AWS Batch, Cloud-Native Batch Scheduling",
+        "description": "In this video, Steve Kendrex, Sr Product Manager at AWS, gives an overview of AWS Batch and explains how this service enables developers, scientists, and engineers to easily and efficiently run hundreds of thousands of batch computing jobs on AWS. \n\nAWS Batch dynamically provisions the optimal quantity and type of compute resources (e.g., CPU or memory optimized instances) based on the volume and specific resource requirements of the batch jobs submitted. AWS Batch plans, schedules, and executes your batch computing workloads across the full range of AWS compute services and features, such as Amazon EC2 and Spot Instances. There is no additional charge for AWS Batch. \n\nLearn more about AWS Batch at - https://go.aws/3e7MdSF\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSWebinar",
         "date": "2020-11-09T22:46:21Z",
-        "description": "In this video, Steve Kendrex, Sr Product Manager at AWS, gives an overview of AWS Batch and explains how this service enables developers, scientists, and ..."
+        "duration": 1880
     },
     {
         "service": "batch",
         "videoId": "oXzNs_QfUX8",
+        "tags": [
+            "AWS",
+            "Events",
+            "AWS Batch",
+            "HPC",
+            "High Performance Computing"
+        ],
         "title": "HPC on AWS Event -Ginkgo Bioworks Automating the Creation of Batch Processing Workflows in AWS",
+        "description": "Hear from Ginkgo Bioworks’ Jacob Merovach about his experience with automating the creation of batch processing workflows on AWS and making scaling accessible to everyone at Ginkgo. \n\nLearn more about AWS Batch at - https://amzn.to/2TZzEjZ\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSWebinar",
         "date": "2020-11-09T21:55:10Z",
-        "description": "Hear from Ginkgo Bioworks' Jacob Merovach about his experience with automating the creation of batch processing workflows on AWS and making scaling ..."
+        "duration": 2412
     },
     {
         "service": "batch",
         "videoId": "n_rRb8u1GSM",
         "title": "AWS re:Invent 2019: Cloud-native machine learning at Lyft with AWS Batch and Amazon EKS (CON235-P)",
+        "description": "Flyte is the backbone for large-scale machine learning and data processing pipelines at Lyft and is used across many business-critical applications. It’s essentially a container-based workflow engine that executes 10+ million containers per month as part of thousands of workflows. This talk focuses on Flyte’s use of Amazon EKS and Kubernetes on Amazon EC2, as well as Amazon EKS, Amazon ECS, and AWS Batch to scale to millions of containers. Learn how Flyte uses AWS to offer frictionless serverless compute experiences and about Flyte’s architecture and specification language used to orchestrate compute and manage data flow across disparate systems. Finally, hear about managing large-scale Kubernetes deployments on AWS and Flyte use cases.",
         "date": "2019-12-20T22:15:48Z",
-        "description": "Flyte is the backbone for large-scale machine learning and data processing pipelines at Lyft and is used across many business-critical applications."
+        "duration": 2621
     },
     {
         "service": "batch",
         "videoId": "2SGOyhwcbV4",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "SVS317-R1",
+            "Serverless",
+            "Comcast",
+            "AWS Lambda",
+            "Amazon Kinesis"
+        ],
         "title": "AWS re:Invent 2019: [REPEAT 1] Serverless stream processing pipeline best practices (SVS317-R1)",
+        "description": "Streaming data pipelines are increasingly used to replace batch processing with real-time decision-making for use cases including log processing, real-time monitoring, data lake analytics, and machine learning. Join this session to learn how to leverage Amazon Kinesis and AWS Lambda to solve real-time ingestion, processing, storage, and analytics challenges. We introduce design patterns and best practices as well as share a customer journey in building large-scale real-time serverless analytics capabilities.",
         "date": "2019-12-07T05:50:08Z",
-        "description": "Streaming data pipelines are increasingly used to replace batch processing with real-time decision-making for use cases including log processing, real-time ..."
+        "duration": 3627
     },
     {
         "service": "batch",
         "videoId": "YMO1NuEGXfk",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "CON218",
+            "Containers"
+        ],
         "title": "AWS re:Invent 2019: How Amazon Lex uses Amazon ECS to process batches at scale (CON218)",
+        "description": "Amazon Lex creates conversational interfaces powered by the same deep learning technologies used in Alexa. AWS Batch dynamically provisions the optimal quantity and type of compute resources based on the volume and specific resource requirements of the batch jobs submitted. In this chalk talk, learn how Amazon Lex uses Amazon ECS to dynamically run these batch jobs to create conversational bots.",
         "date": "2019-12-03T18:02:39Z",
-        "description": "Amazon Lex creates conversational interfaces powered by the same deep learning technologies used in Alexa. AWS Batch dynamically provisions the optimal ..."
+        "duration": 3495
     },
     {
         "service": "batch",

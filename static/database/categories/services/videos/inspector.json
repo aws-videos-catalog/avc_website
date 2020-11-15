@@ -2,9 +2,21 @@
     {
         "service": "inspector",
         "videoId": "wTnnnv3pUSM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Inspector",
+            "aws services",
+            "matt wood",
+            "aws announcements"
+        ],
         "title": "Introducing Amazon Inspector",
+        "description": "Lean more about Amazon Inspector at - http://amzn.to/1Sqm01K\nAmazon Inspector is an automated security assessment service that helps improve the security and compliance of applications deployed on AWS. Amazon Inspector automatically assesses applications for vulnerabilities or deviations from best practices. After performing an assessment, Amazon Inspector produces a detailed list of security findings prioritized by level of severity.",
         "date": "2016-04-19T16:30:32Z",
-        "description": "Lean more about Amazon Inspector at - http://amzn.to/1Sqm01K Amazon Inspector is an automated security assessment service that helps improve the security ..."
+        "duration": 62
     },
     {
         "service": "inspector",

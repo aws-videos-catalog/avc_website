@@ -2,65 +2,175 @@
     {
         "service": "kinesis",
         "videoId": "Q5KE1RJv8vA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Amazon Kinesis Data Analytics for Java applications is now Generally Available",
+        "description": "Amazon Kinesis Data Analytics now supports Java-based stream processing applications, in addition to the previously supported SQL. Now, you can use your own Java code in Amazon Kinesis Data Analytics to build sophisticated streaming applications. Learn more | https://aws.amazon.com/kinesis/data-analytics/ \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
         "date": "2018-11-30T20:56:42Z",
-        "description": "Amazon Kinesis Data Analytics now supports Java-based stream processing applications, in addition to the previously supported SQL. Now, you can use your ..."
+        "duration": 854
     },
     {
         "service": "kinesis",
         "videoId": "fK5Qm-hxZNo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Japanese Localized",
+            "アマゾン ウェブ サービス",
+            "クラウドコンピューティング",
+            "データストリーム",
+            "ストリーミング"
+        ],
         "title": "Amazon Kinesis Data Firehose の紹介 | AWS (日本語字幕) (1:45)",
+        "description": "詳細はこちら » https://amzn.to/2PGA2QM\nAmazon Kinesis Data Firehose は、ストリーミングデータをデータストアや分析ツールに確実にロードするための最も簡単なサービスです。ストリーミングデータをキャプチャして変換し、Amazon S3、Amazon Redshift、Amazon Elasticsearch Service、Splunk にロードして、現在お使いの既存のビジネスインテリジェンスツールやダッシュボードで、ほぼリアルタイムに分析することができます。",
         "date": "2018-10-17T21:09:20Z",
-        "description": "詳細はこちら » https://amzn.to/2PGA2QM Amazon Kinesis Data Firehose は、ストリーミングデータをデータストアや分析ツールに確実にロードするための最も簡単な ..."
+        "duration": 106
     },
     {
         "service": "kinesis",
         "videoId": "WxJ85LIlRnE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS API Gateway",
+            "Amazon Kinesis Data Streams",
+            "AWS Lambda",
+            "Amazon SQS"
+        ],
         "title": "Solving with AWS Solutions: AWS Streaming Data Solution for Amazon Kinesis",
+        "description": "Solution Link: https://aws.amazon.com/solutions/implementations/aws-streaming-data-solution-for-amazon-kinesis/\nAWS Streaming Data Solution for Amazon Kinesis automatically configures the AWS services necessary to easily capture, store, process, and deliver streaming data. This solution helps you solve for real-time streaming use cases like capturing high volume application logs, analyzing clickstream data, continuously delivering to a data lake, and more.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
         "date": "2020-10-28T17:21:05Z",
-        "description": "Solution Link: https://aws.amazon.com/solutions/implementations/aws-streaming-data-solution-for-amazon-kinesis/ AWS Streaming Data Solution for Amazon ..."
+        "duration": 391
     },
     {
         "service": "kinesis",
         "videoId": "PDQ73SVF2QE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Amazon Kinesis",
+            "AWS クラウド",
+            "クラウド",
+            "アマゾン ウェブ サービス",
+            "Japanese localized"
+        ],
         "title": "Amazon Kinesis のご紹介（日本語字幕）",
+        "description": "Amazon Kinesis は、大規模なストリーミングデータをリアルタイムで処理する完全マネージド型サービス­です。Amazon Kinesis は、数十万のソースから 1 時間あたり数百テラバイトのデータを収集し、処理できます。そのため、ウェブサイトの­クリックストリーム、マーケティング情報、財務情報、製造業の計器、ソーシャルメディ­ア、運用ログ、計測データなどのソースから取得した情報を、リアルタイムで処理するア­プリケーションを容易に作成できます。",
         "date": "2014-02-18T17:49:15Z",
-        "description": "Amazon Kinesis は、大規模なストリーミングデータをリアルタイムで処理する完全マネージド型サービスです。Amazon Kinesis は、数十万のソースから 1 時間あたり数百 ..."
+        "duration": 129
     },
     {
         "service": "kinesis",
         "videoId": "WxJ85LIlRnE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS API Gateway",
+            "Amazon Kinesis Data Streams",
+            "AWS Lambda",
+            "Amazon SQS"
+        ],
         "title": "Solving with AWS Solutions: AWS Streaming Data Solution for Amazon Kinesis",
+        "description": "Solution Link: https://aws.amazon.com/solutions/implementations/aws-streaming-data-solution-for-amazon-kinesis/\nAWS Streaming Data Solution for Amazon Kinesis automatically configures the AWS services necessary to easily capture, store, process, and deliver streaming data. This solution helps you solve for real-time streaming use cases like capturing high volume application logs, analyzing clickstream data, continuously delivering to a data lake, and more.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
         "date": "2020-10-28T17:21:05Z",
-        "description": "Solution Link: https://aws.amazon.com/solutions/implementations/aws-streaming-data-solution-for-amazon-kinesis/ AWS Streaming Data Solution for Amazon ..."
+        "duration": 391
     },
     {
         "service": "kinesis",
         "videoId": "hHrtSd8iEDg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Kinesis Analytics"
+        ],
         "title": "Amazon Kinesis Analytics Webinar",
+        "description": "Learn more about AWS Webinars here - http://amzn.to/2eGMzne\nAmazon Kinesis Analytics makes it easy to process streaming data in real time with standard SQL without having to learn new programming languages or processing frameworks. This webinar is designed for developers, data engineers, and analysts who are looking to query and process real-time streaming data and get actionable insights. Watch to explore key features, how to use the AWS management console to ingest streaming data into Amazon Kinesis Analytics, define the schema, build SQL queries, and emit results to destinations.",
         "date": "2016-11-18T16:57:54Z",
-        "description": "Learn more about AWS Webinars here - http://amzn.to/2eGMzne Amazon Kinesis Analytics makes it easy to process streaming data in real time with standard ..."
+        "duration": 49
     },
     {
         "service": "kinesis",
         "videoId": "tLOS9E_hCfc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Elasticsearch",
+            "Kinesis Firehose"
+        ],
         "title": "Amazon Kinesis Firehose Webinar",
+        "description": "Learn more about AWS Webinars here - http://amzn.to/2fty8Sa\nAmazon Kinesis Firehose makes it easy to load real-time, streaming data into AWS without having to build custom stream processing applications.  Our webinar is designed for developers, data engineers, and analysts who are looking to load, analyze, and get powerful insights from real-time streaming data using existing analytics tools. Watch to explore key features and then walk through how to use Kinesis Firehose to ingest streaming data into Amazon Kinesis Analytics, Amazon S3, Amazon Redshift, and Amazon Elasticsearch Service.",
         "date": "2016-11-18T16:58:07Z",
-        "description": "Learn more about AWS Webinars here - http://amzn.to/2fty8Sa Amazon Kinesis Firehose makes it easy to load real-time, streaming data into AWS without having ..."
+        "duration": 45
     },
     {
         "service": "kinesis",
         "videoId": "9MZtBMjOFsQ",
-        "title": "AWS re:Invent 2015 | (ARC310) Amazon.com&#39;s Catalog Contention and Cost with Amazon Kinesis",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Architecture",
+            "ARC310",
+            "Timothy Griffith - Amazon",
+            "Advanced (300 level)"
+        ],
+        "title": "AWS re:Invent 2015 | (ARC310) Amazon.com's Catalog Contention and Cost with Amazon Kinesis",
+        "description": "Learn more about AWS: http://amzn.to/1R2GpI5\nThe Amazon.com product catalog receives millions of updates an hour across billions of products with many of the updates concentrated on comparatively few products. In this session, hear how Amazon.com has used Amazon Kinesis to build a pipeline orchestrator that provides sequencing, optimistic batching, and duplicate suppression whilst at the same time significantly lowering costs. This session covers the architecture of that solution and draws out the key enabling features that Amazon Kinesis provides. This talk is intended for those who are interested in learning more about the power of the distributed log and understanding its importance for enabling OLTP just as DHT is for storage.",
         "date": "2015-10-09T18:50:55Z",
-        "description": "Learn more about AWS: http://amzn.to/1R2GpI5 The Amazon.com product catalog receives millions of updates an hour across billions of products with many of ..."
+        "duration": 2843
     },
     {
         "service": "kinesis",
         "videoId": "IhY_q_foSAY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "BDM403",
+            "Roy BenAlta",
+            "Ryan Nienhu",
+            "Big Data Mini Con"
+        ],
         "title": "AWS re:Invent 2016: Beeswax: Building a Real-Time Streaming Data Platform on AWS (BDM403)",
+        "description": "Amazon Kinesis is a platform of services for building real-time, streaming data applications in the cloud. Customers can use Amazon Kinesis to collect, stream, and process real-time data such as website clickstreams, financial transactions, social media feeds, application logs, location-tracking events, and more. In this session, we first cover best practices for building an end-to-end streaming data applications using Amazon Kinesis. Next, Beeswax, which provides real-time Bidder as a Service for programmatic digital advertising, will talk about how they built a feature-rich, real-time streaming data solution on AWS using Amazon Kinesis, Amazon Redshift, Amazon S3, Amazon EMR, and Apache Spark. Beeswax will discuss key components of their solution including scalable data capture, messaging hub for archival, data warehousing, near real-time analytics, and real-time alerting.",
         "date": "2016-12-01T21:28:30Z",
-        "description": "Amazon Kinesis is a platform of services for building real-time, streaming data applications in the cloud. Customers can use Amazon Kinesis to collect, stream, ..."
+        "duration": 3098
     },
     {
         "service": "kinesis",

@@ -2,16 +2,48 @@
     {
         "service": "codebuild",
         "videoId": "wlsVsEwnBxA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "CodeBuild"
+        ],
         "title": "Enable Amazon VPC Access for AWS CodeBuild",
+        "description": "In this video, you’ll see how to enable Amazon Virtual Private Cloud (Amazon VPC) access for AWS CodeBuild projects. With this solution, you can increase the security of your build process, invoke CloudBuild privately, and draw upon any resource hosted in your VPC for CodeBuild projects. \n\nAWS CodeBuild is a fully managed build service in the cloud. Ordinarily, CodeBuild cannot access resources in a VPC. However, it’s possible to enable access through your VPC specifications and CodeBuild project configuration. \n\nLearn more about AWS CodeBuild at - https://amzn.to/35gJy66\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
         "date": "2020-10-21T19:02:35Z",
-        "description": "In this video, you'll see how to enable Amazon Virtual Private Cloud (Amazon VPC) access for AWS CodeBuild projects. With this solution, you can increase the ..."
+        "duration": 591
     },
     {
         "service": "codebuild",
         "videoId": "KhWF7oyc1RU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "DevTools",
+            "CDK",
+            "SaaS",
+            "AWS Developer Tools",
+            "AWS CodeBuild",
+            "TMC",
+            "This is My Code",
+            "CI/CD Pipeline",
+            "AWS Cloud Development Kit (AWS CDK)",
+            "AWS Secrets Manager",
+            "AWS Step Functions",
+            "AWS Code Build",
+            "AWS Lambda",
+            "Amazon Simple Queue Service (SQS)",
+            "AWS CloudFormation"
+        ],
         "title": "Checkmarx: Managing CI/CD with AWS Cloud Development Kit (AWS CDK)",
+        "description": "In this episode, Shay from Checkmarx describes how the company is using AWS Cloud Development Kit and AWS Developer Tools (AWS CodeBuild and more) to build Continuous Integration infrastructure for its SaaS product.\n\n~Filmed prior to COVID-19~\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
         "date": "2020-08-03T16:03:13Z",
-        "description": "In this episode, Shay from Checkmarx describes how the company is using AWS Cloud Development Kit and AWS Developer Tools (AWS CodeBuild and more) ..."
+        "duration": 417
     },
     {
         "service": "codebuild",

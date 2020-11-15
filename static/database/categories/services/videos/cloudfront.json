@@ -2,100 +2,265 @@
     {
         "service": "cloudfront",
         "videoId": "C1tvDZmZEL0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "JioSaavn",
+            "music streaming",
+            "Amazon CloudFront",
+            "Bollywood",
+            "high performance",
+            "scalability"
+        ],
         "title": "JioSaavn Uses Amazon CloudFront to Stream Music and Video to Millions of Subscribers Daily",
+        "description": "Find out how to securely deliver audio and video to customers globally with low latency and high performance using Amazon CloudFront: https://amzn.to/2Xt7huR.\nJioSaavn uses AWS to reliably stream audio and video to millions of subscribers throughout the world. The number one music streaming provider in India, the company is the largest Indian music streaming service and distributor of digital Bollywood music in the world. JioSaavn relies on Amazon CloudFront to securely deliver 15 petabytes of music and video to global customers every day.",
         "date": "2019-06-05T21:34:52Z",
-        "description": "Find out how to securely deliver audio and video to customers globally with low latency and high performance using Amazon CloudFront: ..."
+        "duration": 160
     },
     {
         "service": "cloudfront",
         "videoId": "pEd2iGyA1Kc",
+        "tags": [
+            "re:Invent 2018",
+            "Amazon",
+            "AWS re:Invent",
+            "Content Delivery",
+            "CTD201-R",
+            "Amazon CloudFront"
+        ],
         "title": "AWS re:Invent 2018: Four Ways to Leverage CloudFront in Faster DevOps Workflows (CTD409)",
+        "description": "Increase your organization’s agility by diving deep and discovering how Amazon CloudFront integrates with other services to accelerate your DevOps workflows. In this session, which is jointly presented with Realtor.com, we cover four main areas of DevOps with customer success stories. Build: Programmatically launch and configure your CloudFront distributions by using AWS CloudFormation or Terraform templates as infrastructure as code (IaC). Test: Confirm that your updates deliver the intended result with A/B testing before moving all your traffic by using CloudFront and Lambda@Edge. Release: Continuously manage and deploy your application to the Amazon CloudFront Global Edge Network with AWS CodeStar. Monitor: Uncover actionable insights hiding in your CloudFront logs by leveraging Amazon CloudWatch, Amazon Athena, or AWS Marketplace partners for intelligent monitoring and alerting. Complete Title: AWS re:Invent 2018: High Velocity DevOps: Four Ways to Leverage CloudFront in Faster DevOps Workflows (CTD409)",
         "date": "2018-11-30T16:39:02Z",
-        "description": "Increase your organization's agility by diving deep and discovering how Amazon CloudFront integrates with other services to accelerate your DevOps workflows."
+        "duration": 3058
     },
     {
         "service": "cloudfront",
         "videoId": "gcq5kE496NA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Earth Networks",
+            "Weatherbug",
+            "AWS CloudFront",
+            "Amazon CloudFront",
+            "CloudFront"
+        ],
         "title": "Earth Networks on AWS - CloudFront Success Story",
+        "description": "Earth Networks manages and operates sensor networks that collect real-time weather and lightning data. The company then distributes observations from these sensors in the form of current conditions, forecasts and severe weather alerts to a wide variety of users across their award-winning WeatherBug branded products that include mobile apps, the desktop app and the website www.weatherbug.com. \n\nEarth Networks uses Amazon CloudFront's dynamic content features such as low time-to-live, query strings, and cookies to customize their users' experience by distributing local information to millions of users in near-real time. \n\nWith Amazon CloudFront, Earth Networks saved over 50% in CDN costs and anticipates 20% reduction in Amazon EC2 origin instances, without any reduction in performance compared to their previous CDN provider and without the need to write any customized code. For more information on delivering dynamic content with Amazon CloudFront, please visit: http://aws.amazon.com/cloudfront/dynamic-content/",
         "date": "2012-12-21T20:52:41Z",
-        "description": "Earth Networks manages and operates sensor networks that collect real-time weather and lightning data. The company then distributes observations from these ..."
+        "duration": 259
     },
     {
         "service": "cloudfront",
         "videoId": "eorGJL-LkJc",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Financial Services",
+            "Storage & Content Delivery",
+            "STG205",
+            "Matthew Baldwin - Amazon Web Services",
+            "Alex Dunlap - Amazon Web Services",
+            "Introductory (200 level)"
+        ],
         "title": "AWS re:Invent 2015 | (STG205) Secure Content Delivery Using Amazon CloudFront",
+        "description": "Whether you are building an e-commerce site or a business application, security is a key consideration when architecting your website or application. In this session, you will learn more about some of the things CloudFront does behind the scenes to protect the delivery of your content such as OCSP Stapling and Perfect Forward Secrecy. We will also share best practices on how you can use CloudFront to securely deliver content end-to-end, control who accesses your content, how to shield your origins from the Internet, and getting a A+ on SSL labs.",
         "date": "2015-10-10T01:31:25Z",
-        "description": "Whether you are building an e-commerce site or a business application, security is a key consideration when architecting your website or application. In this ..."
+        "duration": 2276
     },
     {
         "service": "cloudfront",
         "videoId": "AT5oTtKATOU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "CDN",
+            "Content Delivery Network",
+            "Amazon CloudFront",
+            "CloudFront",
+            "static and dynamic content",
+            "delivering dynamic content in the cloud",
+            "AWS Report",
+            "Jeff Barr"
+        ],
         "title": "The AWS Report - Nihar Bihani, Amazon CloudFront",
+        "description": "Join Jeff Barr of Amazon Web Services to listen as Nihar Bihani discusses Amazon CloudFront. Then, go behind the scenes with co-host Lee Zen as he talks with Jarrod Guthrie about what it takes to launch a new feature. \n\nTell us what you think of the new show structure! Leave a comment, and take our survey:https://www.surveymonkey.com/s/_AWS",
         "date": "2013-08-21T15:27:02Z",
-        "description": "Join Jeff Barr of Amazon Web Services to listen as Nihar Bihani discusses Amazon CloudFront. Then, go behind the scenes with co-host Lee Zen as he talks ..."
+        "duration": 442
     },
     {
         "service": "cloudfront",
         "videoId": "oxLzc6KqTSg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Getting Started",
+            ".NET",
+            "cloud",
+            "Web Applications",
+            "Amazon CloudFront",
+            "CloudFront",
+            "CDN",
+            "Content Delivery Network",
+            "Content Distribution"
+        ],
         "title": "Web Applications: Enabling Content Distribution [Amazon CloudFront]",
+        "description": "Amazon CloudFront is a content delivery service from Amazon Web Services that helps you improve the performance, reliability, and availability of your websites and applications.",
         "date": "2012-06-14T14:29:04Z",
-        "description": "Amazon CloudFront is a content delivery service from Amazon Web Services that helps you improve the performance, reliability, and availability of your websites ..."
+        "duration": 182
     },
     {
         "service": "cloudfront",
         "videoId": "FMBhWk0z7og",
+        "tags": [
+            "Amazon Web Services",
+            "AWS",
+            "AWS Report",
+            "Cloud Computing",
+            "web services",
+            "CloudFront",
+            "Cloud Computing jobs",
+            "cloud jobs",
+            "technical jobs",
+            "AWSjobs",
+            "Amazon jobs",
+            "product manager",
+            "software developer",
+            "software developer manager",
+            "Jeff Barr"
+        ],
         "title": "AWS Report with Alex Dunlap, AWS CloudFront",
+        "description": "Alex Dunlap, Senior Manager of CloudFront talks about the new jobs openings in his team.",
         "date": "2012-06-06T17:19:21Z",
-        "description": "Alex Dunlap, Senior Manager of CloudFront talks about the new jobs openings in his team."
+        "duration": 246
     },
     {
         "service": "cloudfront",
         "videoId": "d1VNVTQMHwo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Amazon Cloudfront"
+        ],
         "title": "AWS Webcast - Using Amazon CloudFront-Accelerate Static, Dynamic, Interactive Content",
+        "description": "Amazon CloudFront AWS's easy-to-use and cost-effective content delivery service, recently added support for five additional HTTP methods: POST, PUT, DELETE, OPTIONS and PATCH. This means you can now use CloudFront to accelerate data uploaded from end users, improving the performance of dynamic and personalized websites that have web forms, comment and login boxes, \"add to cart\" buttons or other features. In this webinar, we will explain how CloudFront can accelerate your entire website running on Amazon S3, Amazon EC2, an Elastic Load Balancer, or on your own origin server using routes optimized via persistent connections, TCP/IP and other network path optimizations. We will also demo recent CloudFront features such as zone apex support, custom error pages, and content upload (via these additional HTTP methods).",
         "date": "2013-11-22T23:53:12Z",
-        "description": "Amazon CloudFront AWS's easy-to-use and cost-effective content delivery service, recently added support for five additional HTTP methods: POST, PUT, ..."
+        "duration": 3526
     },
     {
         "service": "cloudfront",
         "videoId": "6uLUbTauEPQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "content delivery network",
+            "CDN",
+            "cloudfront",
+            "amazon cloudfront",
+            "Nihar Bihani"
+        ],
         "title": "AWS Webinar - Introduction to Amazon Cloudfront 13-09-17",
+        "description": "End users expect to be able to view media content anytime, anywhere, and on any device. Amazon CloudFront is a web service for content delivery used to distribute content to end users around the globe with low latency, high data transfer speeds, and no commitments. In this session, learn what a content delivery network (CDN) such as Amazon CloudFront is and how it works, the benefits it provides, common challenges and needs, performance, pricing, and examples of how customers are using CloudFront. Presenter; Nihar Bihani",
         "date": "2013-09-19T17:03:51Z",
-        "description": "End users expect to be able to view media content anytime, anywhere, and on any device. Amazon CloudFront is a web service for content delivery used to ..."
+        "duration": 3423
     },
     {
         "service": "cloudfront",
         "videoId": "3HhjoLI7Ye8",
+        "tags": [
+            "AWS",
+            "Cloudfront",
+            "Content",
+            "Delivery",
+            "John",
+            "Mancuso",
+            "Amazon",
+            "Web",
+            "Services",
+            "cloud",
+            "technology"
+        ],
         "title": "AWS Cloud Storage NY 2012: Content Delivery with Amazon CloudFront",
+        "description": "Learn about AWS Content Delivery with Cloudfront from John Mancuso (AWS Solutions Architect). Learn more: http://aws.amazon.com/cloudfront/",
         "date": "2012-06-15T17:57:43Z",
-        "description": "Learn about AWS Content Delivery with Cloudfront from John Mancuso (AWS Solutions Architect). Learn more: http://aws.amazon.com/cloudfront/"
+        "duration": 1327
     },
     {
         "service": "cloudfront",
         "videoId": "NfBv-FUpIHE",
-        "title": "AWS Summit 2012 | India - CloudFront &amp; Serving Media from the Edge - Kingsley Wood",
+        "tags": [
+            "aws",
+            "amazon",
+            "cloud computing",
+            "cloud"
+        ],
+        "title": "AWS Summit 2012 | India - CloudFront & Serving Media from the Edge - Kingsley Wood",
+        "description": "The explosion of media content makes the Internet richer and more dynamic, but it also poses challenges for IT. What happens if your website becomes instantly popular? What if your mobile application goes viral? AWS has powerful products to help deliver your service quicker, with an optimal user experience, and at minimal cost, and at massive scale. AWS provides the flexibility and agility needed in today's fast-paced web environment. In this session, we will review products, architectures, and best practices for media storage, processing, and the delivery of static and dynamic content around the world.",
         "date": "2012-10-09T01:41:26Z",
-        "description": "The explosion of media content makes the Internet richer and more dynamic, but it also poses challenges for IT. What happens if your website becomes instantly ..."
+        "duration": 2036
     },
     {
         "service": "cloudfront",
         "videoId": "U-m_i1fmsU0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS Knowledge Center Videos: How Do I Mitigate DDos with the CloudFront Geo Restriction?",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2KktIjB\n\nBehnaz, an AWS Support Team Member, shows you how to mitigate DDos with the CloudFront Geo restriction?",
         "date": "2019-04-09T16:06:04Z",
-        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2KktIjB Behnaz, an AWS Support Team Member, shows you how to mitigate DDos with the ..."
+        "duration": 184
     },
     {
         "service": "cloudfront",
         "videoId": "sLZO02ZDdpY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Innovación en AWS - Edge Computing - El nuevo paradigma [Spanish]",
+        "description": "AWS Summit Series 2017 - Madrid, Spain\nAceleración de contenidos con AWS Lambda@Edge y AWS CloudFront sin necesidad de aprovisionar y gestionar servidores.\nSPEAKER: Antonio Delgado - Solutions Architect, AWS",
         "date": "2017-10-04T17:36:23Z",
-        "description": "AWS Summit Series 2017 - Madrid, Spain Aceleración de contenidos con AWS Lambda@Edge y AWS CloudFront sin necesidad de aprovisionar y gestionar ..."
+        "duration": 2682
     },
     {
         "service": "cloudfront",
         "videoId": "HuqkMxejvr8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon EKS",
+            "Amazon CloudFront"
+        ],
         "title": "Kumparan Enjoys Rapid Scale and Time to Market with AWS",
+        "description": "Learn how you can leverage Amazon Elastic Kubernetes Services (https://amzn.to/30vf6kS) and Amazon CloudFront https://amzn.to/2ScojeF for your business.\n\nKumparan is the first hybrid digital media platform in Indonesia hosting various content, news, articles, with the aim to share stories to people across Indonesia. Kumparan runs all their application platforms, from mobile site application, desktop site application and API gateway on the Kubernetes platform on AWS, leveraging Amazon EC2 and Autoscaling Group capabilities. They also use Amazon CloudFront for DNS management, Amazon S3 for binary data as well as AWS Cost Explorer that helps analyze instances, features, or products used to optimize monthly costs. By using AWS, they have been able to scale rapidly and enjoyed reduced time to market, requiring only 10-15 minutes to spin up new instances for new workloads.",
         "date": "2019-07-11T18:25:53Z",
-        "description": "Learn how you can leverage Amazon Elastic Kubernetes Services (https://amzn.to/30vf6kS) and Amazon CloudFront https://amzn.to/2ScojeF for your business."
+        "duration": 223
     },
     {
         "service": "cloudfront",

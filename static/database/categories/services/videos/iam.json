@@ -2,37 +2,94 @@
     {
         "service": "iam",
         "videoId": "cnFE58FsR30",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center"
+        ],
         "title": "How can I view and track account activity history for specific IAM users and roles?",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/view-iam-history/\n\nJansen shows you how to view and track account activity history for specific IAM users and roles.",
         "date": "2020-10-07T18:48:47Z",
-        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/view-iam-history/ Jansen shows ..."
+        "duration": 432
     },
     {
         "service": "iam",
         "videoId": "hZYs_rG3fL4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How can I troubleshoot IAM permission access denied or unauthorized errors?",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/troubleshoot-iam-permission-errors/\nPaul shows you how to troubleshoot IAM permission access denied or unauthorized errors.",
         "date": "2020-09-16T05:24:59Z",
-        "description": "For more details see the Knowledge Center article with this video: ..."
+        "duration": 354
     },
     {
         "service": "iam",
         "videoId": "cnFE58FsR30",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center"
+        ],
         "title": "How can I view and track account activity history for specific IAM users and roles?",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/view-iam-history/\n\nJansen shows you how to view and track account activity history for specific IAM users and roles.",
         "date": "2020-10-07T18:48:47Z",
-        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/view-iam-history/ Jansen shows ..."
+        "duration": 432
     },
     {
         "service": "iam",
         "videoId": "zAtfFkh_hy0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Wealthsimple",
+            "AWS Toronto Summit"
+        ],
         "title": "Wealthsimple on Practical IAM Policies for AWS Admins",
+        "description": "Startup Central Talks from the 2018 AWS Toronto Summit. Learn more about AWS at - https://amzn.to/2zZdQfn.\nByron Wolfman, Infrastructure Architecture Specialist at Wealthsimple, speaks at Startup Central Toronto on the topic of \"Practical IAM Policies for AWS Admins\".",
         "date": "2018-10-09T13:45:02Z",
-        "description": "Startup Central Talks from the 2018 AWS Toronto Summit. Learn more about AWS at - https://amzn.to/2zZdQfn. Byron Wolfman, Infrastructure Architecture ..."
+        "duration": 1385
     },
     {
         "service": "iam",
         "videoId": "JbmJ4BSpNqE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "aws-reinvent",
+            "reinvent2014",
+            "Security",
+            "Expert",
+            "AWS Identity and Access Management (IAM)",
+            "Web App",
+            "DevOps",
+            "Business Applications",
+            "Architecture",
+            "Bracket Computing",
+            "Architect",
+            "Developer",
+            "Bob Van Zant"
+        ],
         "title": "AWS re:Invent 2014 | (SEC403) Building AWS Partner Applications Using IAM Roles",
+        "description": "AWS Identity and Access Management (IAM) roles are powerful primitives you can use to build applications that can access a broad range of data without collecting databases of credentials. This session explains how to model applications that are granted access to large numbers of AWS accounts through the use of IAM roles. It covers advanced role permission modeling and sample implementations.",
         "date": "2014-11-18T00:35:49Z",
-        "description": "AWS Identity and Access Management (IAM) roles are powerful primitives you can use to build applications that can access a broad range of data without ..."
+        "duration": 2438
     },
     {
         "service": "iam",

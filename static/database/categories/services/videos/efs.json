@@ -2,114 +2,307 @@
     {
         "service": "efs",
         "videoId": "fHM69E1EzvE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon EFS",
+            "Elastic File System",
+            "EFS Lifecycle Management"
+        ],
         "title": "Introduction to Amazon EFS Infrequent Access",
+        "description": "This short demo shows you how to easily get started with the Amazon Elastic File System Infrequent Access (EFS IA) storage class and optimizing storage cost with a EFS Lifecycle Management policy. \n\nAmazon EFS Infrequent Access provides price and performance for files not accessed everyday and automatically moves your files to the lower cost EFS IA storage class based on the lifecycle management policy you choose.\n\nLearn more about Amazon EFS at https://go.aws/2xFOGUy\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo #AmazonEFS",
         "date": "2020-05-07T19:45:50Z",
-        "description": "This short demo shows you how to easily get started with the Amazon Elastic File System Infrequent Access (EFS IA) storage class and optimizing storage cost ..."
+        "duration": 185
     },
     {
         "service": "efs",
         "videoId": "d4Ee4djegyg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "edward naim",
+            "Computer File",
+            "File System (Software Genre)",
+            "Amazon Elastic Compute Cloud (Software)"
+        ],
         "title": "Amazon Elastic File System (EFS): Easily Deploy and Scale Durable File Systems with AWS",
+        "description": "Amazon EFS is a new fully-managed service that makes it easy to set up and scale shared file storage in the AWS Cloud. Amazon EFS supports NFSv4, and is designed to be highly available and durable. Amazon EFS can support thousands of concurrent EC2 client connections with consistent performance, making it ideal for a wide range of uses cases, including content repositories, development environments, and home directories, as well as big data applications that require on-demand scaling of file system capacity and performance. In this session, we’ll provide an overview of EFS, walk through the creation of a file system, discuss EFS’ availability and durability properties, and review security features.",
         "date": "2015-04-10T21:56:24Z",
-        "description": "Amazon EFS is a new fully-managed service that makes it easy to set up and scale shared file storage in the AWS Cloud. Amazon EFS supports NFSv4, and is ..."
+        "duration": 2624
     },
     {
         "service": "efs",
         "videoId": "u4tIM9TZJV4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "How do I parallelize copying data to and from Amazon EFS to maximize performance?",
+        "description": "Find more details in the AWS Knowledge Center:  https://amzn.to/2LWuvXa \nGautam, an AWS Cloud Support Engineer, shows you how to parallelize copying data to and from Amazon EFS to maximize performance.",
         "date": "2019-08-27T22:14:12Z",
-        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2LWuvXa Gautam, an AWS Cloud Support Engineer, shows you how to parallelize copying ..."
+        "duration": 329
     },
     {
         "service": "efs",
         "videoId": "xAa5e9ckSQk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Twitch",
+            "Live Coding",
+            "AWS Summit",
+            "AWS EFS",
+            "Amazon Elastic"
+        ],
         "title": "Amazon EFS Now Supports Encryption of Data in Transit",
+        "description": "Click here to learn more - https://amzn.to/2qoNT2J.\nHear how Amazon EFS now allows you to encrypt data in transit between your file system and its clients.Amazon Elastic File System (Amazon EFS) provides simple, scalable, elastic file storage for use with AWS Cloud services and on-premises resources. The Amazon EFS encryption of data in transit feature uses industry-standard Transport Layer Security (TLS) 1.2 to encrypt all data sent to and from connected clients. To further simplify using EFS, a new mount helper utility is available that can be used to establish encrypted client connections to either encrypted at rest or unencrypted file systems. With this launch, Amazon EFS now offers a comprehensive encryption solution, allowing customers to encrypt their data both at rest and in transit.",
         "date": "2018-04-10T17:14:11Z",
-        "description": "Click here to learn more - https://amzn.to/2qoNT2J. Hear how Amazon EFS now allows you to encrypt data in transit between your file system and its clients."
+        "duration": 801
     },
     {
         "service": "efs",
         "videoId": "wiGONE0QVq0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Deep Dive on Amazon EFS (126407)",
+        "description": "In this session we will review Amazon EFS and how it delivers fully managed, petabyte-scale file storage for Amazon EC2 instances. Large scale and consistent performance make Amazon EFS ideal for web and content serving, enterprise applications, media processing, container storage, and Big Data analytics use cases. Session attendees will learn how to identify appropriate applications for use with Amazon EFS, understand performance details and security models, and hear how established customers are using it in production. The target audience is file system administrators, application developers, and application owners that operate or build file-based applications that require consistent latencies at cloud scale.",
         "date": "2017-06-19T20:21:11Z",
-        "description": "In this session we will review Amazon EFS and how it delivers fully managed, petabyte-scale file storage for Amazon EC2 instances. Large scale and consistent ..."
+        "duration": 2249
     },
     {
         "service": "efs",
         "videoId": "4GFAQ2UuQy4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon EFS",
+            "Elastic file system",
+            "Amazon Elastic File System"
+        ],
         "title": "Amazon EFS: Deploying Scalable, Shared File Systems",
+        "description": "Learn more: https://aws.amazon.com/efs\n\nThis video gives an overview of EFS, walks through the creation of a file system, discusses EFS availability and durability properties, and reviews security features.\n\nAmazon Elastic File System (Amazon EFS) is a new fully managed service that makes it easy to set up and scale shared file storage in the AWS cloud.  Amazon EFS supports NFS v4 and is designed to be highly available and durable. \n\nAmazon EFS can support thousands of concurrent Amazon EC2 client connections with consistent performance, making it ideal for a wide range of use cases, including content repositories, development environments, and home directories, as well as big data applications that require on-demand scaling of file system capacity and performance.",
         "date": "2015-07-10T22:09:40Z",
-        "description": "Learn more: https://aws.amazon.com/efs This video gives an overview of EFS, walks through the creation of a file system, discusses EFS availability and ..."
+        "duration": 2247
     },
     {
         "service": "efs",
         "videoId": "d8F79OPic4g",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Elastic File System"
+        ],
         "title": "Amazon Elastic File System",
+        "description": "Amazon Elastic File System provides simple, scalable file storage for use with Amazon EC2 instances in the AWS Cloud. Amazon EFS is easy to use and offers a simple interface that allows you to create and configure file systems quickly and easily. With Amazon EFS, storage capacity is elastic, growing and shrinking automatically as you add and remove files, so your applications have the storage they need, when they need it.\n\nLearn more: http://amzn.to/2ahQJ4P",
         "date": "2016-07-21T19:17:55Z",
-        "description": "Amazon Elastic File System provides simple, scalable file storage for use with Amazon EC2 instances in the AWS Cloud. Amazon EFS is easy to use and offers ..."
+        "duration": 76
     },
     {
         "service": "efs",
         "videoId": "bPpKV_6MFUc",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "Introducing Amazon Elastic File System",
+        "description": "Amazon EFS is a new, fully-managed service that makes it easy to set up and scale shared file storage in the AWS Cloud. Amazon EFS supports NFSv4, and is designed to be highly available and durable. Amazon EFS can support thousands of concurrent EC2 client connections, making it ideal for a uses cases that require on-demand scaling of file system capacity and performance.",
         "date": "2015-04-10T16:06:18Z",
-        "description": "Amazon EFS is a new, fully-managed service that makes it easy to set up and scale shared file storage in the AWS Cloud. Amazon EFS supports NFSv4, and is ..."
+        "duration": 169
     },
     {
         "service": "efs",
         "videoId": "R6gGLIflGbQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Elastic File System",
+            "New York Summit Series 2017",
+            "EFS"
+        ],
         "title": "AWS Summit Series 2017 – New York: Amazon EFS Introduces Support for Encryption of Data at Rest",
+        "description": "Learn more about Amazon Elastic File System at http://amzn.to/2wLw2aJ.\nAmazon Elastic File System (EFS) now allows you to encrypt your data at rest using keys managed through AWS Key Management Service (KMS). Encryption and decryption are handled seamlessly, so you don’t have to modify your applications to access your data.\n\nWhen you create a new file system, you can choose to enable encryption via the AWS Management Console or API. To encrypt your data, you can use the default EFS key automatically created in your account or a key you generated.\n\nEncryption at rest is available at no additional cost in all Amazon EFS regions.",
         "date": "2017-09-08T22:25:41Z",
-        "description": "Learn more about Amazon Elastic File System at http://amzn.to/2wLw2aJ. Amazon Elastic File System (EFS) now allows you to encrypt your data at rest using ..."
+        "duration": 76
     },
     {
         "service": "efs",
         "videoId": "FSu7GWbth8A",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon EFS",
+            "Amazon Elastic File System",
+            "AWS Summit Series",
+            "AWS Summit Series 2015",
+            "AWS Summit Tel Aviv",
+            "AWS Israel"
+        ],
         "title": "AWS Summit Series 2015 | Tel Aviv: Amazon EFS Demo",
+        "description": "Watch this Amazon EFS Live Demo by Guy Ernest which was presented at the AWS Summit Tel Aviv 2015. Learn more: https://aws.amazon.com/efs",
         "date": "2015-07-31T21:41:57Z",
-        "description": "Watch this Amazon EFS Live Demo by Guy Ernest which was presented at the AWS Summit Tel Aviv 2015. Learn more: https://aws.amazon.com/efs."
+        "duration": 1242
     },
     {
         "service": "efs",
         "videoId": "gWgmKv1-z0c",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon EFS"
+        ],
         "title": "AWS Summit Series 2017: London - Deep Dive on Amazon Elastic File System (Amazon EFS)",
+        "description": "Learn more about AWS at - http://amzn.to/2yVYl4w.\nIn this session we will review Amazon EFS and how it delivers fully managed, petabyte-scale file storage for Amazon EC2 instances. Large scale and consistent performance make Amazon EFS ideal for web and content serving, enterprise applications, media processing, container storage, and Big Data analytics use cases. Session attendees will learn how to identify appropriate applications for use with Amazon EFS, understand performance details and security models, and hear how established customers are using it in production. The target audience is file system administrators, application developers, and application owners that operate or build file-based applications that require consistent latencies at cloud scale.\n\nSpeaker: Paul Moran, Technical Account Manager, AWS",
         "date": "2017-10-25T16:09:59Z",
-        "description": "Learn more about AWS at - http://amzn.to/2yVYl4w. In this session we will review Amazon EFS and how it delivers fully managed, petabyte-scale file storage for ..."
+        "duration": 2013
     },
     {
         "service": "efs",
         "videoId": "izyP-PXSgIQ",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "move to managed",
+            "file storage",
+            "aws storage",
+            "aws cloud storage",
+            "amazon fsx",
+            "amazon fsx for windows file server",
+            "amazon efs",
+            "amazon elastic file system",
+            "aws datasync",
+            "aws snow family",
+            "aws storage gateway",
+            "aws file storage",
+            "hybrid file storage",
+            "smb file shares",
+            "nfs file systems",
+            "file migration",
+            "data migration",
+            "hybrid cloud storage"
+        ],
         "title": "Move to Managed File Storage with AWS",
+        "description": "With your file storage that runs industry standard SMB and NFS protocols, you can leverage AWS file storage services like Amazon FSx and Amazon EFS in the cloud to improve agility and TCO, enhance availability and performance, strengthen your security posture, and create faster time-to-market. You can benefit from a range of cloud storage solutions to easily move to managed file storage without making changes to your existing applications or workflows. Move your on-premises file data to fully managed AWS Cloud file storage today to start maximizing your data.\n\nLearn more about file storage with AWS at https://amzn.to/328J9RD\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
         "date": "2020-08-20T20:18:21Z",
-        "description": "With your file storage that runs industry standard SMB and NFS protocols, you can leverage AWS file storage services like Amazon FSx and Amazon EFS in the ..."
+        "duration": 201
     },
     {
         "service": "efs",
         "videoId": "6WjQCKZ-9sM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Elastic File System",
+            "Amazon EFS",
+            "BBC",
+            "Red Button",
+            "Storage",
+            "File Storage",
+            "Shared",
+            "Amazon EC2",
+            "Amazon SNS",
+            "Amazon SQS",
+            "Amazon Kinesis"
+        ],
         "title": "BBC Leverages Shared File Storage to Migrate Red Button Application to the AWS Cloud",
+        "description": "Learn more about Amazon EFS at - https://amzn.to/2P5wo2n.\nBy using Amazon Elastic File System (Amazon EFS) to share files, the BBC was able to build an agile and cost-effective solution, migrating their on-premises Red Button interactive TV service to the AWS cloud. Leveraging services such as Amazon EC2, Amazon EFS, Amazon SNS, Amazon SQS, and Amazon Kinesis they were able to move their entire application on time and within budget.",
         "date": "2018-08-28T22:21:21Z",
-        "description": "Learn more about Amazon EFS at - https://amzn.to/2P5wo2n. By using Amazon Elastic File System (Amazon EFS) to share files, the BBC was able to build an ..."
+        "duration": 230
     },
     {
         "service": "efs",
         "videoId": "8-DLfwi9roU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Creative Market"
+        ],
         "title": "20,000 Creative Market Shops Turn Passion into Opportunity Using AWS and Amazon EFS",
+        "description": "By using Amazon Elastic File System (Amazon EFS) as storage for over one million image files and for the staging of shop owners product files, Creative Market was able to replace the use of their Gluster solution. This completely eliminated the administrative complexities of their Gluster solution and provided them with consistent performance, on-demand scalability, and 95 percent annual savings. Creative Market offers independent creatives a platform where they can open shops to sell their digital creations—fonts, graphics, themes, photos, and software add-ons—to more than three million members. Shop owners set their own prices and keep 70 percent of their sales, leaving payment processing, distribution, and marketing to Creative Market.",
         "date": "2017-06-02T17:06:10Z",
-        "description": "By using Amazon Elastic File System (Amazon EFS) as storage for over one million image files and for the staging of shop owners product files, Creative Market ..."
+        "duration": 260
     },
     {
         "service": "efs",
         "videoId": "aosw-p2Osbw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon Elastic File System",
+            "Amazon EFS",
+            "AWS Storage Gateway",
+            "LoanLogics",
+            "Storage",
+            "File Storage",
+            "Shared"
+        ],
         "title": "LoanLogics Kickstarts their All-in Move to the AWS Cloud with AWS Storage Gateway and Amazon EFS",
+        "description": "Learn more at about Amazon Elastic File System (EFS) at - https://amzn.to/2qAuOv6.\nLoanLogics started their journey from their redundant managed service facilities to the AWS Cloud with AWS Storage Gateway and Amazon EFS. By adopting AWS as their cloud infrastructure provider, they were able to integrate the AWS technologies into their development and operational processes. This allowed their development and product teams to advance their core products for their clients at an accelerated pace. As a rapidly growing company, the speed, agility, and scale offered by migrating all-in to AWS enabled LoanLogics to focus on the differentiated value that they provide to their customers.\n\nLoanLogics enterprise loan quality management platform enables mortgage lenders, servicers, insurers, and investors to validate compliance, manage risk and optimize human capital during the manufacture, sale, and servicing of loan assets.",
         "date": "2018-11-07T20:54:55Z",
-        "description": "Learn more at about Amazon Elastic File System (EFS) at - https://amzn.to/2qAuOv6. LoanLogics started their journey from their redundant managed service ..."
+        "duration": 195
     },
     {
         "service": "efs",
         "videoId": "CV5jXn8Dqsw",
+        "tags": [
+            "AWS",
+            "Events",
+            "efs",
+            "persistent storage",
+            "eks",
+            "aws",
+            "kubernetes"
+        ],
         "title": "AWS Container Day - Persistent File Storage for Amazon EKS with Amazon EFS",
+        "description": "Containerizing applications that require data persistence or shared storage is often challenging since containers are ephemeral in nature, are scaled in and out dynamically, and typically clear any saved state when terminated. In this session you will learn about Amazon Elastic File System (EFS), a fully managed, elastic, highly-available, scalable, secure, high-performance, cloud native, shared file system that enables data to be persisted separately from compute for your Amazon Elastic Kubernetes Service (EKS) deployments. You’ll gain an understanding of the EFS Container Storage Interface (CSI) driver, and how it simplifies configuring elastic file storage for Kubernetes clusters.\n\nLearn more about Amazon EKS at - https://amzn.to/2QzNwjy\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSEvent",
         "date": "2020-08-31T16:31:22Z",
-        "description": "Containerizing applications that require data persistence or shared storage is often challenging since containers are ephemeral in nature, are scaled in and out ..."
+        "duration": 1547
     },
     {
         "service": "efs",

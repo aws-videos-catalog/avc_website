@@ -2,9 +2,22 @@
     {
         "service": "pinpoint",
         "videoId": "EMsuvNSIAfA",
-        "title": "AWS What&#39;s Next, S1|E1",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon Pinpoint",
+            "Machine Learning",
+            "SMS Personalized Templates",
+            "Email Personalized Templates",
+            "AWS What’s Next"
+        ],
+        "title": "AWS What's Next, S1|E1",
+        "description": "Pinpoint Presentation: 45:28\nPinpoint Demo: 51:16\n\nAWS What’s Next hosts Nick Walsh and Rob Zhu talk about upcoming launches and announcements from Amazon Web Services, including (list one or two of the most exciting launches/announcements here). Then Chelsea Graf, Sr Product Manager, joins us to share how you can use machine learning with Amazon Pinpoint to produce personalized and dynamic email, SMS, and push messaging templates.\n\nWant to tune in live for the next episode? You can find dates and more information about our upcoming streams here: https://go.aws/3fLM4Wx\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
         "date": "2020-07-02T20:43:57Z",
-        "description": "Pinpoint Presentation: 45:28 Pinpoint Demo: 51:16 AWS What's Next hosts Nick Walsh and Rob Zhu talk about upcoming launches and announcements from ..."
+        "duration": 4864
     },
     {
         "service": "pinpoint",

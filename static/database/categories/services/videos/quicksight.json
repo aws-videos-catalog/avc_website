@@ -2,30 +2,73 @@
     {
         "service": "quicksight",
         "videoId": "TzW4HWl-L8s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Timestream",
+            "time series",
+            "Quicksight",
+            "analytics",
+            "database",
+            "SQL"
+        ],
         "title": "Analyzing Data in Amazon Timestream  using Amazon QuickSight",
+        "description": "Learn how to analyze your time series data stored in Amazon Timestream using Amazon QuickSight. Learn more about Amazon Timestream at https://amzn.to/2EGOND1\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonTimestream",
         "date": "2020-09-30T23:20:47Z",
-        "description": "Learn how to analyze your time series data stored in Amazon Timestream using Amazon QuickSight. Learn more about Amazon Timestream at ..."
+        "duration": 376
     },
     {
         "service": "quicksight",
         "videoId": "KmdNZzRUsW0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "QuickSight",
+            "business analytics",
+            "Amazon QuickSight",
+            "business insights"
+        ],
         "title": "Amazon QuickSight Now Generally Available",
+        "description": "Visit http://amzn.to/2gdOKAG to learn more about Amazon QuickSight.\nAmazon QuickSight is now generally available for all customers. QuickSight is a fast, cloud-powered business analytics service that makes it easy for you to build visualizations, perform ad-hoc analysis, and quickly get business insights from your data at 1/10th the cost of traditional BI solutions.",
         "date": "2016-11-15T22:56:56Z",
-        "description": "Visit http://amzn.to/2gdOKAG to learn more about Amazon QuickSight. Amazon QuickSight is now generally available for all customers. QuickSight is a fast, ..."
+        "duration": 58
     },
     {
         "service": "quicksight",
         "videoId": "Mqrbb9BweFQ",
-        "title": "Build with AM &amp; Nicki | S2 E4 – AM &amp; Nicki Monitor Your Life with AWS Kinesis, Athena, &amp; QuickSight",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
+        "title": "Build with AM & Nicki | S2 E4 – AM & Nicki Monitor Your Life with AWS Kinesis, Athena, & QuickSight",
+        "description": "Now that we have a working prototype of both the frontend and backends of our mobile and web offerings, we need to be able to track our customers’ movements. Tracking their movement is important because we can quickly make adjustments to enhance their user experience and increase our growth through word of mouth. In this episode, we incorporate tracking user clicks with Kinesis, running queries against all our data sources with Athena, and lastly use Amazon Quicksight to view user insights and create an admin dashboard very quickly for the team to analyze.\n\nLearn more about AWS on Twitch: https://aws.amazon.com/developer/community/twitch/\n\nSee past Twitch.tv/aws Videos: https://aws.amazon.com/developer/community/twitch/recordings",
         "date": "2019-02-25T21:25:44Z",
-        "description": "Now that we have a working prototype of both the frontend and backends of our mobile and web offerings, we need to be able to track our customers' ..."
+        "duration": 5233
     },
     {
         "service": "quicksight",
         "videoId": "UY17EgZKqQM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS@DLD Tel Aviv 2016"
+        ],
         "title": "AWS@DLD Tel Aviv 2016: Applying Data Science to Build Smarter Apps",
+        "description": "Learn more about AWS here - http://amzn.to/2fAE1iV\nWith managed services such as Amazon Machine Learning, Amazon QuickSight - Business Intelligence and Amazon EMR, it’s easy to create advanced analytical insights such as predictions and correlation using your data. We will present how to use these managed services and promptly implement high scale advanced analytical systems with self-service delivery.\n\nSession Language: Hebrew",
         "date": "2016-11-11T00:41:48Z",
-        "description": "Learn more about AWS here - http://amzn.to/2fAE1iV With managed services such as Amazon Machine Learning, Amazon QuickSight - Business Intelligence ..."
+        "duration": 2995
     },
     {
         "service": "quicksight",

@@ -2,9 +2,18 @@
     {
         "service": "codestar",
         "videoId": "UFtKfwIyntg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference 2018"
+        ],
         "title": "Streamline Your Serverless Development with AWS Codestar and AWS Cloud9 (Level 200)",
+        "description": "Learn more about the AWS Innovate Online Conference at - https://amzn.to/2waCcAj.\nAWS Cloud9 is a cloud-based IDE that enables you to write, run, and debug your code directly in a browser. Together with AWS CodeStar, AWS Cloud9 gets developers up and running quickly with a full CI/CD deployment pipeline, team collaboration, local debugging, and fast, iterative development. In this session, we present the key features provided by AWS Cloud9 and its integration with other AWS services, such as AWS CodeStar and AWS Lambda. We also demonstrate how AWS Cloud9 simplifies the development of serverless applications.\n\nSpeaker: Rohini Gaonkar, Solutions Architect, Amazon Internet Services Private Limited",
         "date": "2018-08-24T19:52:06Z",
-        "description": "Learn more about the AWS Innovate Online Conference at - https://amzn.to/2waCcAj. AWS Cloud9 is a cloud-based IDE that enables you to write, run, and ..."
+        "duration": 1258
     },
     {
         "service": "codestar",

@@ -2,9 +2,24 @@
     {
         "service": "freertos",
         "videoId": "hH1bUVU1TgA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Smart Products",
+            "Connected Products",
+            "FreeRTOS",
+            "IoT",
+            "Smart Home",
+            "Infineon",
+            "Marcelo Williams"
+        ],
         "title": "Infineon Uses AWS to Connect Smart Products and Smart Factories",
+        "description": "Learn how Infineon Technologies uses AWS IoT and Amazon FreeRTOS to easily connect their customers products to the AWS Cloud, providing insights to the business and driving new product and service innovation. Visit https://amzn.to/2J5CblI to learn more.",
         "date": "2018-06-15T17:00:49Z",
-        "description": "Learn how Infineon Technologies uses AWS IoT and Amazon FreeRTOS to easily connect their customers products to the AWS Cloud, providing insights to the ..."
+        "duration": 205
     },
     {
         "service": "freertos",

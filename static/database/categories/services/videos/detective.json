@@ -2,9 +2,21 @@
     {
         "service": "detective",
         "videoId": "fmm4PXhg8BY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "security investigation",
+            "security graph",
+            "investigate",
+            "cybersecurity"
+        ],
         "title": "Amazon Detective Overview and Demonstration",
+        "description": "Analyze and visualize security data to rapidly get to the root cause of potential security issues. This demonstration helps you learn how and when to use this service to improve the security of your AWS resources. \n\nAmazon Detective automatically collects log data from your AWS resources and uses machine learning, statistical analysis, and graph theory to build a linked set of data that enables you to easily conduct faster and more efficient security investigations. \n\nYou can get started with Amazon Detective in just a few clicks in the AWS Console. There is no software to deploy, or data sources to enable and maintain.\n\nLearn more about Amazon Detective at - https://amzn.to/34OKaQi\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo #AmazonDetective",
         "date": "2020-10-14T22:26:06Z",
-        "description": "Analyze and visualize security data to rapidly get to the root cause of potential security issues. This demonstration helps you learn how and when to use this ..."
+        "duration": 1077
     },
     {
         "service": "detective",

@@ -2,51 +2,144 @@
     {
         "service": "cloudtrail",
         "videoId": "6b_ENVFgCpA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amplify DataStore",
+            "AppSync",
+            "AWS Amplify",
+            "GraphQL",
+            "DynamoDB",
+            "Vue",
+            "Mobile applications",
+            "front-end web development",
+            "mobile development"
+        ],
         "title": "Monitor AWS CloudTrail Log Data in Amazon CloudWatch",
+        "description": "In this video, you’ll see how to monitor AWS CloudTrail log data in Amazon CloudWatch. With CloudWatch, you can visualize and explore your CloudTrail logs, analyze time-series log data, and create metric filters for your data.\n\nLearn more about AWS CloudWatch at - https://amzn.to/30lJjFr\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
         "date": "2020-09-30T18:00:33Z",
-        "description": "In this video, you'll see how to monitor AWS CloudTrail log data in Amazon CloudWatch. With CloudWatch, you can visualize and explore your CloudTrail logs, ..."
+        "duration": 586
     },
     {
         "service": "cloudtrail",
         "videoId": "SrzHZpG-r9Q",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "API operations",
+            "CloudTrail Events",
+            "Events",
+            "Monitoring and Observability",
+            "Observability",
+            "CloudWatch"
+        ],
         "title": "Visualize AWS CloudTrail Logs in Kibana Using Amazon Elasticsearch Service",
+        "description": "In this video, you’ll see how to visualize AWS CloudTrail logs in Kibana using Amazon Elasticsearch Service. With this service, you can stream log data to an Amazon Elasticsearch Service domain, visualize it in Kibana, and explore it in near real-time. \n\nLearn more about Configuration API Monitoring in Amazon Elasticsearch Service at  - https://amzn.to/3dFBfEN\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
         "date": "2020-10-21T18:54:54Z",
-        "description": "In this video, you'll see how to visualize AWS CloudTrail logs in Kibana using Amazon Elasticsearch Service. With this service, you can stream log data to an ..."
+        "duration": 368
     },
     {
         "service": "cloudtrail",
         "videoId": "xgTTwfCALic",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "Why did my CloudTrail cost and usage increase unexpectedly?",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/remove-duplicate-cloudtrail-events/\nMatt shows you why your CloudTrail cost and usage increase unexpectedly.",
         "date": "2020-10-20T16:28:44Z",
-        "description": "For more details see the Knowledge Center article with this video: ..."
+        "duration": 431
     },
     {
         "service": "cloudtrail",
         "videoId": "ZtQbcFx6JOY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Accounts",
+            "Audit and Access Logging"
+        ],
         "title": "AWS Audit and Access Logging for Education",
+        "description": "Learn more about AWS CloudTrail: http://amzn.to/2suZf7w.\nIn the Audit and Access Logging video, you’ll learn how to use AWS CloudTrail to log AWS API calls, source IP, and files. You’ll also learn how to use Amazon S3 to store access logs, and Virtual Private Cloud (VPC) flow logs to capture information about allowed/denied traffic and create custom alarms or metrics.  This is the sixth video in the AWS Account Administration and Networking video series for education.\nLearn more:  https://aws.amazon.com/education/edu-getting-started-videos/",
         "date": "2017-06-27T16:16:27Z",
-        "description": "Learn more about AWS CloudTrail: http://amzn.to/2suZf7w. In the Audit and Access Logging video, you'll learn how to use AWS CloudTrail to log AWS API calls, ..."
+        "duration": 211
     },
     {
         "service": "cloudtrail",
         "videoId": "pks5c_S5Tk8",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Coinbase",
+            "IAM Access Advisor",
+            "GeoEngineer",
+            "AWS Identity and Access Managment (IAM)",
+            "AWS CloudTrail",
+            "Amazon DynamoDB",
+            "Amazon RDS",
+            "Amazon CloudFormation",
+            "TMA",
+            "This is My Architecture"
+        ],
         "title": "Coinbase: High Security IAM at Speed with AWS",
+        "description": "On this episode of This is My Architecture, Rob Witoff, Director of Infrastructure dives into IAM and Cloudtrail policy management at Coinbase. You'll see how they use the IAM Access Advisor to descope permissions in Development before pushing to Production. You'll also learn how they wrap their open-sourced tool, GeoEngineer (https://github.com/coinbase/geoengineer - shortened link) around IAM and Cloudtrail to maintain their high security environment without inhibiting their Operations teams. Learn more at - http://amzn.to/2lGgxvk\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
         "date": "2017-02-27T17:44:11Z",
-        "description": "On this episode of This is My Architecture, Rob Witoff, Director of Infrastructure dives into IAM and Cloudtrail policy management at Coinbase. You'll see how ..."
+        "duration": 116
     },
     {
         "service": "cloudtrail",
         "videoId": "6HK6Z2BULL8",
-        "title": "What&#39;s New with AWS - Week of September 29, 2017",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS CloudTrail",
+            "Amazon S3 Buckets",
+            "Amazon Lex chatbot",
+            "Amazon ECS",
+            "AWS Launch"
+        ],
+        "title": "What's New with AWS - Week of September 29, 2017",
+        "description": "Learn What's New with AWS at - http://amzn.to/2hIIGlC.\nThis week: AWS CloudTrail now allows you to automatically add your new and existing Amazon S3 buckets, Amazon Lex chatbot now allows you to use additional built-in slot types for phone numbers, and Amazon ECS now allows you to add or drop Linux capabilities to containers through the use of Docker’s cap-add and cap-drop flags.",
         "date": "2017-09-30T18:21:36Z",
-        "description": "Learn What's New with AWS at - http://amzn.to/2hIIGlC. This week: AWS CloudTrail now allows you to automatically add your new and existing Amazon S3 ..."
+        "duration": 95
     },
     {
         "service": "cloudtrail",
         "videoId": "kWJoiZ9yMpg",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "NFX205",
+            "Security",
+            "Compliance",
+            "and Identity",
+            "HashiCorp",
+            "Netflix"
+        ],
         "title": "AWS re:Invent 2019: Monitoring anomalous application behavior (NFX205)",
+        "description": "AWS CloudTrail provides a wealth of information on your AWS environment. In addition, teams can use it to perform basic anomaly detection by adding state. In this talk, Travis McPeak of Netflix and Will Bengtson introduce a system built strictly with off-the-shelf AWS components that tracks CloudTrail activity across multi-account environments and sends alerts when applications perform anomalous actions. By watching applications for anomalous actions, security and operations teams can monitor unusual and erroneous behavior. We share everything attendees need to implement CloudTrail in their own organizations.",
         "date": "2019-12-08T23:32:13Z",
-        "description": "AWS CloudTrail provides a wealth of information on your AWS environment. In addition, teams can use it to perform basic anomaly detection by adding state."
+        "duration": 2059
     },
     {
         "service": "cloudtrail",

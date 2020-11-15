@@ -2,65 +2,182 @@
     {
         "service": "emr",
         "videoId": "wfXXZS_FaR4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "amazon emr",
+            "aws lake formation",
+            "data lake",
+            "security",
+            "fine-grained access control"
+        ],
         "title": "Set Fine-grained Access Controls for Apache Spark With Amazon EMR and AWS Lake Formation",
+        "description": "Amazon EMR now supports enforcing AWS Lake Formation-based fine-grained access control policies for Apache Spark. You can enforce Databases, Tables, and Columns-level policies for data stored in Amazon S3. Policies defined in AWS Lake Formation are enforced when Spark applications are submitted using Apache Zeppelin or EMR Notebooks.\n\nLearn more about Amazon EMR at - https://amzn.to/3mcxBpD\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
         "date": "2020-09-11T23:15:13Z",
-        "description": "Amazon EMR now supports enforcing AWS Lake Formation-based fine-grained access control policies for Apache Spark. You can enforce Databases, Tables, ..."
+        "duration": 546
     },
     {
         "service": "emr",
         "videoId": "vntGxZv0wAA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Big Data",
+            "Hadoop Migration",
+            "Spark Migration",
+            "HIVE Migration",
+            "Automatic Scaling",
+            "AWS EMR",
+            "HBASE",
+            "Cloud Hadoop"
+        ],
         "title": "Automatically  Scale Cluster using Amazon EMR Managed Scaling for Big Data Workloads",
+        "description": "Managed Scaling feature in Amazon EMR offers customers significant cost savings. In this short video you can see how the cluster expands and shrinks based on usage. This feature allows customers to start small, automatically expand cluster size when workloads increase and shrink when there is no usage on the cluster, all with simple settings. This feature provides significant cost savings to the customer.\n\nLearn more - \nAmazon EMR - https://amzn.to/35iiJhS\nManaged scaling feature in Amazon EMR - https://amzn.to/3kjSMFe\nAmazon EMR features - https://amzn.to/35hqKDV\nAmazon EMR partners - https://amzn.to/35i9b6u\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
         "date": "2020-10-21T17:56:11Z",
-        "description": "Managed Scaling feature in Amazon EMR offers customers significant cost savings. In this short video you can see how the cluster expands and shrinks based ..."
+        "duration": 170
     },
     {
         "service": "emr",
         "videoId": "K3O2uZI0wEg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon EMR",
+            "Map Reduce",
+            "AWS Service Catalog",
+            "Governance",
+            "Big Data",
+            "Self-Service",
+            "Service Catalog"
+        ],
         "title": "Enable End Users to Launch Amazon EMR Clusters Using AWS Service Catalog",
+        "description": "In this video, you’ll see how to enable end users to launch Amazon EMR clusters using AWS Service Catalog. With AWS Service Catalog, you can make your EMR platform self-serviceable, reduce the EMR learning curve for your users, and ensure adherence to security standards and best practices.\n\nLearn more about Amazon EMR at - https://amzn.to/3lSNLoc\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
         "date": "2020-09-21T17:01:09Z",
-        "description": "In this video, you'll see how to enable end users to launch Amazon EMR clusters using AWS Service Catalog. With AWS Service Catalog, you can make your ..."
+        "duration": 385
     },
     {
         "service": "emr",
         "videoId": "d0hpmVuzM0E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
         "title": "How do I encrypt HBASE table in EMR cluster with AES encryption?",
+        "description": "Skip directly to the demo: 0:26\n\nFor more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/emr-encrypt-hbase-table-aes\nBunny shows you how to encrypt HBASE table in EMR cluster with AES encryption.",
         "date": "2020-11-13T18:29:58Z",
-        "description": "Skip directly to the demo: 0:26 For more details see the Knowledge Center article with this video: ..."
+        "duration": 286
     },
     {
         "service": "emr",
         "videoId": "gSPh6VTBEbY",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Amazon Elastic MapReduce",
+            "Elastic MapReduce",
+            "AWS Elastic MapReduce webinar",
+            "AWS EMR",
+            "AWS Elastic Map Reduce"
+        ],
         "title": "EMEA Amazon Elastic MapReduce Webinar",
+        "description": "This webinar recording explains how to get started with Amazon Elastic MapReduce (EMR). EMR enables fast processing of large structured or unstructured datasets, and in this webinar we'll demonstrated how to setup an EMR job flow to analyze application logs, and perform Hive queries against it. \n\nThe webinar covers best practices around data file organization on Amazon Simple Storage Service (S3), how clusters can be started from the AWS web console and command line, and how to monitor the status of a Map/Reduce job. The security configuration that allows direct access to the Amazon EMR cluster in interactive mode will be shown, and we'll see how Hive provides a SQL like environment, while allowing you to dynamically grow and shrink the amount of compute used for powerful data processing activities. To learn more: aws.amazon.com/elasticmapreduce/",
         "date": "2013-04-15T16:28:07Z",
-        "description": "This webinar recording explains how to get started with Amazon Elastic MapReduce (EMR). EMR enables fast processing of large structured or unstructured ..."
+        "duration": 2768
     },
     {
         "service": "emr",
         "videoId": "oZ8HswQSbNQ",
+        "tags": [
+            "aws-reinvent",
+            "reinvent2015",
+            "aws",
+            "cloud",
+            "cloud computing",
+            "amazon web services",
+            "aws cloud",
+            "Security & Compliance",
+            "SEC403",
+            "Will Kruse - Amazon Web Services",
+            "Expert (400 level)"
+        ],
         "title": "AWS re:Invent 2015 | (SEC403) Diving into AWS CloudTrail Events w/Apache Spark on EMR",
+        "description": "Do you want to analyze AWS CloudTrail events within minutes of them arriving in your Amazon S3 bucket? Would you like to learn how to run expressive queries over your CloudTrail logs? We will demonstrate Apache Spark and Apache Spark Streaming as two tools to analyze recent and historical security logs for your accounts. To do so, we will use Amazon Elastic MapReduce (EMR), your logs stored in S3, and Amazon SNS to generate alerts. With these tools at your fingertips, you will be the first to know about security events that require your attention, and you will be able to quickly identify and evaluate the relevant security log entries.",
         "date": "2015-10-12T23:57:41Z",
-        "description": "Do you want to analyze AWS CloudTrail events within minutes of them arriving in your Amazon S3 bucket? Would you like to learn how to run expressive ..."
+        "duration": 3025
     },
     {
         "service": "emr",
         "videoId": "1CAWf9VDgFM",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Analytics & Big Data",
+            "ABD305",
+            "AI",
+            "EMR",
+            "Machine Learning",
+            "Auto Scaling",
+            "Security"
+        ],
         "title": "AWS re:Invent 2017: Design Patterns and Best Practices for Data Analytics with Amazo (ABD305)",
+        "description": "Amazon EMR is one of the largest Hadoop operators in the world, enabling customers to run ETL, machine learning, real-time processing, data science, and low-latency SQL at petabyte scale. In this session, we introduce you to Amazon EMR design patterns such as using Amazon S3 instead of HDFS, taking advantage of both long and short-lived clusters, and other Amazon EMR architectural best practices. We talk about lowering cost with Auto Scaling and Spot Instances, and security best practices for encryption and fine-grained access control. Finally, we dive into some of our recent launches to keep you current on our latest features.",
         "date": "2017-11-30T16:18:34Z",
-        "description": "Amazon EMR is one of the largest Hadoop operators in the world, enabling customers to run ETL, machine learning, real-time processing, data science, and ..."
+        "duration": 2913
     },
     {
         "service": "emr",
         "videoId": "3L-ryHHX8vE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS re:Invent 2016",
+            "aws reinvent",
+            "reinvent2016",
+            "aws",
+            "cloud",
+            "amazon web services",
+            "aws cloud",
+            "re:Invent",
+            "Storage",
+            "STG308",
+            "Advanced (300 level)"
+        ],
         "title": "AWS re:Invent 2016: Case Study: Analytics Without Limits. FINRA’s Architecture on S3 (STG308)",
+        "description": "FINRA partnered with AWS product teams to leverage Amazon EMR and Amazon S3 extensively to build an advanced analytics solution. In this session, you'll hear how FINRA implemented a data lake on S3 to provide a single source for their big data analytics platform. FINRA ingests 75 billion records each day of stock market transactions, with an AWS storage footprint of 20 petabytes across S3 and Amazon Glacier. To deal with this workload, FINRA has architected a platform that separates storage from compute to manage capacity for each independently, leading to improved performance and cost effectiveness. You'll also learn how FINRA was able to leverage Hbase on Amazon EMR to achieve significant benefits over running Hbase on a fixed capacity cluster. FINRA was able to implement a system that seamlessly scales in response to data growth and can scale quickly in response to user traffic. By working with multiple clusters, FINRA can now isolate ETL and user query workloads and has achieved rapid, built-in disaster recovery capability by leveraging data storage on S3 to run from multiple AZs and across regions.",
         "date": "2016-12-03T03:10:12Z",
-        "description": "FINRA partnered with AWS product teams to leverage Amazon EMR and Amazon S3 extensively to build an advanced analytics solution. In this session, you'll ..."
+        "duration": 2663
     },
     {
         "service": "emr",
         "videoId": "WbrGF56oeCY",
+        "tags": [
+            "re:Invent 2019",
+            "Amazon",
+            "AWS re:Invent",
+            "DEM151"
+        ],
         "title": "AWS re:Invent 2019: Run big data workloads faster and cheaper (DEM151)",
+        "description": "Learn how to run big data frameworks such as Apache Spark, and Hadoop through Amazon EMR while maximizing for scale, performance, and deep cost savings with Spot Instances. Access significantly higher compute capacity and reduce the time to process big datasets at a fraction of the cost. Learn how to configure clusters and instance fleets for the right mix of On-Demand and Spot Instances for long-running and transient workloads.",
         "date": "2019-12-08T23:28:49Z",
-        "description": "Learn how to run big data frameworks such as Apache Spark, and Hadoop through Amazon EMR while maximizing for scale, performance, and deep cost ..."
+        "duration": 1232
     },
     {
         "service": "emr",

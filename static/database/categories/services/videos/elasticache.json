@@ -2,58 +2,138 @@
     {
         "service": "elasticache",
         "videoId": "p9hl4GLaxqE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center"
+        ],
         "title": "How do I connect to an Amazon ElastiCache In-Transit encryption-enabled Redis node using redis-cli?",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/elasticache-connect-redis-node/\n\nArdika shows you how to connect to an Amazon ElastiCache In-Transit encryption-enabled Redis node using redis-cli.",
         "date": "2020-08-18T17:14:31Z",
-        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/elasticache-connect-redis-node/ ..."
+        "duration": 207
     },
     {
         "service": "elasticache",
         "videoId": "iYCCF1HLNu4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "ElastiCache",
+            "Redis",
+            ".NET"
+        ],
         "title": "How to add a Caching Layer for .NET Applications with Amazon ElastiCache for Redis",
+        "description": "In this video, you will learn how to add a caching layer in your .NET application on AWS using Amazon ElastiCache for Redis. Learn more about Amazon ElastiCache at - https://amzn.to/3ckNPIW\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
         "date": "2020-09-22T20:28:27Z",
-        "description": "In this video, you will learn how to add a caching layer in your .NET application on AWS using Amazon ElastiCache for Redis. Learn more about Amazon ..."
+        "duration": 559
     },
     {
         "service": "elasticache",
         "videoId": "KfsFsQHzAQ0",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing"
+        ],
         "title": "How to add a Caching Layer for .NET Applications with Amazon ElastiCache for Memcached",
+        "description": "In this video, you will learn how to add a caching layer in your .NET application on AWS using Amazon ElastiCache for Memcached. Learn more about Amazon ElastiCache at - https://amzn.to/32QTR0K\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
         "date": "2020-09-22T20:29:51Z",
-        "description": "In this video, you will learn how to add a caching layer in your .NET application on AWS using Amazon ElastiCache for Memcached. Learn more about Amazon ..."
+        "duration": 575
     },
     {
         "service": "elasticache",
         "videoId": "yqgq2mSR1h0",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Databases",
+            "DAT321",
+            "AI",
+            "ElastiCache",
+            "Storage"
+        ],
         "title": "AWS re:Invent 2017: From Minutes to Milliseconds: How Careem Used Amazon ElastiCache (DAT321)",
+        "description": "AWS architecture for Careem, a fast-growing car-booking service in the broader Middle East, has quickly evolved to support over six million users in eleven countries. Careem also operates in areas with weak GPS signals and unique traffic patterns, resulting in the poor user experience of long driver match times and rider wait times. Careem was storing driver location data in MySQL, but their high volume of concurrent calls and lack of geospatial support in MySQL 5.6 resulted in continuous deadlocks and performance issues. Amazon ElastiCache for Redis helped meet their need for in-memory storage service with advanced data structures. ElastiCache for Redis accelerated their car booking application and reduced ride matching times from several minutes to milliseconds. Learn how their big bottleneck of insert and update operations in MySQL became a quick lookup in ElastiCache for Redis by using Redis Sorted Sets, geohashes, and timestamps.",
         "date": "2017-11-29T17:04:13Z",
-        "description": "AWS architecture for Careem, a fast-growing car-booking service in the broader Middle East, has quickly evolved to support over six million users in eleven ..."
+        "duration": 2142
     },
     {
         "service": "elasticache",
         "videoId": "1mKxPo5fHEE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference"
+        ],
         "title": "Build High-Performance Apps with In-Memory Data (Level 200)",
+        "description": "Learn more about the AWS Innovate Online Conference at - https://amzn.to/2o6U0rB.\nIn this session, we describe Amazon ElastiCache for Redis, an in-memory data store that enables application response time to be measured in microseconds. We also discuss how to design and deploy high-performance applications using Amazon ElastiCache for Redis and Amazon Aurora, and we demonstrate Amazon ElastiCache for Redis so you can see it in action and understand how it can help with application latency.\n\nSpeaker: Ganesh Raja, Solution Architect, Amazon Web Services",
         "date": "2018-08-27T16:21:06Z",
-        "description": "Learn more about the AWS Innovate Online Conference at - https://amzn.to/2o6U0rB. In this session, we describe Amazon ElastiCache for Redis, an in-memory ..."
+        "duration": 216
     },
     {
         "service": "elasticache",
         "videoId": "kg551TEHM_k",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "AWS Innovate Online Conference"
+        ],
         "title": "Build High-Performance Apps with In-Memory Data (Level 200)",
+        "description": "Learn more about the AWS Innovate Online Conference at - https://amzn.to/2o6U0rB.\nIn this session, we describe Amazon ElastiCache for Redis, an in-memory data store that enables application response time to be measured in microseconds. We also discuss how to design and deploy high-performance applications using Amazon ElastiCache for Redis and Amazon Aurora, and we demonstrate Amazon ElastiCache for Redis so you can see it in action and understand how it can help with application latency.\n\nSpeaker: Ganesh Raja, Solution Architect, Amazon Web Services",
         "date": "2018-08-28T16:16:43Z",
-        "description": "Learn more about the AWS Innovate Online Conference at - https://amzn.to/2o6U0rB. In this session, we describe Amazon ElastiCache for Redis, an in-memory ..."
+        "duration": 1105
     },
     {
         "service": "elasticache",
         "videoId": "WFRIivS2mpo",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "AdTech",
+            "ATC303",
+            "AI",
+            "CloudFront",
+            "DynamoDB",
+            "DynamoDB Accelerator (DAX)",
+            "ElastiCache"
+        ],
         "title": "AWS re:Invent 2017: Cache Me If You Can: Minimizing Latency While Optimizing Cost Th (ATC303)",
+        "description": "From CloudFront to ElastiCache to DynamoDB Accelerator (DAX), this is your one-stop shop for learning how to apply caching methods to your AdTech workload: What data to cache and why? What are common side effects and pitfalls when caching? What is negative caching and how can it help you maximize your cache hit rate? How to use DynamoDB Accelerator in practice? How can you ensure that data always stays current in your cache? These and many more topics will be discussed in depth during this talk and we’ll share lessons learned from Team Internet, the leading provider in domain monetization.",
         "date": "2017-11-28T18:31:18Z",
-        "description": "From CloudFront to ElastiCache to DynamoDB Accelerator (DAX), this is your one-stop shop for learning how to apply caching methods to your AdTech ..."
+        "duration": 3526
     },
     {
         "service": "elasticache",
         "videoId": "jttvxAecAno",
-        "title": "AWS What&#39;s Next, S1|E2",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Elasticache",
+            "Global datastore for Redis",
+            "AWS Amplify CLI",
+            "Bottlerocket"
+        ],
+        "title": "AWS What's Next, S1|E2",
+        "description": "Elasticache: 15:00\nElasticache Demo: 28:23\nAWS Amplify: 40:11\nAWS Amplify Demo: 52:22\nBottlerocket: 1:11:12\nBottlerocket Demo: 1:36:45\n\nAWS What’s Next hosts Nick Walsh and Rob Zhu talk about upcoming launches and announcements from Amazon Web Services, including Rushita Arora, Principal Product Manager for AWS Elasticache shares how the new Elasticache Global datastore for Redis offers fully-managed cross-region replication for Redis.\n\nNikhil Swaminathan, Sr Product Manager Tech discusses how the new Amplify Console offers AWS users to take advantage of features like continuous deployment and simple configuration in AWS Amplify CLI.\n\nSamartha Chandrashekar, Product Manager for Bottlerocket shares how this Linux-based open-source operating system enables customers and partners to produce custom builds that include their own changes.\n\nWant to tune in live for the next episode? You can find dates and more information about our upcoming streams at - https://go.aws/35XEeET\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
         "date": "2020-07-02T20:44:29Z",
-        "description": "Elasticache: 15:00 Elasticache Demo: 28:23 AWS Amplify: 40:11 AWS Amplify Demo: 52:22 Bottlerocket: 1:11:12 Bottlerocket Demo: 1:36:45 AWS What's Next ..."
+        "duration": 7349
     },
     {
         "service": "elasticache",

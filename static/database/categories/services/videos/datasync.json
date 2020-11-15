@@ -2,16 +2,42 @@
     {
         "service": "datasync",
         "videoId": "vwVUBBs7Fe4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "aws datasync",
+            "data transfer",
+            "data migration",
+            "data processing",
+            "data protection",
+            "bandwidth throttling",
+            "transfer data",
+            "online data transfer",
+            "automate transfers",
+            "data processing for hybrid workloads"
+        ],
         "title": "AWS DataSync -  Adjusting the Network Bandwidth on a Running Task",
+        "description": "AWS DataSync is an online data transfer service that simplifies, automates, and accelerates copying large amounts of data to and from AWS Storage services. Check out this demo video to learn more about how AWS DataSync now enables more granular control over the portion of network bandwidth used to transfer your data. In addition to the existing capability to set a maximum network bandwidth limit per task, you can now increase or decrease this limit while the task is running. This enables you to minimize impact on other users or applications when a task spans multiple days.\n\nLearn more about AWS DataSync at https://amzn.to/2Gw6gio\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDataSync #AWSDemo",
         "date": "2020-11-09T18:01:14Z",
-        "description": "AWS DataSync is an online data transfer service that simplifies, automates, and accelerates copying large amounts of data to and from AWS Storage services."
+        "duration": 302
     },
     {
         "service": "datasync",
         "videoId": "21tG9tjbxTM",
-        "title": "Announcing Two New AWS Online Data Transfer Services &amp; New Edge Computing Capabilities",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
+        "title": "Announcing Two New AWS Online Data Transfer Services & New Edge Computing Capabilities",
+        "description": "In this Launchpad session, AWS product experts introduce three new transfer services and capabilities: AWS DataSync for accelerated online data transfer, AWS Transfer for SFTP — fully managed secure file transfer for Amazon S3, and AWS Snowball Edge Compute Optimized with 2x the processing power for disconnected edge computing use cases. We discuss when to use each of the new capabilities, how they work, and how they can help you with data and application migrations, data processing workflows and data protection and recovery. \n\nCatch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
         "date": "2018-11-30T21:03:37Z",
-        "description": "In this Launchpad session, AWS product experts introduce three new transfer services and capabilities: AWS DataSync for accelerated online data transfer, AWS ..."
+        "duration": 1194
     },
     {
         "service": "datasync",

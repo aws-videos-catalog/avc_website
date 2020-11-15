@@ -2,16 +2,32 @@
     {
         "service": "lambda",
         "videoId": "0nzeYW8C1sg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "AWS Summit Tel Aviv 2015 | Amazon Lambda Demo",
+        "description": "Amazon Lambda Live Demo by Carlos Conde at the AWS Summit Tel Aviv 2015. aws.amazon.com/lambda",
         "date": "2015-07-27T22:19:14Z",
-        "description": "Amazon Lambda Live Demo by Carlos Conde at the AWS Summit Tel Aviv 2015. aws.amazon.com/lambda."
+        "duration": 1207
     },
     {
         "service": "lambda",
         "videoId": "dLDrQPgOvDo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
         "title": "100 Billion Datapoints Using AWS Lambda",
+        "description": "",
         "date": "2018-10-11T11:39:46Z",
-        "description": ""
+        "duration": 1609
     },
     {
         "service": "lambda",

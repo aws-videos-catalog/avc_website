@@ -2,37 +2,124 @@
     {
         "service": "cloudformation",
         "videoId": "4Q2ECUQGC84",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "policy compliance",
+            "infrastructure as code",
+            "IaC",
+            "CloudForrmation",
+            "AWS CloudFormation",
+            "Guard",
+            "AWS CloudFormation Guard",
+            "policy"
+        ],
         "title": "Check AWS CloudFormation Templates for Policy Compliance Using CloudFormation Guard",
+        "description": "In this video, you’ll see how to check AWS CloudFormation templates for policy compliance using CloudFormation Guard. With this tool, you can create custom rules for your CloudFormation templates, evaluate the templates for compliance, and fix any non-compliant code. \n\nLearn more about checking AWS CloudFormation templates for compliance at - https://amzn.to/35co1LP\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
         "date": "2020-10-21T18:55:23Z",
-        "description": "In this video, you'll see how to check AWS CloudFormation templates for policy compliance using CloudFormation Guard. With this tool, you can create custom ..."
+        "duration": 307
     },
     {
         "service": "cloudformation",
         "videoId": "baA5eN5zyrg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Compliance",
+            "Compliance Package",
+            "Compliance Controls",
+            "Config",
+            "AWS Config",
+            "Conformance Packs",
+            "CPacks",
+            "AWS Config Conformance Packs",
+            "CloudFormation",
+            "CloudFormation Registry"
+        ],
         "title": "Deploy AWS Config Conformance Packs Using CloudFormation",
+        "description": "In this video, you’ll see how to deploy AWS Config conformance packs using CloudFormation. With this service, you can easily deploy conformance packs from CloudFormation templates, create custom templates to suit your needs, and expose parameters at deployment to afford greater control.\n\nLearn more about AWS Config Conformance Packs at https://amzn.to/2QI3XKE\n \nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4  \n\n #AWS  #AWSDemo",
         "date": "2020-08-31T19:11:51Z",
-        "description": "In this video, you'll see how to deploy AWS Config conformance packs using CloudFormation. With this service, you can easily deploy conformance packs from ..."
+        "duration": 351
     },
     {
         "service": "cloudformation",
         "videoId": "tLc2QG3cMzI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Japanese Localized",
+            "アマゾン ウェブ サービス",
+            "クラウドコンピューティング",
+            "プロビジョニング",
+            "モデル化"
+        ],
         "title": "AWS CloudFormation のご紹介 | AWS (日本語字幕) (3:00)",
+        "description": "AWS CloudFormation は、クラウド環境内のすべてのインフラストラクチャリソースを記述してプロビジョニングするための共通言語を提供します。AWS CloudFormation の詳細はこちら » https://amzn.to/2spDupq",
         "date": "2018-06-01T17:28:07Z",
-        "description": "AWS CloudFormation は、クラウド環境内のすべてのインフラストラクチャリソースを記述してプロビジョニングするための共通言語を提供します。AWS CloudFormation の ..."
+        "duration": 182
     },
     {
         "service": "cloudformation",
         "videoId": "xzQUmil3LBM",
+        "tags": [
+            "AWS re:Invent 2017",
+            "Amazon",
+            "Security",
+            "Compliance",
+            "& Identity",
+            "SID317",
+            "AWS CloudFormation",
+            "Devops"
+        ],
         "title": "AWS re:Invent 2017: Automating Security and Compliance Testing of Infrastructure-as- (SID317)",
+        "description": "Infrastructure-as-Code (IaC) has emerged as an essential element of organizational DevOps practices. Tools such as AWS CloudFormation and Terraform allow software-defined infrastructure to be deployed quickly and repeatably to AWS. But the agility of CI/CD pipelines also creates new challenges in infrastructure security hardening. How do you ensure that your CloudFormation templates meet your organization's security, compliance, and governance needs before you deploy them? How do you deploy infrastructure securely to production environments, and monitor the security posture on a continuous basis? And how do you do this repeatedly without hitting a speed bump? This session provides a foundation for how to bring proven software hardening practices into the world of infrastructure deployment. We discuss how to build security and compliance tests for infrastructure analogous to unit tests for application code, and showcase how security, compliance and governance testing fit in a modern CI/CD pipeline.\n\nSession Sponsored by: Dome9",
         "date": "2017-11-30T17:31:45Z",
-        "description": "Infrastructure-as-Code (IaC) has emerged as an essential element of organizational DevOps practices. Tools such as AWS CloudFormation and Terraform allow ..."
+        "duration": 2757
     },
     {
         "service": "cloudformation",
         "videoId": "0wPKtlxaqUM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Solving with AWS Solutions",
+            "awssolutions",
+            "AWS WAF",
+            "AWS security",
+            "Amazon Kinesis Data Firehose",
+            "Amazon Kinesis",
+            "Amazon S3",
+            "AWS Lambda",
+            "Amazon Athena",
+            "Amazon CloudWatch",
+            "Amazon API Gateway",
+            "application development",
+            "application testing",
+            "application security",
+            "cloud security",
+            "Web ACL",
+            "Application Load Balancer",
+            "solutions architecture",
+            "security automation",
+            "devops",
+            "secdevops"
+        ],
         "title": "Solving with AWS Solutions: AWS WAF Security Automations",
+        "description": "Solution Link: https://tinyurl.com/SolvingwithAWSSolutionsWAFSA\n\nAWS WAF Security Automations uses AWS CloudFormation to automatically deploy a set of AWS WAF rules designed to filter common web-based attacks. Users can select from preconfigured protective features that define the rules included in an AWS WAF web access control list (web ACL). Once the solution is deployed, AWS WAF will begin inspecting web requests to the user’s existing Amazon CloudFront distributions or Application Load Balancers, and block them when applicable.\n\nAWS Solutions page: https://aws.amazon.com/solutions\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
         "date": "2020-04-25T17:43:19Z",
-        "description": "Solution Link: https://tinyurl.com/SolvingwithAWSSolutionsWAFSA AWS WAF Security Automations uses AWS CloudFormation to automatically deploy a set of ..."
+        "duration": 406
     },
     {
         "service": "cloudformation",
