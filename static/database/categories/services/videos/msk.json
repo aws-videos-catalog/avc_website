@@ -1,6 +1,13 @@
 [
     {
         "service": "msk",
+        "videoId": "41Hta5Fx6mU",
+        "title": "AWS re:Invent 2019: Managing decisions with Amazon Kinesis for better outcomes (DEM25-S)",
+        "date": "2019-12-04T17:29:33Z",
+        "description": "Systems like Apache Kafka, Amazon Kinesis, and Amazon MSK are great for the ingestion, delivery, and real-time analysis of streaming data. Adding a rules ..."
+    },
+    {
+        "service": "msk",
         "videoId": "zhsVfsykBHc",
         "tags": [
             "AWS",
