@@ -1,6 +1,20 @@
 [
     {
         "service": "datasync",
+        "videoId": "vwVUBBs7Fe4",
+        "title": "AWS DataSync -  Adjusting the Network Bandwidth on a Running Task",
+        "date": "2020-11-09T18:01:14Z",
+        "description": "AWS DataSync is an online data transfer service that simplifies, automates, and accelerates copying large amounts of data to and from AWS Storage services."
+    },
+    {
+        "service": "datasync",
+        "videoId": "21tG9tjbxTM",
+        "title": "Announcing Two New AWS Online Data Transfer Services &amp; New Edge Computing Capabilities",
+        "date": "2018-11-30T21:03:37Z",
+        "description": "In this Launchpad session, AWS product experts introduce three new transfer services and capabilities: AWS DataSync for accelerated online data transfer, AWS ..."
+    },
+    {
+        "service": "datasync",
         "videoId": "_qhTF-gB-JE",
         "tags": [
             "AWS",
