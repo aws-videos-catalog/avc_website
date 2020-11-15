@@ -1,6 +1,41 @@
 [
     {
         "service": "cloudformation",
+        "videoId": "4Q2ECUQGC84",
+        "title": "Check AWS CloudFormation Templates for Policy Compliance Using CloudFormation Guard",
+        "date": "2020-10-21T18:55:23Z",
+        "description": "In this video, you'll see how to check AWS CloudFormation templates for policy compliance using CloudFormation Guard. With this tool, you can create custom ..."
+    },
+    {
+        "service": "cloudformation",
+        "videoId": "baA5eN5zyrg",
+        "title": "Deploy AWS Config Conformance Packs Using CloudFormation",
+        "date": "2020-08-31T19:11:51Z",
+        "description": "In this video, you'll see how to deploy AWS Config conformance packs using CloudFormation. With this service, you can easily deploy conformance packs from ..."
+    },
+    {
+        "service": "cloudformation",
+        "videoId": "tLc2QG3cMzI",
+        "title": "AWS CloudFormation のご紹介 | AWS (日本語字幕) (3:00)",
+        "date": "2018-06-01T17:28:07Z",
+        "description": "AWS CloudFormation は、クラウド環境内のすべてのインフラストラクチャリソースを記述してプロビジョニングするための共通言語を提供します。AWS CloudFormation の ..."
+    },
+    {
+        "service": "cloudformation",
+        "videoId": "xzQUmil3LBM",
+        "title": "AWS re:Invent 2017: Automating Security and Compliance Testing of Infrastructure-as- (SID317)",
+        "date": "2017-11-30T17:31:45Z",
+        "description": "Infrastructure-as-Code (IaC) has emerged as an essential element of organizational DevOps practices. Tools such as AWS CloudFormation and Terraform allow ..."
+    },
+    {
+        "service": "cloudformation",
+        "videoId": "0wPKtlxaqUM",
+        "title": "Solving with AWS Solutions: AWS WAF Security Automations",
+        "date": "2020-04-25T17:43:19Z",
+        "description": "Solution Link: https://tinyurl.com/SolvingwithAWSSolutionsWAFSA AWS WAF Security Automations uses AWS CloudFormation to automatically deploy a set of ..."
+    },
+    {
+        "service": "cloudformation",
         "videoId": "Omppm_YUG2g",
         "tags": [
             "AWS",
