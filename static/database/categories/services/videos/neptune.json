@@ -1,6 +1,20 @@
 [
     {
         "service": "neptune",
+        "videoId": "J-fxrNfO5Bs",
+        "title": "AWS What&#39;s Next, S1|E5",
+        "date": "2020-07-06T21:44:44Z",
+        "description": "AWS CodeArtifact: 00:19:23 AWS CodeArtifact Demo: 00:39:50 Amazon Neptune: 01:10:35 Amazon Neptune Demo: 01:25:57 Amazon SageMaker Ground ..."
+    },
+    {
+        "service": "neptune",
+        "videoId": "r6xw8tXwV1A",
+        "title": "What’s New with AWS – Week of August 17, 2020",
+        "date": "2020-08-17T16:00:13Z",
+        "description": "In this new episode, join Nick Walsh to learn what's new with Amazon Braket, Amazon Neptune Workbench, & Amazon Cognito User Pools. For the slate of ..."
+    },
+    {
+        "service": "neptune",
         "videoId": "dSqNAlYAAoQ",
         "tags": [
             "re:Invent 2019",
