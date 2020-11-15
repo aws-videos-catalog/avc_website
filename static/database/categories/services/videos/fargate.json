@@ -1,6 +1,69 @@
 [
     {
         "service": "fargate",
+        "videoId": "HQyIuywiyTE",
+        "title": "Deploy your .NET Core Application on Amazon EKS on AWS Fargate",
+        "date": "2020-09-22T20:32:53Z",
+        "description": "In this video, you will learn how to deploy a net Core application to Amazon EKS on AWS Fargate. EKS and Fargate make it straightforward to run ..."
+    },
+    {
+        "service": "fargate",
+        "videoId": "Fup1KEg50qE",
+        "title": "AWS Summit SF 2018: Containerized App Development with AWS Fargate (SRV314)",
+        "date": "2018-04-11T22:56:04Z",
+        "description": "AWS Fargate makes running containerized workloads on AWS easier than ever before. In this session, we provide a technical foundation for using AWS Fargate ..."
+    },
+    {
+        "service": "fargate",
+        "videoId": "rtk3rRdAZ6s",
+        "title": "AWS re:Invent 2018: Operational Excellence w/ Containerized Workloads Using AWS Fargate (CON320-R1)",
+        "date": "2018-11-29T18:21:07Z",
+        "description": "This session will focus on how leveraging Fargate and its serverless approach to deploying and managing containers will help increase operational efficiencies ..."
+    },
+    {
+        "service": "fargate",
+        "videoId": "0zEF3xgTSdU",
+        "title": "EkoSystem Day - AWS Fargate Overview",
+        "date": "2018-10-10T17:34:30Z",
+        "description": "AWS is streaming on twitch.tv/aws with interactive live coding, technical discussions, demos, tutorials and events. Learn more at - https://amzn.to/2QGUtgr."
+    },
+    {
+        "service": "fargate",
+        "videoId": "EfoXj2ymy_E",
+        "title": "Tulip Retail on Rapidly Responding to Traffic Surges Using AWS Fargate",
+        "date": "2018-10-08T18:04:25Z",
+        "description": "Startup Central Talks from the 2018 AWS Toronto Summit. Learn more about AWS at - Tulip DevOps engineer Bill Vandenberk speaks at Startup Central Toronto ..."
+    },
+    {
+        "service": "fargate",
+        "videoId": "TGh_QcELr5A",
+        "title": "EkoSystem Day - Scanning Vulnerabilities to Protect Fargate Apps During Run Time by Aqua Security",
+        "date": "2018-10-10T17:34:14Z",
+        "description": "AWS is streaming on twitch.tv/aws with interactive live coding, technical discussions, demos, tutorials and events. Learn more at - https://amzn.to/2A32Z45."
+    },
+    {
+        "service": "fargate",
+        "videoId": "-xMNbys0tF8",
+        "title": "AWS Container Day - Amazon EKS and AWS Fargate: Better Together",
+        "date": "2020-08-31T16:31:10Z",
+        "description": "In this brief demo-led session we are going to show you how it is possible to use EKS and Fargate together. The combination of EKS and Fargate allows you to ..."
+    },
+    {
+        "service": "fargate",
+        "videoId": "7lG3JZFzSiY",
+        "title": "AWS Summit Online ASEAN 2020 | Delivering Container-native Applications Without Managing Servers",
+        "date": "2020-08-28T17:59:50Z",
+        "description": "AWS Fargate is a completely serverless, container-native compute engine. It doesn't require users to provision, scale, or manage servers, and it works with ..."
+    },
+    {
+        "service": "fargate",
+        "videoId": "uQ9ry-9uUvo",
+        "title": "AWS re:Invent 2019: [REPEAT 1] Dive deep on how to save with AWS Savings Plans (CMP210-R1)",
+        "date": "2019-12-07T05:56:55Z",
+        "description": "Savings Plans is a new flexible pricing model that provides savings of up to 72 percent on Amazon EC2 and AWS Fargate usage. Savings Plans offers ..."
+    },
+    {
+        "service": "fargate",
         "videoId": "Hr-zOaBGyEA",
         "tags": [
             "re:Invent 2019",
