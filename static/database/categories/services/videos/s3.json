@@ -666,13 +666,6 @@
     },
     {
         "service": "s3",
-        "videoId": "tVFYicRxuVg",
-        "title": "Amazon Simple Storage Service（S3）入門（日本語字幕）",
-        "date": "2014-10-28T20:53:08Z",
-        "description": "Learn more: http://aws.amazon.com/s3/ Introduction to Amazon Simple Storage Service (S3): Learn about Amazon S3 key concepts and best practices."
-    },
-    {
-        "service": "s3",
         "videoId": "bfGdPydEX1c",
         "title": "Oracle RMAN and Amazon S3 - Starting an Oracle Database EC2 Instance",
         "date": "2012-10-01T18:07:47Z",
