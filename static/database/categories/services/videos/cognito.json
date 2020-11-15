@@ -1,6 +1,27 @@
 [
     {
         "service": "cognito",
+        "videoId": "PkP2GB713rY",
+        "title": "How do I configure Cognito User Pool federation with Google?",
+        "date": "2020-10-29T18:24:00Z",
+        "description": "For more details see the Knowledge Center article with this video: ..."
+    },
+    {
+        "service": "cognito",
+        "videoId": "VZzx15IEj7Y",
+        "title": "AWS re:Inforce 2019: Identity and Access Control for Custom Enterprise Applications (SDD412)",
+        "date": "2019-06-26T18:22:17Z",
+        "description": "This session by the AWS Security Jam team looks at some Amazon Cognito patterns used by the Jam Platform. The team shares their experience building ..."
+    },
+    {
+        "service": "cognito",
+        "videoId": "YHJzj4EKySY",
+        "title": "AWS re:Invent 2014 | (MBL401) Social Logins for Mobile Apps with Amazon Cognito",
+        "date": "2014-11-17T22:59:57Z",
+        "description": "Streamline your mobile app sign-up experience with Amazon Cognito. In this session, we demonstrate how to use Cognito to build secure mobile apps without ..."
+    },
+    {
+        "service": "cognito",
         "videoId": "abTy-Yyo6lI",
         "tags": [
             "AWS",
