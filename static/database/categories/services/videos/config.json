@@ -1,6 +1,20 @@
 [
     {
         "service": "config",
+        "videoId": "baA5eN5zyrg",
+        "title": "Deploy AWS Config Conformance Packs Using CloudFormation",
+        "date": "2020-08-31T19:11:51Z",
+        "description": "In this video, you'll see how to deploy AWS Config conformance packs using CloudFormation. With this service, you can easily deploy conformance packs from ..."
+    },
+    {
+        "service": "config",
+        "videoId": "hjm6sGHtoNc",
+        "title": "AWS Config/EC2 Systems Manager Integration",
+        "date": "2016-12-21T19:10:59Z",
+        "description": "Learn more about Amazon EC2 here - http://amzn.to/2hRAyOj Taylor Anderson demonstrates EC2 and Config integration that allows users to see historical ..."
+    },
+    {
+        "service": "config",
         "videoId": "X_fznJtSyV8",
         "tags": [
             "AWS",
