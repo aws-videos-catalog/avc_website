@@ -1,6 +1,153 @@
 [
     {
         "service": "batch",
+        "videoId": "H8bmHU_z8Ac",
+        "title": "Live from the London Loft | AWS Batch: Simplifying Batch Computing in the Cloud",
+        "date": "2017-09-29T23:23:28Z",
+        "description": "Visit http://amzn.to/2fF5GS5 for more information on the current live coding shows, upcoming episode schedule, or for recordings of previous broadcasts."
+    },
+    {
+        "service": "batch",
+        "videoId": "T4aAWrGHmxQ",
+        "title": "How AWS Batch Works",
+        "date": "2017-01-30T19:44:19Z",
+        "description": "Learn about how AWS Batch works - http://amzn.to/2jw31pL AWS Batch enables developers, scientists, and engineers to easily and efficiently run hundreds of ..."
+    },
+    {
+        "service": "batch",
+        "videoId": "Z9FtrRq0rc0",
+        "title": "Get Scheduled Predictions on Your ML Models with Amazon SageMaker Batch Transform",
+        "date": "2019-09-11T20:18:46Z",
+        "description": "Learn more about Amazon SageMaker at – https://amzn.to/2mdzzvF Learn how to generate inferences for an entire dataset with large batches of data, where ..."
+    },
+    {
+        "service": "batch",
+        "videoId": "qPU9FzuAKIw",
+        "title": "AWS Batch on EC2 Spot Instances: How to Accelerate Batch Processing for Less",
+        "date": "2019-08-07T21:53:12Z",
+        "description": "Learn more about running Amazon EC2 Spot Instances at - https://amzn.to/2yIK3Gr Amazon EC2 Spot Instances offer spare compute capacity available in the ..."
+    },
+    {
+        "service": "batch",
+        "videoId": "hXT1VWbONP8",
+        "title": "How do I use AWS Batch as a target for my CloudWatch Events rule?",
+        "date": "2019-06-04T17:05:49Z",
+        "description": "Find more details in the AWS Knowledge Center: Naren, an AWS Cloud Support Engineer, shows you how to use AWS Batch as a target for my CloudWatch ..."
+    },
+    {
+        "service": "batch",
+        "videoId": "9vMJqlbLCs8",
+        "title": "Batch Processing on EC2 Spot Instances: How to Accelerate Self-Managed Batch Processing for Less",
+        "date": "2019-08-07T21:53:14Z",
+        "description": "Learn more about running batch processing workloads on Amazon EC2 Spot Instances at - https://amzn.to/2GTKu4X Amazon EC2 Spot Instances offer spare ..."
+    },
+    {
+        "service": "batch",
+        "videoId": "gydmKeaB-oo",
+        "title": "CoreLogic: Spotting Scalable Architectures for Batch Workloads",
+        "date": "2017-12-11T18:36:08Z",
+        "description": "Many batch workloads don't need to be persistent. In this episode of This is My Architecture, CoreLogic describes how they replaced their EC2 fleet with spot ..."
+    },
+    {
+        "service": "batch",
+        "videoId": "6x_SgFEqoQI",
+        "title": "Why is my AWS Batch job stuck on RUNNABLE status?",
+        "date": "2019-03-08T21:52:31Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2NPBSii Manuel, an AWS Cloud Support Engineer, shows you reasons why your AWS Batch ..."
+    },
+    {
+        "service": "batch",
+        "videoId": "s2NYVwAs4Fo",
+        "title": "Community Day Session 4 | Building Fraud Detection Systems with AWS Batch and Containers",
+        "date": "2018-11-30T21:03:10Z",
+        "description": "When analyzing information for fraud detection, tasks must be run periodically. When building a fraud detection system, start by preparing the data, and work ..."
+    },
+    {
+        "service": "batch",
+        "videoId": "fmC84lp7-Hs",
+        "title": "AWS re:Invent 2017: Healthcare Payers and Serverless Batch Processing Engines (HLC308)",
+        "date": "2017-11-28T17:57:45Z",
+        "description": "In this session, hear how Cambia Health Solutions, a not-for-profit total health solutions company, created a self-service data model to convert a large-scale, ..."
+    },
+    {
+        "service": "batch",
+        "videoId": "--YL7S2Nlrk",
+        "title": "AWS Compute Overview: Servers, Containers, Serverless, and Batch (119727)",
+        "date": "2017-06-20T17:26:21Z",
+        "description": "The AWS Compute platform has expanded EC2 instance types including FPGA and new GPU instances. There are also other ways to run workloads in AWS ..."
+    },
+    {
+        "service": "batch",
+        "videoId": "jcC3pz_K4gI",
+        "title": "Cromwell on AWS Demo with the Broad Institute",
+        "date": "2018-10-01T20:32:19Z",
+        "description": "A brief video to highlight two examples demonstrating Cromwell capabilities on AWS: Configure Cromwell to use AWS Batch and encode a simple workflow."
+    },
+    {
+        "service": "batch",
+        "videoId": "qFfwRvy_8hg",
+        "title": "BluAge: Mainframe Migration on Steroids",
+        "date": "2019-02-18T08:00:07Z",
+        "description": "Would you like to accelerate your Zos/DB2 mainframe migration to the cloud, do batch processing faster, and stay in budget? On the next This is my Architecture ..."
+    },
+    {
+        "service": "batch",
+        "videoId": "6RkGM-pSJ2c",
+        "title": "How do I repair an AWS Batch Compute Environment which goes to INVALID status?",
+        "date": "2020-04-27T20:09:12Z",
+        "description": "For more details see the Knowledge Center article with this video: ..."
+    },
+    {
+        "service": "batch",
+        "videoId": "f5EJBUfGZtw",
+        "title": "Expedia: Salesforce Integration with AWS",
+        "date": "2020-03-06T22:11:41Z",
+        "description": "Sandeep from Expedia will explain how they built scalable & flexible system to ingest high data Volume both real time & batch leveraging AWS platform ..."
+    },
+    {
+        "service": "batch",
+        "videoId": "XWBONnli8jg",
+        "title": "AWS re:Invent 2019: Uber builds scalable autonomous vehicle simulations w/ AWS Batch (CMP328-R1)",
+        "date": "2019-12-05T17:57:43Z",
+        "description": "Learn how Uber uses AWS Batch to run hundreds of thousands of autonomous vehicle simulations across as many vCPUs every day. Hear the story of how the ..."
+    },
+    {
+        "service": "batch",
+        "videoId": "_xmzrJgo7Iw",
+        "title": "HPC on AWS Event - AWS Batch, Cloud-Native Batch Scheduling",
+        "date": "2020-11-09T22:46:21Z",
+        "description": "In this video, Steve Kendrex, Sr Product Manager at AWS, gives an overview of AWS Batch and explains how this service enables developers, scientists, and ..."
+    },
+    {
+        "service": "batch",
+        "videoId": "oXzNs_QfUX8",
+        "title": "HPC on AWS Event -Ginkgo Bioworks Automating the Creation of Batch Processing Workflows in AWS",
+        "date": "2020-11-09T21:55:10Z",
+        "description": "Hear from Ginkgo Bioworks' Jacob Merovach about his experience with automating the creation of batch processing workflows on AWS and making scaling ..."
+    },
+    {
+        "service": "batch",
+        "videoId": "n_rRb8u1GSM",
+        "title": "AWS re:Invent 2019: Cloud-native machine learning at Lyft with AWS Batch and Amazon EKS (CON235-P)",
+        "date": "2019-12-20T22:15:48Z",
+        "description": "Flyte is the backbone for large-scale machine learning and data processing pipelines at Lyft and is used across many business-critical applications."
+    },
+    {
+        "service": "batch",
+        "videoId": "2SGOyhwcbV4",
+        "title": "AWS re:Invent 2019: [REPEAT 1] Serverless stream processing pipeline best practices (SVS317-R1)",
+        "date": "2019-12-07T05:50:08Z",
+        "description": "Streaming data pipelines are increasingly used to replace batch processing with real-time decision-making for use cases including log processing, real-time ..."
+    },
+    {
+        "service": "batch",
+        "videoId": "YMO1NuEGXfk",
+        "title": "AWS re:Invent 2019: How Amazon Lex uses Amazon ECS to process batches at scale (CON218)",
+        "date": "2019-12-03T18:02:39Z",
+        "description": "Amazon Lex creates conversational interfaces powered by the same deep learning technologies used in Alexa. AWS Batch dynamically provisions the optimal ..."
+    },
+    {
+        "service": "batch",
         "videoId": "ebwfhSS4ZkY",
         "tags": [
             "AWS",
