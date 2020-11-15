@@ -1,6 +1,34 @@
 [
     {
         "service": "snowball",
+        "videoId": "0Q7s7JiBCf0",
+        "title": "AWS OpsHub for Snow Family",
+        "date": "2020-06-17T16:44:27Z",
+        "description": "A graphical user interface to manage AWS Snowcone & AWS Snowball devices and their computing resources. With just a few clicks in AWS OpsHub, you have ..."
+    },
+    {
+        "service": "snowball",
+        "videoId": "OR5-uTvfhsM",
+        "title": "AWS re:Invent 2018: Post-Production Media Delivery at Scale with AWS (STG391)",
+        "date": "2018-11-30T16:26:57Z",
+        "description": "Netflix is using AWS Snowball Edge to deliver post-production content to our asset management system, called Content Hub, in the AWS Cloud. Production ..."
+    },
+    {
+        "service": "snowball",
+        "videoId": "m0oncbmXwIo",
+        "title": "OSU Hatfield Marine Science Center",
+        "date": "2017-03-29T21:53:36Z",
+        "description": "Learn more about using AWS Snowball Edge in remote locations for data collection and analysis here - http://amzn.to/2ockQAK. With AWS Snowball Edge, The ..."
+    },
+    {
+        "service": "snowball",
+        "videoId": "TEIkoTgVgx8",
+        "title": "AWS re:Invent 2017: Migrating Millions of Video Content Files to The Cloud Using AWS (STG323)",
+        "date": "2017-11-30T15:54:32Z",
+        "description": "Join us for an overview of AWS Snowball and Snowball Edge, a collection of self-service storage appliances built for petabyte-scale data ingest and export ..."
+    },
+    {
+        "service": "snowball",
         "videoId": "yl25W7LZAMU",
         "tags": [
             "aws",
