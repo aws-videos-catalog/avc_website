@@ -1,6 +1,69 @@
 [
     {
         "service": "emr",
+        "videoId": "wfXXZS_FaR4",
+        "title": "Set Fine-grained Access Controls for Apache Spark With Amazon EMR and AWS Lake Formation",
+        "date": "2020-09-11T23:15:13Z",
+        "description": "Amazon EMR now supports enforcing AWS Lake Formation-based fine-grained access control policies for Apache Spark. You can enforce Databases, Tables, ..."
+    },
+    {
+        "service": "emr",
+        "videoId": "vntGxZv0wAA",
+        "title": "Automatically  Scale Cluster using Amazon EMR Managed Scaling for Big Data Workloads",
+        "date": "2020-10-21T17:56:11Z",
+        "description": "Managed Scaling feature in Amazon EMR offers customers significant cost savings. In this short video you can see how the cluster expands and shrinks based ..."
+    },
+    {
+        "service": "emr",
+        "videoId": "K3O2uZI0wEg",
+        "title": "Enable End Users to Launch Amazon EMR Clusters Using AWS Service Catalog",
+        "date": "2020-09-21T17:01:09Z",
+        "description": "In this video, you'll see how to enable end users to launch Amazon EMR clusters using AWS Service Catalog. With AWS Service Catalog, you can make your ..."
+    },
+    {
+        "service": "emr",
+        "videoId": "d0hpmVuzM0E",
+        "title": "How do I encrypt HBASE table in EMR cluster with AES encryption?",
+        "date": "2020-11-13T18:29:58Z",
+        "description": "Skip directly to the demo: 0:26 For more details see the Knowledge Center article with this video: ..."
+    },
+    {
+        "service": "emr",
+        "videoId": "gSPh6VTBEbY",
+        "title": "EMEA Amazon Elastic MapReduce Webinar",
+        "date": "2013-04-15T16:28:07Z",
+        "description": "This webinar recording explains how to get started with Amazon Elastic MapReduce (EMR). EMR enables fast processing of large structured or unstructured ..."
+    },
+    {
+        "service": "emr",
+        "videoId": "oZ8HswQSbNQ",
+        "title": "AWS re:Invent 2015 | (SEC403) Diving into AWS CloudTrail Events w/Apache Spark on EMR",
+        "date": "2015-10-12T23:57:41Z",
+        "description": "Do you want to analyze AWS CloudTrail events within minutes of them arriving in your Amazon S3 bucket? Would you like to learn how to run expressive ..."
+    },
+    {
+        "service": "emr",
+        "videoId": "1CAWf9VDgFM",
+        "title": "AWS re:Invent 2017: Design Patterns and Best Practices for Data Analytics with Amazo (ABD305)",
+        "date": "2017-11-30T16:18:34Z",
+        "description": "Amazon EMR is one of the largest Hadoop operators in the world, enabling customers to run ETL, machine learning, real-time processing, data science, and ..."
+    },
+    {
+        "service": "emr",
+        "videoId": "3L-ryHHX8vE",
+        "title": "AWS re:Invent 2016: Case Study: Analytics Without Limits. FINRA’s Architecture on S3 (STG308)",
+        "date": "2016-12-03T03:10:12Z",
+        "description": "FINRA partnered with AWS product teams to leverage Amazon EMR and Amazon S3 extensively to build an advanced analytics solution. In this session, you'll ..."
+    },
+    {
+        "service": "emr",
+        "videoId": "WbrGF56oeCY",
+        "title": "AWS re:Invent 2019: Run big data workloads faster and cheaper (DEM151)",
+        "date": "2019-12-08T23:28:49Z",
+        "description": "Learn how to run big data frameworks such as Apache Spark, and Hadoop through Amazon EMR while maximizing for scale, performance, and deep cost ..."
+    },
+    {
+        "service": "emr",
         "videoId": "jylp2atrZjc",
         "tags": [
             "AWS",
