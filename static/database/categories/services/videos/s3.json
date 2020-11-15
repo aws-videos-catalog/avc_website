@@ -1,6 +1,1350 @@
 [
     {
         "service": "s3",
+        "videoId": "e6w9LwZJFIA",
+        "title": "Getting started with Amazon S3 - Demo",
+        "date": "2020-06-17T23:27:57Z",
+        "description": "Amazon S3 provides developers and IT teams with an object storage service that offers industry-leading scalability, data availability, security, and performance."
+    },
+    {
+        "service": "s3",
+        "videoId": "kAaPjE9-a2A",
+        "title": "Amazon S3: Cross-Region Replication and Versioning",
+        "date": "2019-03-19T16:00:05Z",
+        "description": "Learn more about Amazon S3 at – https://amzn.to/2FkOBXw S3 Cross-Region Replication (CRR) is an Amazon S3 feature you can use to replicate your data ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "hUv34voEftc",
+        "title": "S3 Batch Operations: Create a Job",
+        "date": "2019-03-19T16:00:04Z",
+        "description": "Learn more about Amazon S3 at – https://amzn.to/2FfeFBU With S3 Batch Operations, you can take action against hundreds, millions, and even billions of ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "wYclDu6GhkU",
+        "title": "Amazon S3: Introduction to the S3 Storage Classes",
+        "date": "2019-03-19T16:00:06Z",
+        "description": "Learn more about Amazon S3 at – https://amzn.to/2JlDi5t All S3 customers can store data across a range of distinct storage classes that are designed to ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "8ew8MSXBiA4",
+        "title": "How do I configure an S3 bucket policy to Deny all actions unless they meet certain conditions?",
+        "date": "2018-08-02T15:06:11Z",
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/block-s3-traffic-vpc-ip/ Dustin, an AWS Cloud ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "5YkGYB0qdzc",
+        "title": "Store &amp; Retrieve Data in Amazon S3 with React &amp; AWS Amplify",
+        "date": "2018-11-08T17:56:13Z",
+        "description": "AWS Amplify https://amzn.to/2Qn7psf is a client library, CLI toolchain, and UI component library that allows developers to quickly create and connect to powerful ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "twRgJJmpbWE",
+        "title": "How do I find the cost of my Amazon S3 buckets?",
+        "date": "2020-06-16T20:33:06Z",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/s3-find-bucket-cost/. Adeel shows ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "77lMCiiMilo",
+        "title": "Introduction to Amazon Simple Storage Service (S3) - Cloud Storage on AWS",
+        "date": "2015-09-17T00:17:13Z",
+        "description": "Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable object storage. Amazon S3 is easy to use ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "coDX7NV3ILM",
+        "title": "How to upload a large file to Amazon S3 with encryption using an AWS KMS key?",
+        "date": "2020-02-25T21:17:10Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2KqT39r Rajitha, an AWS Cloud Support Engineer, shows you how to upload a large file to ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "weBOwG9cuZ0",
+        "title": "Amazon S3: Configuring Access Policies",
+        "date": "2019-03-19T16:00:06Z",
+        "description": "Learn more about Amazon S3 at – https://amzn.to/2Tcbdx6 At creation and by default, all S3 resources are private and can only be accessed by the resource ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "_I14_sXHO8U",
+        "title": "Introduction to Amazon S3",
+        "date": "2018-04-04T23:04:53Z",
+        "description": "Amazon Simple Storage Service (Amazon S3) is cloud object storage built to store and retrieve any amount of data from anywhere. Learn more about Amazon ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "vQP6ctJ2nhY",
+        "title": "Amazon S3: Object Tagging and S3 Inventory Reports",
+        "date": "2019-03-19T16:00:10Z",
+        "description": "Learn more about Amazon S3 at – https://amzn.to/2FaQIvM With Amazon S3, you can organize your data as objects, append informative metadata tags to your ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "Y699Gjx2rNw",
+        "title": "Amazon S3: Introduction to S3 Intelligent-Tiering",
+        "date": "2019-03-19T16:00:03Z",
+        "description": "Learn more about Amazon S3 at – https://amzn.to/2uhEWdK S3 Intelligent-Tiering is the first cloud storage class designed to optimize costs for datasets with ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "KIltfPRpTi4",
+        "title": "How to Set up an Amazon CloudFront Distribution for Your Amazon S3 Origin",
+        "date": "2018-07-20T16:18:12Z",
+        "description": "Learn more about Amazon CloudFront at - https://amzn.to/2LbpBGM. Watch this AWS TechTips demo and learn how to set up a CloudFront distribution with your ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "lyNGeDg6EII",
+        "title": "Amazon RDS Snapshot Export to S3",
+        "date": "2020-04-03T21:22:35Z",
+        "description": "In this demo, we'll see how we can export Amazon RDS snapshots to Amazon S3, run queries on them using Amazon Athena, and automate the entire process ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "mw_-0iCVpUc",
+        "title": "Serverless File Uploads using S3 and Lambda",
+        "date": "2020-04-30T21:21:21Z",
+        "description": "The serverless approach allows your application to use a presigned URL and upload directly to Amazon S3. This offloads all the bandwidth and compute ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "_cwpengIjkw",
+        "title": "Archiving Amazon S3 Data to Amazon Glacier",
+        "date": "2012-11-14T04:43:31Z",
+        "description": "Amazon S3 enables you to utilize Amazon Glacier's extremely low-cost storage service as a storage option for data archival. Watch this video to learn how you ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "83Wa4RJuMwo",
+        "title": "Easily Transfer Data Into Amazon S3 From Your Existing Applications Using AWS Storage Services",
+        "date": "2020-08-12T22:21:13Z",
+        "description": "In this demo, we will demonstrate how you can easily utilize AWS DataSync, File Gateway, and the AWS Transfer Family with your existing applications and ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "L0oIyJgzVEA",
+        "title": "Alert Logic Case Study — Amazon S3 — Cloud Storage",
+        "date": "2017-10-17T17:58:02Z",
+        "description": "Learn more about Amazon S3 at - http://amzn.to/2yv0kjl. Alert Logic, a leading cloud security provider, uses Amazon S3 to gain data protection, geographic ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "sf-JWDDw2O4",
+        "title": "How do I securely access my Amazon S3 static website?",
+        "date": "2018-12-28T15:22:09Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2SU4fwQ Meghna, an AWS Cloud Support Engineer, shows you how to use Amazon ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "HHuRJZChCYQ",
+        "title": "Masterclass Webinar: Amazon S3",
+        "date": "2013-01-23T20:54:49Z",
+        "description": "AWS Evangelist, Ryan Shuttleworth, explores the extended features of AWS S3. S3 hosts over 1.3 trillion objects and is used for storing a wide range of data, ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "BpFKnPae1oY",
+        "title": "AWS Quick Start - Hosting a Static Website on AWS (Demo)",
+        "date": "2018-11-26T04:01:51Z",
+        "description": "Learn more at - https://amzn.to/2PSeYuJ. Deploy a static website using Amazon S3. Amazon S3 will provide the origin for your website as well as storage for ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "HnUqH3hdz4I",
+        "title": "Introducing Amazon S3 Transfer Acceleration",
+        "date": "2016-04-21T23:49:00Z",
+        "description": "Learn more - http://amzn.to/1WIC5D5 This new feature of Amazon S3 moves files across long distances - like countries or continents - up to 300% faster than ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "MJ6auMlWGBc",
+        "title": "How do I diagnose connectivity issues to an Amazon S3 bucket using a gateway VPC endpoint?",
+        "date": "2018-05-07T15:43:45Z",
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/connect-s3-vpc-endpoint/ Shiva, an AWS Cloud ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "IHMZT2S_XuI",
+        "title": "Accelerate the Migration of 10,000 Small Files From NFS to Amazon S3 Using AWS DataSync",
+        "date": "2020-08-13T16:34:10Z",
+        "description": "In this demo video, we will use two methods to transfer 10000 very small files from an NFS share to an Amazon S3 bucket. We will discuss scenarios where you ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "yTf3YsJJuSs",
+        "title": "How can I copy objects between Amazon S3 buckets?",
+        "date": "2019-06-19T19:55:45Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2KSCeGW Hai, an AWS Cloud Support Engineer, shows you how to copy objects between ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "QmJZxp62iHA",
+        "title": "How can I audit deleted or missing objects from my Amazon S3 bucket?",
+        "date": "2020-09-28T12:37:57Z",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/s3-audit-deleted-missing-objects/ ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "8VW-N4m6lrM",
+        "title": "Amazon S3 on Outposts: Extending S3 Into Your on-premises Environment",
+        "date": "2020-09-30T22:56:24Z",
+        "description": "Announcing Amazon S3 on Outposts. S3 on Outposts delivers object storage to your on-premises AWS Outposts environment to meet local data processing and ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "PHKoAr8QCDE",
+        "title": "How do I configure my website to failover to an S3 bucket when a Route 53 health check fails?",
+        "date": "2017-05-17T14:38:31Z",
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/fail-over-s3-r53/ Przemyslaw, an AWS Support ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "x95vzaeEsRk",
+        "title": "How do I restrict S3 access only from CloudFront?",
+        "date": "2018-10-22T14:28:13Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2od6qhN Roquiya, an AWS Cloud Support Engineer, shows you how to restrict access only ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "f0sE_dNrimU",
+        "title": "Serverless Data Import to DynamoDB using S3 and Lambda",
+        "date": "2020-04-30T21:21:21Z",
+        "description": "Amazon DynamoDB is a fast, web-scale NoSQL database that is central to many serverless applications. The S3-to-Lambda pattern can be used to load data ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "cJG-nLw0FJE",
+        "title": "AWS for Microsoft Workloads: How to Manage Files in S3 in Your .NET Application",
+        "date": "2018-06-18T23:30:05Z",
+        "description": "For more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2JQCnK0. Amazon Simple Storage Service (Amazon S3) ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "xuxUL8gwKJs",
+        "title": "Demo: Action Last Accessed for Amazon S3 Management Actions",
+        "date": "2020-06-22T23:08:54Z",
+        "description": "This short videos demonstrates how to tighten Amazon S3 permissions for your AWS IAM users and roles using access history of S3 actions. Learn more about ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "G-RmHpa_yno",
+        "title": "Amazon S3 | Transfer Acceleration",
+        "date": "2016-04-19T16:16:42Z",
+        "description": "Learn More - http://amzn.to/1Sqm01K This new feature of Amazon S3 moves files across long distances - like countries or continents - up to 300% faster than ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "uxcyoc6uaLM",
+        "title": "Query Data in Place With Amazon S3 Select",
+        "date": "2018-04-11T17:56:23Z",
+        "description": "Learn more at - https://amzn.to/2GRmcKS. S3 Select is a new Amazon S3 capability designed to pull out only the data you need from an object, dramatically ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "tP5edaxBEEI",
+        "title": "AWS Storage Gateway Demo: File Storage on Amazon S3 with Access from Multiple Sites",
+        "date": "2017-08-11T17:02:28Z",
+        "description": "Learn more about AWS Storage Gateway for Files at - http://amzn.to/2vSEG7e. This video discusses and demonstrates how the AWS Storage Gateway can be ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "HDbl4MZQhtw",
+        "title": "Deep Dive on S3 Glacier Deep Archive",
+        "date": "2019-06-20T21:10:10Z",
+        "description": "Amazon S3 Glacier Deep Archive is a new storage class that provides secure, durable object storage for long-term data retention and digital preservation."
+    },
+    {
+        "service": "s3",
+        "videoId": "4v08-CzjH1U",
+        "title": "Amazon FSx for Lustre: High-Performance File System for Processing Amazon S3 or On-Premises Data",
+        "date": "2019-07-18T14:00:00Z",
+        "description": "Amazon FSx for Lustre is a high-performance file system for processing Amazon S3 or on-premises data. Learn more at - https://amzn.to/2GglrJa. With Amazon ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "iyKO2ma3eKU",
+        "title": "How do I resolve Access Denied errors when uploading files to S3 with KMS default encryption?",
+        "date": "2020-01-22T17:12:56Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2NPTmfM Kartik, an AWS Cloud Support Engineer, shows you how to resolve Access Denied ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "DKSFRcM-XCc",
+        "title": "S3 Select and S3 Glacier for Query in Place",
+        "date": "2019-03-14T16:00:01Z",
+        "description": "Learn more about Amazon S3 at – https://amzn.to/2UAGco5 Increase query performance and lower costs with S3 Select and S3 Glacier Select. Use these S3 ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "oUB3ObTKG4A",
+        "title": "Amazon S3 Encryption Client for .NET",
+        "date": "2019-10-04T18:11:16Z",
+        "description": "Learn more about AWS at – https://amzn.to/2Vfpzzb In this video we will show you how to use client side encryption for Amazon Simple storage service (S3) in ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "H_IwcosB3qU",
+        "title": "Introducing the Amazon S3 One Zone IA Storage Class",
+        "date": "2018-04-11T17:36:27Z",
+        "description": "Learn more about Amazon S3 storage classes at - https://amzn.to/2vdrknx. Learn about Amazon S3 One Zone-Infrequent Access (S3 One Zone-IA), a new ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "B2Ra7X8rymw",
+        "title": "How do I resolve the validation error from Amazon S3 event notifications in AWS CloudFormation?",
+        "date": "2019-12-31T20:08:34Z",
+        "description": "For more details see the Knowledge Center article with this video: https://amzn.to/388Xpfw Roshan shows you how to avoid the error \"Unable to validate the ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "CuMDH6c0zm4",
+        "title": "S3 Batch Operations: Manage and Track a Job",
+        "date": "2019-03-19T16:00:01Z",
+        "description": "Learn more about Amazon S3 at – https://amzn.to/2U1WucJ With S3 Batch Operations, you can take action against hundreds, millions, and even billions of ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "w5ocEIDR5WE",
+        "title": "Amazon S3 Storage Classes: Optimized storage for your workload needs",
+        "date": "2020-11-09T20:38:30Z",
+        "description": "Save costs without sacrificing performance by storing data across the S3 Storage Classes, which support different data access levels at corresponding rates."
+    },
+    {
+        "service": "s3",
+        "videoId": "tP5edaxBEEI",
+        "title": "AWS Storage Gateway Demo: File Storage on Amazon S3 with Access from Multiple Sites",
+        "date": "2017-08-11T17:02:28Z",
+        "description": "Learn more about AWS Storage Gateway for Files at - http://amzn.to/2vSEG7e. This video discusses and demonstrates how the AWS Storage Gateway can be ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "oJKOAdQZ6Z8",
+        "title": "Deep Dive On Object Storage: Amazon S3 and Amazon Glacier - Part 1: Ben Thurgood",
+        "date": "2017-09-11T16:29:33Z",
+        "description": "Learn more about AWS at - http://amzn.to/2ybuc22. Learn about the different ways you can accelerate data transfer into S3 and get a close look at new tools to ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "83Wa4RJuMwo",
+        "title": "Easily Transfer Data Into Amazon S3 From Your Existing Applications Using AWS Storage Services",
+        "date": "2020-08-12T22:21:13Z",
+        "description": "In this demo, we will demonstrate how you can easily utilize AWS DataSync, File Gateway, and the AWS Transfer Family with your existing applications and ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "sf-JWDDw2O4",
+        "title": "How do I securely access my Amazon S3 static website?",
+        "date": "2018-12-28T15:22:09Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2SU4fwQ Meghna, an AWS Cloud Support Engineer, shows you how to use Amazon ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "94M2FtoRtFw",
+        "title": "Oracle RMAN and Amazon S3 - Configuring the OSB Cloud Module",
+        "date": "2012-10-01T18:08:42Z",
+        "description": ""
+    },
+    {
+        "service": "s3",
+        "videoId": "LzZcVauj-vM",
+        "title": "Amazon S3 - Delete Object Expiration Rule",
+        "date": "2013-12-10T17:19:13Z",
+        "description": "For more information, see the Amazon S3 Console User Guide: http://docs.amazonwebservices.com/AmazonS3/latest/UG/Welcome.html."
+    },
+    {
+        "service": "s3",
+        "videoId": "BCtnfTCCYlg",
+        "title": "How to Transfer Data from Zendesk Support to Amazon S3 Using Amazon AppFlow",
+        "date": "2020-09-30T17:46:10Z",
+        "description": "Amazon AppFlow is an integration service that helps you securely transfer data between SaaS applications (like Salesforce, Marketo, Slack) and AWS services ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "1qrjFb0ZTm8",
+        "title": "Getting Started with Amazon S3",
+        "date": "2011-11-18T21:49:07Z",
+        "description": "Watch this video to get started with Amazon S3 in the AWS Management Console."
+    },
+    {
+        "service": "s3",
+        "videoId": "NLTXBmrpuHQ",
+        "title": "Thomson Reuters Product Insight: Real Time Analytics with Kinesis, Lambda and S3",
+        "date": "2017-05-25T16:34:43Z",
+        "description": "Thomson Reuters shares how they built Product Insight: A multi-tenant web usage analytics platform that processes up to 1000 events per second. The solution ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "8eGpVo49d9o",
+        "title": "Hosting Websites on Amazon S3",
+        "date": "2011-10-12T17:53:43Z",
+        "description": "This video explains how to host a Website on Amazon S3. With Amazon S3, you can set your bucket content to be publicly available. For additional information ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "oUB3ObTKG4A",
+        "title": "Amazon S3 Encryption Client for .NET",
+        "date": "2019-10-04T18:11:16Z",
+        "description": "Learn more about AWS at – https://amzn.to/2Vfpzzb In this video we will show you how to use client side encryption for Amazon Simple storage service (S3) in ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "iyKO2ma3eKU",
+        "title": "How do I resolve Access Denied errors when uploading files to S3 with KMS default encryption?",
+        "date": "2020-01-22T17:12:56Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2NPTmfM Kartik, an AWS Cloud Support Engineer, shows you how to resolve Access Denied ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "DKSFRcM-XCc",
+        "title": "S3 Select and S3 Glacier for Query in Place",
+        "date": "2019-03-14T16:00:01Z",
+        "description": "Learn more about Amazon S3 at – https://amzn.to/2UAGco5 Increase query performance and lower costs with S3 Select and S3 Glacier Select. Use these S3 ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "qbzD4ijwR2A",
+        "title": "How can I resolve S3 bucket permission errors for configuring a CRL list with ACM Private CA?",
+        "date": "2020-03-31T23:27:42Z",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/s3-bucket-error-crl-acm-ca/ Bishal ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "8VW-N4m6lrM",
+        "title": "Amazon S3 on Outposts: Extending S3 Into Your on-premises Environment",
+        "date": "2020-09-30T22:56:24Z",
+        "description": "Announcing Amazon S3 on Outposts. S3 on Outposts delivers object storage to your on-premises AWS Outposts environment to meet local data processing and ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "OgRT88DjQos",
+        "title": "Amazon S3: Data Lifecycle Management",
+        "date": "2019-03-19T16:00:07Z",
+        "description": "Learn more about Amazon S3 at – https://amzn.to/2FmatC0 With S3 Storage Class Analysis, you can easily learn the access patterns to your objects. With this ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "EYo0dgJoaYs",
+        "title": "Amazon S3: An Introduction to S3 Batch Operations",
+        "date": "2019-03-19T16:00:04Z",
+        "description": "Learn more about Amazon S3 at – https://amzn.to/2FfdPoK Learn about S3 Batch Operations, an Amazon S3 feature that lets you take action against thousands, ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "KJVxCfAhhhk",
+        "title": "AppsFlyer Builds a Data Lake and Optimizes Storage Costs With Amazon S3 Intelligent-tiering",
+        "date": "2020-03-10T16:40:58Z",
+        "description": "Learn how AppsFlyer builds its data lake on Amazon S3, and uses multiple S3 storage classes like Amazon S3 Intelligent-Tiering to save on storage costs as the ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "EwRg8JRUS_g",
+        "title": "Hosting Websites with  Amazon S3",
+        "date": "2011-11-29T21:46:12Z",
+        "description": "This video explains how to host a Website on Amazon S3. With Amazon S3, you can set your bucket content to be publicly available. For additional information ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "TA2yCRge4vQ",
+        "title": "re:Invent 2016 | Amazon S3",
+        "date": "2016-10-04T17:20:19Z",
+        "description": "Learn more - http://amzn.to/2cQCNKW re:Invent 2016 is around the corner and we on the Amazon S3 team are excited to see you there. There's nothing like four ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "sj3tsBomzUk",
+        "title": "SparkPost: Using Lambda to Archive Data from Redis to S3",
+        "date": "2018-04-16T16:10:46Z",
+        "description": "Learn more at - http://amzn.to/2o4IjBt. In this video, Jason from SparkPost describes how he created a Lambda function to archive customer email event data ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "yTf3YsJJuSs",
+        "title": "How can I copy objects between Amazon S3 buckets?",
+        "date": "2019-06-19T19:55:45Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2KSCeGW Hai, an AWS Cloud Support Engineer, shows you how to copy objects between ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "H_IwcosB3qU",
+        "title": "Introducing the Amazon S3 One Zone IA Storage Class",
+        "date": "2018-04-11T17:36:27Z",
+        "description": "Learn more about Amazon S3 storage classes at - https://amzn.to/2vdrknx. Learn about Amazon S3 One Zone-Infrequent Access (S3 One Zone-IA), a new ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "hUuPabbLrAI",
+        "title": "Sysco Reduces Storage Costs by 40 Percent Using Amazon S3 and Amazon Glacier",
+        "date": "2018-11-14T18:48:05Z",
+        "description": "Learn more about Amazon S3 at - https://amzn.to/2FpVLM7. Sysco reduces storage costs by 40 percent using Amazon S3 and Amazon Glacier. Sysco is a ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "hKK5UNrdEwE",
+        "title": "Amazon S3 - Creating a Bucket",
+        "date": "2013-12-10T17:13:00Z",
+        "description": "For more information, see the Amazon S3 Console User Guide: http://docs.amazonwebservices.com/AmazonS3/latest/UG/Welcome.html."
+    },
+    {
+        "service": "s3",
+        "videoId": "blN2oSs_vUM",
+        "title": "How do I set up Amazon S3 as an AWS DMS target for resources that are in the same account?",
+        "date": "2020-03-20T17:24:12Z",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/s3-bucket-dms-target/ Victor ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "2_8ZK_64hBc",
+        "title": "AWS re:Invent Launchpad 2017 - Amazon Glacier Select &amp; S3 Select",
+        "date": "2017-12-08T23:34:52Z",
+        "description": "Amazon S3 Select: Most applications have to retrieve the complete set of objects and then filter out just the required data. With Amazon S3 Select, applications ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "QmJZxp62iHA",
+        "title": "How can I audit deleted or missing objects from my Amazon S3 bucket?",
+        "date": "2020-09-28T12:37:57Z",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/s3-audit-deleted-missing-objects/ ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "uxcyoc6uaLM",
+        "title": "Query Data in Place With Amazon S3 Select",
+        "date": "2018-04-11T17:56:23Z",
+        "description": "Learn more at - https://amzn.to/2GRmcKS. S3 Select is a new Amazon S3 capability designed to pull out only the data you need from an object, dramatically ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "x95vzaeEsRk",
+        "title": "How do I restrict S3 access only from CloudFront?",
+        "date": "2018-10-22T14:28:13Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2od6qhN Roquiya, an AWS Cloud Support Engineer, shows you how to restrict access only ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "f0sE_dNrimU",
+        "title": "Serverless Data Import to DynamoDB using S3 and Lambda",
+        "date": "2020-04-30T21:21:21Z",
+        "description": "Amazon DynamoDB is a fast, web-scale NoSQL database that is central to many serverless applications. The S3-to-Lambda pattern can be used to load data ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "cJG-nLw0FJE",
+        "title": "AWS for Microsoft Workloads: How to Manage Files in S3 in Your .NET Application",
+        "date": "2018-06-18T23:30:05Z",
+        "description": "For more information, visit the AWS for Microsoft Workloads Self-Study Guide at - https://amzn.to/2JQCnK0. Amazon Simple Storage Service (Amazon S3) ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "1tvlGVuUC4c",
+        "title": "Oracle RMAN and Amazon S3 - Intro",
+        "date": "2012-10-01T18:05:19Z",
+        "description": ""
+    },
+    {
+        "service": "s3",
+        "videoId": "7MA2TemZ5KI",
+        "title": "Amazon S3 - Creating a Folder",
+        "date": "2013-12-10T17:17:01Z",
+        "description": "For more information, see the Amazon S3 Console User Guide: http://docs.amazonwebservices.com/AmazonS3/latest/UG/Welcome.html."
+    },
+    {
+        "service": "s3",
+        "videoId": "tHrT6kQR7vw",
+        "title": "Netflix: Amazon S3 &amp; Amazon Elastic MapReduce to Monitor at Gigascale (BDT302) | AWS re:Invent 2013",
+        "date": "2013-11-26T19:48:44Z",
+        "description": "How does Netflix stay on top of the operations of its Internet service with millions of users and billions of metrics? With Atlas, its own massively distributed, ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "TA2yCRge4vQ",
+        "title": "re:Invent 2016 | Amazon S3",
+        "date": "2016-10-04T17:20:19Z",
+        "description": "Learn more - http://amzn.to/2cQCNKW re:Invent 2016 is around the corner and we on the Amazon S3 team are excited to see you there. There's nothing like four ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "sj3tsBomzUk",
+        "title": "SparkPost: Using Lambda to Archive Data from Redis to S3",
+        "date": "2018-04-16T16:10:46Z",
+        "description": "Learn more at - http://amzn.to/2o4IjBt. In this video, Jason from SparkPost describes how he created a Lambda function to archive customer email event data ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "C9mApQ7UzM8",
+        "title": "How do I delete an S3 bucket containing many objects?",
+        "date": "2020-08-26T15:26:27Z",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/s3-empty-bucket-lifecycle-rule/ ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "hUuPabbLrAI",
+        "title": "Sysco Reduces Storage Costs by 40 Percent Using Amazon S3 and Amazon Glacier",
+        "date": "2018-11-14T18:48:05Z",
+        "description": "Learn more about Amazon S3 at - https://amzn.to/2FpVLM7. Sysco reduces storage costs by 40 percent using Amazon S3 and Amazon Glacier. Sysco is a ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "hKK5UNrdEwE",
+        "title": "Amazon S3 - Creating a Bucket",
+        "date": "2013-12-10T17:13:00Z",
+        "description": "For more information, see the Amazon S3 Console User Guide: http://docs.amazonwebservices.com/AmazonS3/latest/UG/Welcome.html."
+    },
+    {
+        "service": "s3",
+        "videoId": "2_8ZK_64hBc",
+        "title": "AWS re:Invent Launchpad 2017 - Amazon Glacier Select &amp; S3 Select",
+        "date": "2017-12-08T23:34:52Z",
+        "description": "Amazon S3 Select: Most applications have to retrieve the complete set of objects and then filter out just the required data. With Amazon S3 Select, applications ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "YLn5V47DpAU",
+        "title": "New Amazon S3 Storage Class - S3 Glacier Deep Archive",
+        "date": "2019-04-03T18:56:28Z",
+        "description": "AWS is announcing the general availability of Amazon S3 Glacier Deep Archive, a new S3 storage class that provides secure, durable object storage for ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "yUqe_r-fYaE",
+        "title": "Automating restores of Amazon S3 Glacier objects through AWS Storage Gateway",
+        "date": "2019-11-06T18:42:27Z",
+        "description": "Learn more about File Gateway - https://amzn.to/34yq2jF Watch this quick demonstration video (as part of the step by step AWS storage blog ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "1tvlGVuUC4c",
+        "title": "Oracle RMAN and Amazon S3 - Intro",
+        "date": "2012-10-01T18:05:19Z",
+        "description": ""
+    },
+    {
+        "service": "s3",
+        "videoId": "7MA2TemZ5KI",
+        "title": "Amazon S3 - Creating a Folder",
+        "date": "2013-12-10T17:17:01Z",
+        "description": "For more information, see the Amazon S3 Console User Guide: http://docs.amazonwebservices.com/AmazonS3/latest/UG/Welcome.html."
+    },
+    {
+        "service": "s3",
+        "videoId": "tHrT6kQR7vw",
+        "title": "Netflix: Amazon S3 &amp; Amazon Elastic MapReduce to Monitor at Gigascale (BDT302) | AWS re:Invent 2013",
+        "date": "2013-11-26T19:48:44Z",
+        "description": "How does Netflix stay on top of the operations of its Internet service with millions of users and billions of metrics? With Atlas, its own massively distributed, ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "f4VpTjx-SV0",
+        "title": "Amazon S3 is Exabytes and the #1 Place for Data Lakes",
+        "date": "2019-03-14T16:00:04Z",
+        "description": "Learn more about Amazon S3 at – https://amzn.to/2VWHLgj Hear about how industry leaders are building data lakes with Amazon S3 and getting faster, more ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "teyfv9r_d6c",
+        "title": "Accessing Amazon S3 Data from Amazon Quicksight",
+        "date": "2017-05-01T17:34:25Z",
+        "description": "Accessing Amazon S3 Data From Amazon Quicksight. Learn more about Amazon Quicksight at - http://amzn.to/2q8vlWz."
+    },
+    {
+        "service": "s3",
+        "videoId": "vXxvYoGWPmg",
+        "title": "Amazon S3 - Downloading an Object",
+        "date": "2013-12-10T17:15:27Z",
+        "description": "For more information, see the Amazon S3 Console User Guide: http://docs.amazonwebservices.com/AmazonS3/latest/UG/Welcome.html."
+    },
+    {
+        "service": "s3",
+        "videoId": "Aa9OOwQduLI",
+        "title": "Introducing S3 Batch Operations and S3 Intelligent-Tiering",
+        "date": "2018-11-30T20:59:17Z",
+        "description": "Since its introduction in 2006, Amazon S3 has been constantly innovating on behalf of our customers to make cloud storage easy and cost effective. Now with S3 ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "tVFYicRxuVg",
+        "title": "Amazon Simple Storage Service（S3）入門（日本語字幕）",
+        "date": "2014-10-28T20:53:08Z",
+        "description": "Learn more: http://aws.amazon.com/s3/ Introduction to Amazon Simple Storage Service (S3): Learn about Amazon S3 key concepts and best practices."
+    },
+    {
+        "service": "s3",
+        "videoId": "bfGdPydEX1c",
+        "title": "Oracle RMAN and Amazon S3 - Starting an Oracle Database EC2 Instance",
+        "date": "2012-10-01T18:07:47Z",
+        "description": ""
+    },
+    {
+        "service": "s3",
+        "videoId": "hNzJovQR7j8",
+        "title": "Cost-Effective Data Management with S3 Batch Operations and the S3 Storage Classes",
+        "date": "2019-06-20T21:17:15Z",
+        "description": "As your data lake grows, it becomes increasingly important to manage objects at scale and optimize storage costs and resources. In this session, AWS experts ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "5t1lEmLRTNc",
+        "title": "AWS Tape Gateway Integration with Amazon S3 Glacier Deep Archive",
+        "date": "2019-06-04T16:00:00Z",
+        "description": "Learn more about AWS Storage Gateway at – https://amzn.to/2KjvkbU In this video, Mohamed Adly, Global Solutions Architect for AWS, demonstrates how AWS ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "yS0wzJBhLfc",
+        "title": "Amazon S3 - Managing Bucket Website Configuration",
+        "date": "2013-12-10T17:14:46Z",
+        "description": "For more information, see the Amazon S3 Console User Guide: http://docs.amazonwebservices.com/AmazonS3/latest/UG/Welcome.html."
+    },
+    {
+        "service": "s3",
+        "videoId": "_FHRzq7eHQc",
+        "title": "AWS re:Invent 2014 | (PFC403) Maximizing Amazon S3 Performance",
+        "date": "2014-11-14T23:04:44Z",
+        "description": "This session drills deep into the Amazon S3 technical best practices that help you maximize storage performance for your use case. We provide real-world ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "BR4vmluaL5U",
+        "title": "How Snapper Further Protects Data in Amazon S3 Using CWP for Storage",
+        "date": "2018-09-28T16:43:09Z",
+        "description": "Learn more about Amazon S3 at - https://amzn.to/2xY7tqy. Snapper, a New Zealand-based company that develops custom account-based solutions, was ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "i0v3lQENN68",
+        "title": "Wave on Moving RDS data to S3 at Scale Using Lambda, Cloudformation, and DMS",
+        "date": "2018-10-08T18:05:07Z",
+        "description": "Startup Central Talks from the 2018 AWS Toronto Summit. Learn more about AWS at - https://amzn.to/2zZtCqv. Michael Warkentin, Operations Engineer at Wave ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "w8ja1EAmd3s",
+        "title": "Deep Dive On Object Storage: Amazon S3 and Amazon Glacier - Part 2: Timothy Eckersley",
+        "date": "2017-09-11T16:33:57Z",
+        "description": "Learn more about AWS at - http://amzn.to/2gaEzys. Part 2: Digitising Pathology. The critical objectives faced by NSW Pathology."
+    },
+    {
+        "service": "s3",
+        "videoId": "GrxlP39ye20",
+        "title": "S3 Batch Operations: Set Up Permissions",
+        "date": "2019-03-19T16:00:04Z",
+        "description": "Learn more about Amazon S3 at – https://amzn.to/2FceYgY With S3 Batch Operations, you can take action against hundreds, millions, and even billions of ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "DdEbC6t6gBY",
+        "title": "How To: Set Up Amazon S3 Lifecycle Policies",
+        "date": "2016-04-08T21:14:26Z",
+        "description": "Learn more about Amazon S3 Lifecycle Management at - http://amzn.to/1TEJ3It Learn how to set up Amazon S3 Lifecycle Policies quickly with Matt Wood from ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "bi6LnfFTChk",
+        "title": "AWS Summit Series 2016 | Chicago - Deep Dive on Amazon S3",
+        "date": "2016-04-22T21:00:04Z",
+        "description": "Come learn about new and existing Amazon S3 features that can help you better protect your data, save on cost, and improve usability, security, and ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "1gY3kzn8ZLA",
+        "title": "Expedia Gains Data Accessibility by Standardizing Its Data Storage on Amazon S3",
+        "date": "2020-02-26T17:00:01Z",
+        "description": "In this episode of AWS Coffee Break, Robbie Wright from AWS and Clay Garrard from Expedia discuss using key tools for analytics as well as challenges around ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "Af5x01wPMc4",
+        "title": "Expedia Maintains Its Leadership by Leveraging Amazon S3 and Automatic Replication",
+        "date": "2020-02-26T17:00:05Z",
+        "description": "In this episode of AWS Coffee Break, Robbie Wright from AWS and Clay Garrard from Expedia discuss how Amazon S3 and automatic replication help Expedia ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "7sNUOFYWaOg",
+        "title": "Amazon Athena Adds Support for Querying Encrypted Data in Amazon S3",
+        "date": "2017-04-05T20:35:31Z",
+        "description": "Amazon Athena is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL, and Athena now supports querying ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "wEM0-IBAcQU",
+        "title": "Amazon S3: Introduction to Access Management &amp; Security",
+        "date": "2019-03-19T16:00:06Z",
+        "description": "Learn more about Amazon S3 at – https://amzn.to/2Hqujhq When data is stored in Amazon S3, the resource owners and account administrators can configure ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "oSdaEQnlUpY",
+        "title": "How BBC iPlayer Uses Amazon S3 Multi-Part Copy",
+        "date": "2017-07-10T16:30:10Z",
+        "description": "BBC present their iPlayer solution that uses Amazon S3, taking as input content from the broadcast chain, adds broadcast time series data and publishes ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "plpc5U2VgbY",
+        "title": "Photobox Migrates to Amazon S3 with AWS Snowball Edge to Reduce Costs &amp; Accelerate Innovation",
+        "date": "2018-07-24T15:52:42Z",
+        "description": "Learn more about Amazon S3 at - https://amzn.to/2uHYXuM. Photobox wanted to get out of the business of owning and maintaining their own IT infrastructure so ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "azTCZRBe6SA",
+        "title": "Serverless Automated Translation Using S3 and Lambda",
+        "date": "2020-04-30T21:21:21Z",
+        "description": "Learn how you can use bring automated natural language translation into your applications with minimal code. This solution uses Amazon Translate to ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "aFch7Ux9zC8",
+        "title": "Amazon S3 - Editing Bucket Permissions",
+        "date": "2013-12-10T17:15:13Z",
+        "description": "For more information, see the Amazon S3 Console User Guide: http://docs.amazonwebservices.com/AmazonS3/latest/UG/Welcome.html."
+    },
+    {
+        "service": "s3",
+        "videoId": "gchd2sDhSuY",
+        "title": "NEW LAUNCH! Intro to Amazon Redshift Spectrum: Now Query Exabytes of Data in S3",
+        "date": "2017-04-24T17:29:55Z",
+        "description": "Learn more about AWS at - http://amzn.to/2pt5V5R Amazon Redshift Spectrum is a new feature that extends Amazon Redshift's analytics capabilities beyond the ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "s6_Nczvb4Mc",
+        "title": "How to Insert new Salesforce Records with Data in Amazon S3 Using Amazon AppFlow",
+        "date": "2020-09-18T17:40:50Z",
+        "description": "Amazon AppFlow is an integration service that enables you to securely transfer data between SaaS applications like Salesforce, Marketo, Slack, and ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "o0g34887cTw",
+        "title": "Oracle RMAN and Amazon S3 - Restoring the Database",
+        "date": "2012-10-01T18:09:09Z",
+        "description": ""
+    },
+    {
+        "service": "s3",
+        "videoId": "_TLBdCImHQg",
+        "title": "Oracle RMAN and Amazon S3 - Configuring Your Oracle Database",
+        "date": "2012-10-01T18:08:36Z",
+        "description": ""
+    },
+    {
+        "service": "s3",
+        "videoId": "OG_HgIpr4Ls",
+        "title": "Oracle RMAN and Amazon S3 - Creating a Key Pair",
+        "date": "2012-10-01T18:07:25Z",
+        "description": ""
+    },
+    {
+        "service": "s3",
+        "videoId": "sMvrx8exfek",
+        "title": "Internet Protocol Version 6 (IPv6) Support for Amazon S3",
+        "date": "2016-08-11T17:51:32Z",
+        "description": "Learn more about Internet Protocol Version 6 (IPv6) Support for Amazon S3 at - http://amzn.to/2aZJcUe. Amazon S3 now supports the IPv6 protocol, ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "dKE1GvHce5I",
+        "title": "How can I grant my Amazon EC2 instance access to an Amazon S3 bucket in another AWS account?",
+        "date": "2019-11-06T15:28:16Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2kG1PXk Youssef, an AWS Cloud Support Engineer, shows you how to grant your Amazon EC2 ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "JkpYs_jaBNk",
+        "title": "Amazon S3 - Browsing the Objects in Your Bucket",
+        "date": "2013-12-10T17:17:46Z",
+        "description": "For more information, see the Amazon S3 Console User Guide: http://docs.amazonwebservices.com/AmazonS3/latest/UG/Welcome.html."
+    },
+    {
+        "service": "s3",
+        "videoId": "rSvfq7E5uzQ",
+        "title": "Niyo Uses Amazon S3 and Amazon VPC to Make Banking Smarter, Simpler &amp; Safer",
+        "date": "2019-06-12T16:00:14Z",
+        "description": "To learn more about how AWS supports Startups, please visit - https://amzn.to/2K8hObV. NiYO is a fintech company founded in 2015 that offers digital banking ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "T0E_4vaenso",
+        "title": "Amazon S3 - Deleting a Bucket",
+        "date": "2013-12-10T17:16:42Z",
+        "description": "For more information, see the Amazon S3 Console User Guide: http://docs.amazonwebservices.com/AmazonS3/latest/UG/Welcome.html."
+    },
+    {
+        "service": "s3",
+        "videoId": "h4uZo370DSs",
+        "title": "Amazon S3 - Deleting an Object",
+        "date": "2013-12-10T17:16:08Z",
+        "description": "For more information, see the Amazon S3 Console User Guide: http://docs.amazonwebservices.com/AmazonS3/latest/UG/Welcome.html."
+    },
+    {
+        "service": "s3",
+        "videoId": "RIZxALxo-nQ",
+        "title": "Cevo Australia: Immutable Jenkins Build Pipelines with Artifactory and Amazon S3",
+        "date": "2017-11-13T16:59:57Z",
+        "description": "On this episode of This Is My Architecture, Owen Chung from Cevo Australia talks about their Potato Cannon solution. An immutable Jenkins build pipeline using ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "JuffWMBeJkw",
+        "title": "Masterclass Webinar: Amazon S3 Demo",
+        "date": "2013-01-23T20:54:13Z",
+        "description": "Learn how to get started with the S3 APIs using the Python boto library. Use an EC2 instance with IAM roles to get started in 5 minutes. You also learn how to ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "G73Y7DEGQxQ",
+        "title": "Amazon S3 - Copying an Object",
+        "date": "2013-12-10T17:17:35Z",
+        "description": "For more information, see the Amazon S3 Console User Guide: http://docs.amazonwebservices.com/AmazonS3/latest/UG/Welcome.html."
+    },
+    {
+        "service": "s3",
+        "videoId": "09t_cdJm_j8",
+        "title": "Baseline Bits 06: S3 Bucket Access Management and Configuration",
+        "date": "2019-07-24T16:56:15Z",
+        "description": "Learn more about the baseline! Visit the APN Technical Baseline Review page: https://amzn.to/2y7A1hv This episode covers the Technical Baseline Review ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "2uF7DXDkg_E",
+        "title": "Amazon S3 - Disable Object Expiration Rule",
+        "date": "2013-12-10T17:15:41Z",
+        "description": "For more information, see the Amazon S3 Console User Guide: http://docs.amazonwebservices.com/AmazonS3/latest/UG/Welcome.html."
+    },
+    {
+        "service": "s3",
+        "videoId": "xGawHAEciYo",
+        "title": "Oracle RMAN and Amazon S3 - Connecting to Amazon EC2",
+        "date": "2012-10-01T18:08:18Z",
+        "description": ""
+    },
+    {
+        "service": "s3",
+        "videoId": "U6Q_oXKbumg",
+        "title": "Amazon S3 Intelligent-Tiering: Adds automatic archiving",
+        "date": "2020-11-09T20:38:32Z",
+        "description": "S3 Intelligent-Tiering now supports automatic data archiving to further optimize storage costs when data access patterns change and subsets of objects become ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "fMuPpb_dzUk",
+        "title": "Amazon S3 - Deleting a Folder",
+        "date": "2013-12-10T17:16:27Z",
+        "description": "For more information, see the Amazon S3 Console User Guide: http://docs.amazonwebservices.com/AmazonS3/latest/UG/Welcome.html."
+    },
+    {
+        "service": "s3",
+        "videoId": "PEO0TpaBbPw",
+        "title": "Build with Amazon Sumerian | S3 E18 – Using Dynamic Content for Virtual Host Presentations",
+        "date": "2019-06-19T23:19:04Z",
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we welcome AWS ProServe ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "nu2_Dyl8viA",
+        "title": "S3 Launch Annoucement",
+        "date": "2019-05-24T16:18:00Z",
+        "description": "https://aws.amazon.com/developer/community/twitch/ Missed the AWS Sydney Summit 2019? Learn how cloud technology can help your business lower costs, ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "dZOQb7TWT4c",
+        "title": "Optimizing costs with S3 Intelligent-Tiering Archive Access Tiers – Demo",
+        "date": "2020-11-09T20:34:36Z",
+        "description": "Amazon S3 provides developers and IT teams with an object storage service that offers industry-leading scalability, data availability, security, and performance."
+    },
+    {
+        "service": "s3",
+        "videoId": "5TdhpOJmwdA",
+        "title": "Build with Amazon Sumerian | S3 E15 – Button: A VR Escape Room",
+        "date": "2019-05-13T18:33:30Z",
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we welcome DevPost Hackathon ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "dnZbtPNeZTo",
+        "title": "Build with Amazon Sumerian | S3 E17 – Virtual Banking Assistant using Amazon Sumerian and Amazon Lex",
+        "date": "2019-06-19T23:19:04Z",
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we welcome Saira Shaik, a Sr. Tech ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "xTeFBLf_lJg",
+        "title": "Build with Amazon Sumerian | S3 E5 – Creating a Multiplayer XR Web Application",
+        "date": "2019-02-06T18:35:44Z",
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we have a live builders session using ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "JsfeY_3-G58",
+        "title": "Build with Amazon Sumerian | S3 E4 – Integrating Amazon SageMaker for Reinforcement Learning",
+        "date": "2019-01-30T20:15:32Z",
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we look at how to use Amazon ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "LxPo9zerrQI",
+        "title": "Build with Amazon Sumerian | S3 E8 – Integrating AWS Services - Lex, Lambda, &amp; DynamoDB",
+        "date": "2019-02-27T22:52:46Z",
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we welcome AWS Solutions Architect, ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "2aIXWdW6POY",
+        "title": "Amazon Sumerian | S3 E7 – Integrating Amazon SageMaker for Reinforcement Learning, Pt II",
+        "date": "2019-02-19T22:32:45Z",
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. We recently learned how to start and create a ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "ao2x3sLdXOs",
+        "title": "Build with Amazon Sumerian | S3 E12 – Educational Escape Room",
+        "date": "2019-04-12T17:22:07Z",
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we are excited to invite recent ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "Z4jADiVMPMI",
+        "title": "Build with Amazon Sumerian | S3 E11 – Interview Simulation",
+        "date": "2019-04-05T17:29:24Z",
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we are excited to invite recent ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "_WWO2TVXG44",
+        "title": "Build with Amazon Sumerian | S3 E10 – Virtual Barista",
+        "date": "2019-03-29T17:32:09Z",
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we are excited to invite Solutions ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "gy7Z5aoixbY",
+        "title": "Build with Amazon Sumerian | S3 E6 – Pro Tips: Importing 3D Objects",
+        "date": "2019-02-15T00:25:55Z",
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this stream we're joined by Cris Fudge and Jordan ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "njoYiyIvthA",
+        "title": "Build with Amazon Sumerian | S3 E16 – Sumerian: Using Alexa Skills with Amazon Sumerian",
+        "date": "2019-05-29T20:08:00Z",
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we welcome back AWS Solutions ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "uLz46loJaE0",
+        "title": "Build with Amazon Sumerian | S3 E13 – Create a Digital Asset with Sumerian &amp; AWS IoT",
+        "date": "2019-04-19T22:01:08Z",
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we welcome AWS-Solutions Architect, ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "y8YM2rAsAhY",
+        "title": "EMR Training: Getting Started with EMR (2 of 11)",
+        "date": "2012-07-03T17:56:36Z",
+        "description": "Follow along with Ken Krugler as he explains how to sign up for an AWS account, generate a key-pair, and set up an S3 bucket. Learn more: ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "1D0wRxXRPT0",
+        "title": "Build with Amazon Sumerian | S3 E3 – &quot;Spider-Man: Into the Spider-Verse&quot; AR Experience with 8th Wall",
+        "date": "2019-01-28T18:09:40Z",
+        "description": "In this episode, the Amazon Sumerian team takes a look at real-world, enterprise applications and how to build them. We are joined by 8th Wall, a company that ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "IZcrPAPaGp0",
+        "title": "Build with Amazon Sumerian | S3 E1 – Creating a Multiplayer Video Game",
+        "date": "2019-01-09T23:25:15Z",
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. This week, we are joined by Lane Daughtry, Sr. Design ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "eB6sciqS60Q",
+        "title": "Build with Amazon Sumerian | S3 E14 – Interview Simulation",
+        "date": "2019-04-28T10:45:09Z",
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we are excited to invite recent ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "5DGXPcVKXyw",
+        "title": "AWS re:Invent 2016: Deep Dive: Amazon EMR Best Practices &amp; Design Patterns (BDM401)",
+        "date": "2016-12-01T21:26:55Z",
+        "description": "Amazon EMR is one of the largest Hadoop operators in the world. In this session, we introduce you to Amazon EMR design patterns such as using Amazon S3 ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "d2H5AmZaoCQ",
+        "title": "Build with Amazon Sumerian | S3 E2 – Year in Review and Updates to VR Capabilities",
+        "date": "2019-01-24T18:30:40Z",
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. This week, we are joined by Kyle Roche, General ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "zY-9JwwAt2M",
+        "title": "Build with Amazon Sumerian | S3 E9 – Reviewing the Sumerian Hackathon!",
+        "date": "2019-03-15T15:57:19Z",
+        "description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we look at the winners from our recent ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "4HseALaLllc",
+        "title": "AWS re:Invent 2015 | (BDT305) Amazon EMR Deep Dive and Best Practices",
+        "date": "2015-10-12T17:40:04Z",
+        "description": "Amazon EMR is one of the largest Hadoop operators in the world. In this session, we introduce you to Amazon EMR design patterns such as using Amazon S3 ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "5lA93QzUny8",
+        "title": "EMR Training: Dealing with Data (5 of 11)",
+        "date": "2012-07-03T17:53:57Z",
+        "description": "This video covers S3 architectures, pricing, and access control. Learn more: http://aws.amazon.com/s3/pricing/"
+    },
+    {
+        "service": "s3",
+        "videoId": "JIviltfpul0",
+        "title": "AWS re:Invent 2017: Deep Dive and Best Practices for Amazon Athena (ABD339)",
+        "date": "2017-11-29T16:31:54Z",
+        "description": "Amazon Athena is an interactive query service that enables you to process data directly from Amazon S3 without the need for infrastructure. Since its launch at ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "N_3IaOVcIO0",
+        "title": "AWS re:Invent 2019: [REPEAT] Best practices for Amazon S3 (including storage classes) (STG302-R)",
+        "date": "2019-12-03T17:53:45Z",
+        "description": "Learn best practices for Amazon Simple Storage Service (Amazon S3) security, data protection, storage management, cost optimization, and more. In this ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "2nkF_AK96BE",
+        "title": "AWS re:Invent 2019: [REPEAT 3] Deep dive on Amazon S3 security and management (STG301-R3)",
+        "date": "2019-12-10T18:45:52Z",
+        "description": "Learn best practices for data security in Amazon Simple Storage Service (Amazon S3). In this session, we discuss the fundamentals of Amazon S3 security ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "QGaxUISpt6Y",
+        "title": "AWS re:Invent 2019 Launchpad | S3 Access Points",
+        "date": "2020-03-17T18:51:34Z",
+        "description": "Subscribe: More AWS videos http://bit.ly/2O3zS75 More AWS events videos http://bit.ly/316g9t4 #AWS #reInvent2019 #AWSLaunchpad."
+    },
+    {
+        "service": "s3",
+        "videoId": "VUFX8W8bvjo",
+        "title": "AWS re:Invent 2019: [REPEAT 2] What&#39;s new with Amazon S3 and Amazon S3 Glacier (STG203-R2)",
+        "date": "2019-12-09T18:45:19Z",
+        "description": "Amazon Simple Storage Service (Amazon S3) is the largest and most performant, secure, and feature-rich object-storage service. With Amazon S3 ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "DzRyrvUF-C0",
+        "title": "AWS re:Invent 2019: Beyond eleven nines: Lessons from Amazon S3 culture of durability (STG331-R1)",
+        "date": "2019-12-10T18:45:58Z",
+        "description": "Amazon S3 is well known for being designed for eleven nines of data durability. But durability is much more than a formula and a metric. It influences every ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "kvyP21rJLQs",
+        "title": "[REPEAT] Best practices for Amazon S3 (including storage classes) (STG302-R) - Short",
+        "date": "2020-02-20T19:52:42Z",
+        "description": "In this video, you will learn how Teespring uses Amazon S3 Intelligent-Tiering and S3 Batch Operations to optimize their storage while reducing storage costs."
+    },
+    {
+        "service": "s3",
+        "videoId": "OZ_pYYgl6vU",
+        "title": "AWS re:Invent 2019: Build an in-place Amazon S3 data lake with MongoDB Atlas (ANT240-S)",
+        "date": "2019-12-07T05:56:52Z",
+        "description": "Companies are increasingly turning to Amazon S3 as a storage layer for building data lakes, since on-premises solutions struggle with schema management, ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "9MzaGFdPfg4",
+        "title": "AWS re:Invent 2019: Implementing a data lake on Amazon S3 ft. AppsFlyer (STG359-R1)",
+        "date": "2019-12-04T17:31:48Z",
+        "description": "Flexibility is key when building and scaling a data lake, and by choosing the right storage architecture you will have agility to quickly experiment and migrate with ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "_ckNyL_Nr1A",
+        "title": "AWS re:Invent 2019: Insert, upsert, and delete data in Amazon S3 using Amazon EMR (ANT239)",
+        "date": "2019-12-05T17:48:57Z",
+        "description": "Building data lakes in Amazon S3 offers scale and reliability for open-source data formats and a common data store for both reporting and BI as well as big data ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "ZADHiZa3Hjo",
+        "title": "AWS re:Invent 2019: Amazon S3 &amp; FSx for Lustre: Dive on high-performance file storage (STG307-R1)",
+        "date": "2019-12-07T05:52:53Z",
+        "description": "A technical deep dive into the Amazon FSx for Lustre service that provides customers a fully managed high-performance file system optimized for workloads ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "tGICWSP-kC4",
+        "title": "AWS re:Invent 2019: Managing your data at scale with Amazon S3 storage management tools (STG212)",
+        "date": "2019-12-10T18:45:50Z",
+        "description": "As customers grow to storing millions of objects and terabytes of data or more on Amazon S3, it becomes increasingly valuable to use tools and automation to ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "k9f1TTiqWr4",
+        "title": "Best Practices for Implementing a Data Lake in Amazon S3 - Level 200 (United States)",
+        "date": "2020-07-24T18:58:48Z",
+        "description": "Flexibility is key when building and scaling data lakes, and by choosing the right storage architecture, you can have the agility necessary to quickly experiment ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "UPzsRk2lFWE",
+        "title": "AWS re:Invent 2019: Guidelines and design patterns for optimizing cost in Amazon S3 (STG240-R2)",
+        "date": "2019-12-07T05:52:50Z",
+        "description": "Effective cost optimization across Amazon S3 storage classes can require different approaches, depending on application latency and access patterns. In this ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "R4cTYA6K9jk",
+        "title": "[REPEAT] Best practices for Amazon S3 (including storage classes) (STG302-R) - Teespring&#39;s Data Lake",
+        "date": "2020-02-20T19:43:02Z",
+        "description": "In this video, you will learn how Teespring uses Amazon S3 to build their data lake. Learn more about AWS Cloud Storage at - https://go.aws/2RxuhZ5 ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "lkT_edBvqvo",
+        "title": "AWS re:Invent 2019: Optimize your storage performance with Amazon S3, ft. Lyft (STG343)",
+        "date": "2020-02-24T17:00:11Z",
+        "description": "Learn how Lyft leverages Amazon S3 to democratize data and help accelerate the development of autonomous vehicles. Learn more about AWS Storage at ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "LnNCLoEhbtQ",
+        "title": "AWS re:Invent 2019: Best practises for Amazon S3 ft. Thomson Reuters (STG302-R2) - Long version",
+        "date": "2020-02-24T17:00:06Z",
+        "description": "Learn how Thomson Reuters uses Amazon S3 to archive all their news content by migrating and digitizing the content from tapes. Learn more about AWS ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "T9SQxjMkGb4",
+        "title": "[REPEAT] Best practices for Amazon S3 (STG302-R) - Teespring&#39;s batch operations usage",
+        "date": "2020-02-20T19:45:25Z",
+        "description": "In this video, you will learn how Teespring uses Amazon S3's Batch Operations and Amazon S3 Glacier Deep Archive to optimize storage costs and archive less ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "bqGQBZNtx50",
+        "title": "AWS re:Invent 2019: Implementing a data lake on Amazon S3 ft. Sweetgreen (STG359-R)",
+        "date": "2019-12-03T18:14:31Z",
+        "description": "Flexibility is key when building and scaling a data lake, and by choosing the right storage architecture you will have agility to quickly experiment and migrate with ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "4MxXcwVUB08",
+        "title": "How Thomson Reuters manages content in Amazon S3",
+        "date": "2020-03-03T00:35:57Z",
+        "description": "Learn why Thomson Reuters uses Amazon S3 as their storage solution of choice to manage their content. They leverage S3's lifecycle and bucket policies to ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "Iq9OFE7U67w",
+        "title": "[REPEAT] Best practices for Amazon S3 (STG302-R) - Teespring&#39;s Amazon S3 Intelligent-Tiering usage",
+        "date": "2020-02-20T19:40:08Z",
+        "description": "In this video, you will learn how Teespring uses Amazon S3 Intelligent-Tiering to optimize their storage costs as their storage increases. Learn more about AWS ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "y4hjIMb99ek",
+        "title": "Best practices for Amazon S3 (STG302-R1) - Instructure Benefits",
+        "date": "2020-02-28T17:00:28Z",
+        "description": "Learn how Instructure increased cost savings with S3 lifecycle policies to move data into lower cost tiers, such as Amazon S3 Infrequent Access and Amazon S3 ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "wofu2-Uf9Rg",
+        "title": "How Lyft accelerates its autonomous vehicle development with Amazon S3",
+        "date": "2020-03-02T23:41:15Z",
+        "description": "Learn how Lyft accelerates its autonomous vehicle development by collecting images from around the world to build visual 3D maps. Learn more about AWS ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "zPohTHWLx1c",
+        "title": "Implementing a data lake on Amazon S3 ft. Sweetgreen (STG359-R) - Data Lake",
+        "date": "2020-02-20T19:31:07Z",
+        "description": "In this video, you will learn how Sweetgreen built a data lake on Amazon S3, and how they handle security with IAM roles. Learn more about AWS Cloud ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "1DlG1hwq1pk",
+        "title": "AWS re:Invent 2019: Implementing a data lake on Amazon S3 ft. AppsFlyer (STG333) - Long version",
+        "date": "2020-02-24T17:00:00Z",
+        "description": "Learn how AppsFlyer built their data lake on Amazon S3, and provide user access to petabytes of data. AppsFlyer enjoys the benefits of storing data in multiple ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "mCY6Vnlvktw",
+        "title": "Implementing a data lake on Amazon S3 ft. Sweetgreen (STG359-R) - Data Transformation",
+        "date": "2020-02-20T19:35:33Z",
+        "description": "In this video, you will learn how Sweetgreen transforms and/or translates their data before they move the data into their data lake built on Amazon S3."
+    },
+    {
+        "service": "s3",
+        "videoId": "ecopVAWVCIg",
+        "title": "AWS re:Invent 2019: Implementing a data lake on Amazon S3 ft. AppsFlyer (STG333) - benefits",
+        "date": "2020-02-24T17:00:17Z",
+        "description": "Learn how AppsFlyer stores data in multiple S3 storage classes, including S3 Intelligent -Tiering, S3 Infrequent Access and more. AppsFlyer optimizes their ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "9qvitdtDCKw",
+        "title": "Implementing a data lake on Amazon S3 ft. Sweetgreen (STG359-R) - Use of Amazon S3 Tiers",
+        "date": "2020-02-20T19:36:41Z",
+        "description": "In this video, Sweetgreen shares how they use Amazon S3 Standard and Amazon S3 Infrequent Access to host their data. Learn more about AWS Cloud ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "LoO_IPYI_xQ",
+        "title": "Implementing a data lake on Amazon S3 ft. Sweetgreen (STG359-R) - Data Privacy Compliance",
+        "date": "2020-02-20T19:37:54Z",
+        "description": "In this video, Sweetgreen shares how they ensure their data lake is fully anonymized to meet compliance and privacy regulations. Learn more about AWS Cloud ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "8OQ3kWwNAY0",
+        "title": "Implementing a data lake on Amazon S3 ft. Sweetgreen (STG359-R) - Short",
+        "date": "2020-02-20T19:49:08Z",
+        "description": "In this video, you will learn how Sweetgreen uses Amazon S3 to build their data lake. Learn more about AWS Cloud Storage at https://go.aws/3aUjZKm ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "U74vOMzUBoI",
+        "title": "AWS re:Invent 2019: Five data lake considerations w/ Amazon Redshift, Amazon S3 &amp; AWS Glue (DEM19-S)",
+        "date": "2019-12-07T05:58:54Z",
+        "description": "Building a data lake can be a headache. More often than not, they end up becoming data swamps—bottomless pits that suck up development resources and ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "tzoXRRCVmIQ",
+        "title": "AWS re:Invent 2019: [REPEAT 1] Deep dive into Amazon Athena (ANT307-R1)",
+        "date": "2019-12-05T17:49:00Z",
+        "description": "Amazon Athena is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL. Athena is serverless, so there is no ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "ttCAqwnN_Qo",
+        "title": "Amazon FSx for Lustre: Persistent Storage Overview",
+        "date": "2020-04-23T18:10:57Z",
+        "description": "Amazon FSx for Lustre is a fully managed high-performance file system integrated with S3 and makes it easy and cost-effective to run the world's most popular ..."
+    },
+    {
+        "service": "s3",
+        "videoId": "oIUlRe-Ha8Q",
+        "title": "How Thomson Reuters migrated content distribution network to the cloud",
+        "date": "2020-03-03T00:35:57Z",
+        "description": "Learn how Thomson Reuters manages and shares content contributed by partners and third parties using Amazon S3 and Amazon Cloudfront. Learn more ..."
+    },
+    {
+        "service": "s3",
         "videoId": "rHeTn9pHNKo",
         "tags": [
             "re:Invent 2018",
