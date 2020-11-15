@@ -1,6 +1,104 @@
 [
     {
         "service": "cloudfront",
+        "videoId": "C1tvDZmZEL0",
+        "title": "JioSaavn Uses Amazon CloudFront to Stream Music and Video to Millions of Subscribers Daily",
+        "date": "2019-06-05T21:34:52Z",
+        "description": "Find out how to securely deliver audio and video to customers globally with low latency and high performance using Amazon CloudFront: ..."
+    },
+    {
+        "service": "cloudfront",
+        "videoId": "pEd2iGyA1Kc",
+        "title": "AWS re:Invent 2018: Four Ways to Leverage CloudFront in Faster DevOps Workflows (CTD409)",
+        "date": "2018-11-30T16:39:02Z",
+        "description": "Increase your organization's agility by diving deep and discovering how Amazon CloudFront integrates with other services to accelerate your DevOps workflows."
+    },
+    {
+        "service": "cloudfront",
+        "videoId": "gcq5kE496NA",
+        "title": "Earth Networks on AWS - CloudFront Success Story",
+        "date": "2012-12-21T20:52:41Z",
+        "description": "Earth Networks manages and operates sensor networks that collect real-time weather and lightning data. The company then distributes observations from these ..."
+    },
+    {
+        "service": "cloudfront",
+        "videoId": "eorGJL-LkJc",
+        "title": "AWS re:Invent 2015 | (STG205) Secure Content Delivery Using Amazon CloudFront",
+        "date": "2015-10-10T01:31:25Z",
+        "description": "Whether you are building an e-commerce site or a business application, security is a key consideration when architecting your website or application. In this ..."
+    },
+    {
+        "service": "cloudfront",
+        "videoId": "AT5oTtKATOU",
+        "title": "The AWS Report - Nihar Bihani, Amazon CloudFront",
+        "date": "2013-08-21T15:27:02Z",
+        "description": "Join Jeff Barr of Amazon Web Services to listen as Nihar Bihani discusses Amazon CloudFront. Then, go behind the scenes with co-host Lee Zen as he talks ..."
+    },
+    {
+        "service": "cloudfront",
+        "videoId": "oxLzc6KqTSg",
+        "title": "Web Applications: Enabling Content Distribution [Amazon CloudFront]",
+        "date": "2012-06-14T14:29:04Z",
+        "description": "Amazon CloudFront is a content delivery service from Amazon Web Services that helps you improve the performance, reliability, and availability of your websites ..."
+    },
+    {
+        "service": "cloudfront",
+        "videoId": "FMBhWk0z7og",
+        "title": "AWS Report with Alex Dunlap, AWS CloudFront",
+        "date": "2012-06-06T17:19:21Z",
+        "description": "Alex Dunlap, Senior Manager of CloudFront talks about the new jobs openings in his team."
+    },
+    {
+        "service": "cloudfront",
+        "videoId": "d1VNVTQMHwo",
+        "title": "AWS Webcast - Using Amazon CloudFront-Accelerate Static, Dynamic, Interactive Content",
+        "date": "2013-11-22T23:53:12Z",
+        "description": "Amazon CloudFront AWS's easy-to-use and cost-effective content delivery service, recently added support for five additional HTTP methods: POST, PUT, ..."
+    },
+    {
+        "service": "cloudfront",
+        "videoId": "6uLUbTauEPQ",
+        "title": "AWS Webinar - Introduction to Amazon Cloudfront 13-09-17",
+        "date": "2013-09-19T17:03:51Z",
+        "description": "End users expect to be able to view media content anytime, anywhere, and on any device. Amazon CloudFront is a web service for content delivery used to ..."
+    },
+    {
+        "service": "cloudfront",
+        "videoId": "3HhjoLI7Ye8",
+        "title": "AWS Cloud Storage NY 2012: Content Delivery with Amazon CloudFront",
+        "date": "2012-06-15T17:57:43Z",
+        "description": "Learn about AWS Content Delivery with Cloudfront from John Mancuso (AWS Solutions Architect). Learn more: http://aws.amazon.com/cloudfront/"
+    },
+    {
+        "service": "cloudfront",
+        "videoId": "NfBv-FUpIHE",
+        "title": "AWS Summit 2012 | India - CloudFront &amp; Serving Media from the Edge - Kingsley Wood",
+        "date": "2012-10-09T01:41:26Z",
+        "description": "The explosion of media content makes the Internet richer and more dynamic, but it also poses challenges for IT. What happens if your website becomes instantly ..."
+    },
+    {
+        "service": "cloudfront",
+        "videoId": "U-m_i1fmsU0",
+        "title": "AWS Knowledge Center Videos: How Do I Mitigate DDos with the CloudFront Geo Restriction?",
+        "date": "2019-04-09T16:06:04Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2KktIjB Behnaz, an AWS Support Team Member, shows you how to mitigate DDos with the ..."
+    },
+    {
+        "service": "cloudfront",
+        "videoId": "sLZO02ZDdpY",
+        "title": "Innovación en AWS - Edge Computing - El nuevo paradigma [Spanish]",
+        "date": "2017-10-04T17:36:23Z",
+        "description": "AWS Summit Series 2017 - Madrid, Spain Aceleración de contenidos con AWS Lambda@Edge y AWS CloudFront sin necesidad de aprovisionar y gestionar ..."
+    },
+    {
+        "service": "cloudfront",
+        "videoId": "HuqkMxejvr8",
+        "title": "Kumparan Enjoys Rapid Scale and Time to Market with AWS",
+        "date": "2019-07-11T18:25:53Z",
+        "description": "Learn how you can leverage Amazon Elastic Kubernetes Services (https://amzn.to/30vf6kS) and Amazon CloudFront https://amzn.to/2ScojeF for your business."
+    },
+    {
+        "service": "cloudfront",
         "videoId": "AT-nHW3_SVI",
         "tags": [
             "AWS",
