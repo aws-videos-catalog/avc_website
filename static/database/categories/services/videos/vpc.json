@@ -1,6 +1,132 @@
 [
     {
         "service": "vpc",
+        "videoId": "DLB2yNDyFmM",
+        "title": "How do I resolve Amazon VPC peering network connectivity issues?",
+        "date": "2020-09-10T14:27:27Z",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/vpc-peering-connectivity/ ..."
+    },
+    {
+        "service": "vpc",
+        "videoId": "ykmqjgLdmL4",
+        "title": "AWS re:Invent 2015: From One to Many - Evolving VPC Design (ARC403)",
+        "date": "2015-10-10T00:00:13Z",
+        "description": "Learn the evolution of a single regional VPC into a multi-VPC, multiregion design with diverse connectivity into on-premises systems and infrastructure."
+    },
+    {
+        "service": "vpc",
+        "videoId": "wlsVsEwnBxA",
+        "title": "Enable Amazon VPC Access for AWS CodeBuild",
+        "date": "2020-10-21T19:02:35Z",
+        "description": "In this video, you'll see how to enable Amazon Virtual Private Cloud (Amazon VPC) access for AWS CodeBuild projects. With this solution, you can increase the ..."
+    },
+    {
+        "service": "vpc",
+        "videoId": "TzhdZTv2mX4",
+        "title": "¿Qué es una interfaz para puntos de enlace de VPC y cómo puedo crearla para mi VPC?",
+        "date": "2020-06-16T20:22:56Z",
+        "description": "Para obtener más detalles, consulte el artículo del Centro de conocimiento con este video: ..."
+    },
+    {
+        "service": "vpc",
+        "videoId": "jy5H6Sd7sT0",
+        "title": "如何修改 Amazon Virtual Private Cloud (VPC) 或 VPC 子网的 IP 地址范围？",
+        "date": "2019-10-24T21:20:24Z",
+        "description": "要了解更详细的信息，请参阅AWS知识中心页面：https://amzn.to/2PtS6ya Yu 帮助您修改VPC 或VPC 子网的IP 地址范围."
+    },
+    {
+        "service": "vpc",
+        "videoId": "3qln2u1Vr2E",
+        "title": "AWS re:Invent 2015 | (NET403) Another Day, Another Billion Packets",
+        "date": "2015-10-10T00:54:20Z",
+        "description": "In this session, we walk through the Amazon VPC network presentation and describe the problems we were trying to solve when we created it. Next, we walk ..."
+    },
+    {
+        "service": "vpc",
+        "videoId": "Zd5hsL-JNY4",
+        "title": "A Day in the Life of a Billion Packets (CPN401) | AWS re:Invent 2013",
+        "date": "2013-11-26T19:52:25Z",
+        "description": "In this talk, we walk through the VPC network presentation, and describe the problems we were trying to solve. Next, we walk through how these problems are ..."
+    },
+    {
+        "service": "vpc",
+        "videoId": "D1n5kDTWidQ",
+        "title": "AWS re:Invent 2018: Introduction to Amazon Route 53 Resolver for Hybrid Cloud (NET215)",
+        "date": "2018-12-05T21:24:04Z",
+        "description": "Amazon Route 53 Resolver provides recursive DNS for your Amazon VPC and on-premises networks over VPN or AWS Direct Connect. This session will review ..."
+    },
+    {
+        "service": "vpc",
+        "videoId": "8gc2DgBqo9U",
+        "title": "AWS re:Invent 2017: Another Day, Another Billion Flows (NET405)",
+        "date": "2017-11-30T15:55:35Z",
+        "description": "In this session, we walk through the Amazon VPC network and describe the problems we were solving when we created it, and the features we've been adding ..."
+    },
+    {
+        "service": "vpc",
+        "videoId": "-klyaq9R0XU",
+        "title": "AWS re:Invent 2014 | (ARC401) Black-Belt Networking for the Cloud Ninja",
+        "date": "2014-11-17T23:42:00Z",
+        "description": "Do you need to get beyond the basics of VPC and networking in the cloud? Do terms like virtual addresses, integrated networks and network monitoring get you ..."
+    },
+    {
+        "service": "vpc",
+        "videoId": "St3SE4LWhKo",
+        "title": "AWS re:Invent 2016: Another Day, Another Billion Packets (NET401)",
+        "date": "2016-12-03T20:08:36Z",
+        "description": "In this session, we walk through the Amazon VPC network presentation and describe the problems we were trying to solve when we created it. Next, we walk ..."
+    },
+    {
+        "service": "vpc",
+        "videoId": "8C9xNVYbCVk",
+        "title": "AWS re:Invent 2017: A Day in the Life of a Cloud Network Engineer at Netflix (NET303)",
+        "date": "2017-11-30T17:20:02Z",
+        "description": "Netflix is big and dynamic. At Netflix, IP addresses mean nothing in the cloud. This is a big challenge with Amazon VPC Flow Logs. VPC Flow Log entries only ..."
+    },
+    {
+        "service": "vpc",
+        "videoId": "bEcJk7lvaUw",
+        "title": "What’s New with AWS – Week of November 6, 2017",
+        "date": "2017-11-14T19:56:31Z",
+        "description": "Learn what's new with AWS at - http://amzn.to/2zf0z27. Find out what's new with EC2, Application Auto Scaling and VPC Endpoints."
+    },
+    {
+        "service": "vpc",
+        "videoId": "zPovlZxuZ-c",
+        "title": "Simplify Traffic Monitoring and Visibility with Amazon VPC Traffic Mirroring - AWS Online Tech Talks",
+        "date": "2019-07-23T21:43:23Z",
+        "description": "Learn the benefits of traffic visibility **Learn how to effectively monitor your VPC traffic **Learn how to deploy third-party traffic monitoring solutions that leverage ..."
+    },
+    {
+        "service": "vpc",
+        "videoId": "JLbHHEYlHU8",
+        "title": "Configuring VPC Traffic Mirroring",
+        "date": "2019-07-16T21:29:49Z",
+        "description": "Highlights from the actual configuration of VPC Traffic Mirroring, issues and all! -- Watch live at https://www.twitch.tv/chriscallas."
+    },
+    {
+        "service": "vpc",
+        "videoId": "60nFZ3rz3Ec",
+        "title": "AWS re:Inforce 2019: Network Visibility into the Traffic Traversing Your AWS Infrastructure (SEP209)",
+        "date": "2019-06-26T22:03:31Z",
+        "description": "Having visibility into the Amazon VPC infrastructure is a foundational element that any cloud administrator needs to maintain and operate an AWS infrastructure ..."
+    },
+    {
+        "service": "vpc",
+        "videoId": "UqgVESJc_yc",
+        "title": "AWS re:Invent 2019: [REPEAT] Detect network and security anomalies with Traffic Mirroring (MKT203-R)",
+        "date": "2019-12-03T18:00:33Z",
+        "description": "Traffic Mirroring is a new Amazon Virtual Private Cloud (VPC) feature that allows customers to gain insight into the network traffic across their VPC infrastructure ..."
+    },
+    {
+        "service": "vpc",
+        "videoId": "zd9n5I1s1Xo",
+        "title": "AWS re:Invent 2019: Detect network and security anomalies with Traffic Mirroring (MKT203-R1)",
+        "date": "2019-12-04T17:26:12Z",
+        "description": "Traffic Mirroring is a new Amazon Virtual Private Cloud (VPC) feature that allows customers to gain insight into the network traffic across their VPC infrastructure ..."
+    },
+    {
+        "service": "vpc",
         "videoId": "t7keOHhYYE0",
         "tags": [
             "AWS",
