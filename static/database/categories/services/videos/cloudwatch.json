@@ -1,6 +1,76 @@
 [
     {
         "service": "cloudwatch",
+        "videoId": "PBO636_t9n0",
+        "title": "Introduction to Amazon CloudWatch Application Insight - Amazon Web Services (AWS)",
+        "date": "2020-10-16T21:24:11Z",
+        "description": "Easily add and manage monitoring for your enterprise applications running in AWS. Amazon CloudWatch Application Insights automates the setup of enterprise ..."
+    },
+    {
+        "service": "cloudwatch",
+        "videoId": "6b_ENVFgCpA",
+        "title": "Monitor AWS CloudTrail Log Data in Amazon CloudWatch",
+        "date": "2020-09-30T18:00:33Z",
+        "description": "In this video, you'll see how to monitor AWS CloudTrail log data in Amazon CloudWatch. With CloudWatch, you can visualize and explore your CloudTrail logs, ..."
+    },
+    {
+        "service": "cloudwatch",
+        "videoId": "U-t45TwOVCc",
+        "title": "Why can&#39;t I see CloudWatch logs for an AWS DMS task?",
+        "date": "2020-08-28T15:24:54Z",
+        "description": "For more details see the Knowledge Center article with this video: ..."
+    },
+    {
+        "service": "cloudwatch",
+        "videoId": "tK7mXA4NRdM",
+        "title": "How do I monitor my task by using CloudWatch metrics in AWS Database Migration Service (AWS DMS)?",
+        "date": "2020-01-13T19:17:07Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/36kIVsa Daniel, an AWS Cloud Support Engineer, shows you how to monitor your task by using ..."
+    },
+    {
+        "service": "cloudwatch",
+        "videoId": "hXDuUblkwos",
+        "title": "EKoSystem Day on twitch.tv/aws | Distributed Monitoring of EKS with CloudWatch and Weave Cloud",
+        "date": "2018-07-24T00:21:56Z",
+        "description": "Catch up on past live streams and see the upcoming schedule at - https://amzn.to/2O7OLDU. Amazon EKS enables developers to run Kubernetes on AWS ..."
+    },
+    {
+        "service": "cloudwatch",
+        "videoId": "B7p3MeGxs0Y",
+        "title": "How do I set human-readable CloudWatch Events notifications for API calls using input transformers?",
+        "date": "2020-10-15T21:44:32Z",
+        "description": "For more details see the Knowledge Center article with this video: ..."
+    },
+    {
+        "service": "cloudwatch",
+        "videoId": "4ExkEX3ftFs",
+        "title": "AWS re: Invent RMG 203: Cloud Infrastructure and Application Monitoring with Amazon CloudWatch",
+        "date": "2012-12-05T18:29:06Z",
+        "description": "Amazon CloudWatch provides AWS customers the monitoring platform for keeping tabs on their cloud infrastructure and applications. In this session, we show ..."
+    },
+    {
+        "service": "cloudwatch",
+        "videoId": "cscA8A6hhT8",
+        "title": "How to Setup CloudWatch Events to Get Flow Notifications from Amazon AppFlow",
+        "date": "2020-11-04T19:22:52Z",
+        "description": "Amazon AppFlow is an integration service that helps you securely transfer data between SaaS applications (like Salesforce, Marketo, Slack) and AWS services ..."
+    },
+    {
+        "service": "cloudwatch",
+        "videoId": "x4GkAGe65vE",
+        "title": "AWS re:Invent 2016: Automating Security Event Response, from Idea to Code to Execution (SEC313)",
+        "date": "2016-12-01T22:03:03Z",
+        "description": "With security-relevant services such as AWS Config, VPC Flow Logs, Amazon CloudWatch Events, and AWS Lambda, you now have the ability to ..."
+    },
+    {
+        "service": "cloudwatch",
+        "videoId": "M9e53kPTxAk",
+        "title": "AWS Container Day - CloudWatch Container Insights Now Monitors Prometheus Metrics",
+        "date": "2020-08-31T16:31:10Z",
+        "description": "You can use Amazon CloudWatch to monitor Prometheus metrics from Amazon Elastic Kubernetes Service (EKS) and Kubernetes clusters, now available in ..."
+    },
+    {
+        "service": "cloudwatch",
         "videoId": "uuBuc6OAcVY",
         "tags": [
             "re:Invent 2018",
