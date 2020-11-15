@@ -1,6 +1,13 @@
 [
     {
         "service": "mediapackage",
+        "videoId": "17h5et2X0I4",
+        "title": "AWS Elemental MediaPackage Explained",
+        "date": "2018-06-22T15:18:10Z",
+        "description": "Easily prepare and protect video for delivery to Internet devices using the AWS Cloud. Learn more at https://aws.amazon.com/mediapackage/."
+    },
+    {
+        "service": "mediapackage",
         "videoId": "GHZWrneWXx8",
         "tags": [
             "AWS",
