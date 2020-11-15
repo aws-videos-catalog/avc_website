@@ -1,6 +1,90 @@
 [
     {
         "service": "dynamodb",
+        "videoId": "hXL5z1TaqTk",
+        "title": "Create a REST API Integrated with Amazon DynamoDB: A Tutorial Using AWS Amplify and Vue",
+        "date": "2020-09-17T16:49:21Z",
+        "description": "This video will demonstrate how to easily create a REST API integrated with Amazon DynamoDB using AWS Amplify and how to consume it from a client using ..."
+    },
+    {
+        "service": "dynamodb",
+        "videoId": "nMhWJJACZSA",
+        "title": "Amazon DynamoDB - What&#39;s It All About?",
+        "date": "2012-02-06T19:40:33Z",
+        "description": "Amazon DynamoDB is a fully managed NoSQL database service that provides fast and predictable performance with seamless scalability. Amazon DynamoDB ..."
+    },
+    {
+        "service": "dynamodb",
+        "videoId": "uAUYphLWL5w",
+        "title": "Getting Started with Fine-Grained Access Control for DynamoDB",
+        "date": "2013-10-31T16:14:48Z",
+        "description": "Amazon DynamoDB's Fine-Grained Access Control feature allows you to rely on the database engine itself, not application logic, to enforce access control to ..."
+    },
+    {
+        "service": "dynamodb",
+        "videoId": "wGX4-UjaAos",
+        "title": "AWS re:Invent 2018: [NEW LAUNCH!] Building modern apps using Amazon DynamoDB transactions (DAT374)",
+        "date": "2018-12-01T22:33:34Z",
+        "description": "DynamoDB transactions enables developers to maintain correctness of their data at scale by adding atomicity and isolation guarantees for multi-item conditional ..."
+    },
+    {
+        "service": "dynamodb",
+        "videoId": "qMeSp-ZBDAg",
+        "title": "Announcing Amazon DynamoDB Support for Transactions",
+        "date": "2018-11-30T21:04:54Z",
+        "description": "Amazon DynamoDB now offers native, server-side support for transactions, simplifying the developer experience of making coordinated, all-or-nothing changes ..."
+    },
+    {
+        "service": "dynamodb",
+        "videoId": "NtaTC2Fq7Wo",
+        "title": "AWS re:Invent 2016: Cross-Region Replication with Amazon DynamoDB Streams (DAT201)",
+        "date": "2016-12-01T21:38:18Z",
+        "description": "Under Armour implemented cross-region replication with Amazon DynamoDB Streams. Come listen as they share the keys to success."
+    },
+    {
+        "service": "dynamodb",
+        "videoId": "VMp9uvgaTAc",
+        "title": "Beatpacking Customizes its K-Pop Streaming Music Service Using Amazon DynamoDB",
+        "date": "2015-11-02T16:52:45Z",
+        "description": "Read more about DynamoDB: https://aws.amazon.com/dynamodb/ Beatpacking is a startup providing a free streaming radio service called Beat that focuses on ..."
+    },
+    {
+        "service": "dynamodb",
+        "videoId": "RshPGdKXnxc",
+        "title": "Announcing Amazon DynamoDB Accelerator (DAX)",
+        "date": "2017-04-19T20:39:38Z",
+        "description": "Learn more about DAX at - http://amzn.to/2pPoYnf. Amazon DynamoDB Accelerator (DAX) is a fully-managed, highly-available, in-memory cache for DynamoDB ..."
+    },
+    {
+        "service": "dynamodb",
+        "videoId": "myTvL2SANMA",
+        "title": "Amazon DynamoDB January 2016 Day at the SF Loft |  Montage",
+        "date": "2016-03-21T23:37:38Z",
+        "description": "Learn more: http://aws.amazon.com/dynamodb/getting-started This video was recorded on January 2016 during the DynamoDB Day at the SF Loft."
+    },
+    {
+        "service": "dynamodb",
+        "videoId": "qcuH2ikQkaM",
+        "title": "AWS re:Invent 2017: Amazon.com - Replacing 100s of Oracle DBs with Just One: DynamoDB (ARC406)",
+        "date": "2017-12-02T05:04:32Z",
+        "description": "When customers across the globe place orders on Amazon.com, those orders are processed through many different backend systems, including Herd, ..."
+    },
+    {
+        "service": "dynamodb",
+        "videoId": "mtZvA7ARepM",
+        "title": "Temenos: Building Serverless Banking Software at Scale",
+        "date": "2020-01-18T03:02:37Z",
+        "description": "Temenos is one of the worlds leading banking software providers - in this episode learn how they've used AWS managed services like DynamoDB and Fargate ..."
+    },
+    {
+        "service": "dynamodb",
+        "videoId": "ie4dWGT76LM",
+        "title": "AWS re:Invent 2015 | (DAT204) Building Scalable Applications on AWS NoSQL Services",
+        "date": "2015-10-09T21:54:49Z",
+        "description": "In this session, we discuss the benefits of NoSQL databases and take a tour of the main NoSQL services offered by AWS—Amazon DynamoDB and Amazon ..."
+    },
+    {
+        "service": "dynamodb",
         "videoId": "DIQVJqiSUkE",
         "tags": [
             "re:Invent 2019",
