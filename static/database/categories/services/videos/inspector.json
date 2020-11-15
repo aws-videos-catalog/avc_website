@@ -1,6 +1,13 @@
 [
     {
         "service": "inspector",
+        "videoId": "wTnnnv3pUSM",
+        "title": "Introducing Amazon Inspector",
+        "date": "2016-04-19T16:30:32Z",
+        "description": "Lean more about Amazon Inspector at - http://amzn.to/1Sqm01K Amazon Inspector is an automated security assessment service that helps improve the security ..."
+    },
+    {
+        "service": "inspector",
         "videoId": "nIcwiJ85EKU",
         "tags": [
             "AWS",
