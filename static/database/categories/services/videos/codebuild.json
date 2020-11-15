@@ -1,6 +1,20 @@
 [
     {
         "service": "codebuild",
+        "videoId": "wlsVsEwnBxA",
+        "title": "Enable Amazon VPC Access for AWS CodeBuild",
+        "date": "2020-10-21T19:02:35Z",
+        "description": "In this video, you'll see how to enable Amazon Virtual Private Cloud (Amazon VPC) access for AWS CodeBuild projects. With this solution, you can increase the ..."
+    },
+    {
+        "service": "codebuild",
+        "videoId": "KhWF7oyc1RU",
+        "title": "Checkmarx: Managing CI/CD with AWS Cloud Development Kit (AWS CDK)",
+        "date": "2020-08-03T16:03:13Z",
+        "description": "In this episode, Shay from Checkmarx describes how the company is using AWS Cloud Development Kit and AWS Developer Tools (AWS CodeBuild and more) ..."
+    },
+    {
+        "service": "codebuild",
         "videoId": "iEhKcDaNYrs",
         "tags": [
             "AWS",
