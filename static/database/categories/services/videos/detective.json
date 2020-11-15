@@ -1,6 +1,13 @@
 [
     {
         "service": "detective",
+        "videoId": "fmm4PXhg8BY",
+        "title": "Amazon Detective Overview and Demonstration",
+        "date": "2020-10-14T22:26:06Z",
+        "description": "Analyze and visualize security data to rapidly get to the root cause of potential security issues. This demonstration helps you learn how and when to use this ..."
+    },
+    {
+        "service": "detective",
         "videoId": "VzDVkMwVcI0",
         "tags": [
             "AWS",
