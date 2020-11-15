@@ -190,13 +190,6 @@
     },
     {
         "service": "s3",
-        "videoId": "8VW-N4m6lrM",
-        "title": "Amazon S3 on Outposts: Extending S3 Into Your on-premises Environment",
-        "date": "2020-09-30T22:56:24Z",
-        "description": "Announcing Amazon S3 on Outposts. S3 on Outposts delivers object storage to your on-premises AWS Outposts environment to meet local data processing and ..."
-    },
-    {
-        "service": "s3",
         "videoId": "PHKoAr8QCDE",
         "title": "How do I configure my website to failover to an S3 bucket when a Route 53 health check fails?",
         "date": "2017-05-17T14:38:31Z",
@@ -243,13 +236,6 @@
         "title": "Query Data in Place With Amazon S3 Select",
         "date": "2018-04-11T17:56:23Z",
         "description": "Learn more at - https://amzn.to/2GRmcKS. S3 Select is a new Amazon S3 capability designed to pull out only the data you need from an object, dramatically ..."
-    },
-    {
-        "service": "s3",
-        "videoId": "tP5edaxBEEI",
-        "title": "AWS Storage Gateway Demo: File Storage on Amazon S3 with Access from Multiple Sites",
-        "date": "2017-08-11T17:02:28Z",
-        "description": "Learn more about AWS Storage Gateway for Files at - http://amzn.to/2vSEG7e. This video discusses and demonstrates how the AWS Storage Gateway can be ..."
     },
     {
         "service": "s3",
@@ -327,13 +313,6 @@
         "title": "Deep Dive On Object Storage: Amazon S3 and Amazon Glacier - Part 1: Ben Thurgood",
         "date": "2017-09-11T16:29:33Z",
         "description": "Learn more about AWS at - http://amzn.to/2ybuc22. Learn about the different ways you can accelerate data transfer into S3 and get a close look at new tools to ..."
-    },
-    {
-        "service": "s3",
-        "videoId": "83Wa4RJuMwo",
-        "title": "Easily Transfer Data Into Amazon S3 From Your Existing Applications Using AWS Storage Services",
-        "date": "2020-08-12T22:21:13Z",
-        "description": "In this demo, we will demonstrate how you can easily utilize AWS DataSync, File Gateway, and the AWS Transfer Family with your existing applications and ..."
     },
     {
         "service": "s3",
@@ -593,13 +572,6 @@
         "title": "Amazon S3 - Creating a Bucket",
         "date": "2013-12-10T17:13:00Z",
         "description": "For more information, see the Amazon S3 Console User Guide: http://docs.amazonwebservices.com/AmazonS3/latest/UG/Welcome.html."
-    },
-    {
-        "service": "s3",
-        "videoId": "2_8ZK_64hBc",
-        "title": "AWS re:Invent Launchpad 2017 - Amazon Glacier Select &amp; S3 Select",
-        "date": "2017-12-08T23:34:52Z",
-        "description": "Amazon S3 Select: Most applications have to retrieve the complete set of objects and then filter out just the required data. With Amazon S3 Select, applications ..."
     },
     {
         "service": "s3",
