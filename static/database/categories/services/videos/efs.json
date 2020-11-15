@@ -1,6 +1,118 @@
 [
     {
         "service": "efs",
+        "videoId": "fHM69E1EzvE",
+        "title": "Introduction to Amazon EFS Infrequent Access",
+        "date": "2020-05-07T19:45:50Z",
+        "description": "This short demo shows you how to easily get started with the Amazon Elastic File System Infrequent Access (EFS IA) storage class and optimizing storage cost ..."
+    },
+    {
+        "service": "efs",
+        "videoId": "d4Ee4djegyg",
+        "title": "Amazon Elastic File System (EFS): Easily Deploy and Scale Durable File Systems with AWS",
+        "date": "2015-04-10T21:56:24Z",
+        "description": "Amazon EFS is a new fully-managed service that makes it easy to set up and scale shared file storage in the AWS Cloud. Amazon EFS supports NFSv4, and is ..."
+    },
+    {
+        "service": "efs",
+        "videoId": "u4tIM9TZJV4",
+        "title": "How do I parallelize copying data to and from Amazon EFS to maximize performance?",
+        "date": "2019-08-27T22:14:12Z",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2LWuvXa Gautam, an AWS Cloud Support Engineer, shows you how to parallelize copying ..."
+    },
+    {
+        "service": "efs",
+        "videoId": "xAa5e9ckSQk",
+        "title": "Amazon EFS Now Supports Encryption of Data in Transit",
+        "date": "2018-04-10T17:14:11Z",
+        "description": "Click here to learn more - https://amzn.to/2qoNT2J. Hear how Amazon EFS now allows you to encrypt data in transit between your file system and its clients."
+    },
+    {
+        "service": "efs",
+        "videoId": "wiGONE0QVq0",
+        "title": "Deep Dive on Amazon EFS (126407)",
+        "date": "2017-06-19T20:21:11Z",
+        "description": "In this session we will review Amazon EFS and how it delivers fully managed, petabyte-scale file storage for Amazon EC2 instances. Large scale and consistent ..."
+    },
+    {
+        "service": "efs",
+        "videoId": "4GFAQ2UuQy4",
+        "title": "Amazon EFS: Deploying Scalable, Shared File Systems",
+        "date": "2015-07-10T22:09:40Z",
+        "description": "Learn more: https://aws.amazon.com/efs This video gives an overview of EFS, walks through the creation of a file system, discusses EFS availability and ..."
+    },
+    {
+        "service": "efs",
+        "videoId": "d8F79OPic4g",
+        "title": "Amazon Elastic File System",
+        "date": "2016-07-21T19:17:55Z",
+        "description": "Amazon Elastic File System provides simple, scalable file storage for use with Amazon EC2 instances in the AWS Cloud. Amazon EFS is easy to use and offers ..."
+    },
+    {
+        "service": "efs",
+        "videoId": "bPpKV_6MFUc",
+        "title": "Introducing Amazon Elastic File System",
+        "date": "2015-04-10T16:06:18Z",
+        "description": "Amazon EFS is a new, fully-managed service that makes it easy to set up and scale shared file storage in the AWS Cloud. Amazon EFS supports NFSv4, and is ..."
+    },
+    {
+        "service": "efs",
+        "videoId": "R6gGLIflGbQ",
+        "title": "AWS Summit Series 2017 – New York: Amazon EFS Introduces Support for Encryption of Data at Rest",
+        "date": "2017-09-08T22:25:41Z",
+        "description": "Learn more about Amazon Elastic File System at http://amzn.to/2wLw2aJ. Amazon Elastic File System (EFS) now allows you to encrypt your data at rest using ..."
+    },
+    {
+        "service": "efs",
+        "videoId": "FSu7GWbth8A",
+        "title": "AWS Summit Series 2015 | Tel Aviv: Amazon EFS Demo",
+        "date": "2015-07-31T21:41:57Z",
+        "description": "Watch this Amazon EFS Live Demo by Guy Ernest which was presented at the AWS Summit Tel Aviv 2015. Learn more: https://aws.amazon.com/efs."
+    },
+    {
+        "service": "efs",
+        "videoId": "gWgmKv1-z0c",
+        "title": "AWS Summit Series 2017: London - Deep Dive on Amazon Elastic File System (Amazon EFS)",
+        "date": "2017-10-25T16:09:59Z",
+        "description": "Learn more about AWS at - http://amzn.to/2yVYl4w. In this session we will review Amazon EFS and how it delivers fully managed, petabyte-scale file storage for ..."
+    },
+    {
+        "service": "efs",
+        "videoId": "izyP-PXSgIQ",
+        "title": "Move to Managed File Storage with AWS",
+        "date": "2020-08-20T20:18:21Z",
+        "description": "With your file storage that runs industry standard SMB and NFS protocols, you can leverage AWS file storage services like Amazon FSx and Amazon EFS in the ..."
+    },
+    {
+        "service": "efs",
+        "videoId": "6WjQCKZ-9sM",
+        "title": "BBC Leverages Shared File Storage to Migrate Red Button Application to the AWS Cloud",
+        "date": "2018-08-28T22:21:21Z",
+        "description": "Learn more about Amazon EFS at - https://amzn.to/2P5wo2n. By using Amazon Elastic File System (Amazon EFS) to share files, the BBC was able to build an ..."
+    },
+    {
+        "service": "efs",
+        "videoId": "8-DLfwi9roU",
+        "title": "20,000 Creative Market Shops Turn Passion into Opportunity Using AWS and Amazon EFS",
+        "date": "2017-06-02T17:06:10Z",
+        "description": "By using Amazon Elastic File System (Amazon EFS) as storage for over one million image files and for the staging of shop owners product files, Creative Market ..."
+    },
+    {
+        "service": "efs",
+        "videoId": "aosw-p2Osbw",
+        "title": "LoanLogics Kickstarts their All-in Move to the AWS Cloud with AWS Storage Gateway and Amazon EFS",
+        "date": "2018-11-07T20:54:55Z",
+        "description": "Learn more at about Amazon Elastic File System (EFS) at - https://amzn.to/2qAuOv6. LoanLogics started their journey from their redundant managed service ..."
+    },
+    {
+        "service": "efs",
+        "videoId": "CV5jXn8Dqsw",
+        "title": "AWS Container Day - Persistent File Storage for Amazon EKS with Amazon EFS",
+        "date": "2020-08-31T16:31:22Z",
+        "description": "Containerizing applications that require data persistence or shared storage is often challenging since containers are ephemeral in nature, are scaled in and out ..."
+    },
+    {
+        "service": "efs",
         "videoId": "4FQvJ2q6_oA",
         "tags": [
             "re:Invent 2018",
