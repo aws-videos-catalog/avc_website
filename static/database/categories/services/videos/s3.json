@@ -1,6 +1,576 @@
 [
     {
         "service": "s3",
+        "videoId": "xHK_A_lscoA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "s3"
+        ],
+        "title": "How do I find out which S3 buckets allow access from the Internet?",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2wv4Knu\n\nIoannis, an AWS Cloud Support Engineer, shows you how to find which S3 buckets allow access from the Internet.",
+        "date": "2018-08-27T14:06:57Z",
+        "duration": 277
+    },
+    {
+        "service": "s3",
+        "videoId": "osFmiT_EYtg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "cloud storage",
+            "amazon s3",
+            "consistent storage",
+            "data lake",
+            "big data analytics",
+            "cloud data lake"
+        ],
+        "title": "Introducing Amazon S3 strong consistency, featuring Dropbox",
+        "description": "Amazon S3 now delivers strong read-after-write consistency automatically for all applications for any storage request, without changes to performance or availability, without sacrificing regional isolation for applications, and at no additional cost. Hear the GM of Amazon S3, Kevin Miller, and Ashish Gandhi with Dropbox, discuss the benefits of strong consistency for S3, and what workloads this simplifies to move to AWS. \n\nLearn more at - aws.amazon.com/s3/strong-consistency\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2020-12-01T15:29:35Z",
+        "duration": 276
+    },
+    {
+        "service": "s3",
+        "videoId": "-PVATgxOGuw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon S3",
+            "object storage",
+            "cloud storage",
+            "data durability",
+            "data availability",
+            "data protection",
+            "access management",
+            "security"
+        ],
+        "title": "Amazon S3: Data Encryption Options",
+        "description": "Learn more about Amazon S3 at – https://amzn.to/2TTPi1V \nLearn about the different options available to encrypt your data stored in Amazon S3. You can choose between server-side encryption or use your own encryption tools. With either choice, Amazon S3 can help you protect your data from theft, errors, and failures.",
+        "date": "2019-03-19T16:00:00Z",
+        "duration": 82
+    },
+    {
+        "service": "s3",
+        "videoId": "SurAKmynz7Y",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "amazon s3",
+            "mfa"
+        ],
+        "title": "AWS Knowledge Center Videos: How do I protect my Amazon S3 buckets using MFA?",
+        "description": "Find more details in the AWS Knowledge Center: https://aws.amazon.com/premiumsupport/knowledge-center/enforce-mfa-other-account-access-bucket/\n\nFrank, an AWS Cloud Support Engineer, shows you how to protect your Amazon S3 buckets using MFA.",
+        "date": "2017-11-20T15:20:08Z",
+        "duration": 635
+    },
+    {
+        "service": "s3",
+        "videoId": "g7WG13xG8hA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon S3",
+            "Apache HBase",
+            "Amazon EMR",
+            "Hadoop Distributed File System",
+            "HDFS"
+        ],
+        "title": "Using Amazon S3 for Apache HBase on Amazon EMR",
+        "description": "Please visit the Amazon EMR documentation for more information about Apache HBase on Amazon S3 - http://amzn.to/2gapiYy.\nYou can use Amazon S3 as a data store for Apache HBase on Amazon EMR using the EMR File System. By using Amazon S3 as a data store for Apache HBase, you can separate your cluster’s storage and compute nodes. This enables you to save costs by sizing your cluster for your compute requirements instead of paying to store your entire dataset with 3x replication in the on-cluster Hadoop Distributed File System (HDFS).",
+        "date": "2016-11-21T20:53:39Z",
+        "duration": 60
+    },
+    {
+        "service": "s3",
+        "videoId": "ANid5B_euzk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Lambda",
+            "S3",
+            "serverless",
+            "serverless design pattern",
+            "Step Functions",
+            "serverless workflows"
+        ],
+        "title": "Serverless Workflows using S3 and Lambda",
+        "description": "AWS Step Functions allows to represent complex business logic flows in your application without using custom code. You can trigger Step Functions workflows from S3 events, enabling you to build scalable state machine easily. This design can be used for all sorts of practical business use-cases. For example, saving a signed customer contract from an email into a S3 bucket could start a work-order process.\n\nIn this example, I create a workflow that’s triggered by photos stored in an S3 bucket. If the photo is a picture of a cat, it causes one Lambda function to run. If it’s a dog, it triggers another Lambda function.  It’s a simple example you can easily extend for your own needs. All the code is available in a GitHub repo.\n\nThis series is about the S3-to-Lambda serverless design pattern, and how it can become a flexible core for your serverless applications. To learn more, see the other videos in this series.\n\nLearn more about AWS Lambda at https://go.aws/3bPO7GM\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-04-30T21:21:21Z",
+        "duration": 523
+    },
+    {
+        "service": "s3",
+        "videoId": "t7V2NQNuhm4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "IBM",
+            "IBM Spectrum Protect",
+            "Amazon Simple Storage Service (S3)",
+            "TMA",
+            "This is My Architecture"
+        ],
+        "title": "IBM Spectrum Protect Optimized for Amazon S3",
+        "description": "Check out this case study to learn more http://amzn.to/2j6X2Yg.\nIn this episode of This is My Architecture, Jay Calder, Lead Cloud Developer for IBM Spectrum Protect dives in to how they built an incremental forever architecture on top on Amazon S3.\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS",
+        "date": "2017-01-25T17:47:23Z",
+        "duration": 245
+    },
+    {
+        "service": "s3",
+        "videoId": "7QnhGeWsXFM",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Lambda",
+            "S3",
+            "serverless",
+            "serverless design pattern",
+            "Amazon Transcribe"
+        ],
+        "title": "Serverless Speech-to-Text using S3 and Lambda",
+        "description": "See how you can use bring automated speech-to-text into your applications with minimal code. This solution uses Amazon Transcribe to automatically convert mp4 audio clips into text. This type of serverless application can analyze customer support calls, for example, and create a sentiment analysis using Amazon Comprehend. \n\nThe walkthrough application takes the transcribed text and uses Amazon Comprehend for a sentiment analysis score, which it stores in a DynamoDB table. The whole application can listen to an audio clip and derive a sentiment score to indicate if the conversation is generally positive or negative. All the code is available in a GitHub repo.\n\nThis series is about the S3-to-Lambda serverless design pattern, and how it can become a flexible core for your serverless applications. To learn more, see the other videos in this series.\n\nLearn more about AWS Lambda at https://go.aws/2yTDkgb\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-04-30T21:21:21Z",
+        "duration": 447
+    },
+    {
+        "service": "s3",
+        "videoId": "1KNGC9GgJKk",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Lambda",
+            "S3",
+            "serverless",
+            "serverless design pattern"
+        ],
+        "title": "The S3-to-Lambda Serverless Design Pattern",
+        "description": "The S3-to-Lambda serverless design pattern can become a flexible core for your serverless applications. In this pattern, you configure S3 to notify Lambda when events happen, to run your custom code. This video shows how this works in detail, reviewing the characteristics of both services, and how to use the integration for building highly scalable applications.\n\nThis is the first video in a series showing specific examples of how you can use this pattern to provide useful functionality in your business applications. Learn how you can do things like automated language translation, workflow management, and bringing sentiment analysis to audio recordings. \n\nLearn more about AWS S3-to-Lambda serverless at https://go.aws/3aVywUx\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-04-30T21:21:20Z",
+        "duration": 462
+    },
+    {
+        "service": "s3",
+        "videoId": "U7e97oK_Elg",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon S3 Console",
+            "S3"
+        ],
+        "title": "Introduction to the New Amazon S3 Console",
+        "description": "Learn more about the new Amazon S3 Console at - http://amzn.to/2mhZPAu.\nThe Amazon S3 console is one of the interfaces that you can use to work with Amazon S3. The console enables you to perform Amazon S3 tasks without writing any code. This video highlights key features of the new console such as the overview panel, bucket properties, the object version view and the object details page.",
+        "date": "2017-03-16T10:24:31Z",
+        "duration": 196
+    },
+    {
+        "service": "s3",
+        "videoId": "BEXMznjhICw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "Amazon S3",
+            "data management",
+            "object storage",
+            "cloud storage",
+            "object management"
+        ],
+        "title": "Amazon S3: An Introduction to Data Management Features",
+        "description": "Learn more about Amazon S3 at – https://amzn.to/2Hu7JEy \nWith S3, manage data with object-level granularity, as well as at the account and bucket levels. Append tags to individual objects, which can then be used to identify objects to replicate across regions, restrict access to, transfer to lower-cost storage classes, among other operations. S3 also supports S3 Batch Operations – the only storage feature that allows you to take action against thousands, millions, or even billions of objects across your S3 resources with a single API request or a few clicks in the S3 Management Console.",
+        "date": "2019-03-19T16:00:00Z",
+        "duration": 80
+    },
+    {
+        "service": "s3",
+        "videoId": "c9IExt4Kdj4",
+        "tags": [
+            "Amazon Web Services",
+            "AWS",
+            "Oracle",
+            "Recovery Access Manger",
+            "RMAN",
+            "Amazon S3",
+            "S3",
+            "Simple Storage Service",
+            "databases",
+            "backup",
+            "archive",
+            "Getting Started"
+        ],
+        "title": "Oracle RMAN and Amazon S3 - Backing up the Database",
+        "description": " ",
+        "date": "2012-10-01T18:09:12Z",
+        "duration": 123
+    },
+    {
+        "service": "s3",
+        "videoId": "55f-4CMxoro",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "s3",
+            "S3 lifecycle management",
+            "Amazon S3 Lifecycle Policies",
+            "AWSLaunch"
+        ],
+        "title": "Introducing New Amazon S3 Lifecycle Policies",
+        "description": "Learn more about Amazon S3 Lifecycle Policies at: http://amzn.to/1SOgqWY\nWe’re excited to announce two new Amazon S3 lifecycle management policies to help you reduce cost and optimize performance:\n1. Incomplete multipart upload expiration policy\n2. Expired object delete markers expiration policy",
+        "date": "2016-04-05T23:29:28Z",
+        "duration": 85
+    },
+    {
+        "service": "s3",
+        "videoId": "olBwbz0PB40",
+        "tags": [
+            "Amazon",
+            "S3",
+            "howto",
+            "aws",
+            "Amazon Web Services",
+            "Simple Storage Service"
+        ],
+        "title": "Amazon S3 - Add Object Expiration Rule",
+        "description": "For more information, see the Amazon S3 Console User Guide:\n\nhttp://docs.amazonwebservices.com/AmazonS3/latest/UG/Welcome.html",
+        "date": "2013-12-10T17:17:59Z",
+        "duration": 52
+    },
+    {
+        "service": "s3",
+        "videoId": "zk73xz3teWA",
+        "tags": [
+            "Amazon",
+            "S3",
+            "howto",
+            "aws",
+            "Amazon Web Services",
+            "Simple Storage Service"
+        ],
+        "title": "Amazon S3 - Managing Bucket Logging",
+        "description": "For more information, see the Amazon S3 Console User Guide:\n\nhttp://docs.amazonwebservices.com/AmazonS3/latest/UG/Welcome.html",
+        "date": "2013-12-10T17:14:57Z",
+        "duration": 63
+    },
+    {
+        "service": "s3",
+        "videoId": "t9mQhhGDXs4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "aws",
+            "amazon web services",
+            "appflow",
+            "s3",
+            "servicenow",
+            "crm",
+            "integration",
+            "connector",
+            "automate",
+            "analytics"
+        ],
+        "title": "How to Transfer Data from ServiceNow to Amazon S3 using Amazon AppFlow",
+        "description": "Amazon AppFlow is an integration service that helps you securely transfer data between SaaS applications (like Salesforce, Marketo, ServiceNow, Slack) and AWS services (like Amazon S3, Amazon Redshift) in just a few clicks. In this video - learn how to set up a basic flow of data from ServiceNow to Amazon S3. \n\nWith AppFlow, you can run data flows at nearly any scale at the frequency you choose - on a schedule, in response to a business event, or on demand. You can configure data transformation capabilities like filtering and validation to generate rich, ready-to-use data as part of the flow itself, without additional steps. AppFlow automatically encrypts data in motion, and allows users to restrict data from flowing over the public Internet for SaaS applications that are integrated with AWS PrivateLink, reducing exposure to security threats. \n\nLearn more about Amazon AppFlow at - https://amzn.to/3fjkiRl\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-11-20T19:11:20Z",
+        "duration": 427
+    },
+    {
+        "service": "s3",
+        "videoId": "kaSKYWOyJak",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "amazon S3",
+            "SimilarWeb",
+            "storage optimization"
+        ],
+        "title": "SimilarWeb Saves 20% in Storage Costs with Amazon S3 Intelligent-Tiering",
+        "description": "Learn how SimilarWeb democratizes data access across the organization and saves approximately 20% in storage costs using Amazon S3 Intelligent-Tiering.\n\nLearn more about Amazon S3 at https://go.aws/2TrOujU\n\nSubscribe:\nMore AWS videos http://bit.ly/2O3zS75\nMore AWS events videos http://bit.ly/316g9t4 \n\n#AWS #AWSCustomer",
+        "date": "2020-03-05T23:02:43Z",
+        "duration": 106
+    },
+    {
+        "service": "s3",
+        "videoId": "d97ipRYzcM4",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "Getting Started on AWS",
+            "Setting up an S3 Bucket",
+            "S3",
+            "Amazon S3",
+            "Simple Storage Service",
+            "S3 Bucket"
+        ],
+        "title": "Storing Media and Files with Amazon S3",
+        "description": "Learn how to begin storing media and files with Amazon Simple Storage Service (Amazon S3) in just two minutes.  Amazon S3 provides a simple web services interface that can be used to store and retrieve any amount of data, at any time, from anywhere on the web.",
+        "date": "2013-11-21T19:46:25Z",
+        "duration": 155
+    },
+    {
+        "service": "s3",
+        "videoId": "Y0nrScX--Fs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "aws",
+            "amazon web services",
+            "appflow",
+            "s3",
+            "google analytics",
+            "integration",
+            "connector"
+        ],
+        "title": "How to Transfer Data from Google Analytics to Amazon S3 using Amazon AppFlow",
+        "description": "Amazon AppFlow is a integration service that enables you to securely transfer data between SaaS applications like Salesforce, Marketo, Slack, and ServiceNow, and AWS services like Amazon S3 and Amazon Redshift, in just a few clicks. \n\nLearn more about Amazon AppFlow at - https://amzn.to/3bVOujV\n\nIn this video - learn how to get started with AppFlow by setting up a basic flow to send data from Google Analytics to Amazon S3. With AppFlow, you can run data flows at nearly any scale at the frequency you choose - on a schedule, in response to a business event, or on demand. You can configure data transformation capabilities like filtering and validation to generate rich, ready-to-use data as part of the flow itself, without additional steps. AppFlow automatically encrypts data in motion, and allows users to restrict data from flowing over the public Internet for SaaS applications that are integrated with AWS PrivateLink, reducing exposure to security threats. \n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-09-18T17:40:17Z",
+        "duration": 476
+    },
+    {
+        "service": "s3",
+        "videoId": "YOhFXGfqiUw",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos"
+        ],
+        "title": "How do I transfer ownership of Amazon S3 objects to a different AWS account?",
+        "description": "Find more details in the AWS Knowledge Center:  https://aws.amazon.com/premiumsupport/knowledge-center/account-transfer-s3\n\nSatya, an AWS Cloud Support Engineer, shows you how to transfer ownership of Amazon S3 objects to a different AWS account.",
+        "date": "2018-06-25T14:03:16Z",
+        "duration": 316
+    },
+    {
+        "service": "s3",
+        "videoId": "TNmZEvwFiOA",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "Amazon S3",
+            "cloud storage",
+            "storage metrics",
+            "cloud analytics"
+        ],
+        "title": "Amazon S3 Storage Lens: Demo",
+        "description": "S3 Storage Lens is the first cloud storage analytics solution to provide a single view of object storage usage and activity across tens to hundreds of accounts in an organization, with drill-downs to generate insights at the account, bucket, or even prefix level. Watch a demo of this S3 feature to see how you can use these new storage usage, and activity metrics to gain visibility into your object storage.\n\nLearn more at - https://amzn.to/35D7W3g\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AmazonS3 #CloudStorage #StorageMetrics #CloudAnalytics",
+        "date": "2020-11-19T20:46:43Z",
+        "duration": 167
+    },
+    {
+        "service": "s3",
+        "videoId": "0Vngy4Ilh7s",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "cloud storage",
+            "object storage",
+            "Amazon S3"
+        ],
+        "title": "What's New with AWS: Amazon S3 Storage Lens",
+        "description": "In this new episode, join Jeff Barr to learn what's new with a new Amazon S3 feature, Storage Lens. For the slate of recent launches, check out our \"What's New\" page at - https://amzn.to/3jvXr5J.\n\nLearn more about Amazon S3 Storage Lens at - https://amzn.to/3fcACmT\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #CloudStorage #ObjectStorage #AmazonS3",
+        "date": "2020-11-19T20:57:11Z",
+        "duration": 72
+    },
+    {
+        "service": "s3",
+        "videoId": "sdCntQUPYzE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud"
+        ],
+        "title": "AWS Announces New Amazon S3 Features",
+        "description": "AWS announces five new Amazon S3 features that make it even easier for customers to use the Amazon S3 Glacier storage class for archiving and backup through the S3 APIs, and implement and enforce data retention policies by supporting per-object retention dates.  Get started | http://aws.amazon.com/s3 Catch up on the excitement of re:Invent 2018 with the AWS launchpad featuring launch announcements, demos of newly launched technology, interviews with expert guests and live Q&A. AWS re:Invent is a tech education conference for the global cloud computing community hosted by Amazon Web Services. See all recordings of the AWS Launchpad at re:Invent here: https://www.youtube.com/playlist?list=PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa and learn more about AWS live streaming here: https://aws.amazon.com/twitch.",
+        "date": "2018-11-30T21:05:13Z",
+        "duration": 1098
+    },
+    {
+        "service": "s3",
+        "videoId": "-vZNQ_STipU",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Video"
+        ],
+        "title": "How can I retrieve an Amazon S3 object that was deleted in a versioning enabled bucket?",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/s3-undelete-configuration/\nSayan shows you how to retrieve an Amazon S3 object that was deleted in a versioning enabled bucket.",
+        "date": "2020-04-01T16:53:16Z",
+        "duration": 385
+    },
+    {
+        "service": "s3",
+        "videoId": "E2vy1yhJSHE",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "cloud storage",
+            "storage metrics",
+            "Amazon S3",
+            "object storage"
+        ],
+        "title": "Amazon S3 Storage Lens: Organization-wide visibility into object storage usage and activity trends",
+        "description": "S3 Storage Lens delivers organization-wide visibility into your object storage usage and activity trends, and makes actionable recommendations to improve cost-efficiency and apply data protection best practices. S3 Storage Lens is the first cloud storage analytics solution to provide a single view of object storage usage and activity across tens to hundreds of accounts in an organization, with drill-downs to generate insights at the account, bucket, or even prefix level.\n\nLearn more about Amazon S3 Storage Lens - https://amzn.to/3lEgZGG\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #CloudStorage #StorageMetrics #AmazonS3 #ObjectStorage",
+        "date": "2020-11-19T20:55:22Z",
+        "duration": 101
+    },
+    {
+        "service": "s3",
+        "videoId": "GUtcIttxH_U",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
+        "title": "How do I allow Amazon QuickSight access to my S3 bucket when I have a deny policy?",
+        "description": "Skip directly to the demo: 0:27\nFor more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/quicksight-deny-policy-allow-bucket/\nMihir shows you how to allow Amazon QuickSight access to your S3 bucket when you have a deny policy.",
+        "date": "2020-11-25T17:56:44Z",
+        "duration": 266
+    },
+    {
+        "service": "s3",
+        "videoId": "uoLsrKZha0E",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "cloud computing",
+            "AWS Cloud",
+            "aws knowledge center videos",
+            "athena",
+            "s3 logs"
+        ],
+        "title": "AWS Knowledge Center Videos: How do I analyze my S3 logs using Athena?",
+        "description": "Find more details in the AWS Knowledge Center: https://amzn.to/2yVRLNY\nMatthew, an AWS Cloud Support Engineer, shows you how to analyze S3 logs using Athena.",
+        "date": "2018-11-07T14:31:19Z",
+        "duration": 508
+    },
+    {
+        "service": "s3",
+        "videoId": "5ipJtR7uKUs",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Identity",
+            "AWS IAM",
+            "Identity and Access Management",
+            "AWS account",
+            "AWS Control Tower"
+        ],
+        "title": "Demo: Using AWS IAM Access Analyzer with Amazon S3 Buckets",
+        "description": "This short video shows how you can use AWS IAM Access Analyzer to quickly identify your Amazon S3 buckets shared with external entities, such as other AWS accounts, IAM users or roles, federated users, IP addresses or VPCs. Learn how you can eliminate security risks associated with unintentionally granted external access.\n\nLearn more about AWS IAM Access Analyzer at - https://amzn.to/3jWQqvc\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-09-09T23:00:05Z",
+        "duration": 487
+    },
+    {
+        "service": "s3",
+        "videoId": "4dEsIzCVmjo",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "AWS Knowledge Center Videos"
+        ],
+        "title": "How can I troubleshoot Amazon S3 endpoint connection test failures when using AWS DMS?",
+        "description": "For more details see the Knowledge Center article with this video: https://aws.amazon.com/premiumsupport/knowledge-center/dms-connection-test-fail-s3/ .\n\nSushant shows you how to troubleshoot Amazon S3 endpoint connection test failures when using AWS DMS.",
+        "date": "2020-08-18T17:10:15Z",
+        "duration": 199
+    },
+    {
+        "service": "s3",
+        "videoId": "XQO98akt2jI",
+        "tags": [
+            "AWS",
+            "Amazon Web Services",
+            "Cloud",
+            "AWS Cloud",
+            "Cloud Computing",
+            "aws",
+            "amazon web services",
+            "appflow",
+            "s3",
+            "slack",
+            "integration",
+            "connector",
+            "automate"
+        ],
+        "title": "How to Transfer Data from Slack to Amazon S3 Using Amazon AppFlow",
+        "description": "Amazon AppFlow is an integration service that helps you securely transfer data between SaaS applications (like Salesforce, Marketo, Slack) and AWS services (like Amazon S3, Amazon Redshift) in just a few clicks. Learn more about Amazon AppFlow at https://go.aws/2xOyu3m In this video - learn how to get started with AppFlow by setting up a basic flow to send data from Slack to Amazon S3. With AppFlow, you can run data flows at nearly any scale at the frequency you choose - on a schedule, in response to a business event, or on demand. \n\nYou can configure data transformation capabilities like filtering and validation to generate rich, ready-to-use data as part of the flow itself, without additional steps. AppFlow automatically encrypts data in motion, and allows users to restrict data from flowing over the public Internet for SaaS applications that are integrated with AWS PrivateLink, reducing exposure to security threats.\n\nLearn more about Amazon AppFlow at - https://amzn.to/30hTZoj\n\nSubscribe: \nMore AWS videos http://bit.ly/2O3zS75 \nMore AWS events videos http://bit.ly/316g9t4\n\n#AWS #AWSDemo",
+        "date": "2020-09-30T17:44:21Z",
+        "duration": 547
+    },
+    {
+        "service": "s3",
         "videoId": "e6w9LwZJFIA",
         "tags": [
             "AWS",
